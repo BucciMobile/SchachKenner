@@ -2,6 +2,20 @@
 
 Thanks for helping make this the best copyright-safe chess resource list on GitHub! ♞
 
+## ⚠️ Uploads only via pull request — no direct file uploads
+
+To keep the repo copyright-safe, **files are never accepted by direct upload**:
+
+- Only the repo owner has write access (verified: no other collaborators), so external
+  contributors can only open **forks + pull requests** — GitHub has no "upload to someone
+  else's repo" flow for non-collaborators.
+- The `main` branch is **protected**: PRs require 1 approving review, force-pushes and
+  branch deletion are disabled, and the `link-check` workflow runs on every PR.
+- Every PR must tick the checklist in `.github/PULL_REQUEST_TEMPLATE.md` (license
+  evidence in `licenses/`, no copyrighted uploads, link check, AI disclosure).
+- Issue attachments are **not** hosted content — they are ignored for the repo's data
+  policy and can be removed any time (see `REMOVAL_REQUESTS.md`).
+
 ## The rules (please read before submitting)
 
 1. **Link-first.** Add a link to the original source — do not upload another site's

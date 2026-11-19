@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: '0 6 * * 1'   # every Monday 06:00 UTC
   workflow_dispatch:
+  pull_request:
+    branches: [main]      # every PR must pass the link check
 
 permissions:
   contents: read
