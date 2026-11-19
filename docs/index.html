@@ -98,6 +98,7 @@
 const SAMPLE_URL = "https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn";
 const $ = id => document.getElementById(id);
 let games = [];
+let lastOut = [];
 
 function esc(s){ return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
 
@@ -172,8 +173,9 @@ function apply(){
     return true;
   });
   out.sort(SORTERS[f.sort] || SORTERS["date-desc"]);
+  lastOut = out;
   $("count").textContent = out.length.toLocaleString() + " of " + games.length.toLocaleString() + " games";
-  const html = out.map(g => {
+  const html = out.map((g, i) => {
     const rc = g.result === "1-0" ? "w" : g.result === "0-1" ? "b" : "d";
     return '<details class="game"><summary>' +
       '<span class="res ' + rc + '">' + esc(g.result) + '</span>' +
@@ -181,7 +183,7 @@ function apply(){
       '<strong>' + esc(g.black) + '</strong> <span class="meta elo">(' + (g.tags.BlackElo || "?") + ')</span>' +
       '<span class="meta">' + esc(g.opening) + " · " + esc(g.eco) + " · " + esc(g.tc) + " · avg " + (g.avgElo ?? "?") + " · " + esc(g.date) + '</span>' +
       '</summary><pre class="pgn">' + esc(g.pgn) + '</pre>' +
-      '<button class="copy" type="button" data-pgn="' + esc(g.pgn).replace(/"/g, "&quot;") + '">📋 copy PGN</button></details>';
+      '<button class="copy" type="button" data-idx="' + i + '">📋 copy PGN</button></details>';
   }).join("");
   $("results").innerHTML = html || '<p id="status">No games match the current filters.</p>';
 }
@@ -225,7 +227,8 @@ $("file").addEventListener("change", ev => {
 });
 $("results").addEventListener("click", ev => {
   const btn = ev.target.closest("button.copy"); if (!btn) return;
-  const txt = btn.getAttribute("data-pgn").replace(/&quot;/g, '"').replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&#39;/g, "'");
+  const g = lastOut[+btn.getAttribute("data-idx")]; if (!g) return;
+  const txt = g.pgn;
   (navigator.clipboard ? navigator.clipboard.writeText(txt) : Promise.reject()).then(
     () => btn.textContent = "✅ copied",
     () => { const ta = document.createElement("textarea"); ta.value = txt; document.body.appendChild(ta); ta.select(); document.execCommand("copy"); ta.remove(); btn.textContent = "✅ copied"; }
