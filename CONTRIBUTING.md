@@ -6,9 +6,11 @@ Thanks for helping make this the best copyright-safe chess resource list on GitH
 
 1. **Link-first.** Add a link to the original source — do not upload another site's
    files (PGN collections, books, images, databases) into this repo.
-2. **Files in `data/` only with a permissive license** (CC0, public domain, MIT, BSD,
-   Apache-2.0, GPL for code, …) **and** an entry in `THIRD_PARTY_NOTICES.md` with
-   source URL and license. If you are unsure about the license: link only.
+2. **Files in `data/` only with an explicit redistribution permission** (e.g. CC0)
+   **and** an entry in `THIRD_PARTY_NOTICES.md` (source URL, license, SHA-256) **and**
+   a permission-evidence file in `licenses/` containing the verbatim license quote,
+   retrieval date (UTC), and the raw license page in `licenses/raw/`. If you are unsure
+   about the license: link only.
 3. **Never upload:** copyrighted books/PDFs, annotated games from commercial databases
    (ChessBase Mega Database etc.), bulk dumps from chessgames.com / chess.com,
    paid puzzle sets, or piece graphics without a clear license.

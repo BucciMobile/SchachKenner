@@ -40,8 +40,11 @@ game databases, PGN downloads, engines, analysis software, puzzles, books, piece
    (e.g. <https://chessentials.com/chess-pgn-downloads/>). This is what keeps the repo
    free of copyright problems: we never re-host another site's collection.
 2. **Host only what is explicitly redistributable.** If a file is placed in `data/`,
-   its license must be permissive (CC0, public domain, MIT/BSD/Apache, GPL for code, …)
-   and it must be listed with source and license in `THIRD_PARTY_NOTICES.md`.
+   the source must *explicitly* allow redistribution (e.g. CC0). The file must be listed
+   in `THIRD_PARTY_NOTICES.md`, and the permission must be documented with evidence
+   (verbatim quote + raw page copy + SHA-256 + retrieval date) in
+   [`licenses/`](licenses/). See which sources qualify:
+   [licenses/README.md](licenses/README.md).
 3. **Chess games are facts — but collections can be protected.** Raw move lists are
    generally not copyrightable (US), yet in the EU a *curated database* can enjoy a
    *sui generis* database right (see
@@ -52,9 +55,20 @@ game databases, PGN downloads, engines, analysis software, puzzles, books, piece
 
 ---
 
+## ⬇ Downloads hosted in this repo (with explicit permission)
+
+Only sources that explicitly allow redistribution are hosted here — proof in
+[`licenses/`](licenses/):
+
+- ♟ [`data/pgn/lichess/`](data/pgn/lichess/) — **CC0**: 2,000-game PGN sample + 1,000-puzzle
+  CSV sample from the official [lichess exports](https://database.lichess.org/)
+  ("download, modify and redistribute … without asking for permission")
+- Everything else stays **link-only** at its source (TWIC, ChessEssentials, chess.com, …) —
+  see [licenses/link-only-sources.md](licenses/link-only-sources.md) for why.
+
 ## Highlights
 
-- ♟ **Game databases:** [lichess open database](https://database.lichess.org/) (millions of games, free monthly dumps),
+- ♟ **Game databases:** [lichess open database](https://database.lichess.org/) (millions of games, free monthly CC0 dumps),
   [TWIC](https://www.theweekinchess.com/twic), [ChessEssentials PGNs](https://chessentials.com/chess-pgn-downloads/),
   [Lumbras Gigabase](https://lumbrasgigabase.com/en/), [FICS archive](https://www.ficsgames.org/)
 - 🧩 **Puzzles:** [lichess training](https://lichess.org/training) + a 6M+ puzzle dump on

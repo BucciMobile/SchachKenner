@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FICS Games Database - Download</title>
+  <link rel="stylesheet" href="/css/site.css">
+</head>
+<body>
+  <header id="navi_top">
+    <div class="firstline">FICS Games Database - Download</div>
+    <nav class="secondline" aria-label="Main">
+      <ul>
+        <li><a href="/">Search</a></li>
+        <li><a href="/openings">Openings</a></li>
+        <li><a href="/tournaments">Tournaments</a></li>
+        <li><a href="/download" class="cur" aria-current="page">Download</a></li>
+        <li><a href="/stats">Statistics</a></li>
+        <li><a href="/help">Help</a></li>
+        <li><a href="/about">About</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main><div class="search-page download-page">
+<form class="compact" action="/download/games" method="get">
+<fieldset><legend>Download games</legend>
+<div class="rows">
+  <span class="lbl">Game type</span>
+  <div class="types">
+        <label><input type="radio" name="gametype" value="1"
+      > Chess (all time controls, all ratings)</label>
+
+        <label><input type="radio" name="gametype" value="2"
+      > Chess (all time controls, average rating &gt; 2000)</label>
+
+        <label><input type="radio" name="gametype" value="3"
+      > Standard (all ratings)</label>
+
+        <label><input type="radio" name="gametype" value="4"
+      checked> Standard (average rating &gt; 2000)</label>
+
+        <label><input type="radio" name="gametype" value="5"
+      > Blitz (all ratings)</label>
+
+        <label><input type="radio" name="gametype" value="6"
+      > Blitz (average rating &gt; 2000)</label>
+
+        <label><input type="radio" name="gametype" value="7"
+      > Lightning (all ratings)</label>
+
+        <label><input type="radio" name="gametype" value="8"
+      > Lightning (average rating &gt; 2000)</label>
+
+        <label><input type="radio" name="gametype" value="9"
+      > Variant games</label>
+
+        <label><input type="radio" name="gametype" value="12"
+      > Chess (computer vs. computer, all time controls and ratings)</label>
+
+        <label><input type="radio" name="gametype" value="10"
+      > Games with titled players</label>
+
+        <label><input type="radio" name="gametype" value="13"
+      > Chess (computer vs. human, all time controls and ratings)</label>
+
+    <span class="nowrap">    <label><input type="radio" name="gametype" value="11"
+      > Games of player:</label>
+
+      <input name="player" maxlength="17" size="14" autocomplete="off"
+        aria-label="Player" value=""></span>
+  </div>
+
+  <label for="year">Period</label>
+  <div><select id="year" name="year" aria-label="Year">
+      <option value="2026" selected>2026</option>
+      <option value="2025" >2025</option>
+      <option value="2024" >2024</option>
+      <option value="2023" >2023</option>
+      <option value="2022" >2022</option>
+      <option value="2021" >2021</option>
+      <option value="2020" >2020</option>
+      <option value="2019" >2019</option>
+      <option value="2018" >2018</option>
+      <option value="2017" >2017</option>
+      <option value="2016" >2016</option>
+      <option value="2015" >2015</option>
+      <option value="2014" >2014</option>
+      <option value="2013" >2013</option>
+      <option value="2012" >2012</option>
+      <option value="2011" >2011</option>
+      <option value="2010" >2010</option>
+      <option value="2009" >2009</option>
+      <option value="2008" >2008</option>
+      <option value="2007" >2007</option>
+      <option value="2006" >2006</option>
+      <option value="2005" >2005</option>
+      <option value="2004" >2004</option>
+      <option value="2003" >2003</option>
+      <option value="2002" >2002</option>
+      <option value="2001" >2001</option>
+      <option value="2000" >2000</option>
+      <option value="1999" >1999</option>
+    </select>
+    <select name="month" aria-label="Month">
+      <option value="0" >whole year</option>
+      <option value="1" >January</option>
+      <option value="2" >February</option>
+      <option value="3" >March</option>
+      <option value="4" >April</option>
+      <option value="5" >May</option>
+      <option value="6" >June</option>
+      <option value="7" >July</option>
+      <option value="8" >August</option>
+      <option value="9" >September</option>
+      <option value="10" selected>October</option>
+      <option value="11" >November</option>
+      <option value="12" >December</option>
+    </select></div>
+
+  <span class="lbl">Move times</span>
+  <div>
+    <label><input type="radio" name="movetimes" value="0"
+      checked> do not include</label>
+    <label><input type="radio" name="movetimes" value="1"
+      > include move times</label>
+  </div>
+
+  <span></span>
+  <div class="buttons"><button type="submit">Download</button>
+    <a href="/download">Reset</a></div>
+</div>
+</fieldset>
+</form>
+<ul class="note">
+  <li>The database has the games played on FICS since November 1999.</li>
+  <li>Collections are bzip2 archives (<code>.pgn.bz2</code>); a player's
+    games come as a zip file. Both can be unpacked with
+    <a href="https://www.7-zip.org/">7-Zip</a>.</li>
+  <li>Collections are available for finished months and years; a
+    player's games and titled players' games for whole years.</li>
+  <li>Move times are available for games played since October 2008, as
+    are variant games (wild, crazyhouse etc.).</li>
+  <li>RDs of both players are in the PGN headers since August 16, 2015.</li>
+  <li>Up to 5,000 games of any search can be downloaded from the search
+    results.</li>
+  <li>The database contains a few games from before November 1999, you
+    can download them <a href="/dl/ficsgamesdb_pre199911.pgn">here</a>.</li>
+</ul>
+</div>
+</main>
+</body>
+</html>
