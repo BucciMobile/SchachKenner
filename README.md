@@ -77,6 +77,14 @@ evidence required for hosted files, no copyrighted uploads). Code of conduct:
 
 ## 🙏 Shoutout — thanks to all the sources we use and link to
 
+> 💡 **Inspiration:** this repo was inspired by the German chess podcast
+> [**ELOjäger – Der Schachpodcast**](https://open.spotify.com/show/0Vb66GFKHFMbpTUvuQYyZG)
+> by David & Sebastian — still active (latest: Folge 40, Nov 2026). Listen on
+> [Spotify](https://open.spotify.com/show/0Vb66GFKHFMbpTUvuQYyZG) ·
+> [Apple Podcasts](https://podcasts.apple.com/us/podcast/eloj%C3%A4ger-der-schachpodcast/id1783522132) ·
+> [Podimo](https://podimo.com/en/shows/elojager-der-schachpodcast) ·
+> [RSS](https://anchor.fm/s/fd2d9df0/podcast/rss) 🎧
+
 This project stands on the shoulders of these sites, projects and people:
 
 - **Game data:** [lichess open database](https://database.lichess.org/) (CC0) ·
@@ -119,6 +127,10 @@ This project stands on the shoulders of these sites, projects and people:
   [GothamChess](https://www.youtube.com/@GothamChess) ·
   [Hanging Pawns](https://www.youtube.com/@HangingPawns) ·
   [chessbrah](https://www.youtube.com/@ChessBrah)
+- **🎙 Podcasts (DE):** [ELOjäger – Der Schachpodcast](https://open.spotify.com/show/0Vb66GFKHFMbpTUvuQYyZG)
+  (David & Sebastian — Taktik, Eröffnungen, Turniererlebnisse; aktiv, zuletzt 11/2026) ·
+  [Apple Podcasts](https://podcasts.apple.com/us/podcast/eloj%C3%A4ger-der-schachpodcast/id1783522132) ·
+  [RSS](https://anchor.fm/s/fd2d9df0/podcast/rss)
 - **Graphics:** [Cburnett SVG pieces (Wikimedia Commons)](https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces) ·
   [lichess piece sets](https://github.com/lichess-org/lila/tree/master/public/piece) ·
   [Printables](https://www.printables.com/search?q=chess%20pieces) · [Thingiverse](https://www.thingiverse.com/search?q=chess+pieces) ·

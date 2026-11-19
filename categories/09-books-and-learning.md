@@ -16,3 +16,4 @@
 | YouTube — GothamChess | Popular instructive videos | Link only | https://www.youtube.com/@GothamChess |
 | YouTube — Hanging Pawns | Openings & concepts, beginner friendly | Link only | https://www.youtube.com/@HangingPawns |
 | YouTube — chessbrah | Blitz content & building habits | Link only | https://www.youtube.com/@ChessBrah |
+| 🎙 ELOjäger – Der Schachpodcast (DE) | German-language podcast by David & Sebastian: tactics, openings, tournament stories — **active** (latest Folge 40, 2026-11-11); 💡 inspired this repo | Link only | [Spotify](https://open.spotify.com/show/0Vb66GFKHFMbpTUvuQYyZG) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/eloj%C3%A4ger-der-schachpodcast/id1783522132) · [Podimo](https://podimo.com/en/shows/elojager-der-schachpodcast) · [RSS](https://anchor.fm/s/fd2d9df0/podcast/rss) |
