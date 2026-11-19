@@ -1,0 +1,6 @@
+# Locally fetched downloads from original sources — never commit these
+data/downloads/
+
+# Compressed database dumps fetched locally
+*.zst
+*.zip
