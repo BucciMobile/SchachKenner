@@ -15,6 +15,7 @@ proof in [`licenses/`](licenses/).
 
 | Category | What you'll find | Browse |
 |---|---|---|
+| 🌱 Where to begin & paths by Elo | Step-by-step start + apps/tools per rating level (0–400 … 2000+) | [13-where-to-begin-learning-paths.md](categories/13-where-to-begin-learning-paths.md) |
 | 🕹 Play & learn online | Free servers, lessons, studies | [01-play-and-learn-online.md](categories/01-play-and-learn-online.md) |
 | ♟ Game databases & PGN downloads | Millions of games as PGN/SCID (lichess CC0, TWIC, Lumbras, FICS, …) | [02-game-databases-and-pgn.md](categories/02-game-databases-and-pgn.md) |
 | 📖 Openings & repertoires | Opening explorers, ECO datasets, repertoire tools, opening books | [03-openings-and-repertoires.md](categories/03-openings-and-repertoires.md) |
@@ -78,7 +79,8 @@ This project stands on the shoulders of these sites, projects and people:
   [365Chess](https://www.365chess.com/) · [chessgames.com](https://www.chessgames.com/) ·
   [Chess.com](https://www.chess.com/)
 - **Play & training:** [lichess.org](https://lichess.org/) · [FICS](https://www.freechess.org/) ·
-  [ICC](https://www.chessclub.com/) · [PlayChess](https://www.playchess.com/)
+  [ICC](https://www.chessclub.com/) · [PlayChess](https://www.playchess.com/) ·
+  [Play Magnus app](https://www.playmagnus.com/) · [Chessable](https://www.chessable.com/)
 - **Engines:** [Stockfish](https://github.com/official-stockfish/Stockfish) ·
   [lc0](https://github.com/LeelaChessZero/lc0) ·
   [Fairy-Stockfish](https://fairy-stockfish.github.io/) ·
