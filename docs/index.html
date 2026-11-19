@@ -21,7 +21,13 @@
   header h1{font-size:1.15rem;margin:0}
   header a{color:var(--accent);text-decoration:none;font-size:.9rem}
   main{max-width:1100px;margin:0 auto;padding:1rem 1.5rem 4rem}
-  #filters{position:sticky;top:0;z-index:5;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.9rem 1rem;margin:1rem 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:.6rem .9rem;box-shadow:0 1px 4px rgba(0,0,0,.06)}
+  #filtersWrap{position:sticky;top:0;z-index:5;background:var(--card);border:1px solid var(--line);border-radius:10px;margin:1rem 0;box-shadow:0 1px 4px rgba(0,0,0,.06)}
+  #filtersWrap>summary{cursor:pointer;list-style:none;padding:.7rem 1rem;font-weight:600;display:flex;justify-content:space-between;align-items:center;gap:.5rem}
+  #filtersWrap>summary::-webkit-details-marker{display:none}
+  #filtersWrap>summary::after{content:"▾";color:var(--muted)}
+  #filtersWrap[open]>summary::after{content:"▴"}
+  #activeCount{font-weight:400;color:var(--accent);font-size:.8rem}
+  #filters{padding:0 1rem .9rem;display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:.6rem .9rem}
   #filters label{display:block;font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-bottom:.2rem}
   #filters input,#filters select{width:100%;padding:.35rem .45rem;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);font-size:.9rem}
   .range-row{display:flex;align-items:center;gap:.5rem}
@@ -43,6 +49,22 @@
   .elo{font-variant-numeric:tabular-nums}
   footer{color:var(--muted);font-size:.8rem;text-align:center;margin-top:2rem}
   footer a{color:var(--accent)}
+  /* ---- mobile ---- */
+  @media (max-width:640px){
+    body{font-size:16px}
+    main{padding:.5rem .7rem 3rem}
+    header{padding:.7rem .8rem;gap:.5rem}
+    header h1{font-size:1rem}
+    header img{width:28px;height:28px}
+    #filters{grid-template-columns:1fr 1fr}
+    #filters>div.wide{grid-column:1/-1}
+    #filters input,#filters select{font-size:16px;padding:.5rem}   /* 16px prevents iOS auto-zoom */
+    input[type=range]{height:30px}
+    button{padding:.55rem .85rem;touch-action:manipulation}
+    details.game summary{font-size:.88rem;gap:.3rem .55rem}
+    pre.pgn{font-size:.72rem}
+    #bar{font-size:.9rem}
+  }
 </style>
 </head>
 <body>
@@ -57,6 +79,8 @@
   (<a href="https://github.com/BucciMobile/SchachKenner/tree/main/data/pgn/lichess">data/pgn/lichess/</a>)
   directly in your browser — no server, no upload. You can also load your own PGN file below.</p>
 
+  <details id="filtersWrap" open>
+  <summary>🔎 Filters <span id="activeCount"></span></summary>
   <div id="filters">
     <div><label for="f-tc">Time control</label>
       <select id="f-tc"><option value="">all</option><option>bullet</option><option>blitz</option><option>rapid</option><option>classical</option></select></div>
@@ -64,13 +88,13 @@
       <select id="f-eco"><option value="">all</option><option>A</option><option>B</option><option>C</option><option>D</option><option>E</option></select></div>
     <div><label for="f-event">Event / competition type</label>
       <input id="f-event" list="events" placeholder="e.g. Rated Blitz game"><datalist id="events"></datalist></div>
-    <div><label for="f-opening">Opening (search)</label>
+    <div class="wide"><label for="f-opening">Opening (search)</label>
       <input id="f-opening" list="openings" placeholder="e.g. Sicilian, Najdorf…"><datalist id="openings"></datalist></div>
     <div><label for="f-winner">Result</label>
       <select id="f-winner"><option value="">all</option><option value="1-0">White wins</option><option value="0-1">Black wins</option><option value="1/2-1/2">Draw</option></select></div>
-    <div><label for="f-player">Player (White or Black)</label>
+    <div class="wide"><label for="f-player">Player (White or Black)</label>
       <input id="f-player" placeholder="username…"></div>
-    <div><label>Elo range (avg of both players): <span id="eloVals"></span></label>
+    <div class="wide"><label>Elo range (avg of both players): <span id="eloVals"></span></label>
       <div class="range-row"><input type="range" id="elo-min" min="800" max="3000" step="10" value="800"><input type="range" id="elo-max" min="800" max="3000" step="10" value="3000"></div></div>
     <div><label for="f-sort">Sort</label>
       <select id="f-sort">
@@ -79,8 +103,9 @@
         <option value="opening">opening A–Z</option><option value="white">White A–Z</option><option value="black">Black A–Z</option>
       </select></div>
     <div><label>&nbsp;</label><button id="f-reset" type="button">Reset filters</button></div>
-    <div><label for="file">Load your own PGN</label><input type="file" id="file" accept=".pgn,.txt"></div>
+    <div class="wide"><label for="file">Load your own PGN</label><input type="file" id="file" accept=".pgn,.txt"></div>
   </div>
+  </details>
 
   <div id="bar"><span id="count"></span></div>
   <div id="results"></div>
@@ -162,6 +187,10 @@ const SORTERS = {
 function apply(){
   const f = state();
   $("eloVals").textContent = f.eloMin + " – " + f.eloMax;
+  const active = ["f-tc","f-eco","f-winner"].filter(id => $(id).value).length
+               + ["f-event","f-opening","f-player"].filter(id => $(id).value.trim()).length
+               + ((f.eloMin > 800 || f.eloMax < 3000) ? 1 : 0);
+  $("activeCount").textContent = active ? "(" + active + " active)" : "";
   let out = games.filter(g => {
     if (f.tc && g.tc !== f.tc) return false;
     if (f.eco && g.ecoLetter !== f.eco) return false;
@@ -235,6 +264,9 @@ $("results").addEventListener("click", ev => {
   );
   setTimeout(() => btn.textContent = "📋 copy PGN", 1500);
 });
+
+// desktop: filter panel open; mobile: collapsed (user can tap to open)
+if (window.innerWidth < 900) $("filtersWrap").open = false;
 
 loadSample();
 </script>
