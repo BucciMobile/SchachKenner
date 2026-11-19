@@ -26,6 +26,7 @@ and is freely downloadable from many sites. Common formats you will encounter:
 |---|---|---|
 | [`data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn`](../data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn) | CC0 1.0 | 2,000-game PGN sample from the official lichess 2026-10 export |
 | [`data/pgn/lichess/lichess-puzzles-sample-1000.csv`](../data/pgn/lichess/lichess-puzzles-sample-1000.csv) | CC0 1.0 | 1,000-puzzle CSV sample from the official lichess puzzle export |
+| [`data/pgn/lichess/groups/`](../data/pgn/lichess/groups/README.md) | CC0 1.0 | the 2,000 games **pre-sorted into 51 groups**: by opening (top 15), by ECO code (top 20), by rating band, by time control, by result — index with counts in [`groups/README.md`](../data/pgn/lichess/groups/README.md) |
 
 Permission evidence: [`licenses/lichess-database-cc0.md`](../licenses/lichess-database-cc0.md).
 Full dumps (GBs) are **not** hosted — get them from https://database.lichess.org/ or via

@@ -13,6 +13,7 @@ URL, retrieval date, SHA-256 of the raw license page) lives in [`licenses/`](lic
 | `data/pgn/lichess/lichess-puzzles-sample-1000.csv` (1,000 puzzles, 190 KB, SHA-256 `5f5486c5b06c20bf48a680ddd1ce853985f6b52ddf81a8b08699bce40a86a07e`) | https://database.lichess.org/lichess_db_puzzle.csv.zst | **CC0 1.0** (same grant) | [licenses/lichess-database-cc0.md](licenses/lichess-database-cc0.md) |
 | `assets/img/pieces/livius/*.svg` (12 piece SVGs) | https://github.com/kmar/chess_svg_piece_sets (set `livius`, Martin Sedlák) | **Unlicense / public domain** — freely copyable, even commercially | [licenses/chess-pieces-cc0.md](licenses/chess-pieces-cc0.md) |
 | `assets/img/banner.svg`, `assets/img/divider.svg` | our own composition from the public-domain pieces above | **CC0** (own work) | [licenses/chess-pieces-cc0.md](licenses/chess-pieces-cc0.md) |
+| `data/pgn/lichess/groups/**` (51 grouped PGN files, derived splits of the CC0 sample by opening/ECO/rating/time-control/result) | derived from the lichess 2026-10 CC0 export above; regenerate via `scripts/split-pgn.py` | **CC0 1.0** (CC0 explicitly allows derivatives) | [licenses/lichess-database-cc0.md](licenses/lichess-database-cc0.md) |
 
 Both samples were taken from the first entries of the official export files on
 2026-11-19 (UTC). Full dumps stay at the source (see `scripts/fetch-pgn.sh`).

@@ -16,3 +16,19 @@ are dedicated to the public domain:
 Full monthly dumps (several GB, `.zst`) are **not** hosted here — download them from
 https://database.lichess.org/ or via `scripts/fetch-pgn.sh` (lands in git-ignored
 `data/downloads/`). Broadcast games are CC BY-SA 4.0, not CC0, and are not hosted.
+
+## 📂 Grouped samples — [`groups/`](groups/README.md)
+
+The 2,000-game sample is additionally split into **sensible groups** (each game appears
+once per criterion, still CC0 — derived works are covered by the same grant):
+
+| Criterion | Groups | Examples |
+|---|---|---|
+| `by-opening/` | top 15 openings + other | Caro-Kann, French, Sicilian, London System… |
+| `by-eco/` | top 20 ECO codes + other | C00, C41, D02… |
+| `by-rating-band/` | 7 bands | under-1400 … 2200-plus |
+| `by-time-control/` | 4 classes | bullet, blitz, rapid, classical |
+| `by-result/` | 3 classes | white wins, black wins, draws |
+
+Index with per-group game counts and links: [`groups/README.md`](groups/README.md).
+Regenerate with `python scripts/split-pgn.py` from the repo root.
