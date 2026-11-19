@@ -55,6 +55,15 @@ Full multi-GB dumps stay at their sources — fetch them locally with
    so collections like TWIC/PGN Mentor/ChessEssentials are always linked, never mirrored —
    see [licenses/link-only-sources.md](licenses/link-only-sources.md).
 
+## 🛡 Legal & removal requests
+
+If you believe content in this repo infringes your rights (copyright, trademark,
+personal data/GDPR, …): see **[REMOVAL_REQUESTS.md](REMOVAL_REQUESTS.md)** — copyright
+claims go through [GitHub's DMCA form](https://github.com/contact/dmca), everything else
+via the [removal-request issue template](.github/ISSUE_TEMPLATE/removal-request.md).
+We acknowledge within 48 h, decide within 7 days, and log actions in
+[REMOVAL_LOG.md](REMOVAL_LOG.md).
+
 ## 🤝 Contributing
 
 Found a great free resource? Open an issue with the
@@ -62,7 +71,7 @@ Found a great free resource? Open an issue with the
 please read [CONTRIBUTING.md](CONTRIBUTING.md) first (short version: link-first, license
 evidence required for hosted files, no copyrighted uploads). Code of conduct:
 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). License of this repo's own content:
-[CC0](LICENSE).
+[CC0](LICENSE). Disputes about existing content: [REMOVAL_REQUESTS.md](REMOVAL_REQUESTS.md).
 
 ---
 
@@ -122,5 +131,6 @@ This project stands on the shoulders of these sites, projects and people:
   [lichess forum](https://lichess.org/forum) · [2700chess](https://2700chess.com/) ·
   [ChessBase News](https://en.chessbase.com/news) · [Chess.com News](https://www.chess.com/news)
 
-*No affiliation with any of them — if you believe content here infringes your rights, open
-an issue and it will be removed promptly.*
+*No affiliation with any of them — if you believe content here infringes your rights, follow
+[REMOVAL_REQUESTS.md](REMOVAL_REQUESTS.md) (DMCA form for copyright, issue template
+otherwise); actions are logged in [REMOVAL_LOG.md](REMOVAL_LOG.md).*

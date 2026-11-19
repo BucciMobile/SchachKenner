@@ -1,0 +1,20 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🇺🇸 Copyright claim (DMCA takedown form)
+    url: https://github.com/contact/dmca
+    about: Official GitHub DMCA form — GitHub validates the notice and forwards it to the repo owner.
+  - name: DMCA takedown policy (GitHub Docs)
+    url: https://docs.github.com/en/site-policy/content-removal-policies/dmca-takedown-policy
+    about: How GitHub processes DMCA notices and counter-notices (re-enable after 10-14 business days).
+  - name: Guide — submitting a DMCA counter-notice
+    url: https://docs.github.com/en/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice
+    about: If your content was taken down by mistake.
+  - name: Privacy / personal-data removal (GDPR etc.)
+    url: https://docs.github.com/en/site-policy/content-removal-policies/github-private-information-removal-policy
+    about: For doxxing, leaked credentials, or personal data such as usernames in hosted PGNs.
+  - name: Report abuse or spam
+    url: https://docs.github.com/en/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam
+    about: For abusive behavior, spam or malware in issues/PRs.
+  - name: Our removal-request policy
+    url: https://github.com/BucciMobile/SchachKenner/blob/main/REMOVAL_REQUESTS.md
+    about: Process, SLAs (48 h ack / 7 days decision) and the public removal log.
