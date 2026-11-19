@@ -1,13 +1,9 @@
-# ♞ Awesome Open Chess
+# ♞ SchachKenner — About
 
-A curated, **link-first** collection of free and open-source resources for chess lovers:
-game databases, PGN downloads, engines, analysis software, puzzles, books, piece sets and datasets.
-
-> **Copyright-safe by design.** We link to the original sources instead of copying their content.
-> Files are only hosted inside [`data/`](data/) when their license explicitly allows
-> redistribution — every hosted file is recorded in
-> [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md). See the
-> [hosting policy](data/README.md) and the [contributing rules](CONTRIBUTING.md).
+A curated, **link-first** collection of free & open-source chess resources — for players,
+programmers and researchers. We link to the original sources (copyright-safe by design)
+and host only files whose license explicitly allows redistribution, with the permission
+proof in [`licenses/`](licenses/).
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -15,96 +11,114 @@ game databases, PGN downloads, engines, analysis software, puzzles, books, piece
 
 ---
 
-## Contents
+## 📦 What's inside
 
-| # | Category | Details |
-|---|----------|---------|
-| 1 | Play & learn online | [categories/01-play-and-learn-online.md](categories/01-play-and-learn-online.md) |
-| 2 | Game databases & PGN downloads | [categories/02-game-databases-and-pgn.md](categories/02-game-databases-and-pgn.md) |
-| 3 | Openings & repertoires | [categories/03-openings-and-repertoires.md](categories/03-openings-and-repertoires.md) |
-| 4 | Puzzles & tactics | [categories/04-puzzles-and-tactics.md](categories/04-puzzles-and-tactics.md) |
-| 5 | Chess engines (open source) | [categories/05-engines.md](categories/05-engines.md) |
-| 6 | Analysis software & GUIs | [categories/06-analysis-gui.md](categories/06-analysis-gui.md) |
-| 7 | Tools, libraries & scripts | [categories/07-tools-libraries-scripts.md](categories/07-tools-libraries-scripts.md) |
-| 8 | Tablebases & opening books | [categories/08-tablebases-and-opening-books.md](categories/08-tablebases-and-opening-books.md) |
-| 9 | Books & learning material | [categories/09-books-and-learning.md](categories/09-books-and-learning.md) |
-| 10 | Graphics, piece sets & fonts | [categories/10-graphics-pieces-fonts.md](categories/10-graphics-pieces-fonts.md) |
-| 11 | Datasets & machine learning | [categories/11-datasets-and-ml.md](categories/11-datasets-and-ml.md) |
-| 12 | Communities, wikis & news | [categories/12-communities-wikis-news.md](categories/12-communities-wikis-news.md) |
+| Category | What you'll find | Browse |
+|---|---|---|
+| 🕹 Play & learn online | Free servers, lessons, studies | [01-play-and-learn-online.md](categories/01-play-and-learn-online.md) |
+| ♟ Game databases & PGN downloads | Millions of games as PGN/SCID (lichess CC0, TWIC, Lumbras, FICS, …) | [02-game-databases-and-pgn.md](categories/02-game-databases-and-pgn.md) |
+| 📖 Openings & repertoires | Opening explorers, ECO datasets, repertoire tools, opening books | [03-openings-and-repertoires.md](categories/03-openings-and-repertoires.md) |
+| 🧩 Puzzles & tactics | 6M+ lichess puzzles (rated & tagged), training modes | [04-puzzles-and-tactics.md](categories/04-puzzles-and-tactics.md) |
+| 🤖 Chess engines (open source) | Stockfish, lc0, Fairy-Stockfish + rating lists | [05-engines.md](categories/05-engines.md) |
+| 🔍 Analysis software & GUIs | lichess, BanksiaGUI, Scid vs. PC, Arena, Cute Chess | [06-analysis-gui.md](categories/06-analysis-gui.md) |
+| 🧰 Tools, libraries & scripts | python-chess, chess.js, chessops, pgn-extract, … | [07-tools-libraries-scripts.md](categories/07-tools-libraries-scripts.md) |
+| 🗄 Tablebases & opening books | Syzygy ≤ 7 pieces, Gaviota, Polyglot `.bin` books | [08-tablebases-and-opening-books.md](categories/08-tablebases-and-opening-books.md) |
+| 📚 Books & learning material | Public-domain classics (Project Gutenberg, archive.org), courses | [09-books-and-learning.md](categories/09-books-and-learning.md) |
+| 🎨 Graphics, piece sets & fonts | Cburnett SVGs, lichess piece sets, 3D-printable pieces | [10-graphics-pieces-fonts.md](categories/10-graphics-pieces-fonts.md) |
+| 🤖 Datasets & ML | lichess game/puzzle dumps, Hugging Face & Kaggle mirrors | [11-datasets-and-ml.md](categories/11-datasets-and-ml.md) |
+| 💬 Communities, wikis & news | Chess Programming Wiki, forums, rating sites, news | [12-communities-wikis-news.md](categories/12-communities-wikis-news.md) |
 
----
+## ⬇ Direct downloads hosted in this repo
 
-## The three rules of this repo
-
-1. **Link, don't copy.** Every resource points to the website that provides it
-   (e.g. <https://chessentials.com/chess-pgn-downloads/>). This is what keeps the repo
-   free of copyright problems: we never re-host another site's collection.
-2. **Host only what is explicitly redistributable.** If a file is placed in `data/`,
-   the source must *explicitly* allow redistribution (e.g. CC0). The file must be listed
-   in `THIRD_PARTY_NOTICES.md`, and the permission must be documented with evidence
-   (verbatim quote + raw page copy + SHA-256 + retrieval date) in
-   [`licenses/`](licenses/). See which sources qualify:
-   [licenses/README.md](licenses/README.md).
-3. **Chess games are facts — but collections can be protected.** Raw move lists are
-   generally not copyrightable (US), yet in the EU a *curated database* can enjoy a
-   *sui generis* database right (see
-   [Chess Stack Exchange](https://chess.stackexchange.com/questions/47956/who-owns-the-copyright-to-the-results-of-chess-games)).
-   Therefore: always link to the source collection (chessessentials, TWIC, …) and never
-   mirror their files. To download from the originals *locally*, use
-   [`scripts/fetch-pgn.sh`](scripts/fetch-pgn.sh) — its output directory is git-ignored.
-
----
-
-## ⬇ Downloads hosted in this repo (with explicit permission)
-
-Only sources that explicitly allow redistribution are hosted here — proof in
+Only sources with **explicit redistribution permission** are hosted here — proof in
 [`licenses/`](licenses/):
 
-- ♟ [`data/pgn/lichess/`](data/pgn/lichess/) — **CC0**: 2,000-game PGN sample + 1,000-puzzle
-  CSV sample from the official [lichess exports](https://database.lichess.org/)
-  ("download, modify and redistribute … without asking for permission")
-- Everything else stays **link-only** at its source (TWIC, ChessEssentials, chess.com, …) —
-  see [licenses/link-only-sources.md](licenses/link-only-sources.md) for why.
+- 📥 [`data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn`](data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn) — 2,000 games, **CC0**
+- 📥 [`data/pgn/lichess/lichess-puzzles-sample-1000.csv`](data/pgn/lichess/lichess-puzzles-sample-1000.csv) — 1,000 puzzles, **CC0**
 
-## Highlights
+> "Database exports are released under the Creative Commons CC0 license. … You can
+> download, modify and redistribute them, without asking for permission."
+> — [database.lichess.org](https://database.lichess.org/) (evidence: [licenses/lichess-database-cc0.md](licenses/lichess-database-cc0.md))
 
-- ♟ **Game databases:** [lichess open database](https://database.lichess.org/) (millions of games, free monthly CC0 dumps),
-  [TWIC](https://www.theweekinchess.com/twic), [ChessEssentials PGNs](https://chessentials.com/chess-pgn-downloads/),
-  [Lumbras Gigabase](https://lumbrasgigabase.com/en/), [FICS archive](https://www.ficsgames.org/)
-- 🧩 **Puzzles:** [lichess training](https://lichess.org/training) + a 6M+ puzzle dump on
-  [database.lichess.org](https://database.lichess.org/#puzzles), mirrored on
-  [Hugging Face](https://huggingface.co/datasets/Lichess/chess-puzzles) and [Kaggle](https://www.kaggle.com/datasets/lichess/chess-puzzles)
-- 🤖 **Engines:** [Stockfish](https://github.com/official-stockfish/Stockfish),
-  [lc0](https://github.com/LeelaChessZero/lc0), [Fairy-Stockfish](https://fairy-stockfish.github.io/) (variants)
-- 🔍 **Analysis:** [lichess](https://lichess.org/) (AGPL), [BanksiaGUI](https://banksiagui.com/),
-  [Scid vs. PC](https://scidvspc.sourceforge.net/), [Arena](http://www.playwitharena.de/),
-  [Cute Chess](https://github.com/cutechess/cutechess)
-- 🧰 **Libraries:** [python-chess](https://github.com/niklasf/python-chess),
-  [chess.js](https://github.com/jhlywa/chess.js), [chessops](https://github.com/lichess-org/chessops),
-  [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/)
-- 📚 **Books:** public-domain classics on [Project Gutenberg](https://www.gutenberg.org/ebooks/subject/1677)
-  and the [Internet Archive](https://archive.org/search?query=chess)
-- ♟ **Graphics:** [Cburnett SVG pieces](https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces) (CC BY-SA/GFDL),
-  lichess piece sets in [lichess-org/lila](https://github.com/lichess-org/lila)
+Full multi-GB dumps stay at their sources — fetch them locally with
+[`scripts/fetch-pgn.sh`](scripts/fetch-pgn.sh) (output is git-ignored).
 
----
+## 🛡 How we stay copyright-safe
 
-## Contributing
+1. **Link, don't copy** — every resource points to its original source (e.g.
+   [chessessentials.com/chess-pgn-downloads](https://chessessentials.com/chess-pgn-downloads/)).
+2. **Host only with explicit permission** — hosted files are listed in
+   [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md); the permission evidence (verbatim
+   quote, raw page copy, SHA-256, retrieval date) is in [`licenses/`](licenses/).
+3. **Chess games are facts — curated collections can be protected** (EU database right),
+   so collections like TWIC/PGN Mentor/ChessEssentials are always linked, never mirrored —
+   see [licenses/link-only-sources.md](licenses/link-only-sources.md).
+
+## 🤝 Contributing
 
 Found a great free resource? Open an issue with the
 [resource template](.github/ISSUE_TEMPLATE/resource-submission.md) or send a PR —
 please read [CONTRIBUTING.md](CONTRIBUTING.md) first (short version: link-first, license
-required, no copyrighted uploads).
+evidence required for hosted files, no copyrighted uploads). Code of conduct:
+[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). License of this repo's own content:
+[CC0](LICENSE).
 
-## License
+---
 
-The curated lists and texts in this repository are released under
-[CC0 1.0 Universal (public domain dedication)](LICENSE). **Linked or hosted third-party
-content remains under its own license** — see `THIRD_PARTY_NOTICES.md` and each source.
+## 🙏 Shoutout — thanks to all the sources we use and link to
 
-## Disclaimer
+This project stands on the shoulders of these sites, projects and people:
 
-No affiliation with any linked website. Links are checked automatically once a week
-([workflow](.github/workflows/link-check.yml)); if one breaks, please open an issue.
-If you believe content in this repo infringes your rights, open an issue and it will be
-removed promptly.
+- **Game data:** [lichess open database](https://database.lichess.org/) (CC0) ·
+  [The Week in Chess](https://www.theweekinchess.com/twic) ·
+  [ChessEssentials PGN downloads](https://chessessentials.com/chess-pgn-downloads/) ·
+  [PGN Mentor](https://www.pgnmentor.com/) ·
+  [Lumbras Gigabase](https://lumbrasgigabase.com/en/) (CC BY-NC 4.0) ·
+  [FICS games archive](https://www.ficsgames.org/) ·
+  [365Chess](https://www.365chess.com/) · [chessgames.com](https://www.chessgames.com/) ·
+  [Chess.com](https://www.chess.com/)
+- **Play & training:** [lichess.org](https://lichess.org/) · [FICS](https://www.freechess.org/) ·
+  [ICC](https://www.chessclub.com/) · [PlayChess](https://www.playchess.com/)
+- **Engines:** [Stockfish](https://github.com/official-stockfish/Stockfish) ·
+  [lc0](https://github.com/LeelaChessZero/lc0) ·
+  [Fairy-Stockfish](https://fairy-stockfish.github.io/) ·
+  [CCRL](https://www.computerchess.org.uk/ccrl/) · [SPCC](https://www.sp-cc.de/)
+- **Software & GUIs:** [BanksiaGUI](https://banksiagui.com/) ·
+  [Scid vs. PC](https://scidvspc.sourceforge.net/) · [Arena](http://www.playwitharena.de/) ·
+  [Cute Chess](https://github.com/cutechess/cutechess) ·
+  [En Croissant](https://encroissant.org/) · [ChessBase](https://en.chessbase.com/)
+- **Libraries & tools:** [python-chess](https://github.com/niklasf/python-chess) ·
+  [chess.js](https://github.com/jhlywa/chess.js) ·
+  [chessops](https://github.com/lichess-org/chessops) ·
+  [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/) ·
+  [stockfish.js](https://github.com/nmrugg/stockfish.js) ·
+  [chessboard.js](https://github.com/oakmac/chessboardjs) ·
+  [react-chessboard](https://github.com/wass08/react-chessboard) ·
+  [lila (lichess server)](https://github.com/lichess-org/lila) ·
+  [chess-openings dataset](https://github.com/lichess-org/chess-openings) ·
+  [Polyglot](https://github.com/ddugovic/polyglot) ·
+  [free opening books](https://github.com/gmcheems-org/free-opening-books)
+- **Tablebases:** [Syzygy](https://chessprogramming.org/Syzygy_Bases) ·
+  [syzygy1/tb](https://github.com/syzygy1/tb) · [archive.org Syzygy7](https://archive.org/details/Syzygy7) ·
+  [Gaviota](https://chessprogramming.org/Gaviota_Tablebases)
+- **Books & learning:** [Project Gutenberg chess shelf](https://www.gutenberg.org/ebooks/subject/1677) ·
+  [Internet Archive](https://archive.org/search?query=chess) ·
+  [lichess Learn](https://lichess.org/learn) · [lichess Studies](https://lichess.org/study) ·
+  [Chess.com Lessons](https://www.chess.com/lessons) ·
+  [GothamChess](https://www.youtube.com/@GothamChess) ·
+  [Hanging Pawns](https://www.youtube.com/@HangingPawns) ·
+  [chessbrah](https://www.youtube.com/@ChessBrah)
+- **Graphics:** [Cburnett SVG pieces (Wikimedia Commons)](https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces) ·
+  [lichess piece sets](https://github.com/lichess-org/lila/tree/master/public/piece) ·
+  [Printables](https://www.printables.com/search?q=chess%20pieces) · [Thingiverse](https://www.thingiverse.com/search?q=chess+pieces) ·
+  [Twemoji](https://github.com/twitter/twemoji)
+- **Datasets:** [Hugging Face — Lichess/chess-puzzles](https://huggingface.co/datasets/Lichess/chess-puzzles) ·
+  [Kaggle chess datasets](https://www.kaggle.com/datasets?search=chess)
+- **Knowledge & community:** [Chess Programming Wiki](https://chessprogramming.org/) (CC BY-SA) ·
+  [Chess Stack Exchange](https://chess.stackexchange.com/) ·
+  [r/chess](https://www.reddit.com/r/chess/) · [r/ComputerChess](https://www.reddit.com/r/ComputerChess/) ·
+  [lichess forum](https://lichess.org/forum) · [2700chess](https://2700chess.com/) ·
+  [ChessBase News](https://en.chessbase.com/news) · [Chess.com News](https://www.chess.com/news)
+
+*No affiliation with any of them — if you believe content here infringes your rights, open
+an issue and it will be removed promptly.*
