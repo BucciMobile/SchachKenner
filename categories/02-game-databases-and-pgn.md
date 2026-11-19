@@ -2,6 +2,24 @@
 
 [Back to README](../README.md)
 
+## 🔎 Can you find PGN files on the internet?
+
+**Yes — PGN (Portable Game Notation) is the standard plain-text format** for chess games
+and is freely downloadable from many sites. Common formats you will encounter:
+
+| Format | Extension | Notes |
+|---|---|---|
+| PGN | `.pgn` | Standard text format (tags + moves). Convert/clean with [pgn-extract](../categories/07-tools-libraries-scripts.md) |
+| EPD | `.epd` | Positions only (FEN + ops), used for test suites |
+| SCID database | `.si4` / `.sdf` | Binary DB format of Scid/Scid vs. PC |
+| ChessBase | `.cbh` | Commercial (ChessBase) — **do not redistribute** |
+
+> ⚠️ **Only CC0-licensed files are hosted in this repo** (see below). Everything else is
+> linked, never mirrored — EU database right may protect curated collections, and several
+> sites explicitly forbid redistribution (see
+> [`licenses/link-only-sources.md`](../licenses/link-only-sources.md)).
+> Fetch originals locally with [`scripts/fetch-pgn.sh`](../scripts/fetch-pgn.sh).
+
 ## ⬇ Hosted in this repo (explicit permission — CC0)
 
 | File | License | Contents |
@@ -13,28 +31,35 @@ Permission evidence: [`licenses/lichess-database-cc0.md`](../licenses/lichess-da
 Full dumps (GBs) are **not** hosted — get them from https://database.lichess.org/ or via
 [`scripts/fetch-pgn.sh`](../scripts/fetch-pgn.sh).
 
-## 🔗 Link-only collections (no redistribution permission — never mirrored)
+## 🗄 Subcategory A — Massive structured databases (full dumps)
 
-> ⚠️ We link to these sources and never mirror their files (EU database right may protect
-> curated collections; several sites explicitly forbid it — see
-> [`licenses/link-only-sources.md`](../licenses/link-only-sources.md)).
-> Use [`scripts/fetch-pgn.sh`](../scripts/fetch-pgn.sh) to download originals locally.
-
-| Resource | What you get | Access / license | Link |
+| Resource | Size / content | License / access | Link |
 |---|---|---|---|
-| lichess open database | Millions of rated games per month (standard + variants), plus puzzles; free monthly dumps | **CC0** — download & redistribution explicitly allowed; sample hosted in `data/pgn/lichess/` | https://database.lichess.org/ |
-| lichess elite database | Subset with both players ≥ 2400 Elo | Free download | https://database.lichess.org/#elite |
-| The Week in Chess (TWIC) | Weekly PGN of current master games + full archive | Free PGN download | https://www.theweekinchess.com/twic |
-| ChessEssentials PGN downloads | Curated PGN collections (players, events, themes) | Free PGN download — link only | https://chessentials.com/chess-pgn-downloads/ |
-| PGN Mentor | PGN collections sorted by player, opening and event | Free PGN download | https://www.pgnmentor.com/ |
-| Lumbras Gigabase | ~9.6M games, SCID format, deduplicated | CC BY-NC 4.0 (credit, non-commercial) — evidence in `licenses/`; download via site | https://lumbrasgigabase.com/en/ |
-| FICS games archive | All games ever played on the Free Internet Chess Server | Free download | https://www.ficsgames.org/ |
-| 365Chess | Large online game database with opening explorer | Web — link only | https://www.365chess.com/ |
-| chessgames.com | Largest online collection incl. historical masters | Web; bulk download needs membership — link only | https://www.chessgames.com/ |
-| Caïssabase (legacy) | Formerly free ~5M-game curated SCID database (site discontinued 2025; copies circulate via En Croissant) | Historical | https://chessprogramming.org/Caissabase |
+| lichess open database | Billions of games; monthly dumps (standard + variants), elite subset (≥2400), puzzles, evals | **CC0** — redistribution explicitly allowed; sample hosted above | https://database.lichess.org/ |
+| lichess elite database | Subset, both players ≥ 2400 Elo | CC0 | https://database.lichess.org/#elite |
+| Lumbras Gigabase | ~9.6M games, SCID + PGN | CC BY-NC 4.0 (credit, non-commercial) — evidence in `licenses/`; click-gated download | https://lumbrasgigabase.com/en/ |
+| FICS games archive | All games ever played on the Free Internet Chess Server | Free download, no explicit license → link only | https://www.ficsgames.org/ |
+| Caïssabase (legacy) | Formerly free ~5M curated SCID games (site discontinued 2025) | Historical | https://chessprogramming.org/Caissabase |
 
-## Further reading: are chess games copyrighted?
+## 📰 Subcategory B — Weekly news & curated/themed collections (PGN)
 
-- Chess Stack Exchange — *Who owns the copyright to the results of chess games?* (EU database right discussion): https://chess.stackexchange.com/questions/47956/
-- Chess Stack Exchange — *Chess games ownership, databases to use in app to sell* (raw PGN = facts, annotations can be protected): https://chess.stackexchange.com/questions/16437/
+| Resource | What you get | Access | Link |
+|---|---|---|---|
+| The Week in Chess (TWIC) | Weekly PGN of current master games + full archive since 1994 | Free download — **link only** (no redistribution grant) | https://www.theweekinchess.com/twic |
+| ChessEssentials PGN downloads | Curated PGN collections (players, events, themes) | Free download — **link only** | https://chessessentials.com/chess-pgn-downloads/ |
+| PGN Mentor | 1M+ GM games sorted by player/opening/event | Free — **link only** (© 64 Squares) | https://www.pgnmentor.com/ |
+| BeginChess PGN downloads | PGNs extracted from classic (public-domain) books | Free — **link only** | https://www.beginchess.com/ |
+
+## 🌐 Subcategory C — Web databases (search & play online — link only)
+
+| Resource | What you get | Link |
+|---|---|---|
+| 365Chess | Large online game DB + opening explorer + trainer | https://www.365chess.com/ |
+| chessgames.com | Largest online collection incl. historical masters; bulk download needs paid membership | https://www.chessgames.com/ |
+
+## ⚖️ Legal notes — are chess games copyrighted?
+
+- Chess Stack Exchange — *Who owns the copyright to the results of chess games?* (EU database right): https://chess.stackexchange.com/questions/47956/
+- Chess Stack Exchange — *Chess games ownership…* (raw moves = facts; annotations can be protected): https://chess.stackexchange.com/questions/16437/
 - Law Stack Exchange — *Are chess games copyrighted?* (Germany vs. US): https://law.stackexchange.com/questions/60030/
+- Our own audit with raw evidence: [`licenses/`](../licenses/)

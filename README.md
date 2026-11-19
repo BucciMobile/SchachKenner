@@ -40,6 +40,7 @@ the *“How and why we use AI”* section at the bottom of this page.
 | 🎨 Graphics, piece sets & fonts | Cburnett SVGs, lichess piece sets, 3D-printable pieces | [10-graphics-pieces-fonts.md](categories/10-graphics-pieces-fonts.md) |
 | 🤖 Datasets & ML | lichess game/puzzle dumps, Hugging Face & Kaggle mirrors | [11-datasets-and-ml.md](categories/11-datasets-and-ml.md) |
 | 💬 Communities, wikis & news | Chess Programming Wiki, forums, rating sites, news | [12-communities-wikis-news.md](categories/12-communities-wikis-news.md) |
+| 🏆 Famous games & legendary sidelines | Immortal/Opera Game, Marshall Attack, Najdorf, Berlin… | [14-famous-games-and-legendary-sidelines.md](categories/14-famous-games-and-legendary-sidelines.md) |
 
 ## <img src="assets/img/pieces/livius/wp.svg" width="20" alt="pawn"> Direct downloads hosted in this repo
 
