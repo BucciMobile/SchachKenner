@@ -11,7 +11,7 @@ game databases, PGN downloads, engines, analysis software, puzzles, books, piece
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![link-check](https://github.com/BucciMobile/awesome-open-chess/actions/workflows/link-check.yml/badge.svg)](https://github.com/BucciMobile/awesome-open-chess/actions/workflows/link-check.yml)
+[![link-check](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml/badge.svg)](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml)
 
 ---
 
