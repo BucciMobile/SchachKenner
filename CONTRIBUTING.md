@@ -35,6 +35,9 @@ Thanks for helping make this the best copyright-safe chess resource list on GitH
 - Run `bash scripts/fetch-pgn.sh --help` is not needed — just make sure no file under
   `data/downloads/` is committed (it is git-ignored).
 - Links are checked weekly by CI (lychee); please don't add dead links.
+- **AI-assisted PRs are welcome** — please disclose AI assistance in the PR description
+  and make sure a human has reviewed the content (same standard as the rest of this
+  repo; see the "How and why we use AI" section in the README).
 
 ## Issues
 

@@ -9,6 +9,14 @@ proof in [`licenses/`](licenses/).
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![link-check](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml/badge.svg)](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml)
 
+## 🤖 AI transparency
+
+This repository is curated **with AI assistance** (Mistral Vibe) — openly, because we
+believe transparency about tools builds trust. A human maintainer steers the research
+and reviews every entry; every hosted file carries a verifiable license proof in
+[`licenses/`](licenses/); all links are checked weekly by CI. Curious how and why? See
+the *“How and why we use AI”* section at the bottom of this page.
+
 ---
 
 ## 📦 What's inside
@@ -146,3 +154,33 @@ This project stands on the shoulders of these sites, projects and people:
 *No affiliation with any of them — if you believe content here infringes your rights, follow
 [REMOVAL_REQUESTS.md](REMOVAL_REQUESTS.md) (DMCA form for copyright, issue template
 otherwise); actions are logged in [REMOVAL_LOG.md](REMOVAL_LOG.md).*
+
+---
+
+## 🤖 How and why we use AI
+
+We use AI (Mistral Vibe) to research, structure and maintain this collection — openly
+and deliberately, because we believe that being upfront about the tools we use builds
+more trust than hiding them.
+
+**Our own knowledge drives the research.** The maintainer of this repo is a chess
+enthusiast, and his knowledge of the chess landscape — which sites and tools are
+worth listing, which collections raise legal questions, where the pitfalls are — is
+the input that steers what the AI investigates, compares and drafts. The AI does the
+fetching, summarizing and formatting; a human decides what goes into the repo and
+reviews every entry before it is published.
+
+**Legal foundations are much easier to research this way.** Questions like *“May we
+redistribute these PGN files?”*, *“How does GitHub's DMCA process actually work?”*,
+*“Does the EU database right cover curated game collections?”* or *“Are player
+usernames in PGNs personal data under the GDPR?”* can be researched systematically in
+minutes instead of days. Still, we never rely on AI output alone for legal questions:
+every legal claim in this repo is checked against primary sources, and the raw pages
+plus their SHA-256 hashes are preserved in [`licenses/raw/`](licenses/raw/) so anyone
+can re-verify them independently. Nothing in this repository is legal advice.
+
+**Quality gates stay human.** Links are checked automatically every week
+([workflow](.github/workflows/link-check.yml)), hosted files require a documented
+permission in [`licenses/`](licenses/), and takedown requests follow the process in
+[REMOVAL_REQUESTS.md](REMOVAL_REQUESTS.md). Everything we create here ourselves is
+released under [CC0](LICENSE).
