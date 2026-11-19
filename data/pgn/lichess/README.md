@@ -32,3 +32,7 @@ once per criterion, still CC0 — derived works are covered by the same grant):
 
 Index with per-group game counts and links: [`groups/README.md`](groups/README.md).
 Regenerate with `python scripts/split-pgn.py` from the repo root.
+
+🔍 **Browse & filter interactively:** https://BucciMobile.github.io/SchachKenner/
+(GitHub Pages tool in [`docs/index.html`](../../../docs/index.html)) — loads this sample
+via raw.githubusercontent.com and filters/sorts it client-side in your browser.

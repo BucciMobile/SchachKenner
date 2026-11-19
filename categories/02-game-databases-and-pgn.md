@@ -28,6 +28,8 @@ and is freely downloadable from many sites. Common formats you will encounter:
 | [`data/pgn/lichess/lichess-puzzles-sample-1000.csv`](../data/pgn/lichess/lichess-puzzles-sample-1000.csv) | CC0 1.0 | 1,000-puzzle CSV sample from the official lichess puzzle export |
 | [`data/pgn/lichess/groups/`](../data/pgn/lichess/groups/README.md) | CC0 1.0 | the 2,000 games **pre-sorted into 51 groups**: by opening (top 15), by ECO code (top 20), by rating band, by time control, by result — index with counts in [`groups/README.md`](../data/pgn/lichess/groups/README.md) |
 
+🔍 **Interactive explorer:** filter/search/sort these games live in the browser (time control, Elo slider, opening, ECO A–E, event, result, player search, copyable PGNs, own-file upload) at **https://BucciMobile.github.io/SchachKenner/** — source in [`docs/index.html`](../docs/index.html). |
+
 Permission evidence: [`licenses/lichess-database-cc0.md`](../licenses/lichess-database-cc0.md).
 Full dumps (GBs) are **not** hosted — get them from https://database.lichess.org/ or via
 [`scripts/fetch-pgn.sh`](../scripts/fetch-pgn.sh).

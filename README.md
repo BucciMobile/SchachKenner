@@ -50,6 +50,7 @@ Only sources with **explicit redistribution permission** are hosted here — pro
 - 📥 [`data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn`](data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn) — 2,000 games, **CC0**
 - 📥 [`data/pgn/lichess/lichess-puzzles-sample-1000.csv`](data/pgn/lichess/lichess-puzzles-sample-1000.csv) — 1,000 puzzles, **CC0**
 - 📂 [`data/pgn/lichess/groups/`](data/pgn/lichess/groups/README.md) — the 2,000 games **pre-grouped into 51 files**: by opening / ECO / rating band / time control / result
+- 🔍 [**Interactive PGN explorer (live in your browser)**](https://BucciMobile.github.io/SchachKenner/) — filter the games by time control, Elo range slider, opening, ECO category (A–E), event type, result, player name; the table re-sorts automatically and every game shows its copyable PGN. Also loads your own PGN files.
 
 > "Database exports are released under the Creative Commons CC0 license. … You can
 > download, modify and redistribute them, without asking for permission."

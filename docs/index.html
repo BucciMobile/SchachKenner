@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>♞ SchachKenner — Interactive PGN Explorer</title>
+<meta name="description" content="Filter the CC0-licensed chess game samples of the SchachKenner repo live in your browser: time control, Elo range, opening, ECO, result, player search — with a sortable table and copyable PGNs.">
+<link rel="icon" href="https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/assets/img/pieces/livius/wn.svg" type="image/svg+xml">
+<style>
+  :root{
+    --light:#f0d9b5; --dark:#b58863; --ink:#2b2b2b; --bg:#faf7f2; --card:#ffffff;
+    --line:#e5ddcf; --accent:#7a5c3e; --muted:#8a8178;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --ink:#ece7df; --bg:#1e1b17; --card:#2a2620; --line:#453e33; --accent:#d8b48a; --muted:#a89c8c; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+  header{display:flex;align-items:center;gap:.8rem;padding:1rem 1.5rem;border-bottom:1px solid var(--line);background:var(--card);flex-wrap:wrap}
+  header img{width:34px;height:34px}
+  header h1{font-size:1.15rem;margin:0}
+  header a{color:var(--accent);text-decoration:none;font-size:.9rem}
+  main{max-width:1100px;margin:0 auto;padding:1rem 1.5rem 4rem}
+  #filters{position:sticky;top:0;z-index:5;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.9rem 1rem;margin:1rem 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:.6rem .9rem;box-shadow:0 1px 4px rgba(0,0,0,.06)}
+  #filters label{display:block;font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-bottom:.2rem}
+  #filters input,#filters select{width:100%;padding:.35rem .45rem;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);font-size:.9rem}
+  .range-row{display:flex;align-items:center;gap:.5rem}
+  .range-row input{flex:1}
+  #eloVals{font-variant-numeric:tabular-nums;font-size:.85rem;color:var(--accent);white-space:nowrap}
+  #bar{display:flex;gap:.6rem;align-items:center;flex-wrap:wrap;margin:.6rem 0}
+  #count{font-weight:600}
+  button{cursor:pointer;border:1px solid var(--line);background:var(--light);color:#3a2f22;border-radius:6px;padding:.35rem .7rem;font-size:.85rem}
+  @media (prefers-color-scheme: dark){ button{background:var(--dark);color:#fff} }
+  button:hover{filter:brightness(1.05)}
+  #status{color:var(--muted);font-size:.9rem}
+  details.game{border:1px solid var(--line);border-radius:8px;background:var(--card);margin:.45rem 0;padding:.45rem .7rem}
+  details.game summary{cursor:pointer;display:flex;flex-wrap:wrap;gap:.4rem .8rem;align-items:baseline}
+  .res{font-weight:700}
+  .w{color:#3d7a3d}.b{color:#a33}.d{color:var(--muted)}
+  .meta{color:var(--muted);font-size:.82rem}
+  pre.pgn{background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:.6rem .8rem;overflow-x:auto;font-size:.78rem;line-height:1.45;white-space:pre-wrap;word-break:break-word}
+  .copy{margin:.4rem 0}
+  .elo{font-variant-numeric:tabular-nums}
+  footer{color:var(--muted);font-size:.8rem;text-align:center;margin-top:2rem}
+  footer a{color:var(--accent)}
+</style>
+</head>
+<body>
+<header>
+  <img src="https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/assets/img/pieces/livius/wn.svg" alt="knight">
+  <h1>SchachKenner · Interactive PGN Explorer</h1>
+  <a href="https://github.com/BucciMobile/SchachKenner">← back to the repo</a>
+  <span id="status">loading…</span>
+</header>
+<main>
+  <p>This tool filters the <strong>CC0-licensed</strong> game sample hosted in this repo
+  (<a href="https://github.com/BucciMobile/SchachKenner/tree/main/data/pgn/lichess">data/pgn/lichess/</a>)
+  directly in your browser — no server, no upload. You can also load your own PGN file below.</p>
+
+  <div id="filters">
+    <div><label for="f-tc">Time control</label>
+      <select id="f-tc"><option value="">all</option><option>bullet</option><option>blitz</option><option>rapid</option><option>classical</option></select></div>
+    <div><label for="f-eco">ECO category (A–E)</label>
+      <select id="f-eco"><option value="">all</option><option>A</option><option>B</option><option>C</option><option>D</option><option>E</option></select></div>
+    <div><label for="f-event">Event / competition type</label>
+      <input id="f-event" list="events" placeholder="e.g. Rated Blitz game"><datalist id="events"></datalist></div>
+    <div><label for="f-opening">Opening (search)</label>
+      <input id="f-opening" list="openings" placeholder="e.g. Sicilian, Najdorf…"><datalist id="openings"></datalist></div>
+    <div><label for="f-winner">Result</label>
+      <select id="f-winner"><option value="">all</option><option value="1-0">White wins</option><option value="0-1">Black wins</option><option value="1/2-1/2">Draw</option></select></div>
+    <div><label for="f-player">Player (White or Black)</label>
+      <input id="f-player" placeholder="username…"></div>
+    <div><label>Elo range (avg of both players): <span id="eloVals"></span></label>
+      <div class="range-row"><input type="range" id="elo-min" min="800" max="3000" step="10" value="800"><input type="range" id="elo-max" min="800" max="3000" step="10" value="3000"></div></div>
+    <div><label for="f-sort">Sort</label>
+      <select id="f-sort">
+        <option value="date-desc">date ↓</option><option value="date-asc">date ↑</option>
+        <option value="elo-desc">avg Elo ↓</option><option value="elo-asc">avg Elo ↑</option>
+        <option value="opening">opening A–Z</option><option value="white">White A–Z</option><option value="black">Black A–Z</option>
+      </select></div>
+    <div><label>&nbsp;</label><button id="f-reset" type="button">Reset filters</button></div>
+    <div><label for="file">Load your own PGN</label><input type="file" id="file" accept=".pgn,.txt"></div>
+  </div>
+
+  <div id="bar"><span id="count"></span></div>
+  <div id="results"></div>
+
+  <footer>
+    Games: lichess open database, <strong>CC0</strong> —
+    <a href="https://database.lichess.org/">database.lichess.org</a> ·
+    license proof in <a href="https://github.com/BucciMobile/SchachKenner/tree/main/licenses">licenses/</a> ·
+    piece icons: livius set (public domain)
+  </footer>
+</main>
+
+<script>
+"use strict";
+const SAMPLE_URL = "https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn";
+const $ = id => document.getElementById(id);
+let games = [];
+
+function esc(s){ return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+
+function tcClass(tc){
+  const m = /^(\d+)\+/.exec(tc||"");
+  const base = m ? +m[1] : (/^\d+$/.test(tc||"") ? +tc : null);
+  if (base === null) return "unknown";
+  if (base < 180) return "bullet";
+  if (base < 480) return "blitz";
+  if (base < 1500) return "rapid";
+  return "classical";
+}
+
+function parsePGN(text){
+  const chunks = text.split(/\r?\n\r?\n/);
+  const out = [];
+  for (let i = 0; i < chunks.length; i++){
+    const c = chunks[i];
+    if (!c.trim() || !c.trim().startsWith("[")) continue;
+    const tags = {};
+    const re = /\[(\w+)\s+"([^"]*)"\]/g; let m;
+    while ((m = re.exec(c))) tags[m[1]] = m[2];
+    const moves = (chunks[i+1] || "").trim();
+    i++; // skip movetext chunk
+    const welo = +tags.WhiteElo, belo = +tags.BlackElo;
+    out.push({
+      tags, moves, raw: c,
+      white: tags.White || "?", black: tags.Black || "?",
+      result: tags.Result || "*",
+      eco: tags.ECO || "", ecoLetter: (tags.ECO || "?")[0].toUpperCase(),
+      opening: tags.Opening || "unknown", event: tags.Event || "unknown",
+      tc: tcClass(tags.TimeControl), date: tags.Date || "",
+      avgElo: (isNaN(welo) || isNaN(belo)) ? null : Math.round((welo + belo) / 2),
+      pgn: c + "\n\n" + moves + "\n"
+    });
+  }
+  return out;
+}
+
+function state(){
+  const a = +$("elo-min").value, b = +$("elo-max").value;
+  return {
+    tc: $("f-tc").value, eco: $("f-eco").value, event: $("f-event").value.trim().toLowerCase(),
+    opening: $("f-opening").value.trim().toLowerCase(), winner: $("f-winner").value,
+    player: $("f-player").value.trim().toLowerCase(),
+    eloMin: Math.min(a, b), eloMax: Math.max(a, b),
+    sort: $("f-sort").value
+  };
+}
+
+const SORTERS = {
+  "date-desc": (x,y) => y.date.localeCompare(x.date),
+  "date-asc":  (x,y) => x.date.localeCompare(y.date),
+  "elo-desc":  (x,y) => (y.avgElo ?? -1) - (x.avgElo ?? -1),
+  "elo-asc":   (x,y) => (x.avgElo ?? 1e9) - (y.avgElo ?? 1e9),
+  "opening":   (x,y) => x.opening.localeCompare(y.opening),
+  "white":     (x,y) => x.white.localeCompare(y.white),
+  "black":     (x,y) => x.black.localeCompare(y.black)
+};
+
+function apply(){
+  const f = state();
+  $("eloVals").textContent = f.eloMin + " – " + f.eloMax;
+  let out = games.filter(g => {
+    if (f.tc && g.tc !== f.tc) return false;
+    if (f.eco && g.ecoLetter !== f.eco) return false;
+    if (f.event && !g.event.toLowerCase().includes(f.event)) return false;
+    if (f.opening && !g.opening.toLowerCase().includes(f.opening)) return false;
+    if (f.winner && g.result !== f.winner) return false;
+    if (f.player && !(g.white.toLowerCase().includes(f.player) || g.black.toLowerCase().includes(f.player))) return false;
+    if (g.avgElo !== null && (g.avgElo < f.eloMin || g.avgElo > f.eloMax)) return false;
+    return true;
+  });
+  out.sort(SORTERS[f.sort] || SORTERS["date-desc"]);
+  $("count").textContent = out.length.toLocaleString() + " of " + games.length.toLocaleString() + " games";
+  const html = out.map(g => {
+    const rc = g.result === "1-0" ? "w" : g.result === "0-1" ? "b" : "d";
+    return '<details class="game"><summary>' +
+      '<span class="res ' + rc + '">' + esc(g.result) + '</span>' +
+      '<strong>' + esc(g.white) + '</strong> <span class="meta elo">(' + (g.tags.WhiteElo || "?") + ')</span> vs ' +
+      '<strong>' + esc(g.black) + '</strong> <span class="meta elo">(' + (g.tags.BlackElo || "?") + ')</span>' +
+      '<span class="meta">' + esc(g.opening) + " · " + esc(g.eco) + " · " + esc(g.tc) + " · avg " + (g.avgElo ?? "?") + " · " + esc(g.date) + '</span>' +
+      '</summary><pre class="pgn">' + esc(g.pgn) + '</pre>' +
+      '<button class="copy" type="button" data-pgn="' + esc(g.pgn).replace(/"/g, "&quot;") + '">📋 copy PGN</button></details>';
+  }).join("");
+  $("results").innerHTML = html || '<p id="status">No games match the current filters.</p>';
+}
+
+function fillDatalists(){
+  const ops = [...new Set(games.map(g => g.opening))].sort();
+  const evs = [...new Set(games.map(g => g.event))].sort();
+  $("openings").innerHTML = ops.map(o => '<option value="' + esc(o) + '">').join("");
+  $("events").innerHTML = evs.map(o => '<option value="' + esc(o) + '">').join("");
+}
+
+function loadText(text, label){
+  games = parsePGN(text);
+  $("status").textContent = games.length.toLocaleString() + " games loaded" + (label ? " (" + label + ")" : "");
+  fillDatalists(); apply();
+}
+
+async function loadSample(){
+  $("status").textContent = "loading sample PGN…";
+  try {
+    const r = await fetch(SAMPLE_URL);
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    loadText(await r.text(), "lichess CC0 sample 2026-10");
+  } catch (e) {
+    $("status").textContent = "Could not auto-load the sample (" + e.message + "). Use the file picker or open the PGN directly.";
+  }
+}
+
+["f-tc","f-eco","f-event","f-opening","f-winner","f-player","f-sort"].forEach(id => $(id).addEventListener("input", apply));
+["elo-min","elo-max"].forEach(id => $(id).addEventListener("input", apply));
+$("f-reset").addEventListener("click", () => {
+  ["f-tc","f-eco","f-winner","f-sort"].forEach(id => $(id).selectedIndex = 0);
+  ["f-event","f-opening","f-player"].forEach(id => $(id).value = "");
+  $("elo-min").value = 800; $("elo-max").value = 3000; apply();
+});
+$("file").addEventListener("change", ev => {
+  const f = ev.target.files[0]; if (!f) return;
+  const rd = new FileReader();
+  rd.onload = () => loadText(String(rd.result), f.name);
+  rd.readAsText(f);
+});
+$("results").addEventListener("click", ev => {
+  const btn = ev.target.closest("button.copy"); if (!btn) return;
+  const txt = btn.getAttribute("data-pgn").replace(/&quot;/g, '"').replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&#39;/g, "'");
+  (navigator.clipboard ? navigator.clipboard.writeText(txt) : Promise.reject()).then(
+    () => btn.textContent = "✅ copied",
+    () => { const ta = document.createElement("textarea"); ta.value = txt; document.body.appendChild(ta); ta.select(); document.execCommand("copy"); ta.remove(); btn.textContent = "✅ copied"; }
+  );
+  setTimeout(() => btn.textContent = "📋 copy PGN", 1500);
+});
+
+loadSample();
+</script>
+</body>
+</html>
