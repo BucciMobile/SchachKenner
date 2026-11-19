@@ -1,5 +1,9 @@
 # ♞ SchachKenner — About
 
+<p align="center">
+  <img src="assets/img/banner.svg" width="512" alt="Chess board banner with white and black pieces (livius set, public domain)">
+</p>
+
 A curated, **link-first** collection of free & open-source chess resources — for players,
 programmers and researchers. We link to the original sources (copyright-safe by design)
 and host only files whose license explicitly allows redistribution, with the permission
@@ -9,7 +13,7 @@ proof in [`licenses/`](licenses/).
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![link-check](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml/badge.svg)](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml)
 
-## 🤖 AI transparency
+## <img src="assets/img/pieces/livius/wb.svg" width="20" alt="bishop"> AI transparency
 
 This repository is curated **with AI assistance** (Mistral Vibe) — openly, because we
 believe transparency about tools builds trust. A human maintainer steers the research
@@ -19,7 +23,7 @@ the *“How and why we use AI”* section at the bottom of this page.
 
 ---
 
-## 📦 What's inside
+## <img src="assets/img/pieces/livius/wn.svg" width="20" alt="knight"> What's inside
 
 | Category | What you'll find | Browse |
 |---|---|---|
@@ -37,7 +41,7 @@ the *“How and why we use AI”* section at the bottom of this page.
 | 🤖 Datasets & ML | lichess game/puzzle dumps, Hugging Face & Kaggle mirrors | [11-datasets-and-ml.md](categories/11-datasets-and-ml.md) |
 | 💬 Communities, wikis & news | Chess Programming Wiki, forums, rating sites, news | [12-communities-wikis-news.md](categories/12-communities-wikis-news.md) |
 
-## ⬇ Direct downloads hosted in this repo
+## <img src="assets/img/pieces/livius/wp.svg" width="20" alt="pawn"> Direct downloads hosted in this repo
 
 Only sources with **explicit redistribution permission** are hosted here — proof in
 [`licenses/`](licenses/):
@@ -52,7 +56,7 @@ Only sources with **explicit redistribution permission** are hosted here — pro
 Full multi-GB dumps stay at their sources — fetch them locally with
 [`scripts/fetch-pgn.sh`](scripts/fetch-pgn.sh) (output is git-ignored).
 
-## 🛡 How we stay copyright-safe
+## <img src="assets/img/pieces/livius/br.svg" width="20" alt="rook"> How we stay copyright-safe
 
 1. **Link, don't copy** — every resource points to its original source (e.g.
    [chessessentials.com/chess-pgn-downloads](https://chessessentials.com/chess-pgn-downloads/)).
@@ -63,7 +67,7 @@ Full multi-GB dumps stay at their sources — fetch them locally with
    so collections like TWIC/PGN Mentor/ChessEssentials are always linked, never mirrored —
    see [licenses/link-only-sources.md](licenses/link-only-sources.md).
 
-## 🛡 Legal & removal requests
+## <img src="assets/img/pieces/livius/bk.svg" width="20" alt="king"> Legal & removal requests
 
 If you believe content in this repo infringes your rights (copyright, trademark,
 personal data/GDPR, …): see **[REMOVAL_REQUESTS.md](REMOVAL_REQUESTS.md)** — copyright
@@ -72,7 +76,7 @@ via the [removal-request issue template](.github/ISSUE_TEMPLATE/removal-request.
 We acknowledge within 48 h, decide within 7 days, and log actions in
 [REMOVAL_LOG.md](REMOVAL_LOG.md).
 
-## 🤝 Contributing
+## <img src="assets/img/pieces/livius/wq.svg" width="20" alt="queen"> Contributing
 
 Found a great free resource? Open an issue with the
 [resource template](.github/ISSUE_TEMPLATE/resource-submission.md) or send a PR —
@@ -83,7 +87,9 @@ evidence required for hosted files, no copyrighted uploads). Code of conduct:
 
 ---
 
-## 🙏 Shoutout — thanks to all the sources we use and link to
+<p align="center"><img src="assets/img/divider.svg" width="640" alt=""></p>
+
+## <img src="assets/img/pieces/livius/wk.svg" width="20" alt="king"> Shoutout — thanks to all the sources we use and link to
 
 > 💡 **Inspiration:** this repo was inspired by the German chess podcast
 > [**ELOjäger – Der Schachpodcast**](https://open.spotify.com/show/0Vb66GFKHFMbpTUvuQYyZG)
@@ -139,7 +145,7 @@ This project stands on the shoulders of these sites, projects and people:
   (David & Sebastian — Taktik, Eröffnungen, Turniererlebnisse; aktiv, zuletzt 11/2026) ·
   [Apple Podcasts](https://podcasts.apple.com/us/podcast/eloj%C3%A4ger-der-schachpodcast/id1783522132) ·
   [RSS](https://anchor.fm/s/fd2d9df0/podcast/rss)
-- **Graphics:** [Cburnett SVG pieces (Wikimedia Commons)](https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces) ·
+- **Graphics:** [livius/meridian SVG piece sets](https://github.com/kmar/chess_svg_piece_sets) (**public domain** — used for this page's banner & icons, see `assets/img/`) · [Cburnett SVG pieces (Wikimedia Commons)](https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces) ·
   [lichess piece sets](https://github.com/lichess-org/lila/tree/master/public/piece) ·
   [Printables](https://www.printables.com/search?q=chess%20pieces) · [Thingiverse](https://www.thingiverse.com/search?q=chess+pieces) ·
   [Twemoji](https://github.com/twitter/twemoji)
@@ -157,7 +163,7 @@ otherwise); actions are logged in [REMOVAL_LOG.md](REMOVAL_LOG.md).*
 
 ---
 
-## 🤖 How and why we use AI
+## <img src="assets/img/pieces/livius/bq.svg" width="20" alt="queen"> How and why we use AI
 
 We use AI (Mistral Vibe) to research, structure and maintain this collection — openly
 and deliberately, because we believe that being upfront about the tools we use builds

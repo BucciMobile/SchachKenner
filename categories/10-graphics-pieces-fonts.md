@@ -4,6 +4,7 @@
 
 | Resource | What you get | License | Link |
 |---|---|---|---|
+| **livius / meridian SVG piece sets** (used for this repo's banner & icons — see `assets/img/`) | 12 clean SVG pieces per set, white & black | **Unlicense / public domain** — freely copyable, even commercially | https://github.com/kmar/chess_svg_piece_sets |
 | Cburnett SVG chess pieces | The standard piece set used by Wikipedia/lichess (SVG) | CC BY-SA 3.0 / GFDL — **attribution required** | https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces |
 | lichess piece sets & boards | All piece sets shipped with lichess (cburnett, merida, …) | Various, many public domain / CC0 — check per set | https://github.com/lichess-org/lila/tree/master/public/piece |
 | lichess board themes & fonts | Board colors, piece fonts | See repo | https://github.com/lichess-org/lila/tree/master/public |
