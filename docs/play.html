@@ -457,6 +457,12 @@ function ensureEngine(){
       engine.addMessageListener(onEngineLine);
       setStatus("starting engine… (first run downloads the ~40 MB neural net once)");
       engine.postMessage("uci");
+      // watchdog: make sure the uci/isready handshake completes even if a message is missed
+      let nudges = 0;
+      const nudge = setInterval(() => {
+        if (engineReady || ++nudges > 12){ clearInterval(nudge); return; }
+        try { engine.postMessage("isready"); } catch(e){}
+      }, 5000);
       await engine.ready;
       return engine;
     })().catch(e => { enginePromise = null; setStatus("engine failed to load: " + e.message); throw e; });
@@ -655,6 +661,7 @@ $("copyBtn").addEventListener("click", () => {
 /* ---------- boot ---------- */
 if (window.innerWidth < 640) { const d = $("depth"); d.value = "8"; }
 const q = new URLSearchParams(location.search);
+render();   // show the board immediately, even before any game/source is loaded
 if (q.get("src")){
   loadSource(q.get("src"), parseInt(q.get("game") || "0", 10) || 0, q.get("src"));
 } else {
