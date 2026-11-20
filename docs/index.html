@@ -78,9 +78,9 @@
   <p>This tool filters the <strong>freely licensed</strong> game samples hosted in this repo
   (<a href="https://github.com/BucciMobile/SchachKenner/tree/main/data/pgn">data/pgn/</a> —
   CC0 / CC BY-SA 4.0, proofs in <a href="https://github.com/BucciMobile/SchachKenner/tree/main/licenses">licenses/</a>)
-  directly in your browser — no server, no upload. Pick a dataset or load your own PGN file below.</p>
-  <p><label for="f-dataset"><strong>Dataset:</strong></label>
-     <select id="f-dataset" style="max-width:100%"></select></p>
+  directly in your browser — no server, no upload. <strong>All datasets are loaded and combined
+  by default</strong> (≈7,600 games); you can narrow it down to a single dataset inside the
+  collapsible filter panel below, or load your own PGN file there.</p>
 
   <details id="filtersWrap" open>
   <summary>🔎 Filters <span id="activeCount"></span></summary>
@@ -112,6 +112,8 @@
         <option value="opening">opening A–Z</option><option value="white">White A–Z</option><option value="black">Black A–Z</option>
       </select></div>
     <div><label>&nbsp;</label><button id="f-reset" type="button">Reset filters</button></div>
+    <div class="wide"><label for="f-dataset">Dataset (hidden option — default: all combined)</label>
+      <select id="f-dataset"></select></div>
     <div class="wide"><label for="file">Load your own PGN</label><input type="file" id="file" accept=".pgn,.txt"></div>
   </div>
   </details>
@@ -289,19 +291,32 @@ function loadText(text, label){
 
 function fillDatasetSelect(){
   const sel = $("f-dataset");
-  sel.innerHTML = DATASETS.map((d, i) => '<option value="' + i + '">' + esc(d.label) + '</option>').join("");
-  sel.addEventListener("change", () => loadDataset(+sel.value));
+  sel.innerHTML = '<option value="all">all datasets combined (default)</option>' +
+    DATASETS.map((d, i) => '<option value="' + i + '">' + esc(d.label) + '</option>').join("");
+  sel.addEventListener("change", () => loadDataset(sel.value));
 }
 
-async function loadDataset(i){
-  const d = DATASETS[i] || DATASETS[0];
+async function loadAll(){
+  $("status").textContent = "loading all " + DATASETS.length + " datasets…";
+  const results = await Promise.allSettled(DATASETS.map(d =>
+    fetch(d.url).then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.text(); })
+  ));
+  const texts = [], failed = [];
+  results.forEach((r, i) => { if (r.status === "fulfilled") texts.push(r.value); else failed.push(DATASETS[i].label); });
+  if (!texts.length) { $("status").textContent = "Could not load any dataset. Pick a single dataset in the filters or use the file picker."; return; }
+  loadText(texts.join("\n"), "all datasets combined (" + texts.length + "/" + DATASETS.length + (failed.length ? ", failed: " + failed.length : "") + ")");
+}
+
+async function loadDataset(v){
+  if (v === "all" || v === undefined || v === null || v === "") return loadAll();
+  const d = DATASETS[+v];
   $("status").textContent = "loading " + d.label + " …";
   try {
     const r = await fetch(d.url);
     if (!r.ok) throw new Error("HTTP " + r.status);
     loadText(await r.text(), d.label);
   } catch (e) {
-    $("status").textContent = "Could not load this dataset (" + e.message + "). Try another one or use the file picker.";
+    $("status").textContent = "Could not load this dataset (" + e.message + "). Try 'all datasets' or the file picker.";
   }
 }
 
@@ -337,7 +352,7 @@ $("results").addEventListener("click", ev => {
 if (window.innerWidth < 900) $("filtersWrap").open = false;
 
 fillDatasetSelect();
-loadDataset(0);
+loadDataset("all");   // default: every hosted PGN dataset, combined
 </script>
 </body>
 </html>

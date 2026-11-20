@@ -13,7 +13,7 @@ proof in [`licenses/`](licenses/).
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![link-check](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml/badge.svg)](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml)
 
-> 🆕 **New!** Try the [**interactive PGN explorer**](https://BucciMobile.github.io/SchachKenner/) — filter & search **9 hosted datasets (≈7,600 games, CC0/CC BY-SA/MIT)** live in your browser (mobile-friendly 📱): dataset picker, **date range (year / last 3–12 months / custom)**, Elo slider, opening search, ECO A–E, event type, result, player search — the table re-sorts automatically and every game shows its copyable PGN.
+> 🆕 **New!** Try the [**interactive PGN explorer**](https://BucciMobile.github.io/SchachKenner/) — filter & search **all hosted games at once (≈7,600 games from 8 datasets, CC0/CC BY-SA/MIT)** live in your browser (mobile-friendly 📱): **date range (year / last 3–12 months / custom)**, Elo slider, opening search, ECO A–E, event type, result, player search — the table re-sorts automatically and every game shows its copyable PGN. (Single-dataset selection is tucked away inside the collapsible filter panel.)
 
 ## <img src="assets/img/pieces/livius/wb.svg" width="20" alt="bishop"> AI transparency
 
