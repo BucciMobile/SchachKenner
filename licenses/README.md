@@ -36,6 +36,7 @@ in `data/` — everything else is link-only (see the category files).
 | 365chess.com | ❌ No explicit redistribution permission found | Link only | [link-only-sources.md](link-only-sources.md) |
 | **chess.js 1.4.0** (jhlywa/chess.js) — JS chess rules/PGN library | ✅ **BSD-2-Clause** — use & redistribution allowed, copyright notice + license text must be retained | **Loaded unmodified via official jsDelivr CDN** in `docs/index.html` / `docs/play.html` (not vendored); attribution + license link in the tool footer | [chessjs-bsd2.md](chessjs-bsd2.md) |
 | **Stockfish.js 16** (nmrugg/stockfish.js v16.0.0) — WASM chess engine | ✅ **GPLv3** — verbatim redistribution allowed with license text + Corresponding Source (the engine file itself carries the GPL header) | **Loaded unmodified via official jsDelivr CDN** in `docs/play.html` (single-thread build — GitHub Pages sends no COOP/COEP, so no SharedArrayBuffer); attribution + source link in the tool footer; nothing vendored or patched | [stockfishjs-gpl3.md](stockfishjs-gpl3.md) |
+| **Ko-fi support button PNG** | ✅ Owner-provided asset (uploaded by repo owner BucciMobile, 2026-11-20); Ko-fi-branded button linking to Ko-fi is Ko-fi's intended button use | **Hosted** in `assets/img/ko-fi-button.png`, shown in README (top) + `docs/play.html` header, linking to the owner's Ko-fi goal | [ko-fi-button.md](ko-fi-button.md) |
 
 ## SHA-256 of the raw evidence pages (retrieved 2026-11-19 UTC)
 
@@ -68,6 +69,7 @@ cf12ca700f556c7b333f5a6b84f821f03ef97c974553afafb6bf35194390295d  raw/thechessdo
 f6e73445b3839cdb3edefa312269dd73a6f9fefe95669d2cc1ef9a44d6a8b498  raw/nmrugg-stockfish.js-v16.0.0-Readme.md
 8724dfec4c94814234fb3887e5dd37e7354c50efbffdae7266885c7634bec41f  raw/nmrugg-stockfish.js-v16.0.0-package.json
 e2958bb89fc6ee0faedde87284bbb7e14da2ab224f06ca1bd82e62eaca87d00b  raw/nmrugg-stockfish.js-v16.0.0-stockfish-nnue-16-single.js
+c56ccacd49ecde8b6e9484d51853a421dd69c517539c89b469daee32df351bea  raw/ko-fi-button.png
 ```
 
 ## Rule for future additions

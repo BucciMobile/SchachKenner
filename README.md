@@ -13,6 +13,12 @@ proof in [`licenses/`](licenses/).
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![link-check](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml/badge.svg)](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml)
 
+<p align="center">
+  <a href="https://ko-fi.com/buccigov/goal?g=0" target="_blank" rel="noopener" title="Support SchachKenner on Ko-fi">
+    <img src="assets/img/ko-fi-button.png" width="240" alt="Support me on Ko-fi — Buy me a chess membership">
+  </a>
+</p>
+
 > 🆕 **New!** Try the [**interactive PGN explorer**](https://BucciMobile.github.io/SchachKenner/) — filter & search **all hosted games at once (≈20,000 games from 12 datasets, CC0 / CC BY-SA / MIT / Unlicense)** live in your browser (mobile-friendly 📱): **date range (year 1610–2026 / last 3–12 months / custom)**, Elo slider, opening search, ECO A–E, event type, result, player search — the table re-sorts automatically and every game shows its copyable PGN. (Single-dataset selection is tucked away inside the collapsible filter panel.)
 >
 > 🆕 **New!** [**Play & analyze in your browser**](https://BucciMobile.github.io/SchachKenner/play.html) — every game in the explorer has a **▶ Play / Analyze** button that deep-links straight into the tool (`play.html?src=<raw-pgn-url>&game=<index>`): step through games on a board with the livius piece set, **play against Stockfish 16 (WASM, runs fully client-side — GitHub Pages allows no multi-threading, so we use the official single-thread build)** or **analyze any position** (eval bar, best-move arrow, principal variation). Our own code is **CC0**; libraries (chess.js 1.4.0 **BSD-2-Clause**, Stockfish.js 16 **GPLv3**) are loaded **unmodified from the official jsDelivr CDN** with attribution — retrieval proofs in [`licenses/`](licenses/). Mobile-friendly 📱
