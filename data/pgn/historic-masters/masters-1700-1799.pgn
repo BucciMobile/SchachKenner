@@ -1,0 +1,584 @@
+[Event "Game one"]
+[Site "?"]
+[Date "1749.??.??"]
+[Round "?"]
+[White "Philidor, Francois Andre Dani"]
+[Black "Analysis\ Analyse"]
+[Result "1-0"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Philidor variation"]
+[HashCode "4105df35"]
+[Epoch "Pawn"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Bc4 Bc5 3. c3 Nf6 4. d4 exd4 5. cxd4 Bb6 6. Nc3 O-O 7. Nge2 c6 8.
+Bd3 d5 9. e5 Ne8 10. Be3 f6 11. Qd2 fxe5 12. dxe5 Be6 13. Nf4 Qe7 14. Bxb6 axb6
+15. O-O Nd7 16. Nxe6 Qxe6 17. f4 Nc7 18. Rae1 g6 19. h3 d4 20. Ne4 h6 21. b3 b5
+22. g4 Nd5 23. Ng3 Ne3 24. Rxe3 dxe3 25. Qxe3 Rxa2 26. Re1 Qxb3 27. Qe4 Qe6 28.
+f5 gxf5 29. gxf5 Qd5 30. Qxd5+ cxd5 31. Bxb5 Nb6 32. f6 Rb2 33. Bd3 Kf7 34. Bf5
+Nc4 35. Nh5 Rg8+ 36. Bg4 Nd2 37. e6+ Kg6 38. f7 Rf8 39. Nf4+ Kg7 40. Bh5 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1783.??.??"]
+[Round "?"]
+[White "Count Bruehl"]
+[Black "Philidor, Francois Andre Dani"]
+[Result "0-1"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Philidor counter-attack"]
+[HashCode "9a26c414"]
+[Epoch "Pawn"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Bc4 c6 3. Qe2 d6 4. c3 f5 5. d3 Nf6 6. exf5 Bxf5 7. d4 e4 8. Bg5 d5
+9. Bb3 Bd6 10. Nd2 Nbd7 11. h3 h6 12. Be3 Qe7 13. f4 h5 14. c4 a6 15. cxd5 cxd5
+16. Qf2 O-O 17. Ne2 b5 18. O-O Nb6 19. Ng3 g6 20. Rac1 Nc4 21. Nxf5 gxf5 22.
+Qg3+ Qg7 23. Qxg7+ Kxg7 24. Bxc4 bxc4 25. g3 Rab8 26. b3 Ba3 27. Rc2 cxb3 28.
+axb3 Rbc8 29. Rxc8 Rxc8 30. Ra1 Bb4 31. Rxa6 Rc3 32. Kf2 Rd3 33. Ra2 Bxd2 34.
+Rxd2 Rxb3 35. Rc2 h4 36. Rc7+ Kg6 37. gxh4 Nh5 38. Rd7 Nxf4 39. Bxf4 Rf3+ 40.
+Kg2 Rxf4 41. Rxd5 Rf3 42. Rd8 Rd3 43. d5 f4 44. d6 Rd2+ 45. Kf1 Kf7 46. h5 e3
+47. h6 f3 0-1
+
+[Event "London"]
+[Site "London"]
+[Date "1788.??.??"]
+[Round "?"]
+[White "Bowdler, D."]
+[Black "De Beaurevoir"]
+[Result "1/2-1/2"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Rosentreter gambit"]
+[HashCode "12d680d2"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. d4 Qe7 5. Bd3 d5 6. O-O dxe4 7. Bxe4 c6 8.
+Re1 Be6 9. c4 Na6 10. d5 O-O-O 11. Qd4 Qc5 12. Bd2 Qxd4+ 13. Nxd4 cxd5 14.
+Bxd5 1/2-1/2
+
+[Event "London m1"]
+[Site "London"]
+[Date "1788.??.??"]
+[Round "?"]
+[White "Von Bruehl, Hans Moritz"]
+[Black "Cotter"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "3e75cf4c"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 a6 5. c4 Be7 6. Bd3 Nf6 7. Nc3 Bd7 8.
+O-O O-O 9. f4 Nc6 10. Nxc6 Bxc6 11. Qc2 h6 12. b3 Qd7 13. Bb2 Rae8 14. Rad1
+Bd8 15. e5 dxe5 16. Bh7+ Nxh7 17. Rxd7 Bxd7 18. fxe5 Rxe5 19. Nd5 Rg5 20.
+Re1 c6 21. Ne7+ Bxe7 22. Rxe7 Bh3 23. g3 Rf5 24. Re1 Ng5 25. Qc3 f6 26. Rd1
+Re8 27. Qd3 Rfe5 28. Bxe5 Rxe5 29. Qg6 Nf7 30. Qd3 h5 31. Qd2 Rg5 32. Qf4
+Re5 33. Kf2 Rf5 34. Qxf5 Bxf5 35. Ke3 Kf8 36. Kd4 Ke7 37. Kc5 Bd7 38. Kb6
+Nd8 39. Kc7 Ne6+ 40. Kxb7 a5 41. Kb6 g5 42. Kxa5 f5 43. Kb6 h4 44. a4 hxg3
+45. hxg3 f4 46. gxf4 gxf4 47. a5 Kd8 48. a6 Kc8 49. a7 Nc7 50. Ra1 Na8+ 51.
+Ka6 Nc7+ 1/2-1/2
+
+[Event "London m1"]
+[Site "London"]
+[Date "1788.??.??"]
+[Round "?"]
+[White "Von Bruehl, Hans Moritz"]
+[Black "Cotter"]
+[Result "1-0"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Philidor counter-attack"]
+[HashCode "5de59673"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 c6 3. Qe2 Bc5 4. Bxf7+ Kxf7 5. Qc4+ Ke8 6. Qxc5 d6 7. Qe3
+Nf6 8. h3 Rf8 9. d3 Kf7 10. Nc3 Kg8 11. Bd2 Nh5 12. Qe2 Nf6 13. f4 exf4 14.
+Bxf4 Na6 15. O-O-O Nd7 16. Bxd6 Rf7 17. Nf3 h6 18. Rhf1 Nb6 19. Bg3 Be6 20.
+a3 Nc5 21. Ne5 Rxf1 22. Rxf1 Nba4 23. Nxa4 Nxa4 24. c3 Qg5+ 25. Bf4 Qe7 26.
+Be3 Qd6 27. Ng6 Bf7 28. Nh4 Qe6 29. c4 Qe7 30. Nf5 Qe6 31. Qg4 Bg6 32.
+Nxh6+ gxh6 33. Qxe6+ 1-0
+
+[Event "London m2"]
+[Site "London"]
+[Date "1788.??.??"]
+[Round "?"]
+[White "Conway, M."]
+[Black "Von Bruehl, Hans Moritz"]
+[Result "1-0"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Philidor counter-attack"]
+[HashCode "6b6af47b"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 c6 3. Bb3 d5 4. exd5 cxd5 5. Ne2 f5 6. O-O Nc6 7. c3 Nf6 8.
+d4 e4 9. Bg5 Be6 10. Nf4 Bf7 11. Bxf6 gxf6 12. f3 Bh6 13. fxe4 Bxf4 14.
+Rxf4 fxe4 15. Qf1 O-O 16. Rxf6 Ne7 17. Na3 Qd7 18. Qf4 Ng6 19. Qg3 Rad8 20.
+Raf1 a6 21. Nc2 Kh8 22. Ne3 Qe7 23. h4 Bg8 24. Rxf8 Rxf8 25. Rxf8 Qxf8 26.
+Qg5 Qf4 27. Qxf4 Nxf4 28. g3 Nd3 29. Bxd5 Bxd5 30. Nxd5 Nxb2 31. Kf1 Kg7
+32. Ke2 Nc4 33. Ne3 Nd6 34. g4 b5 35. a3 Kf7 36. Kf2 Ke6 37. Kg3 Nc4 38.
+Nxc4 bxc4 39. Kf4 Kd5 40. Ke3 h6 41. g5 1-0
+
+[Event "London m1"]
+[Site "London"]
+[Date "1788.??.??"]
+[Round "?"]
+[White "Cotter"]
+[Black "Von Bruehl, Hans Moritz"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier gambit"]
+[HashCode "769c2cd2"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h5 6. d4 f6 7. Bxf4 fxg5 8.
+hxg5 d5 9. e5 Bf5 10. Bd3 Ne7 11. O-O Bg7 12. Bg3 Rf8 13. Bh4 Qd7 14. Nc3
+a6 15. Qe2 Nbc6 16. Bf2 O-O-O 17. Na4 Bxd3 18. Qxd3 Nxe5 19. Qb3 b5 20.
+dxe5 bxa4 21. Qc3 d4 22. Qd3 Qb5 23. Qa3 Ng6 24. b3 Bxe5 25. bxa4 Qc6 26.
+Rab1 0-1
+
+[Event "London m2"]
+[Site "London"]
+[Date "1788.??.??"]
+[Round "?"]
+[White "Von Bruehl, Hans Moritz"]
+[Black "Conway, M."]
+[Result "1-0"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[HashCode "95ced6a0"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 b6 3. d3 Nf6 4. f4 exf4 5. Bxf4 d5 6. exd5 Nxd5 7. Qe2+ Be7
+8. Bxd5 Qxd5 9. Bxc7 Nc6 10. Nf3 Qc5 11. Bg3 O-O 12. Bf2 Qa5+ 13. c3 Bb7
+14. O-O Rfe8 15. Qc2 Qh5 16. Nbd2 Rad8 17. Ne4 Qg6 18. Rad1 Kh8 19. Qb1 f5
+20. Ng3 Bf6 21. d4 Ne7 22. Qc1 Bxf3 23. gxf3 Nd5 24. Qc2 f4 25. Qxg6 hxg6
+26. Ne4 Re6 27. Nxf6 gxf6 28. Rfe1 Ne3 29. Bxe3 fxe3 30. Rd3 Rde8 31. Kg2
+f5 32. f4 Kg7 33. Re2 g5 34. fxg5 Kg6 35. Kf3 f4 36. h4 Re4 37. d5 R4e7 38.
+Rd4 Rd7 39. Rxf4 1-0
+
+[Event "London m2"]
+[Site "London"]
+[Date "1788.??.??"]
+[Round "?"]
+[White "Conway, M."]
+[Black "Von Bruehl, Hans Moritz"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[HashCode "a1360d0d"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 c6 4. Nge2 d5 5. exd5 cxd5 6. Bb3 Nc6 7. d4 e4
+8. O-O Be6 9. a3 h6 10. Nf4 g5 11. Nxe6 fxe6 12. Be3 Ne7 13. f3 Nf5 14. Qe2
+Bd6 15. fxe4 Nxe3 16. Qxe3 Bxh2+ 17. Kh1 Bc7 18. exd5 O-O 19. dxe6 Qe7 20.
+d5 Qd6 21. Qh3 Ng4 22. Nb5 Qe5 23. Nxc7 Rxf1+ 24. Rxf1 Nf2+ 25. Rxf2 Qe1+
+26. Kh2 Qxf2 27. d6 Qd4 28. d7 Qd6+ 29. Qg3 Qe7 30. Nd5 Qd8 31. e7 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1788.??.??"]
+[Round "?"]
+[White "Bowdler, D."]
+[Black "Conway, M."]
+[Result "1-0"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Classical variation"]
+[HashCode "ab2fbf4a"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 Bc5 3. d3 c6 4. Qe2 d6 5. f4 exf4 6. Bxf4 Qb6 7. Qf3 Qxb2
+8. Bxf7+ Kd7 9. Ne2 Qxa1 10. Kd2 Bb4+ 11. Nbc3 Bxc3+ 12. Nxc3 Qxh1 13. Qg4+
+Kc7 14. Qxg7 Nd7 15. Qg3 b6 16. Nb5+ cxb5 17. Bxd6+ Kb7 18. Bd5+ Ka6 19. d4
+b4 20. Bxb4 Kb5 21. c4+ Kxb4 22. Qb3+ Ka5 23. Qb5# 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1788.??.??"]
+[Round "?"]
+[White "Von Bruehl, Hans Moritz"]
+[Black "Harrowby"]
+[Result "1-0"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Philidor counter-attack"]
+[HashCode "d2b0d4bb"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 c6 3. c3 d5 4. exd5 cxd5 5. Bb3 Nc6 6. d4 e4 7. Be3 b5 8.
+Ne2 Be6 9. Nd2 Bd6 10. Nxe4 dxe4 11. d5 Bd7 12. dxc6 Bxc6 13. Nd4 Bd7 14.
+Qh5 Qe7 15. Nxb5 Nf6 16. Nxd6+ Qxd6 17. Qxf7+ Kd8 18. Rd1 Qe7 19. Qxe7+
+Kxe7 20. Bc5+ Kd8 21. Rd6 Re8 22. O-O Re5 23. Ba3 Kc7 24. Rfd1 h5 25. Rxf6
+gxf6 26. Bd6+ 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1788.??.??"]
+[Round "?"]
+[White "Harrowby"]
+[Black "Bowdler, D."]
+[Result "0-1"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Classical variation"]
+[HashCode "d72422b9"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 Bc5 3. d3 Nc6 4. c3 Qe7 5. Qe2 d6 6. f4 Bxg1 7. Rxg1 exf4
+8. Bxf4 Ne5 9. Bxe5 Qxe5 10. g3 Nf6 11. Nd2 Bg4 12. Qg2 d5 13. Bb3 dxe4 14.
+dxe4 O-O-O 15. h3 Rxd2 16. Kxd2 Nxe4+ 17. Kc2 Bf5 18. Rae1 Rd8 19. Kc1 Bg6
+20. h4 Qc5 21. Rgf1 Nxc3 22. Bc2 Nxa2+ 23. Kb1 Nb4 24. Bxg6 fxg6 25. Qe4
+Qa5 26. Qe6+ Kb8 27. Qf7 Qa4 28. Rc1 Nc6 29. Rf4 Qb5 30. Rf3 a5 31. Qxg7
+Qd5 32. Rfc3 Rd7 33. Qf8+ Ka7 34. Qf2+ Qd4 35. Qf3 Qd5 36. Qf4 Qf5+ 37.
+Qxf5 gxf5 38. Rc5 Rd3 39. R1c3 Rd1+ 40. Kc2 Rf1 41. Kb3 h5 42. Rd5 Kb6 43.
+Rd7 f4 44. Rf7 Nd4+ 45. Ka2 Ne2 46. Rb3+ Kc6 47. gxf4 Nc1+ 48. Ka3 Nxb3 49.
+Kxb3 Rh1 50. Rf5 Rxh4 51. Kc4 b5+ 52. Kd4 Kb6 53. Ke5 Rh2 54. Kf6 a4 0-1
+
+[Event "London m1"]
+[Site "London"]
+[Date "1788.??.??"]
+[Round "?"]
+[White "Cotter"]
+[Black "Von Bruehl, Hans Moritz"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier gambit"]
+[HashCode "ee8e4e6b"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7 7. Qxg4 Nf6
+8. Qxf4 d6 9. Bc4+ Be6 10. Bxe6+ Kxe6 11. O-O Nbd7 12. d4 Ke7 13. e5 dxe5
+14. dxe5 Bg7 15. exf6+ Nxf6 16. Nc3 a5 17. Be3 Re8 18. Nb5 Kf7 19. Nxc7
+Rxe3 20. Nxa8 Re7 21. Qc4+ Kg6 22. Qd3+ Qxd3 23. cxd3 Nd5 24. Rac1 Bxb2 25.
+Rb1 Bd4+ 26. Kh1 Re8 27. Rb5 Rd8 28. Rxa5 Ne3 29. h5+ Kg7 30. Rc1 Ng4 31.
+Nc7 Nf2+ 32. Kh2 Ng4+ 33. Kg3 Bf2+ 34. Kxg4 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1788.??.??"]
+[Round "?"]
+[White "Von Bruehl, Hans Moritz"]
+[Black "Philidor, Francois Andre Dani"]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Philidor gambit"]
+[HashCode "ff3d844a"]
+[Epoch "Pawn"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. hxg5 hxg5 7. Rxh8 Bxh8 8.
+d4 g4 9. Bxf4 gxf3 10. Qxf3 Qe7 11. c3 Nf6 12. Nd2 d5 13. Bd3 dxe4 14. Nxe4
+Nxe4 15. Qxe4 Qxe4+ 16. Bxe4 c6 17. Kd2 Be6 18. b3 Nd7 19. Rh1 Bf6 20. Kc2
+O-O-O 21. Bd6 Nb6 22. Bc5 Kc7 23. Rh7 Rh8 24. c4 Rxh7 25. Bxh7 Nd7 26. Kd3
+Nxc5+ 27. dxc5 Be7 28. b4 a6 29. a3 f5 30. Bg6 Kd7 31. Bh5 Bg5 32. Bd1 Bc1 33.
+Ba4 Bxa3 34. Kc3 Bc1 35. Bd1 Bf4 36. Kd4 Ke7 37. b5 Kf6 38. Bf3 Bd7 39. b6 Bg3
+40. Bd1 Bh4 41. Ke3 Ke5 42. Bf3 Bf2+ 43. Kd3 Bxc5 44. Kc3 Bxb6 0-1
+
+[Event "London"]
+[Site "London"]
+[Date "1794.??.??"]
+[Round "?"]
+[White "Atwood, George"]
+[Black "Philidor, Francois Andre Dani"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "42bfb8dc"]
+[Epoch "Pawn"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. f4 e6 3. Nf3 Nc6 4. c3 d5 5. e5 f5 6. d4 Nh6 7. a3 Nf7 8. Be3 Qb6
+9. Qd2 Bd7 10. Qf2 c4 11. Bxc4 dxc4 12. d5 Qc7 13. dxc6 Bxc6 14. Bxa7 Bxf3 15.
+gxf3 g5 16. Be3 gxf4 17. Bxf4 Nxe5 18. Bxe5 Qxe5+ 19. Qe2 Qxe2+ 20. Kxe2 h5 21.
+Nd2 Rc8 22. Rhg1 Kf7 23. Rg2 Be7 24. Rag1 Bf6 25. Nf1 e5 26. Ne3 Ke6 27. Rd1
+Rhg8 28. Rxg8 Rxg8 29. Nxc4 Rg2+ 30. Kd3 Rxh2 31. Rd2 Rh3 32. Ke2 b5 33. Ne3
+Rh2+ 34. Ke1 Rxd2 35. Kxd2 Bg5 36. Ke2 Bxe3 37. Kxe3 h4 38. Kf2 e4 39. Kg2 e3
+40. Kh3 e2 0-1
+
+[Event "London"]
+[Site "London"]
+[Date "1794.??.??"]
+[Round "?"]
+[White "Atwood, George"]
+[Black "Philidor, Francois Andre Dani"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[Opening "Queen's gambit accepted"]
+[HashCode "453f2105"]
+[Epoch "Pawn"]
+[BlackCountry "FRA"]
+
+1. d4 d5 2. c4 dxc4 3. e3 e5 4. d5 c6 5. Bxc4 b5 6. Bb3 c5 7. a4 c4 8. Bc2 Bb7
+9. e4 a6 10. Bd2 Bc5 11. Qe2 Ne7 12. Nf3 f6 13. axb5 axb5 14. Rxa8 Bxa8 15. O-O
+Qb6 16. Nc3 Bb4 17. b3 cxb3 18. Bxb3 O-O 19. d6+ Kh8 20. dxe7 Bxe7 21. Rb1 b4
+22. Nd5 Bxd5 23. Bxd5 f5 24. Ne1 fxe4 25. Bxe4 Na6 26. Nd3 b3 27. Bd5 b2 28.
+Rxb2 Qd4 29. Bb7 Nc5 30. Be3 Qxd3 31. Bxc5 Qxe2 32. Rxe2 Bxc5 33. Rc2 Bd4 34.
+Kf1 g6 35. Rc8 Rxc8 36. Bxc8 Kg7 37. h4 h5 38. Ke2 Kf6 39. Kf3 Kg7 40. Ke4
+1/2-1/2
+
+[Event "London"]
+[Site "London"]
+[Date "1794.??.??"]
+[Round "?"]
+[White "Atwood, George"]
+[Black "Philidor, Francois Andre Dani"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "eadf9900"]
+[Epoch "Pawn"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 e6 4. c3 d5 5. e5 f5 6. d4 Nh6 7. h3 Qb6 8. b3 Bd7 9.
+Be3 Nf7 10. Qd2 O-O-O 11. Qf2 cxd4 12. Nxd4 Nxd4 13. Bxd4 Qc6 14. Nd2 b6 15. a4
+Bc5 16. Bb5 Bxd4 17. Qxd4 Qc5 18. Nf3 Bxb5 19. Qxc5+ bxc5 20. axb5 Kb7 21. Ke2
+Ra8 22. Ra6 Rhe8 23. Rd1 Nd8 24. Ne1 c4 25. bxc4 dxc4 26. Rd7+ Kc8 27. Rxg7 Rb8
+28. Raxa7 Rxb5 29. Rac7+ Kb8 30. Rxc4 Rb7 31. Rb4 Rxb4 32. cxb4 Nc6 33. Nd3 Re7
+34. Rxe7 Nxe7 35. Nc5 Ng6 36. Nxe6 Kc8 37. Ke3 Kd7 38. Nd4 Ne7 39. g4 Ke8 40.
+g5 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1795.??.??"]
+[Round "2"]
+[White "Wilson, J."]
+[Black "Atwood, George"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit"]
+[HashCode "1c444877"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. c3 Nc6
+8. d4 Nxd4 9. Bxf7+ Qxf7 10. cxd4 Bh6 11. Nc3 Ne7 12. e5 c6 13. Ne4 d5 14.
+Nd6+ 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1795.??.??"]
+[Round "?"]
+[White "Atwood, George"]
+[Black "Cotter"]
+[Result "0-1"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Philidor counter-attack"]
+[HashCode "24fa1644"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 c6 3. Nf3 d5 4. exd5 cxd5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. O-O
+Bd6 8. d3 Ne7 9. Nc3 O-O 10. Ng5 h6 11. Nf3 f5 12. h3 g5 13. Nxg5 hxg5 14.
+Bxg5 Rf7 15. Nxd5 Qf8 16. Qf3 Qg7 17. Nxe7+ Bxe7 18. Bxe7 Rxe7 19. Qxf5 Rf8
+20. Qe4 Nf6 21. Qe2 Nd5 22. Rae1 Rf6 23. Kh2 Rg6 24. Qe4 Nf4 25. g3 Ne6 26.
+a3 Nd4 27. f4 Rxg3 28. Qd5+ Kh8 29. Rxe5 Nf3+ 30. Rxf3 Rg2+ 31. Kh1 Rg1+
+32. Kh2 Qg2# 0-1
+
+[Event "London"]
+[Site "London"]
+[Date "1795.??.??"]
+[Round "5"]
+[White "Atwood, George"]
+[Black "Wilson, J."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor's defence"]
+[HashCode "7b11440d"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Bc4 Qd7 7. Qb3 c6
+8. a4 Bd6 9. O-O Nf6 10. Nc3 O-O 11. Be3 Kh8 12. Rad1 Nh5 13. Rxd6 Qxd6 14.
+Qxb7 Nd7 15. Rd1 Qb8 16. Rxd7 Qxb7 17. Rxb7 f5 18. Rxa7 Rab8 19. h3 Rxb2
+20. Bc5 Rg8 21. Bd3 g5 22. Bd6 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1795.??.??"]
+[Round "?"]
+[White "Cotter"]
+[Black "Atwood, George"]
+[Result "0-1"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Philidor counter-attack"]
+[HashCode "ae3cc26a"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 c6 3. Qf3 Nf6 4. Nc3 a6 5. a4 Bb4 6. Nge2 d5 7. exd5 Bg4 8.
+Qe3 O-O 9. f3 Bf5 10. Na2 cxd5 11. Nxb4 dxc4 12. c3 a5 13. Na2 Nd5 14. Qc5
+Bd3 15. Kf2 f5 16. b3 b6 17. Qb5 Qc7 18. Qxd5+ Kh8 19. Qxa8 Qc5+ 20. Kf1
+Nc6 21. Qb7 e4 22. Bb2 exf3 23. gxf3 Re8 24. Nc1 Qd5 25. Kg2 Bxe2 26. Nxe2
+Rxe2+ 27. Kg1 Qc5+ 28. Kf1 Qf2# 0-1
+
+[Event "London"]
+[Site "London"]
+[Date "1795.??.??"]
+[Round "1"]
+[White "Wilson, J."]
+[Black "NN"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "King's knight's gambit"]
+[HashCode "c10c0e8a"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. c3 gxf3 6. Qxf3 Bh6 7. d4 Qh4+
+8. g3 fxg3 9. Qxf7+ Kd8 10. Bxh6 g2+ 11. Ke2 Nxh6 0-1
+
+[Event "London"]
+[Site "London"]
+[Date "1798.??.??"]
+[Round "2"]
+[White "Wilson, J."]
+[Black "Atwood, George"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Salvio gambit"]
+[HashCode "6600ee71"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Nh6 6. O-O d6 7. Bxf7+ Nxf7
+8. Nxf7 Kxf7 9. Rxf4+ Kg8 10. d4 h5 11. Nc3 c6 12. Qd3 Bh6 13. Rf2 Bxc1 14.
+Rxc1 Qe8 15. Rcf1 Nd7 16. Qe3 Kg7 17. Rf7+ Kg6 18. R7f5 Kh7 19. Qg5 Rf8 20.
+Rxf8 Nxf8 21. Rf6 Ng6 22. Rxd6 Bd7 23. Qxh5+ Kg7 24. e5 Qf7 25. Ne4 Qf5 26.
+Ng5 Rh8 27. Rxd7+ Qxd7 28. Ne6+ Qxe6 29. Qg5 Rf8 30. Qd2 Qf5 31. Qe2 Nf4
+32. Qd2 Nh3+ 0-1
+
+[Event "London"]
+[Site "London"]
+[Date "1798.??.??"]
+[Round "3"]
+[White "Atwood, George"]
+[Black "Wilson, J."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit, del Rio attack"]
+[HashCode "6a0fba3b"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. dxe5 fxe4 5. Ng5 d5 6. e6 Nh6 7. Nc3 c6 8.
+Ngxe4 dxe4 9. Qh5+ g6 10. Qe5 Rg8 11. Bxh6 Bxh6 12. Rd1 Qe7 13. Bc4 a6 14.
+O-O Bg7 15. Qxe4 Bxc3 16. bxc3 Rf8 17. Rfe1 Qf6 18. e7 Bd7 19. exf8=Q+ Kxf8
+20. Rxd7 Nxd7 21. Re3 Nc5 22. Qf3 Qxf3 23. Rxf3+ Kg7 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1798.??.??"]
+[Round "1"]
+[White "Atwood, George"]
+[Black "Wilson, J."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit, del Rio attack"]
+[HashCode "7ea42e19"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. dxe5 fxe4 5. Ng5 d5 6. e6 Nh6 7. Nc3 c6 8.
+Ngxe4 dxe4 9. Qh5+ g6 10. Qe5 Rg8 11. Bxh6 Bxh6 12. Rd1 Qe7 13. Bc4 b5 14.
+Bb3 a5 15. a4 Bg7 16. Qxe4 Bxc3+ 17. bxc3 bxa4 18. Ba2 Bb7 19. O-O c5 20.
+Qc4 Bc6 21. Rfe1 Ra7 22. Qf4 Na6 23. Qf7+ Qxf7 24. exf7+ Kf8 25. fxg8=Q#
+1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1798.??.??"]
+[Round "?"]
+[White "Atwood, George"]
+[Black "Campbell"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "c10681b8"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Be6 5. Nxe6 fxe6 6. Qh5+ Kd7 7. Qb5+
+Kc8 8. Bc4 Qe7 9. Qb3 d5 10. exd5 exd5+ 11. Be2 c6 12. Nc3 Nf6 13. Bg5 Nbd7
+14. O-O-O Nc5 15. Qa3 Qe5 16. Bxf6 Qxf6 17. Kb1 Qxf2 18. Rhf1 Qxg2 19.
+Rxf8+ Rxf8 20. Qxc5 Kc7 21. Nb5+ Kd7 22. Qd6+ Ke8 23. Nc7+ Kf7 24. Qe6# 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1798.??.??"]
+[Round "?"]
+[White "NN"]
+[Black "Atwood, George"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Salvio gambit, Anderssen counter-attack"]
+[HashCode "f1554401"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4+ 6. Kf1 Nh6 7. d4 d6 8.
+Nd3 f3 9. g3 Qh3+ 10. Kf2 Qg2+ 11. Ke3 Nf5+ 12. exf5 Bh6+ 13. Nf4 Bxf5 14.
+Bd3 Bxf4+ 15. Kxf4 Bxd3 16. cxd3 Nc6 17. Qf1 Qc2 18. Qd1 Qf2 19. Re1+ Kd7
+20. Re4 Nxd4 21. Be3 Ne2+ 22. Kxg4 Rhg8+ 23. Bg5 Qxh2 0-1
+
+[Event "London"]
+[Site "London"]
+[Date "1799.??.??"]
+[Round "1"]
+[White "Atwood, George"]
+[Black "Wilson, J."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit, del Rio attack"]
+[HashCode "1091adac"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. dxe5 fxe4 5. Ng5 d5 6. e6 Nh6 7. Nc3 c6 8.
+Ngxe4 dxe4 9. Qh5+ g6 10. Qe5 Rg8 11. Bxh6 Bxh6 12. Rd1 Qe7 13. Bc4 Bg7 14.
+Qxe4 Rf8 15. Nb5 cxb5 16. Bxb5+ Nc6 17. Bxc6+ bxc6 18. Qxc6+ Bd7 19. Qxa8+
+Qd8 20. exd7+ Ke7 21. Qe4+ 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1799.??.??"]
+[Round "3"]
+[White "Atwood, George"]
+[Black "Wilson, J."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit, del Rio attack"]
+[HashCode "2a39ead4"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. dxe5 fxe4 5. Ng5 d5 6. e6 Nh6 7. Nc3 c6 8.
+Ngxe4 dxe4 9. Qh5+ g6 10. Qe5 Rg8 11. Bxh6 Bxh6 12. Rd1 Qe7 13. Bc4 Bg7 14.
+Qxe4 Bxc3+ 15. bxc3 Rf8 16. O-O Rf6 17. Rfe1 Qc5 18. Rd7 Qxf2+ 19. Kh1 Rf4
+20. Qe5 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1799.??.??"]
+[Round "2"]
+[White "Atwood, George"]
+[Black "Wilson, J."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit, del Rio attack"]
+[HashCode "3047b74e"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. dxe5 fxe4 5. Ng5 d5 6. e6 Nh6 7. Nc3 c6 8.
+Ngxe4 dxe4 9. Qh5+ g6 10. Qe5 Rg8 11. Bxh6 Bxh6 12. Rd1 Qe7 13. Bc4 b5 14.
+Bb3 a5 15. Nxe4 a4 16. Nf6+ Kf8 17. Nxg8 Kxg8 18. Rd8+ Qxd8 19. e7+ 1-0
+

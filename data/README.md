@@ -31,7 +31,11 @@ data/pgn/
 ├── lichess-broadcast/        # CC BY-SA 4.0 (attributed) — 300 broadcast games (2026-10) + groups/
 ├── classic-games/            # CC0 — Tal: Life and Games + My Memorable 60 + groups/
 ├── tcec/                     # CC BY-SA 3.0 (attributed) — 200 engine games, TCEC S29 Div P + groups/
-└── masters/                  # MIT — Fischer + Euwe master games + groups/
+├── masters/                  # MIT — Fischer + Euwe master games + groups/
+├── historic-masters/         # Unlicense — 10,942 pre-1900 master games (merged by century) + groups/
+├── lichess-crazyhouse/       # CC0 — 500 Crazyhouse games (2026-10) + groups/
+├── lichess-horde/            # CC0 — 500 Horde games (2026-10) + groups/
+└── lichess-koth/             # CC0 — 500 King of the Hill games (2026-10) + groups/
 ```
 
 Each dataset folder has a `README.md` (source, SHA-256, license) and `groups/`

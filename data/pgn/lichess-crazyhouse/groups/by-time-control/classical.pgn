@@ -1,0 +1,19 @@
+[Event "Rated Crazyhouse game"]
+[Site "https://lichess.org/game/Vy1r0ZAh"]
+[Date "2026.10.01"]
+[Round "-"]
+[White "The_Tall_Man"]
+[Black "Robson1979"]
+[Result "1-0"]
+[UTCDate "2026.10.01"]
+[UTCTime "00:56:48"]
+[WhiteElo "1427"]
+[BlackElo "1618"]
+[WhiteRatingDiff "+104"]
+[BlackRatingDiff "-7"]
+[TimeControl "3600+0"]
+[Termination "Normal"]
+[Variant "Crazyhouse"]
+
+1. e4 { [%clk 1:00:00] } 1... d5 { [%clk 1:00:00] } 2. f3 { [%clk 0:59:52] } 2... a6 { [%clk 0:59:57] } 3. d4 { [%clk 0:59:41] } 3... h6 { [%clk 0:59:49] } 4. c4 { [%clk 0:59:30] } 4... dxe4 { [%clk 0:59:40] } 5. fxe4 { [%clk 0:59:27] } 5... Bg4 { [%clk 0:59:38] } 6. Qxg4 { [%clk 0:59:19] } 6... Qxd4 { [%clk 0:59:28] } 7. Nf3 { [%clk 0:59:00] } 7... P@f2+ { [%clk 0:59:14] } 8. Ke2 { [%clk 0:58:51] } 8... Qxc4+ { [%clk 0:59:11] } 9. Kxf2 { [%clk 0:58:31] } 9... Qxc1 { [%clk 0:59:07] } 10. Bb5+ { [%clk 0:58:16] } 10... axb5 { [%clk 0:59:01] } 11. Rxc1 { [%clk 0:58:15] } 11... Na6 { [%clk 0:58:08] } 12. Q@d7# { [%clk 0:57:58] } 1-0
+

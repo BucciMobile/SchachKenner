@@ -25,6 +25,8 @@ in `data/` — everything else is link-only (see the category files).
 | **lichess Atomic 2026-10 + standard 2019-12** | ✅ CC0 (same export grant) | **Hosted** in `data/pgn/lichess-atomic/`, `data/pgn/lichess-standard-2019/` | [lichess-variants-and-broadcasts.md](lichess-variants-and-broadcasts.md) |
 | **TCEC Season 29 engine games** | ✅ **CC BY-SA 3.0** (attribution) | **Hosted** in `data/pgn/tcec/` | [tcec-ccbysa3.md](tcec-ccbysa3.md) |
 | **Master games Fischer/Euwe** (Dragjon/chessdatabase) | ✅ **MIT** | **Hosted** in `data/pgn/masters/` | [masters-mit.md](masters-mit.md) |
+| **Historic masters 1610–1899** (thechessdog/pawn, 10,942 games) | ✅ **Unlicense** (PD sources) | **Hosted** in `data/pgn/historic-masters/` (merged by century) | [historic-masters-unlicense.md](historic-masters-unlicense.md) |
+| **lichess Crazyhouse / Horde / KingOfTheHill 2026-10** | ✅ CC0 (same export grant) | **Hosted** in `data/pgn/lichess-crazyhouse/` etc. | [lichess-variants-and-broadcasts.md](lichess-variants-and-broadcasts.md) |
 | chess.com | ❌ No — User Agreement forbids download/copy/distribute/scraping | Link only | [link-only-sources.md](link-only-sources.md) |
 | chessgames.com | ❌ No — bulk database download requires paid membership; no redistribution grant | Link only | [link-only-sources.md](link-only-sources.md) |
 | The Week in Chess (TWIC) | ❌ No explicit redistribution permission found | Link only | [link-only-sources.md](link-only-sources.md) |
@@ -51,6 +53,8 @@ dcc9aa22d377aeec106b3102ff988a5438e3a04fa77969604de55fa2f54bbc10  raw/kmar-chess
 a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499  raw/brianerdelyi-ChessPGN-LICENSE.txt
 040827200dcb55ba55a976c7ca25da2b7023525999c9f7110b37106a78b7db7c  raw/TCEC-tcecgames-README.md
 43959ed7d06a8db78d3ce56527a9f076dc7386ac65ac09f319055f9717d49536  raw/Dragjon-chessdatabase-LICENSE.txt
+6b0382b16279f26ff69014300541967a356a666eb6b0b91b422f6862f6b7dad17e  raw/thechessdog-pawn-LICENSE.txt
+cf12ca700f556c7b333f5a6b84f821f03ef97c974553afafb6bf35194390295d  raw/thechessdog-pawn-README.md
 ```
 
 ## Rule for future additions

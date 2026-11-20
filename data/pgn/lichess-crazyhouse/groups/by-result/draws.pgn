@@ -1,0 +1,19 @@
+[Event "Rated Crazyhouse game"]
+[Site "https://lichess.org/game/Df5Op99i"]
+[Date "2026.10.01"]
+[Round "-"]
+[White "noideakz"]
+[Black "onenitestand"]
+[Result "1/2-1/2"]
+[UTCDate "2026.10.01"]
+[UTCTime "02:07:10"]
+[WhiteElo "1793"]
+[BlackElo "2208"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[TimeControl "0+2"]
+[Termination "Normal"]
+[Variant "Crazyhouse"]
+
+1. c4 { [%clk 0:00:03] } 1... e6 { [%clk 0:00:03] } 2. Nc3 { [%clk 0:00:05] } 2... d5 { [%clk 0:00:05] } 3. e3 { [%clk 0:00:07] } 3... d4 { [%clk 0:00:05] } 4. exd4 { [%clk 0:00:08] } 4... Qxd4 { [%clk 0:00:06] } 5. Nb5 { [%clk 0:00:09] } 5... Qe5+ { [%clk 0:00:05] } 6. P@e3 { [%clk 0:00:09] } 6... a6 { [%clk 0:00:05] } 7. Nf3 { [%clk 0:00:09] } 7... Qc5 { [%clk 0:00:06] } 8. d4 { [%clk 0:00:10] } 8... Qc6 { [%clk 0:00:06] } 9. Ne5 { [%clk 0:00:10] } 9... Qb6 { [%clk 0:00:04] } 10. c5 { [%clk 0:00:09] } 10... Qa5+ { [%clk 0:00:04] } 11. Bd2 { [%clk 0:00:09] } 11... Qxb5 { [%clk 0:00:06] } 12. Bxb5+ { [%clk 0:00:10] } 12... axb5 { [%clk 0:00:08] } 13. O-O { [%clk 0:00:10] } 13... Nd7 { [%clk 0:00:05] } 14. b4 { [%clk 0:00:11] } 14... Nxe5 { [%clk 0:00:05] } 15. dxe5 { [%clk 0:00:13] } 15... B@c4 { [%clk 0:00:04] } 16. Bc3 { [%clk 0:00:14] } 16... Bd7 { [%clk 0:00:04] } 17. a3 { [%clk 0:00:08] } 17... P@e2 { [%clk 0:00:04] } 18. Qxe2 { [%clk 0:00:07] } 18... Bxe2 { [%clk 0:00:04] } 19. P@d6 { [%clk 0:00:09] } 19... cxd6 { [%clk 0:00:03] } 20. cxd6 { [%clk 0:00:10] } 20... Rc8 { [%clk 0:00:03] } 21. N@c7+ { [%clk 0:00:12] } 21... Rxc7 { [%clk 0:00:04] } 22. dxc7 { [%clk 0:00:14] } 22... N@c6 { [%clk 0:00:03] } 23. R@b8+ { [%clk 0:00:14] } 23... N@c8 { [%clk 0:00:04] } 24. Rxc8+ { [%clk 0:00:15] } 24... Bxc8 { [%clk 0:00:05] } 25. N@b8 { [%clk 0:00:16] } 25... N@e7 { [%clk 0:00:03] } 26. Nxc6 { [%clk 0:00:17] } 26... Nxc6 { [%clk 0:00:05] } 27. N@b8 { [%clk 0:00:18] } 27... N@e7 { [%clk 0:00:06] } 28. Nxc6 { [%clk 0:00:19] } 28... Nxc6 { [%clk 0:00:07] } 1/2-1/2
+

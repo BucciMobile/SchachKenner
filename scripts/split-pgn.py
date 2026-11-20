@@ -34,6 +34,16 @@ DATASETS = [
      "files": ["data/pgn/tcec/tcec-season-29-division-p-sample-200-games.pgn"]},
     {"id": "masters",           "label": "master games — Fischer / Euwe (MIT)",
      "files": ["data/pgn/masters/fischer.pgn", "data/pgn/masters/uwe.pgn"]},
+    {"id": "historic-masters",  "label": "historic masters 1610-1899 (Unlicense, public-domain sources)",
+     "files": ["data/pgn/historic-masters/masters-1610-1699.pgn",
+               "data/pgn/historic-masters/masters-1700-1799.pgn",
+               "data/pgn/historic-masters/masters-1800-1899.pgn"]},
+    {"id": "lichess-crazyhouse","label": "lichess Crazyhouse rated 2026-10 (CC0)",
+     "files": ["data/pgn/lichess-crazyhouse/lichess-crazyhouse-2026-10-sample-500-games.pgn"]},
+    {"id": "lichess-horde",     "label": "lichess Horde rated 2026-10 (CC0)",
+     "files": ["data/pgn/lichess-horde/lichess-horde-2026-10-sample-500-games.pgn"]},
+    {"id": "lichess-koth",      "label": "lichess King of the Hill rated 2026-10 (CC0)",
+     "files": ["data/pgn/lichess-koth/lichess-kingOfTheHill-2026-10-sample-500-games.pgn"]},
 ]
 
 

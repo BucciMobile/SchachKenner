@@ -34,6 +34,8 @@ and is freely downloadable from many sites. Common formats you will encounter:
 | [`data/pgn/lichess-standard-2019/`](../data/pgn/lichess-standard-2019/) | CC0 1.0 | 1,000 standard games from **2019-12** (older era — good for date-range filtering) + groups |
 | [`data/pgn/tcec/`](../data/pgn/tcec/) | CC BY-SA 3.0 (attributed) | 200 engine games, TCEC Season 29 Division P + groups |
 | [`data/pgn/masters/`](../data/pgn/masters/) | MIT | master games: **Fischer**, **Euwe** + groups |
+| [`data/pgn/historic-masters/`](../data/pgn/historic-masters/) | Unlicense | **10,942 pre-1900 master games** (1610–1899, merged by century) + groups |
+| [`data/pgn/lichess-crazyhouse/`](../data/pgn/lichess-crazyhouse/) · [`lichess-horde/`](../data/pgn/lichess-horde/) · [`lichess-koth/`](../data/pgn/lichess-koth/) | CC0 1.0 | 500 games each: Crazyhouse, Horde, King of the Hill (2026-10) + groups |
 
 🔍 **Interactive explorer:** filter/search/sort these games live in the browser (time control, Elo slider, opening, ECO A–E, event, result, player search, copyable PGNs, own-file upload) at **https://BucciMobile.github.io/SchachKenner/** — source in [`docs/index.html`](../docs/index.html). |
 
