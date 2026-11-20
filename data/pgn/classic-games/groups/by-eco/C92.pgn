@@ -1,0 +1,57 @@
+[Event "USSR Championship"]
+[Site "Moscow URS"]
+[Date "1957.01.30"]
+[EventDate "1957.??.??"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Mikhail Tal"]
+[Black "Vladimir Antoshin"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Nd7 10.d4 Nb6 11.Be3 exd4 12.cxd4 d5 13.Nc3 dxe4 14.Nxe4 Bf5 15.d5 Na5 16.d6 cxd6 17.Bxb6 Qxb6 18.Ng3 Be6 19.Bxe6 fxe6 20.Rxe6 Bf6 21.Rxd6 Qb8 22.Nh5 Bxb2 23.Rb1 Nc4 24.Rd7 Ra7 25.Rxb2 Nxb2 26.Qd5+ Kh8 27.Qd4 Rxd7 28.Qxd7 Rg8 29.Ng5 h6 30.Nf7+ Kh7 31.h4 Qc8 32.Nf6+ Kg6 33.Nxg8 Qxd7 34.Ne5+ Kh7 35.Nxd7 Kxg8 36.Nc5 a5 37.Kf1 Nd1 38.Ne4 b4 39.Ke2 Nb2 40.Kd2 a4 1/2-1/2
+
+[Event "2nd Soviet Spartakiad qual. group 3"]
+[Site "Moscow URS"]
+[Date "1959.08.07"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Boris Spassky"]
+[Black "Mikhail Tal"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d6 9. h3 Nd7 10. d4 Nb6 11. Nbd2 exd4 12. cxd4 d5 13. Bc2 Be6 14. e5 Qd7 15. Nb3 Bf5 16. Bg5 Bb4 17. Re2 Rfe8 18. Rc1 Nc4 19. Na1 Bxc2 20. Qxc2 Re6 21. Qf5 h6 22. Bf4 Rf8 23. b3 f6 24. Qg4 f5 25. Qh5 Nd6 26. Nc2 Ne4 27. Nxb4 Nxb4 28. Ne1 c5 29. Rb2 cxd4 30. Qd1 g5 31. Bh2 Rc8 32. Rxc8+ Qxc8 33. f3 Qc3 34. fxe4 Qxb2 35. exf5 Rc6 36. Bg3 d3 37. Qh5 d2 38. Qe8+ Kg7 39. Qe7+ Kh8 40. f6 dxe1=Q+ 41. Bxe1 1-0
+
+[Event "Portoroz Interzonal"]
+[Site "Portoroz SLO"]
+[Date "1958.09.03"]
+[EventDate "1958.08.05"]
+[Round "17"]
+[Result "1-0"]
+[White "Mikhail Tal"]
+[Black "Oscar Panno"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Nd7 10.d4 Nb6 11.Be3 exd4 12.cxd4 Na5 13.Bc2 c5 14.e5 dxe5 15.Nxe5 Nbc4 16.Qd3 f5 17.Bb3 f4 18.Bd2 Nxb3 19.Nc6 Nxa1 20.Nxd8 Bf5 21.Qf3 Raxd8 22.Rxe7 Bxb1 23.Bxf4 Rxd4 24.Qg4 Bg6 25.Qe6+ Bf7 26.Qf5 Nc2 27.b3 Bg6 28.Rxg7+ Kxg7 29.Bh6+ Kxh6 30.Qxf8+ Kg5 31.bxc4 bxc4 32.g3 Be4 33.h4+ Kg4 34.Kh2 Bf5 35.Qf6 h6 36.Qe5 Re4 37.Qg7+ Kf3 38.Qc3+ Ne3 39.Kg1 Bg4 40.fxe3 h5 41.Qe1 Rxe3 42.Qf1+ Ke4 43.Qxc4+ Kf3 44.Qf1+ Ke4 45.Qxa6 Kd4 46.Qd6+ Kc4 47.a4 Re1+ 48.Kf2 Re2+ 49.Kf1 Ra2 50.Qa6+ Kd4+ 51.a5 c4 52.Qb6+ Kd5 53.a6 Ra1+ 54.Kf2 c3 55.a7 c2 56.Qb3+ Kd6 57.Qd3+ 1-0
+
+[Event "Sousse Interzonal"]
+[Site "Sousse TUN"]
+[Date "1967.10.24"]
+[Round "7"]
+[White "Robert James Fischer"]
+[Black "Leonid Stein"]
+[Result "1-0"]
+[ECO "C92"]
+[EventDate "1967.??.??"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Bb7 10.d4 Na5 11.Bc2 Nc4 12.b3 Nb6 13.Nbd2 Nbd7 14.b4 exd4 15.cxd4 a5 16.bxa5 c5 17.e5 dxe5 18.dxe5 Nd5 19.Ne4 Nb4 20.Bb1 Rxa5 21.Qe2 Nb6 22.Nfg5 Bxe4 23.Qxe4 g6 24.Qh4 h5 25.Qg3 Nc4 26.Nf3 Kg7 27.Qf4 Rh8 28.e6 f5 29.Bxf5 Qf8 30.Be4 Qxf4 31.Bxf4 Re8 32.Rad1 Ra6 33.Rd7 Rxe6 34.Ng5 Rf6 35.Bf3 Rxf4 36.Ne6+ Kf6 37.Nxf4 Ne5 38.Rb7 Bd6 39.Kf1 Nc2 40.Re4 Nd4 41.Rb6 Rd8 42.Nd5+ Kf5 43.Ne3+ Ke6 44.Be2 Kd7 45.Bxb5+ Nxb5 46.Rxb5 Kc6 47.a4 Bc7 48.Ke2 g5 49.g3 Ra8 50.Rb2 Rf8 51.f4 gxf4 52.gxf4 Nf7 53.Re6+ Nd6 54.f5 Ra8 55.Rd2 Rxa4 56.f6 1-0
+

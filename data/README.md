@@ -23,13 +23,19 @@ Everything else in the repo is links to the original sources.
 ## Currently hosted (with explicit permission)
 
 ```
-data/pgn/lichess/
-├── README.md
-├── lichess-standard-2026-10-sample-2000-games.pgn   # CC0 — 2,000 games from the official 2026-10 export
-└── lichess-puzzles-sample-1000.csv                  # CC0 — 1,000 puzzles from the official puzzle export
+data/pgn/
+├── lichess/                  # CC0 — 2,000 standard rated games (2026-10) + 1,000-puzzle CSV + groups/
+├── lichess-chess960/         # CC0 — 1,000 Chess960 rated games (2026-10) + groups/
+├── lichess-broadcast/        # CC BY-SA 4.0 (attributed) — 300 broadcast games (2026-10) + groups/
+└── classic-games/            # CC0 — Tal: Life and Games + My Memorable 60 + groups/
 ```
 
-Permission evidence: [`licenses/lichess-database-cc0.md`](../licenses/lichess-database-cc0.md)
+Each dataset folder has a `README.md` (source, SHA-256, license) and `groups/`
+(pre-sorted files + index, regenerate with `python scripts/split-pgn.py`).
+Interactive explorer for all datasets: https://buccimobile.github.io/SchachKenner/
+
+Permission evidence: [`licenses/`](../licenses/) — `lichess-database-cc0.md`,
+`lichess-variants-and-broadcasts.md`, `classic-games-cc0.md`
 
 ## What goes where
 

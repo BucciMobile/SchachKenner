@@ -20,6 +20,8 @@ in `data/` — everything else is link-only (see the category files).
 | **lichess database exports** (games + puzzles) | ✅ **Yes — CC0**: "You can download, modify and redistribute them, without asking for permission." (broadcasts: CC BY-SA 4.0) | **Hosted** in `data/pgn/lichess/` (small samples; full dumps stay at source) | [lichess-database-cc0.md](lichess-database-cc0.md) |
 | **Lumbras Gigabase** | ✅ Yes, with conditions — **CC BY-NC 4.0**: share with credit, non-commercial only (some files CC BY-SA 4.0) | Licensed to share; bulk download is click-gated on their site, so we **link** and keep the evidence here | [lumbras-gigabase-cc-by-nc.md](lumbras-gigabase-cc-by-nc.md) |
 | **Chess piece graphics — livius set** (kmar/chess_svg_piece_sets) | ✅ **Yes — Unlicense / public domain** ("freely … for any purpose, commercial or non-commercial") | **Hosted** in `assets/img/` (banner, icons, divider) | [chess-pieces-cc0.md](chess-pieces-cc0.md) |
+| **lichess variant exports (Chess960)** + **broadcast exports** | ✅ CC0 (variants) / **CC BY-SA 4.0 with attribution** (broadcasts) | **Hosted** in `data/pgn/lichess-chess960/`, `data/pgn/lichess-broadcast/` | [lichess-variants-and-broadcasts.md](lichess-variants-and-broadcasts.md) |
+| **Classic games PGN** (brianerdelyi/ChessPGN: Tal, Memorable 60) | ✅ **CC0-1.0** | **Hosted** in `data/pgn/classic-games/` | [classic-games-cc0.md](classic-games-cc0.md) |
 | chess.com | ❌ No — User Agreement forbids download/copy/distribute/scraping | Link only | [link-only-sources.md](link-only-sources.md) |
 | chessgames.com | ❌ No — bulk database download requires paid membership; no redistribution grant | Link only | [link-only-sources.md](link-only-sources.md) |
 | The Week in Chess (TWIC) | ❌ No explicit redistribution permission found | Link only | [link-only-sources.md](link-only-sources.md) |
@@ -43,6 +45,7 @@ fe32badd86dac41f1de63d02c9cc077edbc750c1f7d55843d3425588c53552f2  raw/ficsgames.
 687d148f2186bfac792b1633092d2852110dd2ba7f0a4574fca209f2476865e4  raw/theweekinchess.com-home.2026-11-19.html
 ce370b6e6d250544b2a59325f446dbdee192f888d07d147abd714ba31949856c  raw/kmar-chess_svg_piece_sets-livius-LICENSE.txt
 dcc9aa22d377aeec106b3102ff988a5438e3a04fa77969604de55fa2f54bbc10  raw/kmar-chess_svg_piece_sets-README.md
+a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499  raw/brianerdelyi-ChessPGN-LICENSE.txt
 ```
 
 ## Rule for future additions

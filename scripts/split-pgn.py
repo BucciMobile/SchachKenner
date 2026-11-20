@@ -1,47 +1,58 @@
 #!/usr/bin/env python3
-"""Split the hosted CC0 lichess PGN sample into sensible groups.
+"""Split the hosted CC0/CC-BY-SA PGN samples into sensible groups.
 
-Reads:  data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn
-Writes: data/pgn/lichess/groups/<criterion>/<group>.pgn  +  groups/README.md index
+For every dataset in DATASETS below this writes:
+  data/pgn/<id>/groups/<criterion>/<group>.pgn  +  data/pgn/<id>/groups/README.md
 
 Groupings: by-opening (top 15 + other), by-eco (top 20 + other),
 by-rating-band, by-time-control, by-result.
 
-The source is CC0 (https://database.lichess.org/), so derived groups are CC0 too.
-Usage:  python scripts/split-pgn.py        (run from the repo root)
+All sources are explicitly redistributable (see licenses/):
+lichess exports = CC0, lichess broadcasts = CC BY-SA 4.0 (attribution),
+classic-games = CC0. Usage:  python scripts/split-pgn.py   (from repo root)
 """
-import os, re, sys
+import os, re
 from collections import defaultdict, Counter
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SRC = os.path.join(ROOT, 'data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn')
-OUT = os.path.join(ROOT, 'data/pgn/lichess/groups')
+
+DATASETS = [
+    {"id": "lichess",           "label": "lichess standard rated 2026-10 (CC0)",
+     "files": ["data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn"]},
+    {"id": "lichess-chess960",  "label": "lichess Chess960 rated 2026-10 (CC0)",
+     "files": ["data/pgn/lichess-chess960/lichess-chess960-2026-10-sample-1000-games.pgn"]},
+    {"id": "lichess-broadcast", "label": "lichess broadcasts 2026-10 (CC BY-SA 4.0)",
+     "files": ["data/pgn/lichess-broadcast/lichess-broadcast-2026-10-sample-300-games.pgn"]},
+    {"id": "classic-games",     "label": "classic games — Tal / Memorable 60 (CC0)",
+     "files": ["data/pgn/classic-games/life-and-games-of-mikhail-tal.pgn",
+               "data/pgn/classic-games/my-memorable-60.pgn"]},
+]
 
 
 def render(tags, moves):
-    head = '\n'.join(f'[{k} "{v}"]' for k, v in tags.items())
-    return head + '\n\n' + moves + '\n'
+    return '\n'.join(f'[{k} "{v}"]' for k, v in tags.items()) + '\n\n' + moves + '\n'
 
 
-def parse_games(path):
+def parse_games(paths):
     games, cur_tags, cur_moves = [], {}, []
 
     def flush():
         if cur_tags or cur_moves:
             games.append((dict(cur_tags), ' '.join(cur_moves).strip()))
 
-    with open(path, encoding='utf-8', errors='replace') as f:
-        for line in f:
-            line = line.rstrip('\r\n')
-            if line.startswith('[') and ' "' in line:
-                m = re.match(r'\[(\w+)\s+"(.*)"\]', line)
-                if m:
-                    if m.group(1) == 'Event' and cur_moves:
-                        flush()
-                        cur_tags, cur_moves = {}, []
-                    cur_tags[m.group(1)] = m.group(2)
-            elif line.strip():
-                cur_moves.append(line.strip())
+    for path in paths:
+        with open(path, encoding='utf-8', errors='replace') as f:
+            for line in f:
+                line = line.rstrip('\r\n')
+                if line.startswith('[') and ' "' in line:
+                    m = re.match(r'\[(\w+)\s+"(.*)"\]', line)
+                    if m:
+                        if m.group(1) == 'Event' and cur_moves:
+                            flush()
+                            cur_tags, cur_moves = {}, []
+                        cur_tags[m.group(1)] = m.group(2)
+                elif line.strip():
+                    cur_moves.append(line.strip())
     flush()
     return games
 
@@ -69,13 +80,7 @@ def tc_class(tags):
     base = int(m.group(1)) if m else (int(tc) if tc.isdigit() else None)
     if base is None:
         return 'unknown'
-    if base < 180:
-        return 'bullet'
-    if base < 480:
-        return 'blitz'
-    if base < 1500:
-        return 'rapid'
-    return 'classical'
+    return 'bullet' if base < 180 else 'blitz' if base < 480 else 'rapid' if base < 1500 else 'classical'
 
 
 GROUPS = {
@@ -86,53 +91,44 @@ GROUPS = {
     'by-result': lambda t: {'1-0': 'white-wins-1-0', '0-1': 'black-wins-0-1',
                             '1/2-1/2': 'draws', '*': 'other'}.get(t.get('Result', '*'), 'other'),
 }
-TOP = {'by-opening': 15, 'by-eco': 20}   # keep top-N named groups, rest -> other.pgn
+TOP = {'by-opening': 15, 'by-eco': 20}
 
 
 def main():
-    games = parse_games(SRC)
-    print('games parsed:', len(games))
-    index = defaultdict(list)
-
-    for crit, fn in GROUPS.items():
-        buckets = defaultdict(list)
-        for tags, moves in games:
-            buckets[fn(tags)].append((tags, moves))
-        top = set()
-        if crit in TOP:
-            top = {k for k, _ in Counter(buckets.keys()).most_common(TOP[crit])}
-
-        def label_of(key):
-            if crit not in TOP or key in top:
-                return key
-            return 'other'
-
-        os.makedirs(os.path.join(OUT, crit), exist_ok=True)
-        files = defaultdict(list)  # label -> [(tags, moves)]
-        for key, items in buckets.items():
-            files[label_of(key)].extend(items)
-        for label, items in files.items():
-            path = os.path.join(OUT, crit, slug(label) + '.pgn')
-            with open(path, 'w', encoding='utf-8') as f:
-                for tags, moves in items:
-                    f.write(render(tags, moves) + '\n')
-            index[crit].append((label, f'{crit}/{slug(label)}.pgn', len(items)))
-        print(crit, '->', len(files), 'groups')
-
-    total = len(games)
-    lines = ['# Grouped samples — lichess CC0 (2,000 games, 2026-10 export)', '',
-             f'Derived from [`../lichess-standard-2026-10-sample-2000-games.pgn`](../lichess-standard-2026-10-sample-2000-games.pgn)',
-             '(CC0 — see [`licenses/lichess-database-cc0.md`](../../../licenses/lichess-database-cc0.md)).',
-             'Regenerate with `python scripts/split-pgn.py` (from the repo root).', '']
-    for crit in ['by-opening', 'by-eco', 'by-rating-band', 'by-time-control', 'by-result']:
-        lines += [f'## {crit} ({sum(c for _, _, c in index[crit])} games)', '',
-                  '| Group | Games | File |', '|---|---|---|']
-        for label, file, cnt in sorted(index[crit], key=lambda x: -x[2]):
-            lines.append(f'| {label} | {cnt} ({cnt / total:.1%}) | [`{file.split("/")[-1]}`](../{file}) |')
-        lines.append('')
-    with open(os.path.join(OUT, 'README.md'), 'w', encoding='utf-8') as f:
-        f.write('\n'.join(lines))
-    print('index written:', os.path.join(OUT, 'README.md'))
+    for ds in DATASETS:
+        srcs = [os.path.join(ROOT, f) for f in ds['files']]
+        games = parse_games(srcs)
+        out = os.path.join(ROOT, 'data/pgn', ds['id'], 'groups')
+        index = defaultdict(list)
+        for crit, fn in GROUPS.items():
+            buckets = defaultdict(list)
+            for tags, moves in games:
+                buckets[fn(tags)].append((tags, moves))
+            top = set()
+            if crit in TOP:
+                top = {k for k, _ in Counter(buckets.keys()).most_common(TOP[crit])}
+            files = defaultdict(list)
+            for key, items in buckets.items():
+                label = key if (crit not in TOP or key in top) else 'other'
+                files[label].extend(items)
+            os.makedirs(os.path.join(out, crit), exist_ok=True)
+            for label, items in files.items():
+                with open(os.path.join(out, crit, slug(label) + '.pgn'), 'w', encoding='utf-8') as f:
+                    for tags, moves in items:
+                        f.write(render(tags, moves) + '\n')
+                index[crit].append((label, f'{crit}/{slug(label)}.pgn', len(items)))
+        total = len(games)
+        lines = [f'# Grouped samples — {ds["label"]}', '',
+                 f'{total} games. License & permission proof: see `licenses/`.',
+                 'Regenerate with `python scripts/split-pgn.py` (from the repo root).', '']
+        for crit in ['by-opening', 'by-eco', 'by-rating-band', 'by-time-control', 'by-result']:
+            lines += [f'## {crit}', '', '| Group | Games | File |', '|---|---|---|']
+            for label, file, cnt in sorted(index[crit], key=lambda x: -x[2]):
+                lines.append(f'| {label} | {cnt} ({cnt / total:.1%}) | [`{file.split("/")[-1]}`](../{file}) |')
+            lines.append('')
+        with open(os.path.join(out, 'README.md'), 'w', encoding='utf-8') as f:
+            f.write('\n'.join(lines))
+        print(ds['id'], '->', total, 'games,', sum(len(v) for v in index.values()), 'group files')
 
 
 if __name__ == '__main__':

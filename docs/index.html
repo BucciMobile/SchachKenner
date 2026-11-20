@@ -75,9 +75,12 @@
   <span id="status">loading…</span>
 </header>
 <main>
-  <p>This tool filters the <strong>CC0-licensed</strong> game sample hosted in this repo
-  (<a href="https://github.com/BucciMobile/SchachKenner/tree/main/data/pgn/lichess">data/pgn/lichess/</a>)
-  directly in your browser — no server, no upload. You can also load your own PGN file below.</p>
+  <p>This tool filters the <strong>freely licensed</strong> game samples hosted in this repo
+  (<a href="https://github.com/BucciMobile/SchachKenner/tree/main/data/pgn">data/pgn/</a> —
+  CC0 / CC BY-SA 4.0, proofs in <a href="https://github.com/BucciMobile/SchachKenner/tree/main/licenses">licenses/</a>)
+  directly in your browser — no server, no upload. Pick a dataset or load your own PGN file below.</p>
+  <p><label for="f-dataset"><strong>Dataset:</strong></label>
+     <select id="f-dataset" style="max-width:100%"></select></p>
 
   <details id="filtersWrap" open>
   <summary>🔎 Filters <span id="activeCount"></span></summary>
@@ -120,7 +123,14 @@
 
 <script>
 "use strict";
-const SAMPLE_URL = "https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn";
+const RAW = "https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/";
+const DATASETS = [
+  {label: "lichess standard rated 2026-10 — 2,000 games (CC0)", url: RAW + "data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn"},
+  {label: "lichess Chess960 rated 2026-10 — 1,000 games (CC0)", url: RAW + "data/pgn/lichess-chess960/lichess-chess960-2026-10-sample-1000-games.pgn"},
+  {label: "lichess broadcasts 2026-10 — 300 games (CC BY-SA 4.0)", url: RAW + "data/pgn/lichess-broadcast/lichess-broadcast-2026-10-sample-300-games.pgn"},
+  {label: "classic games: Tal + Memorable 60 (CC0)", url: RAW + "data/pgn/classic-games/life-and-games-of-mikhail-tal.pgn"},
+  {label: "classic games: My Memorable 60 (CC0)", url: RAW + "data/pgn/classic-games/my-memorable-60.pgn"}
+];
 const $ = id => document.getElementById(id);
 let games = [];
 let lastOut = [];
@@ -230,14 +240,21 @@ function loadText(text, label){
   fillDatalists(); apply();
 }
 
-async function loadSample(){
-  $("status").textContent = "loading sample PGN…";
+function fillDatasetSelect(){
+  const sel = $("f-dataset");
+  sel.innerHTML = DATASETS.map((d, i) => '<option value="' + i + '">' + esc(d.label) + '</option>').join("");
+  sel.addEventListener("change", () => loadDataset(+sel.value));
+}
+
+async function loadDataset(i){
+  const d = DATASETS[i] || DATASETS[0];
+  $("status").textContent = "loading " + d.label + " …";
   try {
-    const r = await fetch(SAMPLE_URL);
+    const r = await fetch(d.url);
     if (!r.ok) throw new Error("HTTP " + r.status);
-    loadText(await r.text(), "lichess CC0 sample 2026-10");
+    loadText(await r.text(), d.label);
   } catch (e) {
-    $("status").textContent = "Could not auto-load the sample (" + e.message + "). Use the file picker or open the PGN directly.";
+    $("status").textContent = "Could not load this dataset (" + e.message + "). Try another one or use the file picker.";
   }
 }
 
@@ -268,7 +285,8 @@ $("results").addEventListener("click", ev => {
 // desktop: filter panel open; mobile: collapsed (user can tap to open)
 if (window.innerWidth < 900) $("filtersWrap").open = false;
 
-loadSample();
+fillDatasetSelect();
+loadDataset(0);
 </script>
 </body>
 </html>

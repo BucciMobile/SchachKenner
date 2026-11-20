@@ -27,6 +27,9 @@ and is freely downloadable from many sites. Common formats you will encounter:
 | [`data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn`](../data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn) | CC0 1.0 | 2,000-game PGN sample from the official lichess 2026-10 export |
 | [`data/pgn/lichess/lichess-puzzles-sample-1000.csv`](../data/pgn/lichess/lichess-puzzles-sample-1000.csv) | CC0 1.0 | 1,000-puzzle CSV sample from the official lichess puzzle export |
 | [`data/pgn/lichess/groups/`](../data/pgn/lichess/groups/README.md) | CC0 1.0 | the 2,000 games **pre-sorted into 51 groups**: by opening (top 15), by ECO code (top 20), by rating band, by time control, by result — index with counts in [`groups/README.md`](../data/pgn/lichess/groups/README.md) |
+| [`data/pgn/lichess-chess960/…sample-1000-games.pgn`](../data/pgn/lichess-chess960/) | CC0 1.0 | 1,000 Chess960 variant games (2026-10) + groups |
+| [`data/pgn/lichess-broadcast/…sample-300-games.pgn`](../data/pgn/lichess-broadcast/) | CC BY-SA 4.0 (attributed) | 300 top-level broadcast games (2026-10) + groups |
+| [`data/pgn/classic-games/`](../data/pgn/classic-games/) | CC0 1.0 | classic games: *Life and Games of Mikhail Tal*, *My Memorable 60* + groups |
 
 🔍 **Interactive explorer:** filter/search/sort these games live in the browser (time control, Elo slider, opening, ECO A–E, event, result, player search, copyable PGNs, own-file upload) at **https://BucciMobile.github.io/SchachKenner/** — source in [`docs/index.html`](../docs/index.html). |
 

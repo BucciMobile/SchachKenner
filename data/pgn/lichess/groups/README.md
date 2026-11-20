@@ -1,10 +1,9 @@
-# Grouped samples — lichess CC0 (2,000 games, 2026-10 export)
+# Grouped samples — lichess standard rated 2026-10 (CC0)
 
-Derived from [`../lichess-standard-2026-10-sample-2000-games.pgn`](../lichess-standard-2026-10-sample-2000-games.pgn)
-(CC0 — see [`licenses/lichess-database-cc0.md`](../../../licenses/lichess-database-cc0.md)).
+2000 games. License & permission proof: see `licenses/`.
 Regenerate with `python scripts/split-pgn.py` (from the repo root).
 
-## by-opening (2000 games)
+## by-opening
 
 | Group | Games | File |
 |---|---|---|
@@ -25,7 +24,7 @@ Regenerate with `python scripts/split-pgn.py` (from the repo root).
 | Indian Defense: Wade-Tartakower Defense | 2 (0.1%) | [`Indian_Defense_Wade-Tartakower_Defense.pgn`](../by-opening/Indian_Defense_Wade-Tartakower_Defense.pgn) |
 | Queen's Gambit Declined: Ragozin Defense | 1 (0.1%) | [`Queen_s_Gambit_Declined_Ragozin_Defense.pgn`](../by-opening/Queen_s_Gambit_Declined_Ragozin_Defense.pgn) |
 
-## by-eco (2000 games)
+## by-eco
 
 | Group | Games | File |
 |---|---|---|
@@ -51,7 +50,7 @@ Regenerate with `python scripts/split-pgn.py` (from the repo root).
 | D38 | 1 (0.1%) | [`D38.pgn`](../by-eco/D38.pgn) |
 | C69 | 1 (0.1%) | [`C69.pgn`](../by-eco/C69.pgn) |
 
-## by-rating-band (2000 games)
+## by-rating-band
 
 | Group | Games | File |
 |---|---|---|
@@ -63,7 +62,7 @@ Regenerate with `python scripts/split-pgn.py` (from the repo root).
 | 2200-plus | 158 (7.9%) | [`2200-plus.pgn`](../by-rating-band/2200-plus.pgn) |
 | unknown | 4 (0.2%) | [`unknown.pgn`](../by-rating-band/unknown.pgn) |
 
-## by-time-control (2000 games)
+## by-time-control
 
 | Group | Games | File |
 |---|---|---|
@@ -72,7 +71,7 @@ Regenerate with `python scripts/split-pgn.py` (from the repo root).
 | rapid | 320 (16.0%) | [`rapid.pgn`](../by-time-control/rapid.pgn) |
 | classical | 18 (0.9%) | [`classical.pgn`](../by-time-control/classical.pgn) |
 
-## by-result (2000 games)
+## by-result
 
 | Group | Games | File |
 |---|---|---|
