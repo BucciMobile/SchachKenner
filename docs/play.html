@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>♞ SchachKenner — Play &amp; Analyze (in-browser tool)</title>
+<meta name="description" content="Play against Stockfish 16 (WASM, in your browser) or analyze any of the freely licensed games from the SchachKenner repo — no server, no upload. Deep-linkable via ?src=<pgn-url>&game=<index>.">
+<link rel="icon" href="https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/assets/img/pieces/livius/wn.svg" type="image/svg+xml">
+<style>
+  :root{
+    --light:#f0d9b5; --dark:#b58863; --ink:#2b2b2b; --bg:#faf7f2; --card:#ffffff;
+    --line:#e5ddcf; --accent:#7a5c3e; --muted:#8a8178; --sel:#f7e08b; --last:#cde6a7; --check:#e08b8b;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --ink:#ece7df; --bg:#1e1b17; --card:#2a2620; --line:#453e33; --accent:#d8b48a; --muted:#a89c8c; --sel:#8a7434; --last:#4d6b3f; --check:#8b3a3a; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+  header{display:flex;align-items:center;gap:.8rem;padding:1rem 1.5rem;border-bottom:1px solid var(--line);background:var(--card);flex-wrap:wrap}
+  header img{width:34px;height:34px}
+  header h1{font-size:1.1rem;margin:0}
+  header a{color:var(--accent);text-decoration:none;font-size:.9rem}
+  .badge{background:var(--accent);color:#fff;font-size:.68rem;font-weight:700;border-radius:20px;padding:.12rem .5rem;vertical-align:middle}
+  main{max-width:1100px;margin:0 auto;padding:1rem 1.5rem 4rem}
+  #status{color:var(--muted);font-size:.85rem}
+  #controls{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.8rem 1rem;margin:1rem 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:.6rem .9rem}
+  #controls label{display:block;font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-bottom:.2rem}
+  #controls input,#controls select,#controls textarea{width:100%;padding:.35rem .45rem;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);font-size:.9rem}
+  #controls .wide{grid-column:1/-1}
+  #controls button, a.btn{cursor:pointer;border:1px solid var(--line);background:var(--light);color:#3a2f22;border-radius:6px;padding:.35rem .7rem;font-size:.85rem;text-decoration:none;display:inline-block}
+  @media (prefers-color-scheme: dark){ #controls button, a.btn{background:var(--dark);color:#fff} }
+  #controls button:hover, a.btn:hover{filter:brightness(1.06)}
+  button.on{outline:2px solid var(--accent)}
+  #boardArea{display:flex;gap:1rem;align-items:stretch;flex-wrap:wrap}
+  #evalWrap{display:flex;flex-direction:column;width:26px;border:1px solid var(--line);border-radius:6px;overflow:hidden;background:#111}
+  #evalFill{background:#f5f5f5;width:100%;height:50%;transition:height .25s}
+  #evalTxt{writing-mode:vertical-rl;transform:rotate(180deg);margin:auto;font-size:.72rem;color:#ddd;font-variant-numeric:tabular-nums}
+  #boardWrap{position:relative;width:min(92vw,560px);aspect-ratio:1}
+  #board{display:grid;grid-template-columns:repeat(8,1fr);grid-template-rows:repeat(8,1fr);width:100%;height:100%;border:1px solid var(--line);border-radius:6px;overflow:hidden;touch-action:manipulation}
+  .sq{position:relative;display:flex;align-items:center;justify-content:center;user-select:none;cursor:default}
+  .sq.l{background:var(--light)} .sq.d{background:var(--dark)}
+  .sq.last::before{content:"";position:absolute;inset:0;background:rgba(120,180,60,.45)}
+  .sq.sel::before{content:"";position:absolute;inset:0;background:rgba(250,220,80,.55)}
+  .sq.check::before{content:"";position:absolute;inset:0;background:rgba(220,60,60,.55)}
+  .sq img{width:88%;height:88%;position:relative;z-index:1;pointer-events:none}
+  .sq .dot{position:absolute;z-index:2;width:26%;height:26%;border-radius:50%;background:rgba(20,20,20,.28)}
+  .sq .ring{position:absolute;z-index:2;inset:6%;border-radius:50%;border:4px solid rgba(20,20,20,.32)}
+  .coord{position:absolute;font-size:.6rem;z-index:2;pointer-events:none}
+  .coord.f{right:2px;bottom:1px} .coord.r{left:2px;top:1px}
+  .sq.l .coord{color:var(--dark)} .sq.d .coord{color:var(--light)}
+  #arrows{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:3}
+  #side{flex:1 1 260px;min-width:240px;display:flex;flex-direction:column;gap:.6rem}
+  #meta{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:.6rem .8rem;font-size:.85rem}
+  #meta strong{font-size:.95rem}
+  #meta .m{color:var(--muted)}
+  #pvLine{font-size:.8rem;color:var(--accent);min-height:1.2em;word-break:break-word}
+  #moves{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:.5rem .7rem;height:220px;overflow-y:auto;font-size:.9rem;line-height:1.9}
+  #moves .mv{cursor:pointer;padding:.05rem .3rem;border-radius:4px;display:inline-block}
+  #moves .mv:hover{background:var(--light)}
+  #moves .mv.cur{background:var(--accent);color:#fff}
+  #moves .num{color:var(--muted);display:inline-block;width:2.2em}
+  #nav{display:flex;gap:.4rem;flex-wrap:wrap;margin:.4rem 0}
+  #nav button{font-size:1rem;padding:.35rem .6rem}
+  #rawPgn{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:.6rem .8rem;overflow-x:auto;font-size:.75rem;white-space:pre-wrap;word-break:break-word;max-height:300px;overflow-y:auto}
+  footer{color:var(--muted);font-size:.8rem;text-align:center;margin-top:2rem;line-height:1.7}
+  footer a{color:var(--accent)}
+  @media (max-width:640px){
+    body{font-size:16px}
+    main{padding:.5rem .7rem 3rem}
+    header{padding:.7rem .8rem;gap:.5rem}
+    header h1{font-size:.98rem}
+    header img{width:28px;height:28px}
+    #controls{grid-template-columns:1fr 1fr}
+    #controls input,#controls select,#controls textarea{font-size:16px;padding:.5rem}
+    #controls button{font-size:16px;padding:.55rem .8rem;touch-action:manipulation}
+    #boardArea{flex-direction:column}
+    #boardWrap{width:100%}
+    #evalWrap{flex-direction:row;width:100%;height:22px}
+    #evalFill{height:100%;width:50%}
+    #evalTxt{writing-mode:horizontal-tb;transform:none}
+    #moves{height:160px}
+  }
+</style>
+</head>
+<body>
+<header>
+  <img src="https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/assets/img/pieces/livius/wn.svg" alt="knight">
+  <h1>SchachKenner · Play &amp; Analyze <span class="badge">NEW!</span></h1>
+  <a href="./index.html">🔎 PGN Explorer</a>
+  <a href="https://github.com/BucciMobile/SchachKenner">← back to the repo</a>
+  <span id="status">…</span>
+</header>
+<main>
+  <p>Play against <strong>Stockfish 16</strong> (WebAssembly, runs locally in your browser — no server) or
+  <strong>analyze</strong> any of the freely licensed games hosted in this repo
+  (<a href="https://github.com/BucciMobile/SchachKenner/tree/main/data/pgn">data/pgn/</a>).
+  Deep-link format: <code>play.html?src=&lt;raw-pgn-url&gt;&amp;game=&lt;index-in-file&gt;</code> —
+  the <em>▶ Play / Analyze</em> button in the <a href="./index.html">Explorer</a> does exactly that.</p>
+
+  <section id="controls">
+    <div class="wide"><label for="src">Game source (licensed datasets hosted in this repo)</label>
+      <select id="src"><option value="">— pick a dataset —</option></select></div>
+    <div class="wide"><label for="game">Game</label>
+      <select id="game"></select></div>
+    <div><label for="file">…or your own PGN file</label><input type="file" id="file" accept=".pgn,.txt"></div>
+    <div class="wide"><details><summary style="cursor:pointer;font-size:.85rem;color:var(--muted)">…or paste PGN text</summary>
+      <textarea id="paste" rows="4" placeholder="[Event &quot;…&quot;] … 1. e4 e5 …"></textarea>
+      <button id="pasteBtn" type="button" style="margin-top:.3rem">load pasted PGN</button></details></div>
+
+    <div><label for="mode">Mode</label>
+      <select id="mode">
+        <option value="view">👀 View game</option>
+        <option value="play">🤖 Play vs engine</option>
+        <option value="analyze">🔍 Analyze position</option>
+      </select></div>
+    <div><label for="color">You play (in Play mode)</label>
+      <select id="color"><option value="w">White</option><option value="b">Black</option></select></div>
+    <div><label for="depth">Engine depth (mobile: keep low)</label>
+      <select id="depth"><option>6</option><option>8</option><option selected>10</option><option>12</option><option>14</option><option>16</option></select></div>
+    <div><label>&nbsp;</label>
+      <button id="copyBtn" type="button">📋 copy PGN</button>
+      <a class="btn" id="lichessBtn" href="https://lichess.org/analysis" target="_blank" rel="noopener">↗ analyze on lichess</a>
+    </div>
+  </section>
+
+  <div id="nav">
+    <button id="bFirst" title="start">⏮</button>
+    <button id="bPrev" title="previous move">◀</button>
+    <button id="bNext" title="next move">▶</button>
+    <button id="bLast" title="end">⏭</button>
+    <button id="bFlip" title="flip board">🔄 flip</button>
+    <span id="plyInfo" class="m" style="align-self:center;color:var(--muted);font-size:.85rem"></span>
+  </div>
+
+  <section id="boardArea">
+    <div id="evalWrap"><div id="evalFill"></div><span id="evalTxt">–</span></div>
+    <div id="boardWrap"><div id="board"></div><svg id="arrows" viewBox="0 0 800 800" preserveAspectRatio="none">
+      <defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+        <path d="M 0 0 L 10 5 L 0 10 z" fill="#c0392b"></path></marker></defs>
+      <line id="arrowLine" x1="0" y1="0" x2="0" y2="0" stroke="#c0392b" stroke-width="14" marker-end="url(#ah)" opacity="0"></line>
+    </svg></div>
+    <div id="side">
+      <div id="meta">no game loaded</div>
+      <div id="pvLine"></div>
+      <div id="moves"></div>
+    </div>
+  </section>
+
+  <details style="margin-top:1rem"><summary style="cursor:pointer;color:var(--muted);font-size:.85rem">raw PGN of the current game</summary>
+    <pre id="rawPgn"></pre></details>
+
+  <footer>
+    <p><strong>Licenses &amp; credits:</strong> this page's own code is <strong>CC0-1.0</strong> (see repo).
+    Libraries are loaded <em>unmodified</em> from the official jsDelivr CDN:
+    <a href="https://github.com/jhlywa/chess.js">chess.js 1.4.0</a> (<strong>BSD-2-Clause</strong>) and
+    <a href="https://github.com/nmrugg/stockfish.js">Stockfish.js 16</a> (<strong>GPLv3</strong>, single-thread WASM build) —
+    license texts &amp; retrieval proofs in <a href="https://github.com/BucciMobile/SchachKenner/tree/main/licenses">licenses/</a>.
+    Piece graphics: livius set (<strong>Unlicense</strong>). Game data: CC0 / CC BY-SA as marked per dataset.
+    Full-featured desktop alternative: <a href="https://github.com/franciscoBSalgueiro/en-croissant">En Croissant</a> (GPL-3.0).</p>
+    <p>Note: GitHub Pages serves no COOP/COEP headers, so only the single-thread engine build can run here.
+    The first engine start downloads the ~40&nbsp;MB neural net (nn-5af11540bbfe.nnue) once from the CDN.</p>
+  </footer>
+</main>
+
+<script type="module">
+import { Chess } from "https://cdn.jsdelivr.net/npm/chess.js@1.4.0/dist/esm/chess.js";
+
+"use strict";
+const RAW = "https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/";
+const PIECES = RAW + "assets/img/pieces/livius/";
+const SF_BASE = "https://cdn.jsdelivr.net/npm/stockfish@16.0.0/src/";
+
+const DATASETS = [
+  {label: "lichess standard rated 2026-10 — 2,000 games (CC0)", url: RAW + "data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn"},
+  {label: "lichess Chess960 rated 2026-10 — 1,000 games (CC0)", url: RAW + "data/pgn/lichess-chess960/lichess-chess960-2026-10-sample-1000-games.pgn"},
+  {label: "lichess broadcasts 2026-10 — 300 games (CC BY-SA 4.0)", url: RAW + "data/pgn/lichess-broadcast/lichess-broadcast-2026-10-sample-300-games.pgn"},
+  {label: "classic games: Tal + Memorable 60 (CC0)", url: RAW + "data/pgn/classic-games/life-and-games-of-mikhail-tal.pgn"},
+  {label: "classic games: My Memorable 60 (CC0)", url: RAW + "data/pgn/classic-games/my-memorable-60.pgn"},
+  {label: "lichess Atomic rated 2026-10 — 1,000 games (CC0)", url: RAW + "data/pgn/lichess-atomic/lichess-atomic-2026-10-sample-1000-games.pgn"},
+  {label: "lichess standard rated 2019-12 — 1,000 games (CC0, older era)", url: RAW + "data/pgn/lichess-standard-2019/lichess-standard-2019-12-sample-1000-games.pgn"},
+  {label: "TCEC Season 29 Division P — 200 engine games (CC BY-SA 3.0)", url: RAW + "data/pgn/tcec/tcec-season-29-division-p-sample-200-games.pgn"},
+  {label: "master games: Bobby Fischer (MIT)", url: RAW + "data/pgn/masters/fischer.pgn"},
+  {label: "master games: Max Euwe (MIT)", url: RAW + "data/pgn/masters/uwe.pgn"},
+  {label: "historic masters 1610-1699 (Unlicense)", url: RAW + "data/pgn/historic-masters/masters-1610-1699.pgn"},
+  {label: "historic masters 1700-1799 (Unlicense)", url: RAW + "data/pgn/historic-masters/masters-1700-1799.pgn"},
+  {label: "historic masters 1800-1899 — 10,910 games (Unlicense)", url: RAW + "data/pgn/historic-masters/masters-1800-1899.pgn"},
+  {label: "lichess Crazyhouse 2026-10 — 500 games (CC0)", url: RAW + "data/pgn/lichess-crazyhouse/lichess-crazyhouse-2026-10-sample-500-games.pgn"},
+  {label: "lichess Horde 2026-10 — 500 games (CC0)", url: RAW + "data/pgn/lichess-horde/lichess-horde-2026-10-sample-500-games.pgn"},
+  {label: "lichess King of the Hill 2026-10 — 500 games (CC0)", url: RAW + "data/pgn/lichess-koth/lichess-kingOfTheHill-2026-10-sample-500-games.pgn"}
+];
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+/* ---------- state ---------- */
+let games = [], srcLabel = "";
+let curGame = null;
+let ch = new Chess();
+let startFen = null;          // FEN tag of the game (null = standard start)
+let sans = [];                // SAN move list of the current line
+let fullVerbose = [];         // verbose moves of the full line
+let ply = 0;
+let mode = "view";
+let playerColor = "w";
+let flip = false;
+let selected = null, legalTargets = [];
+let lastMove = null, bestArrow = null, evalCp = null; // evalCp: centipawns from White's perspective
+let engine = null, engineReady = false, engineBusy = false, pendingAnalyze = false;
+let lastInfo = null;
+let variantFallback = false;
+
+/* ---------- PGN parsing ---------- */
+function parsePGN(text){
+  const chunks = text.split(/\r?\n\r?\n/);
+  const out = [];
+  for (let i = 0; i < chunks.length; i++){
+    const c = chunks[i];
+    if (!c.trim() || !c.trim().startsWith("[")) continue;
+    const tags = {};
+    const re = /\[(\w+)\s+"([^"]*)"\]/g; let m;
+    while ((m = re.exec(c))) tags[m[1]] = m[2];
+    const moves = (chunks[i+1] || "").trim();
+    i++;
+    if (!moves) continue;
+    out.push({ tags, movetext: moves, pgn: c + "\n\n" + moves + "\n" });
+  }
+  return out;
+}
+
+function sanList(movetext){
+  // strip comments, variations, NAGs, move numbers, result
+  let t = movetext.replace(/\{[^}]*\}/g, " ").replace(/;[^\n]*/g, " ");
+  let prev;
+  do { prev = t; t = t.replace(/\([^()]*\)/g, " "); } while (t !== prev);
+  return t.split(/\s+/).filter(tok => tok && !/^[0-9]+\.+$/.test(tok) && !/^(1-0|0-1|1\/2-1\/2|\*)$/.test(tok) && !/^\$\d+$/.test(tok));
+}
+
+/* ---------- game loading / navigation ---------- */
+function rebuild(p){
+  ch = new Chess();
+  if (startFen) { try { ch.load(startFen); } catch(e) { ch = new Chess(); } }
+  p = Math.max(0, Math.min(sans.length, p));
+  for (let i = 0; i < p; i++){ try { ch.move(sans[i]); } catch(e) { break; } }
+  ply = p;
+}
+
+function loadGame(i){
+  const g = games[i]; if (!g) return;
+  curGame = g;
+  variantFallback = false;
+  startFen = (g.tags.SetUp === "1" && g.tags.FEN) ? g.tags.FEN : null;
+  sans = sanList(g.movetext);
+  const test = new Chess();
+  if (startFen) { try { test.load(startFen); } catch(e) { variantFallback = true; } }
+  if (!variantFallback){
+    for (const s of sans){ try { test.move(s); } catch(e) { variantFallback = true; break; } }
+  }
+  if (variantFallback){
+    // variant (Chess960/Atomic/…) or unparsable: show raw PGN only
+    sans = []; fullVerbose = []; ply = 0;
+    rebuild(0);
+    $("meta").innerHTML = "⚠️ This game uses a variant the in-browser board can't render (e.g. Chess960/Atomic/Crazyhouse) — raw PGN below; use <a href='https://lichess.org/analysis' target='_blank' rel='noopener'>lichess analysis</a> for full support.";
+    $("moves").innerHTML = "";
+    $("pvLine").textContent = "";
+  } else {
+    rebuild(sans.length);
+    fullVerbose = ch.history({ verbose: true });
+    rebuild(0);
+    renderMeta();
+  }
+  render();
+  $("rawPgn").textContent = g.pgn;
+  maybeAnalyze();
+}
+
+function renderMeta(){
+  const t = curGame ? curGame.tags : {};
+  $("meta").innerHTML =
+    "<strong>" + esc(t.White || "?") + "</strong> (" + esc(t.WhiteElo || "?") + ") vs <strong>" + esc(t.Black || "?") +
+    "</strong> (" + esc(t.BlackElo || "?") + ") &nbsp;<strong>" + esc(t.Result || "*") + "</strong><br>" +
+    '<span class="m">' + esc(t.Event || "") + " · " + esc(t.Date || "") + " · " + esc(t.Opening || "") +
+    (t.ECO ? " · " + esc(t.ECO) : "") + (t.TimeControl ? " · " + esc(t.TimeControl) : "") + "</span>" +
+    (srcLabel ? '<br><span class="m">source: ' + esc(srcLabel) + "</span>" : "");
+}
+
+function setPly(p){
+  rebuild(p);
+  selected = null; legalTargets = [];
+  render();
+  maybeAnalyze();
+}
+
+/* ---------- board rendering ---------- */
+function squareXY(sq){
+  const f = sq.charCodeAt(0) - 97, r = +sq[1];
+  const col = flip ? 7 - f : f;
+  const row = flip ? r - 1 : 8 - r;
+  return [(col + 0.5) * 100, (row + 0.5) * 100];
+}
+
+function render(){
+  const b = ch.board();
+  const hist = ch.history({ verbose: true });
+  lastMove = hist.length ? { from: hist[hist.length-1].from, to: hist[hist.length-1].to } : null;
+  let checkSq = null;
+  if (ch.isCheck()){
+    const turn = ch.turn();
+    for (let r = 0; r < 8; r++) for (let f = 0; f < 8; f++){
+      const c = b[r][f];
+      if (c && c.type === "k" && c.color === turn) checkSq = c.square;
+    }
+  }
+  const el = $("board");
+  el.innerHTML = "";
+  for (let dr = 0; dr < 8; dr++) for (let df = 0; df < 8; df++){
+    const r = flip ? 7 - dr : dr, f = flip ? 7 - df : df;
+    const sq = String.fromCharCode(97 + f) + (8 - r);
+    const cell = b[r][f];
+    const d = document.createElement("div");
+    d.className = "sq " + ((r + f) % 2 ? "d" : "l");
+    d.dataset.sq = sq;
+    if (lastMove && (lastMove.from === sq || lastMove.to === sq)) d.classList.add("last");
+    if (selected === sq) d.classList.add("sel");
+    if (checkSq === sq) d.classList.add("check");
+    if (df === 0){ const c = document.createElement("span"); c.className = "coord r"; c.textContent = 8 - r; d.appendChild(c); }
+    if (dr === 7){ const c = document.createElement("span"); c.className = "coord f"; c.textContent = String.fromCharCode(97 + f); d.appendChild(c); }
+    const tgt = legalTargets.find(m => m.to === sq);
+    if (tgt){ const dot = document.createElement("span"); dot.className = cell ? "ring" : "dot"; d.appendChild(dot); }
+    if (cell){
+      const img = document.createElement("img");
+      img.src = PIECES + cell.color + cell.type + ".svg";
+      img.alt = cell.color + cell.type;
+      d.appendChild(img);
+    }
+    d.addEventListener("click", () => onSquare(sq));
+    el.appendChild(d);
+  }
+  // arrow for engine best move
+  const line = $("arrowLine");
+  if (bestArrow){
+    const [x1, y1] = squareXY(bestArrow.from), [x2, y2] = squareXY(bestArrow.to);
+    line.setAttribute("x1", x1); line.setAttribute("y1", y1);
+    line.setAttribute("x2", x2 * 0.82 + x1 * 0.18); line.setAttribute("y2", y2 * 0.82 + y1 * 0.18);
+    line.setAttribute("opacity", "0.9");
+  } else line.setAttribute("opacity", "0");
+  // eval bar
+  let pct = 50, txt = "–";
+  if (evalCp !== null){
+    if (evalCp >= 100000){ pct = 100; txt = "#" + (evalCp - 100000); }
+    else if (evalCp <= -100000){ pct = 0; txt = "#" + (evalCp + 100000); }
+    else { pct = 1 / (1 + Math.pow(10, -evalCp / 400)) * 100; txt = (evalCp >= 0 ? "+" : "") + (evalCp / 100).toFixed(1); }
+  }
+  $("evalFill").style.height = pct + "%";
+  $("evalTxt").textContent = txt;
+  // move list (full line, highlight current)
+  const mv = $("moves");
+  let html = "";
+  for (let i = 0; i < fullVerbose.length; i++){
+    if (i % 2 === 0) html += '<span class="num">' + (i / 2 + 1) + ".</span>";
+    html += '<span class="mv' + (i === ply - 1 ? " cur" : "") + '" data-ply="' + (i + 1) + '">' + esc(fullVerbose[i].san) + "</span> ";
+  }
+  mv.innerHTML = html || '<span style="color:var(--muted)">no moves yet</span>';
+  mv.scrollTop = mv.scrollHeight;
+  $("plyInfo").textContent = "move " + Math.floor(ply / 2 + 1) + " · ply " + ply + "/" + fullVerbose.length +
+    (ch.isGameOver() ? " · game over" : "");
+}
+
+$("moves").addEventListener("click", ev => {
+  const s = ev.target.closest(".mv"); if (!s) return;
+  setPly(+s.getAttribute("data-ply"));
+});
+
+/* ---------- interaction ---------- */
+function onSquare(sq){
+  if (mode !== "play" || variantFallback) return;
+  if (ch.isGameOver()) return;
+  if (ch.turn() !== playerColor) return;
+  const piece = ch.get(sq);
+  if (selected){
+    const mv = legalTargets.find(m => m.to === sq);
+    if (mv){
+      doUserMove(mv);
+      return;
+    }
+    selected = null; legalTargets = [];
+  }
+  if (piece && piece.color === playerColor){
+    selected = sq;
+    legalTargets = ch.moves({ square: sq, verbose: true });
+  }
+  render();
+}
+
+function doUserMove(mv){
+  try {
+    const played = ch.move({ from: mv.from, to: mv.to, promotion: mv.promotion || "q" });
+    if (!played) throw new Error("illegal");
+    sans.push(played.san);
+    fullVerbose = ch.history({ verbose: true });
+    ply = sans.length;
+    selected = null; legalTargets = [];
+    bestArrow = null;
+    render();
+    if (!ch.isGameOver() && ch.turn() !== playerColor) engineGo();
+    else if (ch.isGameOver()) setStatus("game over");
+  } catch(e){ setStatus("illegal move"); }
+}
+
+$("bFirst").addEventListener("click", () => setPly(0));
+$("bPrev").addEventListener("click", () => setPly(ply - 1));
+$("bNext").addEventListener("click", () => setPly(ply + 1));
+$("bLast").addEventListener("click", () => setPly(sans.length));
+$("bFlip").addEventListener("click", () => { flip = !flip; render(); });
+
+/* ---------- mode / engine ---------- */
+function engineColor(){ return playerColor === "w" ? "b" : "w"; }
+
+function setStatus(s){ $("status").textContent = s; }
+
+let enginePromise = null;
+function ensureEngine(){
+  if (engine && engineReady) return Promise.resolve(engine);
+  if (!enginePromise){
+    enginePromise = (async () => {
+      setStatus("loading Stockfish 16 WASM…");
+      const s = document.createElement("script");
+      s.src = SF_BASE + "stockfish-nnue-16-single.js";
+      document.head.appendChild(s);
+      await new Promise((res, rej) => { s.onload = res; s.onerror = () => rej(new Error("could not load engine script")); });
+      const factory = s._exports || window.Stockfish || window.STOCKFISH;
+      if (typeof factory !== "function") throw new Error("engine factory not found");
+      engine = factory({ locateFile: f => SF_BASE + f });
+      engine.addMessageListener(onEngineLine);
+      setStatus("starting engine… (first run downloads the ~40 MB neural net once)");
+      engine.postMessage("uci");
+      await engine.ready;
+      return engine;
+    })().catch(e => { enginePromise = null; setStatus("engine failed to load: " + e.message); throw e; });
+  }
+  return enginePromise;
+}
+
+function onEngineLine(line){
+  if (!line) return;
+  if (typeof line !== "string") line = line.data || "";
+  line = String(line).trim();
+  if (!line) return;
+  if (line === "uciok"){
+    engine.postMessage("setoption name Threads value 1");
+    engine.postMessage("isready");
+  } else if (line === "readyok"){
+    engineReady = true;
+    setStatus("engine ready — Stockfish 16 (single-thread WASM)");
+    if (mode === "play" && !ch.isGameOver() && ch.turn() === engineColor()) engineGo();
+    else maybeAnalyze();
+  } else if (line.startsWith("bestmove")){
+    engineBusy = false;
+    const mv = line.split(/\s+/)[1];
+    if (mv && mv !== "(none)" && mode === "play" && !ch.isGameOver() && ch.turn() === engineColor()){
+      const from = mv.slice(0, 2), to = mv.slice(2, 4), promo = mv[4] || undefined;
+      const legal = ch.moves({ verbose: true }).find(m => m.from === from && m.to === to && (m.promotion || undefined) === promo);
+      if (legal){
+        try {
+          const played = ch.move({ from, to, promotion: promo || "q" });
+          sans.push(played.san);
+          fullVerbose = ch.history({ verbose: true });
+          ply = sans.length;
+          render();
+        } catch(e){ /* ignore */ }
+      }
+    }
+    if (pendingAnalyze){ pendingAnalyze = false; engineGo(); }
+  } else if (line.startsWith("info ")){
+    parseInfo(line);
+  }
+}
+
+function parseInfo(line){
+  const t = line.split(/\s+/);
+  let depth = 0, cp = null, mate = null, pvIdx = -1;
+  for (let i = 1; i < t.length; i++){
+    if (t[i] === "depth") depth = +t[i+1];
+    else if (t[i] === "score"){ if (t[i+1] === "cp") cp = +t[i+2]; else if (t[i+1] === "mate") mate = +t[i+2]; }
+    else if (t[i] === "pv"){ pvIdx = i + 1; break; }
+  }
+  if (pvIdx < 0 || (cp === null && mate === null)) return;
+  if (lastInfo && depth < lastInfo.depth) return;
+  // score is from the side-to-move perspective → convert to White's
+  const s2m = ch.turn();
+  let whiteCp;
+  if (mate !== null) whiteCp = (mate > 0 ? 100000 + mate : -100000 + mate) * (s2m === "b" ? -1 : 1);
+  else whiteCp = cp * (s2m === "b" ? -1 : 1);
+  lastInfo = { depth, pv: t.slice(pvIdx) };
+  evalCp = whiteCp;
+  if (lastInfo.pv.length){
+    bestArrow = { from: lastInfo.pv[0].slice(0, 2), to: lastInfo.pv[0].slice(2, 4) };
+  }
+  $("pvLine").textContent = "depth " + depth + " · best " + lastInfo.pv.slice(0, 6).join(" ") + (lastInfo.pv.length > 6 ? " …" : "");
+  render();
+}
+
+function engineGo(){
+  if (!engine || !engineReady) return;
+  engineBusy = true; lastInfo = null;
+  const depth = +$("depth").value || 10;
+  engine.postMessage("position fen " + ch.fen());
+  engine.postMessage("go depth " + depth);
+  setStatus(mode === "play" ? "engine thinking…" : "analyzing depth " + depth + "…");
+}
+
+function maybeAnalyze(){
+  if (mode !== "analyze") return;
+  if (!engine || !engineReady){ ensureEngine().then(maybeAnalyze).catch(() => {}); return; }
+  if (engineBusy) { pendingAnalyze = true; return; }
+  engineGo();
+}
+
+$("mode").addEventListener("change", () => {
+  mode = $("mode").value;
+  if (mode === "play"){
+    // start a fresh game vs the engine
+    startFen = null; sans = []; fullVerbose = []; ply = 0;
+    playerColor = $("color").value;
+    rebuild(0);
+    curGame = null;
+    $("meta").innerHTML = "You (<strong>" + (playerColor === "w" ? "White" : "Black") + "</strong>) vs <strong>Stockfish 16</strong>";
+    $("rawPgn").textContent = "";
+    bestArrow = null; evalCp = null;
+    render();
+    setStatus("starting engine…");
+    ensureEngine().then(() => {
+      if (!ch.isGameOver() && ch.turn() === engineColor()) engineGo();
+      else setStatus("your move — click a piece, then a target square");
+    }).catch(() => {});
+  } else {
+    if (mode === "analyze") maybeAnalyze();
+    else setStatus("viewing");
+  }
+});
+$("color").addEventListener("change", () => { playerColor = $("color").value; });
+$("depth").addEventListener("change", () => { if (mode === "analyze") maybeAnalyze(); });
+
+/* ---------- sources ---------- */
+function populateGameSelect(){
+  const sel = $("game");
+  sel.innerHTML = games.map((g, i) => {
+    const t = g.tags;
+    return "<option value='" + i + "'>#" + (i + 1) + " " + esc(t.White || "?") + " vs " + esc(t.Black || "?") +
+      " " + esc(t.Result || "") + " · " + esc(t.Date || "") + " · " + esc((t.Opening || "").slice(0, 40)) + "</option>";
+  }).join("");
+}
+
+async function loadSource(url, gameIdx, label){
+  setStatus("loading " + label + " …");
+  try {
+    const r = await fetch(url);
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    games = parsePGN(await r.text());
+    srcLabel = label;
+    if (!games.length){ setStatus("no games found in " + label); return; }
+    populateGameSelect();
+    $("game").value = String(Math.max(0, Math.min(games.length - 1, gameIdx || 0)));
+    loadGame(+$( "game").value);
+    setStatus(games.length.toLocaleString() + " games loaded from " + label);
+  } catch(e){
+    setStatus("could not load " + label + " (" + e.message + ")");
+  }
+}
+
+$("src").innerHTML = '<option value="">— pick a dataset —</option>' +
+  DATASETS.map((d, i) => '<option value="' + i + '">' + esc(d.label) + "</option>").join("");
+$("src").addEventListener("change", () => {
+  const i = $("src").value; if (i === "") return;
+  loadSource(DATASETS[+i].url, 0, DATASETS[+i].label);
+});
+$("game").addEventListener("change", () => loadGame(+$("game").value));
+$("file").addEventListener("change", ev => {
+  const f = ev.target.files[0]; if (!f) return;
+  const rd = new FileReader();
+  rd.onload = () => { games = parsePGN(String(rd.result)); srcLabel = f.name; populateGameSelect(); loadGame(0); setStatus(games.length + " games from " + f.name); };
+  rd.readAsText(f);
+});
+$("pasteBtn").addEventListener("click", () => {
+  games = parsePGN($("paste").value); srcLabel = "pasted PGN";
+  populateGameSelect(); loadGame(0); setStatus(games.length + " games loaded");
+});
+$("copyBtn").addEventListener("click", () => {
+  const txt = curGame ? curGame.pgn : ch.pgn();
+  (navigator.clipboard ? navigator.clipboard.writeText(txt) : Promise.reject()).then(
+    () => setStatus("PGN copied ✅"),
+    () => { const ta = document.createElement("textarea"); ta.value = txt; document.body.appendChild(ta); ta.select(); document.execCommand("copy"); ta.remove(); setStatus("PGN copied ✅"); }
+  );
+});
+
+/* ---------- boot ---------- */
+if (window.innerWidth < 640) { const d = $("depth"); d.value = "8"; }
+const q = new URLSearchParams(location.search);
+if (q.get("src")){
+  loadSource(q.get("src"), parseInt(q.get("game") || "0", 10) || 0, q.get("src"));
+} else {
+  setStatus("pick a dataset above, or open via ?src=<pgn-url>&game=<index> from the Explorer");
+}
+</script>
+</body>
+</html>

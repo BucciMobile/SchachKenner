@@ -46,6 +46,7 @@
   .meta{color:var(--muted);font-size:.82rem}
   pre.pgn{background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:.6rem .8rem;overflow-x:auto;font-size:.78rem;line-height:1.45;white-space:pre-wrap;word-break:break-word}
   .copy{margin:.4rem 0}
+  a.btn{text-decoration:none;display:inline-block;margin:.4rem .4rem .4rem 0}
   .elo{font-variant-numeric:tabular-nums}
   footer{color:var(--muted);font-size:.8rem;text-align:center;margin-top:2rem}
   footer a{color:var(--accent)}
@@ -71,6 +72,7 @@
 <header>
   <img src="https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/assets/img/pieces/livius/wn.svg" alt="knight">
   <h1>SchachKenner · Interactive PGN Explorer</h1>
+  <a href="play.html">🆕 Play &amp; Analyze (New!)</a>
   <a href="https://github.com/BucciMobile/SchachKenner">← back to the repo</a>
   <span id="status">loading…</span>
 </header>
@@ -80,7 +82,9 @@
   CC0 / CC BY-SA 4.0, proofs in <a href="https://github.com/BucciMobile/SchachKenner/tree/main/licenses">licenses/</a>)
   directly in your browser — no server, no upload. <strong>All datasets are loaded and combined
   by default</strong> (≈7,600 games); you can narrow it down to a single dataset inside the
-  collapsible filter panel below, or load your own PGN file there.</p>
+  collapsible filter panel below, or load your own PGN file there. Every game has a
+  <strong>▶ Play / Analyze</strong> button that opens the in-browser
+  <a href="play.html">play &amp; analyze tool</a> (Stockfish 16 WASM) with that game preloaded.</p>
 
   <details id="filtersWrap" open>
   <summary>🔎 Filters <span id="activeCount"></span></summary>
@@ -199,7 +203,7 @@ function tcClass(tc){
   return "classical";
 }
 
-function parsePGN(text){
+function parsePGN(text, srcUrl){
   const chunks = text.split(/\r?\n\r?\n/);
   const out = [];
   for (let i = 0; i < chunks.length; i++){
@@ -213,6 +217,7 @@ function parsePGN(text){
     const welo = +tags.WhiteElo, belo = +tags.BlackElo;
     out.push({
       tags, moves, raw: c,
+      srcUrl: srcUrl || null, gameIdx: out.length,
       white: tags.White || "?", black: tags.Black || "?",
       result: tags.Result || "*",
       eco: tags.ECO || "", ecoLetter: (tags.ECO || "?")[0].toUpperCase(),
@@ -277,6 +282,7 @@ function apply(){
       '<strong>' + esc(g.black) + '</strong> <span class="meta elo">(' + (g.tags.BlackElo || "?") + ')</span>' +
       '<span class="meta">' + esc(g.opening) + " · " + esc(g.eco) + " · " + esc(g.tc) + " · avg " + (g.avgElo ?? "?") + " · " + esc(g.date) + '</span>' +
       '</summary><pre class="pgn">' + esc(g.pgn) + '</pre>' +
+      (g.srcUrl ? '<a class="btn" target="_blank" rel="noopener" href="play.html?src=' + encodeURIComponent(g.srcUrl) + '&game=' + g.gameIdx + '">▶ Play / Analyze</a> ' : '') +
       '<button class="copy" type="button" data-idx="' + i + '">📋 copy PGN</button></details>';
   }).join("");
   $("results").innerHTML = html || '<p id="status">No games match the current filters.</p>';
@@ -289,8 +295,8 @@ function fillDatalists(){
   $("events").innerHTML = evs.map(o => '<option value="' + esc(o) + '">').join("");
 }
 
-function loadText(text, label){
-  games = parsePGN(text);
+function loadText(text, label, srcUrl){
+  games = parsePGN(text, srcUrl);
   $("status").textContent = games.length.toLocaleString() + " games loaded" + (label ? " (" + label + ")" : "");
   fillDatalists(); populateDatePresets(); apply();
 }
@@ -310,7 +316,11 @@ async function loadAll(){
   const texts = [], failed = [];
   results.forEach((r, i) => { if (r.status === "fulfilled") texts.push(r.value); else failed.push(DATASETS[i].label); });
   if (!texts.length) { $("status").textContent = "Could not load any dataset. Pick a single dataset in the filters or use the file picker."; return; }
-  loadText(texts.join("\n"), "all datasets combined (" + texts.length + "/" + DATASETS.length + (failed.length ? ", failed: " + failed.length : "") + ")");
+  let all = [];
+  results.forEach((r, i) => { if (r.status === "fulfilled") all = all.concat(parsePGN(r.value, DATASETS[i].url)); });
+  games = all;
+  $("status").textContent = all.length.toLocaleString() + " games loaded (all datasets combined: " + texts.length + "/" + DATASETS.length + (failed.length ? ", failed: " + failed.length : "") + ")";
+  fillDatalists(); populateDatePresets(); apply();
 }
 
 async function loadDataset(v){
@@ -320,7 +330,7 @@ async function loadDataset(v){
   try {
     const r = await fetch(d.url);
     if (!r.ok) throw new Error("HTTP " + r.status);
-    loadText(await r.text(), d.label);
+    loadText(await r.text(), d.label, d.url);
   } catch (e) {
     $("status").textContent = "Could not load this dataset (" + e.message + "). Try 'all datasets' or the file picker.";
   }

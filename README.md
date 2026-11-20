@@ -14,6 +14,8 @@ proof in [`licenses/`](licenses/).
 [![link-check](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml/badge.svg)](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml)
 
 > 🆕 **New!** Try the [**interactive PGN explorer**](https://BucciMobile.github.io/SchachKenner/) — filter & search **all hosted games at once (≈20,000 games from 12 datasets, CC0 / CC BY-SA / MIT / Unlicense)** live in your browser (mobile-friendly 📱): **date range (year 1610–2026 / last 3–12 months / custom)**, Elo slider, opening search, ECO A–E, event type, result, player search — the table re-sorts automatically and every game shows its copyable PGN. (Single-dataset selection is tucked away inside the collapsible filter panel.)
+>
+> 🆕 **New!** [**Play & analyze in your browser**](https://BucciMobile.github.io/SchachKenner/play.html) — every game in the explorer has a **▶ Play / Analyze** button that deep-links straight into the tool (`play.html?src=<raw-pgn-url>&game=<index>`): step through games on a board with the livius piece set, **play against Stockfish 16 (WASM, runs fully client-side — GitHub Pages allows no multi-threading, so we use the official single-thread build)** or **analyze any position** (eval bar, best-move arrow, principal variation). Our own code is **CC0**; libraries (chess.js 1.4.0 **BSD-2-Clause**, Stockfish.js 16 **GPLv3**) are loaded **unmodified from the official jsDelivr CDN** with attribution — retrieval proofs in [`licenses/`](licenses/). Mobile-friendly 📱
 
 ## <img src="assets/img/pieces/livius/wb.svg" width="20" alt="bishop"> AI transparency
 
@@ -60,6 +62,7 @@ Only sources with **explicit redistribution permission** are hosted here — pro
 - 🤖 [`data/pgn/tcec/`](data/pgn/tcec/) — 200 engine games (TCEC S29), **CC BY-SA 3.0** attributed, with groups
 - 👑 [`data/pgn/masters/`](data/pgn/masters/) — Fischer & Euwe master games, **MIT**, with groups
 - 🆕 [**Interactive PGN explorer — live in your browser**](https://BucciMobile.github.io/SchachKenner/) — filter the games by time control, Elo range slider, opening, ECO category (A–E), event type, result, player name; the table re-sorts automatically and every game shows its copyable PGN. Also loads your own PGN files. Optimized for mobile 📱
+- 🆕 [**Play & analyze tool — live in your browser**](https://BucciMobile.github.io/SchachKenner/play.html) — board view with move navigation, **play vs Stockfish 16 WASM** (client-side), **position analysis** (eval bar + best move + PV). Deep-linkable per game via `?src=…&game=…` (used by the explorer's ▶ button). Engine/lib licenses: GPLv3 / BSD-2-Clause, loaded unmodified via CDN, proofs in [`licenses/`](licenses/)
 
 > "Database exports are released under the Creative Commons CC0 license. … You can
 > download, modify and redistribute them, without asking for permission."

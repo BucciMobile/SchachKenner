@@ -34,6 +34,8 @@ in `data/` — everything else is link-only (see the category files).
 | ChessEssentials | ❌ No license/terms found (page sits behind a JS lander) | Link only | [link-only-sources.md](link-only-sources.md) |
 | FICS / ficsgames.org | ❌ No explicit license statement found | Link only | [link-only-sources.md](link-only-sources.md) |
 | 365chess.com | ❌ No explicit redistribution permission found | Link only | [link-only-sources.md](link-only-sources.md) |
+| **chess.js 1.4.0** (jhlywa/chess.js) — JS chess rules/PGN library | ✅ **BSD-2-Clause** — use & redistribution allowed, copyright notice + license text must be retained | **Loaded unmodified via official jsDelivr CDN** in `docs/index.html` / `docs/play.html` (not vendored); attribution + license link in the tool footer | [chessjs-bsd2.md](chessjs-bsd2.md) |
+| **Stockfish.js 16** (nmrugg/stockfish.js v16.0.0) — WASM chess engine | ✅ **GPLv3** — verbatim redistribution allowed with license text + Corresponding Source (the engine file itself carries the GPL header) | **Loaded unmodified via official jsDelivr CDN** in `docs/play.html` (single-thread build — GitHub Pages sends no COOP/COEP, so no SharedArrayBuffer); attribution + source link in the tool footer; nothing vendored or patched | [stockfishjs-gpl3.md](stockfishjs-gpl3.md) |
 
 ## SHA-256 of the raw evidence pages (retrieved 2026-11-19 UTC)
 
@@ -55,6 +57,17 @@ a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499  raw/brianerdel
 43959ed7d06a8db78d3ce56527a9f076dc7386ac65ac09f319055f9717d49536  raw/Dragjon-chessdatabase-LICENSE.txt
 6b0382b16279f26ff69014300541967a356a666eb6b0b91b422f6862f6b7dad17e  raw/thechessdog-pawn-LICENSE.txt
 cf12ca700f556c7b333f5a6b84f821f03ef97c974553afafb6bf35194390295d  raw/thechessdog-pawn-README.md
+```
+
+### SHA-256 of the CDN library evidence (retrieved 2026-11-20 UTC via cdn.jsdelivr.net)
+
+```
+0b3a3c2b4432a26bb18f9d06f5bba4de015bcc980306b7db28b06025495e2186  raw/chess.js-1.4.0-LICENSE.txt
+36a258fdfb5e76d0816bf2b63dab3c917a0a8652f943da0e6be7e9b543765dfd  raw/chess.js-1.4.0-package.json
+8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903  raw/nmrugg-stockfish.js-v16.0.0-license.txt
+f6e73445b3839cdb3edefa312269dd73a6f9fefe95669d2cc1ef9a44d6a8b498  raw/nmrugg-stockfish.js-v16.0.0-Readme.md
+8724dfec4c94814234fb3887e5dd37e7354c50efbffdae7266885c7634bec41f  raw/nmrugg-stockfish.js-v16.0.0-package.json
+e2958bb89fc6ee0faedde87284bbb7e14da2ab224f06ca1bd82e62eaca87d00b  raw/nmrugg-stockfish.js-v16.0.0-stockfish-nnue-16-single.js
 ```
 
 ## Rule for future additions
