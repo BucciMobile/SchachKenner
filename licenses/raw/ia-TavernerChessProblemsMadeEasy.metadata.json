@@ -1,0 +1,193 @@
+{
+ "alternate_locations": {
+  "servers": [
+   {
+    "server": "dn720705.ca.archive.org",
+    "dir": "/0/items/TavernerChessProblemsMadeEasy"
+   },
+   {
+    "server": "dn760000.eu.archive.org",
+    "dir": "/0/items/TavernerChessProblemsMadeEasy"
+   }
+  ],
+  "workable": [
+   {
+    "server": "dn720705.ca.archive.org",
+    "dir": "/0/items/TavernerChessProblemsMadeEasy"
+   },
+   {
+    "server": "dn760000.eu.archive.org",
+    "dir": "/0/items/TavernerChessProblemsMadeEasy"
+   }
+  ]
+ },
+ "created": 1795169389,
+ "d1": "ia601806.us.archive.org",
+ "d2": "ia801806.us.archive.org",
+ "dir": "/23/items/TavernerChessProblemsMadeEasy",
+ "files": [
+  {
+   "name": "Taverner Chess Problems Made Easy.pdf",
+   "source": "original",
+   "mtime": "1493931469",
+   "size": "254325",
+   "md5": "770cb97772b38a4ce9f48abe4e4c87e2",
+   "crc32": "854a5beb",
+   "sha1": "88d1024e3f10b365c5021abf230d5ae40f5c8505",
+   "format": "Text PDF"
+  },
+  {
+   "name": "Taverner Chess Problems Made Easy_abbyy.gz",
+   "source": "derivative",
+   "format": "Abbyy GZ",
+   "original": "Taverner Chess Problems Made Easy_jp2.zip",
+   "mtime": "1493932655",
+   "size": "1291816",
+   "md5": "2904b8c6a94eb01261353e60e4fa2f88",
+   "crc32": "6a65a50a",
+   "sha1": "e17a3c880cf356a0774610fb142471bf5b48f2c3"
+  },
+  {
+   "name": "Taverner Chess Problems Made Easy_djvu.txt",
+   "source": "derivative",
+   "format": "DjVuTXT",
+   "original": "Taverner Chess Problems Made Easy_djvu.xml",
+   "mtime": "1493932691",
+   "size": "96086",
+   "md5": "fed382b174cd22ac4ee6be4fb88cd6b3",
+   "crc32": "312ae3c5",
+   "sha1": "c4217a005349632083dd1d950e41eaf67bf60563"
+  },
+  {
+   "name": "Taverner Chess Problems Made Easy_djvu.xml",
+   "source": "derivative",
+   "format": "Djvu XML",
+   "original": "Taverner Chess Problems Made Easy_abbyy.gz",
+   "mtime": "1493932688",
+   "size": "1094664",
+   "md5": "102136f323c06bd58a638748d4d02bab",
+   "crc32": "a0b44d38",
+   "sha1": "6c1992d99a5837e66fbb66346690fd3d9bba22ae"
+  },
+  {
+   "name": "Taverner Chess Problems Made Easy_jp2.zip",
+   "source": "derivative",
+   "format": "Single Page Processed JP2 ZIP",
+   "original": "Taverner Chess Problems Made Easy.pdf",
+   "mtime": "1493931851",
+   "size": "27516536",
+   "md5": "55619f43f5ea80dd30adb76717e10850",
+   "crc32": "630824e4",
+   "sha1": "f0af0194820b397bf3a7fcad7d800006a8341f49",
+   "filecount": "101"
+  },
+  {
+   "name": "Taverner Chess Problems Made Easy_scandata.xml",
+   "source": "original",
+   "mtime": "1581756575",
+   "size": "30432",
+   "md5": "3facab68b1af1dee95533b0261a85ef3",
+   "crc32": "c2dc7c72",
+   "sha1": "bfd831163b4fdeaa60de1f6867596e05a16ee7e3",
+   "format": "Scandata"
+  },
+  {
+   "name": "TavernerChessProblemsMadeEasy_archive.torrent",
+   "source": "metadata",
+   "btih": "ae7a174b83b7980f0f290feb833f6bfb5bd9d9b7",
+   "mtime": "1767577878",
+   "size": "4343",
+   "md5": "4505280a3d121372c7e25a687b9b6cfe",
+   "crc32": "ce4fba5c",
+   "sha1": "99528e5bf605571ca357d09abf6c5e46024fbeb5",
+   "format": "Archive BitTorrent"
+  },
+  {
+   "name": "TavernerChessProblemsMadeEasy_files.xml",
+   "source": "original",
+   "format": "Metadata",
+   "md5": "600f3baacd74b40e3e98c7589bc5882d",
+   "summation": "md5"
+  },
+  {
+   "name": "TavernerChessProblemsMadeEasy_meta.sqlite",
+   "source": "original",
+   "mtime": "1581756586",
+   "size": "11264",
+   "format": "Metadata",
+   "md5": "28da280ee98c2f321c0b235ae6c15ec6",
+   "crc32": "3f5df472",
+   "sha1": "42f9c591bc9ef8fa91c70afebc69c3a761264e46"
+  },
+  {
+   "name": "TavernerChessProblemsMadeEasy_meta.xml",
+   "source": "original",
+   "mtime": "1767577876",
+   "size": "1175",
+   "format": "Metadata",
+   "md5": "dead9c18f88dcd1465458e79b00892e8",
+   "crc32": "a40430ef",
+   "sha1": "2540cd0d5f8e15a6f9419400b14a11dc5fd67393"
+  },
+  {
+   "name": "__ia_thumb.jpg",
+   "source": "original",
+   "mtime": "1581756588",
+   "size": "350",
+   "format": "Item Tile",
+   "rotation": "0",
+   "md5": "cc828742c248cebf1fd372b8602f15ce",
+   "crc32": "0624c65d",
+   "sha1": "7305c13935183dc870a10643766295a440435a4a"
+  },
+  {
+   "name": "history/files/Taverner Chess Problems Made Easy_scandata.xml.~1~",
+   "source": "derivative",
+   "format": "Scandata",
+   "original": "Taverner Chess Problems Made Easy_djvu.xml",
+   "mtime": "1493932692",
+   "size": "30432",
+   "md5": "3a488b077606b8610a7c48cedc0cec1b",
+   "crc32": "5c817148",
+   "sha1": "1515d86e61fc239ce758809e320dd9551e4e9b27",
+   "old_version": "true"
+  }
+ ],
+ "files_count": 12,
+ "item_last_updated": 1767577878,
+ "item_size": 30331423,
+ "metadata": {
+  "identifier": "TavernerChessProblemsMadeEasy",
+  "mediatype": "texts",
+  "collection": [
+   "folkscanomy_chess",
+   "folkscanomy"
+  ],
+  "creator": "Thomas Taverner",
+  "date": "1924",
+  "description": "16",
+  "language": "eng",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "publisher": "Daily News Limited",
+  "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+  "subject": "chess",
+  "title": "Chess problems made easy",
+  "publicdate": "2017-05-04 20:57:50",
+  "uploader": "xnn74661@laoeq.com",
+  "addeddate": "2017-05-04 20:57:50",
+  "curation": "[curator]validator@archive.org[/curator][date]20170504210311[/date][comment]checked for malware[/comment]",
+  "identifier-access": "http://archive.org/details/TavernerChessProblemsMadeEasy",
+  "identifier-ark": "ark:/13960/t6159zk22",
+  "ppi": "300",
+  "ocr": "ABBYY FineReader 11.0",
+  "repub_state": "4",
+  "backup_location": "ia906403_18",
+  "coverleaf": "0"
+ },
+ "server": "ia801806.us.archive.org",
+ "uniq": 1236746747,
+ "workable_servers": [
+  "ia801806.us.archive.org",
+  "ia601806.us.archive.org"
+ ]
+}

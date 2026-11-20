@@ -1,0 +1,230 @@
+{
+ "alternate_locations": {
+  "servers": [
+   {
+    "server": "dn711309.ca.archive.org",
+    "dir": "/0/items/bub_gb_w95-78eDjFAC"
+   },
+   {
+    "server": "dn760106.eu.archive.org",
+    "dir": "/0/items/bub_gb_w95-78eDjFAC"
+   }
+  ],
+  "workable": [
+   {
+    "server": "dn711309.ca.archive.org",
+    "dir": "/0/items/bub_gb_w95-78eDjFAC"
+   },
+   {
+    "server": "dn760106.eu.archive.org",
+    "dir": "/0/items/bub_gb_w95-78eDjFAC"
+   }
+  ]
+ },
+ "created": 1795169434,
+ "d1": "ia601903.us.archive.org",
+ "d2": "ia801903.us.archive.org",
+ "dir": "/24/items/bub_gb_w95-78eDjFAC",
+ "files": [
+  {
+   "name": "__ia_thumb.jpg",
+   "source": "original",
+   "mtime": "1699982225",
+   "size": "19244",
+   "md5": "ec238679155dfc78317c060b9340d274",
+   "crc32": "c501ea99",
+   "sha1": "ce1aa9388c874599a7be774a3eb5bd31e5e330fd",
+   "format": "Item Tile",
+   "rotation": "0"
+  },
+  {
+   "name": "bub_gb_w95-78eDjFAC.epub",
+   "source": "derivative",
+   "original": "bub_gb_w95-78eDjFAC_abbyy.gz",
+   "mtime": "1699982202",
+   "size": "18944197",
+   "md5": "cf19a84bf9aec2952a1ccb826d827fed",
+   "crc32": "15d2b03a",
+   "sha1": "67c474909e033ea42f54601b96ace8a538263254",
+   "format": "EPUB"
+  },
+  {
+   "name": "bub_gb_w95-78eDjFAC.gif",
+   "source": "derivative",
+   "format": "Animated GIF",
+   "original": "bub_gb_w95-78eDjFAC_jp2.zip",
+   "mtime": "1463432869",
+   "size": "201645",
+   "md5": "73e9111316ad8a6dca305e548e6fc26d",
+   "crc32": "16c3ab7f",
+   "sha1": "f3887bfbef989ccee2d7a850d32bb878845a15d3"
+  },
+  {
+   "name": "bub_gb_w95-78eDjFAC.pdf",
+   "source": "derivative",
+   "format": "Text PDF",
+   "original": "bub_gb_w95-78eDjFAC_djvu.xml",
+   "mtime": "1463434027",
+   "size": "4523910",
+   "md5": "be90f57a395f3291113267510b70e7a2",
+   "crc32": "8d6474ec",
+   "sha1": "fc63e80c51d07e076465b924f0601ce182b266ff"
+  },
+  {
+   "name": "bub_gb_w95-78eDjFAC_abbyy.gz",
+   "source": "derivative",
+   "format": "Abbyy GZ",
+   "original": "bub_gb_w95-78eDjFAC_jp2.zip",
+   "mtime": "1463433858",
+   "size": "1422285",
+   "md5": "13f670db0d8d7d6e342a943323e21af4",
+   "crc32": "48749bed",
+   "sha1": "1c787079c6560df16f4f9fca488ec88dd2c82d3b"
+  },
+  {
+   "name": "bub_gb_w95-78eDjFAC_archive.torrent",
+   "source": "metadata",
+   "btih": "474968d1703da5ea0a4c16bdf80c874dba9635e2",
+   "mtime": "1699982514",
+   "size": "6999",
+   "md5": "d5b0fd2d8f16a2a34be5b90fc6f2ca3f",
+   "crc32": "49574e89",
+   "sha1": "426318b87a6384e41a5f66513ea59df59776967f",
+   "format": "Archive BitTorrent"
+  },
+  {
+   "name": "bub_gb_w95-78eDjFAC_daisy.zip",
+   "source": "derivative",
+   "original": "bub_gb_w95-78eDjFAC_abbyy.gz",
+   "mtime": "1699982503",
+   "size": "82947",
+   "md5": "2adeca266110ec4cfe734e2ce02eab68",
+   "crc32": "9a87fdc5",
+   "sha1": "8d29362c92062fbdae84fd073402f2daf2351953",
+   "format": "Daisy",
+   "filecount": "9"
+  },
+  {
+   "name": "bub_gb_w95-78eDjFAC_djvu.txt",
+   "source": "derivative",
+   "format": "DjVuTXT",
+   "original": "bub_gb_w95-78eDjFAC_djvu.xml",
+   "mtime": "1463433890",
+   "size": "86897",
+   "md5": "201b1b133ee36fd2a57df2e4c3a20eee",
+   "crc32": "c7afcc5a",
+   "sha1": "081f9c93c7bf043338eb0f11c94cd4632b50942c"
+  },
+  {
+   "name": "bub_gb_w95-78eDjFAC_djvu.xml",
+   "source": "derivative",
+   "format": "Djvu XML",
+   "original": "bub_gb_w95-78eDjFAC_abbyy.gz",
+   "mtime": "1463433883",
+   "size": "917145",
+   "md5": "088c922fbc6707483bfd24b30205eb69",
+   "crc32": "4af98106",
+   "sha1": "c14d9c387f13bb09432a2393c546c8e2ff695dbb"
+  },
+  {
+   "name": "bub_gb_w95-78eDjFAC_files.xml",
+   "source": "original",
+   "format": "Metadata",
+   "md5": "e9345ab317534f89223420e7c3f43193",
+   "summation": "md5"
+  },
+  {
+   "name": "bub_gb_w95-78eDjFAC_images.tar",
+   "source": "original",
+   "mtime": "1463432731",
+   "size": "32061440",
+   "md5": "921e1dfff37f726057d2a88f64f916f4",
+   "crc32": "bdaf23dd",
+   "sha1": "d70aa276cb68c6a398e0a9be445b41ed073b8fef",
+   "format": "Generic Raw Book Tar",
+   "filecount": "136"
+  },
+  {
+   "name": "bub_gb_w95-78eDjFAC_jp2.zip",
+   "source": "derivative",
+   "format": "Single Page Processed JP2 ZIP",
+   "original": "bub_gb_w95-78eDjFAC_images.tar",
+   "mtime": "1463432856",
+   "size": "32566220",
+   "md5": "9ec6cc04c3ea2cdbc0acfe814afd158c",
+   "crc32": "3e0fd959",
+   "sha1": "ac19f428416ebe7c753c8d9b52fda5a487a02670",
+   "filecount": "136"
+  },
+  {
+   "name": "bub_gb_w95-78eDjFAC_meta.sqlite",
+   "source": "original",
+   "mtime": "1463432747",
+   "size": "9216",
+   "md5": "f78f148a4b5f03c75f0be96efd3d5929",
+   "crc32": "869fc90b",
+   "sha1": "d9a5ae3c2e73a1866f3903a101133f8909372aab",
+   "format": "Metadata"
+  },
+  {
+   "name": "bub_gb_w95-78eDjFAC_meta.xml",
+   "source": "original",
+   "mtime": "1541666933",
+   "size": "1300",
+   "format": "Metadata",
+   "md5": "9322a1d371641195b9c8d3d7d64f549d",
+   "crc32": "4ae2f4a2",
+   "sha1": "692548c3a94d1c53de40e1ad5988309cc8e4bbf1"
+  },
+  {
+   "name": "bub_gb_w95-78eDjFAC_scandata.xml",
+   "source": "derivative",
+   "format": "Scandata",
+   "original": "bub_gb_w95-78eDjFAC_djvu.xml",
+   "mtime": "1463433889",
+   "size": "40903",
+   "md5": "e9ad51ba0d5da824d07db21e663621d2",
+   "crc32": "516ccf45",
+   "sha1": "ca975673fcc68caa7043474886abc0a38fd5ebdf"
+  }
+ ],
+ "files_count": 15,
+ "item_last_updated": 1699982514,
+ "item_size": 90884348,
+ "metadata": {
+  "identifier": "bub_gb_w95-78eDjFAC",
+  "date": "1837",
+  "google-id": "w95-78eDjFAC",
+  "language": "Italian",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "mediatype": "texts",
+  "publisher": "F.lli Capaccini",
+  "scanner": "google",
+  "source": "http://books.google.com/books?id=w95-78eDjFAC&hl=&source=gbs_api",
+  "sponsor": "Google",
+  "subject": "bub_upload",
+  "title": "Il giuoco degli scacchi ",
+  "year": "1837",
+  "publicdate": "2016-05-16 21:05:31",
+  "collection": [
+   "bncfirenze",
+   "europeanlibraries"
+  ],
+  "uploader": "tools.bub@tools.wmflabs.org",
+  "addeddate": "2016-05-16 21:05:31",
+  "curation": "[curator]validator@archive.org[/curator][date]20160516210557[/date][comment]checked for malware[/comment]",
+  "contributor": "National Central Library of Florence",
+  "identifier-access": "http://archive.org/details/bub_gb_w95-78eDjFAC",
+  "identifier-ark": "ark:/13960/t1zd2m764",
+  "imagecount": "137",
+  "ocr": "ABBYY FineReader 11.0",
+  "repub_state": "4",
+  "backup_location": "ia906108_21"
+ },
+ "server": "ia601903.us.archive.org",
+ "uniq": 747520405,
+ "workable_servers": [
+  "ia601903.us.archive.org",
+  "ia801903.us.archive.org"
+ ]
+}

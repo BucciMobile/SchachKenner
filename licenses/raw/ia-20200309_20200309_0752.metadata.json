@@ -1,0 +1,277 @@
+{
+ "alternate_locations": {
+  "servers": [
+   {
+    "server": "dn760100.eu.archive.org",
+    "dir": "/0/items/20200309_20200309_0752"
+   },
+   {
+    "server": "dn790008.ca.archive.org",
+    "dir": "/0/items/20200309_20200309_0752"
+   }
+  ],
+  "workable": [
+   {
+    "server": "dn760100.eu.archive.org",
+    "dir": "/0/items/20200309_20200309_0752"
+   },
+   {
+    "server": "dn790008.ca.archive.org",
+    "dir": "/0/items/20200309_20200309_0752"
+   }
+  ]
+ },
+ "created": 1795169502,
+ "d1": "ia601501.us.archive.org",
+ "d2": "ia801501.us.archive.org",
+ "dir": "/27/items/20200309_20200309_0752",
+ "files": [
+  {
+   "name": "20200309_20200309_0752_archive.torrent",
+   "source": "metadata",
+   "btih": "7b3ddb2ce8b815926efb7d3857aa72c4b8660f58",
+   "mtime": "1774989757",
+   "size": "12243",
+   "md5": "9469a2e47791d3388c06b408435daa2f",
+   "crc32": "83745c50",
+   "sha1": "f4257fa6d5bc62570982f3666ec70c8088c2d479",
+   "format": "Archive BitTorrent"
+  },
+  {
+   "name": "20200309_20200309_0752_files.xml",
+   "source": "original",
+   "format": "Metadata",
+   "md5": "82b9af17098d5f517524ea61dcd391ae",
+   "summation": "md5"
+  },
+  {
+   "name": "20200309_20200309_0752_meta.sqlite",
+   "source": "original",
+   "mtime": "1585352422",
+   "size": "14336",
+   "format": "Metadata",
+   "md5": "228afbcd7dea23c4a3424348bc0c567d",
+   "crc32": "414debc0",
+   "sha1": "ed5e378ea7bb4c6416368864bcb90800fb6e76ed"
+  },
+  {
+   "name": "20200309_20200309_0752_meta.xml",
+   "source": "original",
+   "mtime": "1774989751",
+   "size": "1463",
+   "format": "Metadata",
+   "md5": "843c69c833f203f996bb23730c7cf14b",
+   "crc32": "65c18876",
+   "sha1": "5e7361ce42ec52bed1470731d0806b8848fa9993"
+  },
+  {
+   "name": "__ia_thumb.jpg",
+   "source": "original",
+   "mtime": "1771949817",
+   "size": "11143",
+   "format": "Item Tile",
+   "rotation": "0",
+   "md5": "7c730e9f071728a00d7a0836805987d8",
+   "crc32": "eaab7e21",
+   "sha1": "0affae06a454f4d2d97ecb8a110ebc36745d2641"
+  },
+  {
+   "name": "Ланге. Шахматы и основы их стратегии.epub",
+   "source": "derivative",
+   "hocr_epub_module_version": "0.0.1",
+   "hocr_epub_hocr_version": "1.1.66",
+   "format": "EPUB",
+   "original": "Ланге. Шахматы и основы их стратегии_hocr.html",
+   "mtime": "1774989311",
+   "size": "10375087",
+   "md5": "62235cdd16a623e535fc9adf8a8c3efd",
+   "crc32": "17f2583b",
+   "sha1": "6219891e282e16527d0487873e37cc89a6f2b42f"
+  },
+  {
+   "name": "Ланге. Шахматы и основы их стратегии.pdf",
+   "source": "original",
+   "mtime": "1583740617",
+   "size": "54722990",
+   "md5": "1584d3e80bab8bb84fef51b072721441",
+   "crc32": "11308185",
+   "sha1": "c39ce0ea4c93daeebba0e82f9891c1a1dc37ea2c",
+   "format": "Text PDF"
+  },
+  {
+   "name": "Ланге. Шахматы и основы их стратегии_abbyy.gz",
+   "source": "derivative",
+   "format": "Abbyy GZ",
+   "original": "Ланге. Шахматы и основы их стратегии_jp2.zip",
+   "mtime": "1583742158",
+   "size": "2806021",
+   "md5": "fa846eb09a877507e099788517b92410",
+   "crc32": "e9fee1db",
+   "sha1": "149d74c972f42df1f67f135f69bf96f499c838e3"
+  },
+  {
+   "name": "Ланге. Шахматы и основы их стратегии_chocr.html.gz",
+   "source": "derivative",
+   "ocr_module_version": "0.0.21",
+   "ocr_converted": "abbyy-to-hocr 1.1.37",
+   "format": "chOCR",
+   "original": "Ланге. Шахматы и основы их стратегии_abbyy.gz",
+   "mtime": "1711912134",
+   "size": "2297494",
+   "md5": "dd8a8b6465db708dc4dbad487385f74e",
+   "crc32": "6c228be0",
+   "sha1": "a220b6a428836f5e7135c2ffc663a8e50bf0d5b4"
+  },
+  {
+   "name": "Ланге. Шахматы и основы их стратегии_djvu.txt",
+   "source": "derivative",
+   "format": "DjVuTXT",
+   "original": "Ланге. Шахматы и основы их стратегии_djvu.xml",
+   "mtime": "1711912390",
+   "size": "297627",
+   "md5": "0b119d657fef3600646375d2d80cb7eb",
+   "crc32": "2d748802",
+   "sha1": "4cd8ffaa04c8d95f569d128e18fc07c9a6adf0dd"
+  },
+  {
+   "name": "Ланге. Шахматы и основы их стратегии_djvu.xml",
+   "source": "derivative",
+   "format": "Djvu XML",
+   "original": "Ланге. Шахматы и основы их стратегии_hocr.html",
+   "mtime": "1711912236",
+   "size": "2708677",
+   "md5": "446e0ae6321e70e0d3a42a7f9565f185",
+   "crc32": "ef5f82e2",
+   "sha1": "d8a7a2c4a8f98825e097c1d23e8947f3b5f3ce89"
+  },
+  {
+   "name": "Ланге. Шахматы и основы их стратегии_hocr.html",
+   "source": "derivative",
+   "hocr_char_to_word_module_version": "1.3.0",
+   "hocr_char_to_word_hocr_version": "1.1.56",
+   "ocr_module_version": "0.0.21",
+   "ocr_converted": "abbyy-to-hocr 1.1.37",
+   "format": "hOCR",
+   "original": "Ланге. Шахматы и основы их стратегии_chocr.html.gz",
+   "mtime": "1711912193",
+   "size": "5529725",
+   "md5": "b65cb456497f86ee651d577723562759",
+   "crc32": "740349dc",
+   "sha1": "4a029d0e9b530c565594831216b93c103260b8e1"
+  },
+  {
+   "name": "Ланге. Шахматы и основы их стратегии_hocr_pageindex.json.gz",
+   "source": "derivative",
+   "hocr_pageindex_module_version": "1.1.0",
+   "hocr_pageindex_hocr_version": "1.1.56",
+   "format": "OCR Page Index",
+   "original": "Ланге. Шахматы и основы их стратегии_hocr.html",
+   "mtime": "1711912287",
+   "size": "2162",
+   "md5": "2f4aea52f4f9763c55d4dd929adf72d2",
+   "crc32": "28786f10",
+   "sha1": "36aa39589d3584c45771f1f344a16ac23dfdfc06"
+  },
+  {
+   "name": "Ланге. Шахматы и основы их стратегии_hocr_searchtext.txt.gz",
+   "source": "derivative",
+   "hocr_fts_text_module_version": "1.2.0",
+   "hocr_fts_text_hocr_version": "1.1.56",
+   "word_conf_0_10": "1694",
+   "word_conf_11_20": "741",
+   "word_conf_21_30": "1178",
+   "word_conf_31_40": "1709",
+   "word_conf_41_50": "1791",
+   "word_conf_51_60": "2583",
+   "word_conf_61_70": "4180",
+   "word_conf_71_80": "5636",
+   "word_conf_81_90": "4802",
+   "word_conf_91_100": "4883",
+   "format": "OCR Search Text",
+   "original": "Ланге. Шахматы и основы их стратегии_hocr.html",
+   "mtime": "1711912324",
+   "size": "80552",
+   "md5": "757d5e3129ec1e5414e567401d784e25",
+   "crc32": "d6a6bd7d",
+   "sha1": "f7552d9124fb4a5096e077e2c8f417df87e51c04"
+  },
+  {
+   "name": "Ланге. Шахматы и основы их стратегии_jp2.zip",
+   "source": "derivative",
+   "format": "Single Page Processed JP2 ZIP",
+   "original": "Ланге. Шахматы и основы их стратегии.pdf",
+   "mtime": "1583741450",
+   "size": "122924936",
+   "md5": "ed3350a4dea9c07b50ff8df510d0ad96",
+   "crc32": "ebd377ae",
+   "sha1": "3fe0fb7770845282d478412b70120635ce4572c6",
+   "filecount": "188"
+  },
+  {
+   "name": "Ланге. Шахматы и основы их стратегии_page_numbers.json",
+   "source": "derivative",
+   "hocr_pagenumber_module_version": "1.0.5",
+   "hocr_pagenumber_hocr_version": "1.1.54",
+   "hocr_pagenumber_confidence": "89",
+   "format": "Page Numbers JSON",
+   "original": "Ланге. Шахматы и основы их стратегии_hocr.html",
+   "mtime": "1711912375",
+   "size": "31927",
+   "md5": "5282d5fb5abd6fb5de63e156433be20c",
+   "crc32": "76bee70a",
+   "sha1": "1dbee4f2f6b42b309bafa14ab4348da31307aa20"
+  },
+  {
+   "name": "Ланге. Шахматы и основы их стратегии_scandata.xml",
+   "source": "original",
+   "mtime": "1585352383",
+   "size": "56525",
+   "md5": "46753705d1a0c034a835e348def7c1aa",
+   "crc32": "038cf539",
+   "sha1": "3291760de703dd40e7567be09e153fb4a511bcc8",
+   "format": "Scandata"
+  }
+ ],
+ "files_count": 17,
+ "item_last_updated": 1774989757,
+ "item_size": 201872908,
+ "metadata": {
+  "identifier": "20200309_20200309_0752",
+  "mediatype": "texts",
+  "collection": [
+   "folkscanomy_chess",
+   "folkscanomy"
+  ],
+  "creator": "Ланге М.",
+  "date": "1924",
+  "description": "Ланге М. Шахматы и основы их стратегии. Одесса: Mathesis, 1924.- 172 с.",
+  "language": "rus",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+  "subject": [
+   "sports",
+   "chess"
+  ],
+  "title": "Шахматы и основы их стратегии",
+  "uploader": "zanko.philipp@gmail.com",
+  "publicdate": "2020-03-09 07:57:22",
+  "addeddate": "2020-03-09 07:57:22",
+  "curation": "[curator]validator@archive.org[/curator][date]20200309075743[/date][comment]checked for malware[/comment]",
+  "identifier-access": "http://archive.org/details/20200309_20200309_0752",
+  "identifier-ark": "ark:/13960/t51g98j82",
+  "ppi": "600",
+  "year": "1924",
+  "coverleaf": "0",
+  "backup_location": "ia907107_11",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "89",
+  "page_number_module_version": "1.0.5"
+ },
+ "server": "ia801501.us.archive.org",
+ "uniq": 744394759,
+ "workable_servers": [
+  "ia801501.us.archive.org",
+  "ia601501.us.archive.org"
+ ]
+}

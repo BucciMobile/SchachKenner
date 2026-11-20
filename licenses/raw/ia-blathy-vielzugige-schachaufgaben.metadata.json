@@ -1,0 +1,282 @@
+{
+ "alternate_locations": {
+  "servers": [
+   {
+    "server": "dn760001.eu.archive.org",
+    "dir": "/0/items/blathy-vielzugige-schachaufgaben"
+   },
+   {
+    "server": "dn790008.ca.archive.org",
+    "dir": "/0/items/blathy-vielzugige-schachaufgaben"
+   }
+  ],
+  "workable": [
+   {
+    "server": "dn760001.eu.archive.org",
+    "dir": "/0/items/blathy-vielzugige-schachaufgaben"
+   },
+   {
+    "server": "dn790008.ca.archive.org",
+    "dir": "/0/items/blathy-vielzugige-schachaufgaben"
+   }
+  ]
+ },
+ "created": 1795169409,
+ "d1": "ia600408.us.archive.org",
+ "d2": "ia800408.us.archive.org",
+ "dir": "/12/items/blathy-vielzugige-schachaufgaben",
+ "files": [
+  {
+   "name": "Blathy_Vielzugige_Schachaufgaben.epub",
+   "source": "derivative",
+   "hocr_epub_module_version": "0.0.1",
+   "hocr_epub_hocr_version": "1.1.66",
+   "format": "EPUB",
+   "original": "Blathy_Vielzugige_Schachaufgaben_hocr.html",
+   "mtime": "1776943368",
+   "size": "42431",
+   "md5": "2a99ea00feaf9de13e4706ce83a0e6a7",
+   "crc32": "9a35661c",
+   "sha1": "4e3d999a4a08d59cb45352a5cf13d5a5cc4eb7d0"
+  },
+  {
+   "name": "Blathy_Vielzugige_Schachaufgaben.pdf",
+   "source": "original",
+   "mtime": "1627776287",
+   "size": "126024",
+   "md5": "46286555f3a080adeea1be4c78862fb7",
+   "crc32": "a19b21b0",
+   "sha1": "2fb7e9e1dd9ebba176087900f6e63174b352deee",
+   "format": "Text PDF"
+  },
+  {
+   "name": "Blathy_Vielzugige_Schachaufgaben_chocr.html.gz",
+   "source": "derivative",
+   "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+   "ocr_parameters": "-l deu",
+   "ocr_module_version": "0.0.13",
+   "ocr_detected_script": "Latin",
+   "ocr_detected_script_conf": "0.9422",
+   "ocr_detected_lang": "az",
+   "ocr_detected_lang_conf": "1.0000",
+   "format": "chOCR",
+   "original": "Blathy_Vielzugige_Schachaufgaben_jp2.zip",
+   "mtime": "1627776560",
+   "size": "675555",
+   "md5": "d6a2bffe87cadc586f2d9980654a21d1",
+   "crc32": "9dabbda3",
+   "sha1": "ba6d9c58e6159427f353cfb3203727ca43da4162"
+  },
+  {
+   "name": "Blathy_Vielzugige_Schachaufgaben_djvu.txt",
+   "source": "derivative",
+   "format": "DjVuTXT",
+   "original": "Blathy_Vielzugige_Schachaufgaben_djvu.xml",
+   "mtime": "1627776611",
+   "size": "49200",
+   "md5": "9309447fd709338c9f0f92a92e7f50e4",
+   "crc32": "172dff62",
+   "sha1": "1c9d8ab5bc2157e68d35365754fca550cd64c4f3"
+  },
+  {
+   "name": "Blathy_Vielzugige_Schachaufgaben_djvu.xml",
+   "source": "derivative",
+   "format": "Djvu XML",
+   "original": "Blathy_Vielzugige_Schachaufgaben_hocr.html",
+   "mtime": "1627776586",
+   "size": "826601",
+   "md5": "3d68dde3e1eb09abc2055e871b9c628e",
+   "crc32": "b820c9ad",
+   "sha1": "3c467a42f1bb93b9097145481650cb97588b9190"
+  },
+  {
+   "name": "Blathy_Vielzugige_Schachaufgaben_hocr.html",
+   "source": "derivative",
+   "hocr_char_to_word_module_version": "1.0.0",
+   "hocr_char_to_word_hocr_version": "1.1.2",
+   "ocr_parameters": "-l deu",
+   "ocr_module_version": "0.0.13",
+   "ocr_detected_script": "Latin",
+   "ocr_detected_script_conf": "0.9422",
+   "ocr_detected_lang": "az",
+   "ocr_detected_lang_conf": "1.0000",
+   "format": "hOCR",
+   "original": "Blathy_Vielzugige_Schachaufgaben_chocr.html.gz",
+   "mtime": "1627776576",
+   "size": "1628915",
+   "md5": "5b4f90c1093c0773493877f448a9a36b",
+   "crc32": "22513841",
+   "sha1": "1f689d0ebd6808628650b57fe1665e2926acecb3"
+  },
+  {
+   "name": "Blathy_Vielzugige_Schachaufgaben_hocr_pageindex.json.gz",
+   "source": "derivative",
+   "hocr_pageindex_module_version": "1.0.0",
+   "hocr_pageindex_hocr_version": "1.1.0",
+   "format": "OCR Page Index",
+   "original": "Blathy_Vielzugige_Schachaufgaben_hocr.html",
+   "mtime": "1627776591",
+   "size": "452",
+   "md5": "74c9e8e18140a0dd3fccc6cf2272612d",
+   "crc32": "f4af541e",
+   "sha1": "4ab9bcc0db479bd8ec08f62752bcb15f2e064757"
+  },
+  {
+   "name": "Blathy_Vielzugige_Schachaufgaben_hocr_searchtext.txt.gz",
+   "source": "derivative",
+   "hocr_fts_text_module_version": "1.1.0",
+   "hocr_fts_text_hocr_version": "1.1.0",
+   "word_conf_0_10": "338",
+   "word_conf_11_20": "219",
+   "word_conf_21_30": "332",
+   "word_conf_31_40": "426",
+   "word_conf_41_50": "441",
+   "word_conf_51_60": "456",
+   "word_conf_61_70": "550",
+   "word_conf_71_80": "687",
+   "word_conf_81_90": "1872",
+   "word_conf_91_100": "4654",
+   "format": "OCR Search Text",
+   "original": "Blathy_Vielzugige_Schachaufgaben_hocr.html",
+   "mtime": "1627776603",
+   "size": "20785",
+   "md5": "d0d77898b9460ee609bd04fede7379c8",
+   "crc32": "7f67b5fe",
+   "sha1": "7688be63dc9ad24de9d3bc4a7f42f68099f3f2c8"
+  },
+  {
+   "name": "Blathy_Vielzugige_Schachaufgaben_jp2.zip",
+   "source": "derivative",
+   "format": "Single Page Processed JP2 ZIP",
+   "original": "Blathy_Vielzugige_Schachaufgaben.pdf",
+   "mtime": "1627776400",
+   "size": "9821029",
+   "md5": "8cab1ec03c82921ff9951f76383b9aef",
+   "crc32": "45ab986b",
+   "sha1": "27165ddecb1deeadd34d54d1fdb09c84657cd712",
+   "filecount": "41"
+  },
+  {
+   "name": "Blathy_Vielzugige_Schachaufgaben_page_numbers.json",
+   "source": "derivative",
+   "hocr_pagenumber_module_version": "1.0.5",
+   "hocr_pagenumber_hocr_version": "1.1.54",
+   "hocr_pagenumber_confidence": "23",
+   "format": "Page Numbers JSON",
+   "original": "Blathy_Vielzugige_Schachaufgaben_hocr.html",
+   "mtime": "1776943446",
+   "size": "7108",
+   "md5": "deb0e2d5ff5c59b7331b9910dba433b8",
+   "crc32": "5c1eab49",
+   "sha1": "5c75e4a4386d46c737417eec88db9d048eba8cb8"
+  },
+  {
+   "name": "Blathy_Vielzugige_Schachaufgaben_scandata.xml",
+   "source": "derivative",
+   "format": "Scandata",
+   "original": "Blathy_Vielzugige_Schachaufgaben_djvu.xml",
+   "mtime": "1776943446",
+   "size": "14033",
+   "md5": "90f0c3fa1845e9b1252717486cd168a7",
+   "crc32": "8f7204d4",
+   "sha1": "123c3129d544c85b93a307715eed5c6e5dce317b"
+  },
+  {
+   "name": "__ia_thumb.jpg",
+   "source": "original",
+   "mtime": "1745470746",
+   "size": "6293",
+   "md5": "d0d92079f3a0d49ba58b42e55d8096d1",
+   "crc32": "e161a4fa",
+   "sha1": "73a1a19f44873993009cefd0ce73ceb8378c7394",
+   "format": "Item Tile",
+   "rotation": "0"
+  },
+  {
+   "name": "blathy-vielzugige-schachaufgaben_archive.torrent",
+   "source": "metadata",
+   "btih": "feaa62cc047685f1923a4931d4fee54e2c182687",
+   "mtime": "1776943567",
+   "size": "4514",
+   "md5": "b6f7c8817c2327698901dc6373dc73ce",
+   "crc32": "168a8db0",
+   "sha1": "ace4d56a2f2a0d3dc483be9028d4316218715bb6",
+   "format": "Archive BitTorrent"
+  },
+  {
+   "name": "blathy-vielzugige-schachaufgaben_files.xml",
+   "source": "original",
+   "format": "Metadata",
+   "md5": "c4e8e3a35d151b882fe5fe8ea553e68f",
+   "summation": "md5"
+  },
+  {
+   "name": "blathy-vielzugige-schachaufgaben_meta.sqlite",
+   "source": "original",
+   "mtime": "1627776312",
+   "size": "20480",
+   "md5": "85bf5d0f622677d153a2d8da74ac3803",
+   "crc32": "773542e6",
+   "sha1": "e51f2a9f7e1f1d858b86a7576f2f248e529fc58b",
+   "format": "Metadata"
+  },
+  {
+   "name": "blathy-vielzugige-schachaufgaben_meta.xml",
+   "source": "original",
+   "mtime": "1776943565",
+   "size": "1740",
+   "md5": "d20384bb0fe6787d90ec861d2978b856",
+   "crc32": "5b8644e0",
+   "sha1": "ad402707cefd0b75c092cda33ee5040751615756",
+   "format": "Metadata"
+  }
+ ],
+ "files_count": 16,
+ "item_last_updated": 1776943567,
+ "item_size": 13245160,
+ "metadata": {
+  "identifier": "blathy-vielzugige-schachaufgaben",
+  "mediatype": "texts",
+  "creator": "Otto Titius Blathy",
+  "date": "1890",
+  "description": " Chess problems with solutions from between 7 and 292 moves.<br />",
+  "language": "ger",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+  "subject": [
+   "chess",
+   "hungary",
+   "Schach",
+   "chess problems",
+   "Blathy"
+  ],
+  "title": "Blathy Vielzugige Schachaufgaben",
+  "uploader": "euler@yopmail.com",
+  "publicdate": "2021-08-01 00:05:07",
+  "addeddate": "2021-08-01 00:05:07",
+  "curation": "[curator]validator@archive.org[/curator][date]20210801000520[/date][comment]checked for malware[/comment]",
+  "identifier-access": "http://archive.org/details/blathy-vielzugige-schachaufgaben",
+  "identifier-ark": "ark:/13960/t0bw9k23n",
+  "ppi": "300",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l deu",
+  "ocr_module_version": "0.0.13",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9422",
+  "ocr_detected_lang": "az",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "23",
+  "collection": [
+   "booksbylanguage_german",
+   "booksbylanguage"
+  ],
+  "collection_added": "booksbylanguage",
+  "page_number_module_version": "1.0.5"
+ },
+ "server": "ia800408.us.archive.org",
+ "uniq": 1697571219,
+ "workable_servers": [
+  "ia800408.us.archive.org",
+  "ia600408.us.archive.org"
+ ]
+}

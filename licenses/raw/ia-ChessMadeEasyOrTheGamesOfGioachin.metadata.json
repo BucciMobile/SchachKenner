@@ -1,0 +1,218 @@
+{
+ "alternate_locations": {
+  "servers": [
+   {
+    "server": "dn760102.eu.archive.org",
+    "dir": "/0/items/ChessMadeEasyOrTheGamesOfGioachin"
+   },
+   {
+    "server": "dn790006.ca.archive.org",
+    "dir": "/0/items/ChessMadeEasyOrTheGamesOfGioachin"
+   }
+  ],
+  "workable": [
+   {
+    "server": "dn760102.eu.archive.org",
+    "dir": "/0/items/ChessMadeEasyOrTheGamesOfGioachin"
+   },
+   {
+    "server": "dn790006.ca.archive.org",
+    "dir": "/0/items/ChessMadeEasyOrTheGamesOfGioachin"
+   }
+  ]
+ },
+ "created": 1795169384,
+ "d1": "ia600609.us.archive.org",
+ "d2": "ia800609.us.archive.org",
+ "dir": "/7/items/ChessMadeEasyOrTheGamesOfGioachin",
+ "files": [
+  {
+   "name": "ChessMadeEasyOrTheGamesOfGioachin_archive.torrent",
+   "source": "metadata",
+   "btih": "f72c2b24824c1e405d28fd58e21356c90d0b8758",
+   "mtime": "1593801050",
+   "size": "6496",
+   "md5": "ccb42703ddf3dd2e4da0d900b04563dc",
+   "crc32": "6b379fc2",
+   "sha1": "e7a81dc3c37e6d1cff62e9cbb729545ed2b2b4d8",
+   "format": "Archive BitTorrent"
+  },
+  {
+   "name": "ChessMadeEasyOrTheGamesOfGioachin_dc.xml",
+   "source": "original",
+   "format": "Dublin Core",
+   "mtime": "1542738848",
+   "size": "789",
+   "md5": "ff0395b04df68d645f9715d7fa3b815c",
+   "crc32": "04c68918",
+   "sha1": "69552b1f13da4aff6fa5d2804066d550efa43319"
+  },
+  {
+   "name": "ChessMadeEasyOrTheGamesOfGioachin_files.xml",
+   "source": "original",
+   "format": "Metadata",
+   "md5": "ed55bc9da0400efab2afa16c188ea1ae",
+   "summation": "md5"
+  },
+  {
+   "name": "ChessMadeEasyOrTheGamesOfGioachin_marc.xml",
+   "source": "original",
+   "format": "MARC",
+   "mtime": "1542738848",
+   "size": "2387",
+   "md5": "0df96da66669cc2f3c4930807ba1998f",
+   "crc32": "e5166916",
+   "sha1": "bb1d7d4ce589f6f3663a364a5352a08cc573031f"
+  },
+  {
+   "name": "ChessMadeEasyOrTheGamesOfGioachin_meta.mrc",
+   "source": "original",
+   "format": "MARC Binary",
+   "mtime": "1542738848",
+   "size": "866",
+   "md5": "6434a25d134703c31bcfdcb12abd31eb",
+   "crc32": "14466671",
+   "sha1": "8a8f57b18e314ae4f628594c000ccf871e34d904"
+  },
+  {
+   "name": "ChessMadeEasyOrTheGamesOfGioachin_meta.sqlite",
+   "source": "original",
+   "mtime": "1540224095",
+   "size": "14336",
+   "format": "Metadata",
+   "md5": "6c7f62b8223c3771099548f709280714",
+   "crc32": "9dc0b385",
+   "sha1": "32213d72bf613f50845ec50dd28f24df3cfa233c"
+  },
+  {
+   "name": "ChessMadeEasyOrTheGamesOfGioachin_meta.xml",
+   "source": "original",
+   "mtime": "1593801048",
+   "size": "1672",
+   "format": "Metadata",
+   "md5": "f76792e2dace7a30ba5e9734f176ff3e",
+   "crc32": "150e0ea0",
+   "sha1": "c81b35d3913d003fc076f89910a16ac6a339710b"
+  },
+  {
+   "name": "Chess_Made_Easy_Or_The_Games_of_Gioachin.pdf",
+   "source": "original",
+   "mtime": "1536845340",
+   "size": "4043898",
+   "md5": "ef0215edf6d086324a1eda8ff4ab4bc2",
+   "crc32": "79872518",
+   "sha1": "3c9862e5c67827cdee24b16d5024d29995811a60",
+   "format": "Text PDF"
+  },
+  {
+   "name": "Chess_Made_Easy_Or_The_Games_of_Gioachin_abbyy.gz",
+   "source": "derivative",
+   "format": "Abbyy GZ",
+   "original": "Chess_Made_Easy_Or_The_Games_of_Gioachin_jp2.zip",
+   "mtime": "1536847747",
+   "size": "2269350",
+   "md5": "5c668c2289f0bd5d64900269c0b9e9d8",
+   "crc32": "7bfd7ea7",
+   "sha1": "4cde4b9e51e06b54e88639f0f1db6bb05afbc060"
+  },
+  {
+   "name": "Chess_Made_Easy_Or_The_Games_of_Gioachin_djvu.txt",
+   "source": "derivative",
+   "format": "DjVuTXT",
+   "original": "Chess_Made_Easy_Or_The_Games_of_Gioachin_djvu.xml",
+   "mtime": "1536847800",
+   "size": "117881",
+   "md5": "856ccc790ddf8d6ca248a4fd5eb6f95f",
+   "crc32": "0fccc212",
+   "sha1": "e3cce2a71de5917e133228024e7eca9d91b7c8ee"
+  },
+  {
+   "name": "Chess_Made_Easy_Or_The_Games_of_Gioachin_djvu.xml",
+   "source": "derivative",
+   "format": "Djvu XML",
+   "original": "Chess_Made_Easy_Or_The_Games_of_Gioachin_abbyy.gz",
+   "mtime": "1536847798",
+   "size": "3202545",
+   "md5": "20c9d08ceea074132412c38f76eec77a",
+   "crc32": "5b743c5a",
+   "sha1": "57f9423d218a07b6241c3d8521f09bf402563bab"
+  },
+  {
+   "name": "Chess_Made_Easy_Or_The_Games_of_Gioachin_jp2.zip",
+   "source": "derivative",
+   "format": "Single Page Processed JP2 ZIP",
+   "original": "Chess_Made_Easy_Or_The_Games_of_Gioachin.pdf",
+   "mtime": "1536846242",
+   "size": "65888873",
+   "md5": "fd7817347c99a75a74b60f9328b15f96",
+   "crc32": "b3135be4",
+   "sha1": "b505ce096d5f711fb6972dff5431e959bea8862a",
+   "filecount": "259"
+  },
+  {
+   "name": "Chess_Made_Easy_Or_The_Games_of_Gioachin_scandata.xml",
+   "source": "derivative",
+   "format": "Scandata",
+   "original": "Chess_Made_Easy_Or_The_Games_of_Gioachin_djvu.xml",
+   "mtime": "1540224090",
+   "size": "77837",
+   "md5": "7f51b03f39bb1d16c5524756eede191e",
+   "crc32": "21227171",
+   "sha1": "78b847fbf71612e24871f1bb75e37f427e466a85"
+  },
+  {
+   "name": "__ia_thumb.jpg",
+   "source": "original",
+   "mtime": "1536847805",
+   "size": "20023",
+   "md5": "dd45ce8101d2ebd9454faa4ed5643b17",
+   "crc32": "f50ff26d",
+   "sha1": "a9e5aefce1a2408057a45b970b1bb9299f71aea6",
+   "format": "Item Tile",
+   "rotation": "0"
+  }
+ ],
+ "files_count": 14,
+ "item_last_updated": 1737488243,
+ "item_size": 75646953,
+ "metadata": {
+  "identifier": "ChessMadeEasyOrTheGamesOfGioachin",
+  "mediatype": "texts",
+  "collection": "europeanlibraries",
+  "creator": "Greco, Gioachino, 1600-1634",
+  "date": "1750",
+  "language": "eng",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "oclc-id": "71737346",
+  "scanner": "google",
+  "source": "https://books.google.com/books?id=wVZeAAAAcAAJ",
+  "sponsor": "Google",
+  "subject": "Chess",
+  "title": "Chess made easy: or, The games of Gioachino Greco .. : with additional games and openings, illustrated with remarks and general rules ..",
+  "year": "1750",
+  "publicdate": "2018-09-13 13:29:00",
+  "uploader": "the_professor737@protonmail.com",
+  "addeddate": "2018-09-13 13:29:00",
+  "curation": "[curator]validator@archive.org[/curator][date]20180913134012[/date][comment]checked for malware[/comment]",
+  "publisher": "London : Printed for J. and P. Knapton, and W. Sandby",
+  "identifier-access": "http://archive.org/details/ChessMadeEasyOrTheGamesOfGioachin",
+  "identifier-ark": "ark:/13960/t52g4xh7d",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 11.0 (Extended OCR)",
+  "google-id": "wVZeAAAAcAAJ",
+  "imagecount": "259",
+  "scandate": "20140730",
+  "description": [
+   "xxiii, [1], 212 p. : in-12",
+   "Vert. van: Trattato del nobilissimo gioco de scacchi. - 1620. - Ms"
+  ],
+  "contributor": "National Library of the Netherlands",
+  "backup_location": "ia906801_32"
+ },
+ "server": "ia800609.us.archive.org",
+ "uniq": 54618973,
+ "workable_servers": [
+  "ia800609.us.archive.org",
+  "ia600609.us.archive.org"
+ ]
+}

@@ -46,7 +46,7 @@ the *“How and why we use AI”* section at the bottom of this page.
 | 🔍 Analysis software & GUIs | lichess, BanksiaGUI, Scid vs. PC, Arena, Cute Chess | [06-analysis-gui.md](categories/06-analysis-gui.md) |
 | 🧰 Tools, libraries & scripts | python-chess, chess.js, chessops, pgn-extract, … | [07-tools-libraries-scripts.md](categories/07-tools-libraries-scripts.md) |
 | 🗄 Tablebases & opening books | Syzygy ≤ 7 pieces, Gaviota, Polyglot `.bin` books | [08-tablebases-and-opening-books.md](categories/08-tablebases-and-opening-books.md) |
-| 📚 Books & learning material | Public-domain classics (Project Gutenberg, archive.org), courses | [09-books-and-learning.md](categories/09-books-and-learning.md) |
+| 📚 Books & learning material | **17 hosted PD books in 8 languages** + Gutenberg/archive.org shelves, official rules, courses — no "pay-shipping" scam books | [09-books-and-learning.md](categories/09-books-and-learning.md) |
 | 🎨 Graphics, piece sets & fonts | Cburnett SVGs, lichess piece sets, 3D-printable pieces | [10-graphics-pieces-fonts.md](categories/10-graphics-pieces-fonts.md) |
 | 🤖 Datasets & ML | lichess game/puzzle dumps, Hugging Face & Kaggle mirrors | [11-datasets-and-ml.md](categories/11-datasets-and-ml.md) |
 | 💬 Communities, wikis & news | Chess Programming Wiki, forums, rating sites, news | [12-communities-wikis-news.md](categories/12-communities-wikis-news.md) |
@@ -69,6 +69,7 @@ Only sources with **explicit redistribution permission** are hosted here — pro
 - 👑 [`data/pgn/masters/`](data/pgn/masters/) — Fischer & Euwe master games, **MIT**, with groups
 - 🆕 [**Interactive PGN explorer — live in your browser**](https://BucciMobile.github.io/SchachKenner/) — filter the games by time control, Elo range slider, opening, ECO category (A–E), event type, result, player name; the table re-sorts automatically and every game shows its copyable PGN. Also loads your own PGN files. Optimized for mobile 📱
 - 🆕 [**Play & analyze tool — live in your browser**](https://BucciMobile.github.io/SchachKenner/play.html) — board view with move navigation, **play vs Stockfish 16 WASM** (client-side), **position analysis** (eval bar + best move + PV), and a **🔗 share button** that copies a short text + deep link (`?src=…&game=…`, used by the explorer's ▶ button). Engine/lib licenses: GPLv3 / BSD-2-Clause, loaded unmodified via CDN, proofs in [`licenses/`](licenses/)
+- 📚 [`data/books/`](data/books/) — **17 public-domain chess books in 8 languages** (EN/DE/FR/ES/IT/RU/PT/SV, ≈5.8 MB): My System, Lasker's Manual, Capablanca's Chess Fundamentals, Staunton, Philidor, Bláthy, Petrov … full texts hosted, each with SHA-256 + PD-Mark/pre-1930 proof in [`licenses/books-public-domain.md`](licenses/books-public-domain.md)
 
 > "Database exports are released under the Creative Commons CC0 license. … You can
 > download, modify and redistribute them, without asking for permission."

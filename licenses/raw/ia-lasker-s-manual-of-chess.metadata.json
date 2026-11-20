@@ -1,0 +1,299 @@
+{
+ "alternate_locations": {
+  "servers": [
+   {
+    "server": "dn721908.ca.archive.org",
+    "dir": "/0/items/lasker-s-manual-of-chess"
+   },
+   {
+    "server": "dn760005.eu.archive.org",
+    "dir": "/0/items/lasker-s-manual-of-chess"
+   }
+  ],
+  "workable": [
+   {
+    "server": "dn721908.ca.archive.org",
+    "dir": "/0/items/lasker-s-manual-of-chess"
+   },
+   {
+    "server": "dn760005.eu.archive.org",
+    "dir": "/0/items/lasker-s-manual-of-chess"
+   }
+  ]
+ },
+ "created": 1795168160,
+ "d1": "ia601801.us.archive.org",
+ "d2": "ia801801.us.archive.org",
+ "dir": "/3/items/lasker-s-manual-of-chess",
+ "files": [
+  {
+   "name": "-_Lasker_s_Manual_of_Chess.epub",
+   "source": "derivative",
+   "original": "-_Lasker_s_Manual_of_Chess_hocr.html",
+   "mtime": "1699511495",
+   "size": "481379",
+   "md5": "b0a2bd52a1673de267f52c9f0182576e",
+   "crc32": "9c2ed332",
+   "sha1": "45afcfc35cd10c9d3e0b95e21b993a423114caac",
+   "format": "EPUB"
+  },
+  {
+   "name": "-_Lasker_s_Manual_of_Chess.pdf",
+   "source": "original",
+   "mtime": "1608073000",
+   "size": "44401429",
+   "md5": "87f21569b19f2508ad34dc3b8ac1b152",
+   "crc32": "67c57c48",
+   "sha1": "ff2d9af8fc4472cf467902e08485d34c2b024e25",
+   "format": "Image Container PDF"
+  },
+  {
+   "name": "-_Lasker_s_Manual_of_Chess_chocr.html.gz",
+   "source": "derivative",
+   "format": "chOCR",
+   "original": "-_Lasker_s_Manual_of_Chess_jp2.zip",
+   "mtime": "1608077947",
+   "size": "8522841",
+   "md5": "114bc048b918ae14bd39b8426d40a275",
+   "crc32": "43f78503",
+   "sha1": "f05bb14bceef32e9c0292dcab9eea46e416deb3a"
+  },
+  {
+   "name": "-_Lasker_s_Manual_of_Chess_daisy.zip",
+   "source": "derivative",
+   "hocr_epub_module_version": "0.0.1",
+   "hocr_epub_hocr_version": "1.1.66",
+   "format": "Daisy",
+   "original": "-_Lasker_s_Manual_of_Chess_hocr.html",
+   "mtime": "1772219974",
+   "size": "385904",
+   "md5": "efa89b77883ab147121c0ca9f7e081a4",
+   "crc32": "7038a674",
+   "sha1": "0f0651264e8c1d9b41daee947e793fd0a07ff626",
+   "filecount": "9"
+  },
+  {
+   "name": "-_Lasker_s_Manual_of_Chess_djvu.txt",
+   "source": "derivative",
+   "format": "DjVuTXT",
+   "original": "-_Lasker_s_Manual_of_Chess_djvu.xml",
+   "mtime": "1772219988",
+   "size": "665394",
+   "md5": "ac14d9db12969707bd52cc0fa8262512",
+   "crc32": "87ec844c",
+   "sha1": "e3737fd6790b0d206fece35c483d5152029f7e88"
+  },
+  {
+   "name": "-_Lasker_s_Manual_of_Chess_djvu.xml",
+   "source": "derivative",
+   "format": "Djvu XML",
+   "original": "-_Lasker_s_Manual_of_Chess_hocr.html",
+   "mtime": "1772219960",
+   "size": "9466407",
+   "md5": "7e63e98f86e180b1247af814694125f3",
+   "crc32": "1cc0a6a8",
+   "sha1": "fec564b9efc22f08beb7cab0605a36f5b245c21f"
+  },
+  {
+   "name": "-_Lasker_s_Manual_of_Chess_hocr.html",
+   "source": "derivative",
+   "hocr_char_to_word_module_version": "1.0.0",
+   "hocr_char_to_word_hocr_version": "1.1.2",
+   "format": "hOCR",
+   "original": "-_Lasker_s_Manual_of_Chess_chocr.html.gz",
+   "mtime": "1614986943",
+   "size": "19555545",
+   "md5": "218c0b9ae8c9e7ec8716352827cb72c8",
+   "crc32": "16bca5fb",
+   "sha1": "4b8e50989946e1223d391edacd90691310042c1f"
+  },
+  {
+   "name": "-_Lasker_s_Manual_of_Chess_hocr_pageindex.json.gz",
+   "source": "derivative",
+   "hocr_pageindex_module_version": "1.0.0",
+   "hocr_pageindex_hocr_version": "1.1.0",
+   "format": "OCR Page Index",
+   "original": "-_Lasker_s_Manual_of_Chess_hocr.html",
+   "mtime": "1614986993",
+   "size": "4654",
+   "md5": "2b3f2a7fb857d3bc67880c4941f9dbce",
+   "crc32": "fb239b53",
+   "sha1": "9832fdf2728064db800408b4f2ab88d3447e6e93"
+  },
+  {
+   "name": "-_Lasker_s_Manual_of_Chess_hocr_searchtext.txt.gz",
+   "source": "derivative",
+   "hocr_fts_text_module_version": "1.0.0",
+   "hocr_fts_text_hocr_version": "1.1.0",
+   "word_conf_0_10": "2372",
+   "word_conf_11_20": "1024",
+   "word_conf_21_30": "1403",
+   "word_conf_31_40": "1750",
+   "word_conf_41_50": "1931",
+   "word_conf_51_60": "2098",
+   "word_conf_61_70": "2658",
+   "word_conf_71_80": "4266",
+   "word_conf_81_90": "10681",
+   "word_conf_91_100": "86844",
+   "format": "OCR Search Text",
+   "original": "-_Lasker_s_Manual_of_Chess_hocr.html",
+   "mtime": "1614987033",
+   "size": "243540",
+   "md5": "a39200d7a1e6f52f21ab7642179fc1b7",
+   "crc32": "d4b9e8ee",
+   "sha1": "51f2d5b9741e4c0f3366f46e122f54d7b518d8f7"
+  },
+  {
+   "name": "-_Lasker_s_Manual_of_Chess_jp2.zip",
+   "source": "derivative",
+   "format": "Single Page Processed JP2 ZIP",
+   "original": "-_Lasker_s_Manual_of_Chess.pdf",
+   "mtime": "1608075065",
+   "size": "49140812",
+   "md5": "73c5c853e10c412c9f8c1a1121fc5c17",
+   "crc32": "094f8d8c",
+   "sha1": "c6171b4019dd8bf9af103262ab28a1dd49ccefe6",
+   "filecount": "385"
+  },
+  {
+   "name": "-_Lasker_s_Manual_of_Chess_page_numbers.json",
+   "source": "derivative",
+   "hocr_pagenumber_module_version": "1.0.5",
+   "hocr_pagenumber_hocr_version": "1.1.54",
+   "hocr_pagenumber_confidence": "98",
+   "format": "Page Numbers JSON",
+   "original": "-_Lasker_s_Manual_of_Chess_hocr.html",
+   "mtime": "1772220143",
+   "size": "64663",
+   "md5": "6d75200b83f78a0dbb1b2f5e9006f872",
+   "crc32": "50197437",
+   "sha1": "3780d31a48ec55a7f22641cc3f9ef92f98023a78"
+  },
+  {
+   "name": "-_Lasker_s_Manual_of_Chess_scandata.xml",
+   "source": "derivative",
+   "format": "Scandata",
+   "original": "-_Lasker_s_Manual_of_Chess_djvu.xml",
+   "mtime": "1772220143",
+   "size": "134632",
+   "md5": "4865c337ee067b0fb9db6ac455bca08a",
+   "crc32": "06c4e111",
+   "sha1": "c02be99e06d802c6425720835d8fe49a064541d9"
+  },
+  {
+   "name": "-_Lasker_s_Manual_of_Chess_text.pdf",
+   "source": "derivative",
+   "pdf_module_version": "0.0.25",
+   "pdf_degraded": "invalid-jp2-headers",
+   "format": "Additional Text PDF",
+   "original": "-_Lasker_s_Manual_of_Chess_page_numbers.json",
+   "mtime": "1772220771",
+   "size": "9612941",
+   "md5": "dafb06c77642749f4d2c63e42b4ae40a",
+   "crc32": "bd1ba76a",
+   "sha1": "170a88b4ad056208085d0a0b645a81f5639ce8b4"
+  },
+  {
+   "name": "lasker-s-manual-of-chess_archive.torrent",
+   "source": "metadata",
+   "btih": "f01529dfa0d45cf1c953422fa35d83faf854a4d3",
+   "mtime": "1772220845",
+   "size": "9542",
+   "md5": "57b5356bbe34dd0bba21eb3bd5486e9a",
+   "crc32": "b6bfa06b",
+   "sha1": "2f51ee1e8fff596884146a30fce5fed1ee5b031a",
+   "format": "Archive BitTorrent"
+  },
+  {
+   "name": "lasker-s-manual-of-chess_files.xml",
+   "source": "original",
+   "format": "Metadata",
+   "md5": "61692c962a909719b19ccac9b394ce50",
+   "summation": "md5"
+  },
+  {
+   "name": "lasker-s-manual-of-chess_meta.sqlite",
+   "source": "original",
+   "mtime": "1608073103",
+   "size": "36864",
+   "md5": "e296ee779a965f88932674563611463c",
+   "crc32": "317b6eee",
+   "sha1": "90ecc0b952cf5165b90ad632e89e42a02c81eea7",
+   "format": "Metadata"
+  },
+  {
+   "name": "lasker-s-manual-of-chess_meta.xml",
+   "source": "original",
+   "mtime": "1772220844",
+   "size": "9091",
+   "md5": "e42c5cc21f4a3419ebaa2da215ead13e",
+   "crc32": "f473f73a",
+   "sha1": "b10de4185be6368082b6abecca45ad709494653f",
+   "format": "Metadata"
+  },
+  {
+   "name": "lasker-s-manual-of-chess_reviews.xml",
+   "source": "original",
+   "mtime": "1766148934",
+   "size": "580",
+   "md5": "498fc4e344b8a6cf91f3bd82ae775e94",
+   "crc32": "c451b1d3",
+   "sha1": "3c9cf7290a0ca1889abc96e20c0dd5ae216c0698",
+   "format": "Metadata"
+  }
+ ],
+ "files_count": 18,
+ "item_last_updated": 1772220846,
+ "item_size": 142736218,
+ "metadata": {
+  "identifier": "lasker-s-manual-of-chess",
+  "mediatype": "texts",
+  "collection": [
+   "folkscanomy_chess",
+   "folkscanomy"
+  ],
+  "creator": "Emanuel Lasker.",
+  "date": "1925",
+  "description": "<div><br /></div><div>Lasker S Manual Of Chess</div><div><br /></div><div><br /></div><div><img alt=\"\" src=\"//web.archive.org/web/2im_/https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Laskers_Manual_of_Chess_1947_cover.jpg/150px-Laskers_Manual_of_Chess_1947_cover.jpg\" class=\"thumbimage\" width=\"150\" height=\"220\" /></div><div><br /></div><div><br /></div><div><br /></div><div><p><i><b>Lasker's Manual of Chess</b></i> (<a href=\"https://en.wikipedia.org/wiki/German_language\" title=\"German language\" rel=\"ugc nofollow\">German</a>: <i lang=\"de\" xml:lang=\"de\">Lehrbuch des Schachspiels</i>) is a book on the game of <a href=\"https://en.wikipedia.org/wiki/Chess\" title=\"Chess\" rel=\"ugc nofollow\">chess</a> written in 1925 by former <a href=\"https://en.wikipedia.org/wiki/World_Chess_Champion\" class=\"mw-redirect\" title=\"World Chess Champion\" rel=\"ugc nofollow\">World Chess Champion</a> <a href=\"https://en.wikipedia.org/wiki/Emanuel_Lasker\" title=\"Emanuel Lasker\" rel=\"ugc nofollow\">Emanuel Lasker</a>. The content of the book, as Lasker himself writes, is most influenced by the theories put forth by <a href=\"https://en.wikipedia.org/wiki/Wilhelm_Steinitz\" title=\"Wilhelm Steinitz\" rel=\"ugc nofollow\">Steinitz</a>, as well as <a href=\"https://en.wikipedia.org/wiki/Howard_Staunton\" title=\"Howard Staunton\" rel=\"ugc nofollow\">Staunton</a>'s <i>The Chess-Player's Handbook</i>.\n</p>\n<h2><span class=\"mw-headline\">Contents</span></h2><p>The book is divided into six sections: <i>The Elements of Chess</i>, <i>The Theory of the Openings</i>, <i>The Combination</i>, <i>Position Play</i>, <i>The Aesthetic Effect in Chess</i>, and <i>Examples and Models</i>.\n</p><p><i>The Elements of Chess</i> opens with a description of the chess board, the various rules of chess, and the relative <a href=\"https://en.wikipedia.org/wiki/Chess_piece_relative_value\" title=\"Chess piece relative value\" rel=\"ugc nofollow\">values</a> of the <a href=\"https://en.wikipedia.org/wiki/Chess_pieces\" class=\"mw-redirect\" title=\"Chess pieces\" rel=\"ugc nofollow\">pieces</a>. Lasker quickly moves on to the fundamentals of chess <a href=\"https://en.wikipedia.org/wiki/Chess_strategy\" title=\"Chess strategy\" rel=\"ugc nofollow\">strategy</a> and <a href=\"https://en.wikipedia.org/wiki/Chess_tactics\" class=\"mw-redirect\" title=\"Chess tactics\" rel=\"ugc nofollow\">tactics</a>, and ends the section with examples of some of the basic <a href=\"https://en.wikipedia.org/wiki/Checkmate\" title=\"Checkmate\" rel=\"ugc nofollow\">mates</a>. He also explains how to read <a href=\"https://en.wikipedia.org/wiki/Descriptive_chess_notation\" class=\"mw-redirect\" title=\"Descriptive chess notation\" rel=\"ugc nofollow\">descriptive chess notation</a>, which is used throughout the book.\n</p><p><i>The Theory of the Openings</i> begins with an explanation of the general principles of <a href=\"https://en.wikipedia.org/wiki/Chess_opening\" title=\"Chess opening\" rel=\"ugc nofollow\">opening</a> play and how openings affect the course of the <a href=\"https://en.wikipedia.org/wiki/Chess_middlegame\" title=\"Chess middlegame\" rel=\"ugc nofollow\">middlegame</a> and <a href=\"https://en.wikipedia.org/wiki/Chess_endgame\" title=\"Chess endgame\" rel=\"ugc nofollow\">endgame</a>.\n The rest of the section attempts to cover many of the major openings, \nproviding example games and analyses of each. This section ends by \ndetailing the increasing value of <a href=\"https://en.wikipedia.org/wiki/Pawn_(chess)\" title=\"Pawn (chess)\" rel=\"ugc nofollow\">pawns</a> as they advance in <a href=\"https://en.wikipedia.org/wiki/Chess_terminology#Rank\" class=\"mw-redirect\" title=\"Chess terminology\" rel=\"ugc nofollow\">rank</a>, in contrast to their value in the opening.\n</p><p><i>The Combination</i> covers <a href=\"https://en.wikipedia.org/wiki/Combination_(chess)\" title=\"Combination (chess)\" rel=\"ugc nofollow\">combinational play</a>\n (also called \"tactical play\" or \"tactics\"), beginning with explanations\n of some basic combinations, and moving on to detail a number of games \nmeant to exemplify combinational style. Lasker goes on to explain how \ncombinations can be most effectively countered, and what common \"motifs\"\n emerge from combinational play. He also spends considerable time on the\n subject of <a href=\"https://en.wikipedia.org/wiki/Sacrifice_(chess)\" title=\"Sacrifice (chess)\" rel=\"ugc nofollow\">piece sacrifices</a> and <a href=\"https://en.wikipedia.org/wiki/Passed_pawns\" class=\"mw-redirect\" title=\"Passed pawns\" rel=\"ugc nofollow\">passed pawns</a>.\n</p><p><i>Position Play</i> is prefaced with an exposition on the difference between <a href=\"https://en.wikipedia.org/wiki/Chess_terminology#Positional_play\" class=\"mw-redirect\" title=\"Chess terminology\" rel=\"ugc nofollow\">positional play</a>\n and combinational play, and Lasker stresses their diametrical \nopposition. He explains the importance of having a clear \"plan\" of the \ngame, and provides a number of example games. The rest of the section is\n concerned with identifying and describing the various \"features\" and \n\"advantages\" of a position, such as its pawn structure and potential for\n piece cooperation. In the closing pages of this section Lasker \ncriticizes the <a href=\"https://en.wikipedia.org/wiki/Hypermodernism_(chess)\" title=\"Hypermodernism (chess)\" rel=\"ugc nofollow\">hypermodern school of chess</a> for disregarding many accepted principles of positional play.\n</p><p><i>The Aesthetic Effect in Chess</i> finds Lasker expounding on \nthe ways that the subjective \"aesthetic valuations\" of a \"spectator\" \ncause him or her to have vastly different opinions of the same game. The\n rest of this section comprises various famously uncanny games, such as \nthe <a href=\"https://en.wikipedia.org/wiki/Immortal_game\" class=\"mw-redirect\" title=\"Immortal game\" rel=\"ugc nofollow\">Immortal game</a> and the <a href=\"https://en.wikipedia.org/wiki/Evergreen_game\" class=\"mw-redirect\" title=\"Evergreen game\" rel=\"ugc nofollow\">Evergreen game</a>, with some analysis from Lasker.\n</p><p><i>Examples and Models</i>, the book's final section, consists entirely of a number of illustrative games, each with a thorough analysis.\n</p><p>The book closes with a short essay titled <i>Final Reflections</i>,\n in which Lasker describes the state of education in the world as \n\"frightfully wasteful of time and values\", and states that this \n\"sickness\" is responsible for the difficulties many players face in \nlearning chess. Lasker also goes on to speculate about the <a href=\"https://en.wikipedia.org/w/index.php?title=Chess_and_mathematics&action=edit&redlink=1\" class=\"new\" title=\"Chess and mathematics (page does not exist)\" rel=\"ugc nofollow\">mathematics of chess</a>, the \"physics of contest\", and the correctness of Steinitz's theories.\n</p></div>",
+  "language": "eng",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+  "subject": "Lasker S Manual Of Chess Chess",
+  "title": "Lasker S Manual Of Chess",
+  "uploader": "hullajump@yahoo.fr",
+  "publicdate": "2020-12-15 22:57:44",
+  "addeddate": "2020-12-15 22:57:44",
+  "curation": "[curator]validator@archive.org[/curator][date]20201215230407[/date][comment]checked for malware[/comment]",
+  "identifier-access": "http://archive.org/details/lasker-s-manual-of-chess",
+  "identifier-ark": "ark:/13960/t2h807k9m",
+  "ppi": "72",
+  "ocr": "tesseract 4.1.1",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.9",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.5359",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "98",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "reviews": [
+  {
+   "reviewtitle": "Blank PDF",
+   "reviewbody": "2025-12-19 (yyyy-mm-dd) This \"book\" was completely filled with blank pages—no text whatsoever.",
+   "stars": "1",
+   "reviewer": "II_V_I",
+   "reviewdate": "2025-12-19 12:55:30",
+   "createdate": "2025-12-19 12:55:30",
+   "reviewer_itemname": "@ii_v_i"
+  }
+ ],
+ "server": "ia801801.us.archive.org",
+ "uniq": 720178025,
+ "workable_servers": [
+  "ia801801.us.archive.org",
+  "ia601801.us.archive.org"
+ ]
+}

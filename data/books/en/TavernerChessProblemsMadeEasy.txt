@@ -1,0 +1,5392 @@
+
+
+CHESS PROBLEMS 
+MADE EASY 
+
+
+HOWTO SOLVE - HOWTO COMPOSE 
+
+by 
+
+
+T. TAVERNER 
+
+Chess Editor, "Daily News" 
+
+
+With 250 illustrations by the 
+author & famous composers 
+
+
+An Electronic Edition 
+Anders Thulin, Malmo ■ 2004-02-22 
+
+
+
+INTRODUCTION 
+
+
+Chess Problem composing and solving have a charm peculiarly their 
+own. Whether they add to or take from a player’s capacity for the game 
+is a matter of opinion as to which all that need be said is that it depends 
+upon the nature of the interest awakened, the opportunities available, 
+and, ultimately, the relative amount of time devoted to each side of 
+the game. 
+
+The advantage of the Problem Art is that it may be entered into with- 
+out the limitations attaching to the personal presence of an opponent, 
+that it broadcasts what has well been called "the poetry of Chess” for 
+the benefit of thousands who would otherwise be beyond the reach of 
+its intellectual uplift, and that it throws open the door of entertainment 
+and interest at times when actual play with an opponent over the board 
+may be out of the question. 
+
+Assuming that the reader is a lover of Chess and that his inclination 
+turns towards problems, of which he seeks to acquire a working knowl- 
+edge, our aim is the elementary one of setting him in the way of con- 
+structing and solving them. The two processes are allied. In learning 
+how a problem is created the student is bound to perceive how he may 
+best approach the solution of others; in disentangling the complexities 
+produced by good composers he acquires a constructive knowledge 
+and ability of his own. 
+
+Unless otherwise stated the positions are by the author, those marked 
+by a star being prize winners in different tourneys. The lessons on com- 
+posing are actual constructional experiments showing how problems 
+are evolved and built up, and are a practical effort to assist students 
+to meet difficulties they find themselves up against. In every diagram 
+
+
+3 
+
+
+4 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+the White pieces move from the bottom of the board, and, unless the 
+contrary is stated, it is White’s turn to play. “Mate in two” means that 
+White must effect mate on his second move; "Mate in three" that Black's 
+defeat must be completed on the third move. The ordinary notation has 
+(except where positions are given in Forsyth notation, which will be 
+described) been adhered to, “x” all through standing for "takes." 
+
+ft must be understood that the author makes no claim to have dealt 
+exhaustively with the subject, ffe has limited himself to Two and Three 
+Move Problems because the work is designed largely in the interests 
+of beginners. 
+
+
+Notes to Electronic Edition 
+
+In this edition, all positions originally given in Forsyth notation have 
+been given in full diagrams. Also, the move notation in the text has been 
+changed from descriptive notation to modern algebraic, using the letter 
+'S’ to indicate the knights, according to modern problem standards. 
+
+All problems have been checked for correctness, using the Problem- 
+iste computer program, with the exception of problem 35. Found errors 
+have been indicated in the stipulation as follows: [*] indicates more 
+than one solution, [§] a short solution, and [f] a problem that cannot 
+be solved in the stipulated number of moves. Further details are given, 
+also in brackets, in the solution. 
+
+
+CONTENTS 
+
+
+Chapter I Technical Terms 7 
+
+II More Terms Illustrated to 
+
+III On Solving 14 
+
+IV On Composing 18 
+
+V Composing a Simple Theme Problem . 21 
+
+VI Study on the Half-Pin 24 
+
+VII A More Difficult Theme 27 
+
+VIII Examples of the Same Theme 30 
+
+IX Pins and Interferences 32 
+
+X Composing a Three Mover 36 
+
+XI A Sacrifical Three-er 38 
+
+XII A Set of Three Move Brilliants 41 
+
+XIII Remarkable Positions 45 
+
+XIV Self-Mates 47 
+
+XV Notes on Selected Positions 49 
+
+XVI More Notes and Comments 52 
+
+Problems by the Author 55 
+
+Selected Problems 71 
+
+Solutions 93 
+
+
+
+CHAPTER I 
+
+
+TECHNICAL TERMS 
+
+
+Passing at once into the realm of practical study, set up the Two-Move 
+Problem below. It is designed with the sole object of illustrating terms 
+with which both the solver and the composer must become familiar. 
+
+The opening move or Key is SI15. If Black replies with QxR, the White 
+
+B, at es, moves to f4, discovering check 
+from the White R and, by preventing 
+the Black Q from capturing the now 
+attacking R, delivering mate. The neces- 
+sity for the key move is now apparent. 
+If the White S was not now guarding 
+f6 the Black K could escape. We leave 
+the student to work out the mates for 
+the other variations — i.e. the different 
+lines of play which White is forced to 
+have recourse to in effecting mate in 
+reply to Black’s defensive moves. 
+
+Examination reveals that RxQf also mates in two. If Black replies 
+PxR, the B at e5, previously pinned by the Black Q, can move on the 
+diagonal to the right and discover mate. BxQf also mates in two. The 
+K must now reply by taking P at d6, whereupon B moves to e5, double 
+check and mate. Further, Pg5 dis. ch is also effective for, on the S cov- 
+ering, BxSf . These are cooks — unintended solutions — which at once 
+vitiate a position as a problem. The cause in each case should be noted 
+by solvers and student composers alike. 
+
+There is also one defence of Black that is not provided for. If, after the 
+intended Key, Black plays RxR, White’s proposed mating move, SxS, fails, 
+
+
+1. 
+
+
+
+Mate in two 
+
+
+7 
+
+
+8 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+because the Black Q, no longer pinned 
+by the White R, replies by capturing 
+the checking S. This is an instance of 
+no solution, for cases of which solvers 
+must be watchfully alert in tourneys, 
+and against which composers have 
+ever to be carefully on guard. 
+
+Two other instances of another, and 
+rarer, form of unsoundness. Impossible 
+positions — those which could not have 
+been possibly brought about by legal 
+moves in a game — are ruled out of all 
+composing tourneys. It will be noticed that, with the Black pawns in 
+their present position Black's B at b8 could not have been played there. 
+Another instance of this particular form of unsoundness exists in the 
+position. Only one White piece has been taken off the board, but analy- 
+sis will show that the Black pawns could not have got into their present 
+position with fewer than three captures. White's position is also impos- 
+sible though less obviously. It could only have been brought about by 
+three captures. Three Black pieces have been taken; but two of these, 
+originally pawns at I17 and g7, could only have assisted after being pro- 
+moted. Both could not have been promoted without captures which 
+have not taken place. 
+
+Look further into the position. If Black plays RxQ, PxR, becoming 
+either a Q or B, mate. If SxS, PxS or Pg5, discovered mate. These are 
+duals. 
+
+If PxP, then BxQ, or B to d4 or C3, dis. mate. If Qg6, then Bf4, Bg3 
+or Bh2, dis. mate. These are triples. 
+
+When Black plays Sd4 the White B is freed from the pin of the 
+Black Q as the result of the intervention or interference of one of the 
+defending pieces — a tricky resource of composers which should, 
+even thus early, be carefully borne in mind. White can now mate 
+by Bf4, Bg3 or Bh2 or Sf 4 . If Rd8, Pf8 (becoming Q, R, B or S) dis. 
+mate. These are quadruples. Any case in which a pawn, Queening, 
+may either directly or by discovery effect mate by becoming any 
+piece, produces a multiple mate accordingly. These choices should 
+
+
+1. 
+
+
+
+Mate in Two 
+
+
+TECHNICAL TERMS 
+
+
+9 
+
+
+be avoided wherever possible by composers; in theory they are a 
+species of unsoundness, as there ought only to be one way of mat- 
+ing after any defence. Though often of no account from a construc- 
+tional standpoint, they must always be noted in solving tourneys in 
+which duals, etc., count. 
+
+After Rc8, either PxR or Pf8 mates, the capturing pawn becoming 
+Q or B and the advancing pawn any one of four pieces — a sextuple. 
+
+In the event of Re8, the mating moves may be Pxe8 or f8, each giv- 
+ing four choices — an octuple. 
+
+There are other forms of duals, etc., as, for instance, when Q, R, B, 
+S or P are able to mate directly or by discovery on different squares. 
+The King, which can only deliver mate by discovery, produces the 
+same effects when able to deal the fatal blow by moving to differ- 
+ent squares. 
+
+
+CHAPTER II 
+
+
+MORE TERMS ILLUSTRATED 
+
+
+In Three Move Problems, duals, etc., are always counted on the sec- 
+ond move (choices on the mating move not being noted from a solving 
+point of view, though they, of course, enter into the final judgment of 
+the merit of the composition). They are choices which enable White 
+to go on and mate in three. Hence they are called dual, etc., continu- 
+ations. In these positions it is sometimes possible on certain moves 
+of Black to mate on the second move. There have been prize winning 
+positions, the keys of which threatened mate after Black’s first move. 
+Whereever mate on the first move of Black is possible it is known as a 
+short mate. It is not taken into account in solving because arising from 
+a purely suicidal defence. Duals are only regarded as serious from a 
+composing standpoint as they enter into the main-play — the central 
+idea of the problem. They may then cause solvers to miss the intended 
+beauty of the conception. Important or not important, however, dual, 
+etc., continuations must always be noted in solution tourneys. 
+
+There are other terms. As many of them only relate to technical 
+description, we shall only note a few: — 
+
+Pure Mate. Where the Black King on being mated is only commanded 
+on each square by one piece; as in the following positions. 
+
+In (a) S mates by moving to ['5. In (b) Re4 mates. In each case no square 
+is guarded by more than one piece. In (b) the King could escape but for 
+his own Q. This piece is said to have produced a self-block. 
+
+Model Mate. A mate which, besides being pure, is so economical that 
+every piece on the board takes part, as in both (a) and (b). The White 
+K, and sometimes pawns are ignored when calculating a Model Mate. 
+
+
+to 
+
+
+MORE TERMS ILLUSTRATED 
+
+
+11 
+
+
+
+Purity and economy have been so completely exploited in Two Move 
+Problems that the only way to avoid risks of having been forestalled is 
+by resorting to the combination of ideas and to complexity. In Three 
+Movers, as will be seen, purity and economy are still delightful assets. 
+
+Mirror Mate. Mate in which, as in (a), none of the eight squares imme- 
+diately round the Black King is occupied by any piece. 
+
+Threat Problems are those in which White's Key move makes a direct 
+attack and would mate next move were it not that Black may make a 
+move preventing it, the point being that in so doing he opens the way 
+to mate from another direction. Here is a simple example. 
+
+(It is suggested that in each of these and all the following illustra- 
+tive positions the student should 
+cover up the key and explanation and 
+endeavour to solve it first hand. This 
+will immediately school him both in 
+composing and solving). 
+
+The Key is Sd4. If Black makes no 
+active defence Rei mates. Either Black 
+S can so play as to be ready to prevent 
+this; but if Sg3 it so interferes with, or 
+cuts off, the Black B that Pft mates. If 
+Sf4 it self-blocks that square enabling 
+Q to mate at g7. If Sf6 it again blocks a 
+square guarded by Q and releases it to mate at C7. If Sd5, it blocks that 
+square leading to Sc6. The moves of the Black B likewise lead to RxS 
+
+
+No. 2 
+
+
+
+Mate in two 
+
+
+12 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+or QxP. Duals are not regarded as so serious in Threat-Problems as in 
+others except when in the principal variation. 
+
+Block Problems, often called pure Waiters. These are positions in 
+which, if it were Black’s turn to play, White could mate on any move 
+possible. The Key simply throws a move away. Here is an example (dia- 
+gram 3). 
+
+The Key is BC5. Apparently sacrific- 
+ing itself, it forces Black to move. If Rfs, 
+
+Qd4f. If Rf3, Rd4. If RxS, QI17, and so 
+on. 
+
+Incomplete Blocks are often called 
+Block-Threats. The nomenclature does 
+not matter. These are generally posi- 
+tions in which the composer suggests 
+a waiting key, but in which some stra- 
+tegic move has to be made that intro- 
+duces a fresh element of attack, as in 
+diagram 4. 
+
+If it were Black's turn to move there 
+would be mate in all variations except 
+SxB. The key meets this by Sd2 giving a 
+flight square and added variations. 
+
+The student should set up each posi- 
+tion, play over every possible variation 
+and discover the reason for each piece. 
+
+Unfortunately the White King could 
+only effectively be used in one position, 
+and then only to prevent the advance 
+of a Black pawn. It will be found that in 
+very many themes the White K cannot be of much more service than 
+holding a Black pawn or, because of some check, preventing a cook. 
+
+Change Mates or Mutates are positions in which the key changes 
+mates for which provision is apparently made and creates others. A 
+pretty example is one by T. Warton, London, as follows: — 
+
+
+
+■ n 
+
+
+*JHPwFm 
+
+
+Mate in two 
+4. * 
+
+
+
+[ * Problems marked with a are prize winners in different tourneys. ] 
+
+
+MORE TERMS ILLUSTRATED 
+
+
+13 
+
+
+The Key (Qe2) changes the surface character of the whole problem. 
+
+
+T. Warton 
+
+
+
+Mate in 2 
+
+
+CHAPTER III 
+
+
+ON SOLVING 
+
+
+One of the first points in solving is to find whether the problem is a 
+Threat or a Waiter. As a rule this may be discovered by glancing at the 
+number of Black’s pieces and the moves they may make. The presence 
+of Black pieces which are moveable without there being any effective 
+reply from White immediately suggests an attacking move which leaves 
+only the alternative of instant defence or surrender. In Two Movers the 
+Threat is immediate as in No. 2. In Three Movers it prepares for an attack 
+on the second move, as in No. 19. 
+
+The next thing is to note the position of the Black K, to see whether it 
+can move, and if so, whether there is some line which leads to mate after 
+that move. If there be a move for the K, and nothing leading to mate — 
+though this must be tested from the outset or time may be wasted and 
+discouragement created — it will be clear that the key must make provi- 
+sion for this move, either by preventing it — in which case it may be taken 
+as a rule that another square must be opened to the K in exchange — or 
+by so moving a piece that mate may be delivered in the required number 
+of moves. In either case some clue is afforded and the mind looks for 
+some manceuvre which will meet the necessity thus perceived. 
+
+It is important to note, next, whether the White K is open to check 
+as the position stands, or after any particular move has been made. It 
+will repeatedly be found that after the Black K has been forced on to a 
+square on which, it seems possible to deliver mate, its movement has 
+discovered a check on its White adversary. Sometimes this is a defence. 
+Often, as we shall repeatedly see, it is part of the idea. Where the White 
+K enters into the solution in Two-ers it will usually be readily perceived 
+
+
+14 
+
+
+ON SOLVING 
+
+
+15 
+
+
+and not infrequently act as a pointer. In Three-ers it is generally used in 
+protecting squares to which Black has access. In both classes of prob- 
+lems the K may serve as key, or as second move in the longer problem, 
+by moving out of the way, either that a piece may pass the square on 
+which it stood or that it may be placed on that square. 
+
+Where a complicated Three Mover has to be dealt with, the possibil- 
+ity of a check on Black's second move should always be noted. Leav- 
+ing a way for a check on the second move is a favoured resource of 
+composers to avoid unintended solutions. Even in Two Movers check 
+should be watched. We have known scores of solvers to fall over what 
+they themselves have described as "simple" positions, because they 
+failed to note the effect of a direct check on the White K. With discov- 
+ered checks this is much more frequently so. No. 42 was declared by 
+one Chess Editor to be cooked — he actually congratulated his numer- 
+ous solvers on their "discovery" after it had been published as the first 
+prize winner in the tourney in which it competed — because it was over- 
+looked that White’s apparently possible move e8 discovered check on 
+its own K, and that this move, in which it became a S and mated, could 
+only be made after Black’s C5. 
+
+Whether a problem be a Threat or a Waiter the position of each piece 
+and its part in the fray must be examined. The method of solving by 
+analysing the position piece by piece, from the K to the pawns, and 
+observing the effect of the moves of each is necessary. It is a waste of 
+time only to look at what is on the surface. As will be seen later, com- 
+posers deliberately seek to create false scents. But, whilst analysis must 
+be exhaustive, and is in itself an excellent training as to the powers of 
+the various pieces, the student must always seek to cultivate the imagi- 
+nation and insight which alone will enable him readily to discover the 
+theme of a problem — that which is sought to be expressed — and thus 
+to conquer positions which are so elusive as repeatedly to beat off the 
+man who only analyses. 
+
+It is important to remember that the key to a Waiting Move Problem 
+may give the Black K a flight square — a square on which it could not 
+previously move — on moving to which the solution discloses itself. As 
+a rule, however, the move, in its best form, whilst marking time, and 
+seeming to be purposeless, prevents a pin, as in No. 50 or prepares for 
+
+
+l6 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+something remote in the defence, as in No. 36 of which Mr. C. Mans- 
+field, of Bristol, writes "it is the most difficult Two Move Problem in 
+existence." 
+
+In cases in which the key is purely a Waiter and has no strategic 
+effect, as in No. 3, always test for the possibility of another move which 
+might have the same effect. The great Indian theme problem, to which 
+reference will be made later, though for long regarded as unsolvable, 
+later turned out to be cooked because of this land of defect. 
+
+Turning to key moves generally, the student is advised, as he exam- 
+ines problems, to note the effect of each initial move, ffe will find that 
+some, the poorest, only meet the movement of one piece — there is a 
+mate for everything but, say, a S, and a piece has to be placed in posi- 
+tion to meet that move. In some, there is an adaptation of the Bristol 
+theme (explained in note on No. 20) as seen in No. 38, which move 
+is probably better known to-day as "a clearance.” There are others in 
+which the White Q moves off a square to another in which it may be 
+captured, another piece being then able to attack by being placed on the 
+square vacated. There are others that interfere at once with the range 
+of Black pieces, generally two so arranged that capture by either shuts 
+out the other. Yet others (as seen in No. 6) prepare for pins, or, whilst 
+yielding a flight square, prepare, for the defence of a square after the 
+K has moved to a square open to him as the problem stands. (See No. 
+5). Solvers must in Threat problems not be surprised if the threat is, as 
+we once heard Mr. Rayner say, “almost impudently aggressive.” The 
+test and attractive point will doubtless be in the ingenuity of the Black 
+manoeuvres which follow. 
+
+ffaving mastered the Key, the solver in any contest must apply his 
+mind to the question of soundness, ffe must find whether there are acci- 
+dental solutions, duals, etc. He must also be careful to see that there is 
+a mate to every possible defence. Composers and editors, too, some- 
+times overlook some such moves as those which vitiate No. 1. There 
+have been cases in keenly contested solving tourneys in which editors 
+have had to set up a trap problem with an obviously intended key that 
+is defeated by some subtle defence. Still more often, they may, in order 
+to break ties, have recourse to a problem with a clearly expressed inten- 
+tion, but with a difficult second solution. A good rule for the solver is 
+
+
+ON SOLVING 
+
+
+17 
+
+
+to regard every position as possibly unsound until he has satisfied him- 
+self of the contrary. 
+
+We have already referred to the unsoundness arising from impossi- 
+bility of position. In a crowded position it is always desirable to count 
+the captures made by each side and then to check them by the pawns 
+which have reached other than their original files. 
+
+En passant captures of pawns on either side should be examined. 
+They sometimes prevent cooks and at times defeat intended keys. En 
+passant keys are rare because of difficulty in proving that Black at his 
+last move advanced a pawn two squares. Castling is always barred in 
+problems. 
+
+When positions defeat a solver for a time, he should not unduly pore 
+over them. He should set each aside and later, with detachment from 
+previous ideas as to any possible solution, think over it afresh. When he 
+comes to it after this, the right line will often reveal itself. This leaving 
+a problem and returning to it later is particularly essential in tourneys. 
+It often prevents the solver from sending in wrong claims or missing 
+points. It is wise in a tourney to check the postcard to prevent wrong 
+keys being inadvertently sent in. 
+
+It is a good thing to learn to solve from the diagram; but where com- 
+plicated positions are concerned, and tourney points are at stake, there 
+should wherever possible be an over-the-board study, for which pur- 
+pose the little pocket sets in flat cases are admirable because they can 
+be carried about and be used on journeys by train, etc. For home use 
+the smaller in statu quo sets (with pegged men) which close with slid- 
+ing lids are best. 
+
+
+CHAPTER IV 
+
+
+ON COMPOSING 
+
+
+Coming, now, to problem construction, there are general principles, 
+which it is well to grasp at the outset. A Chess Problem is, or ought to be, 
+an expression in its most attractive form of some one or more aspects 
+of the science and strategy of the game. Its difficulty should be deduc- 
+tive rather than merely enigmatic. Its key should open the door to the 
+delightful. It ought always to illustrate the artistry of the game — to stand 
+in relation to actual play as poetry does to prose. 
+
+Let it, then, be accepted as a first and vital principle — we trust that if 
+this little work achieves nothing else it will deeply implant this point — 
+that each Problem should, by its key, its play, or its mating positions 
+convey to the mind something beautiful and interesting. 
+
+Seeking opportunities for this is not always, nor often, an easy quest; 
+but observation, insight, and the imagination which can take hold of 
+the quaint, the graceful, the pretty, the entertaining which the game 
+presents, will make it progressively easier, until the student who enters 
+into the spirit of the thing will be able to perceive in every contest over 
+the board some point or other that serves his purpose. 
+
+It almost goes without saying that the student of composition has 
+some experience of and takes an interest in solving. It is worth bearing 
+in mind that ideas may often be derived, without in anyway approach- 
+ing plagiarism, from a study of the positions of others. By this we mean 
+that the student who takes the trouble to discover all that there is in a 
+Problem presented for solution will often be set thinking why the com- 
+poser did not do this or that, or did not avail himself of some opportu- 
+nity now perceived by the solver. Wherever such suggestions present 
+
+18 
+
+
+ON COMPOSING 
+
+
+19 
+
+
+themselves, or the solver thinks the idea could be better expressed in 
+another way, note should be taken of it for development later. 
+
+At first the student will be well advised to content himself with set- 
+ting up mating positions which attract by their grace or quaintness, and 
+endeavour to introduce, byway of Key, some touch of strategy. At the 
+outset he will discover that the pieces handled in this way have pow- 
+ers the real extent of which he, though possibly a player of experience, 
+had not previously wholly grasped. Just as certainly he will find that 
+they have limitations on one hand and a refractoriness on the other, 
+of which, up to the commencement of these experiments, he never 
+dreamt. Persistent practice, and ever widening experience will, how- 
+ever, enable him to deal with his board and men as the artist does with 
+his colours, his brush and his canvas. 
+
+Having acquired some facility in handling the pieces, his next step 
+should be to endeavour to compose a Problem on some simple theme. 
+It is true that, as good music has resulted from the half aimless toying 
+with the keys, so notable Problems have evolved from the speculative 
+movement of pieces on a board; but, as most of the truer music is pre- 
+conceived in mind and spirit, so must it be with the real Chess Prob- 
+lem. The student should set out with some definite idea, embryonic 
+though it may at first be, and work upward and outward from that. Such 
+a course will give added point to his work and, even though he may 
+for a time fall short of publishable productions, he will always have the 
+consciousness of following the gleam, and his composing will become 
+more vitally interesting. 
+
+When he has thus lit upon an idea, whether it be thematic, in which 
+the Key forms an essential part, or one in which the combinative strat- 
+egy of the pieces is illustrated, the student will be well advised not to be 
+driven off by difficulty. In course of the practical lessons which follow 
+we suggest little expedients, born of experience — others will present 
+themselves as the studies progress — which will be helpful. 
+
+If, however, at any time difficulties appear to be getting beyond the 
+limits of patience, take a diagram of the position as then reached, and 
+deliberately set it aside for a time. When it is taken up again the student 
+will be fresher, some elemental idea that may have presented itself to 
+the mind in the interval may be helpful, or it may be — it has frequently 
+
+
+20 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+happened in the experience of the writer — that there may come one 
+of those moments of inspiration in which the pieces seem almost to 
+assume suggestive activity — to be eager to take part — and literally to 
+hop into position. No. 40 is a case in point. It had defied satisfactory 
+construction for weeks, when one evening, as the position as it then 
+stood was being very disconsolately eyed, and doubt as to the ultimate 
+practicability of the central idea was presenting itself, the pieces seemed 
+to range themselves in position and the Problem as it now appears pre- 
+sented itself without the necessity of a single bit of revision. Problem 
+No. 37 had much the same history. So had No. 49. But, that whatever 
+inspiration there was sprang from the persistent patience and thought- 
+ful research of the preceding weeks, in which all phases of the idea had 
+been worried out, the writer has not the slightest doubt. 
+
+Students should never hesitate to make experiments, though they 
+totally change a position, and even introduce fresh perplexities. Diffi- 
+culties are, oftener than not, the real composer’s opportunities. If, as a 
+consequence of any changing of the position some new and better idea 
+presents itself, it should be taken up at once. The original idea which had 
+been in process of development need not be scrapped. Note should be 
+taken of it so that it may be again tackled later. But the new idea which, 
+because it is an inspiration, will in nine cases out of ten result in a wor- 
+thier production, should be taken up and pursued with the zest which 
+always seems to accompany such a conception. 
+
+Regarding the presence in problems of promoted pieces — as three 
+Rs, Bs, or Ss — the author has never been able to see why, as they may 
+come during a solution, they may not be there at the outset. The one 
+question is whether the idea could be worked out without them. Where 
+it could not, the author personally sees no reason why they should be 
+taboo. Two instances are given — Nos. 95 and 96. Neither would have 
+been otherwise possible. No. 95 has 24 variations (No. 94 has 23). Of 
+95 Shinkman, the great American composer and judge, wrote: “It is 
+the best thing out in the variation line. I take my hat off to it." From the 
+nature of the 'task,’ duals, etc., were ignored. 
+
+
+CHAPTER V 
+
+
+COMPOSING A SIMPLE THEME PROBLEM 
+
+
+Let us now attempt the construction of a simple theme Two-move Prob- 
+lem with a R sacrifice, the concession of a flight square, and, as nearly as 
+may be, complete economy. Set us this position by way of a start: — 
+
+The Key is to be Re4. It will be noted 
+that the other squares have been so 
+covered that, when KxR, White will be 
+able to mate by Bc6. Looking over the 
+position, we note that the P at b4 alone 
+fails to share in the mate. We then see 
+that if the P at f4 is moved to d4 we 
+can dispense with the one at b4, save a 
+piece, and bring about a perfectly pure 
+and economical mate. But this faces us 
+with the fact that, after our Key move, 
+the Black K, refusing our sacrifice, may now move to his C5. Instead 
+of being disconcerted by this, we set about availing ourselves of it. It 
+will be seen that if, after this fresh move, White’s b4 is protected, the S, 
+relieved for the moment of the duty of guarding d6, and having the new 
+P at d4 protected by the R, may move to e3 delivering mate. A White P 
+at a3 would suffice; but we shall never compose good problems if we 
+are content to take the easiest line. 
+
+It is desirable wherever possible to make Black contribute to his own 
+defeat. In this case a little reflection will suggest the trial of a Black P at 
+b4. But it threatens to check and, as the Key is to be a waiter, its move 
+would have to be accounted for. Here we meet with one of those hints 
+at improvement which the logic of the board and pieces so often affords. 
+
+
+
+21 
+
+
+22 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+We note that if the Pawns were mov- 
+ing sideways in relation to our present 
+position the new Black P would on its 
+movement block a square and allow a 
+fresh mate by Res. 
+
+Let us in order to bring this about 
+give the board a quarter turn. It will 
+often be found that this expedient will 
+afford the way out of difficulty and lead 
+to improvement. There are quite as 
+many cases where the same result is 
+brought about by giving a half turn and allowing the pawns to move in 
+a direction opposite to that on which they at first set out. When we now 
+place a Black P at what becomes his d2 we discover that we have to add 
+a White P at what is now f3 and remove the White P previously at g4 to 
+f2. As f4 is now doubly guarded we move the B to I14. The position now 
+stands thus: (see second diagram). 
+
+We are assuming that the student is 
+actually moving piece by piece as indi- 
+cated and carefully noting the effects of 
+each change. The process will give him 
+a deeper insight into composing and 
+solving than many hours reading. 
+
+Now we must test the soundness 
+of the position. Pf4 threatens it by 
+checking and driving the Black K to 
+d6, but the White R is not guarding 
+the P. Hence the S cannot mate. But 
+Re4f cooks the position, for, on K moving, B mates at g3 or e7. Here 
+we meet with another instance of difficulty affording opportunity. If 
+we place the White B at d8 and the White K at e2, removing the White 
+pawns from C2 and f2, and adding a White P at b4, we not only avert the 
+second solution but improve the problem. It is now, the R being trans- 
+ferred to h4, as follows: (see diagram 5 on the next page). 
+
+We now note that the Black P, besides being essential to the solution, 
+and leading to a variation, (Pd6, Re4 mate), prevents a cook by RI15 for, 
+
+
+
+
+COMPOSING A SIMPLE THEME PROBLEM 
+
+
+23 
+
+
+after Kft, Pd 6 defeats Bc7. It was the possibility of this threat which 
+decided the final position of the R. It could not make the threat if it was 
+at C4 and there would be a cook if it was at g4 (by Rg 5 f)- 
+
+
+
+Mate in two [* 
+
+
+CHAPTER VI 
+
+
+STUDY ON THE HALF-PIN 
+
+
+Next we take in hand a Two-move Problem based on the idea of what 
+is called the Half-Pin. This is a case in which two defending pieces are 
+alternately held by a pin disclosed on either moving. Taking the case 
+of two Black Ss, set the board thus: (see diagram below). 
+
+The idea is that, on either S moving, the R shall be enabled to mate at 
+h4 or C7. The only moves to prevent this 
+after provision had been made effectu- 
+ally to cover all the squares would be 
+Sd4 or C5. This is one of the points upon 
+which a composer must be swift to fas- 
+ten. By commanding these squares by 
+White Ss, say at C2 and b7 each of these 
+refractory moves of the S would be met 
+(Sd 4 , Se 3 ; Sc5, Sd 6 ). It will then be per- 
+ceived that when S at d5 moves it leaves 
+a square vacant, which we see no way 
+of covering except by replacing the B 
+by the White Q and placing the freed 
+B at g2. The position now is: — 
+
+The mates have been brought about 
+as intended, but there are bad duals. If 
+either Sc 7 , RxS or Rh 4 f - If Sd 4 , Se3 or 
+a3. The idleness of the B is also objec- 
+tionable. A Black P at d3 instead of the 
+White one at e2 would do very well but 
+for PxS. Here again, the expedient of 
+
+
+
+
+a quarter turn of the board helps, because B mates after move of the 
+Black P. But the duals with the R must be cut out, and it would be infi- 
+nitely better if the Q could be behind the R so that its pin would only be 
+unmasked just when wanted, ffere the further resource of bodily mov- 
+ing the position, this time two squares upward and one to the left, may 
+be exploited, the White K being taken out of the scheme, the Ss, the B 
+and the R being moved relatively, and a White B having to be used as 
+cover for what is now Kb8 as a pawn would produce a triple after, say, 
+Sd4 by Rg8 or Pa8 (a R or Q). The great advantage of the new arrange- 
+ment is that the Key may now be the at first apparently purposeless 
+one of Q behind the R. ft also prevents a dual after Sc7 as S remain- 
+ing in position is not pinned and White can only mate by Se7. It being 
+impossible to utilise the White K actively, it is placed where it will add 
+to positional neatness, which should always be aimed at. The position 
+now is: (see diagram 6). 
+
+We make no claim for the position 
+except that it illustrates the half-pin. 
+
+From the nature of the position, it is 
+quite probable that it may have been 
+forstalled. It will, however, stand as a 
+lesson in composition and, in that it 
+suggests how a piece moved behind 
+three others may effectively attack 
+the opposing King, also be helpful to 
+solvers, who may take it that wherever 
+three pieces are on the same diagonal, 
+one being White and free to move, it is worth while playing behind the 
+free piece any piece which will command that diagonal. 
+
+A much more effective example, with the addition of cleverly- 
+conceived interferences is the one below by that master of attractive 
+complexity, C. Mansfield. It is a first prize winner: (see diagram 7 on 
+next page). 
+
+We suggest that the student should set this up and discover the reason 
+for the presence of every piece on the board and the work each does in 
+relation to the other. The pinning after moves of the Black Kt at d4, and 
+the interference and blocking play of the Black B should especially be 
+
+
+
+Mate in two. 
+
+
+26 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+pondered over by those who wish to 
+excel in composition. 
+
+
+No. 7 
+
+
+From the solving point of view it is 
+plain that, as must so often be the case 
+in these very complex positions, the 
+Key is a threat. From the very nature 
+of the complexity the solver’s attention 
+will speedily concentrate on the White 
+R at b5 which could at once mate but 
+for the Black S at d4. The solver will 
+soon realise that there would be dou- 
+
+
+
+Mate in two 
+
+
+ble check and mate if White’s Ba5 were 
+
+on another square. Then it is noted that this will not come off if Black's 
+Bb4 moves, but that it then either blocks the square on each side of 
+the Black K or leaves the S pinned whilst it interferes with the range of 
+other pieces. Once this is grasped it becomes a question on to which 
+square this B shall go, the Black S at fz being there to prevent Bd8 being 
+as effective as BC7. The clever use of the pawn promotion after SxR 
+should be noted. 
+
+
+CHAPTER VII 
+
+
+A MORE DIFFICULT THEME 
+
+
+Composers will very early in their studies be confronted with the neces- 
+sity, if they are to keep off paths trodden by those who have gone before, 
+of exploring what may be called compound themes. Our next move is 
+to be that of a B whose removal exposes the White K to a check from a 
+Black piece which, as the position at first stands, cannot be captured, 
+it being an aim that the said B shall have the whole of his diagonal to 
+move on, but only one square which he can effectively occupy. For a 
+start place the pieces thus: — 
+
+As we have indicated, the idea is that 
+the White B at d5 shall move along his 
+diagonal, setting up the threat of Sc4, 
+met by Sd 4 discovering check, but at 
+the same time so interfering with the 
+range of Black’s Bb3 that it no longer 
+defends the checking Black R, which 
+the White Q captures and thus mates. 
+
+The point of this is that it may create an 
+unwillingness to move the B. The Black 
+pawns at C7, a7 and a3 are to prevent moves of the Black S which would 
+not cut off the Black B. The other pieces explain themselves. 
+
+Thus far we have only crudely achieved the aim that the threatened 
+check shall materialise, but have neither left the whole diagonal open 
+nor ensured that only one move of the B shall be effective. Further, if 
+we move the B and the Black R plays to, say, e 6 , there is a quadruple. 
+RxQ also produces a dual, as does Bd7. 
+
+Let us experiment. If we place a Black R at g5 we prevent the B at his 
+
+
+
+27 
+
+
+28 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+first move going to g8, and lessen the fault after Re6 and evade the dual 
+after RxQ; but we need a Black P at e4 to prevent Re4, which would 
+defeat the threat. There is also now no mate after Res. This is remedied 
+by placing a White P to do the work of 
+the S at C 3 , and placing the Black B at ai. 
+
+This is an improvement. We still have 
+the dual after Bd7; but, noting that a R 
+would suffice instead of the Q, we see 
+that we can now do away with Black’s 
+Be8 and, by placing White's Bf6 at ej 
+and a Black P at e7 (removing the Black 
+R from g5 to I17 and introducing a Black 
+Q at I15) force the Key-moving B to go 
+on to f7 — to prevent the interposition 
+of the Black R when Bg8 follows e6. It 
+is necessary to move the White R to g5, and a Black P is required at his 
+g6. The position now is as diagram 8. 
+
+We were tempted to be content with this realisation of our task; but 
+there crept in a lurking feeling of dissatisfaction which composers who 
+aim at good work must always regard as a kind of chess conscience. As 
+in the world of morals, it leads to better things. 
+
+We do not like that White R at a6, but we cannot cover d7 and c6 from 
+above. What if we lower the whole position by one rank? The experi- 
+ment makes its own suggestions. We can cover what is now d6 by a S 
+at e8. We note, too, that a Black B at C5 will not only permit us to sweep 
+away the uneconomic White R, but, by adding a Black P at d6 and re- 
+introducing the White Q in place of the R, to secure the mate by QxP 
+after the B at cs moves. With the Q back in position the presence of 
+White’s Bg7 leads to a dual. This can be eradicated by placing a White 
+P at f3 (removing the B) to mate on the main variation. It is necessary 
+to have a Black R at a8 to prevent the Black P queening. We also require 
+a White P at C7 to prevent mate on the move by Sc7. We can now bring 
+off another mate with the Q after Pes and a further mate by the freshly 
+introduced S after Qf6, the Black pawn previously at g6 having been 
+removed. The final position now achieves the object of leaving the whole 
+of the diagonal open to the White B. We reproduce the two positions 
+
+
+
+A MORE DIFFICULT THEME 
+
+
+29 
+
+
+side by side, No. 9 illustrating the effect of bodily moving a position, 
+and the advantage of returning to a problem whenever dissatisfaction 
+exists in the mind of the composer: — 
+
+8. 9. 
+
+
+
+
+From the solving standpoint a minute’s examination of No. 9, dis- 
+closing the fact that there are so many Black defences for which there 
+is no immediate mate, will suggest a threat key. Once this is grasped 
+the solver looks for means by which a direct attack may be set up. Pc8, 
+making way for Sc7, will soon be dismissed because of Qd8. Mate with 
+the S at e2 will soon suggest itself. Qf6 would allow this to be brought 
+about, and QxQ being followed by SxQ encourages the idea, but BxB 
+now, suffices, and it becomes only a try. It will be then that a move of 
+the B will be thought of. The point that if the B does move the Black S 
+may discover check will cause a momentary jolt to the mind. But the 
+solver must so accustom himself to this sort of thing that, instead of 
+being diverted or disconcerted, he becomes alert. The fact that this 
+move is there should lead him on as being a likely theme. When he 
+looks round, the discovery that the Black S in discovering check takes 
+the protection from the R settles that point. The only question now 
+is the square to which the B must go. Analysis will soon disclose this. 
+There is a dual after certain moves of the Black Q (either S being able 
+to mate) which, though not a serious flaw in construction, must be 
+pointed out by the solver. 
+
+
+CHAPTER VIII 
+
+
+EXAMPLES OF THE SAME THEME 
+
+
+A fine example of submission to discovered check, and its being over- 
+come both by capture and counter discovery, is that below: — 
+
+The student in composition should 
+examine every move in this position 
+and get at its full effect in strategy and 
+in its bearing on fhe difficulties the 
+composer has met with in the expres- 
+sion of his idea. 
+
+Although the position is well set up, 
+the solver will again spot the threat idea 
+and realise that, the Black S being free 
+to move, the threatened check from 
+the R must be prepared for. Examina- 
+tion will then show that every move of 
+this S but one at once provides a counter-blow. If Sc 6 f the Black Q's 
+pin on the White B is cut off and the B passes to b3 covering its K and 
+discovering mate, this being, of course, the composer's central idea. If 
+Sd 3 f, St>3. If Sc2f it shuts off Rat 02 and Bxe2. Only when Sxds is there 
+any failure in the preparation to parry the stroke. It is plain then that 
+the Q is to administer mate. It can only do this as it leaves the Black S 
+in turn pinned. Hence Rd7. There is a dual after Sc7, Q mating either be 
+capturing the Black S (the threat) or by moving to b 6 . There is a second 
+one if Bc2 (Qxb4 or Bxb2), but both are inoffensive. It will be noticed 
+that Rec2 averts the threat, but opens the way to Rxe4. The try by Rc7 
+is distinctly good. 
+
+A tricky position dealing with the same theme (diagram 11). It com- 
+
+
+10. C. R. B. Sumner 
+
+
+
+Mate in two 
+
+
+30 
+
+
+EXAMPLES OF THE SAME THEME 
+
+
+31 
+
+
+mands the attention of composer and 
+solver alike. The threat is far from obvi- 
+ous, and mental analysis before read- 
+ing further (the position being placed 
+on the board) will form a splendid lit- 
+tle exercise and test of progress. The 
+first point to observe is the aloofness of 
+Black's real defence in the right-hand 
+top corner, and the fact that there is 
+no reason to fear a discovered check 
+from the Black R at c8. Then we see that 
+S at es almost anywhere would mate 
+but for the Black B at g7 which, by pinning the S, makes what would at 
+the outset be a fatal check impossible. This suggests the removal of the 
+White K off that diagonal. Catching at this idea, we perceive that if the 
+R were not only taken off the diagonal but off the file it at present occu- 
+pies, the Q could mate at cr. Looking for a square to which the White 
+K may move to permit this threat, the solver will at first shrink from b3 
+because of f6f , but he will notice that, in thus discovering check, the P 
+has covered the other B’s pin on the S. Incidentally it also cuts off the 
+range of the White B at I14; but now, Sef7 at one stroke shields the White 
+K, discovers mate, and prevents Kxd8 which would otherwise have been 
+possible. If Black's Bg7 now moves to prevent the threat from becoming 
+effective it leaves its own Pf7 pinned and Se6 delivers mate. 
+
+
+11. G. E Anderson 
+
+
+
+Mate in two 
+
+
+CHAPTER IX 
+
+
+PINS AND INTERFERENCES 
+
+
+The charm and almost infinite variety brought about by pins combined 
+with the interferences of different Black pieces with each other are illus- 
+trated by the half-dozen positions we give next. Here, again, the minds 
+of composers and solvers alike should be very alert and responsive to 
+
+
+suggestion. 
+
+
+12. E. E. Westbury 
+
+
+No. 12 will at once suggest that a 
+threat move must be discovered. A 
+little analysis indicates that if White’s 
+P at ds could be protected by the Q 
+on other than its present file Sd6 
+would mate. The threatened check by 
+the Black R is provided for. Q to g8 or 
+a8 would clear the way; but we then 
+observe that, once the Black Q moves, 
+
+
+
+the S at bs can no longer attack. We , . t ^ 
+
+need not trouble about QxP because 
+
+of the double check by S at g4 (together with the R at I14). Then we note 
+one of the moves of the Black Q which gives this problem distinction. 
+When the Q goes to e4 it gets between the Black P at c\5 and the R at e3 
+which defends it, so that SxP mates (the Q being pinned and interfer- 
+ing with the effective range of the Black R at e3). If the Q goes a square 
+further it gets in front of the Black B protecting the R, and SxR is effec- 
+tive. If it goes still further and captures the S, it pins itself and at once 
+shows why Qg8 is the Key because d6 dis. mate is then possible. The 
+position is marked by an instructive art which should appeal to both 
+composers and solvers. 
+
+
+32 
+
+
+PINS AND INTERFERENCES 
+
+
+33 
+
+
+No. 13 is as deft as it is dainty. Ana- 
+lysis suggests that, as both Res and 05 
+will in turn release the Black B's pin 
+on the White Q, preparation must be 
+made to take advantage of the new 
+strength accruing. If Res, Qdi mates. 
+What if C5? The answer to that query 
+leads to the Key. The White B at es goes 
+to h8, prettily clearing the way for Qg7 
+after C5, being itself always ready for 
+the threatened BxQf and creating the 
+threat: Rg5. 
+
+No. 14 is an ingenious example of 
+interference and should be regarded 
+by the composer from that point of 
+view alone. To the solver it will serve 
+as a hint as to the daring character of 
+some of the threat keys. It is so com- 
+posed that a clearing move by the R 
+(at a3) to h 3 is suggested, this ena- 
+bling White to discover mate with his 
+K at C3. But the importance of find- 
+ing out the necessity for each piece is 
+demonstrated here. Wondering why 
+the White R at h2 is there, and the dis- 
+covery that if Black plays Rg3 the sup- 
+posed Key move is defeated show that 
+the Key is really Rg2. The composer no 
+doubt regretted that he could not make 
+it more artistic and less of an offence 
+against economy. The ingenuity of the 
+interference play is, however, a justi- 
+fication. 
+
+No. 15 is a skilful combination of 
+the half-pin with interference and 
+self-blocks. Solvers looking for an 
+
+
+13. G. Guidella 
+
+
+
+Mate in two 
+
+
+14. A. G. Stubbs 
+
+
+
+Mate in two 
+
+
+15. A. Mari 
+
+
+
+Mate in two 
+
+
+34 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+attacking Key, will soon eliminate all 
+but the White B to at. It must go to a 
+square above the fifth rank to allow 
+Rd4 mate. Which? That Sc6, which 
+averts the threat, has to be provided 
+for, and that the range of the Black R 
+at fs must be limited so as to enable Q 
+to mate at g8 after the S move referred 
+to, settles the point. But, again, let the 
+student closely examine each move 
+that defeats the threat and note how, 
+combined with the half-pin of the two 
+Black B's, it opens the door to another mate. The duals are inoffensive 
+though offering points to solvers. 
+
+No. 16 is by G. Heathcote, whom we regard as England’s finest living 
+composer. This is, of course, a personal opinion, as is also the further 
+one that Mr. P. F. Blake is so close on 
+Mr. Heathcote's heels that his claims 
+cannot be overlooked. We must add 
+here, byway of parenthesis, that Mr. B. 
+
+G. Laws has an unchallenged status 
+not only as composer, but as a most 
+able writer and critic. We believe this 
+position of Mr. ffeathcote’s to be the 
+first extant in which a Black S moves 
+to each of the eight squares and leaves 
+a mate without itself being captured. It 
+is plain that a clearing move by the R 
+at ct to make Sc3 possible is most promising. The moves of the Black S 
+prevent this, because, when it is off its present square, White's proposed 
+move (SC3) leaves d4 uncovered. Reflection will then show that with the 
+Key- moving R at C7, Sc6 and Se6 each produces a self-block, the White 
+B at b2 having been uncovered so as to make the mate after Se6 possible. 
+Let the student then note how each move of the S in its round so inter- 
+feres with its other defences (or, in one case, produces a self-pin and 
+permits Qd3) that mate follows. The position is a brilliant production 
+
+
+16. G. Heathcote 
+
+wtpWy n tit 
+ill ■ ■ ■ 
+
+
+JfL * ■ 
+
+
+mm a ii , 
+
+& m m m iff 
+
+
+mm. m 
+
+
+Mate in two 
+
+
+15. A. Man 
+
+
+
+Mate in two 
+
+
+PINS AND INTERFERENCES 
+
+
+35 
+
+
+and one of the finest lessons on composition of which we know. 
+
+No. 17 is a position by the author in which he sought to give a differ- 
+ent expression to the idea embodied in No. 40 in the selections from 
+his compositions. Unlike the others in this sextet, it is a Complete Block, 
+intended to suggest at first blush that 
+it is a Threat. Here, too, however, the 
+real move is soon apparent, because of 
+the necessity of providing for, say, SxS 
+and f6. The only way is QI17. It will be 
+of interest to composers to know that 
+when originally contributed to a tour- 
+ney years ago a White P, placed on the 
+7th rank at the last moment to shut off 
+the mate by QxP, so as to make the rea- 
+son for the Key less apparent, led to 
+cooks. Composers should always take 
+particular care that alterations made just before a problem is sent for 
+publication leave the position sound. The author in his competing days 
+had more than once to regret laxity on this point. The position would 
+be a much better one from the Key point of view were it feasible to do 
+away with the variation when QxP, but the problem as it stands would 
+be cooked by Qf3 were there not a move on Black's part which (as 
+with f6) necessitates the presence of the Q at I17. Composers will note 
+the use of the Black R at es for the purpose of defending the S at e4. It 
+adds point to the double check following RxR and to the mate after Rds, 
+and prevents a multiple mate after Sd6 by calling for the intervention 
+of the R after it is relieved, by the last named move of the S, of its duty 
+of guarding d6. 
+
+Nos. 13, 14, 15 and 16 are all first prize winners. 
+
+
+
+Mate in two 
+
+
+CHAPTER X 
+
+
+COMPOSING A THREE MOVER 
+
+
+Now let us proceed to the composition of a fairly simple Three Move 
+Problem. The idea to be expressed is that of alternate pure mates on dif- 
+ferent squares by Knights, with a mate by one of the other pieces which 
+may be necessary in carrying out the conception. For a start place the 
+pieces thus: — 
+
+White, having made his initial move 
+and Black having replied by moving 
+some free piece, to be added later, 
+the threat is Sc 6 f ; K moves, Sb 6 f . But 
+instead of moving a free piece the 
+Black K might go to e5. A Black P at 
+f4 would enable us to meet this if we 
+placed our free piece, say a Black P, at 
+g7. We could then follow Ke4 by Qdsf. 
+
+Then, on Kf 6 , Qf4f . But we note that 
+if K played to C4 there would be a triple by S to either b 6 f or d 6 f or 
+Sc 6 . This might be remedied by moving the White K to, say, b7; but, 
+then, after Kc4, KxP would lead to failure. Let us try the experiment of 
+placing a Black P at cs, removing the White P from b4. Another Black 
+P would then be necessary at a4, because otherwise, after Kc4 and 
+White’s reply Sdf the Black I< escapes at a4. The position now stands: 
+— (see opposite page). 
+
+Most of what we set out to accomplish has been brought about; but 
+we find that C4 defeats our threat. We then note that, after this move, we 
+should have Sc 6 , then (following Kcs) Qh5 would make a nice and unex- 
+pected mate, were it not that the P at g7 could interpose. Here we have 
+
+36 
+
+
+
+COMPOSING A THREE MOVER 
+
+
+37 
+
+
+another of those opportunities for which the composer must always 
+be on the look out. A White P at h6 and the removal of the Black P at g7 
+
+(leaving the P at a4 to be the free piece) 
+would suffice; but, noticing then that 
+White's b6 would be doubly guarded, 
+we place the new White P at bs and 
+the White K at h8. Now, after C4, Sc6f; 
+K moves, QI15, giving us an attractive 
+pure mate which certainly adds point 
+to the position. Looking for a suitable 
+Key, we place the S now on 07 at g6 so 
+that it has the merit of opening a flight 
+square on a diagonal as well as leaving that already existing on the rank 
+on which the Black K stands. The finally evolved position is: — 
+
+In solving, the first thing to be No. 18. 
+
+noted is that the Black K may move 
+to C4. Making that move Sd6f prom- 
+ises something, but there is no pros- 
+pect after ICb4. Sb6 might be tried as 
+an opening because it leaves the pos- 
+sibility of a check by the Q. As a rule, 
+however such a move may be disre- 
+garded as in bad form — a flight square 
+being taken. Composers and editors 
+alike would avoid it. The trial move 
+suggests Ses. When this is exploited a 
+look round following the capture of the S shows that if the S were on a 
+square which would command d5, mate could be forced. This will lead 
+the observant to the Key. The Black P at C5, added as the outcome of 
+opportunism, is the most attractive and puzzling feature, a fact which 
+should be carefully noted for future service. 
+
+
+
+
+
+Mate in three. 
+
+
+
+CHAPTER XI 
+
+
+A SACRIFICIAL THREE-ER 
+
+
+With a view to giving the student an 
+insight into the composition of a 
+more elaborate Three-mover, we next 
+proceed to the expression of an idea 
+involving the sacrifice of a R and a Q. 
+
+Start with the pieces thus: — 
+
+The Key is to be Rc5, while the threat, 
+on a free piece (to be decided later) 
+being introduced, is RxRf, KxR, fol- 
+lowed by Qd6f . If after the Key move is 
+made Black S moves to C3 the threat is 
+thwarted, but BxSt, KxR, followed by Qc7f . If RxR we purpose playing 
+Qe3t so that on Black replying KxQ BxRf . We find that to effect this we 
+must add a White P at g3. We note, too, that the Black K may move to 
+either ds or 05. Let us try Ps at I5 and g5 then QxR mates after the moves 
+referred to. The position, with the Key move to be made, is now: — 
+
+It will be noted on further analysis 
+that after the Key move is made Res 
+and Rxf 5 are open to Black. RxR would 
+meet the first, but Black moves Sd2. 
+When we, further, note that it would be 
+possible to bring off a R sacrifice and 
+mate after RxP if C3 were filled by one 
+of Black's pawns, and note, too, that 
+if this were done the Black S could be 
+done away with, because then White 
+38 
+
+
+
+
+A SACRIFICIAL THREE-ER 
+
+
+39 
+
+
+B could only effectively check at C3 after the Black P had moved, we 
+again get one of those bits of inspiration which ever and anon come to 
+the composer. We remove the Black S, place the Black P now at b5 at 
+C4 and remove the White P from b3 to a4. Now, after RxP, RxPf; KxR, 
+QxPf, and, if we place a White P at a2, we mate prettily. 
+
+But now, consequent on the removal of the Black S we are confronted 
+with the fact that Re5 or RxP are met by the short mate, Qd2. But here, 
+once more, our difficulty presents a suggestion leading to a distinct 
+improvement. Place a Black P at d3, removing the White P at e2, then 
+substitute the White K with a White B at di, enabling us to do away with 
+the P at a2 and also cover f3, and utilise the White K so as to remove the 
+P at gs. A Black P is also required at d2 as that square must be covered 
+for the mate on the Q sacrifice and another at f7 to avert the threatened 
+check from the R and to act as free piece for the threat variation (RxR). 
+Placing'the White R back at c6, and testing for cooks, we find that a 
+Black P is necessary at g4 to prevent Bf3 which would lead to mate in 
+three. There is a try by Rd6 which we confess caused worry, because 
+we did not for a time perceive the answer. It introduces the intended 
+threat and, if RxR, Q replies by taking the R and mating at C5. It was 
+so difficult to remedy this that we breathed a sigh of relief on striking 
+the defence, C3, which makes this unintended threat innocuous. Our 
+position now is: — 
+
+The only point we claim for the posi- 
+tion is the exercise it affords and the 
+hints it offers in composition. From a 
+solving point of view the freedom of 
+the Black R will at once suggest that an 
+initial manoeuvre which only provides 
+for a quiet move (a second move which 
+does not check or make an important 
+capture) will not suffice for Key. That 
+the White R is likeliest will be appar- 
+ent after thinking over the moves of the 
+Q. The fact that the R cannot be attacked without the assailing piece 
+being captured may puzzle; but solvers must learn to suspect such pos- 
+sibilities as parts of the scheme. Once he discovers the threat he must 
+
+
+No. 19. 
+
+
+
+
+liL 
+
+mm m 
+
+
+I 111 
+
+Ail 
+
+I ■ i ■ III 
+
+mm mm mm m 
+
+mjkji d 
+
+
+Mate in Three. 
+
+
+40 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+19 - 
+
+
+
+Mate in Three. 
+
+
+hold on, and not be disconcerted by 
+RxR. The possibility of sacrificing the 
+Q effectively must always be borne in 
+mind. In this case the point that if the 
+Q can be so manoeuvred as to com- 
+mand the Black R after it has taken 
+the White one should show the way. 
+The rest is a matter of careful analysis 
+in which the solver should not allow 
+himself to be sidetracked by difficul- 
+ties, at any rate until he has proved that 
+they cannot be overcome. 
+
+
+CHAPTER XII 
+
+
+A SET OF THREE MOVE BRILLIANTS 
+
+
+We next give a set of half-a-dozen Three Move brilliants — each a mas- 
+terpiece in its own way and each a first prize winner — so that, though in 
+the limits of this work we can do no more than touch the fringe of this 
+delightful field of composition and certainly cannot attempt any tech- 
+nical description of themes — we may suggest to the student something 
+of the elegance and depth of strategy which are possible. 
+
+No. 20 is the original of what is 
+known as the “Bristol Theme” — the 
+movement of a piece in order that 
+another may follow in its wake and 
+deliver mate on one of the squares 
+the moving piece has cleared. At the 
+time when it created its great impres- 
+sion, at the British Association Tour- 
+ney in 1861, the Problem Art had not 
+made much headway. Present day 
+ideas were largely unborn. It is with 
+that fact in mind that this problem — 
+really the germ of thousands of others — has now to be regarded. It 
+will be noticed that as the problem stands Black's only move to avert 
+mate, if it be his turn to play, is Bd7 or e8. If, on this move being made, 
+the Q moves to bi, with a view to mating at b4, and the Black B returns 
+and thwarts this, the Q could, but for its own R at di, mate at gi. Rhi 
+is, therefore, not merely the clearing move, but that by which White 
+throws away a move and forces Black, by moving his B, so to uncover 
+the White S at b6 that the Q can carry out the first part of its own share 
+
+
+20. F. Healey 
+
+tun, 
+
+
+JL. ^ 
+
+
+11 V 111 'm 'm 
+
+
+mt 
+
+
+m fm vmWM 
+
+vm HI! 
+
+MJsyitj 
+
+ial Hi H iH H 
+
+
+Mate in three 
+
+
+41 
+
+
+42 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+in the manoeuvre without allowing Black to escape by KxS. 
+
+Students may compare this problem with the following expressions 
+of the theme in accordance with modem ideas of economy and purity. 
+The first is by H. F. L. Meyer: — 
+
+
+
+
+In this the White B has to pass to h8. Then, on the Black K moving to 
+a7, White replies Qar, pinning the B and forcing the Black K back, leav- 
+ing the Q to sail up to g7 to mate. It is a helpful study of Three Move- 
+strategy to note why White B elsewhere than h8 will not do. The second 
+is by C. Behting: — (see second diagram above) 
+
+Here the B must move to I17. If then, Kc6, Q replies by moving to bi. If 
+ds, Qg6=j=. If Black’s first reply be C4, White plays Qg 5 t; if Kd4, Sb5f — a 
+pretty outcrop from the main theme. 
+
+No. 21 indicates a great advance in 
+all that we mean by composition. The 
+Key (Qdi) is not difficult to find, though 
+it concedes a flight square in addition 
+to the two on the board (ds and fs); 
+but the main theme, a perfectly pure 
+mate by the S in conjunction with the 
+Q and B, recurs, the S mating on four 
+different squares, thus: If BxP, Qg4f; 
+
+K moves, Sb4. If Kd4, Qa4f ; K moves, 
+
+SxP. If Kds, Qb3f; Kc6, Sb8. If Kfs, Qfat; 
+
+Ke6, Sc5. Each of these moves should be examined with the pieces on 
+the board. 
+
+
+21 . 1. Pospisil 
+
+
+n ■ m i 
+
+
+m i t * 
+
+
+* H 
+
+
+
+
+m 
+
+
+
+
+'mtm M 
+
+
+vm. M 
+
+
+mm w m. 
+
+m 
+
+Mate in three 
+
+
+A SET OF THREE MOVE BRILLIANTS 
+
+
+43 
+
+
+No. 22 is much more difficult. It is 
+only after a good deal of analysis that 
+we get the idea that the B must move 
+behind the Black S at b5 so as to make 
+the threat SxP effective, when there is 
+the exceedingly elegant mate after SxS 
+by Bd3. Examine the mate after QxB; 
+
+Qeif, Kmoves; QxPf . Also thatwhich 
+follows Pci (becoming a S to prevent 
+the threat). Then BxS and mate follows. 
+
+Look also at Sc3; Qhif , K moves; Se6f . 
+
+But there is beauty everywhere. 
+
+No. 23 is a fine example of the modern idea of combining the themes 
+so that when White has made his first move there are really two or 
+more Two Move Problems on the board. We remember one of the 
+cleverest composers of the eighties, 
+
+G. J. Slater, describing the ideal Three 
+Move Problem as one "in which every 
+essential reply of Black to the first 
+move presented a Two Move Prob- 
+lem with a quiet Key.” We cannot recall 
+an instance in which this has been 
+achieved. In this position Mackenzie, 
+probably the greatest problemist of 
+his day, who composed most beauti- 
+ful conceptions after becoming totally 
+blind, combines two Two Movers. The 
+Key is Rd3. If Black replies with PxR, 
+there is a Two Move problem with Qc8 as Key. If Black plays Bg2 for 
+his first move there is another Two Mover with Qg8 as Key. It will be 
+interesting for the student to note the difference made by these two 
+moves of Black. 
+
+No. 24 is by the author of many masterpieces. This position is remark- 
+able as an instance of difficulty, despite the fact that the Key move, Sg4, 
+threatens mate in two. If Black makes no effective defence Sxf6 mates. 
+But let both solvers and composers weigh each defence. Take only Kds. 
+
+
+23. A. F. Mackenzie 
+
+
+
+m 'mf m 
+\ * '9&M A "W/ 
+
+H 1b#H " 1! 
+
+m. a ■ m i 
+
+
+
+Mate in three 
+
+
+22. K. Traxler 
+
+
+
+m*mm 
+
+if I! * ■ 
+
+
+
+Mate in three 
+
+
+44 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+24. C. Planck 
+
+
+
+Mate in three 
+
+
+25. G. Heathcote 
+
+
+
+Mate in three 
+
+
+White responds with the quiet move Be5 ! If fxes, Qxes f ; if Kc5, Qa5 f ! 
+We leave students to work out the remainder. 
+
+No. 25 is from the prolific board of G. Heathcote, to whose problems 
+we have already referred. As in all this composer's work there is subtle 
+strategy in the Key. Average solvers, looking for a threat, might think 
+of the R at g8; but most would also think its potentiality lies in getting 
+on to a8 with a view to a check. As a matter of fact it moves to c8 and 
+the threat is Qds f ! Then cxds and Sb5 f. There is a Q sacrifice after Rf4, 
+by Qxes f and another after Kxc5. The play after Sxd4 and after Kc3 is 
+also delightful. 
+
+Students who get a grip of these examples will have gained a real 
+insight into the Problem Art. 
+
+
+CHAPTER XIII 
+
+
+REMARKABLE POSITIONS 
+
+
+Before leaving the field of example, we must quote another set of 
+six. 
+
+No. 26 is the famous "Indian” Problem which, published in 1845, for 
+long defied solution. At the time it was unique. Like the "Bristol” it has 
+since been the basis of thousands of problems. The intended solution 
+was: 1 Kbi, P moves; 2 Bci, P moves; 3 Rd2, K moves; 4 Rd4 double check 
+and mate. Once the idea is grasped (namely, the avoidance of stalemate 
+and the creation of an ambush which concedes a square in order to 
+mate) it is realised that any waiting strategy which allows White’s Bh6 
+to reach its own square in time to permit Rd2 for the third move must 
+solve the probem. Students may calculate them; but in fairness to the 
+author, Rev. C. Loveday*, they should remember that importance was 
+apparendy not attached to accidental Keys in those days. 
+
+
+26. The "Indian.” 
+
+27. S. Loyd. 
+
+JPPP 
+
+TP iPilp* 
+I ll r!r 8, ! a 
+
+
+■k*p*i*p 
+
+■-■L PJ 8 ! 
+
+Mate in Four 
+
+Mate in two 
+
+
+[* The correct name is Rev. H. A. Loveday. ] 
+45 
+
+
+46 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+No. 27 is the most difficult Two Move Problem with which we ever 
+met that commenced with a check. Those who have not seen the posi- 
+tion should set it up and try it before turning to the solution. Indeed 
+this is suggested of each of the positions in this sextet. No. 28 is in the 
+same category amongst Three Move Problems, and No. 29 is one of the 
+most puzzling miniatures we have ever met with. All three are by that 
+pre-eminently great master of Chess strategy, the late Sam Loyd. 
+
+No. 30 is one of the prettiest Two Move Problems with fewer than ten 
+pieces extant. It is by J. P. Lea, and won a first prize in 1882. 
+
+No. 31 is by G. Hume and D. Pirnie. It was awarded one of the guinea 
+prizes offered each half year in the "Daily News" Chess column, which 
+appears in that paper on Saturdays. It develops a theme of remarkable 
+
+
+28. S. Loyd 29. S. Loyd 
+
+
+
+
+30. J. P. Lea 
+
+
+
+31. G. Hume & D. Pirnie 
+
+
+
+Mate in two 
+
+
+Mate in three 
+
+
+CHAPTER XIV 
+
+
+SELF-MATES 
+
+
+Self-mate positions — often styled Sui- 
+pelled to mate the White K in a given 
+erally regarded as only a side line of 
+the Problem Art. They were very much 
+more in vogue a few years ago and 
+often extended to such a number of 
+moves that only specialists attempted 
+their solution. Four examples by the 
+Author are given as serving to illus- 
+trate the principle on which this class 
+of problem depends. 
+
+No. 32, which a former Problem Edi- 
+tor of the "British Chess Magazine" did 
+us the honour of describing as a “clas- 
+sic” and Mr. A. F. Mackenzie gener- 
+ously said was "at the head of its class,” 
+is solved by Sb6. This threatens Sxd.5t. 
+Black must reply with Rxd5 and the 
+White Kis mated. IfRxb6, Qe4t; dxe4=|=. 
+If Bxh3, Qf4f, QxfT^. If Qxh3, Kxd6f, 
+Qxe6f . If Qg3f, Kf6f, Rxe6f . 
+
+No. 33 is composed with the idea 
+of conceding a flight square to the 
+Black K and forcing play in which a 
+Black S discovering mate shall cover 
+two squares by its fork. TheKeywillbe 
+
+
+mates — in which Black is corn- 
+number of moves are now gen- 
+
+
+
+S elf- Mate in two 
+
+
+
+fW. fm. m pm m 
+
+m % WiMWi m 
+
+■ P ' ' if 
+
+
+s ■ m 
+
+
+
+Self- Mate in two 
+
+
+47 
+
+
+48 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+found elsewhere. Students, both composers and solvers, may profit by 
+working out the problem for themselves. 
+
+No. 34 is a Three Mover. It is a pure waiter. The White K makes the 
+Key move by going to e5. This forces Black to play C5. The play then is: 
+2 Re6, fxe6; 3 f7, Sxf7f . 
+
+No. 35 is simply given as an example of the "long shot" self-mates. 
+The play is:— 1 Qa6, f4 (a); 2 Bc2, exf6; 3 Qa2f, Sc 4 ; 4 Bd6, fs; 5 Qb3, b 4 ; 
+6 Kd3, Kds; 7 Sd4, f3; 8 e4t, fxe 4 =j=. (a) If 1 ..., exf 5 ; 2 Qa2f, Sc4; 3 Bd6, f4 
+(b); 4 Bc2, P moves; 5 as above. If (b) 5. ..., b 4 , 4 Qb3, etc. 
+
+
+No. 34- 
+
+
+
+Self-Mate in three 
+
+
+No. 35- 
+
+
+
+Self-Mate in eight 
+
+
+CHAPTER XV 
+
+
+NOTES ON SELECTED POSITIONS 
+
+
+Granting that composers will often be unable to give expression to 
+certain ideas and secure both soundness and really good keys — this 
+is especially the case with Two Move Problems — it must always be 
+the aim to achieve point and interest and to wed the key to the central 
+motive of the position. Take a position like 162. ft is clear upon analysis 
+that the opening does no more than lose a move; but it does it in such 
+a way that it awakens interest. Why, the solver asks, would it not do in 
+several other positions. Discovering the answer adds piquancy to the 
+solution. In our judgment, however, even in a waiter the moving piece 
+ought always to take some other part than that of merely supplying the 
+key move. That is why, to this day, so many differed from the placing in 
+the tourney in which 168 was awarded first prize, the moving piece hav- 
+ing nothing whatever to do with the idea of the problem. Take in com- 
+parison No. 162 and the point of this will be understood. A key like that 
+to 171 at once wins appreciation. In Incomplete Block Positions point in 
+the key is vital. It is often merely a case from the solver’s point of view of 
+counting up the moves of Black — "if this moves, then that," and so on. 
+Let students, both composers and solvers, turn to No. 167. Composers 
+will get a valuable hint on the avoidance of insipidity; solvers will realise 
+that, after they have apparently accounted for all the moves, it is well 
+to look round for anything which may so far have escaped their notice 
+from the solver’s point of view of counting up the moves. 
+
+ft seems timely at this point to break in with a further word of advice 
+as to the study of positions, ft is very nice to be able to take up a position 
+and solve it from the diagram; but from the point of view of getting the 
+best out of a problem, and from that of acquiring ability in construction 
+
+
+49 
+
+
+50 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+and solving, there is nothing like setting up a position and analysing 
+it to its very core. Merely to get at the solution of the bulk of the Prob- 
+lems in our selections is to miss a great deal of the artistry and skilful 
+complexity which they embody. From a student composer's point of 
+view, it is to miss an insight into the art which may easily mean the dif- 
+ference between gradually acquired brilliance and the production of 
+positions which, failing to get above the line of mediocrity, give satis- 
+faction to neither the composer nor the solver. 
+
+We therefore suggest that the positions should be taken one by one 
+and be thoroughly examined, even after the key has been grasped; 
+and we venture to say that there is scarcely a case in which previously 
+unsuspected beauty, or ingenuity, or quaint attractiveness will not 
+unfold itself. 
+
+To return to the question of keys, and for the time being it must be 
+remembered that we are dealing with Two Move Problems, we venture 
+to call attention to 127 as almost a model of what a key should be. When 
+the position is looked at, the conclusion is at once rightly formed that 
+only a threat will suffice. The threatened check has to be met. So has the 
+fact that at present there is no mate if KF4. Pg4 promises to overcome 
+this, but fails. Bb2 does everything but meet the move of the K. The 
+problem is so cleverly constructed that the solver is loth to move the Q, 
+but it is only when the point is grasped that the Q will do as well as the 
+B for discovering mate (and that then, when the Black K moves, the S 
+mates on the square vacated by the Q) that we strike the real key. The 
+Key in this case involves what is known as the Brede Theme, illustrated 
+in its fulness in 184. The idea is also seen in 174. In 184 the Q passes to 
+d6 (and is offered to the Black R) so that the S may deliver mate on the 
+square her majesty has vacated. Andrade’s key is much more difficult 
+to discover. The difficulty of 128 is not nearly so great, though here again 
+there is a clever suggestion of an alternative line of play by Qg3. 
+
+Here let us make another parenthetical point for composers. Always 
+look out for the opportunity of creating a plausible line of play which 
+just misses fire. Certain composers in America, where much more lat- 
+itude is permitted than on this side of the Atlantic, have repeatedly 
+pushed this idea to the extent of adding an unnecessary piece. We by 
+no means advocate such a resource, though we are far from describing 
+
+
+NOTES ON SELECTED POSITIONS 
+
+
+51 
+
+
+it as illegitimate. Where such a decoy can be set up within the limits 
+of sound taste it is worth a good deal and, as we have already inciden- 
+tally indicated, we should never hesitate to sacrifice variety to achieve 
+it. Before leaving 128 it is well to realise that here it is a case of the end 
+justifying the means. If the key is less difficult the interference play is 
+fine. Seekers for clever keys and quaint play are recommended to study 
+131 with its return of the key-moving piece on Q (when released) tak- 
+ing the pawn and giving check. There are in the selections two cases of 
+capturing keys, as there is one in our own problems. These three are 54, 
+134 and 151. Students who examine them closely will, we feel sure, agree 
+with us that none of the ideas could have been otherwise expressed and 
+that both the selected ones are remarkably fine productions. 
+
+It is interesting to compare 126 and 193, in which a piece (a S in one 
+case and a B in the other) is sacrificed, and may be captured by any one 
+of several pieces, a different mate resulting from each. Mosely achieves 
+the maximum captures in clever fashion. 
+
+Two positions are given, largely as curiosities, namely 170 and 191. 
+The first has only the Q and K against ten pieces. The variety is remark- 
+able. The second has an en passant key which gives a double check. It is 
+by that master in the problem world, Alain C. White. It can be demon- 
+strated by analysis that Black’s last move was C7-C5. A Two-Move prob- 
+lem was published in the Morning Post over 30 years ago by Zukertort 
+which began by capturing en pas. but without check, and in which a 
+previous move of a Black P two squares could be demonstrated. 
+
+No. 218, originally appearing in the Daily News, is stated by no less 
+an authority than A. C. White to be a new theme. 
+
+For clever strategy, beauty, and difficulty combined with genuine 
+economy, how many modern compositions beat 135, composed so 
+far back as 1881. We have been unable to trace the identity of the com- 
+poser. 
+
+
+CHAPTER XVI 
+
+
+MORE NOTES AND COMMENTS 
+
+
+The Three Move Problems in the selected positions have been chosen 
+largely because of their didactic qualities from the point of view of con- 
+struction and solving. Some few are given because they illustrate themes 
+which, like the Indian, avoidance of stalemate, and Bristol themes, form 
+the foundation of so many problems. The "Roman" theme, which, by 
+the sacrifice of a White piece, takes away the defensive power of one or 
+more possible capturing pieces, is shown in 239. The "Plachutta" theme, 
+so named after a composer who first struck the idea, now nearly seventy 
+years ago, exploits the interference brought about by two pieces moving 
+in the same direction (as two B’s, a Q and B, or two R’s). This is shown 
+in 240, which we copy from B . G. Laws's masterly “Chess Problems and 
+Plow to Solve Them," to which this little work will act as an introduction 
+for those who seek to go deeply into the art. Note the alternate moves 
+of the R’s according as the moving B is captured by the Q or B. Another 
+old theme illustrated by 238 is that known as the "Nowotny,” after its 
+first exploiter, Anton Nowotny, a composer of the early fifties of the last 
+century. It involves the interference (on the capture of an offered White 
+piece) of one Black piece with another. In this particular case either the 
+B or the R on taking the White B shuts off possible defences against Sc3 
+after the KP has been defended. The "shunting” device — a piece being 
+drawn to a different file, rank, or diagonal to permit the covering of an 
+essential square — is shown in 241 and 250. In these cases a Black pawn 
+captures the Q and allows White to protect a critical square. Of course, 
+if he does not capture, a fatal result is brought about by another move 
+made possible by the offered sacrifice of the White Q. A theme involv- 
+ing this idea, but brought about by en passant moves, is exhibited in 31 
+
+
+52 
+
+
+MORE NOTES AND COMMENTS 
+
+
+53 
+
+
+(already referred to) and also in 233 and 244, the Black P which makes 
+the en passant capture shutting out a possible defence. 
+
+An unusual theme is disclosed in 242. It is a kind of inversion of the 
+ordinary self-block, because the blocks do not prevent moves of the 
+Black K, but make impossible moves of Black pieces which otherwise 
+would successfully defend against certain attacks. In this case the White 
+Q pins one of the two free Ss, and leaves Black so that, if he moves his 
+other S, the Black B cannot defend itself against the White S on the Q 
+releasing the previously pinned S and covering C5; whilst, if he moves 
+his B, he cannot use the S which the Q proceeds to attack, the unpinned 
+S being able to do no more than make the resultant mate cleaner. 
+
+Turning to the other positions, 221 is most interesting, both the open- 
+ing move and the reason for the successive moves of the White R along 
+the third rank being worthy of the closest study. The famous "Silver 
+King" position is given as 222. It is a fine study in composition, the 
+whole of the variations being blended into a harmonious whole. The 
+grace of the ultimate mates, say after axbs and Kxcs is very noticea- 
+ble. There is a remarkable Key to 223. Why the B should pass to h2 is a 
+problem in itself. 
+
+It is questionable whether more variety has ever been got out of Q 
+and P moves than in 224. Its construction affords a capital object lesson 
+on the way in which Black pieces can be made to serve in the produc- 
+tion of attractive and real variety. Very difficult to solve, it should give 
+a most helpful insight into the matter of Key move probability. 
+
+A beautiful conception is 226. Mark the way in which the Black P pre- 
+vents the R from effective intervention in the main variation, and how, 
+on this R moving to dt, threatening to pin the White Q, the attempt is 
+thwarted. In 230 there is a recurrence to two long-shot movements of 
+the Q — straight down the file and then to the full extent of the diagonal 
+the foot of which is thus reached. We recall a problem by the late G. J. 
+Slater, which completed the inverted N movement. It appears to have 
+been lost with so many other of his really fine works. 
+
+A wonderful example of the adaptation of Two-Move cross-check 
+strategy is seen in 234. Take only the variation after Qxf4f. It aptly illus- 
+trates what we have written as to solvers not allowing themselves to be 
+afraid of a move submitting the White K to a check, however forcefully 
+
+
+54 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+threatening it may appear to be. A finely constructed problem is 237. 
+The key appears to offer too much for too little. The principal variations 
+are also obscure. The discovery of the exact why and wherefore of each 
+will open the eyes of both composers and solvers. The dual continua- 
+tions are not seriously regarded on the continent. 
+
+A very subtle defence in 246, defeats a very plausible try by Res. This 
+is Ret. The effect of this is not easy to see, because it only tells when on 
+Sas the R moves to e5 shutting off the B on e6. Solvers should always 
+beware the move which may possibly defeat them only when the mat- 
+ing blow comes to be struck. 
+
+Every problem of the selected list is worth studying in the closest 
+detail. Even 249 though so slight is a perfect little gem. As to our own 
+compositions we only ask that it shall not be forgotten that most of 
+them were constructed 30 years ago. We should like to add that existing, 
+as many of the positions did, only as rough cuttings, some of which — 
+absolutely forgotten by ourselves — have kindly been sent by friends, 
+it is possible that in odd cases the work of others may have slipped in. 
+If this should unfortunately be so, we apologise in advance. 
+
+
+PROBLEMS BY THE AUTHOR 
+(Some Unpublished) 
+
+
+36. ‘ 
+
+
+37 -' 
+
+
+
+
+38 . ! 
+
+
+39 . 
+
+
+
+
+55 
+
+
+56 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+41 - 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+PROBLEMS BY THE AUTHOR 57 
+
+46. * 47- * 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+58 
+
+
+52 . 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+53 - 
+
+
+
+Mate in two [f] 
+
+
+Mate in two 
+
+
+58 . 
+
+
+PROBLEMS BY THE AUTHOR 
+
+
+59 - 
+
+
+59 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+PROBLEMS BY THE AUTHOR 
+
+
+70 . 
+
+
+71 . 
+
+
+
+
+72 . 
+
+
+73 - 
+
+
+
+
+74 - ’ 
+
+
+75 - 
+
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+62 
+
+
+76 . 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+77 - 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+PROBLEMS BY THE AUTHOR 
+
+
+63 
+
+
+82. 
+
+
+
+83 . 
+
+
+
+84. 
+
+
+85 . 
+
+
+
+
+86 . 
+
+
+87. 
+
+
+
+
+64 
+
+
+88 . 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+89 - 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+94 . 
+
+
+PROBLEMS BY THE AUTHOR 
+
+
+95 - 
+
+
+65 
+
+
+
+
+Mate in two 
+
+
+96. 
+
+
+
+Mate in two 
+
+
+97 - 
+
+
+
+Mate in two 
+
+
+98 . 
+
+
+
+Mate in two [*] 
+
+
+99 . 
+
+
+
+Mate in two 
+
+
+66 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+PROBNLEMS BY THE AUTHOR 
+
+
+67 
+
+
+106. 
+
+
+
+107. 
+
+
+
+108. 
+
+
+109. 
+
+
+
+
+no. 
+
+
+111. 
+
+
+
+Mate in two [*] 
+
+
+
+68 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+112. 113. 
+
+
+
+Mate in three 
+
+
+Mate in three 
+
+
+118. 
+
+
+PROBNLEMS BY THE AUTHOR 
+
+
+119. 
+
+
+69 
+
+
+
+Mate in three [*] 
+120. 
+
+
+
+Mate in three 
+122. 
+
+
+
+
+Mate in three [§] 
+121. 
+
+
+
+Mate in three 
+123. 
+
+
+
+Mate in three 
+
+
+Mate in three 
+
+
+70 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+124. 
+
+
+
+125 - 
+
+
+
+SELECTED PROBLEMS 
+(Mainly Prize Winners) 
+
+
+126. A. Mosley, Brisbane 
+
+
+
+128. J. J. Rietveld 
+
+
+
+127. B. J. Andrade 
+
+
+
+Mate in two 
+129. P. ten Cate 
+
+
+
+Mate in two 
+
+
+71 
+
+
+72 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+130. R. H. Bridgewater 
+
+
+
+Mate in two 
+132. Murray Marble 
+
+
+
+134. P. F. Blake, Warrington 
+
+
+
+131. F. Sackmann 
+
+
+
+Mate in two 
+
+133. A. M. Sparke, Lincoln 
+
+
+
+Mate in two 
+
+135 - “Toz” Manchester (1881) 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+SELECTED PROBLEMS 
+
+
+73 
+
+
+136. J. C. J. Wainwright 
+
+
+
+138. T. Vesz 
+
+
+
+140. A. Ellerman 
+
+
+
+137 - J- J- Rietveld 
+
+
+
+Mate in two 
+
+
+139. E. E. Westbury 
+
+
+
+Mate in two 
+141. E. Pape 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+74 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+142. O. Nagy 
+
+
+
+Mate in two 
+144- G. E. Carpenter 
+
+
+
+Mate in two 
+146. A. Bottachi 
+
+
+
+143- J- 1 . Rietveld 
+
+
+
+Mate in two 
+145- J- Paul Taylor 
+
+
+
+147- G. E. Carpenter 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+SELECTED PROBLEMS 
+
+
+75 
+
+
+148. C. Mansfield, Bristol 
+
+
+
+150. A. M. Sparke 
+
+
+
+152. H. and E. Bettmann 
+
+
+
+149. A. Ellerman 
+
+
+
+Mate in two 
+151. A. Mari 
+
+
+
+Mate in two 
+
+
+153. A. F. Mackenzie 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+76 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+154. B. G. Laws, London 
+
+
+
+156. H. Cudmore 
+
+
+
+158. J. Rietveld 
+
+
+
+155- G. Heathcote 
+
+
+
+Mate in two 
+
+157. Geo. Hume, Nottingham 
+
+
+
+Mate in two 
+159. J. Kulcicky 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+SELECTED PROBLEMS 
+
+
+77 
+
+
+160. B. G. Laws 
+
+
+161. H. D'O. Bernard 
+
+
+
+
+162. G. J. Slater 
+
+
+r63. H. M. Prideaux 
+
+
+
+
+164. M. Feigl 
+
+
+165. G. Heathcote 
+
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+78 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+166. H. F. L. Meyer 
+
+
+
+168. F. Flealey 
+
+
+
+170. Author Unknown 
+
+
+
+r67. G. J. Slater 
+
+
+
+r6g. J. King-Park 
+
+
+
+Mate in two 
+t7t. S. Schuster 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+SELECTED PROBLEMS 
+
+
+79 
+
+
+172. D. Booth, Junr., Bramley 
+
+
+173. A. Davidson, Oldham 
+
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+174. P. F. Blake, Warrington 
+
+
+
+175. W. Lyon 
+
+
+
+Mate in two 
+
+
+176. C. Mansfield 
+
+
+177. A. S. Dorrell, London 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+8o 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+178. V. Marin 
+
+
+179. E. Letzen 
+
+
+
+
+180. Peter Takacs 
+
+
+181. J. Nield, Blackpool 
+
+
+
+
+182. C. S & F. B. Kipping 
+
+
+183. Alain C. White 
+
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+SELECTED PROBLEMS 
+
+
+8l 
+
+
+184. f. Brede 
+
+
+
+186. Alain C. White 
+
+
+
+188. Dr. J. J. O'Keefe 
+
+
+
+185. W. Grimshaw 
+
+
+
+187. F. Bonnar Feast 
+
+
+
+189. H. Beechay 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+82 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+190. F. Bonnar Feast 
+
+
+
+Mate in two 
+192. T. D. Clarke 
+
+
+
+Mate in two 
+194. H. Jonsson 
+
+
+
+191. Alain C. White 
+
+
+
+Mate in two 
+193. Murray Marble 
+
+
+
+Mate in two 
+195. C. Planck 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+SELECTED PROBLEMS 
+
+
+83 
+
+
+196. J. C. J. Wainwright 
+
+
+
+198. A. J. Fink 
+
+
+
+200. H. Cudmore 
+
+
+
+197. A. M. Sparke 
+
+
+
+Mate in two 
+199. Mrs. W. J. Baird 
+
+
+
+Mate in two 
+201. P. F. Kuiper 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+84 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+202. T. C. Henriksen 
+
+
+
+204. J. Jespersen 
+
+
+
+206. Murray Marble 
+
+
+
+203. L. Rothstein 
+
+
+
+205. P. R Blake 
+
+
+
+207. J. Deuzemann 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+SELECTED PROBLEMS 
+
+
+85 
+
+
+208. K. Traxler 
+
+
+209. B. G. Laws 
+
+
+
+
+210. P. H. Blake 
+
+
+211. Z. Mach 
+
+
+
+
+212. W. Meredith 
+
+
+213. H. Cudmore 
+
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+86 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+214. G. Heathcote 
+
+
+
+216. G. Guidelli & E. Westbury 
+
+
+
+218. Walter Stephens 
+
+
+
+215. G. C. Alvey 
+
+
+
+217. Max Feigl 
+
+
+
+219. G. Hume & D. Pirnie 
+
+
+
+Mate in two 
+
+
+Mate in two 
+
+
+SELECTED PROBLEMS 
+
+
+87 
+
+
+220. A. F. Mackenzie 
+
+
+
+Mate in two 
+222. C. Planck 
+
+
+
+Mate in three 
+224. C. A. L. Bull 
+
+
+
+221. G. Hume, Nottingham 
+
+
+
+223. B. G. Laws 
+
+
+
+225. G. Hume 
+
+
+
+Mate in three 
+
+
+Mate in three 
+
+
+88 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+226. G. Heathcote 
+
+
+227. Dr. E. Palkoska 
+
+
+
+
+228. O. Votruba 
+
+
+229. ]. C. J. Wainwright 
+
+
+
+230. F. Sackmann 
+
+
+
+
+
+Mate in three 
+
+
+Mate in three 
+
+
+SELECTED PROBLEMS 
+
+
+89 
+
+
+232. M. Havel 
+
+
+
+Mate in three 
+234. G. F. Anderson 
+
+
+
+Mate in three 
+
+
+233. S. Steiner 
+
+
+
+Mate in three [§] 
+235. V. Marin 
+
+
+
+Mate in three 
+
+
+236. Dr. E. Palkoska 
+
+
+
+237. J. Dobrusky 
+
+
+
+Mate in three 
+
+
+Mate in three 
+
+
+90 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+238. Ed. Brunner 
+
+
+
+Mate in three 
+
+240. C. S. Kipping, Nottingham 
+
+
+
+Mate in three 
+242. M. Niemeyer, Leyden 
+
+
+
+239. Kohtz & Kockelkorn 
+
+
+
+241. P. F. Blake 
+
+
+
+
+Mate in three 
+
+
+Mate in three 
+
+
+SELECTED PROBLEMS 
+
+
+91 
+
+
+244. F. Sackmann 
+
+
+
+246. A. C. Challenger 
+
+
+
+248. S. Loyd 
+
+
+
+245- G. Heathcote 
+
+
+
+Mate in three 
+247. Ralph H. Bridgwater 
+
+
+
+249. Otto Newmann 
+
+
+
+Mate in three 
+
+
+Mate in three 
+
+
+92 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+250. Geo. H. Haddy, Manchester 
+
+
+
+Mate in three 
+
+
+SOLUTIONS 
+
+
+1. 
+
+i. SI15, but l. ... Rxh6! [See 
+
+24. 
+
+1 . Sg 4 
+
+
+
+text] 
+
+25 . 
+
+l. Rc8 
+
+
+2. 
+
+l. Sd 4 
+
+26. 
+
+l. Kbi/Kb 2 /Bg 5 /Rd 6 /Rd 7 / 
+
+3 - 
+
+i. Bbs 
+
+
+Rd8/Bhi/Bci[/Re3] 
+
+4 . 
+
+l. Sd2 
+
+27 . 
+
+i. Qg 4 t 
+
+
+5 - 
+
+l. Rd 4 [ i. Be 7 ] 
+
+
+l. ... fs 
+
+2. gxf6 e.p.)= 
+
+6. 
+
+i. Qh 3 
+
+28. 
+
+I- Sg 4 t 
+
+
+7 - 
+
+l. Bc7 
+
+
+l. ... Kh3 
+
+2. Sh2, etc. 
+
+8. 
+
+l. Bf 7 
+
+
+l. ... Khi 
+
+2. Qh2f, etc. 
+
+9 - 
+
+I- Bg 7 
+
+29. 
+
+l. Qh6 
+
+
+10. 
+
+l. Rd 7 
+
+
+l. ... I<b 4 
+
+2. Qci, etc. 
+
+li. 
+
+l. I<b3 
+
+30 . 
+
+l. Qh 3 
+
+
+12. 
+
+l. Qg8 
+
+31 . 
+
+l. Qh 5 
+
+
+13 . 
+
+l. Bh8 
+
+
+i. -• Qg 5 t 
+
+2. Kxd4, etc. 
+
+14 - 
+
+l.Rg2 
+
+
+l. ... Qai 
+
+2. C 4 t; etc. 
+
+15 - 
+
+l. Bf6 
+
+
+1. ... Qf2 
+
+2. Qh8 
+
+16. 
+
+l. Rcc7 
+
+
+l. ... Qe 3 
+
+2. g7, etc. 
+
+17 - 
+
+l. Qh 7 
+
+32 . 
+
+l. Sb6 
+
+
+18. 
+
+i. Sge7 
+
+33 - 
+
+i. Qf 5 
+
+
+19 - 
+
+l. Res 
+
+34 - 
+
+l. Kes (see notes) 
+
+20. 
+
+l.Rhi 
+
+35 - 
+
+l. Qh3 (see notes) 
+
+21. 
+
+l. Qdi 
+
+36 . 
+
+l. Rh7 
+
+
+22. 
+
+l. Ba6 
+
+37 - 
+
+l. Rh4 
+
+
+23 - 
+
+i. Rd 3 
+
+38 . 
+
+l. Rhi 
+
+
+
+93 
+
+
+94 
+
+39 
+
+40 
+
+41. 
+
+42 
+
+43 
+
+44 
+
+45 
+
+46 
+
+47 
+
+48 
+
+49 
+
+50 
+
+51. 
+
+52 
+
+53 
+
+54 
+
+55 
+
+56 
+
+57 
+
+58 
+
+59 
+
+6o 
+
+6l 
+
+62 
+
+63 
+
+64 
+
+65 
+
+66 
+
+67 
+
+68 
+
+69 
+
+70 
+
+71. 
+
+72 
+
+73 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+i. Ba2 
+
+
+74- 
+
+1. Rd7 
+
+l. Qdi 
+
+
+75- 
+
+1. Ra8 
+
+i. Qbs 
+
+
+76. 
+
+1. Bcs 
+
+l. Qci 
+
+
+77- 
+
+i- Qg7 
+
+i. Sc3 
+
+
+78. 
+
+1. Sb3 
+
+l. Qc8 
+
+
+79- 
+
+1. Sdi 
+
+l. Qf8 
+
+
+8o. 
+
+1. Sd7 
+
+l. Shs 
+
+
+81. 
+
+1. d4 
+
+l. d4 
+
+
+82. 
+
+1. Qai 
+
+l. Qa5 
+
+
+83- 
+
+1. Qb8 
+
+l. Bfi 
+
+
+84. 
+
+1. Rcc8 
+
+l. Bb7 
+
+
+85- 
+
+1. Bf6 
+
+1. Sf7 
+
+
+86. 
+
+1. Bci [ 1 . Rxbs 1 . Re 2 
+
+l. Qbs 
+
+
+87. 
+
+1. Qe8 
+
+l. Sh4 
+
+
+88. 
+
+1. b4 
+
+l. Rxd5 
+
+
+89. 
+
+1. Qas 
+
+l. Bb3 
+
+
+90. 
+
+l.Rfi 
+
+l. Rh7 
+
+[i. ... Bf6! and 
+
+91- 
+
+1. Qai [ 1 . c8S ] 
+
+many other moves. ] 
+
+92. 
+
+1. Rci 
+
+i. Ses 
+
+
+93- 
+
+1. Bd7 
+
+l. Rh8 
+
+
+94- 
+
+1. g8S [ 1 . ... Bc6! and 
+
+i.Rf7 
+l. Qa8 
+
+
+95- 
+
+many others ] 
+
+1. b8Q 
+
+l. Rh6 
+
+[ I- Bxg3 ] 
+
+96. 
+
+1. I<d2 
+
+i.Rf7 
+
+
+97. 
+
+1. Qai 
+
+l. Qc7 
+
+
+98. 
+
+1. Sd8 [ 1 . Qxe6 1 . Sb 4 
+
+l. Scs 
+
+[i. ... Qf8f! } 
+
+99- 
+
+1. Se3 
+
+l. Bd2 
+
+l 1 .SJ 3 !] 
+
+100. 
+
+1. Sh2 [ 1 . Rxdi ] 
+
+l. Qei 
+
+
+101. 
+
+1. e 4 [ i-Sj3f ] 
+
+i. Qgi 
+
+[ 1- Qg7t ] 
+
+102. 
+
+1. Sc6 
+
+1. Sf7 
+
+
+103. 
+
+1. Qc8 
+
+1 . Bg2 
+
+
+104. 
+
+1. Bg3 
+
+1 . RC2 
+
+
+105. 
+
+1. Sfi 
+
+l. Bfs 
+
+
+106. 
+
+1. Sc4 [ l. Bc 3 1 . Bb 2 
+
+i. Rb3 
+l. Se2 
+
+
+107. 
+
+1 . Qe6f 1 . Bc4 ] 
+
+1. Rd6 
+
+
+SOLUTIONS 
+
+
+95 
+
+
+108. 
+
+1. Qhi [ 1. 
+
+Qd 8 ] 
+
+118. 
+
+1. Bf4 
+
+
+109. 
+
+1. Sh5 
+
+
+
+1. ... Bb8 
+
+2. Qxd4f> etc. 
+
+110. 
+
+1. Rg7 [ 1. 
+
+Rfs] 
+
+
+1. ... exf4 
+
+2. Rhst, etc. 
+
+111. 
+
+1. Sb4 
+
+
+
+1. ... e3 
+
+2. Qhit, etc. 
+
+112. 
+
+1. Sg8 
+
+
+
+1. ... d3 
+
+2. Qxe5f, etc. 
+
+
+1. ... Sxc7 
+
+2. Qc6f, etc. 
+
+
+1. ...b5 
+
+2. Qxa7, etc. 
+
+
+1. ... Se6 
+
+2. Bb7f> etc. 
+
+
+1. ... Kc6 
+
+2. Qcif, etc. 
+
+
+1. ... Se8 
+
+2. Re7, etc. 
+
+
+[r. Qxa 7 ] 
+
+
+
+1. ... Sh5 
+
+2. Rxhs, etc. 
+
+119. 
+
+1. Qf2 
+
+
+
+1. ... Ke5 
+
+2. Sd3t, etc. 
+
+
+r. ... e6 
+
+2. Qd2f, etc. 
+
+
+1. ... f4 
+
+2. Sf6f, etc. 
+
+
+1. ...b3 
+
+2. Qf4t, etc. 
+
+
+1. ... B~ 
+
+2. Qb7f, etc. 
+
+
+[i. Sc 4 -'] 
+
+
+113. 
+
+1. Sf4 
+
+
+120. 
+
+1. Sh3 
+
+
+
+1. ... Kd4 
+
+2. Rxdsf, etc. 
+
+
+1. ... Sbs 
+
+2. Qf7t; etc. 
+
+
+1. ... Res 
+
+2. Rxc7f , etc. 
+
+
+1. ... I<e4 
+
+2. Qc2f, etc. 
+
+
+Other variations 
+
+
+Other variations 
+
+114. 
+
+1. Qd6 
+
+
+121. 
+
+1. Rdi 
+
+
+
+1. ... Kfs 
+
+2. Sf7, etc. 
+
+
+1. ... Kc4 
+
+2. Sb6t, etc. 
+
+
+1. ... Kd4 
+
+2. Sd3, etc. 
+
+
+1. ... Ke6 
+
+2. dst, etc. 
+
+
+1. ... ~ 
+
+2. Sf3, etc. 
+
+
+1. ... ~ 
+
+2. Bf7f, etc. 
+
+
+[ 1. Qf 8 1. Qc 7 ] 
+
+122. 
+
+1. Kf7 
+
+
+115. 
+
+1. Be7 
+
+
+
+1. ... c6 
+
+2. C5f, etc. 
+
+
+1. ... f5 
+
+2. Qxf4f, etc. 
+
+
+1. ... C5 
+
+2. Qb2f, etc. 
+
+
+1. ... Kf 5 
+
+2. Bxf6, etc. 
+
+
+1. ... Ke4 
+
+2. Qc 3, etc. 
+
+
+1. ... Kds 
+
+2. Qd3f, etc. 
+
+123. 
+
+r. Qa2 
+
+
+
+1. ... Kd4 
+
+2. Qe3f, etc. 
+
+
+1. ... ICe4 
+
+2. Rf3, etc. 
+
+116. 
+
+1. Sac7 
+
+
+
+1. ... Kc6 
+
+2. Qa8f, etc. 
+
+
+1. ... Kxe4 
+
+2. Qh4t» etc. 
+
+
+1. ... Kxes 
+
+2. Rb5t> etc. 
+
+
+1. ... KC5/KC4 2. Sb5 
+
+
+1. ... gxf5 
+
+2. Rc3f, etc. 
+
+117. 
+
+1. Bbs 
+
+
+
+1. ... Kc4 
+
+2. Rbif, etc. 
+
+
+1. ... d4 
+
+2. Qxe4f, etc. 
+
+124. 
+
+1. Bd7 
+
+
+
+1. ... Kd4 
+
+2. Be3f , etc. 
+
+
+1. ... Sxd7 
+
+2. Qgst, etc. 
+
+
+1. ... Kd6 
+
+2. Be7f, etc. 
+
+
+1. ... Sxd3 
+
+2. Sf5, etc. 
+
+
+1. ... Kfs 
+
+2. Qf4+; etc. 
+
+
+1. ... Kf4 
+
+2. Sde2f, etc. 
+
+
+1. ... ~ 
+
+2. Bf4f, etc. 
+
+
+1. ... Se4 
+
+2. Sc6f, etc. 
+
+
+— cont. 
+
+
+96 CHESS PROBLEMS MADE EASY 
+
+
+
+1. ... Bc6 
+
+2. Sxc6t, etc. 
+
+154 . 
+
+1. Rd6 
+
+
+1. ... ~ 
+
+2. Qg 7 t, etc. 
+
+155 - 
+
+1. Sd4 
+
+125. 
+
+1. Qc 7 
+
+
+156. 
+
+1. Re6 
+
+
+1. ... KC4 
+
+2. Qd6, etc. 
+
+157 - 
+
+1. Bf6 
+
+
+1. ... Ke4 
+
+2. Qxc 5, etc. 
+
+158. 
+
+1. Rfs 
+
+
+1. ... es 
+
+2. Qf7t; etc. 
+
+159 . 
+
+1. Qc 4 
+
+
+1. ... C 4 
+
+2. Qd 7 t; etc. 
+
+160. 
+
+1. Sf 4 
+
+126. 
+
+1. Sd4 
+
+
+161. 
+
+1. Qb 4 
+
+127. 
+
+1. Qb2 
+
+
+162. 
+
+1. Rf8 
+
+128. 
+
+1. Qe8 
+
+
+163. 
+
+1. KC3 
+
+129. 
+
+1. Qe 7 
+
+
+164. 
+
+1. Rh3 
+
+130. 
+
+l.Kf2 
+
+
+165. 
+
+1. Bb2 
+
+131. 
+
+1. Bc4 
+
+
+166. 
+
+1. Bg2 
+
+132. 
+
+1. Kb 3 
+
+
+167. 
+
+1. Ra 3 [ i. 
+
+133. 
+
+1. Sbc2 
+
+
+
+[ 1. Rb 3 ] 
+
+134. 
+
+1. Bxd6 
+
+
+168. 
+
+1. Ra6 
+
+135 - 
+
+1. Ra4 
+
+
+169. 
+
+1. Qa3 
+
+136. 
+
+1. Bb 4 
+
+
+170. 
+
+1. Qd2 
+
+137 . 
+
+1. Qd 7 
+
+
+171. 
+
+1. d 4 
+
+138. 
+
+1. Rd8 
+
+
+172. 
+
+1. Qd7 
+
+139 . 
+
+1. Qb4 
+
+
+173 - 
+
+i- Qfs 
+
+140. 
+
+1. Qg8 
+
+
+174 . 
+
+l.Rf 3 
+
+141. 
+
+1. Qes 
+
+
+175 - 
+
+1. Bf7 
+
+142. 
+
+1. Bds 
+
+
+176. 
+
+1 - g 4 
+
+143 - 
+
+1. Qe4 
+
+
+177 . 
+
+1. Qf 7 
+
+144 . 
+
+1. Sei 
+
+
+178. 
+
+1. Re6 
+
+145 . 
+
+i- Qgi 
+
+
+179 . 
+
+1. Re 7 
+
+146. 
+
+1. Qg4 [ 1 . . 
+
+..Rxg3l] 
+
+180. 
+
+1. Qdi 
+
+
+[ 1 ■ Qh 4 ] 
+
+
+181. 
+
+1. e 4 
+
+147 . 
+
+1. Qh2 
+
+
+182. 
+
+1. Sds 
+
+148. 
+
+1. C 3 
+
+
+183. 
+
+1. Rds 
+
+149. 
+
+i- Qg 4 
+
+
+184. 
+
+1. Qd6 
+
+150. 
+
+1. Ses 
+
+
+185. 
+
+1. Qg8 
+
+151. 
+
+1. Sxc4 
+
+
+186. 
+
+1. Rdci 
+
+152. 
+
+1. Rec2 
+
+
+187. 
+
+1. Bd6 
+
+153 . 
+
+1. Sa3 
+
+
+188. 
+
+1. Sf5 
+
+
+... Sbc6!] 
+
+
+SOLUTIONS 
+
+
+97 
+
+
+189. 
+
+1. Rb 4 
+
+222. 
+
+1. Bbs 
+
+
+190. 
+
+1. d6 
+
+
+1. ... ICxc5 
+
+2. Sd 3 t 
+
+191. 
+
+1. bxc6 ept 
+
+
+1. ... axbs 
+
+2. Qd2f 
+
+192. 
+
+1. Rf8 
+
+
+Other variations 
+
+193. 
+
+1. Be 4 
+
+223 . 
+
+1. BI12 
+
+
+194. 
+
+1. Re6 
+
+
+1. ... I<e 4 
+
+2. Sxc3t, etc. 
+
+195 - 
+
+1. Sd3 
+
+
+Other variations. 
+
+196. 
+
+1. Rdi 
+
+224 . 
+
+1. g6 
+
+
+197 - 
+
+1. Qh 7 
+
+
+1. ... hxg6 
+
+2. Kxg6 etc. 
+
+198. 
+
+1. d7 
+
+
+1. ... f 4 
+
+2. gxf4f, etc. 
+
+199 . 
+
+1. Ses 
+
+
+1. ... Sc6 
+
+2. Qe3t, etc. 
+
+200. 
+
+1. Qd 4 
+
+
+1. ... Rc6 
+
+2. Qf 4 f, etc. 
+
+201. 
+
+1. Sd8 
+
+
+1. ... ~ 
+
+2. e4, etc. 
+
+202. 
+
+1. Kb8 
+
+225 . 
+
+1. Rc6 
+
+
+203. 
+
+1. Kh4 
+
+
+1. ... Bxc6 
+
+2. S 3 C 5 t, etc. 
+
+204. 
+
+1. Qa 7 
+
+
+1. ... ICd5 
+
+2. Qf3f, etc. 
+
+205. 
+
+1. Kf2 
+
+
+1. ... Kf 5 
+
+2. Qh5f, etc. 
+
+206. 
+
+1. Bf6 
+
+226. 
+
+1. Bb8 
+
+
+207. 
+
+1. Sees 
+
+
+1. ... e3 
+
+2. Qc8, etc. 
+
+208. 
+
+i- Qg 7 
+
+
+1. ... Rdi 
+
+2. Ba7, etc. 
+
+209. 
+
+1. Rb 4 
+
+
+1. ... Rc3 
+
+2. Sf6f, etc. 
+
+210. 
+
+1. Qb 7 
+
+
+Other variations. 
+
+211. 
+
+1. Qhi 
+
+227. 
+
+1. Bb 4 
+
+
+212. 
+
+1. Qg8 
+
+
+1. ... Bxb4 
+
+2. Sh4, etc. 
+
+213 - 
+
+1. Qh3 
+
+
+1. ...b 5 
+
+2. Sd2, etc. 
+
+214. 
+
+1. Sc7 
+
+
+1. ... Sb2 
+
+2. Qc3f, etc. 
+
+215 . 
+
+1. Qe2 
+
+
+Other variations. 
+
+216. 
+
+1. Qb 4 
+
+228. 
+
+1. Shs 
+
+
+217. 
+
+1. Qa8 
+
+
+1. ... Qxg2 
+
+2. Sf 4 t< etc. 
+
+218. 
+
+1. Qd 4 
+
+
+1. ... gxhs 
+
+2. Qg8+, etc. 
+
+219. 
+
+1. Rd2 
+
+
+Other variations. 
+
+220. 
+
+1. Sc6 
+
+229 . 
+
+1 . Bc2 
+
+
+221. 
+
+1. Rb8 
+
+
+1. ... gxh6 
+
+2. Rd3, etc. 
+
+
+1. ... Res 2. Ra8, etc. 
+
+
+CTQ 
+
+X 
+
+0^ 
+
+2. Bd3, etc. 
+
+
+1. ... Rds 2. Rd3, etc. 
+
+
+1. ... g6 
+
+2. Ba4, etc. 
+
+
+Other variations 
+
+
+1. ... g 5 
+
+2. f7, etc. 
+
+
+98 
+
+
+CHESS PROBLEMS MADE EASY 
+
+
+230. 
+
+1. Qai 
+
+
+238. 
+
+1. Bb6 
+
+
+
+1. ... Sdi 
+
+2. Qh8 etc. 
+
+
+1. ... Bxb6 
+
+2. Rei 
+
+
+Other variations. 
+
+
+1. ... Rxb6 
+
+2. Rf 3 
+
+231. 
+
+1. Bh3 
+
+
+239- 
+
+1. Qe2 
+
+
+
+1. ... Rxgi 
+
+2. Rd4t> etc. 
+
+
+1. ... Rxe2 
+
+2. Sc5, etc. 
+
+
+1. ... Rxe4 
+
+2. Qdit, etc. 
+
+
+1. ... Bxe2 
+
+2. Sd6, etc. 
+
+
+1. ... Ke6/Kc5 2. Qbi, etc. 
+
+
+Other variations. 
+
+
+Other variations. 
+
+240. 
+
+1. Bcs 
+
+
+232. 
+
+1. Qd8 
+
+
+
+1. ... Qxcs 
+
+2. Ra3f, etc. 
+
+
+1. ... Qh4 
+
+2. Re4t; etc. 
+
+
+1. ... Bxcs 
+
+2. Ra7f, etc. 
+
+
+1. ... Sxc3 
+
+2. Qd2f, etc. 
+
+
+Other variations. 
+
+233. 
+
+1. Rd7 
+
+
+241. 
+
+1. Qc 4 
+
+
+
+1. ... Qa6 2. 
+
+d4t, exd3 ep. 
+
+
+1. ... dxc4 
+
+2. Rxd4, etc. 
+
+
+
+3- Qetf 
+
+
+1. ... Kxe4 
+
+2. Bg6f, etc. 
+
+
+Other variations. 
+
+
+Other variations. 
+
+
+U Qg 4 '.] 
+
+
+242. 
+
+1. Qe4 
+
+
+234. 
+
+1. Bb6 
+
+
+
+1. ... Bb6 
+
+2. Qe8, etc. 
+
+
+1. ... Be2 
+
+2. Kd7 
+
+
+1. ... Sab6 
+
+2. Qd4, etc. 
+
+
+1. ... Qg2 
+
+2. Sd6f 
+
+243- 
+
+1. h4 
+
+
+
+1. ... Kxds 
+
+2. Bb7t 
+
+
+1. ... gxh3 ep 
+
+2. g4, etc. 
+
+
+H — 
+
+X 
+
+a 
+
+2. Kc6 
+
+
+Other variations. 
+
+235- 
+
+1. Qci 
+
+
+244. 
+
+1. Bb7 
+
+
+
+1. ... Sf 3 
+
+2. Qhi, etc. 
+
+
+1. ... Qf6 
+
+2. e4f, etc. 
+
+
+1. ... Bxci 
+
+2. C4 
+
+
+1. ... Qgt 
+
+2. e4t; etc. 
+
+
+1. ... Rac2 
+
+2. Sxas, etc. 
+
+
+Note e.p. defences. 
+
+
+Other variations. 
+
+245- 
+
+1. Bds 
+
+
+236. 
+
+1. Qfi 
+
+
+
+1. ... Kxds 
+
+2. Qd3t, etc. 
+
+
+1. ... fxe2 
+
+2. Qxf2, etc. 
+
+
+1. ... cxds 
+
+2. Sb5f, etc. 
+
+
+1. ... Kd4 
+
+2. e3t; etc. 
+
+
+Other variations. 
+
+
+1. ... Rc3 
+
+2. Qai, etc. 
+
+246. 
+
+1. Sas 
+
+
+
+1. ... Rd3 
+
+2. Bxd3, etc. 
+
+
+1. ... Kds 
+
+2. Rest, etc. 
+
+
+1. ... ~ 
+
+2. Sbc6f , etc. 
+
+
+1. ... Rei 
+
+2. Rxd2f, etc. 
+
+237. 
+
+1. Qa8 
+
+
+
+1. ... Rfi 
+
+2. Rc 3, etc. 
+
+
+1. ... Bxa8 
+
+2. Rxf4f, etc. 
+
+
+
+[2. ... diQ!] 
+
+
+1. ... Sxa8 
+
+2. Bg7, etc. 
+
+
+
+[ 2. Rxd2f ] 
+
+
+Other variations. 
+
+
+Other variations. 
+
+
+SOLUTIONS 
+
+
+99 
+
+
+247. 1. Bb8 
+
+1. ... Bc 4 2. Qf 3 t, etc. 
+
+1. ... Ke6 2. Qd 6 f, etc. 
+
+Other variations. 
+
+248. 1. Bb8 
+
+1. ... Bbi 2. d 4 t» cxd3 ep 
+3- Se4+ 
+
+
+249 - 1. f 3 
+
+1. ... ds 2. Bfst, etc. 
+
+1. ... Kds 2. Bc4f, etc. 
+
+1. ... C5 2. fst, etc. 
+
+250. 1. Qb 4 
+
+1. ... cxb 4 2. Re 7 f> etc. 
+
+1. ... Kds 2. Be4f, etc. 
+
+1. ... Bxc4 2. Qxc4, etc. 
+
+Other variations. 
+
+

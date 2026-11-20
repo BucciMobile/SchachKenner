@@ -1,0 +1,257 @@
+{
+ "alternate_locations": {
+  "servers": [
+   {
+    "server": "dn711109.ca.archive.org",
+    "dir": "/0/items/bub_gb_cikCAAAAYAAJ"
+   },
+   {
+    "server": "dn760006.eu.archive.org",
+    "dir": "/0/items/bub_gb_cikCAAAAYAAJ"
+   }
+  ],
+  "workable": [
+   {
+    "server": "dn711109.ca.archive.org",
+    "dir": "/0/items/bub_gb_cikCAAAAYAAJ"
+   },
+   {
+    "server": "dn760006.eu.archive.org",
+    "dir": "/0/items/bub_gb_cikCAAAAYAAJ"
+   }
+  ]
+ },
+ "created": 1795169414,
+ "d1": "ia601604.us.archive.org",
+ "d2": "ia801604.us.archive.org",
+ "dir": "/16/items/bub_gb_cikCAAAAYAAJ",
+ "files": [
+  {
+   "name": "__ia_thumb.jpg",
+   "source": "original",
+   "mtime": "1711831254",
+   "size": "9414",
+   "md5": "c14195ac266f528a4279ea592085ab0a",
+   "crc32": "50a5ce62",
+   "sha1": "1777741cce1c1f11da9c386e762a0299b5c55de8",
+   "format": "Item Tile"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ.djvu",
+   "source": "derivative",
+   "format": "DjVu",
+   "original": "bub_gb_cikCAAAAYAAJ_djvu.xml",
+   "mtime": "1423360568",
+   "size": "9542587",
+   "md5": "5eb84a969d61a6b00918b15090b97782",
+   "crc32": "2f4fd470",
+   "sha1": "d45aff02b49fdd3ce78907e1d2d9873d8eee1b4c"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ.gif",
+   "source": "derivative",
+   "format": "Animated GIF",
+   "original": "bub_gb_cikCAAAAYAAJ_jp2.zip",
+   "mtime": "1423356343",
+   "size": "195039",
+   "md5": "e812c0cd6725678659a08d04b03c374e",
+   "crc32": "98eb6684",
+   "sha1": "67b03418b8e0442dd6d8a31b393455b5ae545d0c"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ.pdf",
+   "source": "derivative",
+   "format": "Text PDF",
+   "original": "bub_gb_cikCAAAAYAAJ_djvu.xml",
+   "mtime": "1423361625",
+   "size": "15175348",
+   "md5": "1e74b4b25cf3e44e33607507f7cf31fb",
+   "crc32": "7b77696f",
+   "sha1": "82770126337fe18d7c0eaca19fa947745eeebbaa"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ_abbyy.gz",
+   "source": "derivative",
+   "format": "Abbyy GZ",
+   "original": "bub_gb_cikCAAAAYAAJ_jp2.zip",
+   "mtime": "1423359669",
+   "size": "2720254",
+   "md5": "d8356ceb6ff915e2665a79b76de24eac",
+   "crc32": "d035e883",
+   "sha1": "67b3079e39400777d124195cec181d3aa2ff0219"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ_archive.torrent",
+   "source": "metadata",
+   "btih": "fbd3d001f98cbd0a3fb927ed88873bf029e6282f",
+   "mtime": "1482438431",
+   "size": "10691",
+   "md5": "f7bcca9d95675f076d8ae0fb2b43aeb4",
+   "crc32": "4ce25439",
+   "sha1": "88cb647d1041a0afd479831948a5c12f1974e0c3",
+   "format": "Archive BitTorrent"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ_dc.xml",
+   "source": "original",
+   "format": "Dublin Core",
+   "mtime": "1423355705",
+   "size": "1138",
+   "md5": "57fd9519135201d877dcd5ee22b03ca9",
+   "crc32": "9760adb2",
+   "sha1": "69ea59694cb538db64c1d5baacbb36774226d233"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ_djvu.txt",
+   "source": "derivative",
+   "format": "DjVuTXT",
+   "original": "bub_gb_cikCAAAAYAAJ.djvu",
+   "mtime": "1423361758",
+   "size": "187392",
+   "md5": "83133822b69b7b8825383757e1cd2061",
+   "crc32": "339b4873",
+   "sha1": "fbd5d4672f1ecf15864af1b2e26e40b569940fb1"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ_djvu.xml",
+   "source": "derivative",
+   "format": "Djvu XML",
+   "original": "bub_gb_cikCAAAAYAAJ_abbyy.gz",
+   "mtime": "1423359745",
+   "size": "2617647",
+   "md5": "e34829ed26bc43392f21ea69c5e2b9c9",
+   "crc32": "ed41f7eb",
+   "sha1": "a0a6a1aa8209ce3cd7e7da6ea5f9a573a8c0d88a"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ_files.xml",
+   "source": "original",
+   "format": "Metadata",
+   "md5": "605aaa1a172c136f4fabebd3b9a80036",
+   "summation": "md5"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ_images.tar",
+   "source": "original",
+   "mtime": "1423355281",
+   "size": "71557120",
+   "md5": "56cee162c039c7f58d01ce05f171c78c",
+   "crc32": "bb8fd585",
+   "sha1": "58fd8a3ef0dad90417a8ca6dccbbd29ba4140054",
+   "format": "Generic Raw Book Tar",
+   "filecount": "268"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ_jp2.zip",
+   "source": "derivative",
+   "format": "Single Page Processed JP2 ZIP",
+   "original": "bub_gb_cikCAAAAYAAJ_images.tar",
+   "mtime": "1423356280",
+   "size": "80456457",
+   "md5": "b96b061a5e10e71e094ec08019f60b79",
+   "crc32": "567ec19f",
+   "sha1": "1d9a7e7a29e8aa913a1d7dd49eccda5622ee1d96",
+   "filecount": "268"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ_marc.xml",
+   "source": "original",
+   "format": "MARC",
+   "mtime": "1423355705",
+   "size": "4127",
+   "md5": "dee245835aa81bcc98799e4b723c67d9",
+   "crc32": "02c8b54a",
+   "sha1": "66170eb370d998a6a2b1a2c29b58051d80c63329"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ_meta.mrc",
+   "source": "original",
+   "format": "MARC Binary",
+   "mtime": "1423355705",
+   "size": "1249",
+   "md5": "f1e05f4c4fdb23d70f2bee5caeef309a",
+   "crc32": "f37d1fed",
+   "sha1": "24879a2bc12d71479e313c8c642f270d41e2345d"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ_meta.sqlite",
+   "source": "original",
+   "mtime": "1462217684",
+   "size": "9216",
+   "format": "Metadata",
+   "md5": "bd82deeafd81796f2703850d78f7a7f5",
+   "crc32": "baf830e7",
+   "sha1": "e7e28e2777fc3ab4784cea8c6e72c14c89cf1f48"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ_meta.xml",
+   "source": "original",
+   "mtime": "1482438430",
+   "size": "1703",
+   "format": "Metadata",
+   "md5": "f287c9d5ceec60463f04c1c80e37ed43",
+   "crc32": "a435cb9a",
+   "sha1": "86243dc65173e20baf352c3f5837b1458b21de91"
+  },
+  {
+   "name": "bub_gb_cikCAAAAYAAJ_scandata.xml",
+   "source": "derivative",
+   "format": "Scandata",
+   "original": "bub_gb_cikCAAAAYAAJ_djvu.xml",
+   "mtime": "1423360574",
+   "size": "80503",
+   "md5": "e09736fee6688a82d8198c09b61537f1",
+   "crc32": "cff90930",
+   "sha1": "f92ba48ad68027ba86b4d69a99a5709d8fba7e0d"
+  }
+ ],
+ "files_count": 17,
+ "item_last_updated": 1711831254,
+ "item_size": 182569885,
+ "metadata": {
+  "identifier": "bub_gb_cikCAAAAYAAJ",
+  "creator": [
+   "Philidor, F. D. (François Danican), 1726-1795",
+   "Montigny"
+  ],
+  "date": "1803",
+  "google-id": "cikCAAAAYAAJ",
+  "language": "fre",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "mediatype": "texts",
+  "publisher": "Paris, A. König; [etc., etc.]",
+  "scanner": "google",
+  "source": "http://books.google.com/books?id=cikCAAAAYAAJ&hl=&source=gbs_api",
+  "sponsor": "Google",
+  "subject": [
+   "bub_upload",
+   "Chess"
+  ],
+  "title": "Analyse du jeu des échecs, avec une nouvelle notation abrégée, et des planches où se trouve figurée la situation du jeu pour les renvois et les fins de parties;",
+  "year": "1803",
+  "publicdate": "2015-02-08 00:28:02",
+  "collection": "americana",
+  "uploader": "tools.bub@tools.wmflabs.org",
+  "addeddate": "2015-02-08 00:28:02",
+  "curation": "[curator]validator@archive.org[/curator][date]20150208002848[/date][comment]checked for malware[/comment]",
+  "oclc-id": "7057532",
+  "description": [
+   "Ed. by Montigny",
+   "Frank J. Marshall Chess Coll",
+   "Mode of access: Internet"
+  ],
+  "contributor": "New York Public Library",
+  "identifier-access": "http://archive.org/details/bub_gb_cikCAAAAYAAJ",
+  "identifier-ark": "ark:/13960/t15m9fj56",
+  "imagecount": "269",
+  "ocr": "ABBYY FineReader 9.0",
+  "repub_state": "4",
+  "backup_location": "ia905300_30"
+ },
+ "server": "ia801604.us.archive.org",
+ "uniq": 12841458,
+ "workable_servers": [
+  "ia801604.us.archive.org",
+  "ia601604.us.archive.org"
+ ]
+}

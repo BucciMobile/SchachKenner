@@ -1,0 +1,307 @@
+{
+ "alternate_locations": {
+  "servers": [
+   {
+    "server": "dn760102.eu.archive.org",
+    "dir": "/0/items/nimzowitsch-my-system"
+   },
+   {
+    "server": "dn790000.ca.archive.org",
+    "dir": "/0/items/nimzowitsch-my-system"
+   }
+  ],
+  "workable": [
+   {
+    "server": "dn760102.eu.archive.org",
+    "dir": "/0/items/nimzowitsch-my-system"
+   },
+   {
+    "server": "dn790000.ca.archive.org",
+    "dir": "/0/items/nimzowitsch-my-system"
+   }
+  ]
+ },
+ "created": 1795159685,
+ "d1": "ia600101.us.archive.org",
+ "d2": "ia800101.us.archive.org",
+ "dir": "/28/items/nimzowitsch-my-system",
+ "files": [
+  {
+   "name": "__ia_thumb.jpg",
+   "source": "original",
+   "mtime": "1699942285",
+   "size": "19042",
+   "md5": "e6dd821d1e23c3c4e4b9340e38774c0c",
+   "crc32": "7893e7de",
+   "sha1": "3e600c65592b107197ddd8e8e1682e7043a93c10",
+   "format": "Item Tile",
+   "rotation": "0"
+  },
+  {
+   "name": "nimzowitsch - my system.epub",
+   "source": "derivative",
+   "original": "nimzowitsch - my system_hocr.html",
+   "mtime": "1699942283",
+   "size": "383447",
+   "md5": "fd506fb266cbe975c7c437e43040950e",
+   "crc32": "350d6a72",
+   "sha1": "595a63d851b5eed7ce79cb8284680374c2fce524",
+   "format": "EPUB"
+  },
+  {
+   "name": "nimzowitsch - my system.pdf",
+   "source": "original",
+   "mtime": "1608921274",
+   "size": "48748777",
+   "md5": "00be4de708a623de6e1389cf70aaf3b2",
+   "crc32": "62172067",
+   "sha1": "d1d6440764538512b930184febd63dad59c62804",
+   "format": "Image Container PDF"
+  },
+  {
+   "name": "nimzowitsch - my system_chocr.html.gz",
+   "source": "derivative",
+   "format": "chOCR",
+   "original": "nimzowitsch - my system_jp2.zip",
+   "mtime": "1608925471",
+   "size": "7285491",
+   "md5": "40b1d70d0eff138f12cb06c1f14e0602",
+   "crc32": "3557e87e",
+   "sha1": "ebe8596ef2945034c6b9585f9ee8ad20d7589002"
+  },
+  {
+   "name": "nimzowitsch - my system_daisy.zip",
+   "source": "derivative",
+   "hocr_epub_module_version": "0.0.1",
+   "hocr_epub_hocr_version": "1.1.62",
+   "format": "Daisy",
+   "original": "nimzowitsch - my system_hocr.html",
+   "mtime": "1753976171",
+   "size": "300853",
+   "md5": "b147e30b12ab9b45b0e084f08161d59e",
+   "crc32": "f55130af",
+   "sha1": "4b2c197a62b70b84204753d05928c94d3120b038",
+   "filecount": "9"
+  },
+  {
+   "name": "nimzowitsch - my system_djvu.txt",
+   "source": "derivative",
+   "format": "DjVuTXT",
+   "original": "nimzowitsch - my system_djvu.xml",
+   "mtime": "1753976209",
+   "size": "545806",
+   "md5": "1233619a69ef59947d4a9a59d05802ce",
+   "crc32": "c7f451a0",
+   "sha1": "bbf00595ccb7a7a8658a1d7cc3cffe77aebb9682"
+  },
+  {
+   "name": "nimzowitsch - my system_djvu.xml",
+   "source": "derivative",
+   "format": "Djvu XML",
+   "original": "nimzowitsch - my system_hocr.html",
+   "mtime": "1753975942",
+   "size": "7380901",
+   "md5": "5421c743ebd16ac769a9d0f451ecaf10",
+   "crc32": "7a6aaca8",
+   "sha1": "3a129095b4bcaf2a7c895b60d442769fcd780438"
+  },
+  {
+   "name": "nimzowitsch - my system_hocr.html",
+   "source": "derivative",
+   "hocr_char_to_word_module_version": "1.0.0",
+   "hocr_char_to_word_hocr_version": "1.1.2",
+   "format": "hOCR",
+   "original": "nimzowitsch - my system_chocr.html.gz",
+   "mtime": "1615316302",
+   "size": "13907230",
+   "md5": "f90ec574dd0789c4c3ff7ec9ff612e33",
+   "crc32": "6e25930c",
+   "sha1": "913a1f2da4bbb1d387989ea549126a40f97dfa2c"
+  },
+  {
+   "name": "nimzowitsch - my system_hocr_pageindex.json.gz",
+   "source": "derivative",
+   "hocr_pageindex_module_version": "1.0.0",
+   "hocr_pageindex_hocr_version": "1.1.0",
+   "format": "OCR Page Index",
+   "original": "nimzowitsch - my system_hocr.html",
+   "mtime": "1615316359",
+   "size": "3253",
+   "md5": "153b942c1e2c21e02dcb164042db68f9",
+   "crc32": "10fad23a",
+   "sha1": "a78815269a94ba6f2464a4bb857e9128d08c6534"
+  },
+  {
+   "name": "nimzowitsch - my system_hocr_searchtext.txt.gz",
+   "source": "derivative",
+   "hocr_fts_text_module_version": "1.0.0",
+   "hocr_fts_text_hocr_version": "1.1.0",
+   "word_conf_0_10": "511",
+   "word_conf_11_20": "306",
+   "word_conf_21_30": "463",
+   "word_conf_31_40": "579",
+   "word_conf_41_50": "716",
+   "word_conf_51_60": "799",
+   "word_conf_61_70": "1071",
+   "word_conf_71_80": "1891",
+   "word_conf_81_90": "6427",
+   "word_conf_91_100": "80139",
+   "format": "OCR Search Text",
+   "original": "nimzowitsch - my system_hocr.html",
+   "mtime": "1615316409",
+   "size": "202943",
+   "md5": "f2df42309c5d18f2d82e9387ab24bca2",
+   "crc32": "b0373b99",
+   "sha1": "9813376d69e1991c06b0acc61b4291a3d3fe6c6d"
+  },
+  {
+   "name": "nimzowitsch - my system_jp2.zip",
+   "source": "derivative",
+   "format": "Single Page Processed JP2 ZIP",
+   "original": "nimzowitsch - my system.pdf",
+   "mtime": "1608922621",
+   "size": "69345818",
+   "md5": "46fa2ac616ebb42a09dc312182a981b8",
+   "crc32": "3ece6396",
+   "sha1": "9cd89a3fac7522df001c5003b6f0072f9f019688",
+   "filecount": "270"
+  },
+  {
+   "name": "nimzowitsch - my system_page_numbers.json",
+   "source": "derivative",
+   "hocr_pagenumber_module_version": "1.0.5",
+   "hocr_pagenumber_hocr_version": "1.1.54",
+   "hocr_pagenumber_confidence": "97",
+   "format": "Page Numbers JSON",
+   "original": "nimzowitsch - my system_hocr.html",
+   "mtime": "1753976590",
+   "size": "45448",
+   "md5": "38f30caccc78d50db06bea06dfa42975",
+   "crc32": "78b19fe1",
+   "sha1": "35bb8a7d73a20e63753a125dcd0799bd1742df0f"
+  },
+  {
+   "name": "nimzowitsch - my system_scandata.xml",
+   "source": "derivative",
+   "format": "Scandata",
+   "original": "nimzowitsch - my system_djvu.xml",
+   "mtime": "1753976590",
+   "size": "95826",
+   "md5": "3057fab65b197fc921f62525ace0e237",
+   "crc32": "a141fbab",
+   "sha1": "d94aebdd843e10892329488ce69c88e0febd8d97"
+  },
+  {
+   "name": "nimzowitsch - my system_text.pdf",
+   "source": "derivative",
+   "pdf_module_version": "0.0.25",
+   "pdf_degraded": "invalid-jp2-headers",
+   "format": "Additional Text PDF",
+   "original": "nimzowitsch - my system_page_numbers.json",
+   "mtime": "1753978192",
+   "size": "15217755",
+   "md5": "06d95bb8c05369c4c00277fd1a854e17",
+   "crc32": "136c6cee",
+   "sha1": "63b13bfdc88b3f12b5c10d8d03baf168166a5ccc"
+  },
+  {
+   "name": "nimzowitsch-my-system_archive.torrent",
+   "source": "metadata",
+   "btih": "3c0c6ff476686c34617ebca5bde5f6c761f24b37",
+   "mtime": "1767559059",
+   "size": "10426",
+   "md5": "fe8d756862e85c1da2c49cbb1928acd2",
+   "crc32": "f7c43bb1",
+   "sha1": "e99d3c3910ba2fa2c47147dee32be70bcfef9695",
+   "format": "Archive BitTorrent"
+  },
+  {
+   "name": "nimzowitsch-my-system_files.xml",
+   "source": "original",
+   "format": "Metadata",
+   "md5": "53659a1ffaff271c15c87d0ac6b89e18",
+   "summation": "md5"
+  },
+  {
+   "name": "nimzowitsch-my-system_meta.sqlite",
+   "source": "original",
+   "mtime": "1608921311",
+   "size": "23552",
+   "md5": "deef3c94a5bf8b0d16568c3427e50714",
+   "crc32": "2f61602c",
+   "sha1": "8c2cec1c894c9be40337c8d5284f4ac1358525c7",
+   "format": "Metadata"
+  },
+  {
+   "name": "nimzowitsch-my-system_meta.xml",
+   "source": "original",
+   "mtime": "1767559056",
+   "size": "4791",
+   "md5": "f5ef135643acac40d9ca32df6368d6f1",
+   "crc32": "ea7dd32e",
+   "sha1": "8e2c038b33d768728689d23bae33b60af72e5f98",
+   "format": "Metadata"
+  }
+ ],
+ "files_count": 18,
+ "item_last_updated": 1767559059,
+ "item_size": 163521359,
+ "metadata": {
+  "identifier": "nimzowitsch-my-system",
+  "mediatype": "texts",
+  "collection": [
+   "folkscanomy_chess",
+   "folkscanomy"
+  ],
+  "creator": "Aron Nimzowitsch",
+  "date": "1925",
+  "description": "<div><br /></div><div><br /></div><div><br /></div><div><a class=\"bookTitle\" href=\"https://www.goodreads.com/book/show/1430989.My_System\" rel=\"ugc nofollow\">\n        <span>My System</span>\n</a>      <br /><span class=\"by\">by</span>\n<span>\n</span><div class=\"authorName__container\">\n<a class=\"authorName\" href=\"https://www.goodreads.com/author/show/48746.Aron_Nimzowitsch\" rel=\"ugc nofollow\"><span>Aron Nimzowitsch</span></a></div><div class=\"authorName__container\"><br /></div><div class=\"authorName__container\"><br /></div><div class=\"authorName__container\"><h1 class=\"firstHeading\" lang=\"en\" xml:lang=\"en\"><i>My System</i></h1>\n\t<div class=\"mw-body-content\">\n\t\t<div class=\"noprint\">From Wikipedia, the free encyclopedia</div>\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t<div dir=\"ltr\" class=\"mw-content-ltr\" lang=\"en\" xml:lang=\"en\"><div class=\"mw-parser-output\"><dl><dd><i>For the book on exercise, see <a href=\"https://en.wikipedia.org/wiki/J%C3%B8rgen_Peter_M%C3%BCller\" title=\"Jørgen Peter Müller\" rel=\"ugc nofollow\">Jørgen Peter Müller</a></i></dd></dl><div class=\"thumb tright\"><div class=\"thumbinner\" style=\"width:162px;\"><a href=\"https://en.wikipedia.org/wiki/File:MySystem.jpg\" class=\"image\" rel=\"ugc nofollow\"><img alt=\"\" src=\"//web.archive.org/web/2im_/https://upload.wikimedia.org/wikipedia/en/thumb/1/19/MySystem.jpg/160px-MySystem.jpg\" class=\"thumbimage\" width=\"160\" height=\"246\" /></a>  </div></div></div></div></div><div class=\"thumb tright\"><div class=\"thumbinner\" style=\"width:162px;\"><div class=\"thumbcaption\"><i>My System: 21st Century Edition</i> front cover</div></div></div>\n<p><i><b>My System</b></i> (<a href=\"https://en.wikipedia.org/wiki/German_language\" title=\"German language\" rel=\"ugc nofollow\">German</a>: <i lang=\"de\" xml:lang=\"de\">Mein System</i>) is a <a href=\"https://en.wikipedia.org/wiki/Book\" title=\"Book\" rel=\"ugc nofollow\">book</a> on <a href=\"https://en.wikipedia.org/wiki/Chess\" title=\"Chess\" rel=\"ugc nofollow\">chess</a> theory written by <a href=\"https://en.wikipedia.org/wiki/Aron_Nimzowitsch\" title=\"Aron Nimzowitsch\" rel=\"ugc nofollow\">Aron Nimzowitsch</a>. Originally over a series of five brochures from 1925 to 1927, the book—one of the early works on <a href=\"https://en.wikipedia.org/wiki/Hypermodernism_(chess)\" title=\"Hypermodernism (chess)\" rel=\"ugc nofollow\">hypermodernism</a>—introduced\n many new concepts to followers of the modern school of thought. It is \ngenerally considered to be one of the most important books in the \nhistory of chess.<sup class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/My_System#cite_note-1\" rel=\"ugc nofollow\">[1]</a></sup></p></div><div class=\"authorName__container\"><br /></div>\n</div>",
+  "language": "eng",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+  "subject": "My System by Aron Nimzowitsch chess",
+  "title": "My System by Aron Nimzowitsch",
+  "uploader": "hullajump@yahoo.fr",
+  "publicdate": "2020-12-25 18:34:58",
+  "addeddate": "2020-12-25 18:34:58",
+  "curation": "[curator]validator@archive.org[/curator][date]20201225183535[/date][comment]checked for malware[/comment]",
+  "identifier-access": "http://archive.org/details/nimzowitsch-my-system",
+  "identifier-ark": "ark:/13960/t3tv4hg0p",
+  "ppi": "600",
+  "ocr": "tesseract 4.1.1",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.10",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "97",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "server": "ia600101.us.archive.org",
+ "simplelists": {
+  "flagged_as_bad_metadata": {
+   "@bob_scaccia": {
+    "sys_changed_by": {
+     "source": "details page"
+    },
+    "sys_last_changed": "2025-12-12 20:36:53.544176"
+   }
+  },
+  "flagged_as_disinformation": {
+   "@sasha_pavljenko": {
+    "sys_changed_by": {
+     "source": "details page"
+    },
+    "sys_last_changed": "2026-10-04 06:28:50.55697"
+   }
+  }
+ },
+ "uniq": 723874643,
+ "workable_servers": [
+  "ia600101.us.archive.org",
+  "ia800101.us.archive.org"
+ ]
+}

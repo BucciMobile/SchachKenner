@@ -1,0 +1,268 @@
+{
+ "alternate_locations": {
+  "servers": [
+   {
+    "server": "dn711000.ca.archive.org",
+    "dir": "/0/items/LarobokISchackForNyborjare"
+   },
+   {
+    "server": "dn760107.eu.archive.org",
+    "dir": "/0/items/LarobokISchackForNyborjare"
+   }
+  ],
+  "workable": [
+   {
+    "server": "dn711000.ca.archive.org",
+    "dir": "/0/items/LarobokISchackForNyborjare"
+   },
+   {
+    "server": "dn760107.eu.archive.org",
+    "dir": "/0/items/LarobokISchackForNyborjare"
+   }
+  ]
+ },
+ "created": 1795169509,
+ "d1": "ia903103.us.archive.org",
+ "d2": "ia803103.us.archive.org",
+ "dir": "/33/items/LarobokISchackForNyborjare",
+ "files": [
+  {
+   "name": "LarobokISchackForNyborjare.epub",
+   "source": "derivative",
+   "original": "LarobokISchackForNyborjare_abbyy.gz",
+   "mtime": "1700261110",
+   "size": "190496618",
+   "md5": "23b26a40badbb01454daab22ac55e5f7",
+   "crc32": "ea606c46",
+   "sha1": "c46ede9221579936c43df23a47540d23c1d6d241",
+   "format": "EPUB"
+  },
+  {
+   "name": "LarobokISchackForNyborjare.pdf",
+   "source": "derivative",
+   "format": "Text PDF",
+   "original": "LarobokISchackForNyborjare_abbyy.gz",
+   "mtime": "1527204830",
+   "size": "9186752",
+   "md5": "ef2fc62e3de283e5cff877df9862f6fe",
+   "crc32": "1721706c",
+   "sha1": "786f368434264ee1966e0aeebfcf12125df47a06"
+  },
+  {
+   "name": "LarobokISchackForNyborjare_abbyy.gz",
+   "source": "derivative",
+   "format": "Abbyy GZ",
+   "original": "LarobokISchackForNyborjare_jp2.zip",
+   "mtime": "1527204066",
+   "size": "3353438",
+   "md5": "6ba61210a462fb3a70865bceed95fb42",
+   "crc32": "a8a6295d",
+   "sha1": "c68aed0b106f97462423e94cf62f67293dafd769"
+  },
+  {
+   "name": "LarobokISchackForNyborjare_archive.torrent",
+   "source": "metadata",
+   "btih": "e7ef650d09409d7ab678cdadf3814f9e359c1e7c",
+   "mtime": "1703847382",
+   "size": "32410",
+   "md5": "7dce4bc699100a68e952d454f80d23d5",
+   "crc32": "1a6d005e",
+   "sha1": "42db855b53866939c74094db40ecf6000337db07",
+   "format": "Archive BitTorrent"
+  },
+  {
+   "name": "LarobokISchackForNyborjare_daisy.zip",
+   "source": "derivative",
+   "original": "LarobokISchackForNyborjare_abbyy.gz",
+   "mtime": "1703847373",
+   "size": "185018",
+   "md5": "fca4d1539e76f7f6baa1551dfaef5506",
+   "crc32": "d953c664",
+   "sha1": "90de1c2cec675ccb77af9a9248eb2b685d2aed5b",
+   "format": "Daisy",
+   "filecount": "9"
+  },
+  {
+   "name": "LarobokISchackForNyborjare_dc.xml",
+   "source": "original",
+   "format": "Dublin Core",
+   "mtime": "1527202257",
+   "size": "755",
+   "md5": "011a11d83f467c3b0f8d0045777c5878",
+   "crc32": "b6c343d2",
+   "sha1": "ed194c56db15e757743f6d3cd9a109900b33c71a"
+  },
+  {
+   "name": "LarobokISchackForNyborjare_djvu.txt",
+   "source": "derivative",
+   "format": "DjVuTXT",
+   "original": "LarobokISchackForNyborjare_djvu.xml",
+   "mtime": "1527204143",
+   "size": "220062",
+   "md5": "13972328e94af624f15352e851502b97",
+   "crc32": "d0bdd21d",
+   "sha1": "e86b7cbec51f302784d3d5fe6686f345c198bec0"
+  },
+  {
+   "name": "LarobokISchackForNyborjare_djvu.xml",
+   "source": "derivative",
+   "format": "Djvu XML",
+   "original": "LarobokISchackForNyborjare_abbyy.gz",
+   "mtime": "1527204140",
+   "size": "2570320",
+   "md5": "acf9b1d88b464ef037e461c15dd75ded",
+   "crc32": "c9711141",
+   "sha1": "d0ef80975c23ac0c7947649a6f0297a635cb2e77"
+  },
+  {
+   "name": "LarobokISchackForNyborjare_files.xml",
+   "source": "original",
+   "format": "Metadata",
+   "md5": "60cd4ac9a49922bf285f76a05908ebe1",
+   "summation": "md5"
+  },
+  {
+   "name": "LarobokISchackForNyborjare_images.zip",
+   "source": "original",
+   "mtime": "1527202004",
+   "size": "1143813869",
+   "md5": "b10025925d6944aedf328356ec4c9db4",
+   "crc32": "098db96c",
+   "sha1": "3d055fbac9f4fec05d0c0c05d3fe48cefba7717e",
+   "format": "Generic Raw Book Zip",
+   "filecount": "192"
+  },
+  {
+   "name": "LarobokISchackForNyborjare_jp2.zip",
+   "source": "derivative",
+   "format": "Single Page Processed JP2 ZIP",
+   "original": "LarobokISchackForNyborjare_images.zip",
+   "mtime": "1527202958",
+   "size": "125741191",
+   "md5": "fc740a27b8a4a5c5eb4dd56a85130709",
+   "crc32": "2a330da2",
+   "sha1": "b0fc1379f12b7f8ce37f13ff93d65c050e14c7c0",
+   "filecount": "192"
+  },
+  {
+   "name": "LarobokISchackForNyborjare_marc.xml",
+   "source": "original",
+   "format": "MARC",
+   "mtime": "1527202256",
+   "size": "1831",
+   "md5": "e7a4a604e03b5517cdd817d903b14766",
+   "crc32": "6f711a84",
+   "sha1": "b79653ea73176a2eeeb8a2f8f2d864e4d970ce90"
+  },
+  {
+   "name": "LarobokISchackForNyborjare_meta.mrc",
+   "source": "original",
+   "mtime": "1527202027",
+   "size": "604",
+   "md5": "3d5e9353ec6ff2c1d8da6d6a46fa60b6",
+   "crc32": "31184bb5",
+   "sha1": "2c6101dc4326a2d11bb8472c3d96188d8391d176",
+   "format": "MARC Binary"
+  },
+  {
+   "name": "LarobokISchackForNyborjare_meta.sqlite",
+   "source": "original",
+   "mtime": "1585352991",
+   "size": "14336",
+   "format": "Metadata",
+   "md5": "9e6b27e4acbcbbb23353d168007a2e09",
+   "crc32": "a8e5bff3",
+   "sha1": "d18923370fd03e25db7545a335af9a514147f344"
+  },
+  {
+   "name": "LarobokISchackForNyborjare_meta.xml",
+   "source": "original",
+   "mtime": "1681508010",
+   "size": "1477",
+   "format": "Metadata",
+   "md5": "fa09a884fffd6fcebcfcd8fb1b5cced6",
+   "crc32": "0368fb5d",
+   "sha1": "8df9b42631be2694dbdfbd5fb8667019f3996303"
+  },
+  {
+   "name": "LarobokISchackForNyborjare_scandata.xml",
+   "source": "original",
+   "mtime": "1585352977",
+   "size": "64344",
+   "md5": "d4b62437a6284fb836db73d79a3e0686",
+   "crc32": "3744d914",
+   "sha1": "296693f96ff5d10bee336ebeed0ec4c81b8b210e",
+   "format": "Scandata"
+  },
+  {
+   "name": "__ia_thumb.jpg",
+   "source": "original",
+   "mtime": "1681508012",
+   "size": "11520",
+   "md5": "7929fbd50654952f43e63722e9f16880",
+   "crc32": "0a356221",
+   "sha1": "b4710819c5893a616637459ad878daebe22c2e88",
+   "format": "JPEG Thumb",
+   "rotation": "0"
+  },
+  {
+   "name": "history/files/LarobokISchackForNyborjare_scandata.xml.~1~",
+   "source": "derivative",
+   "format": "Scandata",
+   "original": "LarobokISchackForNyborjare_djvu.xml",
+   "mtime": "1527235950",
+   "size": "64343",
+   "md5": "1e653f7e389d62ab57e175449e25ce25",
+   "crc32": "1f229e6c",
+   "sha1": "25c3dffdac29b74fe3d5af5221d9ddd2ed7ce5c3",
+   "old_version": "true"
+  }
+ ],
+ "files_count": 18,
+ "item_last_updated": 1703847382,
+ "item_size": 1475758888,
+ "metadata": {
+  "identifier": "LarobokISchackForNyborjare",
+  "mediatype": "texts",
+  "description": [
+   "Inbunden bok 12 x 17,5 cm.",
+   "192 s"
+  ],
+  "language": "swe",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "ppi": "600",
+  "scanner": "Internet Archive HTML5 Uploader 1.6.3",
+  "title": "Lärobok i schack för nybörjare",
+  "publicdate": "2018-05-24 22:46:45",
+  "uploader": "jocke.axner@gmail.com",
+  "addeddate": "2018-05-24 22:46:45",
+  "curation": "[curator]validator@archive.org[/curator][date]20180524224946[/date][comment]checked for malware[/comment]",
+  "creator": "Collijn, Ludvig, 1878-1939",
+  "publisher": "Stockholm : F. Englunds förl.",
+  "date": "1920",
+  "identifier-access": "http://archive.org/details/LarobokISchackForNyborjare",
+  "identifier-ark": "ark:/13960/t6f25s63q",
+  "imagecount": "192",
+  "ocr": "ABBYY FineReader 11.0 (Extended OCR)",
+  "subject": [
+   "Chess",
+   "Schack"
+  ],
+  "year": "1920",
+  "foldoutcount": "0",
+  "openlibrary_edition": "OL26454327M",
+  "openlibrary_work": "OL17873319W",
+  "backup_location": "ia906705_25",
+  "coverleaf": "0",
+  "collection": [
+   "booksbylanguage_swedish",
+   "booksbylanguage"
+  ]
+ },
+ "server": "ia803103.us.archive.org",
+ "uniq": 323948250,
+ "workable_servers": [
+  "ia803103.us.archive.org",
+  "ia903103.us.archive.org"
+ ]
+}

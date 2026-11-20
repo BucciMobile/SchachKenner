@@ -1,0 +1,255 @@
+{
+ "alternate_locations": {
+  "servers": [
+   {
+    "server": "dn711301.ca.archive.org",
+    "dir": "/0/items/3-5_pertrov_chess"
+   }
+  ],
+  "workable": [
+   {
+    "server": "dn711301.ca.archive.org",
+    "dir": "/0/items/3-5_pertrov_chess"
+   }
+  ]
+ },
+ "created": 1795169438,
+ "d1": "ia600902.us.archive.org",
+ "d2": "ia800902.us.archive.org",
+ "dir": "/20/items/3-5_pertrov_chess",
+ "files": [
+  {
+   "name": "3-5_pertrov_chess_archive.torrent",
+   "source": "metadata",
+   "btih": "85c2f41392ddc0ae7ad625fc77d47767212e1e0b",
+   "mtime": "1791165125",
+   "size": "7769",
+   "md5": "5a47af47125619473a500cda805af1ff",
+   "crc32": "3324f2be",
+   "sha1": "b81321ac4839227f89893fc66e263aaa32a7c8e3",
+   "format": "Archive BitTorrent"
+  },
+  {
+   "name": "3-5_pertrov_chess_files.xml",
+   "source": "original",
+   "format": "Metadata",
+   "md5": "19d4a35f67ddcda5a7fd9b049bcf6e9b",
+   "summation": "md5"
+  },
+  {
+   "name": "3-5_pertrov_chess_meta.sqlite",
+   "source": "original",
+   "mtime": "1777988768",
+   "size": "20480",
+   "md5": "219db7a925ce3559367dd257c658eb79",
+   "crc32": "88828a18",
+   "sha1": "7d98436bcc3d9d9c6bada33c1049be7a54e0ce99",
+   "format": "Metadata"
+  },
+  {
+   "name": "3-5_pertrov_chess_meta.xml",
+   "source": "original",
+   "mtime": "1791165123",
+   "size": "1824",
+   "md5": "a94a1be81009314e3df34de9b62f8a00",
+   "crc32": "f2184a38",
+   "sha1": "c20a3f08f01dc82edd5224ea7e6417288e839ce8",
+   "format": "Metadata"
+  },
+  {
+   "name": "__ia_thumb.jpg",
+   "source": "original",
+   "mtime": "1777990528",
+   "size": "16783",
+   "md5": "153f9f98b96cc8d33a93954b56874178",
+   "crc32": "f83143b8",
+   "sha1": "a50581310151b7ece73089514ca4d76b7a58248c",
+   "format": "Item Tile"
+  },
+  {
+   "name": "Петров. Шахматная игра. Ч.3-5.pdf",
+   "source": "original",
+   "mtime": "1777988730",
+   "size": "53507358",
+   "md5": "9fc500f826779b25a26677d67f0be7a7",
+   "crc32": "2cc6afb2",
+   "sha1": "1ff174add1c17312d306e8fcf1d7942d735eb477",
+   "format": "Text PDF"
+  },
+  {
+   "name": "Петров. Шахматная игра. Ч.3-5_chocr.html.gz",
+   "source": "derivative",
+   "ocr": "tesseract 5.3.0-6-g76ae",
+   "ocr_parameters": "lang-rus;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+   "ocr_module_version": "0.0.21",
+   "ocr_detected_script": "Cyrillic",
+   "ocr_detected_script_conf": "0.6931",
+   "ocr_detected_lang": "ru",
+   "ocr_detected_lang_conf": "1.0000",
+   "format": "chOCR",
+   "original": "Петров. Шахматная игра. Ч.3-5_jp2.zip",
+   "mtime": "1777990172",
+   "size": "2954264",
+   "md5": "a0f2601b7eb7a7d863e750c457bf7aa3",
+   "crc32": "7d47e8da",
+   "sha1": "3fa42d523f5651896aab42b99fb6e36bb18e28b2"
+  },
+  {
+   "name": "Петров. Шахматная игра. Ч.3-5_djvu.txt",
+   "source": "derivative",
+   "format": "DjVuTXT",
+   "original": "Петров. Шахматная игра. Ч.3-5_djvu.xml",
+   "mtime": "1777990329",
+   "size": "304619",
+   "md5": "a10c20e3b947317533e67a7e9d70d60b",
+   "crc32": "0d495e0a",
+   "sha1": "a9b8bb1014f36acf51b6bbf78d8c26b8fc6992c2"
+  },
+  {
+   "name": "Петров. Шахматная игра. Ч.3-5_djvu.xml",
+   "source": "derivative",
+   "format": "Djvu XML",
+   "original": "Петров. Шахматная игра. Ч.3-5_hocr.html",
+   "mtime": "1777990245",
+   "size": "3358757",
+   "md5": "27a405610277fae7016ef3b65ce1076a",
+   "crc32": "46526142",
+   "sha1": "e6461718fdc46ed53cc29869cebf12f6a909790e"
+  },
+  {
+   "name": "Петров. Шахматная игра. Ч.3-5_hocr.html",
+   "source": "derivative",
+   "hocr_char_to_word_module_version": "1.3.0",
+   "hocr_char_to_word_hocr_version": "1.1.56",
+   "ocr_parameters": "lang-rus;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+   "ocr_module_version": "0.0.21",
+   "ocr_detected_script": "Cyrillic",
+   "ocr_detected_script_conf": "0.6931",
+   "ocr_detected_lang": "ru",
+   "ocr_detected_lang_conf": "1.0000",
+   "format": "hOCR",
+   "original": "Петров. Шахматная игра. Ч.3-5_chocr.html.gz",
+   "mtime": "1777990225",
+   "size": "6405198",
+   "md5": "5b11cba7c968fad9b16984ddf6be1013",
+   "crc32": "8ddb569c",
+   "sha1": "7b24066d647f3cd48ca7fda73f4f6c1211e0050c"
+  },
+  {
+   "name": "Петров. Шахматная игра. Ч.3-5_hocr_pageindex.json.gz",
+   "source": "derivative",
+   "hocr_pageindex_module_version": "1.1.0",
+   "hocr_pageindex_hocr_version": "1.1.56",
+   "format": "OCR Page Index",
+   "original": "Петров. Шахматная игра. Ч.3-5_hocr.html",
+   "mtime": "1777990267",
+   "size": "4358",
+   "md5": "3e6b8673969187bbce3cb616b845a0ad",
+   "crc32": "5c3694c7",
+   "sha1": "43639b390144b5aa2a1ed6bb4e16917cc3780d77"
+  },
+  {
+   "name": "Петров. Шахматная игра. Ч.3-5_hocr_searchtext.txt.gz",
+   "source": "derivative",
+   "hocr_fts_text_module_version": "1.2.0",
+   "hocr_fts_text_hocr_version": "1.1.56",
+   "word_conf_0_10": "4663",
+   "word_conf_11_20": "1684",
+   "word_conf_21_30": "1976",
+   "word_conf_31_40": "2212",
+   "word_conf_41_50": "2314",
+   "word_conf_51_60": "2487",
+   "word_conf_61_70": "2689",
+   "word_conf_71_80": "3311",
+   "word_conf_81_90": "5734",
+   "word_conf_91_100": "9591",
+   "format": "OCR Search Text",
+   "original": "Петров. Шахматная игра. Ч.3-5_hocr.html",
+   "mtime": "1777990305",
+   "size": "97785",
+   "md5": "8f8ba7494e55f9cbadcb44adc5d2ce0c",
+   "crc32": "6bd3e6c8",
+   "sha1": "9a1e42379f7096013250f8e73d97f4d5ea935d99"
+  },
+  {
+   "name": "Петров. Шахматная игра. Ч.3-5_jp2.zip",
+   "source": "derivative",
+   "format": "Single Page Processed JP2 ZIP",
+   "original": "Петров. Шахматная игра. Ч.3-5.pdf",
+   "mtime": "1777989541",
+   "size": "35532862",
+   "md5": "afd5897257ff38ea82cc5bd84945b932",
+   "crc32": "bd8db164",
+   "sha1": "604bfe2621ef718295d282793996016e6aee6447",
+   "filecount": "394"
+  },
+  {
+   "name": "Петров. Шахматная игра. Ч.3-5_page_numbers.json",
+   "source": "derivative",
+   "hocr_pagenumber_module_version": "1.0.5",
+   "hocr_pagenumber_hocr_version": "1.1.54",
+   "hocr_pagenumber_confidence": "67",
+   "format": "Page Numbers JSON",
+   "original": "Петров. Шахматная игра. Ч.3-5_hocr.html",
+   "mtime": "1777990495",
+   "size": "66692",
+   "md5": "85d7c3a87c4929644f723220218189a0",
+   "crc32": "06dedf46",
+   "sha1": "d299f90b787fb837e88f7356f8a251773128167a"
+  },
+  {
+   "name": "Петров. Шахматная игра. Ч.3-5_scandata.xml",
+   "source": "derivative",
+   "format": "Scandata",
+   "original": "Петров. Шахматная игра. Ч.3-5_djvu.xml",
+   "mtime": "1777990495",
+   "size": "134908",
+   "md5": "4fe1931d2c90851d1c3cd50811312825",
+   "crc32": "87da9a97",
+   "sha1": "d76b95818703bc36e82d92b6b5a286b9ee685055"
+  }
+ ],
+ "files_count": 15,
+ "item_last_updated": 1791165125,
+ "item_size": 102413657,
+ "metadata": {
+  "identifier": "3-5_pertrov_chess",
+  "mediatype": "texts",
+  "collection": [
+   "booksbylanguage_russian",
+   "booksbylanguage"
+  ],
+  "creator": "Петров А.",
+  "date": "1824",
+  "description": "Петровъ А. Шахматная игра. Ч.III-V.- Санктпетербургъ: Типографiя Н.Греча, 1824.- 394 с.",
+  "language": "rus",
+  "licenseurl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+  "subject": "sports",
+  "title": "Шахматная игра. Ч.III-V",
+  "uploader": "zanko.philipp@gmail.com",
+  "publicdate": "2026-05-05 13:45:52",
+  "addeddate": "2026-05-05 13:45:52",
+  "curation": "[curator]validator@archive.org[/curator][date]20260505134635[/date][comment]checked for malware[/comment]",
+  "identifier-access": "http://archive.org/details/3-5_pertrov_chess",
+  "identifier-ark": "ark:/13960/s26tr0r82bv",
+  "ppi": "300",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l rus",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Cyrillic",
+  "ocr_detected_script_conf": "0.6931",
+  "ocr_detected_lang": "ru",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "67",
+  "page_number_module_version": "1.0.5",
+  "notes": "<a href=\"http://russianlutheran.org/gymnasium/gymnasium.html\" rel=\"ugc nofollow\">Библiотека \"Русскiй Мусейонъ\"</a>",
+  "collection_added": "booksbylanguage"
+ },
+ "server": "ia800902.us.archive.org",
+ "uniq": 1343818680,
+ "workable_servers": [
+  "ia800902.us.archive.org",
+  "ia600902.us.archive.org"
+ ]
+}

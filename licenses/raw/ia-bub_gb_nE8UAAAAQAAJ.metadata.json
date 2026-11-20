@@ -1,0 +1,227 @@
+{
+ "alternate_locations": {
+  "servers": [
+   {
+    "server": "dn760100.eu.archive.org",
+    "dir": "/0/items/bub_gb_nE8UAAAAQAAJ"
+   },
+   {
+    "server": "dn790002.ca.archive.org",
+    "dir": "/0/items/bub_gb_nE8UAAAAQAAJ"
+   }
+  ],
+  "workable": [
+   {
+    "server": "dn760100.eu.archive.org",
+    "dir": "/0/items/bub_gb_nE8UAAAAQAAJ"
+   },
+   {
+    "server": "dn790002.ca.archive.org",
+    "dir": "/0/items/bub_gb_nE8UAAAAQAAJ"
+   }
+  ]
+ },
+ "created": 1795169419,
+ "d1": "ia600708.us.archive.org",
+ "d2": "ia800708.us.archive.org",
+ "dir": "/12/items/bub_gb_nE8UAAAAQAAJ",
+ "files": [
+  {
+   "name": "__ia_thumb.jpg",
+   "source": "original",
+   "mtime": "1706444617",
+   "size": "19429",
+   "md5": "6f9297e9cd225fdc5d258bf099e1a7fe",
+   "crc32": "148922bf",
+   "sha1": "c26ebbc07cd4875d1a495f3f9c0db82b4b395f8f",
+   "format": "Item Tile"
+  },
+  {
+   "name": "bub_gb_nE8UAAAAQAAJ.djvu",
+   "source": "derivative",
+   "format": "DjVu",
+   "original": "bub_gb_nE8UAAAAQAAJ_djvu.xml",
+   "mtime": "1425490095",
+   "size": "7996870",
+   "md5": "055c578c162fd250cab9ea96135f41e3",
+   "crc32": "ba245c9c",
+   "sha1": "2f167d9e7cc0dae9faf5ac26843a49f8aeab6ebf"
+  },
+  {
+   "name": "bub_gb_nE8UAAAAQAAJ.epub",
+   "source": "derivative",
+   "original": "bub_gb_nE8UAAAAQAAJ_abbyy.gz",
+   "mtime": "1706444613",
+   "size": "14980159",
+   "md5": "af589d357e89e742d7919bb09b29dbe0",
+   "crc32": "ef30db20",
+   "sha1": "d39fc4ddcb3695b7932093d3c520a3877a50d429",
+   "format": "EPUB"
+  },
+  {
+   "name": "bub_gb_nE8UAAAAQAAJ.gif",
+   "source": "derivative",
+   "format": "Animated GIF",
+   "original": "bub_gb_nE8UAAAAQAAJ_jp2.zip",
+   "mtime": "1425485318",
+   "size": "113673",
+   "md5": "5929116016cd01a638d38e7eed06b82c",
+   "crc32": "102f4228",
+   "sha1": "9739b5a8fc5dc5881934bb811fae140a7cbdd6ab"
+  },
+  {
+   "name": "bub_gb_nE8UAAAAQAAJ.pdf",
+   "source": "derivative",
+   "format": "Text PDF",
+   "original": "bub_gb_nE8UAAAAQAAJ_djvu.xml",
+   "mtime": "1425491384",
+   "size": "13227432",
+   "md5": "58df045d55e85b55d3a759e3b5a4c312",
+   "crc32": "090a0bb7",
+   "sha1": "d4938adb522c257172cf477bb13a89178b811c94"
+  },
+  {
+   "name": "bub_gb_nE8UAAAAQAAJ_abbyy.gz",
+   "source": "derivative",
+   "format": "Abbyy GZ",
+   "original": "bub_gb_nE8UAAAAQAAJ_jp2.zip",
+   "mtime": "1425488940",
+   "size": "3849645",
+   "md5": "d1f22169e21aca151fd9f36a59c586f2",
+   "crc32": "1ed57229",
+   "sha1": "0d0d9788b3eb96cd9874b3cc00ce8f5d0fd58fa3"
+  },
+  {
+   "name": "bub_gb_nE8UAAAAQAAJ_archive.torrent",
+   "source": "metadata",
+   "btih": "ff53b5e051c5f29fed8e818a37e3fc5e722d8e5c",
+   "mtime": "1706444620",
+   "size": "11580",
+   "md5": "984f01e878b785f4871eadbbec8b8bd1",
+   "crc32": "24e7c619",
+   "sha1": "e7af11f64d88c25e5986b2b96d73eab30cc94d39",
+   "format": "Archive BitTorrent"
+  },
+  {
+   "name": "bub_gb_nE8UAAAAQAAJ_djvu.txt",
+   "source": "derivative",
+   "format": "DjVuTXT",
+   "original": "bub_gb_nE8UAAAAQAAJ.djvu",
+   "mtime": "1425491437",
+   "size": "251838",
+   "md5": "7c486e1f0748737e06292de68f8f5009",
+   "crc32": "087f00d5",
+   "sha1": "3fdfcb76c663682fafda96500addaf6adedc2543"
+  },
+  {
+   "name": "bub_gb_nE8UAAAAQAAJ_djvu.xml",
+   "source": "derivative",
+   "format": "Djvu XML",
+   "original": "bub_gb_nE8UAAAAQAAJ_abbyy.gz",
+   "mtime": "1425489032",
+   "size": "3089045",
+   "md5": "ea6292d816fbc6a1b8a25989079adc11",
+   "crc32": "63381d2e",
+   "sha1": "f1ca8588721f863a59c83d74b913bb571c098e82"
+  },
+  {
+   "name": "bub_gb_nE8UAAAAQAAJ_files.xml",
+   "source": "original",
+   "format": "Metadata",
+   "md5": "2442c858c32b0352b2d25244a3e25e54",
+   "summation": "md5"
+  },
+  {
+   "name": "bub_gb_nE8UAAAAQAAJ_images.tar",
+   "source": "original",
+   "mtime": "1425483373",
+   "size": "98109440",
+   "md5": "446d2e1e5d51ebb67f80f7036973305b",
+   "crc32": "9d655db8",
+   "sha1": "a3afa7e0ba4e965ed00738d6146e9ad20fcc2092",
+   "format": "Generic Raw Book Tar",
+   "filecount": "341"
+  },
+  {
+   "name": "bub_gb_nE8UAAAAQAAJ_jp2.zip",
+   "source": "derivative",
+   "format": "Single Page Processed JP2 ZIP",
+   "original": "bub_gb_nE8UAAAAQAAJ_images.tar",
+   "mtime": "1425485264",
+   "size": "69162964",
+   "md5": "08a687573245f2c09090423f723993fc",
+   "crc32": "a741d003",
+   "sha1": "010f303998d1738b45530af566b45ff34eab2e92",
+   "filecount": "341"
+  },
+  {
+   "name": "bub_gb_nE8UAAAAQAAJ_meta.sqlite",
+   "source": "original",
+   "mtime": "1465959874",
+   "size": "9216",
+   "format": "Metadata",
+   "md5": "0896ea3a85f862329ec5b4ec013b579e",
+   "crc32": "6112fddc",
+   "sha1": "23eb43799a396471fd804e5715033b866ac15fd2"
+  },
+  {
+   "name": "bub_gb_nE8UAAAAQAAJ_meta.xml",
+   "source": "original",
+   "mtime": "1482715623",
+   "size": "1341",
+   "format": "Metadata",
+   "md5": "f36f95ce7fb509b02680211a72523e36",
+   "crc32": "0250792e",
+   "sha1": "47c0416aac0b28d594d97c0dfe6f58f86091da6e"
+  },
+  {
+   "name": "bub_gb_nE8UAAAAQAAJ_scandata.xml",
+   "source": "derivative",
+   "format": "Scandata",
+   "original": "bub_gb_nE8UAAAAQAAJ_djvu.xml",
+   "mtime": "1425490101",
+   "size": "102403",
+   "md5": "a04372ec11e8e0b9449e2272f61f8c98",
+   "crc32": "ffc347b7",
+   "sha1": "977ad518afd1e54f79310d689677675e4334042e"
+  }
+ ],
+ "files_count": 15,
+ "item_last_updated": 1706444620,
+ "item_size": 210925035,
+ "metadata": {
+  "identifier": "bub_gb_nE8UAAAAQAAJ",
+  "creator": "Louis Charles La Bourdonnais",
+  "date": "1833",
+  "google-id": "nE8UAAAAQAAJ",
+  "language": "French",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "mediatype": "texts",
+  "publisher": "Café de la Régence",
+  "scanner": "google",
+  "source": "http://books.google.com/books?id=nE8UAAAAQAAJ&hl=&source=gbs_api",
+  "sponsor": "Google",
+  "subject": "bub_upload",
+  "title": "Nouveau traité du jeu des échecs",
+  "year": "1833",
+  "publicdate": "2015-03-04 15:36:13",
+  "collection": "europeanlibraries",
+  "uploader": "tools.bub@tools.wmflabs.org",
+  "addeddate": "2015-03-04 15:36:13",
+  "curation": "[curator]validator@archive.org[/curator][date]20150304153706[/date][comment]checked for malware[/comment]",
+  "oclc-id": "20623191",
+  "contributor": "University of Lausanne",
+  "identifier-access": "http://archive.org/details/bub_gb_nE8UAAAAQAAJ",
+  "identifier-ark": "ark:/13960/t76t3zp8d",
+  "imagecount": "342",
+  "ocr": "ABBYY FineReader 9.0",
+  "repub_state": "4",
+  "backup_location": "ia905301_33"
+ },
+ "server": "ia800708.us.archive.org",
+ "uniq": 31802652,
+ "workable_servers": [
+  "ia800708.us.archive.org",
+  "ia600708.us.archive.org"
+ ]
+}

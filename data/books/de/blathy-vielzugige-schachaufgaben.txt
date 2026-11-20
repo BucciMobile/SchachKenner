@@ -1,0 +1,3218 @@
+NOTES TO ELECTRONIC EDITION 
+
+
+This edition of Otto Bläthy‘s work is based on the second edi- 
+tion, published by Veit & Comp. in 1890. 
+
+The original text has been followed as far as possible, except 
+that diagrams have been given four per page instead of one. 
+
+No attempt to check longer solutions for anything else but 
+gross errors has been made: notes to the solutions have been 
+added in italics between brackets. Problem 3 was found to have 
+a short solution: this has been indicated in the stipulation by 
+‘[s]: Obvious misprints have been silently corrected as far as the 
+correction was self-evident. 
+
+
+VIELZÜGIGE 
+SCHACHAUFGABEN 
+
+
+VON 
+
+
+OTTO T. BLÄTHY 
+
+
+[1890 ] 
+
+
+An Electronic Edition 
+Anders Thulin, Malmö - 2007-09-29 
+
+
+VORWORT 
+
+
+Die überaus freundliche Aufnahme, die meiner vor einem 
+jahre handschriftlich gedruckten Sammlung von 26 vielzügigen 
+Aufgaben zu teil wurde, veranlasst mich, die auf 50 Aufgaben 
+vermehrte Sammlung den weiteren Kreisen der Schachfreunde 
+vorzulegen. 
+
+Diese in den Jahren 1883-1889 entstandenen Studien sollen 
+ein bisher wenig behandeltes Gebiet im weiten Bereich der 
+Schachkombinationen einigermassen zur Anschauungbringen. 
+
+— Die in der ersten Sammlung enthaltenen Aufgaben waren 
+fast ausschliesslig auf wiederholten Tempogewinn seitens der 
+weissen Partei basiert, währen nunmehr Kombinationen man- 
+nigfacher Art dargestelltsind, die erst nach einer längeren Reihe 
+von Zügen dir Erzwingung des Mat ermöglichen. 
+
+In einige der Stellungen, die sich in einfache Gewinnfüh- 
+rungen auflösen (insbesondere No. 42, 44, 46) mag die in der 
+Forderung angegebene Zügezahl bei korrekster Spielführung 
+eine Änderung um 1-2 erfahren. 
+
+Die Stellungen 8, 18, 33, 36, 43, 48, 50 sind in gewöhnlichen 
+Partien nich möglich; eine Korrektur nach dieser Richtung 
+würde entweder der Zügezahl oder der Schönheit mehr oder 
+weniger Abbruch verursachen. 
+
+
+3 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+Für Freunde des Selbstmat sei bemerkt, dass sich dasselbe 
+in den Stellungen 16, 19, 20, 23, 24, 33, 37, 42, 43, 46 erzwingen 
+lässt, und sind dazu jedesmal 30 bis 50 Züge mehr erforderlich, 
+als zum direkten Mat benötigt werden. 
+
+Alle Schachfreunde, die mich auf etwa vorhandene Inkorrekt- 
+heiten oder Fehler aufmerksam mache, seien meines verbind- 
+lichen Dankes versichert. 
+
+
+Budapest, V. Göttergasse 22 
+
+
+OTTO T. BLÄTHY 
+
+
+AUFGABEN 
+
+
+EN 
+
+
+
+
+
+ec, gl) RE 
+
+
+us 
+au — 
+
+
+a N 
+ae En ” 
+wo m 
+
+
+nu. 
+
+
+._ 
+a Bir 
+
+
+\ 
+
+
+
+
+
+DIN 
+
+
+il 
+
+
+
+
+
+
+
+
+S 
+I 
+
+
+
+
+
+n 
+
+
+ER 
+
+
+
+
+
+ee "u. 
+
+
+
+
+
+
+
+
+Mat in 7 Zügen 
+
+
+Mat in 6 Zügen 
+
+
+
+
+
+n= 4 
+NS N Dr 
+
+
+ss 
+
+
+EN 
+S “ 
+NR 
+
+
+DS „Bozes 
+
+
+ISIN N 
+al RR . « 
+
+
+\ N 
+N‘ 
+
+
+N 
+
+
+x‘ 
+a 
+
+
+
+
+
+SER 
+
+
+
+
+
+
+
+
+Sl 
+
+
+SS NS 
+
+
+x 
+
+
+«€ NN 
+
+
+N e2 
+
+
+; DNS wo: 
+
+
+N an 
+
+
+Gm Ss 
+
+
+SS 
+
+
+
+
+
+Er ER 
+
+
+g n 
+E 
+
+
+IN 
+N 
+
+
+
+
+
+N 
+a 
+
+
+
+
+
+
+
+
+Mat in ı3 Zügen 
+
+
+Mat in 10 Zügen [$] 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+
+
+
+MM ME, 
+
+
+Mat in 20 Zügen Mat in 2ı Zügen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+zn 
+
+
+ug 
+Ei 
+a 
+
+
+‚mine! = 
+I. - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 24 Zügen Mat in 30 Zügen 
+
+
+AUFGABEN 
+
+
+
+
+
+ı 
+Z 
+L 
+
+
+G 
+
+
+
+
+
+771 
+
+
+D 
+
+
+Yg a, gu 
+va ZA 0 
+
+
+Y 
+VOR 
+
+
+
+
+
+Ä_ 
+
+
+
+
+
+
+
+
+
+
+
+Mat in 3ı Zügen 
+
+
+3m BezaE 
+
+
+
+
+
+a Er 
+rn 
+
+
+N 
+
+
+WM 
+Ga YG 
+- 
+
+
+Dizeoe 
+
+
+Az 
+
+
+ann y 
+
+
+ya 
+-- 
+
+
+
+
+
+
+
+
+Mat in 3ı Zügen 
+
+
+
+
+
+
+
+
+7ERGF 2% 
+Ge 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 35 Zügen 
+
+
+
+
+
+
+
+
+Mat in 44 Zügen 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+14. 
+
+
+
+
+
+mM 
+
+RAY 8 % 
+nn a 
+\ ee = 
+
+
+Bu 
+4, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|| == un 
+
+
+
+
+
+
+
+
+Mat in 45 er 
+
+
+8 
+Habın ei 
+
+
+u r 
+
+
+_ 2 = . 
+nn 
+
+
+
+
+
+U a 
+
+
+Mat in 47 Zügen 
+
+
+
+
+
+
+
+
+1,7 
+
+
+\ 
+
+
+N 
+\ 
+
+
+2 
+
+
+N 
+or 
+yo. 
+IN 
+x 
+
+
+)or 
+NN 
+
+
+nn 
+
+
+ER 
+NN 
+R 
+
+
+9, 
+
+
+Top \ 
+
+
+Mn 
+
+
+um 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 47 Fer 
+
+
+
+
+
+
+
+
+Mat in 48 Zügen 
+
+
+AUFGABEN 
+
+
+
+
+
+< 
+
+
+N 
+= 
+
+
+NIU 
+El“ 
+
+
+SS 
+
+
+Neuss MN 
+u 22 
+
+
+M_ Ss =, 
+
+
+Fe aan: 
+u. n 
+
+
+N N = N 
+u el 
+
+
+
+
+
+DS NS 
+ses 
+
+
+WUaTı 
+
+
+
+
+
+
+
+
+N 
+
+
+IS 
+
+
+Fa 
+
+
+
+
+
+RR 
+
+
+NN 
+
+
+x 
+
+
+une a 
+| „ı „n, nn N 
+Ted 
+Im En _ 
+
+
+en nn R_ 
+
+
+SI 
+
+
+
+
+
+_ ug « 
+
+
+Sal 
+
+
+
+
+
+
+
+
+Mat in 54 Sn 
+
+
+Mat in 52 a 
+
+
+
+
+
+== NR 
+
+
+u Dos 
+Ä En E® 
+2a B 8 ®_ 
+us Mn 
+
+
+
+
+
+um: 
+
+
+DEI 
+
+
+
+
+
+
+
+
+Tun 
+
+N 
+2.2 28 
+
+nn u 
+
+
+u N se 
+
+
+ty N 
+
+
+
+
+
+N N 
+Tg SI 
+
+
+
+
+
+IEss 
+
+
+
+
+
+
+
+
+Mat in 58 E_ 
+
+
+Mat in 56 Zügen 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+
+
+
+ZA 
+
+
+mim IT 
+n_ = an 
+u n_. 
+; , nn 
+ia & zu 
+
+
+
+
+
+
+
+
+
+
+
+Mat in 58 Zügen 
+
+
+
+
+
+
+
+
+m 
+Be, 
+Bei 2 _ 
+
+
+DU 
+
+
+
+
+
+
+
+
+Mat in 62 Zügen 
+
+
+
+
+
+-. . 
+
+
+G, 
+Arm 
+
+
+de» 
+
+
+ı 
+
+
+N) 
+m 
+
+
+
+
+
+
+
+
+
+
+
+Mat in 65 Zügen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 66 Zügen 
+
+
+AUFGABEN 
+
+
+
+
+
+
+
+
+A798 
+
+
+7 Z 
+ee 
+Ar 
+
+
+Y 
+
+
+7], A RK I 
+„Bosn WM 
+nn ee 
+
+
+B_ 
+2: FR 
+Eu... 
+
+
+
+
+
+
+
+
+Mat in 67 Zügen 
+
+
+
+
+
+_ = . 
+ein en 
+
+
+
+
+
+
+
+
+A 
+
+
+
+
+
+Mat in 67 Zügen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 68 a 
+
+
+Mat in 76 Zügen 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+
+
+
+zZ z S z A. 
+u... wog R 
+iR .. „ Bi2& EN 
+em = _ 
+onın 
+MEN ER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 84 a: Mat in 87 Zügen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 92 Zügen Mat in 96 Zügen 
+
+
+AUFGABEN 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ba, Mn 
+N Mn N e 
+un . & 
+NN 
+Eu 24: 
+ki N Ss 
+NS N‘ 
+SS „st nm y il IR «€ SE 
+| u aa 
+sel ER n » nr 
+? ag T Ss ER N 
+Kun m . E u En 
+RR I = U N 
+EUNU 20 08 
+EN x BEE N. 
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 105 Zügen 
+
+
+Mat in 105 Zügen 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+
+
+
+Z 
+2 ‘= =; 29 
+7] 
+
+
+7 Gb 
+7 , Z Y 
+=) Q 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 108 Zügen Mat in 114 Zügen 
+
+
+40. 
+
+
+
+
+
+nn 
+
+intel 
+
+u 
+ai 
+
+
+Mat in 119 Zügen 
+
+
+
+
+
+— 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in ı2ı Zügen 
+
+
+AUFGABEN 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EEE ur 
+Le SM LT 
+RK N 5 N N N 
+.. Ö\ Rn 2 R nr 
+SE LE 
+N NS US i N N N 
+N N \ E INN 
+NS > = So, a 
+= nu H_ E nn nn 
+RS N u 
+S Bo a \ 
+_ Ns a un‘ 
+Weg N arzsz 
+N RS = N SS 
+® _ RM en & u m N 
+; « rt «ea Ss Rn Su 
+BEE 2: . BE 
+ai a: nn ® 
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in ca. 140 Zügen 
+
+
+Mat in 137 Zügen 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+
+
+
+
+
+
+zu 
+inne 
+“ee ea 
+
+
+
+
+
+
+
+
+Mat in 163 Zügen 
+
+
+
+
+
+
+
+
+
+
+
+Mat in ca. 165 Zügen 
+
+
+
+
+
+
+
+
+Km 
+
+
+ss 
+s " .. 
+
+
+Bis, a . 
+Eu, 
+
+
+
+
+
+
+
+
+on ZRD 
+NG 
+
+
+ea 
+223 
+nA 
+
+
+2 
+
+
+» 
+
+
+= 
+vor 
+
+
+U N, 
+
+
+= 
+Zie 
+
+
+N 
+
+
+R 
+
+
+N 
+
+
+Y 
+1; 
+
+
+Nm! 
+> = 
+.n 
+
+
+Ser er 
+= 1 dor. 
+u 
+
+
+Kon. 
+
+
+Eon 
+
+
+i 
+
+
+van, 
+
+
+
+
+
+
+
+
+Mat in 169 Te 
+
+
+Mat in 210 Zügen 
+
+
+
+
+
+
+
+
+AUFGABEN 
+
+
+
+
+
+YD (1:777 
+// 
+
+
+7%, 
+2 
+
+
+Y) 
+Yy 7 
+ZEN EYE 
+
+
+HH 
+
+
+N 
+
+
+: 
+
+
+9% 
+
+
+D 
+
+
+
+
+
+MD) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 292 Zügen 
+
+
+Mat in ca. 216 Zügen 
+
+
+LÖSUNGEN UND BEMERKUNGEN 
+
+
+1. Lf3, Tg8* 2. Sb8, Tg4 3. Sd7, Tg8 4. Ses, T- 5. SxXT/BxT 6.L/S # 
+A 1... Tg4 2. Sba, Tg8 (2. ... Tg2 3. Sc6, Tg8 4.Se5) 3. Sd5, Tg4 (2. ... Tg6 
+4.Sf6) 4. Se7, T- 5. SxT/BxT 6.L/S# 
+
+
+1. Da4, Des? 2. Sf6, gxf6 3. De8t, Dxe8 4. Lxf6t, Kgs 5. Txh7, Kxh7 
+
+6. Ihat, Kg8 7. The + 
+
+A 1... Td7 2. Da8t, Ld8 3. Dxd8}, Txd8 4. Txh7f, Kxh7 5. Th4} 6. Ser} 
+7. Ihs+ 
+
+
+1. Df5, e6* 2. Dxf7t, Kxf7 3. Lg6}, Kxg6 4. Sest, Kf5 (4. .... Kh7 5. g6}, Kh6 
+6.Lf4} 7. Lxg5} 8. Sfa+) 5. Sxe3t 6. ds} 7.Sfg} 8. Lest 9. Sd2} 10. Sc2# 
+A 1... Ta7 2. Se5, De6 3. Lxb5t, Kd8° 4. Sxf7t, Kc8 5. Dxe6t, Kb8 
+6. Db6+, Tb7 7. Lxc7t, Ka8 8. Da6t, Ta7 9. Lc6# 
+a 3...c6 4. Lxc6f, Dxc6P° 5. Dxfrf, Kd8 6. Sxc6f, Kc8 7. De8+, Kb7 
+8. Ddrt, Ka6 9. Sb8+ 
+b 4... Kd8 5. Dxe6, Lc4} 6. Kxez, Sh6 7. Sxf7t, Sxf7 8. Dxf7 9.D + 
+c 4... Td7 5. Lxd7t, Kd8 6. Lxe6, Lc4} 7. Kxez, Lxd5 8. Sxf7t, Ke8 
+9. Ld7#+ 
+[1. Dfs, e6.... 7. Kda!] 
+
+
+1. Tcz, bxc3* 2.Dxc7t 3. Tc4t 4. Lb6+ 5.Sg6+ 6. f5} 7. Ser}, Kxc4® 8. ba} 
+9.Sd5} 10.Lc5} 11. Sxcz3} 12. La3 13. Lb2# 
+B 7...Kxes 8. Lc7t, d6 (8. ...Sd6 9. Kdz 10. Te4+) 9. Kd3, Sg5 (9. ... 
+Lc6 10.Sg6} ı1. Tdat 12. b4+ oderg.... Lb5 10. axb5, Sg5 11. TdA 
+12. T/L/S #) 10. La5, Shf3 11. Ke3, Sd4 12. Test 13. Lc7# 
+A 1... Dh7t 2. Tdd3, Dxdz3t 3. Kxd3, Sxest 4. fxe5, Kd8? 5. Dxc7t 
+6. Dd6t, Kf7 7. Lc5, Ih8 8. exf6 9. De7t 10. Dg7+ 
+a 4...Lg6t 5. Sxg6, bxc3 6. Lb6, Kd8 7. Dxc7t 8. Dxb8} 9. Dxf8}, Kxg6 
+10. Dg8t, Kh6 11. Le3# | 8. e6!] 
+
+
+1. Ke2, Lgı 2. Ke3, Lh2 3. Kd4, Lgı 4. Kes, Lh2 (4. ...Sd3+ 5. Sxd3, Kc6 
+
+
+19 
+
+
+10. 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+6. Lxe4#) 5. Kf5, Lgı 6. Kg6, Lha 7. Kf7, Lgı 8. Kg7, Lh2 9. Kg6, Lgı 10. Kf5, 
+Lh2 11. Kes, Lgı 12. Kd4, Lh2 (12. ...Sg4} 13. Kxe4, Sez 14. Lf3 u. 16. #) 
+13. Keg, Lgı 14. Ke2, Lh2 15. Kfı, Lgı 16. Kxgı, Shat 17. Kfı, Shgs (17. ... Shf2 
+18. Ke2) 18. Ke2, Sf3 19. Lxf3 20. Lxe4+ 
+
+Vergleiche hierzu Nr. 36. 
+
+
+1.Sd5t 2.Sxc3+ 3.Sdst 4. Ke6, c3* 5.Sxc3+ 6.Sdst 7. Sf6t+ 8. Shst 
+
+9.Shg3t+ 10. Kf6, ca 11. Ke6, c3; 15. Sxc3}; 19. Shg3t 20. Kf6, e4 21. Shs5+ 
+
+A 4...83 5.$xg3t 6.Sf5t 7.Sd6+ 8.Sbst 9.Sbc3} 10. Kd6, g4 11. Ke6, 
+83; 15. Sxg3t; 19. Sbc3} 20. Kd6, e4 21. Sb5+ 
+
+Vergleiche die complicierteren Darstellungen Nr. ıı und 27. 
+
+
+1. Kdı, Lb2 2. Keı, Lcı 3. Kfı, Ld2 4. Kgı, Lei 5. Kg2, Ld2/Lf2 6. Kfı, Lcı 
+7. Keı, Lb2 8. Kdı, Laı 9. Kcı, Lb2} 10. Kbı, Laı 11. Kxaı, Kd7 12. b7, Kxd6 
+13. b8D+ und mit Hülfe einer zweiten D im 24. Z. # 
+
+Einer Wiederholung ist die Tempogewinncombination Z. 1-10 nich 
+fähig. 
+1. Le4 2. e3 ; 11. Kd8, Lf7 12. e8D, Lxe8 13. Kxe8; 23. Khz 24. fa, exf4 
+25. Ses, fxez 26. fxe3, Kh6 27. Sf7t, Kh7 (27... Kh5 28. Lf3+) 28. Kg4, e5 
+29. Kh5 30. L/S # 
+
+
+1. Scb4, Th6 2. Kg7, Th5. Um das nunmehr erforderliche Tempo zu 
+gewinnen muss der W.K. ein weisses Feld erreichen, ohne sich aber dem 
+verderblichen Schach des Se4 auszusetzen; S zieht bestendig Th5-g6-h5. 
+3. Kf8 4. Ke7 5. Kd8 6. Kc7 7. Kb6 8. Sc6 9. Se7 10.Ka5 11. Kb4 12. Ka3 
+13. Kb2 14. Kcı 15. Kc2 16. Kb2 17. Ka3 18. Kb4 19. Ka5 20. Kb6 2ı. Kc7 
+22.$c6 23.Sdb4 24. Kd8 25. Ke7 26. Kf8 27. Kg7, Th6 28. Kxh6, D- 29. 
+-xD, S- 30. Sf2# | ? 32. Sfe#] 
+
+[ 28. ... S-!] 
+
+
+1. Kez, Tg4 2. Ke2, Tg6 (2. ... Te4} 3. Kf3) 3. Kdı, Tg4 4. Kcı, Tg6 5. Kc2, 
+Tg4 6. Kdı, Tg5 7. Kd2, Tg6 8. Ke2, Tg4 9. Ke3, Tg5 10. Kf3, Tg6 11. Kfa, 
+a6 (11. ... Bb6 ı2. Sxb6, axb6 22. Kxc7 25. c8+) 12.-21. wie 1.-10. 22. Kf4, 
+Bb6 23. Sxb6, a5 (23. ... cxb6 24. c7, Kd7 25. e8Q+ und 31. +) 24. Ke3, 
+cxb6 (24.... Tg4 25. Txg8} 26. Sa8) 25. c7, Kd7 26. e8Qt, Kxc7 27. Qxf7} 
+28. Ih7 31. £ 
+
+Die Idee dieser Aufgabe ist verwandt mit No. ı und No. 17, sowie mit 
+nebenstehender Stellung. 
+
+Das sich ı3mal wiederholende Tempospiel ist hier: 
+1. Kcı, Leı 2. Kbı, Lc2 3. Ka2, Le2 4. Kaı, Lc3 5. Kbı, Ld2 6. Kb2, Leı 7. Kcı, 
+Lc3 8. Kdı. 
+
+
+20 
+
+
+11. 
+
+
+12. 
+
+
+13. 
+
+
+14. 
+
+
+LÖSUNGEN 
+
+
+W. A. Shinkmann 
+
+
+ı 12 
+Kan gızı 
+
+
+m‘ 8 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 110 Zügen 
+
+
+1.Sc5} 2.Se6} 3.Sg5} 4.Sxf3} 5.$g5T 6. Se6t 7.Sc5t 8.Sab3t 9. Sxb3t; 
+13. Sf3+ 14. Tfı b3; 18. Sxb3+; 22. Sf3+ 23. Ke6 b4 24. Kd6 b3; 28. Sxb3t; 
+32. Sf3t 33. Ke6 34. Txbı 35. Tb4+ 
+
+
+1.Se7 2.$g8 3. Sh6 4.Sg4 5. Se3 6. Sc4 7.Sa3 8. Kdı 9. Kd2 10. Kcı; 
+
+17. Sc8, a4; 24. Sc3, Ka7* 25. Sxa4; 31. Sa6, Lbı 32. Kxbı, Sxc6 33. bxc6, 
+
+Kxa6 34. d8D, Kb5 35. Dxa8 36. Db7 37. Dxc7 38. Dxf7 39. c7 40. Dxe6 
+
+41. c8D und 44. # 
+
+A 24...a3; 28.Sh6, Kb8 29. Sg8, axb2} 30. Kxba, Lbı 31. Kxbı, Sxc6 
+32. bxc6, b5 33. d8D+, Ka7 34. Dc8, Kb6 35. Dxa8 
+
+Eine Vereinigung von Motiven aus Nr. 16 und 24. 
+
+
+Unter Cooperation von H. F.L. Meyer H. EL. Meyer 
+
+componirt. 
+
+1.Sb5t, Kdz3 2. Sest 3. Scz}, Kf2 4. Sda3} 
+5.Se4t 6.Sest 7.Sg3} 8.Sgat, Ke7 
+
+
+Fan Vai 
+9.Sf5s} 10. Sest 11. Se7t 12.Sd7} er 7% 2 a MM 
+13.Sc8} 14.Sb8} 15. Sart 16. Sa6t, a8 ss In, 
+Kc3 17. Sbst, Kd3 18. Sb4t; 19.-30. im EB mo ER 
+sowie 3.-14. 31. Txb2}, Sb3 32. Sa7t, 
+
+Kb4 (32. ... Ka5 33. Ld2t 34. Tb5#) A  - ZZ 2 1 
+
+
+33. Sbc6+, Kc3; 34.-44. sowie 17.-27.; a $ 277% Aral MR, e_ 
+
+
+45. S5c6+ 78 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vergleiche damit die „Ellypse“: Weiss macht Remis 
+
+
+Wo nicht anderer Zug notiert, zieht S. mitdemK. 
+1. Dgıt 2. Df2} 3. Deıt 4. Dd2f, Kaı* 5. Ddıt 6. Dxdst 7. Ddıt 8. De2t 
+9. Dfit 10. Dg2+ u. Dgıt 12. Dgst, ds 13. Dxdst 14. Ddif 15. De2t 
+
+
+21 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+16. Dfit 17. Dg2+ 18. Dgır 19. Dg8t, ds 20. Dxdst 21. Ddır 22. De2} 
+23. Dfit 24. Dg2+ 25. Dgırt 26. Dg8t, Le6 27. Dxe6+ 28. Deıt 29. Df2} 
+30. Dgır 31. Dgst, Tb3 32. Dxb3+ 33. Ddır 34. De2t 35. Dfit 36. Dg2+ 
+37. Dgır 38. Dg8+, Tf7 39. Dxf7t 40. Dfit a1. Dg2+ 42. Dgır 43. Dgst, 
+Sc4 44. Dxcaf, Kaı 45. Dcır 46. Dbıt 47. Db3# 
+
+A 4...Sc2 5. Dxc2t, Ka3 6. Dcıt, Ka4 (6. ... Ka2 7. Dd2t, Kaz 8. Ta5}) 
+7. Dc4t, Ka3 8. Tb3t, Txb3 9. Dxa6t, Kba2! 10. a8D, Scz 11. Dxc8, 
+T7xb6 ı2. Dxb6, Txb6 13. Dxh8 
+
+Vergleiche damit Nr. 20, sowie nachstehende Positionen. 
+
+
+G. Reichhelm G. Reichhelm 
+
+
+Erz 7 BEL 
+Eh a 
+u Bin = Inn 
+
+aum Bm nun! 
+une ee 
+
+5 B 
+En = 
+
+
+
+
+
+
+
+
+
+
+
+us 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 4o Zügen Mat in 64 Zen 
+
+
+. 1.Se2, Kf8 2. Scı, Kfz 3. Sd3, Kf8 4. Seı, Kf7 5. Sg2, Kf8 6. Sha4, Sbe (6. 
+... Kfz 7.Sxf5) 7. Sg6+, Kf7 8. Se7, Kf8 9. Sc8, Kf7 10. Sb6, Kf8 11. Sa8, 
+
+
+Kf7 12. Sc7, Kf8 13. Se8, g6 14. Sf6, Kf7 15. Sg8, Kf8 16. Se7, Kf7 17. Sxg6, 
+Sa6 18. e7, Sb8 19. Sg8, Kf8 20. Sh6, b4!; 28. Sxb4; 36. Sh6+ 37. ba, Sa6 
+38. Sxf5, exf5 39. e6, dxe6 40. d7, Kf7 41. d8D, es 42. Dd7t, Kf8 43. Dg7t 
+44. Kg8, Sb8 45. h8T, Sd7 46. Kh7t 47. Txfs+ 
+
+Verwandt mit Nr. 25 
+
+
+. 1.La5, Kb7 2.Se3 3. Sc2 4. Seı 5.Sf3 6. Sg5 7. Sf7 8. Sh6 9. Sg8 10. Se7, 
+
+
+h6 11.Sg6 12. Sh8 13. Sf7 14. Sd8, hs 15. Sf7 16. Sh8 17. Sg6 18. Se7, h4 
+19. Sg6 20. Sh8 21. Sf7 22. Sd8, ha 23. Sf7, Kb7 24. Sh8, Kc8 25. Sg6, hxg2} 
+26. Kxg2, Kb7 27. Se7, Lgı 28. Kxgı 29. Sxf5, Kc8 30. Kxg2, Kb7; 37. Kd8, 
+exf5; 40. Kxf5, Kc8 41. Kg6; 45. f8D+ 46. De7 47. Dd8+ 48. Dc7+ 
+
+Der Springer allein gewinnt das Tempo. — Eine vorzügliche Bearbei- 
+tung dieses Thema's für das Selbstmat lieferte jüngst 
+
+
+22 
+
+
+LÖSUNGEN 
+
+
+W. A. Shinkmann 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Selbstmat in 88 a 
+
+
+17. 1.Lh2, Ta4 (1. ...g6 2. hxg6, fxg6 (2. ... Lg7 3. Les, f6 4. Ld6, Lh6 5. Le7, 
+
+
+18. 
+
+
+Lg7 6.f4) 3. fxg6, Lg7 4.Le5) 2. ba, Ta3 3. fa, Taı 4. Ld6, Ta3 5. Lf8, f6 
+
+6. Ld6, Taı 7. Lb8, Ta2 8. Lh2, Ta3 9. Lg3, Ta2 10. Lf2, Taı 11. Leı, Ta2 
+
+12. Ld2, Ta3 13. Lc3, Ta2 14. Lb2, d6! 15. Lc3, Ta3 16. Leı, Taı 17. Lg3, Ta 
+
+18. Lxd6, Taı 19. Lb8, Ta2 20. Lhz, Taı 21. Lgı, Ta2 22. Lf2, Ta3 23. Les, 
+
+Ta2 24. Ld2, Taı 25. Lcı, Ta2 26. Lb2, g6! 27. hxg6, Lf8 28. Lcı, Le7* 29. 7, 
+
+Ld8+ 30. Kxb5, Txa7 31. g8D, Tb7t 32. Kc5, Tc7t 33. Kxd5, Txcı? 34. b5, 
+
+Tc7 (34. ... Kd7 35. De6t 36.b6}) 35. b6, Tb7 (35. ... Td7t 36. Kc5, Te7 
+
+37. Dds, Tb7 38. Dc6+, Kb8 39. d5) 36. De6t, Kb8 37. Des, Kc& 38. Kc5, 
+
+Txb6 (38. ... Td7 39. De6 oder 38. ... Te7 39. Dc6+, Kb8 40. ds, Tb7 41. d6) 
+
+39. Dxd8t, Kxd8 40. Kxb6 und 52. + 
+
+A 28....Lg7 29. Lez, Taz 30. Lf2, Lf8 31. Lg3, Lh6 (31. ... Taı 32. fa, gxf4 
+33. Lxfa, Ta3 34. g5, Lg7 35. Les, Kd7 36. gxf6, Lxf6 37. Lxf6, Ke8 
+38. Lg7) 32. Lfa, gxf4 (32. ... Lg7 33. Bfg:, Bfg 34. Les [??]) 33. g5, Txa7 
+34. Kxa7, Bgf3: 35. Bgh:, Bg2 36. Bh7, gıD 37. h8D, Kd7 38. Dg7, Kc8 
+39. Db7 40. Bg7 [??] 
+
+B 33.... Td7t 34. Ke4, Kb7 (34. ... Te7t 35. Kd3, Kd7 (35. ... Teı 36. Ld2, 
+Te7 37.b5) 36. Lxg5) 35. fa, Lb6 36. ds, gxf4 (36. ... Te7t 37. Kd3, Teı 
+38.Ld2) 37. Lxf4, Td8 (37. ... Ld8 38. Ld6) 38. Df7t, Kc8 39. De6t, Kb7 
+40. Dc6t, Ka7 41. Lc7 
+
+Der starke Versuch 20. Kc6 führt erst in 55. Zuge zum Mat. 20. Kxb5? 
+scheitert an 20. .... Kb7 21. Kc5, Tf2 22. Kxd5, Txf3 23. Ke6, Tf4! 
+
+
+1. Tf7, Taıt 2. Kbz, Sd4f 3. Kc3, Sb5} 4. Kd2, Scaf 5. Ke2, Sd4+ 6. Kfı, 
+Sd2+ 7. Kgı, Se} 8. Kha, Sfit 9. Khz, Sgıt 10. Kga, Sh2+ ı1. Kgs, Shat 
+12. Kf6, Sg4t 13. Ke6, Sg5+ 14. Kd7, Sf6} 15. Kxc7 (nach 15. Txf6 erreicht 
+S. mit 15. ... Dxg7t 16. Tf7 Dd4t ewiges Schach) ı5.... Se6} 16. Kxb6, 
+Sd5t 17. Kbs, Sd4} 18. Kc4, Sb6+ 19. Kcz, Sb5+ 20. Kd2, Sca} 21. Ke2, 
+
+
+23 
+
+
+19. 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+Sd4t 22. Kfı, Sd2} 23. Kgı, Se2+ 24. Kha, Sfit 25. Kh3, Sgır 26. Kg4, 
+
+Sh2+ 27. Kg5, Shat 28. Kf6, Sg4+ 29. Ke6, Sg5+ 30. Kd7, Dxfrt (30. ... Sf6} 
+
+31. Txf6, Dxg7+ 32. Tfr, Tdıt 33. Ke8) 31. gxf7, Sf6} 32. Kc7, Se6t 33. Kb6, 
+
+Sd5t+ 34. Kb5, Sdat 35. Kc4, Sb6+ 36. Kc3, Sb5+ 37. Kd2, Sc4+ 38. Ke2, 
+
+Sd4t 39. Kfı, Sd2} 40. Kgı, Sf3}* 41. Sxf3, Sxf3} 42. Kfı, Sh2+ 43. Ke2, fg} 
+
+44. Kd2, Sfit 45. Kc3, Lxg7t 46. Kb3, ca} 47. Kba, Ta4t 48. Kxa4, fxg2 
+
+49. Lxg2t, Kf5 50. f8D+, Lxf8 51. Txf8}, Kg4 52. Dfat 53. Lf3} 54. # 
+
+A 40....Se2t 41. Kh2, Sfit 42. Kh3, Sgıt (42... Lf5} 43. Sxf5, Sgıt 44. Kga, 
+Sh2+ 45. Kg5, Sf3+ 46. Kg6, Sh4t 47. Sxh4) 43. Kga, Sh2+ 44. Kgs, Shat 
+45. Kh6, Sgat 46. Kxh7, Sg5t 47. Kg6, Sest 48. Dxest, Kxes 49. gxf8D, 
+Se6 50. Lc3t, Ke4 51. Seıt, f3 52. Lxf3t} 53. # 
+
+1. b3 scheitert an ı. ... Taı 2. Kbz Tbı! 
+
+Gegenstück zu Nr. 13. 
+
+
+1. Ld4, h6 2. Les, hs 3. Lf4, Kb8 4. Lh6, Ka8 5. Lg7 6. Lf8 7. Le7 8. Ld8, 
+
+Ka8 9. Lc7, e5 10. Ld8 11. Le7 12. Lf8 13. Lh6 14. Lg5 15. Lh4 16. Lg3 
+
+17. Lxez 18. Lf4 19. Lh6 20. Lg7; 24. Lc7, c5; 28. Lh6 29. Lg7; 33. Lc7, C4; 
+
+37. Lh6; 42. Lc7, ha; 48. Lxh4, Lcı 49. Kxcı 50. Lg5; 55. h8D 56. Dxc8#+ 
+Eine ähnliche Selbstmataufgabe ist folgende: 
+
+
+dm ı= 
+3%, im ir 
+
+
+
+
+
+u 
+u... 
+nn 
+
+
+Selbstmat in 63 Zügen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20. 1.-6. Kh6, Kf8 7. Kg6, Kg8 8. Kf6, Kf8 9. c3, Ke8 10. Kg7 11. Kf7 12. Ke7 
+
+
+13. Kf6, Kc8 14. Kg5, Kd8 15. Kxf4, Ke8 16. Kg5, Kf7 17. Kh6, Kf8 18. Kg6, 
+Kg8 19. Kf6, Kf8 20. c4, Ke8 21. Kg7 22. Kf7 23. Ke7 24. Kd8, Ka8 25. Kc8, 
+Ka7 26. Kc7, Ka8 27. Kb6, f4; 30. Ke8, Kc8 31. Ke7; 34. Kxfa, Ke8 35. Kg5, 
+Kf7 36. Kh6, Kf8 37. Kg6, Kg8 38. Kf6, Kf8! 39. fa, Ke8 40. Kg7 41. Kf7 
+42. Ke8, Kb7 43. f5, exf5 44. fa, Kc& 45. Ke7; 47. Kxf5; 49. Kg7; 53. Kc7; 
+57. f8D 58. Dxbs+ 
+
+
+2ı. 1. De4t, Tc4 2. Dxc4+ 3. Dcst 4. Dd4t 5. Dest [S. zieht den König, 
+
+
+24 
+
+
+22. 
+
+
+23. 
+
+
+LÖSUNGEN 
+
+
+wenn kein Zug notirtist] 6. De4t 7. Dfst, Ka4 (7. ... 
+
+
+c5 8. Dxc5t 9. Dc4} 
+
+
+10. Dxc7t 11. Dd7t ı2.Dds}) 8. Dgat 9. Dxhst 10. Dgaf 11. Df5+ 
+12. Dfa+ 13. Dxc7t 14. Dfat 15. Dg5t 16. Dg4t 17. Dhsf 18. Ddıt, Sba 
+G. Reichhelm 
+
+
+19. Dxb3+ 20. Db6+ 21. Dd4+ 22. Dest 
+23. Dfat 24. Dg5t 25. Dgat 26. Dhst, 
+e5 27. Dxest; 31. Dhst, f5 32. Dxf5t; 
+34. Dhst, g5 35. Dxg5t; 37. Dhst 
+38. Ddıt, Lc2 39. Dxc2+ 40. Dc5t; 
+46. Dhst, c5 47. Dxc5t; 53. Dhst, Dds 
+(53. .... Ka4 54. Ddif 55. Dxeıt 56. D#) 
+54. Dxdst 55. Db3+ 56. Db6+ 57. Dxa6t 
+58. Dc6#+ 
+
+Ganz verschiedener Art is die 
+ausschliessliche Thätigkeit der Dame in 
+folgendem Stück: 
+
+
+
+
+
+YO, 
+u 
+
+
+_ a. 
+un. 
+Ei: 
+
+
+9% 
+AN 
+
+
+
+
+
+
+
+
+en 
+
+
+
+
+
+Mat in 83 Zügen 
+
+
+1. Dcı, Ta3 [wenn kein Zug für S. notirt ist, zieht der T] 2. Ke4 3. Kd5 
+4. Kc6. Der Kmuss nun ein Tempo gewinnen, ohne sich dem Schach 
+
+
+des Lb2 auszusetzen. 5. Kd7 6. Ke8 7. Kf8 
+
+
+8. Kg8 9. Kh7 10. Kh6 11. Kh5 
+
+
+12. Kg4 13. Kha 14. Kg2 15. Khı 16. Kgı 17. Kg2; 28. Kb5, a6} 29. Kxa6; 
+42. Khı 43. Kgı; 55. Kb5, a4 56. Ka6, Sg6 57. fxg6, fxg6 58. f7, g4 59. fxga, 
+
+
+85 60. f8D, L- 61. Dxa3 62. Scı# 
+
+
+Eine längere Berarbeiting bietet Nr. 30. 
+
+
+— Die Grundidee hat zuerst 
+
+
+Loyd in nachstehenden beiden Stellungen veranschaulicht. 
+
+
+S. Loyd 
+
+
+
+
+
+Em 
+= = = u 
+un 
+En 
+
+
+7 
+
+
+ss 
+Bin me 
+un 1m Su 
+
+
+7, 
+
+
+
+
+
+
+
+
+an 
+
+
+
+
+
+Mat in 14 Zügen 
+
+
+S. Loyd 
+
+
+
+
+
+
+
+
+az 
+er r 
+== zum 
+2 2 Bun 
+una: 
+= vıu 
+
+
+
+
+
+
+
+
+May in 50 Zügen 
+
+
+1. Sbı, a3!; 11. Kdı, Lb2 12. Kc2, Kb8 13. Sc3, Ka8 14. Sdı, Laı 15. Kbı, Lb2 
+
+
+16. Sxb2, axb2 17. Kxb2, Kb8; 28. Ke7, Ka8 
+
+
+25 
+
+
+29. Ke8 30. Kd8, c5; 45. Kxc5; 
+
+
+
+
+
+
+
+
+24. 
+
+
+25. 
+
+
+26. 
+
+
+27. 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+58. Kd8, Kb8 59.c5 60. c6, bxc6 61. Kxc8 62. Kc7 63.b7t 64. b8D+ 
+65. Db6+ 
+
+
+1.Sb8 2.Sa6 3. Sb4 4.Sd3 5. Sf2 6. Sdı 7.Sc3 8. Kd2 9. Kdı 10. Kcı; 
+
+16. Sb8, Kg8 17. Sd7, h5!; 24.Sc3 25. Kd2 26. Kdı 27. Kcı; 34. Sd7, 5%; 
+
+42. Sxf5, Kg8 43. Sha 4a.f5 45. Sg2 46. Sfa, Kg8 47. Sxh5; 51. Sh7, Lbı 
+
+52. Kxbı 53. Sxf8 54. Sh7; 56. 85, Kh8 57. f6, gxf6 58. gxf6, exf6 59. e7; 
+
+65. # 
+
+A 34.... Kh8 35. Sxf8; 43. Sc3, Kg8 44. Kd2 45. Kdı 46. Kcı, Kf8 47. Se2, Kg8 
+48. Sd4, f5 49. Se2 50. Sc3 51. Kd2 52. Kdı 53. Kcı, Kf8 54. Se2, Kg8 55. 
+Sda, Kf8 56. Sxf5, Lbı 57. Kxbı, Ke8 58. Sxg7t, Kf8 59. Sxh5, Kg8 60. f5, 
+Kf8 61. g4, Kg8 62. f6, Kf8 63. g7+, Kg8 64. f7} 65. g8Qt} 66. f8L+ 
+
+
+1. Sb2, Kf8 2. Sdı, Kf7 3. Sc3, Kf8 4. Se2, Kf7 5. Sgı, Kf8 6. Sha, g6! 7. Sg5, 
+Lb8 8. Se6t, Kf7 9. Sg7, La7 10. Se8, Kf8 11. Sf6, Kf7 12. Sg8, Kf8 13. Se7, 
+
+85 14. S£5, Kf7 15. Sg7, Lb8 (15. ... g4 16. fxga, fa 17. S£s!, fxg2 18. Sha!, 
+
+gıQ 19.85!) 16. Se6, La7 (16. ...g4 17. fxgA, f3 18. Sg5}) 17. Sxg5} 18. Se6t 
+19. Sg7 20. Se8, La7 21. Sf6, Kf8 22. Sd7t, Kf7 23. c3!, ca; 37. Sxc4; 49. Sd7 
+[? 51. Sd7 ] 50. c4, Lb8 51. Sxb8, Kf8 52. Sa6 53. Sb4 54. Sc2 55. Sag, Kf8 56. 
+c5, bxc5 57. Sc4, Kf7 58. b6, cxb6 59. Sxd6, Kf8 60. Sb5, c4 61. d6, c3 62. 
+d7, c2 63. d8D, Kf7 64. Dd7, Kf6 65. Kg8, cıD 66. h8D 67. Df5+ 
+
+
+1. Kc2, Ld7 2. Kb2, Le8 3. Ka3, Lc6 4. Kb4, Le8 5. Kc5, Lc6 6. Kd6, Le8 
+
+7. Kc7, Lc6 8. Kc8, Le8 9. Kxb7, Lb5; 21. Kxg5; 30. Kd6, Lb7 31. Kd7, 
+
+La6 32. Kc7, 85 (32. ... Lb7 33. Kxb7, g5 34. Kc7, 84 35. b7, 83 36. b8T#); 
+
+43. Kxg5; 53. Ke7; 56. g6, hxg6 57. h7t 58. Kxf7 und mit 2D mat in 67. 2. 
+1. Ke2 scheitert an Ld7 2. Kf3, La4 3. Kg4, Ldıt 4. Kxg5 Lf3! 
+
+
+1.Sc5} 2.Sc6} 3.axb3} 4.Sa5t 5. Saxb3t 6. Sa5t 7.Sc6} 8.b3} 9. Sast 
+10. Saxb3}+ 11. Sa5t 12. Sc6} 13. Sest 14. f3, Sxf3 15. Sxf3} 16. Sest 17. 
+Sc6+ 18.Sa5t ı9. Sab3t+ 20.h5, a5! 21. Sxa5} 22. Saba} 23. ha, a6! 24. h4, 
+a5‘® 25. Sxa5t 26. Sab3+ 27. Kes, f3 28. d3} 29. Sd4, b3 (29. ... f2 30. Se4t, 
+Kxda 31. Sxf2} 32. Sg4) 30. Sxb5f, Kc2“P 31. Sdat, Kdı (31. ... Kbı/Kb2 
+32. Sxf3; aufaı.... Kcı/Kd2 32. Scxb3+) 32. Sxf3, b2 33. Se4, Ke2® 34. Sfd2, 
+Kxd3 35. Kf4, Ke2®® 36. Sbı, Kd3 37. Sc5t, Kc2 (37. .... Ke2 38. Sa4, est 39. 
+Kg4, e4 40. Sxb2, oder") 38. Saat, Kc3 39. Saat, Kbz 40. Sxb2, Kxb2 41. 
+Sc4t, Kcz 42. Ses, Kd4 43. Sga, Kd5 44. Sxh6, est (44. ... Kd4 45. Sg4, Kd5 
+46. Ke3, Kc5 (46. ... e5 47. Kd3, Kd6 48. Ke4, Ke6 49. h6, Sg6 50. h7 und 66. 
++) 47. Ke4, Kd6 48. Kd4, Kc6 49. Sest, Kd6 50. h6, Kc7 51. Kcz und 66. +) 
+45. Kfs, Kd4 46. Sga, e4 47. Kfa, Kd3 (47... Kd5 48. Ke3, kd6 49. Kxe4, Ke6 
+50.h6 und 65. +) 48. Sf2t, Kd4 49. Sxe4, Kd5 50. Sf2, Kd6 51. Sg4, Ke6 
+
+
+26 
+
+
+52. 
+
+
+LÖSUNGEN 
+
+
+Kg5, Kd7 53. Sest, Ke6 54. Sg6, fxg6 55. hxg6 und 68. + 
+
+37. ...Kd4 38. Sa4, e5t 39. Kf5, e4 40.Sd2, ez 41. Sf3+ 42. Sxba. 
+
+35. ... Kd4 36. Sf2, Kcz (36. .... est 37. Kfs, Kez 38. Sdıt) 37. Sdıt, Kxd2 
+38. Sxba. 
+
+35....Kc2 36. Ke3, Kcı 37. Sf2, Kc2 38. Sd3. 
+
+33... bıS 34. Sda, Sa3 (34. ... Keı 35. Sxe6, fxe6 36. Kxe6, Ke2 37. Sd6) 
+35. Sd6, Keı (35. ... Kd2 36. Sc4t; auf 35. ... Sbı 36. Sxe6, Sd2 37. Sd8, 
+Sf3+ 38. Kd5, Sxh4 39. S8xf7) 36. Sxe6, fxe6 (36. ...Sc2 37. Sd8) 
+
+37. Kxe6, Sc2 38. Sfr, Sd4} 39. Ke7, Sc6} 40. Ke8, Sxf7 41. Kxf7, Sd8} 
+42. Kg8, Kd2 43. f7, Se6 44. f8, Sxf8 45. Kxf8. 
+
+30... Kd2 31. Sxb3t, Kxd3 (31. .... Keı 32. S5d4, f2 33. Sf3t, Ke2 34. Shz; 
+oder?) 32. Scst, Keg (32. .... Kc4 33. Se4, Kxb5 34. Kf4) 33. Scz fo» 
+
+34. Sdıt, Kfz 35. Sxf2, Kxfz (35. ... Kg3 36. Sfd3, Kxh4 37. Sf4 38. Sd7 
+39. Sf8 40.Sg6) 36. Kfa, Kg2 (36. ... est 37. Kg4, Ke3 38. Kf5, e4 
+
+39. Sxe4, Kf3 40.5c3, Kg3 41. Sd5, Kxh4 42. Sf4) 37. Kg4, Kf2° 38. Seat, 
+Ke3 39. Sd6, Kd4 (39. ... Kf2 40.$c8) 40. Kf4, est 41. Kfs, Kd5 42. Sc8, 
+e4 43. Se7t, Kd4 44. Kf4, eg 45. Sfst, Kd5 46. Sxegt. 
+
+31. ... Ke3 32. Sc3, f2 33. Sdıt, Kfz 34. Sxf2, Kg3 35. SdAa, Kxh4 36. Sxe6, 
+fxe6 37. Kxe6, Kxhs5 38. f7, Sg6 39. Kf6, Sf8 40. Kg7, Se6t (40. .... Sd7 
+41.Se4) 41. Kg8 42.d4 43.d5. 
+
+33... Kf2 34. Kfa, Kg2 (34....e5t 35. Kg4, Keg 36. Sge4) 35. S3e4, Khz 
+(35... f2 36. Sxf2, Kxf2 37.Sd3}) 36. Kxf3, Kxh4 37. Sg3, e5 (37. ... Kg5 
+38.Sce4} 39. Kf4) 38. Sce4, Kh3 39. Sf5. 
+
+37...e5 38. Sea, Kh2 39. Sd6, Kg2 40. Sf5, e4 41. Sxh6, e3 42. Sfs, Kf2 
+(22....e2 43.Se3} 44.S$c2) 43. Sxe3, Kxeg3 44. Kg5, Kf3 45. Kh6, Kg4 
+46. Kh7, Kxh5 47. Kxh8, Kg6 48. h5t, Kxf6 49. h6. 
+
+30... Kb4 31. Sxba, f2 32. Sd2, Kxb5 33. Sfı, Kb4 34. Sea, Kc5 (34. ... 
+Kc3 35. Sdıt, Kxd3 36. Sxf2} wie @) 35. da}, Kc6% 36. Kfa, Kd6 37. Ke4, 
+Kc6 38. Kf3, fı (38. ... Kd6 39. Kxf2, es 40.d5, e4 41. Kg3, Kez 42. Sgaf, 
+Kxds 43. Kfa, Kd4 44. Sea, Kd3 45. Sf5) 39. Sxfı, Kd5 40. Segt, Kxd4 
+41. Sg4, es 42. Sxh6, eat (22.... Kd5 43. Sga, Kd6 (42. ... eat 44. Ke3) 44. 
+Ke4, Ke6 45.h6) 43. Kfa, Kd5 44. Sga, Kd4 45. Se3, Kd3 46. Sf5. 
+
+35... Kb4 36. ds, exd5 37. Kxds, Kc3®%* 38. Sdıt, Kd2 39. Sxf2, Keg 
+
+40. Sgat, Kfa 41. Sxh6, Kg3 42. Sxf7, Sxf7 43. Ke6, Sd8+ 44. Ke7, Schr 
+45. Ke8. 
+
+37.... Kb3 38. Kd6, Ka2 39. Ke7, Kbı 40. Kf8, Kcı 41. Kg7, Kd2 42. Sfıt, 
+Ke2 43. Sha, fı 44. Sxfı, Kxfı 45. Kxh8. 
+
+37... Kb5 38. Kd6, Kb6 39. Ke7, Kcz 40. Kf8, Kd6 (40. .... Kd4 41. Sfı) 
+41. Kg7, Ke6 42. Kxh8, Kxf6 43. Sgat, Ke6 44. Sxfa, fs 45. Kg7, fa (45. ... 
+
+
+27 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+Kes 46. Kxh6, Kf6 47.Sd3) 46. Kxh6, Kf6 47. Kh7, Kf7 48. h6. 
+
+B 24...f3 25.Sa5t 26.Sc6} 27.Se5t 28. Sxf3} 29. Sest 30.Sc6} 
+31. Sa5t 32. Sab3+ 33. Kc6, a5 (33. ...e5 34. Kd6, a5 35. Sxa5t 
+36. Sab3t 37. xe5) 34. Sxa5t 35. Kd6, ba (35. .... es 36. Sab3+ 37. Kxes5) 
+36. Saxb3+ 37. Sa5t 38. Sc6t, Kc4 39. d4, b4 40. Sxb4, Kxd4 41. Sxe6t, 
+fxe6 42. Kxe6, Ke4 43. Sd5. 
+
+A 24...e5 25. Kxes, f3 (25.... a5 26. dgt 27. Sxa5, f3 28.d4) 26. da, Kc3 
+(26. ...f2 27.Sd2} 28. Sce4t}) 27. Sas, b3 (27. ... Kc2 28.Se4) 28. Saxb3, 
+f2 29. Se4t, Kxb3 30. Sxf2, Kc2 31. ds, b4 32. Ke4, b3 33. Sd3. 
+
+
+28. 1. Kd7, Kh6 2. Ke7, Kg6 3. Kf8, Kh7 4. Bg7, Kg6 5. Kg8, ca 6. Kf8, Kh7 
+7. Kf7, c3 8. Bxc3, Kh6 9. Kg8, Kg6 10. Bg7; aud diese Weise werden alle 
+S.B. in die diagonale aı-h8 gezwungen und vom W.L. geschlagen; der 
+letzte S.B. wird beim Stande W.K.f7 und S.Kh7 genommen mit 51. Bxaı 
+52. Lg7 53. Kf6 54. Lh6 55. Lxg5, Lxg5 56. Kxg5, Kg7 57. Kh4 58 Kxg3, 
+Kg5 59. Kha und 76. # 
+
+
+29. Vergleiche Bemerkung zu Nr. 9. 
+5.Ka8; 9. Kb4, h5; 13. Ka8 14. Kb8; 18. Kb4, h4; 27... h3; 36. ... h6; 45. ... 
+h5; 54....h4; 63.... d3; 72.... d2; 81.... ag 82. Ka5, Le6 83. Lxe4 84. Sfo# 
+
+
+30. 1. Dd2, Lxb4 (1. ...Sc2 2. Dxc2, Daı 3.Scz}, Ka3 4. Sxb5t+ 5. Dxc4, Dxdı 
+6. Txdı, gıD 7. Txgı, Lxc6} 8. Dxc6) 2. Dc3, Ta5 3. Kb7, g5; 9. Kh8 
+10. Kh7; 16. Kb7, g4; 22. Kh8; 29. Kb7, g3; 35. Kh8; 42. Kb7, g5!; 48. Kh8; 
+55. Kb7, 84; 61. Kh8; 68. Kb7, e4; 73. Kxe4; 77. Kh8; 83. Kb7, a6 84. Ka8, 
+Sc2 85. Lxc2, Lf8 86. Dxa5t 87. Sc3# 
+1. Dxc4 findet in Dba eine aureichende Parade. 
+Der Versuch 2ı. Kxg4 scheitert an g6 
+
+
+31. 1. Taı, Lg4 2. Tcı, Lf3 3. Tgı, Lh5 4. Thı, a3 5. Taı, Lg4 6. Tcı, Lf3 7. Tgı, Lh5 
+8. Thı, a2 9. Taı, Lg4 10. Tcı, Lf3 11. Tgı, a4 12. Tcı, Ld5 13. Tc3, Lg2 14. Tca, 
+Lf3 15. Th4} 16. Thı, a3 17. Taı, Lg4 18. Tcı, Lf3 19. Tgı, aıD 20. Txaı, Lg2 
+21. Tcı, Ld5 22. Tc3, Lg2 23. TcA, Lf3 24. That 25. Thı, a2; auf diese Art 
+
+
+wird das weitere Vorrücken alles S.B. erzwungen; 29. ... a5; 33. ... a4; 37. ... 
+
+
+a3; 41....a6; 45....a5; 49....a4; 52... al; 58....a2; 62...a3; 65....al; 71... 
+
+
+a2; 75....a1 76. Txaı, Lf3 77. Tgı, Lh5 78. Thı, eıD 79. Txeı, Ldı 80. Te3 
+81. Tc3 82. Tc7, Lc6 83. Txf7t 84. Kxf7, Ld7 85. Ke7, Le8 86. Kxe8 87. f7, 
+Kh7 88. f8T 89. Tf6, Kg8 90. Txg6} 9ı. Kf7 92. Th6+ 
+
+Diese und Nr. 34, 48, 45 veranschaulichen den Tempogewinn durch 
+den Turm gegen den am 4., 5. und 6. Felde vor seinem König gefesselten 
+Läufer. Vergleiche hiezu noch folgende Producte: 
+
+
+28 
+
+
+LÖSUNGEN 
+
+
+G. Reichhelm G. Reichhelm 
+
+
+ga = 
+SI 
+u. in 
+
+
+ne 
+
+
+
+
+
+
+
+
+wa 
+Aal GL GR 
+
+
+R au: 
+an. nn 
+
+
+gıy1’ 
+
+
+2. 
+Ress 
+
+
+u 
+= 
+=‘ 
+
+
+..- 
+1= .ı= 
+u e um 
+
+
+Matin gı Zügen Mat in 102 Zügen 
+
+
+Eu 
+.. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In Combination mit der Idee von nr. 22 erscheint das Turm-Läufer- 
+Tempospiel in nachstehendem Problem: 
+
+
+
+
+
+Ki) 
+ZB 2 
+ey y 
+I 7% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 27 Zügen 
+
+
+1. Se4, Lc7 2. Tdı, La5t 3. Kcı, Lc7 4. Kb2, Le5t 5. Kag, Lb8 6. Kb4, Lc7 
+7. Kc5, Le5 8. Tcı, Lb8 9. Taı, Lc7 10. Tbı, Les ıı. Tdı, h6; 15. ... 86; 19. ... 
+85; 23.... Lb8 24. Td6, La7t 25. Kba, Les} 26. Kxc5 27. Sxg3+ 
+
+
+. 1. Tbı, Sf6 2. Kf7, c2! 3. Tcı, a5 (3. ... Sh7 4. Txc2) 4. Taı [Txc2 scheitert 
+
+an Sxga], Sh7 5. Thı, a4 6. Taı, Sf6 7. Tcı, a3 8. Taı, Sh7 9. Thı, a2 10. Taı, 
+
+Sf6 11. Tcı, Sh7 12. Thı, e5; nunmehr erzwingen je 3 Züge einen S.B. Zug; 
+
+15. ... &4; 18. ... e3; 21. ... @2; 24....a6; 27....a5; 30.... a4; 33. ...43; 36... C5; 
+39. ... CA; 42. ...C3; 45. ... Cl; 48. ... C2; 51... C6; 54....C5; 57. ... CA; 60... C3; 
+63.... al; 66.... a2; 69.... C1; 72. ... C2; 75. Ihı, aı* 76. Txaı, Sf6 77. Tcı, Sh7 
+78. Thı, e6 79. Tcı, e5 80. Thı, e4 8ı. Tcı, Sf6 (81. ...e3 82. Thı, eı 83. Txeı, 
+
+Sf6 84. Taı, Sh7 85. Thı, e2 86. Teı, Sf6 87. Taı, Sh7 88. Thı und 94. +) 
+
+82. Kxf6, Kg8 83. Kxg5, Kg7 (83. ... Kfz 84. Kfs, Ke7 85. 85, Kd6 und 94. #) 
+
+
+29 
+
+
+33. 
+
+
+34. 
+
+
+35. 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+84. Kfs, Kf7 85. 85, Kg7 86. g6, e3 87. Taı, eı 88. Txeı, e2 (88. .... Kh6 89. Taı, 
+
+cı 90. Txcı, Kg7 9ı. Tc7t, Kf8 92. g7}, Kg8 93. Kg6; 95. +) 89. Taı, Kf8 (89. ... 
+
+Kh6 90. Ta7) 90. Kf6, Ke8 91. g7 und 96. + 
+
+A 75... e1; 78. ...e6 79. Tfı, e5 (79. ... Sf6 80. Txf6, Kh7 81. Tfı) 80. Thı, e4 
+81. Tfı, e3 82. Thı, e2 83. Taı, Sf6 84. Tcı, Sh7 85. Thı, aı 86. Txaı, Sf6 87. 
+Tcı, Sh7 88. Thı, cı 89. Txcı, Sf6 90. Kxf6, Kg8 9ı. Thı, eı 92. Txe1; 94. T#. 
+
+In dieser un No. 35, 39 44 erscheint der S. auf dem 4., 5., 6. und 7. Felde vor 
+
+dem K. gefesselt. 
+
+
+1. Ihı, Ka7 2. Taıt 3. Kg8, Te8 4. Kh8, T[e]d8 5. Kh7, Te8 6. Kg8, T[e]d8 
+
+7. Kfz, f3; Wiederholung von Z. 3.-7. erzwingt Vorrücken der S.B.; 12. ... f2; 
+17. ...h5; 22. ....h4; 27. ...h3; 32. ... h2; 37. ... d4; 42... d3; 47. ... f4; 52. ... fs; 
+57... dı 58. Txdı, Ka7 59. Taıt; 64.... d2; 69.... dı 70. Txdı 71. Taıt; 76. ... fı 
+77. Txfı 78. Taıt; 83....f2; 88... fı 89. Txfı 90. Taıt; 95. Kf7 hı 96. Txhı 97. 
+Taıt 98. Ta2, Txd7 99. exd7, Td8 100. e6, Tc8 101. dxc8 Kxc8 102. Ta8+ 
+
+
+1. Tdı, Lg7 2. Tbı, f3 3. Tdı, Lh6 4. Thı, f2 5. Tbı, Lg7 6. Tfı, Lh6 7. Ihı, da; 
+
+10. .... d3; 13. .... d2; 16.... b5; 19.... b4; 22. ...b3; 25. ... b6; 28. .... b5; 31. ... b4; 
+
+34. ...b1; 37. ...b2; 40....b3; 43. ... bı; 46....b2; 49. ... d5; 52. .... d4; 55. ... d3; 
+
+58....dı; 61....d2; 64. ... d6; 67.....d5; 70. ... da; 73. ... d3; 76... dı; 79. ...d2 
+
+80. Tbı, Lg7 81. Tfı, Lf8* 82. Kxfs, Kg6 83. Ke7, Kg7 84. Ke6, Kg6 (84. ... Kf8 
+
+85. Txf2}, Ke8 86. Th2, Kf8 87. Kf6, Ke8 88. Te2}) 85. Kes, Kg7 86. Ke4, Kg6 
+
+(86. ... Kf6 87. Txf2+, Ke7 88. Tfı, Ke6 89. Kd3 90. Kxd2 und 105. +) 87. Kez, 
+
+Kg7 (87. .... Kf6 88. Txf2+ 89. Tfı 90. Kxd2, Ke4 91. Kc2) 88. Kxd2, Kf6 89. 
+
+Txf2+, Kes 90. Kc2, Ke4 92. Kxb2 und 105. #. 
+
+A 81. ... Lh6 82. Thı, fı (82. ... bı 83. Txbı, Lg7 84. Tfı, Lf8 85. Kxf8, Kg6 86. 
+Kg8) 83. Txfı, Lg7 84. Tdı, Lf8 (84. ... Lh6 85. Ihı, dı 86. Txdı, Lf8 87. 
+Kxfs, Kg6 88. Tfı, bı 89. Txbı, Kf6 90. Teı 91. Tfı 92. Kf7 93. +) 85. Kxf8, 
+Kg6 86. Tfı, bı 87. Txbı, Kf6 88. Tdı, Kez 89. Txd2, Kf4 90. Tdat, Kes 9ı. 
+Ta4, Kd5 92. Kf7 und 104. + 
+
+Je nach der jeweiligen Stellung der B auf der b und d Linie, kan S. mit Lf8 
+
+mehrere Hundert verschiedene Endspiele hervorrufen, die sich alle inner- 
+
+halb des gefordeten Maximums von 105 Zügen erledigen lassen. 
+
+
+1. Tfı, Sca 2. Taıt 3. Ke8, Tg8 4. Kd7, Th8 5. Kc7, Tg8 6. Tcı, Sc4 7. Tfı, Sca5 
+8. Taı, Th8 9. Kd7, Tg8 10. Ke8, Th8 11. Kf7, fa; 20....£3; 29. ... f2; 38... f5; 47. 
+
+
+..f4; 56. ...£3; 65. ... fi 66. Txfı, Sc4 67. Taıt; 76. ...f2; 85.... fı 86. Txfı, Sc4 
+
+
+87. Taıt; 96. Kf7, Tg8* 97. Kxg8, cı 98. Txcı, Sc6 99. Taıt 100. CA, dxc4 101. 
+
+Ta3, c3 102. bxc3 103. c4, b1$ 104. Sc6, Sxa3 105. Sb8+ 
+
+A 96....cıD 97. Txcı, Sc6 98. Taıt 99. Ta4 100. c4, dxc4 101. Tb4, Sc6 102. 
+Sxc6 103. Tb6+ 
+
+
+30 
+
+
+LÖSUNGEN 
+
+
+36. 1. Ldı, Lh7 2. Kh6, Lg8 3. Kg5, Lh7 4. Kf5, Lg8 5. Ke4, Lh7 6. Ke3, Lg8 
+7. Kf2, Lh7 8. Kgı, Lg8 9. Kfı, Lh7 10. Kf2, Lg8 11. Ke3, Lh7 12. Kea, Lg8 
+13. Kf5, Lh7 14. Kg5, Lg8 15. Kh6, Lh7 16. Kg7, b6; 23. Kgı; 31. Kg7, b5; 
+38. Kgı; 46. Kg7, a6; 53. Kgı; 57. Ke4 Lg8#; 61. Kg7 a5; 68. Kgı; 72. Ke4, 
+Lg8®; 76. Kg7, a4; 83. Kgı; 87. Ke4, Sf8+“ 88. Kxes, Sd7} 89. Kd4, Sxf6” 
+90. Sxf6, Lg6 91. Kd5, Kcz 92. Kcs, Lh7 93. Sd5} 94. Kd4, f6" 95. Scz, 
+Lg6 96. Sxbs5, Lf5 97. Sd6, Le6 98. Scaf, Lxc4 99. Kxc4, f5; 103. g8D, fıD 
+104. Dg7f 105. D+ 
+A 57...Sf8} 58. Kxes, Sd7} 59. Kd4, Sxf6 60. Sxf6, Lg6 61. Sds, f6 (61. ... 
+a5 62.Sf4a und Lh7 63.95) 62. Sxf6, a5 63. Sd7, a4 64. Ses, Lh7 65.85, 
+Lf5 66. g6, Lxg6 67. Sxg6, b4 68. Kc5, Kc3 69. Se7 70.Sc8 71. Sb6 
+72. Sxa4# 
+B 72...Sf8+ 73. Kxes, Sd7t 74. Kda, Sxf6 75. Sxf6, Lg6 76. Sd5, f6 
+77. Sxf6, Lf5 78. gxf5, aa 79. Kd5, Kc3 80. Kc5, Kb2 81. Kd4, b4 82. Kc5; 
+85. Sxa4# | 
+c 87....Lg8; 91. Kg7, b4 92. g5, Lg8 93. Kxg8, Se7t 94. Lxe7, Sd7 95. Kg7; 
+97. Lc3+ 
+9.... Le4 90. Lh8, Lf3 91. Kegt, f6 92. Kxf3, Sest 93. Ke4, Sd7 94. Kd4 
+E 94....Lg6 95. Sf6, b4 96.Sd5 97. Sb6 98. S+ 
+E 94....f5 95.85, f4 96. Sxfa, wie unter A, 103. Sa4# 
+Der Versuch 2. Kxk7 scheitert an 2. ... Sf8 3. Kh8, Sd7. 
+Zum Schlussspiele vergleiche fol- G. Reichhelm 
+gende Stellung: 
+
+
+1. Sg2, Lg6 2. Sf4, Lf7 3. Sh3, Le6 I @ @ 7. 
+4.885, Ld5 5. Sh7, Le4 6. Sf6, Lc6 7. : = - n_ 
+Sga, Le4 8. Ses, Ld5 9. Sd7, Lea 10. en u "eo 
+
+
+Sc5, Ld5 ı1. Sb7, Lc4 ı2. Sd6, Lxa6 13 
+
+
+5, Lbs 14. Sxd4, Ld7 15 lee a B_ „mi 
+Sf5, Lb .Sxd4, Ld .Sba3, Lb 3 n „e 
+
+
+
+
+
+
+
+
+
+
+
+® 
+Sc5, Lc6 17. e6, Ld5 18. Sd4, Lc4 19. Sf5, = g Ya 
+Lb5 20. Sd6, a6 21. Sc8, Lc4 22. Sb6, 
+Lb3 23. Sd7, Ld5 24. Sc5, Lc6 25. Sxa6, 
+I ve sen, = 
+La4 26. Sc5, Lc6 27. Se6, Le8 28. Sd8, a 2 0, 
+= ZL 7 
+
+
+
+
+
+
+
+
+Lf7 29. Sb7, Ld5 30. Sd6, Lc4 31. Se4 
+32. Sc3# 
+
+
+Mat in 32 Zügen 
+
+
+37. 1. Kd2, Ka7 2. Kcı, Kb8 3. Kbı, Ka7 4. Kaı, Kb8 5. Ka2, Ka7 6. Ka3, Kb8 
+7. Kba, Ka7 8. Ka5, g6; 12. Kaı 13. Kbı; 17. Ka5, 85; 26... f6; 35... 15; 44.. 
+h6; 53. ...h5; 62. ...f4; 71....f3; 80....h4; 89....h3; 93. Kaı [Kb1?]; 98. Kas, 
+b4 99. Kxb4, a3 100. bxa3, Kxa6* 101. b8T 102. Tb6 103. Kaz 104. Tbı 
+105. Kb6 106. Tdı, Kc8 107. Td6 108. Td8+ 
+
+
+31 
+
+
+38. 
+
+
+39. 
+
+
+40. 
+
+
+4. 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+A 100.... Kb8 101. Kxc4, Kc7 102. Kd4 103. Ke5, Kc7 104. a4 105. Kd6 
+106. Kc7 107. b8D 108. D+ 
+Der Versuch ı. Kda, Kc5 2. Kez findet in 2. ... b4 seine Widerlegung. 
+
+
+1. Thı, Lf4 2. Tdı, Leg (2. ... Lh2 3. Tfı) 3. Tfı, Lc5 4. Tfa, Lez 5. Tg4t, Lg5 
+6. Tgı, a6; 12... axb5; 18. ... ba; 24....b3; 30.... b2; 36....b5; 42. ... ba; 
+48... b3; 54.... b1; 60.... b2; 66. ... b6; 72. ...b5; 78....b4; 84....b3; 90. .... 
+bı; 96. ... b2; 102. ... e3* 103. Thı, Lf4 104. Tdı, Lh2 105. Tfı, dı 106. Txdı, 
+Lf4 107. Tbı, Lh2 108. Txb2, Ld6 109. Tc2, Lc7 110. Tc4, Lf4 111. Tc8, Lc7 
+112. Kd7, Ld8 113. Te8 114. f8D#. 
+
+A 102....bıD 103. Txbı, Lez 104. Tdı, Lg5 (104. .... Lf4 105. Tgı} 106. eg 
+und 11. + oder 104. ... Lb6 105. Txd2, Leg 106. Td8, Lb6 107. Kd7, Lxd8 
+108. Txd8 109. f8+) 105. Tgı, e3 (105. ... dı 106. Txdı, Ld2 107. eg und 
+111. +) 106. Thı, Lf4 107. Tdı, Lg5 108. Tgı, dı 109. Txdı, Lf4 110. Td8, 
+Lc7 ı11. Kd7, Lxd8 112. Te8 113. f8+ 
+
+
+1. Tcı, Sg3 2. Taı, Sf5 3. Tgı, Sda+ 4. Kf7, Sf5 5. Thıt 6. Ke6, d2 7. Tdı, Sf5 
+(7....Sg4 8. Tfı, aı 9. Txaı, Sf2 10. Ta4) 8. Tgı, Sdat 9. Kf7, Sf5 10. Thır 
+11. Ke6, ds! ı2. Tgı, Sf5 13. Taı, Sg3 1a. Tdı, Sf5 ı5. Tgı, Sd4} 16. Kf7, Sf5 
+17. Thır 18. Ke6, a5; 25. ... a4; 32....a3; 39.... a6; 46.... 45; 53.... a4; 60.... 
+da; 65.... da; 72.... aı 73. Txaı, Sf5 74. Tgı, Sda} 75. Kf7, Sf5s 76. Thır 
+77. Ke6, a2; 82....a3; 89....aıD; 94.... a2; 99.... dı 100. Txdı, Sf5 101. Thıt 
+102. Tfı, Sg4 103. Taı, d2 104. Tfı, Sh6 105. Thı, dıD 106. Txdı, Sf5 
+107. Thıt 108. Tfı, Sg4 109. Taı, Sh6 110. Txa2, Sf5 ı11. Th2+ 112. Tf2, Sga 
+113. Tf5, Sh6 114. Tg5, Dxc8 115. dxc8, Sf5 116. Dd7, Sh6 117. Dda 118. Thst 
+119. Txh6+ 
+
+Auf ı2. Tdı? folgt 12. ... Sg4 13. Tfı, aı 14. Txaı, Sf2 15. Ta4, Ses und W. 
+kann nicht mehr gewinnen. 
+
+Das Pendant hiezu bietet Nr. 45. 
+
+
+1. Ldı, h5; 5. Kg7 6. Kg8; 10. Kc7, f4; 19. Kc7, f5; 24. Kh6 25. Kg6; 30. Kc7, 
+f3; 41. ...$2; 52... f4; 63.... 63; 74. ...h3; 85... h2; 96. ... h4; 107. ....h3; 
+113. Kg6; 118. Kc7, Ta7 119. Kb8, Ta8} 120. Kxa8 121. Sxf2+ 
+
+Vergleiche nr. 9 
+
+
+1. Kfı, a6! [sonst 2. a6! mit rascherem Gewinn] 2. Leı, Khı 3. Kf2, Kh2 
+
+4. Ld2, Kh3 5. Lcı, Kh2 6. La3, Kha 7. Lb2, Kh2 8. Lcı, Kha 9. Ld2, Kh2 
+10. Lei, Khı ı1. Kfı, Kh2 12. Lf2, d6 [ı2. ... Kha 13. Kxgı; auf13. ... Khı 
+
+14. Lg1, d6 15. Kf2]; 17. La3; 23. Lf2, ds; 34. Lf2, Khı 35. Lgı, 6; 41. La3; 
+48. Lgı, e5; 61. Lgı, g6; 74. Lg1, 85; 86. Lf2, Kh3 87. Kgı, d4 88. exd4, exd4 
+89. cxd4, c3 90. Kfil, c2 91. Lea, Kxg3 92. Ke2, Kh2 93. Kd2!, g3 94. Kxc2, 
+
+
+32 
+
+
+42. 
+
+
+LÖSUNGEN 
+
+
+g2 95. Kd2, gID 96. Lxgi+, Kxgı 97. Ke2, g4; 101. d8D, gıD 102. Dh4+, Kg2 
+103. Dxe4+, Kh3 104. Dh7+, Kg2 105. Dg7+ 106. Dxgı+; 111. Kxa6, Kxb4 
+
+
+und 127. # 
+
+
+1. Kb2, Ka6 2. Kcı, Ka 3. Kdı, Ka6 4. Keı, Ka5 5. Kfı, Ka6 6. Kgı, Ka5 
+7. Kh2, Ka6 8. Khı, Ka5 9. Kgı, Ka6 10. Kfı, Kaz 11. Keı, Ka6 12. Kdı, Ka5 
+
+
+13. Kcı, Ka6 14. Kb2, Ka5 15. Ka3, es (15. ... 
+86; 84. Kgı, Ka6f; 90... 
+
+
+e4; 45. ... 86; 60.... 5; 75. ... 
+
+
+Ka6 16. Kb4 17. Kxc4); 30. ... 
+
+
+85; 97. Kh2, Ka6"° 
+
+
+98. Khı, Ka5 99. Kgı, Ka6”; 105. Ka3, Ka6 106. Kb4, Bxc2 107. c6, Bxa4 
+
+108. cxb7, Kxb7 109. Kxa4, Kxb6 110. Kb4, Ka6 111. Kxc4 
+
+A 84....Bxc2 85. Nxc2, Kxa4 86. c6, bxc6 87. b7, Kb3 88. Seı, aıS (88. ... 
+Kxc3 89. b8Q, Kd2 90. Qb2+, Kxeı 91. Qxa2) 89. b8Q+, Ka2 90. Qa8+ 
+91. Qxaı+ 92. Nc2+ 93. Nxe3, Kxc3 94. Kf2, Kd4 95. Nxg4 
+
+
+B 97.... Bxc2 98. Nxc2, Kxa4 99. c6, Kb3 (99. ... 
+
+
+bxc6 100. b7, Kb3 
+
+
+101. Nxe3, aıQ 102. b8Q+, Ka2 103. Qa8+ 104. Qxal+ 105. Nxc4) 
+100. Naı+, Kb2 101. cxb7, Kxaı 102. b80Q, Kb2 103. Qa7, aıQ 104. Qxaı+, 
+
+
+Kxaı 105. b7, Kb2 106. b8Q+, Kxc3 
+
+107. Ob5 
+C 97... Kxa4 98. c6, Ka3 99. cxb7, Kb2 
+
+100. b8Q, Kxaı 101. Qa7, Bxc2 102. b7, 
+
+Kb2 103. b8Q+, Bb3 104. Qxe5 
+D 99. ... Bxc2 100. c6, Kxb6 101. cxb7, 
+
+Kxb7 102. Nxc2, Kb6 103. Kfı, Ka5 
+
+104. Keı, Kxa4 105. Kdı, Kb3 106. Kcı, 
+
+aı 107. Nxaı+, Kxc3 108. Nc2 
+
+109. Nxe3 
+Bei Durchführung des in der Vorrede 
+geforderten, ziemlich schwierigen 
+Selbstmates, ergibt sich unter andern 
+auch folgendes Schlussmanöver 
+(selbstmat diagram) 
+
+1. D3d3 2. Da6 3. Kgı 4. Dag6 5. 
+Def5 6. Bg3, Kh3 7. Dfi 8. Df6 9. Dg2 
+10. Df7 ıı. Dh7 ı2. Dfi 13. Dff5 14. Dd3 
+15. Dde4 16. Dhh4 ı17. Df5 18. De4, g2# 
+
+Vergleiche mit dieser Aufgabe fol- 
+gende Stellung: 
+
+
+33 
+
+
+
+
+
+
+
+
+zz 2 
+un 
+nn = 
+le 
+
+
+Ps 77 
+
+
+
+
+
+
+
+
+
+
+
+Selbstmat 
+G. Reichhelm 
+
+
+
+
+
+
+
+
+„AH nM,: 
+
+
+I 
+un Sie 
+2 = min 
+
+1a 
+
+
+> 
+„auit 
+
+
+nie) 
+
+
+
+
+
+
+
+
+
+
+
+Mat in 104 Zügen 
+
+
+43. 
+
+
+44. 
+
+
+45. 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+1.Seı 2.Lfı 3.Sd3 4. Sb4 5. Sc6 6.Sd4 7.Sbz 8.Sa3 9. Kdı 10. Keı ı1. Lh3 
+12. Kfı 13. Kgı 14. Lfi 15. Khı 16. Kh2 17. Kgı 18. Lh3 19. Kfı 20. Keı 2ı. Lfi 
+22. Kdı 23. Kcı 24. Sc4 25. Sa5 26.Sc6 27. Sd8, Kg8 28. Sf7, a6; 33. Sa3; 
+40. Khı 41. Kh2; 48. Kcı; 53. Sf7, a5; 78. ... 4; 103. ... a3; 106. Sd4, axb2} 
+(106. ... Kh8 107. bxag, b2+ 108. Kxb2, Ld5 109. a4 110.a5) 107. Kxb2, Kh8; 
+111. Seı 112. Lh3 113. Lg2, Kh8 (113. ...Sxg2 114. Sxg2; 120. Sf7, Lbı 121. Kxbı 
+und 135. +) 114. Lfi; 119. Sf7, Lbı 120. Kxbı, b2 121. Sd8 122. Kxb2; 125. Kc5, 
+Sxg6 126. fxg6, f5 127. Kc6, fxg4 128. fxg4, Kh8 129. Kd7, Kg8 130. Sc6, f3 
+131. Sxe7t, Kh8 132. exf3, e2 133. Lxe2, Lxe7 134. Kxe7 und e8T#+ 
+
+So wie in Nr. 9 und 22 sind zum Gewinne eines Tempos je 25 Züge 
+erforderlich. 
+
+
+1. Taıt 2. Kc8, Ta7 3. Kd7, Ta6 4. Ke7, Ta7 5. Ke8, Ta6 6. Kd7, Ta7 7. Kc8, 
+Ta6 8. Kb8, fa; 15....f3; 22. ....f2; 29.... 15; 36. ....f4; 43. ...63; 50. ...h5; 
+57. ...h4; 64....h3; 71. ...h2; 78. ... fı 79. Txfı, Sc3 80. Taıt; 87. ... f2; 
+91. Ke8, Ta6*; 94. Kb8, fı 95. Txfı, Sc3 96. Taıt; 103. ...hı 104. Txhı 
+105. Taıf; 109. Ke8; 111. Kc8, cı® 112. Txcı, Sc7 113. Lxc7, Ta8t 114. Kd7, 
+Txg8 (114. ... Dxg8 115. hxg8, Txg8 116. Sxb6) 115. Sxb6, Sxc6+ (115. ... Ta8 
+116. Sxa8+, Kb4 117. Lg8 oder °) 116. Lxb6, Kxb6 117. hxg8, Dxg8 118. Lxg8 
+A 91...fı 92. Txfı, Sc7 93. Lxc7, Ta8 94. Kd7, Txg8 95. Taı, Td8r 
+96. Lxd8, Dxd8t 97. Kxd8, Tbı 98. h8D, cıD (98. ... Txaı 99. Dxh2; auf 
+98... hıD 99. Dxhı) 99. Kc7 
+B 111... Ta6 112. Kb8, cı 113. Txcı, Scz 114. Taıt 115. Lxa6, Kxa6 
+116. Txa4t 117. Lxb6, Sxb6 (117. ... Kxa4 118. Lxc5, Kbs 119. Lxd4, Kc6 
+120. Sde7t, Kd7 121. Sf5) 118. Sxb6, Kxb6 119. Ta7 
+c 115... Tb8 116. Sxa4t, b6 (116... Kb4 117. Tbıt Kag 118. Taıt Kb4 119. La5t 
+Kxas5 120. Sc} Kb4 121. Sd5#) 117. Lxb6+ Txb6 118. Sxb6 Df8 119. Sd5 
+Df5t 120. Kc7 Dest 121. Kb7 
+
+
+1. Thı, Le6t 2. Kd8, Lb3 3. Taıt 4. Kc8, f2 5. Tfı, Lbz (5. ... Lc2 6. Txf2) 
+
+6. Tcı (auf 6. Txf2, Le6+ 7. Kd8, Tb7 8. Tf3, La7t 9. Ke7, Lxc5t) 6. ... Le6t 
+7. Kd8, Lb3 8. Taıt 9. Kc8, h5; 14. .... h4; 19.....h3; 24. ...h2 25. Tfı, Lc2 
+26. Ihı, Lb3 27. Tcı, Le6} 28. Kd8, Lb3 29. Taıt 30. Kc8, f4; 36. .... f3; 42. ... 
+h6; 48. ...h5; 54. .... h4; 60. ... h3; 66. ... hı; 72. ...h2; 78. ...fı; 84... f2; 
+90. ...f5; 96. ...f4; 102. ....f3; 108. ... fi; 114. .... 2; 120. ... f6; 126. ... f5; 132. ... 
+f4; 138. ...f3; 144. ... fi 145. Txfı, Lc2 146. Tcı, La4 (146. ... Lb3 147. Teı, 
+Lc2 148. Te6, Lf5 149. Lb7+) 147. Taı, f2; 153. Taı, Tb7 154. Lxb7f, Ka7 155. 
+Lc6, Ka6 156. Lxa8, Ka7 157. Lc6, fı 158. Txfı, hı 159. Txhı, Lb3 160. Taıt 
+161. Lxb5, Ka8 162. Txa4} 163. Lc6# 
+
+Das pendant zu Nr. 39. Vergleiche aus: 
+
+
+34 
+
+
+46. 
+
+
+LÖSUNGEN 
+
+
+G. Reichhelm 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 121 a 
+
+
+1. Txhıf 2. Txfı 3. Thıf 4. Taı, Lf2 5. Tcı, Lg3 6. Tfı, Lh4 7. Thı, d6 8. Taı, 
+Lf2 9. Tcı, Lg3 10. Tfı, Lest ı1. Kfs, Lg3 12. Thıt 13. Kf6, a4 etc. 
+
+
+1. Kdı, Lbı 2. Keı, La2 3. Kfı, Lbı 4. Kgı, La2 5. Kh2, Lbı 6. Khı, La2 7. Kgı, 
+Lbı 8. Kfı, La2 9. Keı, Lbı 10. Kdı, La2 11. Kcı, a6; 22.... a5; 33. ... C6; 44. ... 
+5; 55... f6; 66... f5; 77. ...f4; 88... h6; 99....h5; 104. Kh2, Lbı (104. ... 
+Lb3 105. cxb3, c2 106. Sxc2, cxb3 107. Sa3, b2 108. Sbı, a4 109. Sc3, a3 
+110. Sdz bıD 11. Sf6} ı12.g8D}) 105. Khı, La2 106. Kgı, Lbi (106. ... Lb3 
+107. cxb3, c2 108. Sxc2, cxb3 109. Sa3, b2 110. Kfl); 10. ... a4; 121. ... a3; 
+126. Kh2; 131. Kdı, La2* 132. Kcı, Kf7 133. ggD}, Kxg8 134. Les 135. Ld6 
+136. Lxc5 137. Lxa3, Kes 138. Lb4, Kd4 139. La5, Lb3 140. cxb3, cxb3 
+141. Sxba3t, Kd3 142. Kdı, c2f 143. Keı, Kc4 144. Scı 
+A 131....a2 132. Kcı, Kf7 133. g8D, Kxg8 134. Lxc3 135. Kba2 [???] 136. Ld2, 
+Kes 137. Kc3, Kd5 138. Lxf4, Ke4 139. Lcı, Kd5 140. Le3 141. Kxc4 
+Zur Erzielung des in der Vorrede geforderten Selbstmates ist folgendes 
+Spiel notwendig. 
+Zug 1.—22. wie oben; 33. ... a4; 44. Kcı, Lb3 45. Kbı (nach 45. cxb cxb 
+46. c2, bxc 47. Kxc2 cz ist S# nicht mehr möglich) 45. ... c6; 51. Khz; 
+58. Kbı, c5; 71. .... f6; 84....f5; 97. ....f4; 110. ... h6; 123. ...h5; 129. Khz; 
+135. Kcı, a3; 140. Kh2; 145. Kdı, La2 146. Kcı, Kf7 147. g8D Kxg8 148. Les 
+149. Ld6 150. Lxc5 151. Lxa3, Kd5 152. Lb4, Kd4 153. La5, Lb3? 154. cxb, 
+Kd3 (154. .... cxb 155. Sxbg, Kd3 156. Kdı, c2 157. Keı) 155. Kdı, c2 156. Sxc2, 
+cxb 157. Seı 158. Kcı 
+a 152... Ke4 154. Lxc3, Lb3 155. cxb, Kdg (155. ... cxb 156. Kd2) 156. 
+bxc, Ke2 (156. ... Kxc3 157. c5) 157. Ld4, Kfı 158. c5, Kg2 159. c6, Kxha 
+160. c7, Kh2! 161. c8D, ha 162. Dc6, Kg2 163. Dg6, Khı! 164. Les, h4 
+165. Lxf4, h2 166. DgA, h3 167. Dxh3 168. Dxh2 169. Lg3 170. Dh7 
+
+
+35 
+
+
+47. 
+
+
+48. 
+
+
+49. 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+171. De4, Kfı 172. Kd2, Kg2 173. Dbı 174. Dhı 175 Dh7 176. Les; 180.Khı 
+181. Dg6, Kh4; 184. Lg1; 187. Sf5 188. Dg2. fxg#. 
+In den ersteren Varianten muss der Bh3 zur Dame geführt werden, im 
+diesen Schluss zu erreichen, wodurch die erforderliche Anzahl Züge 200 
+beträchtlich überschreitet; diese Aufgabe dürfte das längste bekannte 
+Selbstmat ohne Bedingungen repräsentiren. 
+
+
+Vergleiche Bemerkung zu Nr. 9. 
+1. Lcı, Ta6 2. Kb7 3. Kc8 4. Kc7 5. Kb7, 85; 8. Kb7, e5; 14. Kh7 15. Kh8; 
+21. Kb7, €4; 34. .... 3; 47. ... e2; 60....84; 73... 83; 86. .... 82; 99. ... €69; 102. 
+
+
+.. 85; 115... @4; 128. ... @3; 141... 85; 146. Kg6 147. Kf6; 152. Kb7, 84; 159. 
+
+
+Kxg4; 162. Kf6; 167. Kb7, a6 168. Ka8 169. Sxe2# 
+A 99...85; 112... 84; 119. Kxg4; 123. Kh8; 129.Kb7; und 167. # 
+
+
+1. Ldı, h5! 2. Kb4, Lb2 3. Ka5, Lcı (3. .... Laı 4. Ta3, Lb2 5. Lba4) 4. Kb6, 
+Lba2 5. Kc7, Lcı 6. Kd8, Lb2 7. Ke7, Lcı 8. Kf8, Lb2 9. Kg7, Lcı 10. Kg8; 
+17. Kba, Laı 18. Ka3, f4; 27. Kg8; 35. Ka3, f5; 44. Kh6 45. Kg6; 54. Ka3, 
+h4; 73. ....h3; 92. ...h2; 111. ... f3; 130. ... f2; 149. ... f4; 168. ... 3; 187. ... e5; 
+206. Ka3, Lxa6 207. Lxa6, Txa7 208. Lxa7, Lb2+ 209. Kxb2 210. Sxf2+ 
+
+Eine kürzere, hingegen partiemögliche Version bietet folgendes 
+Diagram: 
+
+
+
+
+
+au 
+heeae 
+
+
+= iur .. n 
+Een 
+
+
+a2 Yızl 
+
+
+1, 
+2 @220 
+
+
+Mat in 180 Zügen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.Dd7t 2.a5t 3. Dd4t 4. Dds+ 5. Db6+ 6. c3! 7. Dcst, Kb8 (7. ... Kd8 
+
+8. Dd4t, Ke8 9. Dg7) 8. Dest, Kc8 9. Dds, Kc7 10.Dd7} 11. Ddst 
+
+12. Db6}; diese 6 Züge wiederholen sich vor jedem der folgenden freien 
+Züge des W.K.; 13. Ka3, Kc8; 20. Kb2; 27. Kcı; 34. Kdı; 41. Ke2; 48. Kf2; 
+55. Kg2; 62. Kh3; 69. Kxh4; 76. Kg3; 83. Kf2; 90. Ke2; 97. Kd2; 104. Kc2; 
+111. Kb2; 118. Ka3; 125. Kb4, Kc8 126. Dc5t, Kb8 127. Dest, Ka7 128. 
+Dd4t, Kb8 129. Dxh8, Kc7 (129. ....b5 130. Dxg8} 131. Dxa8f 132. h4 133. 
+
+
+36 
+
+
+50. 
+
+
+LÖSUNGEN 
+
+
+hs, oder A) 130. Dest, Kc8 131. Dd5, Kb8® ı32. Dd8+ 133. Db6+ 134. h4; 
+
+140. Ka3; 147. Kb2; 154. Kc2; 161. Kd2; 168. Ke2; 175. Kf2; 182. Kg3; 189. b5, 
+
+gxh 190. Kh4; 197. Kxh5; 204. Kg6; 211. Kf7, Kc8 212. Ke8, Kb8 213. Kd7, 
+
+Sf6 214. gxf, exf 215. Kd6 216. D+ 
+
+A 129....Da7 130. Dxg8} 131. Des, Dxe3 132. Dxe7t, Kb8 133. Dd8t 
+134. Db6t+ 
+
+B 131. ... Kc7 132. Dd7t 133. Kxc4, b5}? 134. axb6, Db7 135. Kc5, a5 
+136. Kbs, a4 137. Dd8+ 138. Dxc8} 139. Kxa4 
+
+a 133...Ka7 134. Dd4t 135. Dds8+ 136. Db6+ 137. Kb4, Kc8; 144. c4, Kc8 
+145. Dc5, Kb8 146. Des, Kc8 147. Dd5, Kc7® 148. Dd7 149. c5, Ka7 
+150. c6 
+
+b_ 147.... Kb8 148. Dd8 149. Dd4 150. c5 
+
+Eine noch längere Darstellung findet sich in folgender Position: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 224 Zügen 
+
+
+1. Dd7t 2.a5t 3. Dd4t 4. Dds8+ 5. Db6+ 6. c3!, Kc8 7. Dcst, Kb8* 8. Dest, 
+Kc8 9. Dd5, Kc7 10. Dd7} 11. Dds} 12. Db6} [diese 6 Zügen sind vor 
+jedem der folgenden freien weissen Königs- und Bauernzüge zu wie- 
+derholen] 13. e3, Kc8; 20. 83; 27. Ka3; 34. Kb2; 41. Kc2; 48. Kd2; 55. Ke2; 
+62. Kf2; 69. Kg2; 76. ha, gxha3}? 77. Kxh3; 84. Kg2; 91. Kf2; 98. Ke2; 
+
+105. Kd2; 112. Kc2; 119. Kb2; 126. Ka3; 133. Kb4, Kc8 134. De5t, Kb8 
+
+135. Dest, Ka7 136. Dd4t 137. Dxh8, Kc7° 138. Dest, Kc8 139. Dds, Kb8” 
+140. Dd8+ 141. Db6+ 142. Ka3; 149. Kb2; 156. Kc2; 163. Kd2; 170. Ke2; 
+
+177. Kf2; 184. Kg2; 191. Kh3; 198. g4, Kc8®; 205. gxh5, gxh5 206. Kg2; 
+
+213. Kf2; 220. Ke2; 227. Kd2; 234. Kc2; 241. Kb2; 248. Ka3; 255. Kb4, 
+
+Kc8 256. Dcst, Kb8" 257. Kxc4, Da7° 258. Dxa7t, Kxa7 259. Kc5, b6}" 
+260. axb6f, Kb7 261. c4, a5 262. Kb5, a4 263. Kxa4, Kxb6 264. Kb4, Kc6 
+265. c5, Kd5 266. Kb5, Kxe6 267. Kc6, Kf7 268. Kd7, e5 269. C6, Se7 270. C7, 
+
+
+37 
+
+
+BLÄTHY: VIELZÜGIGE SCHACHAUFGABEN 
+
+
+Sd5 271. c8D, Sb6+ 272. Kd8, Sxc8 273. Kxc8, Ke8 274. Kc7, Ke7 275. Kc6, 
+Ke6 276. Kc5 und 292. + 
+A 7... Kd8 8. Ddaf, Ke8 9. Dg7 
+B 76... Kc8; 83. hxg4, Kc8; 90. Kf2; 97. Ke2; 104. Kd>; ı11. Kc2; 118. Kb3; 
+125. Ka3; 132. Kb4, hxg4 133. Ddst+ 134. Dd4t 135. Dxh8, Kc7 136. Dest, 
+Kc8 137. Dc5t, Kb8 138. Dxc4 
+C 137....b6 138. Dxg8} 139. Dxa8} 140. axb6, Kb8 141. Kxc4, Kb7 
+142. Kc5, a5 143. Kb5, a4 144. Kxa4, Kxb6 145. Kb4 
+C 137....b5 138. Dxg8t 139. Dxa8t 140. g4, hxg4 141. h5, g3 142. hxg6, g2 
+143. 87, g1D 144. g8Df, Kb7 145. Dg7 
+C 137....Da7 138. Dxg8} 139. De8, Dxe3? 140. Dxe7t, Kb8 141. Dd8} 
+142. Db6+ 
+a 139.... Kd6 140. Dd7t 141. Dxe7, Dxe3 142. Dd7 
+139. ... Kc7 140. Dd7t 141. Kxc4, bs? 142. axb6, Db7 143. Kcs, a5 
+144. Kb5, a4 145. Dd8+ 146. Dxc8} 147. Kxa4 
+b ıaı.... Da7 142. Dd4 [? Dds#] 143. Dd8+ 144. Db6+ 145. Kb4, Kc8; 
+152. c4, Kc8 153. Dc5t, Kb8 154. Dest, Kc8 155. Dd5, Kc7° 156. Dd7t 
+157. c5, Ka7 158. c6 
+155. ... Kb8 156. Dd8+ 157. Dd4t 158. c5 
+198. ...hxg4} 199. Kxg4; 206. h5, gxh5t 207. Kxh5; 214. Kg6; 217. Kf7 
+256.... Kd8 257. Dd5t, Kc8 258. Dd7t 259. Kxc4, wieinD 
+257....b5} 258. axb6, Db7 259. Kb4, Dc8 260. Dxc8} 261. Ka5, Kb7 
+262.C4 
+H 2509. ... Ka8 260. Kb6; 263. c6, bxc6 264. Kxc6, Kc8; 266. Kxa6, Kc7; 
+268. Kc5, Ka6; 270. Kxe4; 274. Kxg8 
+Der Versuch das Spiel abzukürzen: 
+139. Dcs5f, Kb8 140. Kxc4, Da7 141. Dxa7t, Kxa7 142. Kc5, b6+ 143. axb6f, 
+Kb7 144. c4, a5 145. Kb5, a4 146. Kxa4, Kxb6 147. Kb4, Kc6 148. c5, Kd5 
+149. Kb5, Kxe6 150. Kc6, Kf7 151. Kd7, e5 152. c6, Se7 153. c7, Sd5 154. c8D 
+(154. Kd6, Sb6) 154. ... Sb6+ 155. Kc7, Sxc8 156. Kxc8, Ke6 157. Kd8!, Kf5 
+158. Ke7, Kg4 159. Kf6, Kf3 160. Kxg6, Kxe3 161. Kxhs5, Kfz führt auch in 
+anderen Varianten nur zur Ausgleichung. 
+
+
+oHbmo 
+
+
+38 
+
+
+LÖSUNGEN 
+
+
+In untenstehenden Diagrammen seien noch zwei versionen dersel- 
+ben Idee in partegemässen Stellungen veranschaulicht; leider muss an 
+der Correctheit der rechtsstehenden Aufgabe noch gezweifelt werden. 
+
+
+
+
+
+
+
+
+m , ,. 2a 
+muN nn 
+2 armız 
+Bu m m a4 4, be en 
+| mi im‘ RR 
+.. ne © 
+74 ze 5 MN 
+
+
+Mat in 264 Zügen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat in 345 Zügen 
+
+
+Zum Schlusse möge noch folgende treffliche Composition (das „Qua- 
+drat“) platz finden: 
+
+
+Herrn Wilhelm Schmidt, 
+Freeman ofthe City ofLondon 
+gewidmet von 
+Heinrich EL. mn in London 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weiss macht Remis 
+
+
+39 
+
+
