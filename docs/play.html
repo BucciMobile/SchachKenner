@@ -313,6 +313,8 @@ function loadGame(i){
   maybeAnalyze();
 }
 
+function currentPgnText(){ return curGame ? curGame.pgn : ch.pgn(); }
+
 function renderMeta(){
   const t = curGame ? curGame.tags : {};
   $("meta").innerHTML =
@@ -403,6 +405,13 @@ function render(){
   mv.scrollTop = mv.scrollHeight;
   $("plyInfo").textContent = "move " + Math.floor(ply / 2 + 1) + " · ply " + ply + "/" + fullVerbose.length +
     (ch.isGameOver() ? " · game over" : "");
+  // keep raw-PGN panel in sync (esp. in play mode, where curGame is null)
+  $("rawPgn").textContent = currentPgnText();
+  if (!curGame && mode === "play"){
+    const res = ch.isGameOver() ? (ch.isCheckmate() ? (ch.turn() === "w" ? "0-1" : "1-0") : "1/2-1/2") : null;
+    $("meta").innerHTML = "You (<strong>" + (playerColor === "w" ? "White" : "Black") + "</strong>) vs <strong>Stockfish 16</strong> (depth " + $("depth").value + ")" +
+      (res ? " — <strong>" + res + "</strong>, game over" : " — move " + Math.ceil(ply / 2));
+  }
 }
 
 $("moves").addEventListener("click", ev => {
@@ -699,7 +708,7 @@ $("shareBtn").addEventListener("click", async () => {
   );
 });
 $("copyBtn").addEventListener("click", () => {
-  const txt = curGame ? curGame.pgn : ch.pgn();
+  const txt = currentPgnText();
   (navigator.clipboard ? navigator.clipboard.writeText(txt) : Promise.reject()).then(
     () => setStatus("PGN copied ✅"),
     () => { const ta = document.createElement("textarea"); ta.value = txt; document.body.appendChild(ta); ta.select(); document.execCommand("copy"); ta.remove(); setStatus("PGN copied ✅"); }
