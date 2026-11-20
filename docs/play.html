@@ -228,11 +228,24 @@ function parsePGN(text){
 }
 
 function sanList(movetext){
-  // strip comments, variations, NAGs, move numbers, result
+  // strip brace/semicolon comments FIRST (lichess comments like { [%clk 0:05:00] } contain '%'!),
+  // then variations, escape comments, NAGs, move numbers, result, null moves
   let t = movetext.replace(/\{[^}]*\}/g, " ").replace(/;[^\n]*/g, " ");
   let prev;
   do { prev = t; t = t.replace(/\([^()]*\)/g, " "); } while (t !== prev);
-  return t.split(/\s+/).filter(tok => tok && !/^[0-9]+\.+$/.test(tok) && !/^(1-0|0-1|1\/2-1\/2|\*)$/.test(tok) && !/^\$\d+$/.test(tok));
+  t = t.replace(/%[^\n]*/g, " ");
+  const out = [];
+  for (const tok of t.split(/\s+/)){
+    if (!tok) continue;
+    let s = tok.replace(/^\d+\.+/, "");          // glued move numbers too: "1.d4" -> "d4", "10...Nf6" -> "Nf6"
+    if (!s) continue;
+    if (/^(1-0|0-1|1\/2-1\/2|\*)$/.test(s)) continue;
+    if (/^\$\d+$/.test(s)) continue;             // NAG
+    if (/^[-\u2010-\u2015]+$/.test(s) || /^(Z0|null)$/i.test(s)) continue; // null move
+    s = s.replace(/[!?]+$/, "");                  // annotation glyphs (chess.js keeps +/# itself)
+    if (s) out.push(s);
+  }
+  return out;
 }
 
 /* ---------- game loading / navigation ---------- */
@@ -247,7 +260,8 @@ function rebuild(p){
 function loadGame(i){
   const g = games[i]; if (!g) return;
   curGame = g;
-  variantFallback = false;
+  const variant = g.tags.Variant || "Standard";
+  variantFallback = variant !== "Standard";      // [Variant] header decides first (Horde/KOTH/… replay misleadingly as "standard")
   startFen = (g.tags.SetUp === "1" && g.tags.FEN) ? g.tags.FEN : null;
   sans = sanList(g.movetext);
   const test = new Chess();
@@ -259,7 +273,12 @@ function loadGame(i){
     // variant (Chess960/Atomic/…) or unparsable: show raw PGN only
     sans = []; fullVerbose = []; ply = 0;
     rebuild(0);
-    $("meta").innerHTML = "⚠️ This game uses a variant the in-browser board can't render (e.g. Chess960/Atomic/Crazyhouse) — raw PGN below; use <a href='https://lichess.org/analysis' target='_blank' rel='noopener'>lichess analysis</a> for full support.";
+    const why = variant !== "Standard"
+      ? "is a <strong>" + esc(variant) + "</strong> game, which the in-browser board (chess.js) can't render"
+      : (startFen
+        ? "starts from a custom position (SetUp/FEN — e.g. Chess960), which the in-browser board (chess.js) can't render"
+        : "couldn't be parsed by the in-browser board (chess.js)");
+    $("meta").innerHTML = "⚠️ This game " + why + " — raw PGN below; use <a href='https://lichess.org/analysis' target='_blank' rel='noopener'>lichess analysis</a> for full support.";
     $("moves").innerHTML = "";
     $("pvLine").textContent = "";
   } else {

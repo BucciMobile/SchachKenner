@@ -13,6 +13,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. g3 Qg5 5. Nf3 Qxg3+ 6. hxg3 Bxg3# 0-1
 
+
 [Event "Paris"]
 [Site "Paris"]
 [Date "1836.??.??"]
@@ -28,6 +29,7 @@
 
 1. f4 f5 2. Nf3 Nf6 3. d4 d5 4. c4 c6 5. e3 e6 6. Nc3 Na6 7. cxd5 cxd5 8. Bxa6 bxa6 9. O-O Bd7 10. a4 Bb4 11. Bd2 Bxc3 12. Bxc3 O-O 13. b3 Ne4 14. Bb2 Rb8 15. Ne5 Be8 16. Qd3 Rf6 17. Rfc1 Rh6 18. Rc2 Qb6 19. Rac1 Qd8 20. Qxa6 Qh4 21. Nf3 Qh5 22. Rc8 Rxc8 23. Rxc8 Rf6 24. Qc6 Rf8 25. Ba3 h6 26. Qxe6+ 1-0
 
+
 [Event "Bristol"]
 [Site "Bristol"]
 [Date "1845.01.01"]
@@ -41,6 +43,7 @@
 [Epoch "Pawn"]
 
 1. f4 f5 2. d4 d5 3. Nf3 c5 4. e3 e6 5. Bd3 c4 6. Be2 Nf6 7. O-O Bd7 8. b3 b5 9. bxc4 bxc4 10. Ne5 Nc6 11. Bh5+ g6 12. Nxg6 hxg6 13. Bxg6+ Ke7 14. Ba3+ Nb4 15. Bxb4# 1-0
+
 
 [Event "London"]
 [Site "London"]
@@ -57,6 +60,7 @@
 
 1. f4 e6 2. e3 d5 3. Nf3 Nf6 4. b3 Bd6 5. Bb2 O-O 6. Bd3 c5 7. Ng5 h6 8. Nf3 Nc6 9. a3 Qc7 10. Bxf6 gxf6 11. Nh4 f5 12. g4 Qe7 13. g5 hxg5 14. Qh5 f6 15. Ng6 Qh7 16. Qxh7+ Kxh7 17. Nxf8+ Bxf8 18. fxg5 fxg5 19. Rg1 Ne5 20. Be2 Kg6 21. d4 cxd4 22. exd4 Nc6 23. c3 Bg7 24. Ra2 Bd7 25. Nd2 Rh8 26. Bb5 g4 27. Bxc6 Bxc6 28. Nf3 Rh3 29. Rf2 Kh6 30. Ne5 Bxe5 31. dxe5 Re3+ 32. Kd2 Rxe5 33. h3 Re4 34. hxg4 fxg4 35. Re2 Rxe2+ 36. Kxe2 Kg5 37. Ke3 e5 38. Kf2 Kf4 39. Rg3 Bd7 40. Rd3 Be6 41. b4 b5 42. Rg3 d4 43. cxd4 exd4 44. Rd3 Ke4 45. Rg3 Bf5 46. Ke2 Kf4 47. Kf2 Be4 48. Rg1 Bf3 49. Ra1 d3 50. Ra2 g3+ 51. Kg1 Ke3 52. a4 d2 53. Ra3+ Kf4 0-1
 
+
 [Event "London"]
 [Site "London"]
 [Date "1849.??.??"]
@@ -72,6 +76,7 @@
 
 1. f4 f5 2. c4 Nf6 3. Nc3 e6 4. d3 Nc6 5. Nf3 d5 6. cxd5 Nxd5 7. e3 Be7 8. Be2 O-O 9. O-O Bf6 10. Bd2 Kh8 11. d4 Nce7 12. Bc4 c6 13. Ne2 Bd7 14. Ng3 Be8 15. Rc1 Bg6 16. Bb3 Rg8 17. Qe2 Qd6 18. h4 Raf8 19. a3 h6 20. Kf2 Re8 21. h5 Bh7 22. Rh1 Ref8 23. Qd3 g5 24. hxg6 Rxg6 25. Ne2 Rfg8 26. g3 R8g7 27. Rh3 Ng8 28. Qc4 h5 29. Rxh5 Nh6 30. Nh2 Bd8 31. Qc5 Qxc5 32. dxc5 Nf6 33. Bc2 Nxh5 34. Rg1 Ng4+ 35. Nxg4 Rxg4 36. Bb3 R4g6 37. Bc4 Kg8 38. b4 Nxg3 39. Nxg3 Rxg3 40. Bxe6+ Kf8 41. Rxg3 Bh4 42. Ke2 Rxg3 43. Bc3 Ke7 44. Bc8 b5 45. cxb6 axb6 46. Bd4 b5 47. Bc5+ Kd8 48. Be6 Be7 49. Bb6+ Ke8 50. Kd3 Rg2 51. Kd4 Bd6 52. Kc3 Ke7 53. Bc8 Ra2 54. Kb3 Bg8+ 55. Kc3 Rxa3+ 56. Kd4 Be6 57. Bb7 Kd7 58. Bc5 Bxc5+ 59. Kxc5 Bd5 60. Kd4 Kc7 61. Ke5 Be4 0-1
 
+
 [Event "Londen m"]
 [Site "Londen m"]
 [Date "1849.01.01"]
@@ -86,6 +91,7 @@
 [BlackCountry "ENG"]
 
 1. f4 c5 2. c4 e6 3. e4 Nc6 4. Nf3 d6 5. Be2 g6 6. Nc3 Bg7 7. d3 Nh6 8. h3 f5 9. Be3 Nd4 10. Qd2 Bd7 11. Bf2 O-O 12. Nxd4 Bxd4 13. Bf3 Bc6 14. Bxd4 cxd4 15. Ne2 Qb6 16. b4 fxe4 17. dxe4 d3 18. Qxd3 Qxb4+ 19. Kf2 Qc5+ 20. Qd4 Qxd4+ 21. Nxd4 Rxf4 22. Nxe6 Rf6 23. Nc7 Rc8 24. Nd5 Bxd5 25. cxd5 Rff8 26. Rhc1 Nf7 27. Rab1 b6 28. Rc6 Rxc6 29. dxc6 Rc8 30. Rc1 Rc7 31. Bg4 Nd8 32. Bd7 Kg7 33. Ke3 Nf7 34. Kd4 Ne5 35. Kd5 Nxd7 36. Kxd6 Rxc6+ 37. Rxc6 Nf6 38. e5 Ne4+ 39. Kd7 Nc5+ 40. Rxc5 1-0
+
 
 [Event "London"]
 [Site "London"]
@@ -103,6 +109,7 @@
 
 1. f4 e6 2. e3 d5 3. Nf3 Nf6 4. b3 Bd6 5. Bb2 O-O 6. Bd3 c5 7. Ng5 h6 8. Nf3 Nc6 9. a3 Qc7 10. Bxf6 gxf6 11. Nh4 f5 12. g4 Qe7 13. g5 hxg5 14. Qh5 f6 15. Ng6 Qh7 16. Qxh7+ Kxh7 17. Nxf8+ Bxf8 18. fxg5 fxg5 19. Rg1 Ne5 20. Be2 Kg6 21. d4 cxd4 22. exd4 Nc6 23. c3 Bg7 24. Ra2 Bd7 25. Nd2 Rh8 26. Bb5 g4 27. Bxc6 Bxc6 28. Nf3 Rh3 29. Rf2 Kh6 30. Ne5 Bxe5 31. dxe5 Re3+ 32. Kd2 Rxe5 33. h3 Re4 34. hxg4 fxg4 35. Re2 Rxe2+ 36. Kxe2 Kg5 37. Ke3 e5 38. Kf2 Kf4 39. Rg3 Bd7 40. Rd3 Be6 41. b4 b5 42. Rg3 d4 43. cxd4 exd4 44. Rd3 Ke4 45. Rg3 Bf5 46. Ke2 Kf4 47. Kf2 Be4 48. Rg1 Bf3 49. Ra1 d3 50. Ra2 g3+ 51. Kf1 Ke3 52. a4 d2 53. Ra3+ Kf4 1-0
 
+
 [Event "London m5"]
 [Site "Londen m"]
 [Date "1851.01.01"]
@@ -118,6 +125,7 @@
 [WhiteCountry "ENG"]
 
 1. f4 e6 2. e3 b6 3. Nf3 Bb7 4. b3 Nc6 5. Bb2 f6 6. Be2 Nh6 7. O-O Be7 8. Bb5 O-O 9. Bxc6 Bxc6 10. c4 d6 11. d3 e5 12. d4 e4 13. Ne1 f5 14. Nc3 Bd7 15. Qh5 Bf6 16. g3 Ng4 17. Ng2 c6 18. Nd1 Qe7 19. Nf2 g6 20. Qh3 Qg7 21. Rad1 h6 22. Bc1 g5 23. Nxg4 fxg4 24. Qh5 gxf4 25. Rxf4 Bg5 26. Rff1 Rf3 27. Nf4 Kh7 28. d5 Bxf4 29. exf4 c5 30. Rfe1 Re8 31. Re2 Qg6 32. Qxg6+ Kxg6 33. Rde1 Bf5 34. Re3 h5 35. h4 Rxe3 36. Rxe3 Bd7 37. Kf2 Kf5 38. Bd2 b5 39. Ba5 Rc8 40. Re2 Be8 41. Rd2 a6 42. Bc3 Rc7 43. Ba5 Rb7 44. Ke3 b4 45. Bd8 Bg6 46. Rb2 Rd7 47. Bg5 a5 48. Bh6 Kf6 49. Bg5+ Kf7 50. Rb1 Bf5 51. Ra1 Rb7 52. a4 1/2-1/2
+
 
 [Event "London m6"]
 [Site "Londen m"]
@@ -135,6 +143,7 @@
 
 1. f4 f5 2. e3 Nf6 3. Nf3 e6 4. b3 b6 5. Bb2 Bb7 6. Be2 Be7 7. O-O O-O 8. c4 Ne4 9. d3 Bf6 10. Be5 Bxe5 11. Nxe5 Nf6 12. Nc3 d6 13. Nf3 Qe7 14. Qd2 e5 15. Rae1 Nbd7 16. Bd1 Rae8 17. b4 c5 18. b5 h6 19. Nh4 Qe6 20. fxe5 Nxe5 21. Nxf5 Nfg4 22. e4 Qg6 23. h3 Nf6 24. Re3 Nh5 25. Qf2 Nf7 26. Qh4 Qf6 27. Bxh5 Qxc3 28. Ne7+ Kh7 29. Bg6+ Kh8 30. Bxf7 Qd4 31. Nf5 Qb2 32. Bxe8 Rxe8 33. Nxh6 1-0
 
+
 [Event "London m6"]
 [Site "Londen m"]
 [Date "1851.01.01"]
@@ -150,6 +159,7 @@
 [WhiteCountry "ENG"]
 
 1. f4 c5 2. e3 e6 3. Nf3 g6 4. Be2 Bg7 5. O-O Ne7 6. Nc3 d5 7. Bb5+ Nd7 8. Ne2 O-O 9. c4 Nf6 10. Ne5 a6 11. Ba4 dxc4 12. Ng3 b5 13. Bc2 Bb7 14. Qe2 Nfd5 15. Nf3 f5 16. a3 Nc6 17. Rb1 Qd6 18. h4 Rae8 19. h5 e5 20. hxg6 hxg6 21. fxe5 Nxe5 22. b3 Nf4 23. Qd1 Nxf3+ 24. gxf3 Nd3 25. f4 Qd5 26. Qe2 Nxc1 27. Rfxc1 c3 28. Rd1 cxd2 29. Rxd2 Bd4 30. Kf1 Qc6 31. Rd3 Rf7 32. Qf2 Bg7 33. Rbd1 Bf8 34. Ke2 c4 35. bxc4 bxc4 36. Rc3 Bg7 37. Kd2 Rd7+ 0-1
+
 
 [Event "London m5"]
 [Site "Londen m"]
@@ -167,6 +177,7 @@
 
 1. f4 e6 2. e3 b6 3. Nf3 Bb7 4. b3 Nh6 5. Bb2 f6 6. Be2 Be7 7. O-O O-O 8. c4 c5 9. Nc3 d5 10. Qc2 Na6 11. a3 Nc7 12. Rae1 f5 13. Nd1 Bf6 14. Be5 Bxe5 15. Nxe5 Ne8 16. Nf2 Nf7 17. d4 Rc8 18. Qd1 Ned6 19. Bf3 dxc4 20. Bxb7 Nxb7 21. Nxc4 cxd4 22. Qxd4 Qe7 23. b4 Nfd6 24. Ne5 Rfd8 25. Qb2 Nc4 26. Nxc4 Rxc4 27. Rc1 Nd6 28. Rfd1 Rdc8 29. Rxc4 Nxc4 30. Qb3 b5 31. e4 Rd8 32. exf5 exf5 33. Rxd8+ Qxd8 34. a4 Qd2 35. g3 Kf8 36. Qf3 Ne3 37. Qa8+ Kf7 38. Qxa7+ Kg6 39. Qb6+ Kh5 0-1
 
+
 [Event "London m1"]
 [Site "Londen m"]
 [Date "1851.01.01"]
@@ -182,6 +193,7 @@
 [BlackCountry "HUN"]
 
 1. f4 f5 2. b3 Nf6 3. g3 e6 4. Bb2 Be7 5. Bg2 c6 6. Nc3 Na6 7. Nh3 d6 8. O-O O-O 9. e3 Bd7 10. Qe2 h6 11. Rfe1 Qc7 12. Nf2 e5 13. fxe5 dxe5 14. Nd3 Bd6 15. e4 f4 16. gxf4 Bg4 17. Qf2 Qd7 18. Qh4 Nh5 19. f5 Nf6 20. Ne2 Bxe2 21. Rxe2 Rae8 22. Kh1 b5 23. Bf3 Qf7 24. Rg1 Kh7 25. Rg6 Rg8 26. Reg2 Nb8 27. Nf2 Nbd7 28. d3 Kh8 29. Bc1 Be7 30. Bh5 Qf8 31. Qh3 Nxh5 32. Qxh5 Nf6 33. Qh3 Ba3 34. Bxh6 Nh7 35. Bxg7+ Rxg7 36. Rxg7 Qxg7 37. Rxg7 Kxg7 38. Ng4 Bc1 39. Qh5 Re7 40. Qg6+ Kf8 41. f6 1-0
+
 
 [Event "London m6"]
 [Site "Londen m"]
@@ -199,6 +211,7 @@
 
 1. f4 e6 2. e3 f5 3. g3 Nf6 4. Bg2 d5 5. Nf3 c5 6. b3 Nc6 7. O-O Bd6 8. Bb2 O-O 9. Qe2 Bc7 10. Na3 a6 11. Rad1 b5 12. c4 bxc4 13. bxc4 Rb8 14. Bxf6 Qxf6 15. cxd5 exd5 16. d4 c4 17. Ne5 Nb4 18. Naxc4 dxc4 19. a3 Bxe5 20. dxe5 Qf7 21. axb4 Rxb4 22. Rd6 Bb7 23. e6 Qc7 24. Rd7 Qc8 25. Qd1 Bc6 26. Bxc6 Qxc6 27. Qd4 Rf6 28. Rd6 Qb5 29. Rd8+ Rf8 30. Rxf8+ Kxf8 31. Qd6+ Ke8 32. Rd1 1-0
 
+
 [Event "London2"]
 [Site "London"]
 [Date "1851.01.01"]
@@ -214,6 +227,7 @@
 [WhiteCountry "ENG"]
 
 1. f4 f5 2. Nf3 Nf6 3. e3 e6 4. Be2 Be7 5. b3 Ne4 6. Na3 b6 7. Nc4 O-O 8. Bb2 Bf6 9. Rc1 a5 10. d3 Bxb2 11. Nxb2 Nc3 12. Qd2 Nxa2 13. Ra1 Nb4 14. O-O d6 15. c3 Nd5 16. b4 c5 17. bxa5 bxa5 18. Ra3 Nc6 19. Rfa1 Ba6 20. d4 Bxe2 21. Qxe2 cxd4 22. Nxd4 Nxd4 23. cxd4 Rf7 24. Nc4 Rfa7 25. Qa2 a4 26. Nb2 Qd7 27. Qc4 Rc8 28. Qe2 Rac7 29. Nxa4 Rc1+ 30. Rxc1 Rxc1+ 31. Kf2 Qc6 32. Kg3 Nf6 33. Ra2 Qe8 34. h3 Ne4+ 35. Kh2 Rh1+ 36. Kxh1 Ng3+ 37. Kh2 Nxe2 38. Rxe2 Qxa4 0-1
+
 
 [Event "London"]
 [Site "London"]
@@ -231,6 +245,7 @@
 
 1. f4 c5 2. Nf3 e6 3. e3 g6 4. c3 Bg7 5. Na3 Ne7 6. Be2 O-O 7. O-O b6 8. Nc2 Bb7 9. Rb1 Nbc6 10. b3 e5 11. fxe5 Nxe5 12. d4 Ng4 13. h3 Nf6 14. Bd3 Rc8 15. dxc5 Nfd5 16. Bd2 bxc5 17. c4 Nc3 18. Bxc3 Bxc3 19. Nh2 Qc7 20. Qe2 Rce8 21. Ne1 d5 22. Rc1 Bg7 23. cxd5 Nxd5 24. e4 Bd4+ 25. Kh1 Nf4 26. Qc2 Nh5 27. Rf3 Ng3+ 28. Rxg3 Qxg3 29. Nef3 Rc8 30. Rf1 h5 31. Qd2 Bg7 32. Qc2 Kh7 33. Rf2 Bd4 34. Rf1 Kg7 35. Qd2 Rcd8 36. Qc2 Rd6 37. Nxd4 Rxd4 38. Nf3 Rd7 39. Qc3+ Kg8 40. Bc2 Rfd8 41. Qxc5 Ba6 42. Rf2 Rd4 43. Nxd4 Qxf2 44. Ne6 Qf1+ 45. Kh2 fxe6 46. Qg5 Rd7 47. Qxg6+ Kf8 48. Qxe6 Qf4+ 49. Kh1 Rd6 50. Qf5+ Qxf5 51. exf5 Bb7 0-1
 
+
 [Event "London m1"]
 [Site "Londen m"]
 [Date "1851.01.01"]
@@ -246,6 +261,7 @@
 [WhiteCountry "HUN"]
 
 1. f4 e6 2. Nf3 g6 3. e3 b6 4. Be2 Bg7 5. O-O Bb7 6. c3 f5 7. Na3 Nc6 8. d3 Nh6 9. h3 O-O 10. e4 Ne7 11. Qc2 Nf7 12. Be3 fxe4 13. dxe4 Nd6 14. Bd3 Bh6 15. Ne5 Nc6 16. Ng4 Bg7 17. Rad1 Qe7 18. b4 Nf7 19. Nc4 d5 20. Nb2 d4 21. cxd4 Nxb4 22. Qb3 Nxd3 23. Qxd3 Rad8 24. Qc2 Nd6 25. Nf2 Bh6 26. Ng4 Bg7 27. Nf2 Rf7 28. Rfe1 Rdf8 29. Nc4 h5 30. Ne5 Bxe5 31. fxe5 Ne8 32. Rd2 Qh4 33. Kh2 Kh7 34. g3 Qe7 35. h4 a5 36. Nh3 Rf1 37. Rxf1 Rxf1 38. Ng5+ Kg8 39. Rf2 Rxf2+ 40. Qxf2 Bc8 41. d5 Qf8 42. Qc2 exd5 43. exd5 Bf5 44. Qc6 Qe7 45. Bd4 Qd7 46. Qc4 Kf8 47. a4 Qe7 48. d6 cxd6 49. Bxb6 Qb7 50. exd6 Nf6 51. Qd4 Ng4+ 52. Kg1 Ne5 53. d7 Nxd7 54. Qh8+ Ke7 55. Qg7+ Kd6 56. Nf7+ 1-0
+
 
 [Event "cr."]
 [Site "cr."]
@@ -263,6 +279,7 @@
 
 1. f4 e5 2. fxe5 Nc6 3. Nf3 d6 4. exd6 Bxd6 5. e4 Bg4 6. Bb5 Nf6 7. Nc3 O-O 8. Bxc6 bxc6 9. d3 Bc5 10. Bg5 Re8 11. Qe2 Rb8 12. Na4 Qd6 13. Bxf6 gxf6 14. Nxc5 Qxc5 15. c3 f5 16. h3 fxe4 17. dxe4 Bf5 18. e5 Red8 19. Nd4 Rxd4 20. cxd4 Qxd4 21. Rd1 Qc5 22. Rf1 Bc2 23. Rd2 Rxb2 24. Rd8+ Kg7 25. Rxf7+ Kxf7 26. e6+ 1-0
 
+
 [Event "cr."]
 [Site "cr."]
 [Date "1856.01.01"]
@@ -276,6 +293,7 @@
 [Epoch "Pawn"]
 
 1. f4 Nf6 2. d3 d5 3. e3 c5 4. Be2 e6 5. Nh3 Be7 6. Nf2 Nc6 7. Bd2 Bd6 8. Nc3 a6 9. Ng4 Nh5 10. g3 Nf6 11. Nf2 b5 12. Bf3 b4 13. Na4 Bd7 14. c4 dxc4 15. dxc4 Rb8 16. b3 Ne7 17. e4 e5 18. Nd3 Bxa4 19. fxe5 Bxe5 20. Nxe5 Bc6 21. Nxc6 Nxc6 22. Bf4 Rb6 23. Bd6 Nd7 24. Bg4 Nce5 25. Bxd7+ Nxd7 26. O-O Qg5 27. Bf4 Qe7 28. Qd5 O-O 29. e5 Qe6 30. Rad1 g5 31. Bxg5 Nxe5 32. Qxc5 Rc8 33. Qd4 a5 34. Rf4 Rb7 35. Qe3 Re8 36. Rdd4 f5 37. Rd5 Rd7 38. Rfd4 Rxd5 39. Rxd5 Kf7 40. Rxa5 Nf3+ 41. Qxf3 Qb6+ 42. c5 Qxa5 43. Qxf5+ Kg8 44. Qd5+ Kf8 45. Bh6+ Ke7 46. Qe5+ Kd8 47. Bg5+ Kc8 48. Qxe8+ 1-0
+
 
 [Event "London m1"]
 [Site "London"]
@@ -293,6 +311,7 @@
 
 1. f4 c5 2. e3 e6 3. b3 Be7 4. Nc3 Bh4+ 5. g3 Bf6 6. Nf3 d5 7. d4 cxd4 8. exd4 a6 9. Bd3 Nc6 10. Be3 b5 11. a4 b4 12. Ne2 Bb7 13. Rc1 h5 14. Qd2 Nh6 15. h3 Qd6 16. Ne5 Bxe5 17. fxe5 Qe7 18. Bg5 Qd7 19. O-O Rc8 20. Rf4 Nf5 21. Rcf1 g6 22. g4 hxg4 23. hxg4 Rg8 24. gxf5 gxf5 25. R4f2 Nxe5 26. dxe5 d4 27. Nxd4 f6 28. exf6 Qxd4 29. f7+ Kxf7 30. Bxf5 Qxd2 31. Bg6+ Kxg6 32. Bxd2 Kh7+ 33. Kh2 Rc5 34. Rf7+ Kh8 0-1
 
+
 [Event "London m1"]
 [Site "London"]
 [Date "1856.01.01"]
@@ -309,6 +328,7 @@
 
 1. f4 c5 2. Nf3 e6 3. e3 a6 4. b3 d5 5. Bb2 Nf6 6. Bd3 Nc6 7. O-O Bd6 8. Qe2 Nb4 9. Nc3 Nxd3 10. Qxd3 Qc7 11. Rae1 Bd7 12. Qe2 Bc6 13. d4 b5 14. Nd1 Bb7 15. Nf2 c4 16. Ne5 c3 17. Bc1 b4 18. Nfd3 g6 19. Ng4 Qe7 20. Nde5 h5 21. Nf2 Kf8 22. Nh3 a5 23. Ng5 Ba6 24. Nd3 Ne4 25. Qf3 f5 26. Rd1 h4 27. Rfe1 Nxg5 28. fxg5 Bxd3 29. cxd3 Qc7 30. h3 Bg3 31. Re2 Kg7 32. e4 dxe4 33. dxe4 Rad8 34. e5 Qb6 35. Be3 Rd5 36. Bf2 Rhd8 37. Rd3 Bxf2+ 38. Qxf2 Rxd4 39. Kh2 R8d5 40. Re4 fxe4 41. Qf6+ Kg8 42. Qxg6+ Kf8 43. Qf6+ Ke8 44. Rxd4 Qxd4 45. Qxe6+ Kd8 46. Qf6+ Kc7 47. Qg7+ Rd7 48. Qf6 c2 49. Qf4 e3 0-1
 
+
 [Event "Paris it"]
 [Site "Paris"]
 [Date "1860.01.01"]
@@ -323,6 +343,7 @@
 [BlackCountry "POL"]
 
 1. f4 f5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Bb4 5. d3 Bxc3+ 6. bxc3 c5 7. e3 O-O 8. Be2 Nc6 9. O-O b6 10. Ne5 Ne7 11. Bf3 Rb8 12. Qa4 a6 13. d4 Qc7 14. Ba3 b5 15. Qc2 d6 16. Nd3 bxc4 17. Nb2 cxd4 18. cxd4 d5 19. Na4 Bd7 20. Nc5 Bc8 21. Rab1 Rxb1 22. Rxb1 Ne4 23. Bxe4 fxe4 24. Qa4 Qc6 25. Qxc6 Nxc6 26. Rb6 Nd8 27. Bb4 Re8 28. a4 g5 29. g3 gxf4 30. gxf4 Kf7 31. Kf2 Rg8 32. Nxa6 h5 33. Nc5 h4 34. Bc3 h3 35. Kf1 Rg2 36. Rb2 Rxb2 37. Bxb2 Nc6 38. Bc3 Ke7 39. Kf2 Kd6 40. a5 Ne7 41. a6 Nc6 42. Kg3 Kc7 43. Kxh3 e5+ 44. Kg3 exd4 45. Bxd4 Nxd4 46. exd4 Kb6 47. h4 Bf5 48. Kf2 Ka7 49. Na4 Kxa6 50. Nc3 Ka5 51. Nxd5 Ka4 52. Ke3 Kb3 53. Kd2 Bh7 54. Ne3 Kb4 55. h5 c3+ 56. Kc2 Bg8 57. f5 1-0
+
 
 [Event "Londen m"]
 [Site "Londen m"]
@@ -340,6 +361,7 @@
 
 1. f4 f5 2. Nf3 e6 3. e3 Nf6 4. Be2 Be7 5. O-O O-O 6. b3 d6 7. Bb2 c5 8. h3 Nc6 9. c4 Ne4 10. Kh2 Bf6 11. d4 cxd4 12. exd4 Bd7 13. Na3 Qe8 14. Nb5 Qg6 15. Qe1 Qh6 16. Bd3 Kh8 17. Na3 Be8 18. Nc2 d5 19. g3 Bh5 20. Ne5 Be7 21. Ne3 Bb4 22. Qc1 Bd2 23. Qc2 Nxe5 24. Bxe4 fxe4 25. Qxd2 Nf3+ 26. Rxf3 Bxf3 27. cxd5 exd5 28. Nxd5 Rad8 29. Ne3 Rd6 30. h4 Rxf4 31. Qe1 Rg6 32. Bc1 Rxh4+ 33. gxh4 Qf4+ 34. Kh3 Bg2+ 35. Nxg2 Qf3+ 36. Kh2 Qxg2# 0-1
 
+
 [Event "London m2"]
 [Site "Londen m"]
 [Date "1861.01.01"]
@@ -355,6 +377,7 @@
 [WhiteCountry "HUN"]
 
 1. f4 e6 2. Nf3 f5 3. e3 Nf6 4. Be2 Be7 5. O-O O-O 6. b3 d6 7. Bb2 c5 8. d3 Nc6 9. Qd2 Bd7 10. c4 Qc7 11. Nc3 a6 12. Bd1 d5 13. Ne5 Bd6 14. Nxd7 Qxd7 15. Bf3 Be7 16. Rad1 Rad8 17. Qf2 Qc7 18. Ne2 Rf7 19. Qg3 b6 20. Be5 Qc8 21. a3 Rff8 22. h3 Rf7 23. Kh2 Ne8 24. Nc3 Nxe5 25. fxe5 d4 26. exd4 cxd4 27. Na4 Bxa3 28. Nxb6 Qb8 29. Ra1 Bf8 30. Na4 Qxb3 31. Bh5 Rb7 32. Rfb1 Qxb1 33. Rxb1 Rxb1 34. Qf4 Rdb8 35. Qxd4 g6 36. Bf3 Re1 37. Nc5 Bg7 38. Nd7 Rd8 39. Qh4 Rxd7 40. Qxe1 Rxd3 41. Kg1 Ra3 42. Qc1 Ra5 43. Qd2 Ra1+ 44. Kf2 Bxe5 45. Qd8 Ra2+ 46. Ke3 Ra3+ 47. Kf2 Ra2+ 48. Be2 Kf8 49. c5 a5 50. Kf1 Ra1+ 51. Kf2 Ra2 1/2-1/2
+
 
 [Event "Londen m"]
 [Site "Londen m"]
@@ -372,6 +395,7 @@
 
 1. f4 e6 2. Nf3 d5 3. e3 c5 4. Bb5+ Nc6 5. Bxc6+ bxc6 6. c4 Ba6 7. Na3 Bd6 8. O-O Nf6 9. b3 O-O 10. Bb2 Nd7 11. Qc2 f5 12. Rae1 Nf6 13. Nb1 Qa5 14. Bc3 Qc7 15. d3 Rae8 16. Bb2 Nd7 17. Nbd2 e5 18. g3 d4 19. fxe5 Nxe5 20. Nxe5 Bxe5 21. Nf3 Bf6 22. exd4 cxd4 23. Bxd4 Bxd4+ 24. Nxd4 c5 25. Rxe8 Rxe8 26. Nxf5 Bb7 27. Qf2 h6 28. d4 cxd4 29. Qxd4 Re2 30. Nxh6+ Kh7 31. Rf7 1-0
 
+
 [Event "Londen m"]
 [Site "Londen m"]
 [Date "1861.01.01"]
@@ -388,6 +412,7 @@
 
 1. f4 f5 2. Nf3 Nf6 3. e3 e6 4. Be2 Be7 5. O-O O-O 6. b3 b6 7. Ne5 Bb7 8. Bf3 c6 9. Nc3 Qc7 10. Bb2 d6 11. Nd3 Nbd7 12. Nf2 e5 13. g3 Rae8 14. Qe2 d5 15. Nh3 e4 16. Bg2 Nc5 17. Qe1 Ba6 18. Ne2 Ne6 19. Rc1 Qd7 20. Nf2 d4 21. exd4 Bxe2 22. Qxe2 Nxd4 23. Qc4+ Ne6 24. Rcd1 Nd5 25. Rfe1 Bf6 26. c3 Kh8 27. Qe2 Qf7 28. d4 Rd8 29. Nd3 Nxc3 30. Bxc3 Bxd4+ 31. Bxd4 Nxd4 32. Qf1 exd3 33. Rxd3 c5 34. Rde3 Rde8 35. Re5 Rxe5 36. Rxe5 h6 37. Qe1 Qh5 38. Re7 Rd8 39. Qe5 Qd1+ 40. Kf2 Qc2+ 41. Kf1 Qb1+ 42. Qe1 Nxb3 43. Qxb1 Nd2+ 44. Ke1 Nxb1 45. Rxa7 Nc3 46. Bf3 b5 47. Rc7 c4 48. Rc5 Rb8 49. a3 Kg8 50. Rxf5 Nb1 51. a4 b4 52. Bd5+ Kh8 53. Bxc4 b3 54. Rb5 Re8+ 55. Kf2 Na3 56. Rb4 Nxc4 57. Rxc4 Rb8 58. Rc1 Rb4 59. Rb1 Rxa4 60. Rxb3 Ra2+ 61. Kg1 Kh7 1/2-1/2
 
+
 [Event "London"]
 [Site "London"]
 [Date "1862.01.01"]
@@ -402,6 +427,7 @@
 [BlackCountry "ENG"]
 
 1. f4 d6 2. c4 e5 3. fxe5 dxe5 4. e3 Bc5 5. Nc3 Nc6 6. Nf3 Nf6 7. Be2 e4 8. Ng5 Bf5 9. O-O Qd7 10. Rf4 O-O-O 11. Ngxe4 Bxe4 12. Nxe4 Bxe3+ 13. dxe3 Qxd1+ 14. Bxd1 Rxd1+ 15. Kf2 Nxe4+ 16. Rxe4 f5 17. Rf4 Nb4 18. Ke2 Rhd8 19. Rf1 Rxf1 20. Kxf1 Rd1+ 21. Ke2 Rg1 22. g3 Rg2+ 23. Kd1 Rxh2 24. Bd2 Rh1+ 25. Be1 Rxe1+ 26. Kxe1 Nc2+ 27. Kd1 Nxa1 28. Kc1 h5 29. Kb1 g5 0-1
+
 
 [Event "London mt"]
 [Site "London"]
@@ -419,6 +445,7 @@
 
 1. f4 f5 2. b3 Nf6 3. Nf3 e6 4. e3 b6 5. g3 Bb7 6. Bg2 Be7 7. Nc3 c5 8. O-O O-O 9. Bb2 Na6 10. Qe2 Nc7 11. d3 Qe8 12. Rae1 Rc8 13. Nd1 d6 14. c4 Qd7 15. Ne5 dxe5 16. Bxb7 Rb8 17. Bg2 exf4 18. exf4 Rbd8 19. Be5 Nfe8 20. Nb2 Bf6 21. Rd1 Bxe5 22. Qxe5 Nf6 23. Bf3 Qd4+ 24. Qxd4 Rxd4 25. Rfe1 Rfd8 26. Kf2 Kf7 27. Re3 g6 28. Rde1 h6 1/2-1/2
 
+
 [Event "Copenhagen"]
 [Site "Copenhagen"]
 [Date "1862.01.01"]
@@ -435,6 +462,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nh6 5. e4 Ng4 6. g3 Nxh2 7. Rxh2 Bxg3+ 8. Ke2 Bxh2 9. Nxh2 f5 10. Bg2 fxe4 11. Bxe4 Qh4 12. Qh1 O-O 13. Bd5+ Kh8 14. Qg1 Qh5+ 15. Bf3 Rxf3 16. Nxf3 Bg4 17. d3 Nc6 18. Bf4 Rf8 19. Bg3 Rxf3 20. Ke1 Qh6 21. Nc3 Nb4 0-1
 
+
 [Event "London mt"]
 [Site "London"]
 [Date "1862.01.01"]
@@ -450,6 +478,7 @@
 [WhiteCountry "ENG"]
 
 1. f4 f5 2. Nf3 Nf6 3. c4 e6 4. d4 Bb4+ 5. Bd2 Bxd2+ 6. Nbxd2 c5 7. e3 b6 8. Bd3 Nc6 9. O-O O-O 10. Nb3 Ne7 11. Qd2 d6 12. Rad1 Bb7 13. Be2 Ne4 14. Qc2 Kh8 15. Nbd2 Rf6 16. Ng5 h6 17. Ngxe4 fxe4 18. Nxe4 Rf8 19. dxc5 Nf5 20. Qd3 dxc5 21. Bf3 Qc7 22. Qe2 Nh4 23. Nd2 Nxf3+ 24. Nxf3 Be4 25. Ne5 Rad8 26. Qh5 Kg8 27. Qg4 Bf5 28. Qf3 Qc8 29. Rxd8 Rxd8 30. h3 Rd2 31. Rf2 Qd8 32. Kh2 Rxf2 33. Qxf2 Be4 34. Qe2 Qd6 1/2-1/2
+
 
 [Event "London m-B6263"]
 [Site "London"]
@@ -468,6 +497,7 @@
 
 1. f4 e5 2. fxe5 d6 3. Nf3 dxe5 4. Nxe5 Bd6 5. Nf3 Nf6 6. g3 Ng4 7. Rg1 h5 8. c3 h4 9. Qa4+ Nc6 10. Kd1 hxg3 11. hxg3 Qf6 12. d4 Nf2+ 13. Ke1 Ne4 14. Nbd2 Nxd2 15. Bxd2 Bg4 16. Ne5 Bxe5 17. dxe5 Qe6 18. Bg2 f5 19. Bg5 Qxe5 0-1
 
+
 [Event "London m6364"]
 [Site "London"]
 [Date "1864.01.01"]
@@ -483,6 +513,7 @@
 [WhiteCountry "ENG"]
 
 1. f4 Nf6 2. Nf3 Nc6 3. e3 d5 4. b3 e6 5. Bb2 Be7 6. g3 O-O 7. Bg2 b6 8. O-O Bb7 9. Nc3 Qd7 10. Ne2 Rad8 11. d4 Ne4 12. Nc3 Ba6 13. Ne2 f6 14. Nd2 f5 15. Nxe4 fxe4 16. Rf2 Bd6 17. Rc1 Rf7 18. a3 Ne7 19. Bh3 Nf5 20. Qd2 Kh8 21. Kh1 Qe7 22. a4 c6 23. Bg2 g5 24. Bh3 Rg8 25. Bxf5 Rxf5 26. Rcf1 gxf4 27. gxf4 Bc8 28. Ng3 Rf6 29. Rg1 Bd7 30. Rfg2 Be8 31. Nf5 Rxg2 32. Nxe7 Rxg1+ 33. Kxg1 Bxe7 34. Qe2 Bg6 35. Kf1 Bf5 36. Ke1 a5 37. Qh5 Rg6 38. Kf2 Kg7 1/2-1/2
+
 
 [Event "London m2"]
 [Site "Londen m"]
@@ -501,6 +532,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. d4 Nf6 5. Bg5 Nc6 6. Nf3 Bg4 7. e3 Qd7 8. Bb5 O-O-O 9. Bxf6 gxf6 10. d5 Qe7 11. Bxc6 Qxe3+ 12. Qe2 Qc1+ 13. Qd1 Rde8+ 14. Bxe8 Rxe8+ 15. Kf2 Qe3+ 16. Kf1 Bxf3 17. gxf3 Bc5 18. Kg2 Rg8+ 0-1
 
+
 [Event "London"]
 [Site "London"]
 [Date "1866.01.01"]
@@ -517,6 +549,7 @@
 [BlackCountry "AUT"]
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. d4 Nc6 6. Bg5 Bg4 7. e3 Qd7 8. Bxf6 gxf6 9. Bb5 O-O-O 10. d5 Qe7 11. Bxc6 Qxe3+ 12. Qe2 Qc1+ 13. Qd1 Rhe8+ 14. Bxe8 Rxe8+ 15. Kf2 Qe3+ 16. Kf1 Bxf3 17. gxf3 Bc5 18. Kg2 Rg8+ 0-1
+
 
 [Event "Berlin"]
 [Site "Berlin"]
@@ -535,6 +568,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nh6 5. d4 Ng4 6. Bg5 f6 7. Bh4 Qe7 8. Qd3 O-O 9. e4 Re8 10. Nbd2 Bf5 11. Qb3+ Kh8 12. e5 Nc6 13. O-O-O Bb4 14. h3 Nh6 15. c3 Ba5 16. g4 Bg6 17. g5 Ng8 18. gxf6 gxf6 19. Bc4 Qd7 20. Bxg8 Rxg8 21. Bxf6+ Rg7 22. h4 h5 23. Rdg1 Qe8 24. Rxg6 Qxg6 25. Rg1 Qh6 26. Qc2 1-0
 
+
 [Event "Glowworm"]
 [Site "Glowworm"]
 [Date "1869.01.01"]
@@ -550,6 +584,7 @@
 
 1. f4 c5 2. Nf3 d5 3. e3 Nc6 4. b3 a6 5. Be2 e6 6. Bb2 Nf6 7. O-O Bd6 8. Qe1 Ne7 9. c4 b6 10. Na3 Bb7 11. Rc1 Nf5 12. Ne5 Bxe5 13. Bxe5 O-O 14. g4 Ne7 15. Bf3 Ne8 16. d3 Ng6 17. Bb2 Qh4 18. Qe2 f5 19. g5 h6 20. Bh5 Ne7 21. gxh6 g5 22. fxg5 Qxg5+ 23. Kh1 Qxh6 24. Rg1+ Kh7 25. Bf3 Nf6 26. Rcf1 Ng6 27. Rg3 Ng4 28. Bc1 Rf7 29. Bxg4 dxc4+ 30. Bf3 cxd3 31. Qf2 Bxf3+ 32. Qxf3 Rg8 33. Rh3 Nh4 34. Qf2 Rg4 35. Nc4 Rfg7 36. Ne5 Re4 37. Nxd3 Kg8 38. Nf4 Rg4 39. Rg1 Rxg1+ 40. Kxg1 e5 41. Ng2 1-0
 
+
 [Event "Barmen MT"]
 [Site "Barmen"]
 [Date "1869.01.01"]
@@ -564,6 +599,7 @@
 [BlackCountry "DEU"]
 
 1. f4 f5 2. d3 Nf6 3. Nf3 e6 4. Nc3 d5 5. e3 Nc6 6. Be2 a6 7. O-O g6 8. Qe1 Bg7 9. Nd1 O-O 10. Bd2 d4 11. exd4 Nxd4 12. Nxd4 Qxd4+ 13. Be3 Qd6 14. Qf2 b6 15. Bf3 Rb8 16. d4 Bb7 17. Bxb7 Rxb7 18. Qf3 c6 19. Nf2 Nd5 20. c3 Rc7 21. Rad1 Qe7 22. Rfe1 Re8 23. Nd3 a5 24. a3 Qd6 25. Ne5 Rcc8 26. Bf2 Nf6 27. Rd3 Ne4 28. Be3 g5 29. Nc4 Qd8 30. fxg5 b5 31. Nd2 Nc5 32. Bf2 Nxd3 33. Qxd3 Qxg5 34. Nf3 Qh5 35. Bg3 Rcd8 36. Ne5 c5 37. Nc6 Rd5 38. Qxb5 cxd4 39. Qb3 f4 40. Bf2 d3 41. c4 Rd7 42. Rd1 Qf5 43. Qa4 e5 44. Qb5 Qg4 45. Qb3 e4 0-1
+
 
 [Event "Berlin"]
 [Site "Berlin"]
@@ -582,6 +618,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nh6 5. d4 Ng4 6. Bg5 f6 7. Bh4 O-O 8. e4 Re8 9. Bc4+ Kf8 10. Qe2 Qe7 11. Nbd2 Bf5 12. Bd3 c5 13. c3 Nc6 14. O-O Rad8 15. e5 Qd7 16. Bxf5 Qxf5 17. Ng5 Qc8 18. Qe4 Nh6 19. Qxh7 Bxe5 20. dxe5 Rxd2 21. Qh8+ Ng8 22. exf6 gxf6 1-0
 
+
 [Event "Berlin"]
 [Site "Berlin"]
 [Date "1869.01.01"]
@@ -597,6 +634,7 @@
 [WhiteCountry "POL"]
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nh6 5. d4 Ng4 6. Bg5 f6 7. Bh4 Ne3 8. Qd3 Qe7 9. Bf2 Bf4 10. Bxe3 Bxe3 11. Nbd2 O-O 12. O-O-O Nc6 13. Kb1 Nb4 14. Qb3+ Be6 15. Nc4 Bh6 16. e4 b5 17. d5 bxc4 18. Bxc4 Rab8 19. dxe6 Nd5 20. Rxd5 Rxb3 21. Rd7 Qc5 22. Bxb3 Kh8 23. e7 Re8 24. Bf7 Qxe7 25. Bxe8 Qxe8 26. Rhd1 1-0
+
 
 [Event "London it"]
 [Site "England"]
@@ -614,6 +652,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nh6 5. d3 Ng4 6. c3 Nc6 7. Qa4 O-O 8. Bg5 Qe8 9. Na3 a6 10. Nc4 Bc5 11. d4 Be7 12. h3 Nf6 13. Qc2 b5 14. Ncd2 h6 15. Bxf6 Bxf6 16. Kf2 Bb7 17. e4 Qd8 18. Bd3 Re8 19. Rhe1 Qb8 20. e5 Be7 21. Ne4 Qa7 22. Qd2 Rad8 23. Nf6+ Bxf6 24. exf6 Qb6 25. Qf4 Nb8 26. fxg7 Bxf3 27. gxf3 Nd7 28. Rg1 Ne5 29. Bc2 Rd6 30. Rae1 Rde6 31. Rxe5 Rxe5 32. Qxe5 1-0
 
+
 [Event "Vienna"]
 [Site "Vienna"]
 [Date "1873.01.01"]
@@ -629,6 +668,7 @@
 [BlackCountry "FRA"]
 
 1. f4 e6 2. e3 f5 3. Nf3 c5 4. b3 Nf6 5. Bb2 b6 6. Na3 Bb7 7. c4 Be7 8. Be2 Nc6 9. O-O O-O 10. Nc2 Qe8 11. d3 Nd8 12. Qd2 Nf7 13. Rae1 Nh6 14. Bd1 Nh5 15. Kh1 Ng4 16. Kg1 Rd8 17. h3 Nh6 18. Qf2 Qg6 19. Ne5 Qe8 20. Bf3 d6 21. Bxb7 dxe5 22. Rd1 exf4 23. exf4 Qd7 24. Ba6 Bf6 25. Bxf6 Rxf6 26. d4 Qc6 27. d5 exd5 28. cxd5 Qd6 29. Be2 g6 30. Ne3 Ng7 31. Nc4 Qf8 32. Qh4 Ne8 33. Ne5 Kg7 34. Bf3 Nd6 35. Rfe1 Ng8 36. Re2 Ne7 37. g4 fxg4 38. Nxg4 Rf7 39. Re6 Nef5 40. Qe1 Kh8 41. Ne5 Rg7 42. Nc6 Rdd7 43. Qc3 Kg8 44. Rde1 h6 45. Ne5 Rde7 46. Nxg6 Kh7 47. Bh5 Nb5 48. Qd3 Rxe6 49. Rxe6 Nbd4 50. Kh2 Qf7 51. Re7 Qxd5 52. Re5 Qf7 53. Re7 Qd5 54. Rxg7+ Kxg7 55. Ne5 Kf6 56. Bg4 Ke6 57. Qa6 Qa8 58. Qa4 Kf6 59. Qd7 Qf8 60. Qxa7 Qd8 61. Qh7 Qe8 62. a4 Ke6 63. Qxh6+ Kd5 64. Qxb6 Nd6 65. b4 cxb4 66. Qxb4 Qf8 67. Qa5+ Ke4 68. Qe1+ Kd5 69. Qf2 Qh6 70. Bf3+ Ne4 71. Qa2+ Kc5 72. Qc4+ 1-0
+
 
 [Event "Vienna"]
 [Site "Vienna"]
@@ -646,6 +686,7 @@
 
 1. f4 e6 2. Nf3 b6 3. b3 Nf6 4. Bb2 Be7 5. c3 Bb7 6. e3 O-O 7. Na3 c5 8. Be2 d5 9. O-O Nc6 10. Nc2 Ne8 11. Qe1 Nd6 12. Rd1 a5 13. Qg3 a4 14. Bd3 Ne4 15. Bxe4 dxe4 16. c4 f6 17. Nfe1 axb3 18. axb3 Ra2 19. Bc3 Rf7 20. d4 f5 21. d5 exd5 22. Rxd5 Qc8 23. Rd1 Bf6 24. Bxf6 Rxf6 25. Rf2 Rg6 26. Qh4 Rh6 27. Qg5 Rg6 28. Qh5 Rh6 29. Qe2 Rb2 30. Qd2 Rxb3 31. g4 fxg4 32. f5 Ne5 33. Na1 Rb4 34. Qc3 g3 35. hxg3 Nd3 36. Rf1 Qc7 37. Rd2 Qxg3+ 38. Rg2 Qxe3+ 39. Rgf2 Rh1+ 0-1
 
+
 [Event "Vienna"]
 [Site "Vienna"]
 [Date "1873.01.01"]
@@ -662,6 +703,7 @@
 
 1. f4 e6 2. Nf3 c5 3. e3 f5 4. c3 Nf6 5. Na3 Be7 6. Nc2 O-O 7. b3 b6 8. Bb2 Bb7 9. Be2 Na6 10. O-O Nc7 11. Qe1 Nce8 12. Rd1 Qc7 13. c4 Ng4 14. h3 Nh6 15. d4 Be4 16. Rd2 Bf6 17. Qf2 Rd8 18. Nce1 Nf7 19. Nd3 h6 20. Qg3 Kh7 21. Nf2 Bxf3 22. Qxf3 g5 23. Rfd1 gxf4 24. exf4 Rg8 25. dxc5 bxc5 26. Nd3 Bxb2 27. Rxb2 Nf6 28. Nf2 Rg6 29. Qe3 Rdg8 30. Bf3 Rg3 31. Rbd2 e5 32. Qc3 R8g6 33. Rd3 e4 34. Nxe4 fxe4 35. f5 Rg7 36. Qxf6 exf3 37. Rd6 Rxg2+ 0-1
 
+
 [Event "Vienna"]
 [Site "Vienna"]
 [Date "1873.01.01"]
@@ -677,6 +719,7 @@
 
 1. f4 f5 2. e4 fxe4 3. d3 exd3 4. Bxd3 Nf6 5. Nf3 e6 6. Ng5 g6 7. h4 Bh6 8. h5 Bxg5 9. fxg5 Nd5 10. hxg6 Qe7 11. Rxh7 Rxh7 12. gxh7 Qb4+ 13. Kf1 Qh4 14. Bg6+ Ke7 15. Qh5 1-0
 
+
 [Event "Clifton"]
 [Site "Clifton"]
 [Date "1873.01.01"]
@@ -690,6 +733,7 @@
 [Epoch "Pawn"]
 
 1. f4 e6 2. Nf3 c5 3. e3 Nc6 4. Be2 f5 5. O-O Nf6 6. b3 Be7 7. Bb2 O-O 8. d3 b6 9. Ne5 Nxe5 10. fxe5 Nd5 11. Rf3 Bg5 12. Qd2 Bb7 13. c4 Nxe3 14. Rxe3 f4 15. Rf3 Bh6 16. Nc3 g5 17. h3 g4 18. hxg4 Qg5 19. Rh3 Bxg2 20. Rh5 Qg6 21. Ne4 Bxe4 22. dxe4 f3 23. Rxh6 Qxg4+ 24. Kf2 fxe2+ 25. Rf6 1-0
+
 
 [Event "London m"]
 [Site "London"]
@@ -706,6 +750,7 @@
 
 1. f4 c5 2. Nf3 Nc6 3. e3 a6 4. Be2 g6 5. O-O d5 6. d4 e6 7. c3 Nf6 8. Nbd2 b6 9. Ne5 Nxe5 10. fxe5 Nd7 11. e4 Bg7 12. exd5 exd5 13. Nf3 O-O 14. Be3 Bb7 15. Qd2 Qe7 16. Rae1 cxd4 17. cxd4 Rac8 18. Bd3 b5 19. a3 Nb6 20. Bg5 Qe6 21. b3 Rc7 22. Qf4 Rc3 23. Re3 Rfc8 24. Bf6 h6 25. Ne1 Nd7 26. Qg3 Nf8 27. Bxg6 Bxf6 28. Rxf6 Nxg6 29. Rxe6 Rxe3 30. Rxg6+ fxg6 31. Qxg6+ Kf8 32. Qxh6+ 1-0
 
+
 [Event "Amsterdam"]
 [Site "Amsterdam"]
 [Date "1875.01.01"]
@@ -720,6 +765,7 @@
 [WhiteCountry "POL"]
 
 1. f4 e6 2. Nf3 f5 3. c4 Nf6 4. Nc3 Nc6 5. e3 Be7 6. b3 Ng4 7. Bb2 Bf6 8. Bd3 d6 9. O-O O-O 10. h3 Nh6 11. a3 e5 12. fxe5 dxe5 13. Bb1 e4 14. Nh2 Be6 15. Ba2 Qd3 16. Rf2 Rad8 17. Nf1 Rd7 18. Nd5 Bxb2 19. Bb1 Qxf1+ 20. Qxf1 Bxa1 21. Bxe4 Rdf7 22. Bd3 Ne5 23. Bc2 Bb2 24. Nf4 Bd7 25. Qb1 Bxa3 26. Qa1 Bd6 27. c5 Neg4 28. hxg4 Bxf4 29. Rxf4 Nxg4 30. Qxa7 Bc6 31. b4 Kh8 32. b5 Bd5 33. c6 bxc6 34. bxc6 Ne5 35. Qc5 Rd8 36. Rd4 Nxc6 37. Qxc6 Rfd7 38. Qc5 c6 39. Bxf5 Rf7 40. Qxc6 Rxf5 41. e4 Rf6 42. Rxd5 1-0
+
 
 [Event "Amsterdam"]
 [Site "Amsterdam"]
@@ -737,6 +783,7 @@
 
 1. f4 f5 2. e4 fxe4 3. d3 exd3 4. Bxd3 Nf6 5. Nf3 e6 6. Nc3 Be7 7. Ne4 Nc6 8. c3 d6 9. Nfg5 Nxe4 10. Nxe4 g6 11. Qe2 e5 12. O-O Bf5 13. Ng5 Bxd3 14. Qxd3 Bxg5 15. fxg5 Qe7 16. Qh3 Qd7 17. Be3 Qxh3 18. gxh3 0-1
 
+
 [Event "New York"]
 [Site "New York"]
 [Date "1876.01.01"]
@@ -753,6 +800,7 @@
 
 1. f4 f5 2. e3 Nf6 3. b3 b6 4. Bb2 e6 5. Be2 Bb7 6. Bf3 Nc6 7. Nh3 Be7 8. c4 Rb8 9. O-O O-O 10. d3 d5 11. d4 Qe8 12. Nc3 Nd8 13. Rc1 c6 14. Rc2 a6 15. Be2 Nf7 16. Nf2 Ba8 17. Bd3 Nh6 18. Be2 Rc8 19. Nb1 Kh8 20. Nd2 Rg8 21. Nf3 Nf7 22. Nh3 Ng4 23. Bc1 g5 24. Ne5 Ngxe5 25. fxe5 g4 26. Nf4 Ng5 27. Kh1 Qf8 28. Bxg4 Qh6 29. Bh3 dxc4 30. bxc4 c5 31. d5 Rcd8 32. e4 Qh4 33. exf5 exd5 34. cxd5 Nxh3 35. gxh3 Rxd5 36. Nxd5 Qe4+ 37. Rf3 Bxd5 0-1
 
+
 [Event "Philadelphia ch-USA"]
 [Site "Philadelphia ch-USA"]
 [Date "1876.01.01"]
@@ -768,6 +816,7 @@
 [BlackCountry "IRE"]
 
 1. f4 f5 2. Nf3 Nf6 3. e3 e6 4. b3 Be7 5. Bb2 O-O 6. d3 b6 7. Be2 Bb7 8. O-O c5 9. Na3 Na6 10. c4 Nc7 11. Qe1 Nfe8 12. Rd1 Bf6 13. d4 Nd6 14. Ne5 Bxe5 15. dxe5 Ne4 16. Nb1 Qe7 17. Nc3 Rad8 18. Nxe4 Bxe4 19. Qc3 g5 20. Bf3 Bxf3 21. Rxf3 gxf4 22. exf4 Kh8 23. Qd3 Ne8 24. Rh3 Rg8 25. Qf3 Rb8 26. Rd3 Rg7 27. Qd1 Nc7 28. Rhg3 Rbg8 29. Rxg7 Rxg7 30. Bc3 Na6 31. a3 Nb8 32. Be1 Nc6 33. Rh3 Rg4 34. Rf3 Nd4 35. Rf2 Qh4 36. Rf1 Qd8 37. h3 Rg6 38. Bc3 Nc6 39. Rf2 Qe7 40. Rf3 a5 41. Rd3 Rg7 42. Be1 Kg8 43. Bf2 h6 44. Qh5 Kh7 45. Kh2 Qf7 46. Qd1 Qe7 47. Qf3 Kg8 48. Rd6 Kh7 49. Qd3 Kg8 50. Qd1 Kh7 51. Qe1 Qe8 52. Rd3 Qa8 53. Rg3 Rxg3 54. Kxg3 Nd4 55. Bxd4 cxd4 56. Qd2 Qe4 57. Kf2 Kg6 58. g3 h5 59. Qe2 h4 60. Qd2 hxg3+ 61. Kxg3 Qb1 62. Qxd4 Qxb3+ 63. Kh4 Qb1 64. Qf2 Qd3 65. Qxb6 Qxa3 66. Qd8 Kf7 67. Qf6+ Ke8 68. Qh8+ Qf8 69. Qh5+ Kd8 70. Qf3 Qb4 71. Qa8+ Ke7 72. Kg5 Qc3 73. Qg2 a4 74. Kg6 Qxc4 75. Qg5+ Ke8 76. Qh4 Qb4 77. Qf2 a3 78. h4 Qb2 79. Qc5 a2 80. Qc8+ Ke7 81. Qc5+ Kd8 82. Qf8+ Kc7 83. Qd6+ Kb7 84. Qxd7+ Kb6 85. Qd6+ Ka5 86. Qc5+ Ka4 87. Qc4+ Ka3 88. Qc5+ Kb3 89. Qb5+ Kc3 90. Qc5+ Kd3 91. Qd6+ Ke3 92. Qc5+ Kf3 93. h5 a1=Q 94. h6 Qd4 95. Qxd4 Qxd4 96. h7 Qd8 97. Kg7 Kxf4 98. h8=Q Qxh8+ 0-1
+
 
 [Event "New York"]
 [Site "New York"]
@@ -786,6 +835,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Bg4 5. e4 Nf6 6. d3 O-O 7. Bg5 Nc6 8. Be2 Bxf3 9. Bxf3 Bc5 10. Nc3 Qd4 11. Qd2 Nd7 12. Nd1 Nde5 13. Be3 Qd6 14. Bxc5 Qxc5 15. Qf2 Qb4+ 16. Qd2 Qc5 17. Nc3 Rfd8 18. Qf2 Nd4 19. Bd1 Rd6 20. Nd5 Rxd5 21. exd5 Qb4+ 22. Qd2 Nxd3+ 0-1
 
+
 [Event "Paris"]
 [Site "Paris"]
 [Date "1878.01.01"]
@@ -802,6 +852,7 @@
 
 1. f4 f5 2. e3 e6 3. Be2 Nf6 4. b3 Be7 5. Bb2 O-O 6. Nf3 d6 7. a4 Ne4 8. d3 Bf6 9. c3 Nc5 10. b4 Ncd7 11. Qb3 Qe8 12. Nd4 Bxd4 13. cxd4 d5 14. Nd2 Nf6 15. Nf3 Ng4 16. Kd2 Nd7 17. h3 Nh6 18. Rhc1 c6 19. b5 Nf6 20. Ba3 Rf7 21. Ne5 Bd7 22. g4 cxb5 23. g5 bxa4 24. Qb4 Bc6 25. gxf6 Rc7 26. Rg1 Rac8 27. Rac1 g6 28. h4 Kh8 29. Qd6 a5 30. h5 b5 31. Bc5 Ba8 32. hxg6 b4 33. g7+ Rxg7 34. fxg7+ Kg8 35. Qf8+ Qxf8 36. gxf8=Q# 1-0
 
+
 [Event "Paris"]
 [Site "Paris"]
 [Date "1878.01.01"]
@@ -817,6 +868,7 @@
 
 1. f4 e6 2. e3 f5 3. Be2 Nf6 4. b3 c5 5. Bb2 b6 6. Bf3 d5 7. a4 Nc6 8. Nh3 Be7 9. Na3 Bb7 10. O-O Bd6 11. Nb5 Bb8 12. d4 a6 13. Nc3 Bd6 14. Kh1 Qe7 15. Ne2 O-O 16. Nf2 h5 17. Nd3 Ng4 18. Qd2 Qh4 19. h3 c4 20. Ne5 Bxe5 21. fxe5 Nf2+ 22. Kg1 Ne4 23. Bxe4 fxe4 24. Ba3 Rxf1+ 25. Rxf1 cxb3 26. cxb3 a5 27. Nf4 Re8 28. Kh2 Qg5 29. g3 Kh7 30. Qe2 Kh6 31. h4 Qg4 32. Qb5 g5 33. Ng2 gxh4 34. Nxh4 Rg8 35. Rg1 Rc8 36. Qf1 Rg8 37. Bf8+ Kh7 38. Qf7+ Kh8 39. Qxb7 Nxd4 40. Be7 Kh7 41. Bf6+ Kh6 42. exd4 e3 43. Qf7 e2 44. Be7 e1=Q 45. Bf8+ 1-0
 
+
 [Event "England"]
 [Site "England"]
 [Date "1878.01.01"]
@@ -830,6 +882,7 @@
 [Epoch "Pawn"]
 
 1. f4 e6 2. e3 b6 3. Nf3 Bb7 4. b3 Nf6 5. Bb2 Be7 6. Nc3 c5 7. Ne5 O-O 8. Bd3 d6 9. Ng4 Nc6 10. a3 d5 11. Qe2 a6 12. O-O-O b5 13. Nxf6+ Bxf6 14. g4 c4 15. Bxh7+ Kxh7 16. g5 Be7 17. Qh5+ Kg8 18. Rhg1 d4 19. Rg3 Ne5 20. fxe5 dxc3 21. Rh3 cxb2+ 22. Kb1 f5 23. g6 1-0
+
 
 [Event "Paris"]
 [Site "Paris"]
@@ -847,6 +900,7 @@
 
 1. f4 e6 2. e3 Nf6 3. Nf3 b6 4. b3 Be7 5. Bb2 O-O 6. a4 Bb7 7. Bd3 Ne4 8. O-O f5 9. a5 Bf6 10. a6 Bc8 11. Bd4 c5 12. Bxf6 Qxf6 13. Ra4 d5 14. Na3 c4 15. bxc4 Nc5 16. Rb4 Nbxa6 17. Rb1 Rd8 18. cxd5 Nxd3 19. cxd3 Rxd5 20. d4 Bb7 21. Nc4 Nc7 22. d3 Rdd8 23. Nce5 Nd5 24. Qd2 Qe7 25. Rfe1 Rdc8 26. Rb3 Rc7 27. e4 fxe4 28. dxe4 Nf6 29. Rbe3 Rac8 30. Qa2 Rc2 31. Qxa7 Ra8 32. Qxb6 Raa2 33. d5 exd5 34. Rb3 Bc8 35. exd5 Nxd5 36. Qd4 Rxg2+ 37. Kh1 Bb7 38. Re4 Qc7 39. Nc4 Qc8 40. Nb2 Rc2 41. Ne5 Ba8 42. Kg1 Rcxb2 43. Rxb2 Qc1+ 44. Kf2 Rxb2+ 45. Kg3 Qc2 46. Ng4 h5 47. Re8+ Kh7 48. Nf2 Qg6+ 49. Kh3 Rxf2 0-1
 
+
 [Event "Paris"]
 [Site "Paris"]
 [Date "1878.01.01"]
@@ -861,6 +915,7 @@
 [WhiteCountry "ENG"]
 
 1. f4 c5 2. e3 e6 3. b3 d5 4. Bb5+ Bd7 5. a4 Nc6 6. Nf3 f6 7. O-O Bd6 8. d4 a6 9. Bxc6 Bxc6 10. Ba3 cxd4 11. Nxd4 Bxa3 12. Nxa3 Bd7 13. Qg4 Kf7 14. Qf3 Ne7 15. c4 Re8 16. Rad1 Kg8 17. Kh1 Qb6 18. e4 Qc5 19. Ndc2 dxe4 20. Qxe4 Qc6 21. Qxc6 Bxc6 22. Nd4 Bd7 23. Nac2 Rad8 24. Rfe1 Ng6 25. g3 e5 26. fxe5 fxe5 27. Ne2 Bg4 28. Ne3 Rxd1 29. Nxd1 Rd8 30. Ne3 Bf3+ 31. Kg1 Rd2 32. Kf2 e4 33. Nd5 Ne5 34. Ke3 Rb2 35. Nd4 Rxh2 36. Nxf3 exf3 37. Rf1 Re2+ 38. Kd4 g5 39. b4 g4 40. b5 axb5 41. axb5 Nd7 42. Rc1 b6 43. Ra1 Nc5 44. Ra8+ Kg7 45. Ra7+ Kh6 46. Ne3 Ne6+ 47. Kd3 Nc5+ 48. Kd4 f2 49. Nxg4+ Kg6 50. Nxf2 Rxf2 51. Ra8 Rf6 52. Rc8 Rd6+ 53. Ke5 Rd1 54. g4 Kf7 55. Rc6 Nd7+ 56. Kf5 Rf1+ 57. Kg5 Rf6 58. Rc7 Rd6 59. Kf5 Ke7 60. g5 Kd8 61. Ra7 h6 62. Ra8+ Kc7 63. Ra7+ Kb8 64. Rxd7 Rxd7 65. gxh6 Kc7 66. Kg6 Kd6 67. h7 Rd8 68. Kg7 Kc5 69. h8=Q Rxh8 70. Kxh8 Kxc4 0-1
+
 
 [Event "Paris"]
 [Site "Paris"]
@@ -877,6 +932,7 @@
 [BlackCountry "AUT"]
 
 1. f4 f5 2. e3 e6 3. Be2 Nf6 4. b3 Be7 5. Bb2 O-O 6. Nf3 d6 7. a4 Ne4 8. d3 Bf6 9. c3 Nc5 10. b4 Ncd7 11. Qb3 Qe8 12. Nd4 Bxd4 13. cxd4 d5 14. Nd2 Nf6 15. Nf3 Ng4 16. Kd2 Nd7 17. h3 Nh6 18. Rhc1 c6 19. b5 Nf6 20. Ba3 Rf7 21. Ne5 Bd7 22. g4 cxb5 23. g5 bxa4 24. Qb4 Bc6 25. gxf6 Rc7 26. Rg1 Rac8 27. Rac1 g6 28. h4 Kh8 29. Qd6 a5 30. h5 b5 31. Bc5 Ba8 32. hxg6 b4 1-0
+
 
 [Event "London"]
 [Site "London"]
@@ -895,6 +951,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. d4 Ne4 6. Nc3 f5 7. Qd3 Qe7 8. Nb5 Nc6 9. Nxd6+ Qxd6 10. c3 O-O 11. g3 Re8 12. Bg2 Qe7 13. O-O Nd6 14. Re1 Bd7 15. Bg5 Qf8 16. Bf4 Rad8 17. Ng5 g6 18. Bxd6 cxd6 19. Bd5+ Kg7 20. Qd2 Ne7 21. Be6 Ng8 22. d5 Nf6 23. Bxd7 Rxd7 24. Ne6+ Rxe6 25. dxe6 Re7 26. Qxd6 Qe8 27. Rad1 Rxe6 28. Qc7+ Re7 29. Qd8 Qf7 30. Rd6 Re8 31. Qa5 b6 32. Qb5 Qe7 33. Qd3 Qf7 34. c4 Re7 35. Rd1 h5 36. Qc3 Rc7 37. b3 Qe7 38. Qd4 Kf7 39. b4 g5 40. c5 bxc5 41. bxc5 Ne4 42. Qd5+ Kg7 43. Rd7 Rxd7 44. Qxd7 Kf6 45. Qxe7+ Kxe7 46. c6 1-0
 
+
 [Event "Horncastle"]
 [Site "Horncastle"]
 [Date "1880.01.01"]
@@ -909,6 +966,7 @@
 [WhiteCountry "ENG"]
 
 1. f4 e6 2. e3 c5 3. Nf3 a6 4. b3 Nc6 5. Bb2 Nf6 6. Be2 d5 7. O-O Bd6 8. Na3 O-O 9. c3 b6 10. Nc2 Qc7 11. d4 Bb7 12. Ne5 Ne4 13. Bd3 f5 14. Bxe4 fxe4 15. Qg4 Rf5 16. c4 Raf8 17. cxd5 exd5 18. Rac1 Qe7 19. Rfd1 Bxe5 20. dxe5 d4 21. g3 d3 22. Na3 b5 23. Rd2 Nb4 24. Qh3 Ba8 25. g4 Rxf4 26. exf4 e3 27. Qxe3 Qb7 28. Qg3 Qh1+ 29. Kf2 Rxf4+ 30. Qxf4 Qg2+ 31. Ke1 Qg1+ 32. Qf1 Qe3+ 33. Re2 dxe2 34. Qxe2 Nd3+ 35. Kf1 Qh3+ 36. Kg1 Nf4 0-1
+
 
 [Event "Wiesbaden"]
 [Site "Wiesbaden"]
@@ -926,6 +984,7 @@
 
 1. f4 e6 2. Nf3 Nf6 3. e3 Be7 4. b3 O-O 5. Bb2 b6 6. a4 Bb7 7. Bd3 Nc6 8. O-O d6 9. Na3 Nb4 10. Be2 Be4 11. d3 Bg6 12. Qd2 c5 13. Nh4 Nd7 14. Nxg6 hxg6 15. c3 Nc6 16. Nc2 Na5 17. Ra3 d5 18. b4 cxb4 19. cxb4 Nb7 20. Nd4 Rc8 21. Ra2 a5 22. b5 Bb4 23. Qd1 Bc5 24. Kh1 Bxd4 25. Bxd4 Nd6 26. Bg4 Qh4 27. g3 Qh6 28. h4 Nf5 29. Bxf5 gxf5 30. g4 Qxh4+ 31. Rh2 Qxg4 32. Qe1 f6 33. Rh4 Rc1 34. Rxg4 Rxe1 35. Rxg7+ Kxg7 36. Rxe1 Rh8+ 37. Kg2 Rc8 38. e4 fxe4 39. dxe4 dxe4 40. Rxe4 Kf7 41. Bf2 Rc2 42. Kf3 e5 43. f5 Nc5 44. Bxc5 Rxc5 45. Rh4 Kg7 46. Rg4+ Kf7 47. Rh4 Rc3+ 48. Ke2 Kg7 49. Rg4+ Kf8 50. Rg6 Kf7 0-1
 
+
 [Event "USA-05.Congress"]
 [Site "New York"]
 [Date "1880.??.??"]
@@ -942,6 +1001,7 @@
 
 1. f4 f5 2. Nf3 Nf6 3. e3 e6 4. b3 Be7 5. Bb2 O-O 6. Bc4 Ne4 7. O-O b6 8. Ne5 Bb7 9. Nc3 Nd6 10. d4 Nxc4 11. Nxc4 b5 12. Ne5 d6 13. Nf3 Nd7 14. Nxb5 Ba6 15. c4 c6 16. Nc3 d5 17. Qe2 Rb8 18. Rab1 Qa5 19. Rfc1 Bb4 20. Nd1 Rb6 21. Qc2 Rbb8 22. c5 Qb5 23. Nf2 Qe2 24. a3 Ba5 25. b4 Bc7 26. Qxe2 Bxe2 27. Bc3 Rf6 28. Rb2 Bb5 29. Ra1 Ba4 30. Nd3 a6 31. Rd2 Rh6 32. Nb2 Bb3 33. Rf2 Nf6 34. Nd2 Bc2 35. Rc1 Be4 36. h3 Rg6 37. Re2 Kf7 38. Nxe4 Nxe4 39. Be1 Rh6 40. Nd3 g5 41. a4 Rg8 42. b5 gxf4 43. exf4 axb5 44. axb5 Rxh3 45. Ra1 Rxd3 46. Ra7 cxb5 47. Rxc7+ Kg6 48. Re7 Rxd4 49. Rxe6+ Kh5 50. c6 Rd1 51. Kh2 Rc1 52. Re3 Rg6 53. Rh3+ 1-0
 
+
 [Event "Wiesbaden"]
 [Site "Wiesbaden"]
 [Date "1880.01.01"]
@@ -955,6 +1015,7 @@
 [Epoch "Pawn"]
 
 1. f4 e6 2. Nf3 b6 3. e3 Bb7 4. b3 Nf6 5. Be2 g6 6. Bb2 Bg7 7. c4 Nc6 8. Nc3 O-O 9. O-O Ne7 10. Rc1 c5 11. Qe1 d5 12. cxd5 exd5 13. Nd1 Nf5 14. Ne5 d4 15. g4 dxe3 16. dxe3 Nd6 17. Nc3 Nfe4 18. Nxe4 Nxe4 19. Rd1 Qe8 20. Bc4 Rd8 21. Qe2 Nd6 22. Bd5 Bxd5 23. Rxd5 Ne4 24. Rxd8 Qxd8 25. Rd1 Qc8 26. Qg2 Nf6 27. g5 Nh5 28. h3 Rd8 29. Rd5 Re8 30. Ng4 Rd8 31. Bxg7 Nxg7 32. Nf6+ Kh8 33. Qd2 Rxd5 34. Qxd5 Ne6 35. Qe5 Qd8 36. Ne4+ Kg8 37. Nf6+ Kh8 38. Ng4+ Ng7 39. Nh6 Qd1+ 40. Kf2 Qd2+ 41. Kf3 Qd1+ 42. Ke4 Qh1+ 43. Kd3 Qf1+ 44. Kd2 Qg2+ 45. Kc3 Qb7 46. Qf6 Qb8 47. Nxf7+ Kg8 48. Nh6+ Kh8 49. e4 b5 50. h4 Qc8 51. Kb2 a6 52. h5 Qe8 53. Nf5 gxf5 54. h6 Qg8 55. e5 a5 56. e6 1-0
+
 
 [Event "New York"]
 [Site "New York"]
@@ -972,6 +1033,7 @@
 
 1. f4 f5 2. Nf3 Nf6 3. e3 e6 4. b3 Be7 5. Bb2 O-O 6. Bc4 Ne4 7. O-O b6 8. Ne5 Bb7 9. Nc3 Nd6 10. d4 Nxc4 11. Nxc4 b5 12. Ne5 d6 13. Nf3 Nd7 14. Nxb5 Ba6 15. c4 c6 16. Nc3 d5 17. Qe2 Rb8 18. Rab1 Qa5 19. Rfc1 Bb4 20. Nd1 Rb6 21. Qc2 Rbb8 22. c5 Qb5 23. Nf2 Qe2 24. a3 Ba5 25. b4 Bc7 26. Qxe2 Bxe2 27. Bc3 Rf6 28. Rb2 Bb5 29. Ra1 Ba4 30. Nd3 a6 31. Rd2 Rh6 32. Nb2 Bb3 33. Rf2 Nf6 34. Nd2 Bc2 35. Rc1 Be4 36. h3 Rg6 37. Re2 Kf7 38. Nxe4 Nxe4 39. Be1 Rh6 40. Nd3 g5 41. a4 Rg8 42. b5 gxf4 43. exf4 axb5 44. axb5 Rxh3 45. Ra1 Rxd3 46. Ra7 cxb5 47. Rxc7+ Kg6 48. Re7 Rxd4 49. Rxe6+ Kh5 50. c6 Rd1 51. Kh2 Rc1 52. Re3 Rg6 53. Rh3+ Kg4 54. Rh4# 1-0
 
+
 [Event "Berlin"]
 [Site "Berlin"]
 [Date "1881.01.01"]
@@ -988,6 +1050,7 @@
 
 1. f4 g6 2. Nf3 Bg7 3. e4 d5 4. e5 Nc6 5. Bb5 Bd7 6. Qe2 a6 7. Bxc6 Bxc6 8. d4 e6 9. a4 Nh6 10. Be3 Qd7 11. Nc3 Nf5 12. Bf2 h5 13. O-O Bf8 14. b3 Be7 15. Rfd1 b6 16. Na2 Bb7 17. c4 O-O 18. Nc3 Rfc8 19. Ng5 Bxg5 20. fxg5 Qe7 21. cxd5 Bxd5 22. Nxd5 exd5 23. h4 Qe6 24. Rac1 c6 25. Rc2 a5 26. Rdc1 Rc7 27. Rc3 Rac8 28. g4 hxg4 29. Qxg4 Ng7 30. Qe2 Nh5 31. Qf3 Ng7 32. Qf6 Qg4+ 33. Kh2 Nh5 34. Qf3 Qxf3 35. Rxf3 Ng7 36. Rf6 Ne8 37. Rf3 Ng7 38. Kh3 Ne6 39. Kg4 Kg7 40. h5 gxh5+ 41. Kxh5 c5 42. dxc5 bxc5 43. Rg1 Rb7 44. Kg4 Rb4+ 45. Kf5 Rh8 46. Rg4 Rh5 47. Rfg3 Rxg4 48. Rxg4 Rh3 49. Rg2 Rxb3 50. Be1 Rf3+ 51. Kg4 Rf4+ 52. Kh5 Rxa4 53. Bd2 Nf4+ 54. Bxf4 Rxf4 55. Rc2 c4 56. e6 fxe6 57. Rb2 c3 58. Rb7+ Rf7 59. Rb5 Rc7 0-1
 
+
 [Event "Berlin"]
 [Site "Berlin"]
 [Date "1881.01.01"]
@@ -1001,6 +1064,7 @@
 [Epoch "Pawn"]
 
 1. f4 Nc6 2. Nf3 d5 3. e3 Bg4 4. Be2 Bxf3 5. Bxf3 e6 6. O-O Bd6 7. Nc3 Nf6 8. b3 h5 9. Bb2 Qe7 10. Nb5 Bxf4 11. Bxf6 gxf6 12. Bxh5 Bg5 13. Rc1 f5 14. c4 d4 15. exd4 Nxd4 16. Rf2 O-O-O 17. Rc3 Nxb5 18. cxb5 Bf6 19. Rc4 Bd4 20. Rxd4 Rxd4 21. Bf3 Qd6 22. h3 Rd8 23. a4 Qb4 0-1
+
 
 [Event "Mannheim"]
 [Site "Mannheim"]
@@ -1016,6 +1080,7 @@
 [BlackCountry "POL"]
 
 1. f4 e6 2. Nf3 d5 3. e3 Nf6 4. b3 Be7 5. Bb2 O-O 6. Bd3 c5 7. Ne5 Nbd7 8. g4 Nxe5 9. Bxe5 Nd7 10. Bb2 Bf6 11. Nc3 Bxc3 12. Bxc3 Qh4+ 13. Kf1 e5 14. fxe5 f6 15. e6 Ne5 16. e7 Bxg4 17. exf8=Q+ Rxf8 18. Bxe5 fxe5+ 0-1
+
 
 [Event "London"]
 [Site "London"]
@@ -1033,6 +1098,7 @@
 
 1. f4 e6 2. Nf3 b6 3. e3 Bb7 4. Nc3 d5 5. d4 Nf6 6. a3 Be7 7. Bd3 Nbd7 8. O-O Ne4 9. Ne5 O-O 10. Nxe4 dxe4 11. Be2 Nxe5 12. fxe5 Rc8 13. c3 Qd7 14. Bd2 c5 15. Rf4 Bg5 16. Rg4 Bh6 17. Rg3 f5 18. exf6 Rxf6 19. Qb3 Rcf8 20. Re1 Rf2 21. Qd1 cxd4 22. cxd4 Bd5 23. Bb4 R8f7 24. Ba6 b5 25. Qh5 Bc4 26. h3 Qc7 27. Kh2 R2f5 28. Qxh6 Qxg3+ 29. Kxg3 gxh6 30. Bd6 Rg5+ 31. Kh4 Rxg2 32. b3 Be2 33. Rc1 Rf5 34. Rc5 Rgg5 35. Rxf5 Rxf5 36. a4 Bd3 37. a5 Rf3 38. Bc5 Bf1 39. Bxa7 Bxh3 40. Bb8 Rxe3 41. Bb7 Bf5 42. Bg3 Rxb3 43. d5 Ra3 44. d6 Kf7 45. a6 e5 46. Bd5+ Ke8 47. Bc6+ Bd7 48. Bb7 Kf8 49. Bd5 Rxa6 50. Bxe5 Ra3 51. Bg3 Rc3 0-1
 
+
 [Event "London"]
 [Site "London"]
 [Date "1883.01.01"]
@@ -1048,6 +1114,7 @@
 [BlackCountry "HUN"]
 
 1. f4 f5 2. e3 Nf6 3. Nf3 Nc6 4. b3 g6 5. Bb2 Bg7 6. Bb5 Nb8 7. Na3 a6 8. Be2 e6 9. c4 O-O 10. O-O Nc6 11. Rc1 d6 12. Nc2 Re8 13. d4 Qe7 14. a4 Nd8 15. a5 Nf7 16. Qe1 Nd7 17. Ba3 Qf6 18. Qg3 e5 19. Rce1 e4 20. Ng5 Nd8 21. Bb2 h6 22. Nh3 Kh7 23. Ba1 Qe7 24. Nb4 Nf6 25. d5 Nd7 26. Nc2 Bxa1 27. Rxa1 Qg7 28. Rfd1 Rg8 29. Rac1 Qe7 30. Nd4 Nf7 31. Kh1 Nf6 32. Qf2 Rg7 33. Rg1 Bd7 34. Qe1 Rag8 35. Qb4 Bc8 36. Rcf1 Nd8 37. Qc3 Rf8 38. g3 Rfg8 39. Rg2 Bd7 40. b4 Bc8 41. Bd1 Nf7 42. Nf2 h5 43. h4 Ne8 44. Nh3 Nf6 45. Bb3 Ne8 46. Rc1 Rf8 47. c5 dxc5 48. bxc5 Nd8 49. Rd2 Rf6 50. Rcd1 Kh6 51. Ng5 Rf8 52. Nde6 Nxe6 53. dxe6 Nf6 54. Kg1 Rgg8 55. Rd4 Re8 56. c6 bxc6 57. Qxc6 Qa3 58. Qc3 Qe7 59. Rc4 Rd8 60. Rxd8 Rxd8 61. Rxc7 1-0
+
 
 [Event "London"]
 [Site "London"]
@@ -1065,6 +1132,7 @@
 
 1. f4 e6 2. Nf3 Be7 3. e3 b6 4. Be2 Bb7 5. O-O c5 6. d3 Nc6 7. Nbd2 Qc7 8. Ne4 f5 9. Ng3 O-O-O 10. Bd2 Nf6 11. a3 h5 12. b4 h4 13. Nh1 h3 14. g3 Rdg8 15. b5 Na5 16. Ne5 g5 17. Bf3 gxf4 18. exf4 Bd6 19. Bxa5 bxa5 20. Nf7 Bxf4 21. Rf2 Rh7 22. Qe2 Rxf7 23. Bxb7+ Qxb7 24. Rxf4 Qc7 25. Raf1 Nd5 26. Rh4 f4 27. Rxh3 Rfg7 28. Qf3 Qe5 29. c4 Qd4+ 30. Nf2 fxg3 31. Rxg3 Ne3 32. Re1 Nf5 33. Rxg7 Qxg7+ 34. Kh1 Kc7 35. Ne4 Qh6 36. Qf2 d6 37. Qf3 Rh8 38. Qg2 Nd4 39. Ng5 Rg8 40. Rg1 Kb6 41. Qg3 e5 42. Qg4 Qf6 43. Ne4 Rxg4 44. Nxf6 Rxg1+ 45. Kxg1 Ne2+ 46. Kf2 Nf4 47. Ke3 Kc7 48. Ke4 Nh3 49. Kf5 a4 50. Nd5+ Kd7 51. b6 axb6 52. Nxb6+ Kc6 53. Nxa4 Nf2 54. Nb2 d5 55. h4 e4 56. cxd5+ Kxd5 57. dxe4+ Nxe4 58. a4 Nd6+ 59. Kg6 c4 60. h5 c3 61. Nd1 c2 62. Ne3+ Ke6 63. Nxc2 Nf5 64. Nd4+ Nxd4 65. h6 Nc6 66. h7 Ne5+ 67. Kg7 1-0
 
+
 [Event "DSB-03.Kongress"]
 [Site "Nuremberg"]
 [Date "1883.??.??"]
@@ -1080,6 +1148,7 @@
 [BlackCountry "DEU"]
 
 1. f4 e6 2. Nf3 f5 3. b3 Nf6 4. Bb2 Be7 5. e3 c5 6. Nc3 Nc6 7. Bb5 Qc7 8. O-O d5 9. Qe2 Bd7 10. Bxc6 Bxc6 11. Nd1 O-O 12. Nf2 Nd7 13. Nh3 Bf6 14. d4 Rfe8 15. Ne5 cxd4 16. exd4 Nxe5 17. fxe5 Bd8 18. a4 Qd7 19. Rf2 a6 20. Raf1 Kh8 21. g4 Bh4 22. Rg2 Qf7 23. g5 h6 24. g6 Qf8 25. Qh5 Be7 26. Bc1 Kg8 27. Bxh6 gxh6 28. g7 Qxg7 29. Rxg7+ Kxg7 30. Kh1 Rg8 31. Nf4 Be8 32. Nxe6+ Kh7 33. Qh3 Bg6 34. Nf4 Bg5 35. Nxg6 Rxg6 36. Qxf5 Rg8 37. Rg1 Be3 38. Rxg6 Rxg6 39. e6 Bg5 40. Qxd5 1-0
+
 
 [Event "DSB-03.Kongress"]
 [Site "Nuremberg"]
@@ -1097,6 +1166,7 @@
 
 1. f4 g6 2. Nf3 Bg7 3. e4 d5 4. e5 Nc6 5. Bb5 Bd7 6. Qe2 a6 7. Bxc6 Bxc6 8. d4 e6 9. a4 Nh6 10. Be3 Qd7 11. Nc3 Nf5 12. Bf2 h5 13. O-O Bf8 14. b3 Be7 15. Rfd1 b6 16. Na2 Bb7 17. c4 O-O 18. Nc3 Rfc8 19. Ng5 Bxg5 20. fxg5 Qe7 21. cxd5 Bxd5 22. Nxd5 exd5 23. h4 Qe6 24. Rac1 c6 25. Rc2 a5 26. Rcc1 Rc7 27. Rc3 Rac8 28. g4 hxg4 29. Qxg4 Ng7 30. Qe2 Nh5 31. Qf3 Ng7 32. Qf6 Qg4+ 33. Kh2 Nh5 34. Qf3 Qxf3 35. Rxf3 Ng7 36. Rf6 Ne8 37. Rf3 Ng7 38. Kh3 Ne6 39. Kg4 Kg7 40. h5 gxh5+ 41. Kxh5 c5 42. dxc5 bxc5 43. Rg1 Rb7 44. Kg4 Rb4+ 45. Kf5 Rh8 46. Rg4 Rh5 47. Rfg3 Rxg4 48. Rxg4 Rh3 49. Rg2 Rxb3 50. Be1 Rf3+ 51. Kg4 Rf4+ 52. Kh5 Rxa4 53. Bd2 Nf4+ 54. Bxf4 Rxf4 55. Rc2 c4 56. e6 fxe6 57. Rb2 c3 58. Rb7+ Rf7 59. Rb5 Rc7 0-1
 
+
 [Event "DSB-03.Kongress"]
 [Site "Nuremberg"]
 [Date "1883.01.01"]
@@ -1112,6 +1182,7 @@
 [BlackCountry "AUT"]
 
 1. f4 e6 2. Nf3 d5 3. e3 c5 4. b3 Nf6 5. Bb2 Be7 6. Be2 a6 7. O-O Nc6 8. c3 O-O 9. Na3 b5 10. Nc2 Bb7 11. Qe1 c4 12. Nfd4 Nxd4 13. exd4 Ne4 14. d3 cxd3 15. Bxd3 Nd6 16. Qe2 Bf6 17. Ba3 Re8 18. Bc5 Ne4 19. Bxe4 dxe4 20. Ne3 g6 21. g3 Bg7 22. Rfd1 f5 23. Rac1 Qd7 24. Ba3 Red8 25. Bb2 Rac8 26. c4 Bc6 27. Bc3 Qa7 28. c5 Qe7 29. h4 Bf6 30. b4 Qg7 31. Nc2 h6 32. Kf2 Qd7 33. Ne3 Qg7 34. Nc2 Qd7 35. Rd2 Bg7 36. Ne3 h5 37. Qd1 Bd5 38. Ra1 Ra8 39. Qe2 Bc6 40. Re1 Qf7 41. Qd1 1/2-1/2
+
 
 [Event "DSB-03.Kongress"]
 [Site "Nuremberg"]
@@ -1129,6 +1200,7 @@
 
 1. f4 c5 2. Nf3 d5 3. e3 a6 4. d4 e6 5. Bd3 Nf6 6. O-O Nc6 7. c3 Bd6 8. Ng5 cxd4 9. exd4 Qc7 10. Qf3 h6 11. Nh3 Bd7 12. Nd2 Ne7 13. Qe2 O-O-O 14. a4 Nf5 15. Nf3 g6 16. Ne5 Be8 17. Bd2 Kb8 18. b4 Be7 19. b5 a5 20. Rab1 Nd6 21. b6 Qc8 22. Nf2 Nd7 23. Nfg4 Nf8 24. c4 h5 25. c5 Ne4 26. Nf2 f6 27. Nf3 f5 28. Bb5 Bf6 29. Bxa5 Nh7 30. Bb4 g5 31. Bxe8 Rdxe8 32. Ne5 gxf4 33. Qb5 Bxe5 34. dxe5 Qc6 35. Nxe4 fxe4 36. Rxf4 Rhf8 37. Rbf1 Kc8 38. Rf7 Rxf7 39. Rxf7 Qxb5 40. axb5 Nf8 41. c6 1-0
 
+
 [Event "London"]
 [Site "London"]
 [Date "1883.01.01"]
@@ -1145,6 +1217,7 @@
 
 1. f4 e6 2. e3 b6 3. Nf3 Bb7 4. b3 Be7 5. Bb2 Bf6 6. Nc3 Ne7 7. Bd3 Nd5 8. Qe2 Nc6 9. a3 Nxc3 10. dxc3 e5 11. O-O-O Qe7 12. Bf5 O-O-O 13. Rhe1 Rhe8 14. Qf2 g6 15. Bh3 Bg7 16. g3 f5 17. e4 fxe4 18. Rxe4 Qf8 19. Re2 exf4 20. Rxe8 Qxe8 21. gxf4 Qf8 22. Qd2 Kb8 23. Kb1 d6 24. Ng5 Qf6 25. Nxh7 Qh4 26. Ng5 Bh6 27. Be6 Bxg5 28. fxg5 Rf8 29. h3 Ne5 30. Bc1 Rf2 31. Qd4 Be4 32. Rd2 Rf1 33. Qa4 a5 34. Bd5 Rxc1+ 35. Kxc1 Qe1+ 36. Kb2 Ka7 37. Rd4 Bf5 38. b4 c5 39. bxc5 dxc5 40. Rh4 Qd2 41. Rh7+ Ka6 42. Bb7+ Ka7 43. Bd5+ Ka6 44. Bb7+ Ka7 45. Bg2+ Ka6 46. Bf1+ c4 47. Bxc4+ 1-0
 
+
 [Event "London"]
 [Site "London"]
 [Date "1883.01.01"]
@@ -1159,6 +1232,7 @@
 [WhiteCountry "RUS"]
 
 1. f4 c5 2. e3 d5 3. Nf3 Nc6 4. b3 e6 5. Bb2 Nf6 6. Bd3 Be7 7. Nc3 a6 8. O-O b5 9. a4 b4 10. Ne2 O-O 11. Ng3 Nd7 12. Nh5 g6 13. Ne5 Ncxe5 14. fxe5 f5 15. Nf4 Nb8 16. Qf3 Ra7 17. Qh3 Nc6 18. g4 Rf7 19. gxf5 gxf5 20. Kh1 Bf8 21. Rg1+ Bg7 22. Be2 a5 23. Rg3 Kh8 24. Rag1 Rac7 25. Bh5 Rfe7 26. Ng6+ hxg6 27. Bxg6+ Kg8 28. Qh7+ Kf8 29. Bh5 Rf7 30. Rxg7 1-0
+
 
 [Event "Nuremberg"]
 [Site "Nuremberg"]
@@ -1176,6 +1250,7 @@
 
 1. f4 e6 2. Nf3 f5 3. b3 Nf6 4. Bb2 Be7 5. e3 c5 6. Nc3 Nc6 7. Bb5 Qc7 8. O-O d5 9. Qe2 Bd7 10. Bxc6 Bxc6 11. Nd1 O-O 12. Nf2 Nd7 13. Nh3 Bf6 14. d4 Rfe8 15. Ne5 cxd4 16. exd4 Nxe5 17. fxe5 Bd8 18. a4 Qd7 19. Rf2 a6 20. Raf1 Kh8 21. g4 Bh4 22. Rg2 Qf7 23. g5 h6 24. g6 Qf8 25. Qh5 Be7 26. Bc1 Kg8 27. Bxh6 gxh6 28. g7 Qxg7 29. Rxg7+ Kxg7 30. Kh1 Rg8 31. Nf4 Be8 32. Nxe6+ Kh7 33. Qh3 Bg6 34. Nf4 Bg5 35. Nxg6 Rxg6 36. Qxf5 1-0
 
+
 [Event "DSB-04.Kongress"]
 [Site "Hamburg"]
 [Date "1885.01.01"]
@@ -1192,6 +1267,7 @@
 
 1. f4 e6 2. Nf3 Nc6 3. e3 b6 4. b3 Bb7 5. Bb2 Nf6 6. Bb5 Ne7 7. O-O Ng6 8. Nc3 Be7 9. Qe2 O-O 10. Bd3 Ne8 11. Ne4 f5 12. Neg5 h6 13. Nh3 Bf6 14. c3 Nd6 15. Rae1 Ne4 16. Bxe4 fxe4 17. Nd4 e5 18. Nf5 Ne7 19. Nxe7+ Qxe7 20. fxe5 Bxe5 21. Nf4 Rf6 22. Rf2 Raf8 23. Ref1 d5 24. Ng6 Rxg6 25. Rxf8+ Kh7 26. Qh5 Bc6 27. Rh8+ Kxh8 28. Qxg6 Be8 29. Qf5 Kg8 30. Ba3 c5 31. d4 exd3 32. Qxd3 Bc6 33. g3 Qd6 34. Rf2 Be8 35. Rd2 Bf7 36. Bb2 Bxg3 37. hxg3 Qxg3+ 38. Rg2 Qe1+ 39. Qf1 Qxe3+ 40. Qf2 Qd3 41. Rg3 Qb1+ 42. Kh2 d4 43. Qg2 g5 44. cxd4 Qf5 45. dxc5 bxc5 46. Qe2 Kh7 47. Qe3 1-0
 
+
 [Event "England"]
 [Site "England"]
 [Date "1885.01.01"]
@@ -1207,6 +1283,7 @@
 [BlackCountry "IRL"]
 
 1. f4 f5 2. e3 Nf6 3. b3 e6 4. Bb2 Be7 5. Nf3 O-O 6. Bd3 b6 7. O-O Bb7 8. Nc3 Na6 9. Bc4 c5 10. Ng5 h6 11. Nf3 Kh7 12. Ne5 Qe8 13. Be2 Nc7 14. Bf3 d5 15. a4 a6 16. Qe2 Bd6 17. Nd1 Rb8 18. Nf2 Rg8 19. h4 Ne4 20. Bxe4 dxe4 21. Nh3 Nd5 22. g4 fxg4 23. Ng5+ hxg5 24. hxg5 Bxe5 25. Bxe5 Rd8 26. Kg2 Rh8 27. Qxg4 Kg8 28. c4 Nb4 29. Bc3 Bc8 30. Rh1 Rxh1 31. Rxh1 Qg6 32. Rh5 Na2 33. Qh4 Kf7 34. Bxg7 Rxd2+ 35. Kg3 Nc1 36. Rh7 Ne2+ 37. Kf2 Nxf4+ 38. Kg1 Nh3+ 39. Qxh3 Qxg5+ 40. Kf1 Qf5+ 41. Qxf5+ exf5 42. Bc3+ Kg6 43. Rg7+ Kh6 44. Rc7 Rd3 45. Be5 Bd7 46. Bf4+ Kh5 47. Rb7 Kg4 48. Ke2 Be8 49. Rxb6 Bh5 50. Rxa6 Kh3+ 51. Kf2 Rxb3 52. Rh6 Kg4 53. a5 Bf7 54. a6 Ra3 55. Rh7 Ra2+ 56. Ke1 Ra1+ 57. Kd2 Bxc4 58. a7 Bd5 59. Rd7 Ba8 60. Kc3 Kf3 61. Kc4 Ra5 62. Rf7 Bc6 63. Rxf5 Ke2 64. Rxc5 Ra6 65. Rxc6 Ra4+ 66. Kd5 Rxa7 67. Kxe4 Ra4+ 68. Kf5 Kf3 69. e4 Ra3 70. Be5 1-0
+
 
 [Event "Nottingham"]
 [Site "Nottingham"]
@@ -1225,6 +1302,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. d4 Ng4 6. Bg5 f6 7. Bh4 g5 8. Bf2 Nxf2 9. Kxf2 g4 10. Nh4 f5 11. g3 f4 12. e4 Nc6 13. Bb5 fxg3+ 14. hxg3 O-O+ 15. Kg2 Qf6 16. Rf1 Qxd4 17. Rxf8+ Bxf8 18. Nc3 Bc5 19. Qe2 Be6 20. Rd1 Qe5 21. Bc4 Kh8 22. Bxe6 Qxe6 23. Rd5 Bb6 24. Nf5 Ne5 25. Qd2 c6 26. Rd6 Qf7 27. Qh6 Ng6 28. Qg5 Rf8 29. Qxg4 Bc7 30. Rd1 Nf4+ 31. Kh2 Nh5 32. Ne2 Nf6 33. Qf3 Qxa2 34. Qc3 Qe6 35. Nf4 Bxf4 36. gxf4 Qxe4 37. Qxf6+ 1-0
 
+
 [Event "Manhattan CC"]
 [Site "Manhattan CC"]
 [Date "1886.01.01"]
@@ -1239,6 +1317,7 @@
 [WhiteCountry "USA"]
 
 1. f4 e6 2. Nf3 d5 3. e3 c5 4. b3 Nf6 5. Bb5+ Bd7 6. Bxd7+ Nbxd7 7. Bb2 Be7 8. O-O O-O 9. Nc3 Qc7 10. Ne2 Rac8 11. c4 Rfd8 12. Qc2 Nf8 13. Rae1 dxc4 14. bxc4 Ne8 15. Rf2 Bf6 16. Ne5 Ng6 17. Ref1 Qa5 18. Ng3 Rc7 19. Ne4 Bxe5 20. fxe5 Rcd7 21. d4 cxd4 22. exd4 h6 23. g3 b6 24. h4 Rc8 25. Qb3 Qa6 26. h5 Nf8 27. Rc1 Nh7 28. d5 Qb7 29. Rd1 Qc7 30. Rc1 Qd8 31. Rcf1 Qc7 32. Rf4 exd5 33. cxd5 Qc2 34. Qb5 Qc7 35. e6 fxe6 36. dxe6 Re7 37. Rf7 Ng5 38. Rf8+ Kh7 39. Qf5+ 1-0
+
 
 [Event "Criterion"]
 [Site "Criterion"]
@@ -1257,6 +1336,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. d4 Ng4 6. Bg5 f6 7. Bh4 g5 8. Bf2 Nxf2 9. Kxf2 g4 10. Nh4 f5 11. g3 f4 12. Qd3 O-O 13. Qb3+ Kh8 14. Kg1 Qf6 15. Bg2 fxg3 16. hxg3 Qf2+ 17. Kh2 Rf3 0-1
 
+
 [Event "Nottingham"]
 [Site "Nottingham"]
 [Date "1886.01.01"]
@@ -1274,6 +1354,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nh6 5. d3 Ng4 6. c3 Bxh2 7. Qa4+ Nc6 8. Nxh2 Qh4+ 9. Kd2 Qh5 10. Qf4 Ne7 11. Kc2 h6 12. e4 f5 13. Be2 Qh4 14. Bxg4 fxg4 15. Rf1 Be6 16. Nf3 Qh5 17. Nd4 Bd7 18. Qxc7 Rc8 19. Qf4 Nc6 20. Be3 Ke7 21. Nf5+ Bxf5 22. Bc5+ Kd8 23. Qxf5 Qxf5 24. Rxf5 b6 25. Be3 Ke7 26. Na3 Rhd8 27. Nc4 Ke6 28. Raf1 Rc7 29. b4 1-0
 
+
 [Event "Adelaide"]
 [Site "Adelaide"]
 [Date "1887.01.01"]
@@ -1288,6 +1369,7 @@
 [Epoch "Pawn"]
 
 1. f4 e5 2. fxe5 d6 3. Nf3 dxe5 4. e4 Bc5 5. Bc4 Nc6 6. d3 Bg4 7. c3 Nf6 8. Bg5 Bb6 9. h3 Bh5 10. Rf1 h6 11. Bh4 g5 12. Bg3 Qd6 13. Qa4 O-O-O 14. Nbd2 Nd7 15. d4 Qg6 16. d5 Bxf3 17. Rxf3 Ne7 18. O-O-O f6 19. Bf1 Nc5 20. Qc2 c6 21. b4 Nd7 22. d6 Ng8 23. Nb3 g4 24. hxg4 Qxg4 25. c4 a6 26. c5 Ba7 27. Na5 Qg5+ 28. Kb1 Nb8 29. a4 Rh7 30. b5 axb5 31. axb5 cxb5 32. c6 bxc6 33. Nxc6 Nxc6 34. Qxc6+ Kb8 35. Rc3 Rhd7 36. Rd5 Rb7 37. Qc7+ 1-0
+
 
 [Event "England"]
 [Site "England"]
@@ -1306,6 +1388,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. d4 Ng4 6. Bg5 f6 7. Bh4 g5 8. Bf2 Nxf2 9. Kxf2 g4 10. Nh4 f5 11. g3 f4 12. Qd3 O-O 13. Ke1 Nc6 14. Nd2 Qe7 15. c3 Bd7 16. Ne4 Rae8 17. Nxd6 cxd6 18. Rd1 Qg5 19. Qd2 Qd5 20. Ng2 f3 21. Nf4 fxe2 22. Bg2 exd1=Q+ 23. Kxd1 Qf5 24. Kc1 Ne7 25. h3 Qg5 26. hxg4 Bxg4 27. Bxb7 Ng6 28. Bd5+ Kh8 29. Bc6 Re7 30. Rf1 Nxf4 31. gxf4 Re2 32. Qxe2 Bxe2 33. fxg5 Bxf1 0-1
 
+
 [Event "USA-06.Congress"]
 [Site "New York"]
 [Date "1889.01.01"]
@@ -1321,6 +1404,7 @@
 [WhiteCountry "CUB"]
 
 1. f4 f5 2. Nf3 e6 3. e3 Be7 4. c4 Nh6 5. b3 Bf6 6. Nc3 O-O 7. Rb1 d6 8. Bb2 Bd7 9. d4 Qe8 10. Bd3 Nc6 11. a3 e5 12. dxe5 dxe5 13. Nd5 e4 14. Nxc7 Qd8 15. Bxf6 Qxc7 16. Bb2 Rad8 17. Bc2 exf3 18. Qd5+ Rf7 19. Qxf3 Re8 20. O-O Ng4 21. e4 Qb6+ 22. Kh1 Ne3 23. Bd3 Nxf1 24. c5 Qxc5 25. Rxf1 fxe4 26. Bxe4 Rfe7 27. b4 Qd6 28. Bb1 Re1 29. Ba2+ Kh8 30. Bxg7+ Kxg7 31. Qg3+ Qg6 32. Qc3+ Qf6 33. Qg3+ Kh6 34. Rxe1 Rxe1+ 35. Qxe1 Qxf4 36. Be6 Bxe6 37. Qxe6+ Kg7 38. h3 Qe5 39. Qd7+ Qe7 40. Qg4+ Kh8 41. Qc8+ Kg7 42. Qg4+ Kf7 43. Qh5+ Ke6 44. g4 Kd7 45. Qf5+ Kc7 46. Kg2 Ne5 47. h4 Kd6 48. Qf2 b6 49. Qd2+ Ke6 50. Qa2+ Kd7 51. Qd5+ Kc7 52. Qe4 Kd6 53. Kg3 h6 54. Qf4 Qe6 55. g5 h5 56. Qf8+ Kd5 57. Qd8+ Ke4 58. Qa8+ Ke3 59. Kg2 Qg4+ 60. Kf1 Qe2+ 0-1
+
 
 [Event "USA-06.Congress"]
 [Site "New York"]
@@ -1338,6 +1422,7 @@
 
 1. f4 e6 2. Nf3 b6 3. e3 Bb7 4. Be2 Be7 5. b3 Bf6 6. c3 Nh6 7. O-O d6 8. d4 g6 9. Qc2 Nd7 10. e4 Bg7 11. Bd3 Ng8 12. e5 Ne7 13. Na3 a6 14. exd6 cxd6 15. Nc4 Nf6 16. Ba3 Nc8 17. Rae1 O-O 18. Ng5 b5 19. Ne5 Ne7 20. Nef3 Rc8 21. c4 h6 22. Nxe6 fxe6 23. Rxe6 Nfd5 24. Bxd6 Ne3 25. Bxe7 Nxc2 26. Bxd8 Nb4 27. Be7 Nxd3 28. Bxf8 Rxf8 29. d5 Nxf4 30. Re7 Bc8 31. Rfe1 Bc3 32. R1e4 g5 33. Re8 Bf5 34. R4e7 Bb4 35. Rxf8+ Kxf8 36. Rc7 Bb1 37. a4 bxa4 38. bxa4 Bc2 39. Rc6 Bxa4 40. Rxa6 Bc5+ 41. Kh1 Bc2 42. Rxh6 Nd3 43. h3 Nf2+ 44. Kh2 Ne4 45. g3 Ke7 46. Kg2 Nf6 47. Nxg5 Bd3 48. Kh2 Be3 49. d6+ Kd7 50. Rxf6 Bxg5 51. Rf7+ Kxd6 52. h4 Bxc4 53. Rf5 Bd2 54. Rf3 Ke6 55. g4 Ke5 56. h5 Bf4+ 57. Kh3 Be6 58. Kh4 Bd2 59. Rf1 Bc4 60. Rg1 Kf6 61. g5+ Kf5 62. Rg2 Be3 63. g6 Bd5 64. Re2 Bg5+ 65. Kh3 Bh6 66. Rc2 Kg5 67. Rc5 Kxh5 68. Rxd5+ Kxg6 1/2-1/2
 
+
 [Event "USA-06.Congress"]
 [Site "New York"]
 [Date "1889.01.01"]
@@ -1353,6 +1438,7 @@
 [BlackCountry "FRA"]
 
 1. f4 b6 2. Nf3 Bb7 3. e3 e6 4. Be2 d5 5. O-O Bd6 6. b3 Ne7 7. Bb2 O-O 8. Nc3 a6 9. Bd3 Nd7 10. Qe2 Ng6 11. Ng5 e5 12. Bxg6 hxg6 13. Qg4 Be7 14. Ne6 fxe6 15. Qxe6+ Kh7 16. fxe5 Nc5 17. Qh3+ Kg8 18. d4 Bc8 19. Qg3 Ne6 20. Qxg6 c6 21. Rxf8+ Bxf8 22. Rf1 Qe7 23. e4 Nxd4 24. exd5 Bf5 25. Rxf5 Nxf5 26. Ne4 Qh4 27. Nf6+ Kh8 28. g3 Qh3 29. Ng4 Bc5+ 30. Nf2 Bxf2+ 31. Kxf2 Qxh2+ 32. Kf3 Rf8 0-1
+
 
 [Event "USA-06.Congress"]
 [Site "New York"]
@@ -1370,6 +1456,7 @@
 
 1. f4 c5 2. e3 e6 3. Nf3 Nf6 4. b3 d5 5. Bb2 Be7 6. Be2 Nc6 7. O-O O-O 8. Qe1 Ne4 9. d3 Bf6 10. Ne5 Nd6 11. Nd2 Bxe5 12. fxe5 Nf5 13. Bg4 Nce7 14. Bxf5 exf5 15. Nf3 Be6 16. a4 a5 17. Nh4 Rc8 18. Rd1 b6 19. Qg3 Kh8 20. Rd2 Rc6 21. Rdf2 Rg8 22. Qg5 Qf8 23. h3 g6 24. e4 d4 25. Bc1 Bc8 26. Qg3 h6 27. Qh2 Be6 28. Kh1 Kh7 29. g4 fxe4 30. dxe4 c4 31. Rf3 cxb3 32. cxb3 Rc3 33. Qd2 Rxf3 34. Nxf3 Bxb3 35. Nxd4 Bc4 36. Rf6 Qg7 37. e6 g5 38. Rxf7 Qxf7 39. exf7 Bxf7 40. Nf5 Ng6 41. Qd4 Bb3 42. Qd7+ 1-0
 
+
 [Event "USA-06.Congress"]
 [Site "New York"]
 [Date "1889.01.01"]
@@ -1385,6 +1472,7 @@
 [BlackCountry "HUN"]
 
 1. f4 b6 2. e4 Bb7 3. d3 e6 4. Nf3 d5 5. e5 c5 6. Be2 Nc6 7. c3 Rc8 8. a3 g6 9. b4 d4 10. b5 Nce7 11. c4 Nf5 12. a4 Ngh6 13. Na3 Ng4 14. Nc2 Bxf3 15. Bxf3 Qh4+ 16. g3 Nxg3 17. hxg3 Qxg3+ 18. Kd2 Qxf4+ 19. Ke2 Qxe5+ 20. Kf1 Nh2+ 21. Kg2 Bd6 22. Qe1 Nxf3 23. Kxf3 Qf5+ 24. Ke2 Qg4+ 25. Kf1 Qf3+ 26. Kg1 Qxd3 27. Na3 h5 28. Ra2 h4 29. Qf1 Qb3 30. Rf2 Qg3+ 31. Rg2 Qc3 32. Nb1 Qb3 33. Bg5 h3 34. Nd2 h2+ 35. Kf2 Qc2 36. Qe2 Rh3 37. Ne4 Qxe2+ 38. Kxe2 Bc7 39. Nf6+ Kf8 40. Ng4 f5 41. Nf2 Ra3 42. Bc1 Ra2+ 43. Kf3 Kf7 44. Nh3 Rxa4 45. Re2 e5 46. Ng5+ Kf6 47. Kg2 e4 48. Rf1 e3 49. Nf3 Rh8 50. Kh1 Rxc4 51. Bb2 Re8 52. Rd1 Re4 53. Ba1 g5 54. Nxh2 Rh4 55. Kg1 Rxh2 56. Rxh2 Bxh2+ 57. Kxh2 Rc2+ 58. Kg3 f4+ 59. Kg4 e2 60. Re1 Ra2 61. Kf3 Kf5 0-1
+
 
 [Event "USA-06.Congress"]
 [Site "New York"]
@@ -1402,6 +1490,7 @@
 
 1. f4 e6 2. e3 d5 3. Nf3 Bd6 4. b3 Nf6 5. Bb2 c5 6. Bb5+ Bd7 7. a4 a6 8. Bd3 Bc6 9. O-O Nbd7 10. Qe1 Qc7 11. Qg3 Rg8 12. Ne5 g6 13. Na3 Nh5 14. Qf3 f6 15. Nxc6 Qxc6 16. c4 f5 17. g4 Nhf6 18. g5 Ne4 19. Rad1 O-O-O 20. cxd5 exd5 21. Be2 c4 22. bxc4 Qxa4 23. Nb1 Qb3 24. Bd4 Bc5 25. d3 Bxd4 26. exd4 Nc3 27. Nxc3 Qxc3 28. Qxd5 Nb8 29. Qc5+ Nc6 30. d5 Qd4+ 31. Qxd4 Nxd4 32. Kf2 Rge8 33. Bf3 b6 34. Rb1 Kc7 35. Rb2 Rb8 36. Bg2 Kd6 37. h4 b5 38. Ra2 Rb6 39. Rc1 Rc8 40. Ke3 Nb3 41. Rc3 Re8+ 42. Kf2 bxc4 43. Rxc4 Nc5 44. Rc3 Rb4 45. Rac2 Rxf4+ 46. Bf3 Rc8 47. Kg3 Rb4 48. Kh3 a5 49. d4 Rxd4 50. Rb2 Rd3 51. Rb6+ Ke5 52. Re6+ Nxe6 53. Rxd3 Nf4+ 0-1
 
+
 [Event "Breslau"]
 [Site "Breslau"]
 [Date "1889.01.01"]
@@ -1418,6 +1507,7 @@
 
 1. f4 e5 2. fxe5 f6 3. exf6 Nxf6 4. Nf3 d5 5. e3 Nc6 6. Bb5 Bd6 7. Bxc6+ bxc6 8. O-O O-O 9. b3 Ng4 10. h3 Qf6 11. c3 Nh2 12. Nxh2 Bxh2+ 13. Kxh2 Qxf1 1-0
 
+
 [Event "Regensburg"]
 [Site "Regensburg"]
 [Date "1890.01.01"]
@@ -1431,6 +1521,7 @@
 [Epoch "Pawn"]
 
 1. f4 e6 2. e3 d5 3. Nf3 Nf6 4. b3 Be7 5. Bb2 c5 6. Be2 Nc6 7. O-O O-O 8. Qe1 Qc7 9. Nc3 a6 10. Nd1 Bd7 11. Nf2 Ne8 12. Ng4 Nd6 13. Qg3 Nf5 14. Nh6+ Kh8 15. Nxf5 1-0
+
 
 [Event "London"]
 [Site "London"]
@@ -1446,6 +1537,7 @@
 [WhiteCountry "ENG"]
 
 1. f4 g6 2. Nf3 Bg7 3. e3 d5 4. d4 Nf6 5. c4 c6 6. Nc3 O-O 7. Bd3 dxc4 8. Bxc4 Nbd7 9. O-O Nb6 10. Bd3 Nbd5 11. Qe1 Nb4 12. Bb1 b6 13. Ne2 Ba6 14. Ne5 Rc8 15. Bd2 Nbd5 16. e4 Nc7 17. Nxc6 Qd7 18. Ne5 Qd8 19. Be3 e6 20. Rf3 Nce8 21. Nc3 Nd6 22. Bf2 Bb7 23. Bd3 a6 24. Rd1 b5 25. a3 Re8 26. Bh4 Qc7 27. Qe3 h5 28. Rg3 Nh7 29. Nf3 Qb6 30. e5 Nc4 31. Bxc4 Rxc4 32. Ne4 Rc2 33. Nd6 Rb8 34. Qb3 Qc6 35. Rxg6 Rc1 36. Rg3 Kf8 37. Be7+ Kg8 38. Nxb7 Qc4 39. Qxc4 Rxd1+ 40. Qf1 Rxf1+ 41. Kxf1 Rxb7 42. Bf6 1-0
+
 
 [Event "London"]
 [Site "London"]
@@ -1464,6 +1556,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. d4 Ne4 6. Qd3 f5 7. Nc3 O-O 8. Nxe4 fxe4 9. Qxe4 Bf5 10. Qxb7 Nd7 11. Qb3+ Kh8 12. Bg5 Qe8 13. Qe3 Qh5 14. c3 Rab8 15. Qd2 Nb6 16. b3 Nd5 17. Rc1 h6 18. Bh4 Bf4 19. Qb2 Ne3 20. Bf2 Rbe8 21. Bxe3 Bxe3 22. c4 Be4 23. Rc3 Bxf3 24. Rxe3 Rxe3 25. gxf3 Qxf3 26. Kd2 Qxh1 27. Kxe3 Qxf1 28. Kd3 Rf3+ 29. Kd2 Rf2 30. Kd3 Qh3+ 0-1
 
+
 [Event "DSB-07.Kongress"]
 [Site "Dresden"]
 [Date "1892.??.??"]
@@ -1479,6 +1572,7 @@
 [BlackCountry "DEU"]
 
 1. f4 f5 2. Nf3 Nf6 3. b3 e6 4. Bb2 b6 5. e3 Bb7 6. Be2 Be7 7. O-O O-O 8. c4 c5 9. Nc3 Nc6 10. Qe1 Qe8 11. Qg3 Nh5 12. Qh3 Nf6 13. Ne5 Nxe5 14. fxe5 Ne4 15. Nxe4 Bxe4 16. d3 Bc6 17. Rad1 Rd8 18. d4 d5 19. exd6 Bxd6 20. dxc5 Bxc5 21. Rxd8 Qxd8 22. Qg3 Qe7 23. Be5 1/2-1/2
+
 
 [Event "Hastings"]
 [Site "Hastings"]
@@ -1496,6 +1590,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. c3 g4 6. Nd4 Nc6 7. Qa4 Qh4+ 8. Kd1 g3 9. b3 Qxh2 0-1
 
+
 [Event "England"]
 [Site "England"]
 [Date "1892.01.01"]
@@ -1511,6 +1606,7 @@
 [BlackCountry "ENG"]
 
 1. f4 f5 2. b3 e6 3. Bb2 Nf6 4. g3 c5 5. Bg2 d5 6. Nf3 Bd6 7. O-O O-O 8. Ne5 Na6 9. e3 Nc7 10. c4 Bd7 11. Na3 Bc6 12. Nc2 Qe7 13. Ne1 Bxe5 14. fxe5 Ng4 15. Qe2 Rad8 16. Rc1 Na6 17. Nc2 Qd7 18. d4 dxc4 19. Bxc6 Qxc6 20. bxc4 Rd7 21. Rcd1 Rfd8 22. h3 Nh6 23. Ne1 Nf7 24. Ng2 Nc7 25. Nf4 Qe4 26. Kh2 cxd4 27. Rxd4 Qc6 28. Rfd1 Ng5 29. Rxd7 Rxd7 30. Rxd7 Qxd7 31. h4 Ne4 32. Bd4 b6 33. Nd3 Qa4 34. Nf4 g6 35. Nh3 Na6 36. Nf4 Qc6 37. Qd3 Nf2 38. Qf1 Ng4+ 39. Kg1 Nc5 40. Qd1 Ne4 41. Ne2 Qxc4 42. Bxb6 axb6 43. Qd8+ Kg7 44. Qe7+ Kh6 45. Qf8+ Kh5 46. Nf4# 1-0
+
 
 [Event "Newcastle on Tyne m"]
 [Site "Newcastle on Tyne"]
@@ -1529,6 +1625,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. d4 g4 6. Ne5 Bxe5 7. dxe5 Qxd1+ 8. Kxd1 Nc6 9. Bf4 Be6 10. e3 Nge7 11. Bb5 O-O-O+ 12. Kc1 Bd5 13. Rg1 a6 14. Be2 Be6 15. Nc3 h6 16. Bd3 Ng6 17. Bxg6 fxg6 18. Rd1 Rde8 19. e4 g5 20. Bg3 Rhf8 21. b3 h5 22. Rd2 h4 23. Bf2 Nxe5 24. Be3 h3 25. Bxg5 g3 26. hxg3 Rf1+ 27. Kb2 Rxa1 28. Kxa1 h2 29. Rd1 Ng4 30. Rh1 Bf7 31. Kb2 c6 32. Kc1 Bg6 33. Kd2 Rxe4 34. Nd1 Rd4+ 35. Ke2 Rxd1 36. Rxd1 Be4 37. Rd8+ Kc7 38. Rd1 Bxg2 39. Bd8+ Kc8 40. Bb6 Bd5 0-1
 
+
 [Event "Vienna"]
 [Site "Vienna"]
 [Date "1893.01.01"]
@@ -1542,6 +1639,7 @@
 [Epoch "Pawn"]
 
 1. f4 c5 2. Nf3 d5 3. e3 Nc6 4. Bb5 Qb6 5. Nc3 e6 6. d4 Nf6 7. O-O Be7 8. a4 a6 9. a5 Qc7 10. Bxc6+ bxc6 11. Ne2 O-O 12. c3 Rb8 13. Ng3 c4 14. Qe2 Rb5 15. Ne5 Bd8 16. e4 Qb7 17. f5 Rxa5 18. Rxa5 Bxa5 19. Bg5 Bd8 20. Bxf6 Bxf6 21. Ng4 Bh4 22. f6 Bxg3 23. hxg3 g6 24. Qd2 Kh8 25. Qh6 Rg8 26. Ne5 dxe4 27. Kh2 e3 28. Rh1 e2 29. Qxh7+ Kxh7 30. Kg1# 1-0
+
 
 [Event "Budapest"]
 [Site "Budapest"]
@@ -1558,6 +1656,7 @@
 [BlackCountry "HUN"]
 
 1. f4 f5 2. b3 Nf6 3. Bb2 e6 4. e3 Be7 5. Nf3 O-O 6. Be2 Nc6 7. O-O d6 8. c4 Bd7 9. a3 Kh8 10. Kh1 d5 11. d4 dxc4 12. Bxc4 Ng4 13. Qe2 Bf6 14. h3 Nh6 15. Nbd2 Re8 16. Ne5 Ne7 17. Ndf3 Nd5 18. Ng5 Bxe5 19. dxe5 c6 20. Rad1 Qb6 21. e4 fxe4 22. Nxe4 Nf5 23. Rd3 Rad8 24. g4 Nfe3 25. Bxd5 exd5 26. Rxe3 dxe4 27. f5 c5 28. e6 Bc6 29. Qc4 Rd4 30. f6 gxf6 31. Rxf6 Kg7 32. Qf1 Qd8 33. g5 Kg8 34. g6 Rd1 35. gxh7+ Kxh7 36. Rf7+ Kh6 37. Bg7+ Kg6 38. Rg3+ Kh7 39. Bd4+ Kh6 40. Be3+ Kh5 41. Rh7# 1-0
+
 
 [Event "Hastings"]
 [Site "Hastings"]
@@ -1576,6 +1675,7 @@
 
 1. f4 e5 2. fxe5 d6 3. Nf3 dxe5 4. e4 Bc5 5. Nc3 Nf6 6. Bc4 Nc6 7. d3 Bg4 8. h3 Bxf3 9. Qxf3 Nd4 10. Qg3 Nxc2+ 11. Kd1 Nxa1 12. Qxg7 Kd7 13. Rf1 Be7 14. Qxf7 Kc8 15. Bg5 Rf8 16. Qe6+ Kb8 17. Bh6 Re8 18. Qxe5 Nd7 19. Qh5 Nb6 20. Bd5 a6 21. Kd2 Nxd5 22. Nxd5 Rg8 23. g4 1-0
 
+
 [Event "Hastings"]
 [Site "Hastings"]
 [Date "1895.01.01"]
@@ -1591,6 +1691,7 @@
 [WhiteCountry "ENG"]
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. g3 f5 5. d4 Nf6 6. Bg5 O-O 7. Bg2 Nc6 8. c3 h6 9. Bxf6 Qxf6 10. Nd2 Bd7 11. Qb3+ Kh8 12. O-O-O Qg5 13. Qd5 Rae8 14. Nh3 Qe3 15. Rhe1 g5 16. Qf3 Qe7 17. Nf2 Qf7 18. Nb3 a5 19. Kb1 f4 20. gxf4 gxf4 21. Nd3 Re3 22. Qf2 Bf5 23. Bf3 Qh7 0-1
+
 
 [Event "Hastings"]
 [Site "Hastings"]
@@ -1609,6 +1710,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. g3 h5 5. Bg2 Nc6 6. Nc3 h4 7. Ne4 hxg3 8. h3 Nf6 9. Nxd6+ Qxd6 10. d3 Be6 11. c3 O-O-O 12. Qa4 Nd5 13. Bd2 g5 14. Bxg5 Nxc3 15. Qf4 Qxf4 16. Bxf4 Nd5 17. Bxg3 Rdg8 18. Kf2 Rh6 19. Bxd5 Bxd5 20. Nf3 Nb4 21. Be5 Rh5 22. d4 Nd3+ 23. Ke3 Nxb2 24. Rag1 Rxg1 25. Rxg1 Rxh3 26. Kf4 Nd3+ 27. Kf5 Bxf3 28. exd3 Bd5 29. Kf6 Kd7 30. Rc1 Rh6+ 31. Kg7 Rg6+ 32. Kh7 Rc6 33. Rb1 Rc2 34. Rb5 Kc6 35. Ra5 a6 36. a3 Bb3 37. Bf4 Kd7 38. Kg7 Rg2+ 39. Kf6 Be6 40. d5 Rg6+ 41. Ke5 Bh3 42. Rc5 Bg2 43. Kd4 c6 44. d6 Bd5 45. Rc2 Rg4 46. Rf2 b5 47. Kc5 a5 48. d4 Rg8 49. Re2 Re8 50. Rh2 b4 51. a4 Rg8 52. Kb6 Rg4 53. Bd2 Rxd4 54. Kxa5 c5 55. Be3 Rc4 56. Kb6 Kxd6 57. a5 Be4 58. a6 Rc3 59. Rd2+ Rd3 60. Bxc5+ Ke5 61. Re2 Rd8 62. a7 b3 63. Kb5 Kf5 64. Kb4 Bc2 65. Ka3 Ra8 66. Re7 Kg6 67. Rb7 Be4 68. Rxb3 f5 69. Kb4 Kf7 70. Kc3 Ke6 71. Rb8 Ke5 1/2-1/2
 
+
 [Event "Hastings"]
 [Site "Hastings"]
 [Date "1895.01.01"]
@@ -1623,6 +1725,7 @@
 [WhiteCountry "ENG"]
 
 1. f4 e6 2. Nf3 Nc6 3. e3 d5 4. Bb5 Bd6 5. b3 Ne7 6. Bb2 f6 7. O-O O-O 8. Nc3 a6 9. Be2 Bc5 10. d4 Ba7 11. Qe1 Nf5 12. Nd1 Nce7 13. Bd3 Nd6 14. Nf2 f5 15. c4 Ne4 16. Nh3 c6 17. Ne5 Rf6 18. Rd1 Ng6 19. Bxe4 dxe4 20. Kh1 Ne7 21. Qg3 Qe8 22. Ng5 Bb8 23. Rd2 Bxe5 24. dxe5 Rf8 25. Rd6 Qg6 26. Rfd1 h6 27. Nxe6 Bxe6 28. Qxg6 Nxg6 29. Rxe6 Kf7 30. Red6 Rfe8 31. Rd7+ Re7 32. Ba3 1-0
+
 
 [Event "Hastings"]
 [Site "Hastings"]
@@ -1641,6 +1744,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. g3 f5 5. d3 Nf6 6. c3 Nc6 7. Bg2 Ne5 8. Nd2 Qe7 9. Nf1 Bd7 10. Bf4 O-O 11. Bxe5 Bxe5 12. Qc2 Kh8 13. Bf3 Rab8 14. Qd2 Rfe8 15. h3 Qd6 16. Kf2 c5 17. e3 Bb5 18. Rd1 Rbd8 19. c4 Bc6 20. Qe2 b5 21. b3 bxc4 22. bxc4 Ba4 23. Rb1 Rb8 24. Nd2 Bxg3+ 25. Kg2 Bh4 26. Rh2 Bc2 27. Rxb8 Rxb8 28. d4 cxd4 29. exd4 Re8 30. Qf1 Re1 31. c5 Qxd4 32. Qxe1 Bxe1 33. Nb3 Bxb3 34. axb3 Qxc5 0-1
 
+
 [Event "Hastings"]
 [Site "Hastings"]
 [Date "1895.??.??"]
@@ -1655,6 +1759,7 @@
 [WhiteCountry "ENG"]
 
 1. f4 e6 2. Nf3 Nc6 3. e3 d5 4. Bb5 Bd6 5. b3 Ne7 6. Bb2 f6 7. O-O O-O 8. Nc3 a6 9. Be2 Bc5 10. d4 Ba7 11. Qe1 Nf5 12. Nd1 Nce7 13. Bd3 Nd6 14. Nf2 f5 15. c4 Ne4 16. Nh3 c6 17. Ne5 Rf6 18. Rd1 Ng6 19. Bxe4 dxe4 20. Kh1 Ne7 21. Qg3 Qe8 22. Ng5 Bb8 23. Rd2 Bxe5 24. dxe5 Rf8 25. Rd6 Qg6 26. Rfd1 h6 27. Nxe6 Bxe6 28. Qxg6 Nxg6 29. Rxe6 Kf7 30. Red6 Rfe8 31. Rd7+ Re7 32. Ba3 Re8 33. Bxe7 Rxe7 34. Rxe7+ Kxe7 35. Kg1 Nf8 36. Kf2 Ne6 37. b4 g5 38. g3 g4 39. Rd6 h5 40. b5 axb5 41. cxb5 cxb5 42. Rb6 1-0
+
 
 [Event "Hastings"]
 [Site "Hastings"]
@@ -1672,6 +1777,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. g3 f5 5. d4 Nf6 6. Bg5 Nbd7 7. c3 h6 8. Bxf6 Nxf6 9. Qd3 O-O 10. Nd2 Re8 11. Nc4 b5 12. Nxd6 cxd6 13. Bg2 Rb8 14. Nh3 d5 15. O-O Rb6 16. Nf2 Rbe6 17. Rae1 b4 18. Kh1 bxc3 19. bxc3 Re3 20. Qc2 Ba6 21. Nd1 Rxe2 22. Rxe2 Rxe2 23. Qxf5 Qe7 24. Rg1 Bb7 25. Nf2 Qe3 26. Ng4 Nxg4 27. Qxg4 Re1 28. Rf1 Ba6 29. Qf5 Rxf1+ 30. Bxf1 Bxf1 31. Qc8+ Kf7 32. Qf5+ Ke7 33. Qxf1 Qxc3 34. Qe2+ Kf7 35. Qh5+ Kf6 36. Qxd5 Qe1+ 37. Kg2 Qe2+ 38. Kh3 Qf1+ 39. Kg4 h5+ 40. Kh4 1-0
 
+
 [Event "St Petersburg m"]
 [Site "St Petersburg"]
 [Date "1897.01.01"]
@@ -1687,6 +1793,7 @@
 [BlackCountry "RUS"]
 
 1. f4 c5 2. Nf3 Nc6 3. e3 d5 4. b3 e6 5. Bb2 Nf6 6. Bd3 Bd6 7. Nc3 e5 8. fxe5 Nxe5 9. Nxe5 Bxe5 10. Qf3 O-O 11. h3 Be6 12. Nd1 Qd6 13. c3 d4 14. cxd4 cxd4 15. e4 Qb4 16. Nf2 a5 17. Ng4 Nd7 18. O-O a4 19. Rab1 axb3 20. axb3 f6 21. Bc1 Nc5 22. Kh1 Nxd3 23. Qxd3 Bc7 24. Nh2 Qd6 25. Nf3 Rfd8 26. Bb2 Qg3 27. Ra1 Rac8 28. Ra4 Bxh3 29. gxh3 Qxh3+ 30. Kg1 Qg3+ 1/2-1/2
+
 
 [Event "Hastings"]
 [Site "Hastings"]
@@ -1704,6 +1811,7 @@
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. c3 g4 6. Qa4+ Nc6 7. Nd4 Qh4+ 8. Kd1 g3 9. b3 Qxh2 0-1
 
+
 [Event "Vienna"]
 [Site "Vienna"]
 [Date "1897.01.01"]
@@ -1719,6 +1827,7 @@
 [BlackCountry "AUT"]
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. d4 Nc6 6. Bg5 h6 7. Bh4 g5 8. Bf2 Ne4 9. e3 g4 10. Bh4 gxf3 11. Bxd8 f2+ 12. Ke2 Bg4+ 13. Kd3 Nb4+ 14. Kxe4 f5# 0-1
+
 
 [Event "Vienna"]
 [Site "Vienna"]
@@ -1736,4 +1845,5 @@
 [BlackCountry "DEU"]
 
 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. d4 g4 6. Ne5 Bxe5 7. dxe5 Qxd1+ 8. Kxd1 Nc6 9. Nc3 Be6 10. Bf4 O-O-O+ 11. Ke1 Nge7 12. e3 Ng6 13. Bd3 Ncxe5 14. Bxg6 Nxg6 15. Rf1 f5 16. Rf2 h5 17. Rd1 Rxd1+ 18. Kxd1 Re8 19. Ne2 c5 20. Nc3 Rd8+ 21. Rd2 Rxd2+ 22. Kxd2 Kd7 23. g3 Kc6 24. Bb8 a6 25. b3 b5 26. Kd3 b4 27. Ne2 Bd5 28. c4 Be4+ 29. Kd2 Nf8 30. Be5 Ne6 31. Bf6 Kd6 32. Nf4 Nxf4 33. exf4 Kd7 34. Kc1 a5 35. Kb2 Bd3 36. a4 Be4 37. Ka2 Bf3 1/2-1/2
+
 

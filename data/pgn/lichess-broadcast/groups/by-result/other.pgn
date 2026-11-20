@@ -22,6 +22,7 @@
 
 1. e4 { [%clk 1:29:11] } 1... e5 { [%clk 1:25:55] } 2. Nf3 { [%clk 1:31:35] } 2... Nc6 { [%clk 1:25:55] } 3. Bc4 { [%clk 1:31:35] } 3... Nf6 { [%clk 1:25:55] } 4. d3 { [%clk 1:31:35] } 4... Bc5 { [%clk 1:25:55] } 5. O-O { [%clk 1:31:35] } 5... h6 { [%clk 1:25:55] } 6. c3 { [%clk 1:31:35] } 6... d6 { [%clk 1:25:55] } 7. a4 { [%clk 1:31:35] } 7... a5 { [%clk 1:25:55] } 8. Re1 { [%clk 1:31:35] } 8... Ba7 { [%clk 1:25:55] } 9. Nbd2 { [%clk 1:23:55] } 9... Ng4 { [%clk 1:25:55] } *
 
+
 [Event "Round 3: Rupam Mukherjee - Manish, Sharma"]
 [Site "https://lichess.org/broadcast/2nd-rungta-cement-international-open-fide-rating-chess-tournament-2026/round-3/axSiZh80/azmtwD3J"]
 [Date "2026.10.01"]
@@ -44,6 +45,7 @@
 [GameURL "https://lichess.org/broadcast/2nd-rungta-cement-international-open-fide-rating-chess-tournament-2026/round-3/axSiZh80/azmtwD3J"]
 
 1. e4 { [%clk 1:31:30] } 1... c5 { [%clk 1:31:45] } 2. c3 { [%clk 1:31:30] } 2... e6 { [%clk 1:31:45] } 3. Nf3 { [%clk 1:31:30] } 3... d6 { [%clk 1:31:45] } 4. Be2 { [%clk 1:31:30] } 4... Be7 { [%clk 1:31:45] } 5. O-O { [%clk 1:31:30] } 5... Nf6 { [%clk 1:31:45] } 6. Re1 { [%clk 1:31:30] } 6... O-O { [%clk 1:31:45] } 7. Bf1 { [%clk 1:31:30] } 7... Nbd7 { [%clk 1:31:45] } 8. d4 { [%clk 1:31:30] } 8... e5 { [%clk 1:31:45] } 9. dxe5 { [%clk 1:31:30] } 9... Nxe5 { [%clk 1:31:45] } *
+
 
 [Event "Round 9: Md. Masum, Hossain - Zoar Haque, Prodhan"]
 [Site "https://lichess.org/broadcast/strucxel-50th-national-b-championship-2026-region-1-dhaka-city-final-phase/round-9/Gy1Qg4OM/1uszEIFM"]
@@ -70,6 +72,7 @@
 
 1. d4 { [%clk 0:55:12] } 1... Nf6 { [%clk 1:30:58] } 2. c4 { [%clk 0:55:35] } 2... e6 { [%clk 1:31:27] } 3. Nc3 { [%clk 0:55:41] } *
 
+
 [Event "Round 9: Jannatul, Ferdous - Amit Bikram, Roy"]
 [Site "https://lichess.org/broadcast/strucxel-50th-national-b-championship-2026-region-1-dhaka-city-final-phase/round-9/Gy1Qg4OM/uMKyFBvk"]
 [Date "2026.10.01"]
@@ -94,6 +97,7 @@
 
 *
 
+
 [Event "Round 9: Hasan, Sk. Rashedul - Mohammad, Hasan Mia"]
 [Site "https://lichess.org/broadcast/strucxel-50th-national-b-championship-2026-region-1-dhaka-city-final-phase/round-9/Gy1Qg4OM/mfbHiiR0"]
 [Date "2026.10.01"]
@@ -116,4 +120,5 @@
 [GameURL "https://lichess.org/broadcast/strucxel-50th-national-b-championship-2026-region-1-dhaka-city-final-phase/round-9/Gy1Qg4OM/mfbHiiR0"]
 
 1. e4 { [%clk 1:01:51] } *
+
 

@@ -133,7 +133,7 @@ def main():
             for label, items in files.items():
                 with open(os.path.join(out, crit, slug(label) + '.pgn'), 'w', encoding='utf-8') as f:
                     for tags, moves in items:
-                        f.write(render(tags, moves) + '\n')
+                        f.write(render(tags, moves) + '\n\n')   # blank line between games (PGN spec)
                 index[crit].append((label, f'{crit}/{slug(label)}.pgn', len(items)))
         total = len(games)
         lines = [f'# Grouped samples — {ds["label"]}', '',
