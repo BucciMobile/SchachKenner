@@ -16,5 +16,5 @@ contact_links:
     url: https://docs.github.com/en/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam
     about: For abusive behavior, spam or malware in issues/PRs.
   - name: Our removal-request policy
-    url: https://github.com/BucciMobile/SchachKenner/blob/main/REMOVAL_REQUESTS.md
+    url: https://github.com/BucciMobile/SchachKenner/blob/main/.github/REMOVAL_REQUESTS.md
     about: Process, SLAs (48 h ack / 7 days decision) and the public removal log.

@@ -59,5 +59,5 @@ Use the "New chess resource" issue template and fill in: name, URL, category,
 license, and whether we may host the file in `data/`.
 
 **Removal/takedown requests** (copyright, trademark, privacy, …) are handled per
-[REMOVAL_REQUESTS.md](../REMOVAL_REQUESTS.md) — please use the "Removal request"
+[REMOVAL_REQUESTS.md](REMOVAL_REQUESTS.md) — please use the "Removal request"
 template or GitHub's DMCA form, not a regular issue.

@@ -23,4 +23,4 @@ non-commercial repo. The actual bulk files (~GBs, `.7z`) are behind a click-thro
 consent dialog on their site, so we **link** to the source for the downloads
 (see [categories/02](../categories/02-game-databases-and-pgn.md)) and keep this license
 evidence here. If we ever host a Lumbras file in `data/`, it must carry the CC BY-NC 4.0
-attribution and an entry in `../THIRD_PARTY_NOTICES.md`.
+attribution and an entry in `../.github/THIRD_PARTY_NOTICES.md`.

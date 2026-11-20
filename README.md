@@ -10,7 +10,7 @@ and host only files whose license explicitly allows redistribution, with the per
 proof in [`licenses/`](licenses/).
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/CONTRIBUTING.md)
 [![link-check](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml/badge.svg)](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml)
 
 <p align="center">
@@ -83,7 +83,7 @@ Full multi-GB dumps stay at their sources — fetch them locally with
 1. **Link, don't copy** — every resource points to its original source (e.g.
    [chessessentials.com/chess-pgn-downloads](https://chessessentials.com/chess-pgn-downloads/)).
 2. **Host only with explicit permission** — hosted files are listed in
-   [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md); the permission evidence (verbatim
+   [`THIRD_PARTY_NOTICES.md`](.github/THIRD_PARTY_NOTICES.md); the permission evidence (verbatim
    quote, raw page copy, SHA-256, retrieval date) is in [`licenses/`](licenses/).
 3. **Chess games are facts — curated collections can be protected** (EU database right),
    so collections like TWIC/PGN Mentor/ChessEssentials are always linked, never mirrored —
@@ -92,20 +92,20 @@ Full multi-GB dumps stay at their sources — fetch them locally with
 ## <img src="assets/img/pieces/livius/bk.svg" width="20" alt="king"> Legal & removal requests
 
 If you believe content in this repo infringes your rights (copyright, trademark,
-personal data/GDPR, …): see **[REMOVAL_REQUESTS.md](REMOVAL_REQUESTS.md)** — copyright
+personal data/GDPR, …): see **[REMOVAL_REQUESTS.md](.github/REMOVAL_REQUESTS.md)** — copyright
 claims go through [GitHub's DMCA form](https://github.com/contact/dmca), everything else
 via the [removal-request issue template](.github/ISSUE_TEMPLATE/removal-request.md).
 We acknowledge within 48 h, decide within 7 days, and log actions in
-[REMOVAL_LOG.md](REMOVAL_LOG.md).
+[REMOVAL_LOG.md](.github/REMOVAL_LOG.md).
 
 ## <img src="assets/img/pieces/livius/wq.svg" width="20" alt="queen"> Contributing
 
 Found a great free resource? Open an issue with the
 [resource template](.github/ISSUE_TEMPLATE/resource-submission.md) or send a PR —
-please read [CONTRIBUTING.md](CONTRIBUTING.md) first (short version: link-first, license
+please read [CONTRIBUTING.md](.github/CONTRIBUTING.md) first (short version: link-first, license
 evidence required for hosted files, no copyrighted uploads). Code of conduct:
-[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). License of this repo's own content:
-[CC0](LICENSE). Disputes about existing content: [REMOVAL_REQUESTS.md](REMOVAL_REQUESTS.md).
+[CODE_OF_CONDUCT.md](.github/CODE_OF_CONDUCT.md). License of this repo's own content:
+[CC0](LICENSE). Disputes about existing content: [REMOVAL_REQUESTS.md](.github/REMOVAL_REQUESTS.md).
 
 ---
 
@@ -180,8 +180,8 @@ This project stands on the shoulders of these sites, projects and people:
   [ChessBase News](https://en.chessbase.com/news) · [Chess.com News](https://www.chess.com/news)
 
 *No affiliation with any of them — if you believe content here infringes your rights, follow
-[REMOVAL_REQUESTS.md](REMOVAL_REQUESTS.md) (DMCA form for copyright, issue template
-otherwise); actions are logged in [REMOVAL_LOG.md](REMOVAL_LOG.md).*
+[REMOVAL_REQUESTS.md](.github/REMOVAL_REQUESTS.md) (DMCA form for copyright, issue template
+otherwise); actions are logged in [REMOVAL_LOG.md](.github/REMOVAL_LOG.md).*
 
 ---
 
@@ -210,5 +210,5 @@ can re-verify them independently. Nothing in this repository is legal advice.
 **Quality gates stay human.** Links are checked automatically every week
 ([workflow](.github/workflows/link-check.yml)), hosted files require a documented
 permission in [`licenses/`](licenses/), and takedown requests follow the process in
-[REMOVAL_REQUESTS.md](REMOVAL_REQUESTS.md). Everything we create here ourselves is
+[REMOVAL_REQUESTS.md](.github/REMOVAL_REQUESTS.md). Everything we create here ourselves is
 released under [CC0](LICENSE).
