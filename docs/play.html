@@ -210,7 +210,7 @@ let playerColor = "w";
 let flip = false;
 let selected = null, legalTargets = [];
 let lastMove = null, bestArrow = null, evalCp = null; // evalCp: centipawns from White's perspective
-let engine = null, engineReady = false, engineBusy = false, pendingAnalyze = false;
+let engine = null, engineReady = false, engineBusy = false, pendingAnalyze = false, pendingPlay = false;
 let lastInfo = null;
 let variantFallback = false;
 
@@ -475,8 +475,10 @@ function onEngineLine(line){
   } else if (line === "readyok"){
     engineReady = true;
     setStatus("engine ready — Stockfish 16 (single-thread WASM)");
-    if (mode === "play" && !ch.isGameOver() && ch.turn() === engineColor()) engineGo();
-    else maybeAnalyze();
+    if (mode === "play"){
+      if (pendingPlay || (!ch.isGameOver() && ch.turn() === engineColor())) engineGo();
+      else setStatus("your move — click a piece, then a target square");
+    } else maybeAnalyze();
   } else if (line.startsWith("bestmove")){
     engineBusy = false;
     const mv = line.split(/\s+/)[1];
@@ -493,7 +495,7 @@ function onEngineLine(line){
         } catch(e){ /* ignore */ }
       }
     }
-    if (pendingAnalyze){ pendingAnalyze = false; engineGo(); }
+    if (pendingPlay || pendingAnalyze){ pendingPlay = false; pendingAnalyze = false; engineGo(); }
   } else if (line.startsWith("info ")){
     parseInfo(line);
   }
@@ -524,12 +526,15 @@ function parseInfo(line){
 }
 
 function engineGo(){
-  if (!engine || !engineReady) return;
+  if (!engine) return;
+  if (!engineReady){ pendingPlay = true; setStatus("engine still starting (first run downloads the ~40 MB neural net) — your move is queued…"); return; }
+  if (engineBusy){ pendingPlay = true; return; }   // queue: fired on bestmove
+  pendingPlay = false;
   engineBusy = true; lastInfo = null;
   const depth = +$("depth").value || 10;
   engine.postMessage("position fen " + ch.fen());
   engine.postMessage("go depth " + depth);
-  setStatus(mode === "play" ? "engine thinking…" : "analyzing depth " + depth + "…");
+  setStatus(mode === "play" ? "engine thinking (depth " + depth + ")…" : "analyzing depth " + depth + "…");
 }
 
 function maybeAnalyze(){
