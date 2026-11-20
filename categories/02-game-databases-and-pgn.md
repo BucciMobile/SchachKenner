@@ -30,6 +30,10 @@ and is freely downloadable from many sites. Common formats you will encounter:
 | [`data/pgn/lichess-chess960/…sample-1000-games.pgn`](../data/pgn/lichess-chess960/) | CC0 1.0 | 1,000 Chess960 variant games (2026-10) + groups |
 | [`data/pgn/lichess-broadcast/…sample-300-games.pgn`](../data/pgn/lichess-broadcast/) | CC BY-SA 4.0 (attributed) | 300 top-level broadcast games (2026-10) + groups |
 | [`data/pgn/classic-games/`](../data/pgn/classic-games/) | CC0 1.0 | classic games: *Life and Games of Mikhail Tal*, *My Memorable 60* + groups |
+| [`data/pgn/lichess-atomic/`](../data/pgn/lichess-atomic/) | CC0 1.0 | 1,000 Atomic variant games (2026-10) + groups |
+| [`data/pgn/lichess-standard-2019/`](../data/pgn/lichess-standard-2019/) | CC0 1.0 | 1,000 standard games from **2019-12** (older era — good for date-range filtering) + groups |
+| [`data/pgn/tcec/`](../data/pgn/tcec/) | CC BY-SA 3.0 (attributed) | 200 engine games, TCEC Season 29 Division P + groups |
+| [`data/pgn/masters/`](../data/pgn/masters/) | MIT | master games: **Fischer**, **Euwe** + groups |
 
 🔍 **Interactive explorer:** filter/search/sort these games live in the browser (time control, Elo slider, opening, ECO A–E, event, result, player search, copyable PGNs, own-file upload) at **https://BucciMobile.github.io/SchachKenner/** — source in [`docs/index.html`](../docs/index.html). |
 

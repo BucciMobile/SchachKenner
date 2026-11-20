@@ -22,6 +22,9 @@ in `data/` — everything else is link-only (see the category files).
 | **Chess piece graphics — livius set** (kmar/chess_svg_piece_sets) | ✅ **Yes — Unlicense / public domain** ("freely … for any purpose, commercial or non-commercial") | **Hosted** in `assets/img/` (banner, icons, divider) | [chess-pieces-cc0.md](chess-pieces-cc0.md) |
 | **lichess variant exports (Chess960)** + **broadcast exports** | ✅ CC0 (variants) / **CC BY-SA 4.0 with attribution** (broadcasts) | **Hosted** in `data/pgn/lichess-chess960/`, `data/pgn/lichess-broadcast/` | [lichess-variants-and-broadcasts.md](lichess-variants-and-broadcasts.md) |
 | **Classic games PGN** (brianerdelyi/ChessPGN: Tal, Memorable 60) | ✅ **CC0-1.0** | **Hosted** in `data/pgn/classic-games/` | [classic-games-cc0.md](classic-games-cc0.md) |
+| **lichess Atomic 2026-10 + standard 2019-12** | ✅ CC0 (same export grant) | **Hosted** in `data/pgn/lichess-atomic/`, `data/pgn/lichess-standard-2019/` | [lichess-variants-and-broadcasts.md](lichess-variants-and-broadcasts.md) |
+| **TCEC Season 29 engine games** | ✅ **CC BY-SA 3.0** (attribution) | **Hosted** in `data/pgn/tcec/` | [tcec-ccbysa3.md](tcec-ccbysa3.md) |
+| **Master games Fischer/Euwe** (Dragjon/chessdatabase) | ✅ **MIT** | **Hosted** in `data/pgn/masters/` | [masters-mit.md](masters-mit.md) |
 | chess.com | ❌ No — User Agreement forbids download/copy/distribute/scraping | Link only | [link-only-sources.md](link-only-sources.md) |
 | chessgames.com | ❌ No — bulk database download requires paid membership; no redistribution grant | Link only | [link-only-sources.md](link-only-sources.md) |
 | The Week in Chess (TWIC) | ❌ No explicit redistribution permission found | Link only | [link-only-sources.md](link-only-sources.md) |
@@ -46,6 +49,8 @@ fe32badd86dac41f1de63d02c9cc077edbc750c1f7d55843d3425588c53552f2  raw/ficsgames.
 ce370b6e6d250544b2a59325f446dbdee192f888d07d147abd714ba31949856c  raw/kmar-chess_svg_piece_sets-livius-LICENSE.txt
 dcc9aa22d377aeec106b3102ff988a5438e3a04fa77969604de55fa2f54bbc10  raw/kmar-chess_svg_piece_sets-README.md
 a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499  raw/brianerdelyi-ChessPGN-LICENSE.txt
+040827200dcb55ba55a976c7ca25da2b7023525999c9f7110b37106a78b7db7c  raw/TCEC-tcecgames-README.md
+43959ed7d06a8db78d3ce56527a9f076dc7386ac65ac09f319055f9717d49536  raw/Dragjon-chessdatabase-LICENSE.txt
 ```
 
 ## Rule for future additions

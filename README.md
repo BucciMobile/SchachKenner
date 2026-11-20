@@ -13,7 +13,7 @@ proof in [`licenses/`](licenses/).
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![link-check](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml/badge.svg)](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml)
 
-> 🆕 **New!** Try the [**interactive PGN explorer**](https://BucciMobile.github.io/SchachKenner/) — filter & search 2,000 CC0-licensed games **live in your browser** (mobile-friendly 📱): Elo range slider, opening search, ECO category A–E, event type, result, player search — the table re-sorts automatically and every game shows its copyable PGN.
+> 🆕 **New!** Try the [**interactive PGN explorer**](https://BucciMobile.github.io/SchachKenner/) — filter & search **9 hosted datasets (≈7,600 games, CC0/CC BY-SA/MIT)** live in your browser (mobile-friendly 📱): dataset picker, **date range (year / last 3–12 months / custom)**, Elo slider, opening search, ECO A–E, event type, result, player search — the table re-sorts automatically and every game shows its copyable PGN.
 
 ## <img src="assets/img/pieces/livius/wb.svg" width="20" alt="bishop"> AI transparency
 
@@ -55,6 +55,10 @@ Only sources with **explicit redistribution permission** are hosted here — pro
 - ♟ [`data/pgn/lichess-chess960/`](data/pgn/lichess-chess960/) — 1,000 Chess960 games, **CC0**, with groups
 - 📡 [`data/pgn/lichess-broadcast/`](data/pgn/lichess-broadcast/) — 300 broadcast games, **CC BY-SA 4.0** (attributed), with groups
 - 🏛 [`data/pgn/classic-games/`](data/pgn/classic-games/) — classic games (Tal, Memorable 60), **CC0**, with groups
+- ♟ [`data/pgn/lichess-atomic/`](data/pgn/lichess-atomic/) — 1,000 Atomic games, **CC0**, with groups
+- 🗓 [`data/pgn/lichess-standard-2019/`](data/pgn/lichess-standard-2019/) — 1,000 games from **2019**, **CC0** (for date-range filtering), with groups
+- 🤖 [`data/pgn/tcec/`](data/pgn/tcec/) — 200 engine games (TCEC S29), **CC BY-SA 3.0** attributed, with groups
+- 👑 [`data/pgn/masters/`](data/pgn/masters/) — Fischer & Euwe master games, **MIT**, with groups
 - 🆕 [**Interactive PGN explorer — live in your browser**](https://BucciMobile.github.io/SchachKenner/) — filter the games by time control, Elo range slider, opening, ECO category (A–E), event type, result, player name; the table re-sorts automatically and every game shows its copyable PGN. Also loads your own PGN files. Optimized for mobile 📱
 
 > "Database exports are released under the Creative Commons CC0 license. … You can

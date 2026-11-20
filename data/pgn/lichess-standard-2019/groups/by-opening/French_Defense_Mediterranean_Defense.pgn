@@ -1,0 +1,20 @@
+[Event "Rated Rapid tournament https://lichess.org/tournament/vFMjcENu"]
+[Site "https://lichess.org/u7cx92Lx"]
+[Date "2019.12.01"]
+[Round "-"]
+[White "harunku"]
+[Black "Stuttgart333"]
+[Result "1-0"]
+[UTCDate "2019.12.01"]
+[UTCTime "00:00:03"]
+[WhiteElo "1510"]
+[BlackElo "1546"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-8"]
+[ECO "C01"]
+[Opening "French Defense: Mediterranean Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:10:00] } e6 { [%clk 0:10:00] } 2. d4 { [%clk 0:09:59] } Nf6 { [%clk 0:09:59] } 3. Nc3 { [%clk 0:09:56] } Bb4 { [%clk 0:09:57] } 4. e5 { [%clk 0:09:53] } Bxc3+ { [%clk 0:09:57] } 5. bxc3 { [%clk 0:09:52] } Ne4 { [%clk 0:09:57] } 6. Qd3 { [%clk 0:09:43] } d5 { [%clk 0:09:55] } 7. f3 { [%clk 0:09:38] } Qh4+ { [%clk 0:09:51] } 8. g3 { [%clk 0:09:13] } Nxg3 { [%clk 0:09:46] } 9. hxg3 { [%clk 0:08:53] } Qxh1 { [%clk 0:09:45] } 10. Ne2 { [%clk 0:08:53] } h5 { [%clk 0:09:39] } 11. Ba3 { [%clk 0:08:49] } h4 { [%clk 0:09:37] } 12. O-O-O { [%clk 0:08:46] } hxg3 { [%clk 0:09:34] } 13. Nxg3 { [%clk 0:08:43] } Qh6+ { [%clk 0:09:30] } 14. Rd2 { [%clk 0:08:30] } Qg5 { [%clk 0:09:23] } 15. Ne2 { [%clk 0:08:22] } Rh1 { [%clk 0:09:16] } 16. Qb5+ { [%clk 0:07:33] } c6 { [%clk 0:09:14] } 17. Qc5 { [%clk 0:07:32] } Rxf1+ { [%clk 0:09:09] } 18. Kb2 { [%clk 0:07:30] } Qxd2 { [%clk 0:09:07] } 19. Qe7# { [%clk 0:07:29] } 1-0
+

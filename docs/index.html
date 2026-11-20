@@ -99,6 +99,12 @@
       <input id="f-player" placeholder="username…"></div>
     <div class="wide"><label>Elo range (avg of both players): <span id="eloVals"></span></label>
       <div class="range-row"><input type="range" id="elo-min" min="800" max="3000" step="10" value="800"><input type="range" id="elo-max" min="800" max="3000" step="10" value="3000"></div></div>
+    <div class="wide"><label for="f-datepreset">Date range (year / last months / custom)</label>
+      <div style="display:flex;gap:.4rem;flex-wrap:wrap;align-items:center">
+        <select id="f-datepreset" style="flex:1 1 150px"></select>
+        <input type="date" id="f-from" aria-label="from date" title="from">
+        <input type="date" id="f-to" aria-label="to date" title="to">
+      </div></div>
     <div><label for="f-sort">Sort</label>
       <select id="f-sort">
         <option value="date-desc">date ↓</option><option value="date-asc">date ↑</option>
@@ -129,11 +135,49 @@ const DATASETS = [
   {label: "lichess Chess960 rated 2026-10 — 1,000 games (CC0)", url: RAW + "data/pgn/lichess-chess960/lichess-chess960-2026-10-sample-1000-games.pgn"},
   {label: "lichess broadcasts 2026-10 — 300 games (CC BY-SA 4.0)", url: RAW + "data/pgn/lichess-broadcast/lichess-broadcast-2026-10-sample-300-games.pgn"},
   {label: "classic games: Tal + Memorable 60 (CC0)", url: RAW + "data/pgn/classic-games/life-and-games-of-mikhail-tal.pgn"},
-  {label: "classic games: My Memorable 60 (CC0)", url: RAW + "data/pgn/classic-games/my-memorable-60.pgn"}
+  {label: "classic games: My Memorable 60 (CC0)", url: RAW + "data/pgn/classic-games/my-memorable-60.pgn"},
+  {label: "lichess Atomic rated 2026-10 — 1,000 games (CC0)", url: RAW + "data/pgn/lichess-atomic/lichess-atomic-2026-10-sample-1000-games.pgn"},
+  {label: "lichess standard rated 2019-12 — 1,000 games (CC0, older era)", url: RAW + "data/pgn/lichess-standard-2019/lichess-standard-2019-12-sample-1000-games.pgn"},
+  {label: "TCEC Season 29 Division P — 200 engine games (CC BY-SA 3.0)", url: RAW + "data/pgn/tcec/tcec-season-29-division-p-sample-200-games.pgn"},
+  {label: "master games: Bobby Fischer (MIT)", url: RAW + "data/pgn/masters/fischer.pgn"},
+  {label: "master games: Max Euwe (MIT)", url: RAW + "data/pgn/masters/uwe.pgn"}
 ];
 const $ = id => document.getElementById(id);
 let games = [];
 let lastOut = [];
+let dsMinDate = null, dsMaxDate = null;
+
+function normDate(d){ return (d || "").replace(/-/g, "."); } // input YYYY-MM-DD -> PGN YYYY.MM.DD
+
+function populateDatePresets(){
+  const dates = games.map(g => g.date).filter(Boolean).sort();
+  dsMinDate = dates[0] || null;
+  dsMaxDate = dates[dates.length - 1] || null;
+  const years = [...new Set(dates.map(d => d.slice(0, 4)))].sort().reverse();
+  let opts = '<option value="all">all time</option>' +
+             '<option value="last3m">last 3 months</option>' +
+             '<option value="last12m">last 12 months</option>' +
+             '<option value="last5y">last 5 years</option>' +
+             '<option value="custom">custom…</option>';
+  years.forEach(y => { opts += '<option value="year:' + y + '">year ' + y + '</option>'; });
+  const sel = $("f-datepreset");
+  sel.innerHTML = opts;
+  sel.value = "all";
+  if (dsMinDate) { $("f-from").min = dsMinDate.replace(/\./g, "-"); $("f-to").max = dsMaxDate.replace(/\./g, "-"); }
+}
+
+function applyDatePreset(){
+  const p = $("f-datepreset").value;
+  const iso = d => d.toISOString().slice(0, 10);
+  const max = dsMaxDate ? new Date(dsMaxDate.replace(/\./g, "-") + "T00:00:00Z") : new Date();
+  const sub = m => { const d = new Date(max); d.setUTCMonth(d.getUTCMonth() - m); return d; };
+  if (p === "all") { $("f-from").value = ""; $("f-to").value = ""; }
+  else if (p === "last3m") { $("f-from").value = iso(sub(3)); $("f-to").value = iso(max); }
+  else if (p === "last12m") { $("f-from").value = iso(sub(12)); $("f-to").value = iso(max); }
+  else if (p === "last5y") { $("f-from").value = iso(sub(60)); $("f-to").value = iso(max); }
+  else if (p.indexOf("year:") === 0) { const y = p.slice(5); $("f-from").value = y + "-01-01"; $("f-to").value = y + "-12-31"; }
+  apply();
+}
 
 function esc(s){ return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
 
@@ -197,9 +241,11 @@ const SORTERS = {
 function apply(){
   const f = state();
   $("eloVals").textContent = f.eloMin + " – " + f.eloMax;
+  const from = normDate($("f-from").value), to = normDate($("f-to").value);
   const active = ["f-tc","f-eco","f-winner"].filter(id => $(id).value).length
                + ["f-event","f-opening","f-player"].filter(id => $(id).value.trim()).length
-               + ((f.eloMin > 800 || f.eloMax < 3000) ? 1 : 0);
+               + ((f.eloMin > 800 || f.eloMax < 3000) ? 1 : 0)
+               + ((from || to) ? 1 : 0);
   $("activeCount").textContent = active ? "(" + active + " active)" : "";
   let out = games.filter(g => {
     if (f.tc && g.tc !== f.tc) return false;
@@ -209,6 +255,7 @@ function apply(){
     if (f.winner && g.result !== f.winner) return false;
     if (f.player && !(g.white.toLowerCase().includes(f.player) || g.black.toLowerCase().includes(f.player))) return false;
     if (g.avgElo !== null && (g.avgElo < f.eloMin || g.avgElo > f.eloMax)) return false;
+    if (from || to) { if (!g.date) return false; if (from && g.date < from) return false; if (to && g.date > to) return false; }
     return true;
   });
   out.sort(SORTERS[f.sort] || SORTERS["date-desc"]);
@@ -237,7 +284,7 @@ function fillDatalists(){
 function loadText(text, label){
   games = parsePGN(text);
   $("status").textContent = games.length.toLocaleString() + " games loaded" + (label ? " (" + label + ")" : "");
-  fillDatalists(); apply();
+  fillDatalists(); populateDatePresets(); apply();
 }
 
 function fillDatasetSelect(){
@@ -260,10 +307,14 @@ async function loadDataset(i){
 
 ["f-tc","f-eco","f-event","f-opening","f-winner","f-player","f-sort"].forEach(id => $(id).addEventListener("input", apply));
 ["elo-min","elo-max"].forEach(id => $(id).addEventListener("input", apply));
+$("f-datepreset").addEventListener("change", applyDatePreset);
+["f-from","f-to"].forEach(id => $(id).addEventListener("input", () => { if ($("f-datepreset").value !== "custom" && ($("f-from").value || $("f-to").value)) $("f-datepreset").value = "custom"; apply(); }));
 $("f-reset").addEventListener("click", () => {
   ["f-tc","f-eco","f-winner","f-sort"].forEach(id => $(id).selectedIndex = 0);
   ["f-event","f-opening","f-player"].forEach(id => $(id).value = "");
-  $("elo-min").value = 800; $("elo-max").value = 3000; apply();
+  $("elo-min").value = 800; $("elo-max").value = 3000;
+  $("f-datepreset").value = "all"; $("f-from").value = ""; $("f-to").value = "";
+  apply();
 });
 $("file").addEventListener("change", ev => {
   const f = ev.target.files[0]; if (!f) return;

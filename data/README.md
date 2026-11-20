@@ -26,8 +26,12 @@ Everything else in the repo is links to the original sources.
 data/pgn/
 ├── lichess/                  # CC0 — 2,000 standard rated games (2026-10) + 1,000-puzzle CSV + groups/
 ├── lichess-chess960/         # CC0 — 1,000 Chess960 rated games (2026-10) + groups/
+├── lichess-atomic/           # CC0 — 1,000 Atomic rated games (2026-10) + groups/
+├── lichess-standard-2019/    # CC0 — 1,000 standard games (2019-12, older era) + groups/
 ├── lichess-broadcast/        # CC BY-SA 4.0 (attributed) — 300 broadcast games (2026-10) + groups/
-└── classic-games/            # CC0 — Tal: Life and Games + My Memorable 60 + groups/
+├── classic-games/            # CC0 — Tal: Life and Games + My Memorable 60 + groups/
+├── tcec/                     # CC BY-SA 3.0 (attributed) — 200 engine games, TCEC S29 Div P + groups/
+└── masters/                  # MIT — Fischer + Euwe master games + groups/
 ```
 
 Each dataset folder has a `README.md` (source, SHA-256, license) and `groups/`

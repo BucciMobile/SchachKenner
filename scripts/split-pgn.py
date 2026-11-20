@@ -26,6 +26,14 @@ DATASETS = [
     {"id": "classic-games",     "label": "classic games — Tal / Memorable 60 (CC0)",
      "files": ["data/pgn/classic-games/life-and-games-of-mikhail-tal.pgn",
                "data/pgn/classic-games/my-memorable-60.pgn"]},
+    {"id": "lichess-atomic",    "label": "lichess Atomic rated 2026-10 (CC0)",
+     "files": ["data/pgn/lichess-atomic/lichess-atomic-2026-10-sample-1000-games.pgn"]},
+    {"id": "lichess-standard-2019", "label": "lichess standard rated 2019-12 (CC0)",
+     "files": ["data/pgn/lichess-standard-2019/lichess-standard-2019-12-sample-1000-games.pgn"]},
+    {"id": "tcec",              "label": "TCEC Season 29 Division P — engine games (CC BY-SA 3.0)",
+     "files": ["data/pgn/tcec/tcec-season-29-division-p-sample-200-games.pgn"]},
+    {"id": "masters",           "label": "master games — Fischer / Euwe (MIT)",
+     "files": ["data/pgn/masters/fischer.pgn", "data/pgn/masters/uwe.pgn"]},
 ]
 
 
