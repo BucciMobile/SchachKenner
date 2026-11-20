@@ -118,8 +118,10 @@
       </select></div>
     <div><label for="color">You play (in Play mode)</label>
       <select id="color"><option value="w">White</option><option value="b">Black</option></select></div>
-    <div><label for="depth">Engine depth (mobile: keep low)</label>
+    <div><label for="depth">Engine strength (search depth — mobile: keep low)</label>
       <select id="depth"><option>6</option><option>8</option><option selected>10</option><option>12</option><option>14</option><option>16</option></select></div>
+    <div><label for="startBtn">…then start</label>
+      <button id="startBtn" type="button">▶ Start</button></div>
     <div><label>&nbsp;</label>
       <button id="copyBtn" type="button">📋 copy PGN</button>
       <a class="btn" id="lichessBtn" href="https://lichess.org/analysis" target="_blank" rel="noopener">↗ analyze on lichess</a>
@@ -456,7 +458,11 @@ function ensureEngine(){
       await new Promise((res, rej) => { s.onload = res; s.onerror = () => rej(new Error("could not load engine script")); });
       const factory = s._exports || window.Stockfish || window.STOCKFISH;
       if (typeof factory !== "function") throw new Error("engine factory not found");
-      engine = factory({ locateFile: f => SF_BASE + f });
+      // NOTE: stockfish.js v16 factory returns a PROMISE resolving to the engine module
+      // (see src/emscripten/public/index.html: Stockfish(mod).then(_stockfish => …))
+      const maybePromise = factory({ locateFile: f => SF_BASE + f });
+      engine = (maybePromise && typeof maybePromise.then === "function") ? await maybePromise : maybePromise;
+      if (!engine || typeof engine.addMessageListener !== "function") throw new Error("engine module invalid");
       engine.addMessageListener(onEngineLine);
       setStatus("starting engine… (first run downloads the ~40 MB neural net once)");
       engine.postMessage("uci");
@@ -466,7 +472,7 @@ function ensureEngine(){
         if (engineReady || ++nudges > 12){ clearInterval(nudge); return; }
         try { engine.postMessage("isready"); } catch(e){}
       }, 5000);
-      await engine.ready;
+      if (engine.ready && typeof engine.ready.then === "function") await engine.ready;
       return engine;
     })().catch(e => { enginePromise = null; setStatus("engine failed to load: " + e.message); throw e; });
   }
@@ -535,7 +541,7 @@ function parseInfo(line){
 }
 
 function engineGo(){
-  if (!engine) return;
+  if (!engine){ pendingPlay = true; ensureEngine().then(() => { if (engineReady) engineGo(); }).catch(() => {}); return; }
   if (!engineReady){ pendingPlay = true; setStatus("engine still starting (first run downloads the ~40 MB neural net) — your move is queued…"); return; }
   if (engineBusy){ pendingPlay = true; return; }   // queue: fired on bestmove
   pendingPlay = false;
@@ -553,27 +559,34 @@ function maybeAnalyze(){
   engineGo();
 }
 
+function startPlay(){
+  mode = "play"; $("mode").value = "play";
+  playerColor = $("color").value;
+  startFen = null; sans = []; fullVerbose = []; ply = 0;
+  selected = null; legalTargets = [];
+  rebuild(0);
+  curGame = null;
+  $("meta").innerHTML = "You (<strong>" + (playerColor === "w" ? "White" : "Black") + "</strong>) vs <strong>Stockfish 16</strong> (depth " + $("depth").value + ")";
+  $("rawPgn").textContent = "";
+  bestArrow = null; evalCp = null;
+  render();
+  setStatus("starting engine… (first run downloads the ~40 MB neural net once)");
+  ensureEngine().then(() => {
+    if (!ch.isGameOver() && ch.turn() === engineColor()) engineGo();
+    else setStatus("your move — click a piece, then a target square");
+  }).catch(e => setStatus("engine failed to load: " + e.message));
+}
+$("startBtn").addEventListener("click", () => {
+  const m = $("mode").value;
+  if (m === "play") startPlay();
+  else if (m === "analyze"){ mode = "analyze"; setStatus("starting engine…"); ensureEngine().then(maybeAnalyze).catch(e => setStatus("engine failed to load: " + e.message)); }
+  else setStatus("choose mode '🤖 Play vs engine' or '🔍 Analyze position' first");
+});
 $("mode").addEventListener("change", () => {
   mode = $("mode").value;
-  if (mode === "play"){
-    // start a fresh game vs the engine
-    startFen = null; sans = []; fullVerbose = []; ply = 0;
-    playerColor = $("color").value;
-    rebuild(0);
-    curGame = null;
-    $("meta").innerHTML = "You (<strong>" + (playerColor === "w" ? "White" : "Black") + "</strong>) vs <strong>Stockfish 16</strong>";
-    $("rawPgn").textContent = "";
-    bestArrow = null; evalCp = null;
-    render();
-    setStatus("starting engine…");
-    ensureEngine().then(() => {
-      if (!ch.isGameOver() && ch.turn() === engineColor()) engineGo();
-      else setStatus("your move — click a piece, then a target square");
-    }).catch(() => {});
-  } else {
-    if (mode === "analyze") maybeAnalyze();
-    else setStatus("viewing");
-  }
+  if (mode === "play") setStatus("pick color & strength, then press ▶ Start");
+  else if (mode === "analyze") setStatus("press ▶ Start to analyze the current position");
+  else setStatus("viewing");
 });
 $("color").addEventListener("change", () => { playerColor = $("color").value; });
 $("depth").addEventListener("change", () => { if (mode === "analyze") maybeAnalyze(); });
