@@ -118,7 +118,7 @@
       </select></div>
     <div><label for="color">You play (in Play mode)</label>
       <select id="color"><option value="w">White</option><option value="b">Black</option></select></div>
-    <div><label for="depth">Engine strength (search depth — mobile: keep low)</label>
+    <div><label for="depth">Strength (depth)</label>
       <select id="depth"><option>6</option><option>8</option><option selected>10</option><option>12</option><option>14</option><option>16</option></select></div>
     <div><label for="startBtn">…then start</label>
       <button id="startBtn" type="button">▶ Start</button></div>
@@ -132,6 +132,9 @@
         <button id="shareBtn" type="button">🔗 Share game</button>
       </div></div>
   </section>
+
+  <details id="englog" style="margin:.4rem 0"><summary style="cursor:pointer;color:var(--muted);font-size:.8rem">🔧 engine log (debug)</summary>
+    <pre id="englogPre" style="max-height:180px;overflow:auto;font-size:.72rem;background:var(--card);border:1px solid var(--line);border-radius:6px;padding:.5rem"></pre></details>
 
   <div id="nav">
     <button id="bFirst" title="start">⏮</button>
@@ -445,6 +448,20 @@ $("bFlip").addEventListener("click", () => { flip = !flip; render(); });
 function engineColor(){ return playerColor === "w" ? "b" : "w"; }
 
 function setStatus(s){ $("status").textContent = s; }
+function elog(msg){
+  const p = $("englogPre"); if (!p) return;
+  p.textContent += new Date().toISOString().slice(11, 19) + "  " + msg + "\n";
+  p.scrollTop = p.scrollHeight;
+}
+window.addEventListener("error", ev => elog("JS error: " + ev.message));
+/* single-thread stockfish.js build: postMessage is a no-op without PThread —
+   stdin is fed via onCustomMessage -> queue.put (see pre-single-threaded.js) */
+function engineSend(cmd){
+  if (!engine) return;
+  elog("→ " + cmd);
+  if (typeof engine.onCustomMessage === "function") engine.onCustomMessage(cmd);
+  else engine.postMessage(cmd);
+}
 
 let enginePromise = null;
 function ensureEngine(){
@@ -456,21 +473,24 @@ function ensureEngine(){
       s.src = SF_BASE + "stockfish-nnue-16-single.js";
       document.head.appendChild(s);
       await new Promise((res, rej) => { s.onload = res; s.onerror = () => rej(new Error("could not load engine script")); });
+      elog("engine script loaded");
       const factory = s._exports || window.Stockfish || window.STOCKFISH;
+      elog("factory type: " + typeof factory);
       if (typeof factory !== "function") throw new Error("engine factory not found");
       // NOTE: stockfish.js v16 factory returns a PROMISE resolving to the engine module
       // (see src/emscripten/public/index.html: Stockfish(mod).then(_stockfish => …))
       const maybePromise = factory({ locateFile: f => SF_BASE + f });
       engine = (maybePromise && typeof maybePromise.then === "function") ? await maybePromise : maybePromise;
       if (!engine || typeof engine.addMessageListener !== "function") throw new Error("engine module invalid");
+      elog("engine module resolved");
       engine.addMessageListener(onEngineLine);
       setStatus("starting engine… (first run downloads the ~40 MB neural net once)");
-      engine.postMessage("uci");
+      engineSend("uci");
       // watchdog: make sure the uci/isready handshake completes even if a message is missed
       let nudges = 0;
       const nudge = setInterval(() => {
         if (engineReady || ++nudges > 12){ clearInterval(nudge); return; }
-        try { engine.postMessage("isready"); } catch(e){}
+        try { engineSend("isready"); } catch(e){}
       }, 5000);
       if (engine.ready && typeof engine.ready.then === "function") await engine.ready;
       return engine;
@@ -484,11 +504,13 @@ function onEngineLine(line){
   if (typeof line !== "string") line = line.data || "";
   line = String(line).trim();
   if (!line) return;
+  if (!line.startsWith("info ")) elog("← " + line.slice(0, 90));
   if (line === "uciok"){
-    engine.postMessage("setoption name Threads value 1");
-    engine.postMessage("isready");
+    engineSend("setoption name Threads value 1");
+    engineSend("isready");
   } else if (line === "readyok"){
     engineReady = true;
+    elog("readyok — engine ready");
     setStatus("engine ready — Stockfish 16 (single-thread WASM)");
     if (mode === "play"){
       if (pendingPlay || (!ch.isGameOver() && ch.turn() === engineColor())) engineGo();
@@ -497,6 +519,7 @@ function onEngineLine(line){
   } else if (line.startsWith("bestmove")){
     engineBusy = false;
     const mv = line.split(/\s+/)[1];
+    elog("← " + line.slice(0, 80));
     if (mv && mv !== "(none)" && mode === "play" && !ch.isGameOver() && ch.turn() === engineColor()){
       const from = mv.slice(0, 2), to = mv.slice(2, 4), promo = mv[4] || undefined;
       const legal = ch.moves({ verbose: true }).find(m => m.from === from && m.to === to && (m.promotion || undefined) === promo);
@@ -547,8 +570,9 @@ function engineGo(){
   pendingPlay = false;
   engineBusy = true; lastInfo = null;
   const depth = +$("depth").value || 10;
-  engine.postMessage("position fen " + ch.fen());
-  engine.postMessage("go depth " + depth);
+  engineSend("position fen " + ch.fen());
+  engineSend("go depth " + depth);
+  elog("go depth " + depth + " on " + ch.fen());
   setStatus(mode === "play" ? "engine thinking (depth " + depth + ")…" : "analyzing depth " + depth + "…");
 }
 
