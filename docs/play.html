@@ -121,6 +121,11 @@
       <button id="copyBtn" type="button">📋 copy PGN</button>
       <a class="btn" id="lichessBtn" href="https://lichess.org/analysis" target="_blank" rel="noopener">↗ analyze on lichess</a>
     </div>
+    <div class="wide"><label for="shareTpl">🔗 Share this game (copies text + link; on mobile: share sheet)</label>
+      <div style="display:flex;gap:.4rem;flex-wrap:wrap">
+        <select id="shareTpl" style="flex:1 1 260px"></select>
+        <button id="shareBtn" type="button">🔗 Share game</button>
+      </div></div>
   </section>
 
   <div id="nav">
@@ -194,7 +199,7 @@ const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">"
 
 /* ---------- state ---------- */
 let games = [], srcLabel = "";
-let curGame = null;
+let curGame = null, curSrcUrl = null, curGameIdx = 0;
 let ch = new Chess();
 let startFen = null;          // FEN tag of the game (null = standard start)
 let sans = [];                // SAN move list of the current line
@@ -259,7 +264,7 @@ function rebuild(p){
 
 function loadGame(i){
   const g = games[i]; if (!g) return;
-  curGame = g;
+  curGame = g; curGameIdx = i;
   const variant = g.tags.Variant || "Standard";
   variantFallback = variant !== "Standard";      // [Variant] header decides first (Horde/KOTH/… replay misleadingly as "standard")
   startFen = (g.tags.SetUp === "1" && g.tags.FEN) ? g.tags.FEN : null;
@@ -575,7 +580,7 @@ async function loadSource(url, gameIdx, label){
     const r = await fetch(url);
     if (!r.ok) throw new Error("HTTP " + r.status);
     games = parsePGN(await r.text());
-    srcLabel = label;
+    srcLabel = label; curSrcUrl = url;
     if (!games.length){ setStatus("no games found in " + label); return; }
     populateGameSelect();
     $("game").value = String(Math.max(0, Math.min(games.length - 1, gameIdx || 0)));
@@ -596,12 +601,43 @@ $("game").addEventListener("change", () => loadGame(+$("game").value));
 $("file").addEventListener("change", ev => {
   const f = ev.target.files[0]; if (!f) return;
   const rd = new FileReader();
-  rd.onload = () => { games = parsePGN(String(rd.result)); srcLabel = f.name; populateGameSelect(); loadGame(0); setStatus(games.length + " games from " + f.name); };
+  rd.onload = () => { games = parsePGN(String(rd.result)); srcLabel = f.name; curSrcUrl = null; populateGameSelect(); loadGame(0); setStatus(games.length + " games from " + f.name); };
   rd.readAsText(f);
 });
 $("pasteBtn").addEventListener("click", () => {
-  games = parsePGN($("paste").value); srcLabel = "pasted PGN";
+  games = parsePGN($("paste").value); srcLabel = "pasted PGN"; curSrcUrl = null;
   populateGameSelect(); loadGame(0); setStatus(games.length + " games loaded");
+});
+
+/* ---------- share ---------- */
+const SHARE_TEMPLATES = [
+  { label: "Check out this game on SchachKenner: {url}", tpl: "Check out this game on SchachKenner: {url}" },
+  { label: "{players} — analyze it yourself on SchachKenner: {url}", tpl: "{players} — analyze it yourself on SchachKenner (free open chess collection): {url}" },
+  { label: "Can you find the best move here? {url}", tpl: "Can you find the best move here? Analyze the position on SchachKenner: {url}" },
+  { label: "From the SchachKenner open chess archive (CC0 games): {url}", tpl: "Great game from the SchachKenner open chess archive (freely licensed CC0/CC BY-SA games): {url}" },
+  { label: "Just the link: {url}", tpl: "{url}" }
+];
+function shareUrl(){
+  const base = location.origin + location.pathname;
+  if (curSrcUrl) return base + "?src=" + encodeURIComponent(curSrcUrl) + "&game=" + curGameIdx;
+  return base;
+}
+function shareText(){
+  const tpl = SHARE_TEMPLATES[+$("shareTpl").value].tpl;
+  const t = curGame ? curGame.tags : null;
+  const players = t ? (t.White || "?") + " vs " + (t.Black || "?") + (t.Result ? " " + t.Result : "") : null;
+  return tpl.replace("{url}", shareUrl()).replace("{players}", players || "This game");
+}
+$("shareTpl").innerHTML = SHARE_TEMPLATES.map((s, i) => '<option value="' + i + '">' + esc(s.label) + "</option>").join("");
+$("shareBtn").addEventListener("click", async () => {
+  const text = shareText();
+  try {
+    if (navigator.share){ await navigator.share({ title: "SchachKenner", text, url: shareUrl() }); setStatus("shared ✅"); return; }
+  } catch(e){ if (e && e.name === "AbortError") return; /* fall through to clipboard */ }
+  (navigator.clipboard ? navigator.clipboard.writeText(text) : Promise.reject()).then(
+    () => setStatus("copied ✅ " + (text.length > 90 ? text.slice(0, 90) + "…" : text)),
+    () => { const ta = document.createElement("textarea"); ta.value = text; document.body.appendChild(ta); ta.select(); document.execCommand("copy"); ta.remove(); setStatus("copied ✅"); }
+  );
 });
 $("copyBtn").addEventListener("click", () => {
   const txt = curGame ? curGame.pgn : ch.pgn();

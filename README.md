@@ -62,7 +62,7 @@ Only sources with **explicit redistribution permission** are hosted here — pro
 - 🤖 [`data/pgn/tcec/`](data/pgn/tcec/) — 200 engine games (TCEC S29), **CC BY-SA 3.0** attributed, with groups
 - 👑 [`data/pgn/masters/`](data/pgn/masters/) — Fischer & Euwe master games, **MIT**, with groups
 - 🆕 [**Interactive PGN explorer — live in your browser**](https://BucciMobile.github.io/SchachKenner/) — filter the games by time control, Elo range slider, opening, ECO category (A–E), event type, result, player name; the table re-sorts automatically and every game shows its copyable PGN. Also loads your own PGN files. Optimized for mobile 📱
-- 🆕 [**Play & analyze tool — live in your browser**](https://BucciMobile.github.io/SchachKenner/play.html) — board view with move navigation, **play vs Stockfish 16 WASM** (client-side), **position analysis** (eval bar + best move + PV). Deep-linkable per game via `?src=…&game=…` (used by the explorer's ▶ button). Engine/lib licenses: GPLv3 / BSD-2-Clause, loaded unmodified via CDN, proofs in [`licenses/`](licenses/)
+- 🆕 [**Play & analyze tool — live in your browser**](https://BucciMobile.github.io/SchachKenner/play.html) — board view with move navigation, **play vs Stockfish 16 WASM** (client-side), **position analysis** (eval bar + best move + PV), and a **🔗 share button** that copies a short text + deep link (`?src=…&game=…`, used by the explorer's ▶ button). Engine/lib licenses: GPLv3 / BSD-2-Clause, loaded unmodified via CDN, proofs in [`licenses/`](licenses/)
 
 > "Database exports are released under the Creative Commons CC0 license. … You can
 > download, modify and redistribute them, without asking for permission."
