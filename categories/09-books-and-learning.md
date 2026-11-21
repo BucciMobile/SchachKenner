@@ -20,7 +20,7 @@
 
 ## 📚 Hosted in this repo — 17 PD chess books in 8 languages
 
-Full texts in [`data/books/`](../data/books/) (index with SHA-256 per file), grouped by language:
+Books in [`data/books/`](../data/books/) as **scan PDFs with the original diagrams** (primary format) plus OCR plain text for search (index with SHA-256 per file), grouped by language:
 **English, Deutsch, Français, Español, Italiano, Русский, Português, Svenska.**
 Highlights: Nimzowitsch *My System* (1925), Lasker *Manual of Chess* (1925 ed.), Capablanca *Chess
 Fundamentals* (1921), Staunton *Chess-Player's Companion* (1849), Philidor *Analyse du jeu des échecs*,

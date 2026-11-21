@@ -7,9 +7,12 @@
   "year": "1925",
   "evidence": "PD-mark",
   "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
-  "file": "data\\books\\en\\nimzowitsch-my-system.txt",
+  "file": "data/books/en/nimzowitsch-my-system.txt",
   "bytes": 545806,
   "sha256": "e3f441b32a56f7252b5efca23e3b01a4079feea7b2ecfc78c1c06f1eb3014979",
+  "pdf_file": "data/books/en/nimzowitsch-my-system.pdf",
+  "pdf_bytes": 48748777,
+  "pdf_sha256": "adf0d68843e0f13da851cc14c79d941527ea822023e988aa27c20b4d8e981e55",
   "source": "https://archive.org/details/nimzowitsch-my-system"
  },
  {
@@ -20,9 +23,12 @@
   "year": "1925",
   "evidence": "PD-mark",
   "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
-  "file": "data\\books\\en\\lasker-s-manual-of-chess.txt",
+  "file": "data/books/en/lasker-s-manual-of-chess.txt",
   "bytes": 665394,
   "sha256": "8188b9d854fe79354eadfc55da3670456d1e5847625105ff1860a9e9a170620d",
+  "pdf_file": "data/books/en/lasker-s-manual-of-chess.pdf",
+  "pdf_bytes": 44401429,
+  "pdf_sha256": "7ed4fd43a740e8fb329ea50a4c2b2cbeeff749a72ed367281999645ebd3e4b89",
   "source": "https://archive.org/details/lasker-s-manual-of-chess"
  },
  {
@@ -33,9 +39,12 @@
   "year": "1921",
   "evidence": "pre-1930 US PD (+ PD-marked twin on IA)",
   "licenseurl": "",
-  "file": "data\\books\\en\\chessfundamental00capa.txt",
+  "file": "data/books/en/chessfundamental00capa.txt",
   "bytes": 258016,
   "sha256": "a31bf5831159905dd4916bbad4309bdd6b5119cd0030e5359fa360dbc83ab7b3",
+  "pdf_file": "data/books/en/chessfundamental00capa.pdf",
+  "pdf_bytes": 11982047,
+  "pdf_sha256": "8523df9a1d6b808f5279e48a3d6c2a876c53166377785811a4f7a83b33a0d3d0",
   "source": "https://archive.org/details/chessfundamental00capa"
  },
  {
@@ -46,9 +55,12 @@
   "year": "1750",
   "evidence": "PD-mark",
   "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
-  "file": "data\\books\\en\\ChessMadeEasyOrTheGamesOfGioachin.txt",
+  "file": "data/books/en/ChessMadeEasyOrTheGamesOfGioachin.txt",
   "bytes": 117881,
   "sha256": "2eecb852e8d6ddbb856204151fb1b1eeea7586b2d93827c7243366f755fa6396",
+  "pdf_file": "data/books/en/ChessMadeEasyOrTheGamesOfGioachin.pdf",
+  "pdf_bytes": 4043898,
+  "pdf_sha256": "b3fc5457010f282e412327acd8dc059944de4e1e734313c3223efb56f8bec005",
   "source": "https://archive.org/details/ChessMadeEasyOrTheGamesOfGioachin"
  },
  {
@@ -59,9 +71,12 @@
   "year": "1924",
   "evidence": "PD-mark",
   "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
-  "file": "data\\books\\en\\TavernerChessProblemsMadeEasy.txt",
+  "file": "data/books/en/TavernerChessProblemsMadeEasy.txt",
   "bytes": 96086,
   "sha256": "cf44fdf2d00f49191575453d5a42aa2cd303b0fc42c114b7f4ff4d3739912118",
+  "pdf_file": "data/books/en/TavernerChessProblemsMadeEasy.pdf",
+  "pdf_bytes": 254325,
+  "pdf_sha256": "323439be14375992858c6c87e197d03fabb73aa6a6c62e370a56384be0d5a157",
   "source": "https://archive.org/details/TavernerChessProblemsMadeEasy"
  },
  {
@@ -72,9 +87,12 @@
   "year": "1849",
   "evidence": "PD-mark",
   "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
-  "file": "data\\books\\en\\bub_gb__dwCAAAAYAAJ.txt",
+  "file": "data/books/en/bub_gb__dwCAAAAYAAJ.txt",
   "bytes": 1081996,
   "sha256": "ba7ebb218fb2528a36ed955cfa2a378893aaad4c79607c1c18a4985d455e1b20",
+  "pdf_file": "data/books/en/bub_gb__dwCAAAAYAAJ.pdf",
+  "pdf_bytes": 46319869,
+  "pdf_sha256": "d72094eeeb7242f8a2cb301267854fbdebef2bc96c16c4bc1ec29e31eb8fff23",
   "source": "https://archive.org/details/bub_gb__dwCAAAAYAAJ"
  },
  {
@@ -85,9 +103,12 @@
   "year": "1852",
   "evidence": "PD-mark",
   "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
-  "file": "data\\books\\en\\bub_gb_d69AAAAAcAAJ.txt",
+  "file": "data/books/en/bub_gb_d69AAAAAcAAJ.txt",
   "bytes": 1119052,
   "sha256": "a9561e4eb7d7668d43ccc971a17f27861ede9f5ee604d700349b5c65657f2e5e",
+  "pdf_file": "data/books/en/bub_gb_d69AAAAAcAAJ.pdf",
+  "pdf_bytes": 37095937,
+  "pdf_sha256": "7fde252b45177f3f77f1f60029aca0130323ac60bf806090091a7c9c915b8a6c",
   "source": "https://archive.org/details/bub_gb_d69AAAAAcAAJ"
  },
  {
@@ -98,9 +119,12 @@
   "year": "1859",
   "evidence": "PD-mark",
   "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
-  "file": "data\\books\\de\\bub_gb_RicCAAAAYAAJ.txt",
+  "file": "data/books/de/bub_gb_RicCAAAAYAAJ.txt",
   "bytes": 350356,
   "sha256": "97c299ee036bce2d04719cd22d447f1d655f7a88bb21adf14794dfdd5c1f07a2",
+  "pdf_file": "data/books/de/bub_gb_RicCAAAAYAAJ.pdf",
+  "pdf_bytes": 16137656,
+  "pdf_sha256": "2ae62ee30f6955688a9ac37c09e54d05f87d1d95527f0a2beaec05efba1b1e70",
   "source": "https://archive.org/details/bub_gb_RicCAAAAYAAJ"
  },
  {
@@ -111,9 +135,12 @@
   "year": "1890",
   "evidence": "PD-mark",
   "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
-  "file": "data\\books\\de\\blathy-vielzugige-schachaufgaben.txt",
+  "file": "data/books/de/blathy-vielzugige-schachaufgaben.txt",
   "bytes": 49200,
   "sha256": "16b9568d6df5db0419481e1fffebc4e4847e9806bab4d4cbd8e4ebcb6ada089d",
+  "pdf_file": "data/books/de/blathy-vielzugige-schachaufgaben.pdf",
+  "pdf_bytes": 126024,
+  "pdf_sha256": "0c37ddb017fbbedef336149849f7b5abd096d34cad7b1d991df889ef2a9dc1ae",
   "source": "https://archive.org/details/blathy-vielzugige-schachaufgaben"
  },
  {
@@ -124,9 +151,12 @@
   "year": "1803",
   "evidence": "PD-mark",
   "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
-  "file": "data\\books\\fr\\bub_gb_cikCAAAAYAAJ.txt",
+  "file": "data/books/fr/bub_gb_cikCAAAAYAAJ.txt",
   "bytes": 187392,
   "sha256": "397c192fdafe84999f94dde5b9ce4b23be0711fe72ff98ebd13a4bdfb5385588",
+  "pdf_file": "data/books/fr/bub_gb_cikCAAAAYAAJ.pdf",
+  "pdf_bytes": 15175348,
+  "pdf_sha256": "a5aff312da91c4eb96e917f9c9fe35ff94d7d6f987bc27b2d7d3dbe0ffe4459f",
   "source": "https://archive.org/details/bub_gb_cikCAAAAYAAJ"
  },
  {
@@ -137,9 +167,12 @@
   "year": "1833",
   "evidence": "PD-mark",
   "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
-  "file": "data\\books\\fr\\bub_gb_nE8UAAAAQAAJ.txt",
+  "file": "data/books/fr/bub_gb_nE8UAAAAQAAJ.txt",
   "bytes": 251838,
   "sha256": "6ab4d48143037e5ca22502952a688429057c8177c449a33c7ebc4f80d03208ea",
+  "pdf_file": "data/books/fr/bub_gb_nE8UAAAAQAAJ.pdf",
+  "pdf_bytes": 13227432,
+  "pdf_sha256": "5575585ee33a81d383882fbe0f54a56422783facbb2b347c58a563a8c5af8af1",
   "source": "https://archive.org/details/bub_gb_nE8UAAAAQAAJ"
  },
  {
@@ -150,9 +183,12 @@
   "year": "1838",
   "evidence": "PD-mark",
   "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
-  "file": "data\\books\\es\\bub_gb_8PtlpgB4Wm4C.txt",
+  "file": "data/books/es/bub_gb_8PtlpgB4Wm4C.txt",
   "bytes": 113268,
   "sha256": "1a66bbe0bc4515eedfb22b8cc2759b0fff9f333f86213d737be031982046b04b",
+  "pdf_file": "data/books/es/bub_gb_8PtlpgB4Wm4C.pdf",
+  "pdf_bytes": 7531974,
+  "pdf_sha256": "783dc092cddadf90193c3bcf0a195df02cfa3660423a2c56e47bfc30b043a9e8",
   "source": "https://archive.org/details/bub_gb_8PtlpgB4Wm4C"
  },
  {
@@ -163,9 +199,12 @@
   "year": "1837",
   "evidence": "PD-mark",
   "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
-  "file": "data\\books\\it\\bub_gb_w95-78eDjFAC.txt",
+  "file": "data/books/it/bub_gb_w95-78eDjFAC.txt",
   "bytes": 86897,
   "sha256": "0782ef72836d071a2d38948799e2541bd03fe5db9edadbdfb24afd75e70cf7ff",
+  "pdf_file": "data/books/it/bub_gb_w95-78eDjFAC.pdf",
+  "pdf_bytes": 4523910,
+  "pdf_sha256": "7234e73449d0674ec4d9ef6a6e18ea37fe82ba77a4bed93cf7c53272001a2fd6",
   "source": "https://archive.org/details/bub_gb_w95-78eDjFAC"
  },
  {
@@ -176,9 +215,12 @@
   "year": "1824",
   "evidence": "PD-mark",
   "licenseurl": "https://creativecommons.org/publicdomain/mark/1.0/",
-  "file": "data\\books\\ru\\3-5_pertrov_chess.txt",
+  "file": "data/books/ru/3-5_pertrov_chess.txt",
   "bytes": 304619,
   "sha256": "df964e66909c74c6dddf5113f8ce30fda31d7a4a79529a46d969bcd591dea5c0",
+  "pdf_file": "data/books/ru/3-5_pertrov_chess.pdf",
+  "pdf_bytes": 53507358,
+  "pdf_sha256": "64055f2120f7d1b1812a3533ce96f9c7ae93c016b44c8927add9977bf2958a19",
   "source": "https://archive.org/details/3-5_pertrov_chess"
  },
  {
@@ -189,23 +231,13 @@
   "year": "1924",
   "evidence": "PD-mark",
   "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
-  "file": "data\\books\\ru\\20200309_20200309_0752.txt",
+  "file": "data/books/ru/20200309_20200309_0752.txt",
   "bytes": 297627,
   "sha256": "00c59e2d5bffff97ac768747bf7bc7c11cb8eca9e15b44114adefccac3934669",
+  "pdf_file": "data/books/ru/20200309_20200309_0752.pdf",
+  "pdf_bytes": 54722990,
+  "pdf_sha256": "d5dff6cd26cb648e8c38259f01da96ea8ec0171e0d10817e9f21e268228570e5",
   "source": "https://archive.org/details/20200309_20200309_0752"
- },
- {
-  "id": "LarobokISchackForNyborjare",
-  "lang": "sv",
-  "author": "Swedish chess assoc.",
-  "title": "Lärobok i schack för nybörjare",
-  "year": "1920",
-  "evidence": "PD-mark",
-  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
-  "file": "data\\books\\sv\\LarobokISchackForNyborjare.txt",
-  "bytes": 220062,
-  "sha256": "3c443b8a3eeff5f13f292d5dd5bb294d4c07c6d2655b5d5da4dc42e41ff257bb",
-  "source": "https://archive.org/details/LarobokISchackForNyborjare"
  },
  {
   "id": "osensocomumnoxadrez",
@@ -218,6 +250,25 @@
   "file": "data/books/pt/osensocomumnoxadrez.docx",
   "bytes": 97218,
   "sha256": "6c14cd7bea6f4b59ce4028be4920196f92d2ce7804395655e0623bd77c24fa52",
+  "pdf_file": null,
+  "pdf_bytes": null,
+  "pdf_sha256": null,
   "source": "https://archive.org/details/osensocomumnoxadrez"
+ },
+ {
+  "id": "LarobokISchackForNyborjare",
+  "lang": "sv",
+  "author": "Swedish chess assoc.",
+  "title": "Lärobok i schack för nybörjare",
+  "year": "1920",
+  "evidence": "PD-mark",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "file": "data/books/sv/LarobokISchackForNyborjare.txt",
+  "bytes": 220062,
+  "sha256": "3c443b8a3eeff5f13f292d5dd5bb294d4c07c6d2655b5d5da4dc42e41ff257bb",
+  "pdf_file": "data/books/sv/LarobokISchackForNyborjare.pdf",
+  "pdf_bytes": 9186752,
+  "pdf_sha256": "a79f14e5976c6b6ef133ae637387039a22a925151f9692ba5d0da927beba7426",
+  "source": "https://archive.org/details/LarobokISchackForNyborjare"
  }
 ]

@@ -4,6 +4,10 @@
 into data/books/<lang>/ and save the per-item metadata JSON (license evidence)
 into licenses/raw/. Prints a manifest table with SHA-256.
 
+Each book is stored in two formats:
+  - <id>.pdf  : full scan PDF with the original page images (chess diagrams)
+  - <id>.txt  : OCR plain text (djvu.txt) for full-text search
+
 Usage: python scripts/fetch-books.py
 """
 import hashlib, json, os, sys, urllib.request, urllib.parse, time
@@ -49,8 +53,9 @@ def main():
         md = meta.get("metadata", {})
         lic = md.get("licenseurl", "")
         out_meta = os.path.join(ROOT, "licenses", "raw", f"ia-{ident}.metadata.json")
-        with open(out_meta, "wb") as f:
-            f.write(json.dumps(meta, ensure_ascii=False, indent=1).encode("utf-8"))
+        if not os.path.exists(out_meta):
+            with open(out_meta, "wb") as f:
+                f.write(json.dumps(meta, ensure_ascii=False, indent=1).encode("utf-8"))
         # 2) full text file (djvu.txt preferred)
         txt_name = None
         for fn in meta.get("files", []):
@@ -64,11 +69,17 @@ def main():
                 if n.endswith(".txt"):
                     txt_name = n
                     break
-        if not txt_name:
-            print("SKIP (no txt):", ident); continue
         outdir = os.path.join(ROOT, "data", "books", lang)
         os.makedirs(outdir, exist_ok=True)
-        out = os.path.join(outdir, f"{ident}.txt")
+        out = None
+        for fn in os.listdir(outdir):
+            if fn.startswith(ident + ".") and fn.lower().endswith((".txt", ".docx")):
+                out = os.path.join(outdir, fn)
+                break
+        if out is None and not txt_name:
+            print("SKIP (no txt, no hosted file):", ident); continue
+        if out is None:
+            out = os.path.join(outdir, f"{ident}.txt")
         if os.path.exists(out) and os.path.getsize(out) > 0:
             with open(out, "rb") as f:
                 data = f.read()
@@ -77,10 +88,30 @@ def main():
             with open(out, "wb") as f:
                 f.write(data)
         h = sha256(data)
+        # 3) scan PDF with the original page images / chess diagrams (skip *_text.pdf)
+        pdfs = {fn.get("name", ""): int(fn.get("size", 0)) for fn in meta.get("files", [])
+                if fn.get("name", "").lower().endswith(".pdf")}
+        scans = {n: s for n, s in pdfs.items() if not n.lower().endswith("_text.pdf")}
+        pdf_name = ident + ".pdf" if ident + ".pdf" in scans else (max(scans, key=scans.get) if scans else None)
+        pdf_file = pdf_bytes = pdf_sha = None
+        if pdf_name:
+            out_pdf = os.path.join(outdir, f"{ident}.pdf")
+            if os.path.exists(out_pdf) and os.path.getsize(out_pdf) > 0:
+                with open(out_pdf, "rb") as f:
+                    pdata = f.read()
+            else:
+                pdata = get(f"https://archive.org/download/{urllib.parse.quote(ident)}/{urllib.parse.quote(pdf_name)}", binary=True)
+                with open(out_pdf, "wb") as f:
+                    f.write(pdata)
+            pdf_file = os.path.relpath(out_pdf, ROOT)
+            pdf_bytes = len(pdata)
+            pdf_sha = sha256(pdata)
         manifest.append(dict(id=ident, lang=lang, author=author, title=title, year=year,
                              evidence=ev, licenseurl=lic, file=os.path.relpath(out, ROOT),
-                             bytes=len(data), sha256=h, source=f"https://archive.org/details/{ident}"))
-        print((f"{lang} | {ident} | {len(data)//1024} KB | {title[:50]} | lic={lic}").encode("ascii", "backslashreplace").decode())
+                             bytes=len(data), sha256=h,
+                             pdf_file=pdf_file, pdf_bytes=pdf_bytes, pdf_sha256=pdf_sha,
+                             source=f"https://archive.org/details/{ident}"))
+        print((f"{lang} | {ident} | txt {len(data)//1024} KB | pdf {(pdf_bytes or 0)//1024} KB | {title[:40]} | lic={lic}").encode("ascii", "backslashreplace").decode())
         time.sleep(1)
     with open(os.path.join(ROOT, "scripts", "books-manifest.json"), "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=1)

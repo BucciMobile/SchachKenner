@@ -19,17 +19,28 @@ lines = ["# data/books/ — freely licensed chess books (hosted)",
          "",
          "Regenerate with `python scripts/fetch-books.py` (manifest: `scripts/books-manifest.json`).",
          ""]
-total = sum(b["bytes"] for b in m)
+total = sum(b["bytes"] + (b.get("pdf_bytes") or 0) for b in m)
 lines.append(f"**{len(m)} books, {total/1e6:.1f} MB total, {len(set(b['lang'] for b in m))} languages.**")
+lines.append("")
+lines.append("Each book is hosted as a **scan PDF with the original page images / chess diagrams** (`<id>.pdf`)")
+lines.append("plus the OCR **plain text** (`<id>.txt`, or `.docx` where archive.org offers no text file) for")
+lines.append("full-text search. Chess books are useless without their diagrams — the PDFs are the primary format.")
 lines.append("")
 for lang in sorted(set(b["lang"] for b in m), key=lambda l: LANGS.get(l, l)):
     lines.append(f"## {LANGS.get(lang, lang)} (`{lang}/`)")
     lines.append("")
-    lines.append("| Book | Author | Year | File | SHA-256 | Source |")
+    lines.append("| Book | Author | Year | PDF (scan, with diagrams) | Plain text | Source |")
     lines.append("|---|---|---|---|---|---|")
     for b in sorted([x for x in m if x["lang"] == lang], key=lambda x: x["year"]):
         fn = os.path.basename(b["file"])
-        lines.append(f"| {b['title']} | {b['author']} | {b['year']} | [`{fn}`]({lang}/{fn}) | `{b['sha256'][:16]}…` | [archive.org]({b['source']}) |")
+        if b.get("pdf_file"):
+            pfn = os.path.basename(b["pdf_file"])
+            pdf = f"[`{pfn}`]({lang}/{pfn}) `{b['pdf_sha256'][:16]}…`"
+            if b.get("pdf_bytes", 0) < 1_000_000:
+                pdf += " (text-layer PDF — archive.org has no scan PDF for this item)"
+        else:
+            pdf = "— (no PDF on archive.org; hosted as .docx)"
+        lines.append(f"| {b['title']} | {b['author']} | {b['year']} | {pdf} | [`{fn}`]({lang}/{fn}) `{b['sha256'][:16]}…` | [archive.org]({b['source']}) |")
     lines.append("")
 open(os.path.join(ROOT, "data", "books", "README.md"), "w", encoding="utf-8").write("\n".join(lines))
 
@@ -51,12 +62,18 @@ L = ["# Chess books — public-domain evidence (Internet Archive) ✅ HOSTED",
      "   PD by the age rule; archive.org also hosts PD-marked copies of the same work,",
      "   e.g. `chess-fundamentals-jose-raul-capablanca-berserker-books-final` with `publicdomain/mark/1.0`.)",
      "",
-     "## Hosted files (SHA-256 of each hosted file, retrieved 2026-11-20 UTC)",
+     "## Hosted files (SHA-256 of each hosted file: scan PDF + plain text, retrieved 2026-11-20 UTC)",
      "",
-     "| Lang | Book (year) | Hosted file | SHA-256 | IA item | licenseurl |",
+     "| Lang | Book (year) | Hosted files | SHA-256 | IA item | licenseurl |",
      "|---|---|---|---|---|---|"]
 for b in sorted(m, key=lambda x: (x["lang"], x["year"])):
-    L.append(f"| {b['lang']} | {b['title']} ({b['year']}) | `{b['file']}` | `{b['sha256']}` | [details/{b['id']}]({b['source']}) | {b['licenseurl'] or '— (PD by age, pre-1930)'} |")
+    if b.get("pdf_file"):
+        files = f"`{b['file']}`<br>`{b['pdf_file']}`"
+        shas = f"`{b['sha256']}`<br>`{b['pdf_sha256']}`"
+    else:
+        files = f"`{b['file']}`"
+        shas = f"`{b['sha256']}`"
+    L.append(f"| {b['lang']} | {b['title']} ({b['year']}) | {files} | {shas} | [details/{b['id']}]({b['source']}) | {b['licenseurl'] or '— (PD by age, pre-1930)'} |")
 L += ["",
       "## Rule for future additions",
       "",
