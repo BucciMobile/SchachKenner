@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ci7D"]
+[Difficulty "hard"]
+[Rating "1936"]
+[Themes "crushing discoveredAttack endgame exposedKing long"]
+[GameUrl "https://lichess.org/game/w1yGT3y1#61"]
+[Solution "d2c2 c3a1 c1d2 c8c2 h7c2 a1f1"]
+[SolutionSAN "Rc2 Qa1+ Kd2 Rxc2+ Qxc2 Qxf1"]
+[FEN "2rk4/1p2p2Q/3p1b2/p2P4/6P1/2q1P2P/P2R4/2K2R2 w - - 0 31"]
+[SetUp "1"]
+
+31. Rc2 Qa1+ 32. Kd2 Rxc2+ 33. Qxc2 Qxf1 *

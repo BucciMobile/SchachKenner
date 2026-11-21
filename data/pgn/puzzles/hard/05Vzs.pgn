@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Vzs"]
+[Difficulty "hard"]
+[Rating "1829"]
+[Themes "advantage attraction fork long master middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/G9ecG7iO#37"]
+[Solution "a1d1 g8g2 g1g2 d3f4 g2f3 f4e2"]
+[SolutionSAN "Rad1 Rxg2+ Kxg2 Nf4+ Kf3 Nxe2"]
+[FEN "2kr2r1/pp5p/1q2pp2/8/8/1N1n3P/PP2QPP1/R4RK1 w - - 3 19"]
+[SetUp "1"]
+
+19. Rad1 Rxg2+ 20. Kxg2 Nf4+ 21. Kf3 Nxe2 *

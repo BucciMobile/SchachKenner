@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00656"]
+[Difficulty "easy"]
+[Rating "665"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/V9os02rv#35"]
+[Solution "h3g4 h5h1"]
+[SolutionSAN "hxg4 Rh1#"]
+[FEN "7r/ppp2kp1/2nb1pp1/3p3r/3P2q1/2PQB2P/PP3PP1/R3R1K1 w - - 0 18"]
+[SetUp "1"]
+
+18. hxg4 Rh1# *

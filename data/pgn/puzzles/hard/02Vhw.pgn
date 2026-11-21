@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Vhw"]
+[Difficulty "hard"]
+[Rating "1909"]
+[Themes "crushing deflection long master middlegame pin"]
+[GameUrl "https://lichess.org/game/KiIKNK39/black#52"]
+[Solution "g8f7 h7g6 f7f8 f1f6 h4f6 g6g4"]
+[SolutionSAN "Kf7 Qg6+ Kf8 Rxf6+ Qxf6 Qxg4"]
+[FEN "2r3k1/pp4pQ/2p2r1p/8/3P2bq/2P5/PPBB2P1/5RK1 b - - 1 26"]
+[SetUp "1"]
+
+26... Kf7 27. Qg6+ Kf8 28. Rxf6+ Qxf6 29. Qxg4 *

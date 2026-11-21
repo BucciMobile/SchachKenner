@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09JSE"]
+[Difficulty "easy"]
+[Rating "533"]
+[Themes "master mate mateIn1 middlegame oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/eG6jecnL/black#60"]
+[Solution "c8d8 d1d8"]
+[SolutionSAN "Rxd8 Rxd8#"]
+[FEN "2rQ2k1/5p1p/1pP3p1/pPn5/2N1p3/P3P1bq/1BB2P2/3R2K1 b - - 1 30"]
+[SetUp "1"]
+
+30... Rxd8 31. Rxd8# *

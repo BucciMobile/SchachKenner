@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Mow"]
+[Difficulty "hard"]
+[Rating "1952"]
+[Themes "advantage hangingPiece long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/Wu477GgT/black#24"]
+[Solution "c8h3 g2h3 e4g6 d1g4 c5d4 c3d4"]
+[SolutionSAN "Bxh3 gxh3 Qg6 Qg4 Bxd4 cxd4"]
+[FEN "r1b2rk1/p1p2ppp/2pp4/2b3B1/3Nq3/2P4P/PP3PP1/R2Q1RK1 b - - 0 12"]
+[SetUp "1"]
+
+12... Bxh3 13. gxh3 Qg6 14. Qg4 Bxd4 15. cxd4 *

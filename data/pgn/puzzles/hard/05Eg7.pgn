@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Eg7"]
+[Difficulty "hard"]
+[Rating "1751"]
+[Themes "advantage fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/ddtxA6UO/black#54"]
+[Solution "a8f8 f7f8 d7f8 d6f7 h6g7 f7g5"]
+[SolutionSAN "Rf8 Qxf8+ Nxf8 Nf7+ Kg7 Nxg5"]
+[FEN "r7/p2n1Q2/bppN2pk/4Ppqr/2PP4/3B1K2/P4P2/R4R2 b - - 4 27"]
+[SetUp "1"]
+
+27... Rf8 28. Qxf8+ Nxf8 29. Nf7+ Kg7 30. Nxg5 *

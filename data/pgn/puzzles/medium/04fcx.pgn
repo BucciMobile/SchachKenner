@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04fcx"]
+[Difficulty "medium"]
+[Rating "1542"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/kxtydrBf/black#48"]
+[Solution "c7c1 a3e7"]
+[SolutionSAN "Qxc1 Qe7#"]
+[FEN "2r3r1/1pqk1p1p/p3pPp1/3P4/8/Q7/PP3PPP/2RR2K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Qxc1 25. Qe7# *

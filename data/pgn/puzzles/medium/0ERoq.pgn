@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ERoq"]
+[Difficulty "medium"]
+[Rating "1689"]
+[Themes "advancedPawn crushing endgame short"]
+[GameUrl "https://lichess.org/game/FNlPxs20#77"]
+[Solution "e2d2 a4a3 b4b1 a3a2"]
+[SolutionSAN "Kd2 a3 Rb1 a2"]
+[FEN "8/5pkp/6p1/2np4/pR6/5P1P/4K1P1/8 w - - 1 39"]
+[SetUp "1"]
+
+39. Kd2 a3 40. Rb1 a2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Giv"]
+[Difficulty "easy"]
+[Rating "1012"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/qYM713dQ/black#48"]
+[Solution "d7d6 f3f7 g8h8 f7h7"]
+[SolutionSAN "Qxd6 Qxf7+ Kh8 Qxh7#"]
+[FEN "2rr2k1/pp1q1p1p/3P2p1/6N1/2N5/1P3Q2/P4PPP/n5K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Qxd6 25. Qxf7+ Kh8 26. Qxh7# *

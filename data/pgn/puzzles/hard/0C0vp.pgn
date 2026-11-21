@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C0vp"]
+[Difficulty "hard"]
+[Rating "1884"]
+[Themes "crushing deflection endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/6LUcQNKK#109"]
+[Solution "b5c5 g4g5 c5d6 c3b4"]
+[SolutionSAN "Kc5 Rg5+ Kd6 Kxb4"]
+[FEN "8/8/8/1K6/1P4r1/2k5/6p1/6R1 w - - 2 55"]
+[SetUp "1"]
+
+55. Kc5 Rg5+ 56. Kd6 Kxb4 *

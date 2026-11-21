@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F9cm"]
+[Difficulty "medium"]
+[Rating "1356"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/umgDAADV#49"]
+[Solution "g6e8 g2e2"]
+[SolutionSAN "Bxe8 Qe2#"]
+[FEN "4r3/pp2P1bQ/5kB1/2p5/2Pn1P1p/P5P1/1P4qP/2R1KR2 w - - 3 25"]
+[SetUp "1"]
+
+25. Bxe8 Qe2# *

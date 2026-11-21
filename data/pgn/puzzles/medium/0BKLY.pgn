@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BKLY"]
+[Difficulty "medium"]
+[Rating "1458"]
+[Themes "advantage discoveredAttack fork middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/9E4mm1Ye#39"]
+[Solution "c3b5 a6b5 c4b5 a8a5 a3a5 c5b3 a5a6 b3a1"]
+[SolutionSAN "Nb5 Bxb5 cxb5 Rxa5 Rxa5 Nb3 Ra6 Nxa1"]
+[FEN "r2q1rk1/4nppp/b2p4/N1nPp3/2P5/R1N1P1P1/5PBP/Q4RK1 w - - 1 20"]
+[SetUp "1"]
+
+20. Nb5 Bxb5 21. cxb5 Rxa5 22. Rxa5 Nb3 23. Ra6 Nxa1 *

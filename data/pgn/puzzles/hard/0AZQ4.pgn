@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AZQ4"]
+[Difficulty "hard"]
+[Rating "2041"]
+[Themes "advantage defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/oTI5qtuc#69"]
+[Solution "f5f7 d8d7 f7e6 d7e7"]
+[SolutionSAN "Qf7+ Rd7 Qe6 Re7"]
+[FEN "1r1r4/1pk5/p2b3N/3P1Q2/P1B2p2/qP5P/4RPP1/6K1 w - - 7 35"]
+[SetUp "1"]
+
+35. Qf7+ Rd7 36. Qe6 Re7 *

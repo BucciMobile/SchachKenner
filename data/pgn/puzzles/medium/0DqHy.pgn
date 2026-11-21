@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DqHy"]
+[Difficulty "medium"]
+[Rating "1635"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/AZsPI0sO/black#30"]
+[Solution "e4g5 f3f5 g6f5 d3f5"]
+[SolutionSAN "Ng5 Qxf5 Qxf5 Bxf5"]
+[FEN "r3r1k1/1pp2ppp/p1n3q1/3p1b2/3Pn3/P1BBPQ1P/1P3PP1/RN3RK1 b - - 10 15"]
+[SetUp "1"]
+
+15... Ng5 16. Qxf5 Qxf5 17. Bxf5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ePN"]
+[Difficulty "medium"]
+[Rating "1529"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/UD5tz8Cc/black#42"]
+[Solution "e7f5 d2g5 g7h7 g5g6"]
+[SolutionSAN "Nf5 Qg5+ Kh7 Qg6+"]
+[FEN "r4q2/p1p1n1k1/1bp5/3pN3/1P1P4/P1N5/2bQ2PP/5RK1 b - - 1 21"]
+[SetUp "1"]
+
+21... Nf5 22. Qg5+ Kh7 23. Qg6+ *

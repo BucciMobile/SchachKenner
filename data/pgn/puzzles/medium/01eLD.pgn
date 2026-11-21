@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01eLD"]
+[Difficulty "medium"]
+[Rating "1285"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/lV0wVwgC/black#106"]
+[Solution "h7h8 f5h5 h8g8 h5d1"]
+[SolutionSAN "Kh8 Qxh5+ Kg8 Qxd1"]
+[FEN "8/p5qk/1pP5/5Q1p/8/P5P1/6KP/3r4 b - - 7 53"]
+[SetUp "1"]
+
+53... Kh8 54. Qxh5+ Kg8 55. Qxd1 *

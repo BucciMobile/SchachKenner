@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08QH6"]
+[Difficulty "easy"]
+[Rating "691"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/amAqJqfJ/black#36"]
+[Solution "a5b5 e4h7"]
+[SolutionSAN "Qb5 Qxh7#"]
+[FEN "r4rk1/p4ppp/4p3/q7/1P2Q3/6P1/P4PP1/R3K2R b KQ - 0 18"]
+[SetUp "1"]
+
+18... Qb5 19. Qxh7# *

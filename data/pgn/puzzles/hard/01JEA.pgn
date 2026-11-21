@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01JEA"]
+[Difficulty "hard"]
+[Rating "2281"]
+[Themes "advantage middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/rcwW2M7E#87"]
+[Solution "c4c5 f8f1 g1h2 h8h3 g2h3 f1f2 b7g2 f2g2 h2g2 d3b3"]
+[SolutionSAN "c5 Rf1+ Kh2 Rxh3+ gxh3 Rf2+ Qg2+ Rxg2+ Kxg2 Qxb3"]
+[FEN "5rkr/1QN5/4R3/p7/P1Pp4/1B1q3P/1P4P1/6K1 w - - 1 44"]
+[SetUp "1"]
+
+44. c5 Rf1+ 45. Kh2 Rxh3+ 46. gxh3 Rf2+ 47. Qg2+ Rxg2+ 48. Kxg2 Qxb3 *

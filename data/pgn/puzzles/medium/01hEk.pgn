@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01hEk"]
+[Difficulty "medium"]
+[Rating "1516"]
+[Themes "clearance kingsideAttack mate mateIn2 middlegame operaMate sacrifice short"]
+[GameUrl "https://lichess.org/game/snjYKorv#59"]
+[Solution "a1f1 h3g3 h2g3 h8h1"]
+[SolutionSAN "Raf1 Qxg3+ hxg3 Rh1#"]
+[FEN "4r2r/p1p2kp1/2p2p2/2Qb4/8/2B3Nq/PPP2R1P/R5K1 w - - 10 30"]
+[SetUp "1"]
+
+30. Raf1 Qxg3+ 31. hxg3 Rh1# *

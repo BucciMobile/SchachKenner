@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05X7U"]
+[Difficulty "easy"]
+[Rating "1071"]
+[Themes "endgame hangingPiece master masterVsMaster mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/DqNZFVkB/black#58"]
+[Solution "f7f8 d8f8"]
+[SolutionSAN "Rf8 Qxf8#"]
+[FEN "b2Q3k/5rpp/2q2N1B/3p4/3p4/3P4/1PP2PPP/6K1 b - - 0 29"]
+[SetUp "1"]
+
+29... Rf8 30. Qxf8# *

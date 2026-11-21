@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ac2"]
+[Difficulty "easy"]
+[Rating "972"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/vw4E1RV7#53"]
+[Solution "f6e8 f5b1 c3c1 b1c1"]
+[SolutionSAN "Nxe8 Qb1+ Qc1 Qxc1#"]
+[FEN "R1b1r3/1p3k2/2p2Np1/5q2/1PP3p1/2Q1P1Pp/5P1P/6K1 w - - 4 27"]
+[SetUp "1"]
+
+27. Nxe8 Qb1+ 28. Qc1 Qxc1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AbbE"]
+[Difficulty "medium"]
+[Rating "1414"]
+[Themes "advancedPawn endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/meqtGVRY/black#80"]
+[Solution "e5e4 f6f7 e8f8 g5h6"]
+[SolutionSAN "e4 f7+ Kf8 Bh6#"]
+[FEN "4k3/2R5/5P2/4p1B1/8/b7/r1p2PK1/8 b - - 0 40"]
+[SetUp "1"]
+
+40... e4 41. f7+ Kf8 42. Bh6# *

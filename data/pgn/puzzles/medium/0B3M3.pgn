@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B3M3"]
+[Difficulty "medium"]
+[Rating "1686"]
+[Themes "crushing middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/RAJQkIib#45"]
+[Solution "g4e2 f7f5 e4d4 c5d4"]
+[SolutionSAN "Qe2 f5 Rxd4 cxd4"]
+[FEN "r3r1k1/p1p2pp1/1b5p/2pqP3/3pRPQ1/8/PPP2BPP/R5K1 w - - 1 23"]
+[SetUp "1"]
+
+23. Qe2 f5 24. Rxd4 cxd4 *

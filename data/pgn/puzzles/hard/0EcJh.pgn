@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EcJh"]
+[Difficulty "hard"]
+[Rating "2168"]
+[Themes "bishopEndgame crushing endgame quietMove short"]
+[GameUrl "https://lichess.org/game/OVGFJpvY#97"]
+[Solution "e4e5 h6h5 f4f5 e6f5"]
+[SolutionSAN "e5 h5 f5+ Kxf5"]
+[FEN "8/8/4kBpp/2p3P1/K1P1PP2/6b1/8/8 w - - 1 49"]
+[SetUp "1"]
+
+49. e5 h5 50. f5+ Kxf5 *

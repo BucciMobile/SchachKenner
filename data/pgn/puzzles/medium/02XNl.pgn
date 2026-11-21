@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02XNl"]
+[Difficulty "medium"]
+[Rating "1351"]
+[Themes "crushing long middlegame skewer"]
+[GameUrl "https://lichess.org/game/aHQDi8ab/black#40"]
+[Solution "e8e6 f6h8 g8f7 h8g7 f7e8 g7c7"]
+[SolutionSAN "Re6 Qh8+ Kf7 Qg7+ Ke8 Qxc7"]
+[FEN "r1b1rnk1/2q4p/2p2Qp1/p1b5/1pP1p3/1P2PBP1/PB3P1P/3R1RK1 b - - 1 20"]
+[SetUp "1"]
+
+20... Re6 21. Qh8+ Kf7 22. Qg7+ Ke8 23. Qxc7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06CSu"]
+[Difficulty "easy"]
+[Rating "1096"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/OAsDcENW/black#50"]
+[Solution "a7a4 b2b8 a8b8 d1a4"]
+[SolutionSAN "Qxa4 Rxb8+ Rxb8 Qxa4"]
+[FEN "rr4k1/q5pp/2p1p3/2P1Pp2/R2Pp3/2BbP3/PR4PP/3Q2K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Qxa4 26. Rxb8+ Rxb8 27. Qxa4 *

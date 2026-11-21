@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04MWF"]
+[Difficulty "hard"]
+[Rating "1924"]
+[Themes "crushing defensiveMove endgame long master pawnEndgame"]
+[GameUrl "https://lichess.org/game/lsFqgYYo#93"]
+[Solution "c5d5 f4f3 b7b8q c7b8 g2f3 h5h4"]
+[SolutionSAN "Kd5 f3 b8=Q+ Kxb8 gxf3 h4"]
+[FEN "8/1Pk5/6p1/2K4p/pP3p2/2P5/P5P1/8 w - - 0 47"]
+[SetUp "1"]
+
+47. Kd5 f3 48. b8=Q+ Kxb8 49. gxf3 h4 *

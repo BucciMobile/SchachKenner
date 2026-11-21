@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "095H2"]
+[Difficulty "medium"]
+[Rating "1333"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/0R2RkYXu/black#52"]
+[Solution "f4g4 e3g3 g4g3 f2g3"]
+[SolutionSAN "Qxg4 Rg3 Qxg3 fxg3"]
+[FEN "3rr1k1/pp3ppp/8/8/2P1pqP1/1P2R3/PQ3PP1/4R1K1 b - - 0 26"]
+[SetUp "1"]
+
+26... Qxg4 27. Rg3 Qxg3 28. fxg3 *

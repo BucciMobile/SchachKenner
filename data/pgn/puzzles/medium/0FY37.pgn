@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FY37"]
+[Difficulty "medium"]
+[Rating "1568"]
+[Themes "crushing endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/teVBoMIS#95"]
+[Solution "e4c4 f5f7 c4f7 g6f7"]
+[SolutionSAN "Qxc4 Qf7 Qxf7+ Kxf7"]
+[FEN "8/6p1/6kp/5q2/2p1Q3/8/KPP5/8 w - - 6 48"]
+[SetUp "1"]
+
+48. Qxc4 Qf7 49. Qxf7+ Kxf7 *

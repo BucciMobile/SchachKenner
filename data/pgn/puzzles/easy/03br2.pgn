@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03br2"]
+[Difficulty "easy"]
+[Rating "912"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/Xm4R6EuA/black#92"]
+[Solution "c3d1 a1d1 d5f3 d1d2"]
+[SolutionSAN "Nxd1 Rxd1 Bf3 Rxd2"]
+[FEN "8/r1p1k1p1/P1P4p/2NbP2P/6P1/2n5/3p4/R2B2K1 b - - 2 46"]
+[SetUp "1"]
+
+46... Nxd1 47. Rxd1 Bf3 48. Rxd2 *

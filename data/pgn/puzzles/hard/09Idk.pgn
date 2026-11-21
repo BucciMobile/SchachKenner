@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Idk"]
+[Difficulty "hard"]
+[Rating "2721"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/lw8t6jZ6/black#28"]
+[Solution "e4f3 h4h6 f5f4 c3e4"]
+[SolutionSAN "exf3 Qh6 f4 Ne4"]
+[FEN "4rrk1/pp1bnpBp/1qn3p1/2p2p2/4p2Q/1BNP1N2/PPP3PP/R4R1K b - - 0 14"]
+[SetUp "1"]
+
+14... exf3 15. Qh6 f4 16. Ne4 *

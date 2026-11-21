@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00f1Y"]
+[Difficulty "medium"]
+[Rating "1252"]
+[Themes "advantage discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/5k1h2DTZ/black#72"]
+[Solution "b8c8 c5e6 f7e6 c1c8"]
+[SolutionSAN "Rc8 Nxe6+ fxe6 Rxc8"]
+[FEN "1r6/p2n1pkp/4p1p1/2Np4/1r6/1P1K1P1P/P3R1P1/2R5 b - - 5 36"]
+[SetUp "1"]
+
+36... Rc8 37. Nxe6+ fxe6 38. Rxc8 *

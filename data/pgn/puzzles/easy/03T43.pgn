@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03T43"]
+[Difficulty "easy"]
+[Rating "594"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/8Etzsw0i#83"]
+[Solution "g3g2 e4g2"]
+[SolutionSAN "Qxg2 Qxg2#"]
+[FEN "1R6/5Ppk/6p1/3b4/p3q3/6QP/6rK/8 w - - 0 42"]
+[SetUp "1"]
+
+42. Qxg2 Qxg2# *

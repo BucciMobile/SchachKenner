@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Ceb"]
+[Difficulty "hard"]
+[Rating "2096"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/UYOpVoR4#55"]
+[Solution "h1h2 b7e7 e5g5 b6d4"]
+[SolutionSAN "Rh2 Rbe7 Qg5 Qxd4"]
+[FEN "6k1/1r3r1p/pq4p1/4Q3/b2NP1P1/P4P2/1PP5/KR5R w - - 1 28"]
+[SetUp "1"]
+
+28. Rh2 Rbe7 29. Qg5 Qxd4 *

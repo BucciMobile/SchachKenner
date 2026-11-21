@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02LHV"]
+[Difficulty "hard"]
+[Rating "1899"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/WFXcB88s#27"]
+[Solution "d3c4 h5f3 d1f3 d8d4"]
+[SolutionSAN "dxc4 Bxf3 Qxf3 Qd4"]
+[FEN "r2qr1k1/p1p1bppp/5n2/4R2b/2p5/1P1P1N1P/P2N1PP1/R1BQ2K1 w - - 0 14"]
+[SetUp "1"]
+
+14. dxc4 Bxf3 15. Qxf3 Qd4 *

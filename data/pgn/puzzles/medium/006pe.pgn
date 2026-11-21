@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "006pe"]
+[Difficulty "medium"]
+[Rating "1560"]
+[Themes "master mate mateIn2 middlegame pin short"]
+[GameUrl "https://lichess.org/game/gkSEAS27/black#56"]
+[Solution "e6f7 e7f5 h6h7 f6g7"]
+[SolutionSAN "Bxf7 Nf5+ Kh7 Qg7#"]
+[FEN "r4r2/2q1NN2/4bQpk/2n4p/pp5P/8/1PP2PP1/2KR3R b - - 0 28"]
+[SetUp "1"]
+
+28... Bxf7 29. Nf5+ Kh7 30. Qg7# *

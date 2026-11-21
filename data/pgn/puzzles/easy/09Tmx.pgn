@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Tmx"]
+[Difficulty "easy"]
+[Rating "837"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/FXoLsnRi/black#48"]
+[Solution "f8g7 f5h7"]
+[SolutionSAN "Bg7 Qxh7#"]
+[FEN "1r3b1k/p3q2p/2p5/2p2Q2/7P/2BB4/PPP3P1/6K1 b - - 2 24"]
+[SetUp "1"]
+
+24... Bg7 25. Qxh7# *

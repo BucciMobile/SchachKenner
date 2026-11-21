@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "063lr"]
+[Difficulty "medium"]
+[Rating "1369"]
+[Themes "deflection mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/kJq3Sumo/black#52"]
+[Solution "d8d7 e1e8 d7d8 f3b7"]
+[SolutionSAN "R8d7 Re8+ Rd8 Qxb7#"]
+[FEN "2kr4/1p3ppp/p5q1/2P2pP1/2b4P/P1N2Q2/3r4/1R2R2K b - - 2 26"]
+[SetUp "1"]
+
+26... R8d7 27. Re8+ Rd8 28. Qxb7# *

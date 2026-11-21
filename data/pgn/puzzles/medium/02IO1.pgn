@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02IO1"]
+[Difficulty "medium"]
+[Rating "1600"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/J1DVEroz/black#34"]
+[Solution "c6e7 d1h1 d7b5 h1h2"]
+[SolutionSAN "Ne7 Rh1 Bb5 Rxh2"]
+[FEN "r4rk1/1ppb2pp/p1n1p3/3p1pN1/3P1P2/P1BQPB2/1PP4q/2KR4 b - - 1 17"]
+[SetUp "1"]
+
+17... Ne7 18. Rh1 Bb5 19. Rxh2 *

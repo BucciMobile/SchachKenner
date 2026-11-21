@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AK58"]
+[Difficulty "hard"]
+[Rating "1780"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/VMopw41D#37"]
+[Solution "e1c1 h8c8 b2b3 b7b5"]
+[SolutionSAN "O-O-O Rc8 b3 b5"]
+[FEN "1k5r/1p2bppp/p3p1b1/3q2Pn/2NP4/2Q2P2/PPPB3P/R3K2R w KQ - 2 19"]
+[SetUp "1"]
+
+19. O-O-O Rc8 20. b3 b5 *

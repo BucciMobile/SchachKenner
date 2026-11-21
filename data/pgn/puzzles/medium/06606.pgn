@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06606"]
+[Difficulty "medium"]
+[Rating "1626"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/GxbEcaqG#103"]
+[Solution "a5b5 f3f5 b5c4 f5f4"]
+[SolutionSAN "Kb5 Rf5+ Kc4 Rf4+"]
+[FEN "8/Pk6/7p/K5p1/R7/5r1P/8/8 w - - 1 52"]
+[SetUp "1"]
+
+52. Kb5 Rf5+ 53. Kc4 Rf4+ *

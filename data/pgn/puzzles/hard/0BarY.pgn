@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BarY"]
+[Difficulty "hard"]
+[Rating "1715"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/TYcotvDv/black#36"]
+[Solution "d8h4 g2g3 h4e7 c4d5"]
+[SolutionSAN "Qh4 g3 Qe7 cxd5"]
+[FEN "r2q1rk1/2p2p1p/p3p1p1/1p1nb3/1PP1N3/5Q2/P3BPPP/2RR2K1 b - - 0 18"]
+[SetUp "1"]
+
+18... Qh4 19. g3 Qe7 20. cxd5 *

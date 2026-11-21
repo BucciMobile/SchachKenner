@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FNQq"]
+[Difficulty "medium"]
+[Rating "1390"]
+[Themes "endgame mate mateIn1 oneMove queenEndgame"]
+[GameUrl "https://lichess.org/game/9JX5vRRz/black#136"]
+[Solution "f2f1q b8b4"]
+[SolutionSAN "f1=Q Qb4#"]
+[FEN "1Q6/6p1/8/2K5/k6P/8/5p2/8 b - - 0 68"]
+[SetUp "1"]
+
+68... f1=Q 69. Qb4# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04o8O"]
+[Difficulty "easy"]
+[Rating "964"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove promotion"]
+[GameUrl "https://lichess.org/game/j0X0G7oz#123"]
+[Solution "b7b8q d2d1q"]
+[SolutionSAN "b8=Q d1=Q#"]
+[FEN "8/1P3N1p/6p1/2P5/8/4k3/3p1r2/6K1 w - - 2 62"]
+[SetUp "1"]
+
+62. b8=Q d1=Q# *

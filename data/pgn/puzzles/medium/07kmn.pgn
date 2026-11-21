@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07kmn"]
+[Difficulty "medium"]
+[Rating "1584"]
+[Themes "attraction crushing endgame long pin"]
+[GameUrl "https://lichess.org/game/A2y1vGeo/black#64"]
+[Solution "g7e5 d5e5 e8e5 a3b2 h8g8 b2e5"]
+[SolutionSAN "Qxe5 Qxe5+ Rxe5 Bb2 Kg8 Bxe5"]
+[FEN "4r2k/p5qp/6p1/2pQR3/P7/B5PP/2P3K1/8 b - - 0 32"]
+[SetUp "1"]
+
+32... Qxe5 33. Qxe5+ Rxe5 34. Bb2 Kg8 35. Bxe5 *

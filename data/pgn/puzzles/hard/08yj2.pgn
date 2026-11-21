@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08yj2"]
+[Difficulty "hard"]
+[Rating "2466"]
+[Themes "crushing long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/DmXlVdSN#63"]
+[Solution "f1f3 g3g5 f3f4 d7f6 c4b6 e6e5"]
+[SolutionSAN "Rf3 Qg5+ Rf4 Nf6 Nb6 e5"]
+[FEN "5k2/3n1p2/p2Np3/2p5/PpN5/3PK1q1/1PP4r/R2Q1R2 w - - 0 32"]
+[SetUp "1"]
+
+32. Rf3 Qg5+ 33. Rf4 Nf6 34. Nb6 e5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04seg"]
+[Difficulty "easy"]
+[Rating "1167"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/7TVOUkyn#65"]
+[Solution "d2d3 g7d7 d3c2 d7d1"]
+[SolutionSAN "Kxd3 Rd7+ Kc2 Rxd1"]
+[FEN "8/p5rp/4p3/5k2/5P2/3p4/P2K3P/3R4 w - - 0 33"]
+[SetUp "1"]
+
+33. Kxd3 Rd7+ 34. Kc2 Rxd1 *

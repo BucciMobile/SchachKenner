@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FeSF"]
+[Difficulty "medium"]
+[Rating "1660"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/UQOjwyLK#137"]
+[Solution "c2c6 b6b5 c6h6 b4b3"]
+[SolutionSAN "Rc6+ Kb5 Rh6 b3"]
+[FEN "8/8/1k6/p2K4/np6/8/2R5/8 w - - 0 69"]
+[SetUp "1"]
+
+69. Rc6+ Kb5 70. Rh6 b3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gmdg"]
+[Difficulty "medium"]
+[Rating "1687"]
+[Themes "crushing defensiveMove endgame long master rookEndgame"]
+[GameUrl "https://lichess.org/game/fnKjPlnm/black#80"]
+[Solution "d5d4 f6g6 g3g6 h5g6 g8g7 b4b5"]
+[SolutionSAN "d4 Rg6+ Rxg6 hxg6 Kg7 b5"]
+[FEN "6k1/8/5R1p/3p3P/1P2p3/6r1/2K5/8 b - - 3 40"]
+[SetUp "1"]
+
+40... d4 41. Rg6+ Rxg6 42. hxg6 Kg7 43. b5 *

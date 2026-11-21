@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E3bh"]
+[Difficulty "hard"]
+[Rating "1950"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/fTe6dkQ9#51"]
+[Solution "c1d2 f8d8 d5d8 h4d8"]
+[SolutionSAN "Bd2 Rd8 Qxd8+ Qxd8"]
+[FEN "5rk1/p4pp1/1p5p/3QP3/5P1q/4PRnP/PPr3P1/R1B3K1 w - - 3 26"]
+[SetUp "1"]
+
+26. Bd2 Rd8 27. Qxd8+ Qxd8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C3Dl"]
+[Difficulty "medium"]
+[Rating "1274"]
+[Themes "endgame mate mateIn1 oneMove triangleMate"]
+[GameUrl "https://lichess.org/game/PiZJhEiw/black#76"]
+[Solution "g8f7 h3e6"]
+[SolutionSAN "Kf7 Qe6#"]
+[FEN "4R1kr/p1p3p1/1p1p4/6p1/q7/6PQ/8/6K1 b - - 3 38"]
+[SetUp "1"]
+
+38... Kf7 39. Qe6# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07pwg"]
+[Difficulty "easy"]
+[Rating "938"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/HyDfyeaR/black#96"]
+[Solution "e5e1 d4g7"]
+[SolutionSAN "Rxe1 Qg7#"]
+[FEN "8/2q2p2/1p6/4rNk1/2bQ1bP1/2P2B2/1P4K1/4R3 b - - 1 48"]
+[SetUp "1"]
+
+48... Rxe1 49. Qg7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A9cA"]
+[Difficulty "medium"]
+[Rating "1228"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/dqZWJZVj/black#58"]
+[Solution "a2b1 c7d7 f6d7 d4d7"]
+[SolutionSAN "Qb1 Rxd7 Nxd7 Qxd7"]
+[FEN "4r2k/ppRb2p1/4pn2/7p/3Q1P1P/3PN1PB/qP2K3/8 b - - 0 29"]
+[SetUp "1"]
+
+29... Qb1 30. Rxd7 Nxd7 31. Qxd7 *

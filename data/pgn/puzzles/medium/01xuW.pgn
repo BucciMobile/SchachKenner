@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01xuW"]
+[Difficulty "medium"]
+[Rating "1664"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/tQSpXCuc#69"]
+[Solution "e3f3 f6e5 d1b3 e5d5"]
+[SolutionSAN "Rf3 Qxe5 Qb3+ Qd5"]
+[FEN "3rb1k1/6p1/p1p2q1p/1pP1N3/3P4/P3R2P/1P4P1/3Q2K1 w - - 5 35"]
+[SetUp "1"]
+
+35. Rf3 Qxe5 36. Qb3+ Qd5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CkMc"]
+[Difficulty "hard"]
+[Rating "2444"]
+[Themes "crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/V44Lmsyl/black#90"]
+[Solution "a4f4 f2g3 e6d7 g3f4 d7c7 b7a5"]
+[SolutionSAN "Rxf4+ Kg3 Kxd7 Kxf4 Kc7 Na5"]
+[FEN "8/pN1P3p/4k1p1/1P3p2/r4P2/7P/5KP1/8 b - - 0 45"]
+[SetUp "1"]
+
+45... Rxf4+ 46. Kg3 Kxd7 47. Kxf4 Kc7 48. Na5 *

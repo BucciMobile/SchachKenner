@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ngU"]
+[Difficulty "easy"]
+[Rating "1069"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/jAl6Os7I#61"]
+[Solution "e4d6 c7d6 d2b2 f3e1"]
+[SolutionSAN "Nxd6+ Qxd6 Qb2 Nxe1"]
+[FEN "1r2k3/p1q1p1r1/3p2p1/3B1b2/2P1N3/1P3nPp/P2Q1P1P/4RR1K w - - 1 31"]
+[SetUp "1"]
+
+31. Nxd6+ Qxd6 32. Qb2 Nxe1 *

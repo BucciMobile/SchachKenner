@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bgzo"]
+[Difficulty "easy"]
+[Rating "837"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/AtGZPU4w#69"]
+[Solution "f4f5 g1e2 g3g4 e2c3"]
+[SolutionSAN "f5 Ne2+ Kg4 Nxc3"]
+[FEN "8/p2k3p/8/8/5P2/2B1P1K1/P4P2/6n1 w - - 5 35"]
+[SetUp "1"]
+
+35. f5 Ne2+ 36. Kg4 Nxc3 *

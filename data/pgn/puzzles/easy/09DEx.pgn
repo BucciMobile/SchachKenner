@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09DEx"]
+[Difficulty "easy"]
+[Rating "985"]
+[Themes "crushing hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/OQ5zx8Xi#35"]
+[Solution "d1d2 f6e4 g5d8 e4d2"]
+[SolutionSAN "Qd2 Nxe4 Bxd8 Nxd2"]
+[FEN "r2q1rk1/b1pn1ppp/p2p1n2/3P2B1/3PN3/5N2/P4PPP/1R1Q1RK1 w - - 3 18"]
+[SetUp "1"]
+
+18. Qd2 Nxe4 19. Bxd8 Nxd2 *

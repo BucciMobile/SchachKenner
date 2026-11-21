@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AewS"]
+[Difficulty "hard"]
+[Rating "1767"]
+[Themes "advantage master middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/jC5zurDA#35"]
+[Solution "d4d5 e6b6 b7b6 c7b6"]
+[SolutionSAN "d5 Rb6 Qxb6 cxb6"]
+[FEN "r2q4/1Qpk1pp1/4rpbp/8/3P4/2K2N2/PP4PP/2R1R3 w - - 3 18"]
+[SetUp "1"]
+
+18. d5 Rb6 19. Qxb6 cxb6 *

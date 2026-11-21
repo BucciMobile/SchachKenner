@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08ihA"]
+[Difficulty "easy"]
+[Rating "568"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/vbmeEpIl/black#24"]
+[Solution "b8c8 b7c8"]
+[SolutionSAN "Rxc8 Qxc8#"]
+[FEN "1rR1kb1r/pQ1npppp/3q4/3pN2b/3P1B2/8/PP2PPPP/4KB1R b Kk - 2 12"]
+[SetUp "1"]
+
+12... Rxc8 13. Qxc8# *

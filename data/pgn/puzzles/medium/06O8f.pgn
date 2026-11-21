@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06O8f"]
+[Difficulty "medium"]
+[Rating "1294"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/4u3sZzZ3#101"]
+[Solution "a3b4 a5b4 e3e4 d5e4 d3d2 b4c3"]
+[SolutionSAN "axb4+ axb4 Rxe4 dxe4+ Kd2 bxc3+"]
+[FEN "8/8/6p1/p1kp1p2/1p2rPpP/PPPKR1P1/8/8 w - - 0 51"]
+[SetUp "1"]
+
+51. axb4+ axb4 52. Rxe4 dxe4+ 53. Kd2 bxc3+ *

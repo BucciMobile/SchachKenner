@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FAkv"]
+[Difficulty "medium"]
+[Rating "1296"]
+[Themes "backRankMate mate mateIn4 middlegame veryLong"]
+[GameUrl "https://lichess.org/game/oItR6ubz/black#30"]
+[Solution "h6f7 g5f7 f8f7 c7c8 b6d8 c8d8 f7f8 d8f8"]
+[SolutionSAN "Nxf7 Nxf7+ Rxf7 Rxc8+ Bd8 Rxd8+ Rf8 Rxf8#"]
+[FEN "rnb2r1k/ppRpNQpp/1b5n/4P1N1/8/8/Pq1BK1PP/5B1R b - - 0 15"]
+[SetUp "1"]
+
+15... Nxf7 16. Nxf7+ Rxf7 17. Rxc8+ Bd8 18. Rxd8+ Rf8 19. Rxf8# *

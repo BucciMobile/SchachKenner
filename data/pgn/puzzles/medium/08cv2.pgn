@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08cv2"]
+[Difficulty "medium"]
+[Rating "1588"]
+[Themes "crushing endgame master pawnEndgame quietMove short"]
+[GameUrl "https://lichess.org/game/kiEeuw6P#87"]
+[Solution "g3g4 a5a4 h4h5 a4a3"]
+[SolutionSAN "Kg4 a4 h5 a3"]
+[FEN "8/5p2/3p1k2/p1pP4/2P1P2P/6K1/8/8 w - - 0 44"]
+[SetUp "1"]
+
+44. Kg4 a4 45. h5 a3 *

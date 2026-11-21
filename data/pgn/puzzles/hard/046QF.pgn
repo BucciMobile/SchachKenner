@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "046QF"]
+[Difficulty "hard"]
+[Rating "2327"]
+[Themes "advantage attraction kingsideAttack middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/yTAbNvkV/black#44"]
+[Solution "f6d7 e5f7 g8f7 f3d5"]
+[SolutionSAN "Nd7 Nxf7 Kxf7 Qd5+"]
+[FEN "r2qr1k1/p4ppp/3b1n2/1pp1N1P1/2Pp1B2/5Q1P/PP6/R3R1K1 b - - 0 22"]
+[SetUp "1"]
+
+22... Nd7 23. Nxf7 Kxf7 24. Qd5+ *

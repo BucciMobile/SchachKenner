@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07YWA"]
+[Difficulty "easy"]
+[Rating "534"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/mSubC9Fc#69"]
+[Solution "e6c4 f5f1 e1f1 f8f1"]
+[SolutionSAN "Qxc4 Rf1+ Rxf1 Rxf1#"]
+[FEN "k4r2/1p6/p2PQ2p/5r2/2q5/8/PP2R1PP/4R2K w - - 1 35"]
+[SetUp "1"]
+
+35. Qxc4 Rf1+ 36. Rxf1 Rxf1# *

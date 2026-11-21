@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Gyu"]
+[Difficulty "easy"]
+[Rating "485"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/EZLk62ss/black#34"]
+[Solution "d5b5 d2d8"]
+[SolutionSAN "Qxb5 Qd8#"]
+[FEN "r1b1k1nr/1pp2p2/p7/1B1q3p/6p1/4PP2/PPPQ1P2/2KR3R b kq - 1 17"]
+[SetUp "1"]
+
+17... Qxb5 18. Qd8# *

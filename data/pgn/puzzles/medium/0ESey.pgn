@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ESey"]
+[Difficulty "medium"]
+[Rating "1253"]
+[Themes "advantage endgame intermezzo short"]
+[GameUrl "https://lichess.org/game/H0LI45LR/black#62"]
+[Solution "e7e2 g4f6 g8f7 e1e2"]
+[SolutionSAN "Rxe2 Nxf6+ Kf7 Rxe2"]
+[FEN "6k1/3br1p1/p4r2/8/6N1/8/P3RPP1/4R1K1 b - - 1 31"]
+[SetUp "1"]
+
+31... Rxe2 32. Nxf6+ Kf7 33. Rxe2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02PDS"]
+[Difficulty "hard"]
+[Rating "1890"]
+[Themes "crushing kingsideAttack middlegame veryLong"]
+[GameUrl "https://lichess.org/game/jhoFj7fe/black#48"]
+[Solution "d6b6 d3g6 h7g6 g3g6 g8f7 g6g7 f7e6 b1e1"]
+[SolutionSAN "Qb6 Bxg6 hxg6 Rxg6+ Kf7 Rg7+ Ke6 Qe1+"]
+[FEN "4r1k1/pp2n2p/3q1pp1/3p4/3P3P/1PrB1PR1/P4P2/1Q4RK b - - 0 24"]
+[SetUp "1"]
+
+24... Qb6 25. Bxg6 hxg6 26. Rxg6+ Kf7 27. Rg7+ Ke6 28. Qe1+ *

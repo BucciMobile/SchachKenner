@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04RyU"]
+[Difficulty "hard"]
+[Rating "2614"]
+[Themes "advantage discoveredAttack fork long middlegame"]
+[GameUrl "https://lichess.org/game/h1nmsLOZ/black#44"]
+[Solution "h3g2 g3g2 d8f6 g5e4 f6g6 e4c5"]
+[SolutionSAN "hxg2+ Qxg2 Qf6 Ne4+ Qg6 Nxc5"]
+[FEN "1r1q1rk1/ppp2p1p/8/2bP2N1/2P5/6Qp/PP4P1/R1B4K b - - 0 22"]
+[SetUp "1"]
+
+22... hxg2+ 23. Qxg2 Qf6 24. Ne4+ Qg6 25. Nxc5 *

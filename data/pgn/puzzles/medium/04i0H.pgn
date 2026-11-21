@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04i0H"]
+[Difficulty "medium"]
+[Rating "1689"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/FiXuLJyT#49"]
+[Solution "b7c7 h6f4 g2g3 f4c7"]
+[SolutionSAN "Rxc7 Bf4+ g3 Bxc7"]
+[FEN "8/1Rn4p/4pk1b/3p3p/3P4/2P2N2/3N1PPK/3r4 w - - 4 25"]
+[SetUp "1"]
+
+25. Rxc7 Bf4+ 26. g3 Bxc7 *

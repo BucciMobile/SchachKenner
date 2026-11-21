@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00XAG"]
+[Difficulty "hard"]
+[Rating "1901"]
+[Themes "advantage hangingPiece intermezzo master middlegame short"]
+[GameUrl "https://lichess.org/game/cfhyIaNG/black#42"]
+[Solution "b8b3 d3d8 g8h7 a2b3"]
+[SolutionSAN "Rxb3 Rxd8+ Kh7 axb3"]
+[FEN "1r1r2k1/p3ppb1/b3q1pp/2p5/2N5/1Q1RB3/P4PPP/2R1N1K1 b - - 0 21"]
+[SetUp "1"]
+
+21... Rxb3 22. Rxd8+ Kh7 23. axb3 *

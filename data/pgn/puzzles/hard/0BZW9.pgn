@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BZW9"]
+[Difficulty "hard"]
+[Rating "1824"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/OWo5cg9U#59"]
+[Solution "e2e3 f4f2 h2h1 c6c5"]
+[SolutionSAN "Re3 Qxf2+ Kh1 c5"]
+[FEN "4brk1/1p4p1/p1pp3p/4p3/2P2qP1/1P1P2RP/1P2RP1K/3Q4 w - - 5 30"]
+[SetUp "1"]
+
+30. Re3 Qxf2+ 31. Kh1 c5 *

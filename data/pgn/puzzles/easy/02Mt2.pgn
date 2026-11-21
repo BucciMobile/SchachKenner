@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Mt2"]
+[Difficulty "easy"]
+[Rating "885"]
+[Themes "arabianMate endgame hangingPiece mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/NibrzlHY#63"]
+[Solution "e6g7 h2f3 g1h1 d2h2"]
+[SolutionSAN "Nxg7 Nxf3+ Kh1 Rh2#"]
+[FEN "6k1/R5pp/4N3/5p2/5P2/5RP1/P2r3n/5BK1 w - - 0 32"]
+[SetUp "1"]
+
+32. Nxg7 Nxf3+ 33. Kh1 Rh2# *

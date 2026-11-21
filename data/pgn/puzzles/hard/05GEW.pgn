@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05GEW"]
+[Difficulty "hard"]
+[Rating "2303"]
+[Themes "advancedPawn crushing endgame promotion veryLong"]
+[GameUrl "https://lichess.org/game/ndIxRfG2/black#60"]
+[Solution "b5e2 d2e2 a5a4 e4e5 a4b3 e5e6 b3c2 e6e7 d4d3 e2e3 d3d2 e7e8q"]
+[SolutionSAN "Bxe2 Kxe2 Ka4 e5 Kb3 e6 Kc2 e7 d3+ Ke3 d2 e8=Q"]
+[FEN "8/6pp/5p2/kbp5/3pPP2/P5PP/3KB3/8 b - - 1 30"]
+[SetUp "1"]
+
+30... Bxe2 31. Kxe2 Ka4 32. e5 Kb3 33. e6 Kc2 34. e7 d3+ 35. Ke3 d2 36. e8=Q *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AqUk"]
+[Difficulty "easy"]
+[Rating "789"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/EEJPYvdD#31"]
+[Solution "e6f8 c6g2"]
+[SolutionSAN "Nxf8 Qxg2#"]
+[FEN "r4rk1/1b1nb1pp/ppq1Nn2/8/P7/1P6/1BPN1PPP/R2Q1RK1 w - - 1 16"]
+[SetUp "1"]
+
+16. Nxf8 Qxg2# *

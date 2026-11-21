@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06wyM"]
+[Difficulty "hard"]
+[Rating "2134"]
+[Themes "advantage master middlegame pin short"]
+[GameUrl "https://lichess.org/game/fWdVWjcM#33"]
+[Solution "a1d1 d8d1 e1d1 e5e4"]
+[SolutionSAN "Rad1 Rxd1 Rxd1 e4"]
+[FEN "2kr3r/ppp3pp/bbn2p2/4p3/8/2B2NPP/PP3NB1/R3R1K1 w - - 4 17"]
+[SetUp "1"]
+
+17. Rad1 Rxd1 18. Rxd1 e4 *

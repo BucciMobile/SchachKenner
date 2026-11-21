@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06CZp"]
+[Difficulty "hard"]
+[Rating "1855"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/C2KFREIu#31"]
+[Solution "e4f5 e7h4"]
+[SolutionSAN "exf5 Qxh4#"]
+[FEN "2kr3r/pppbq3/2np4/2bB1p1p/PP2P1pP/2PP4/6PK/RNBQ1R2 w - - 0 16"]
+[SetUp "1"]
+
+16. exf5 Qxh4# *

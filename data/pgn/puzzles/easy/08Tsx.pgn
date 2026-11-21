@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Tsx"]
+[Difficulty "easy"]
+[Rating "756"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/uuzLC1WR#59"]
+[Solution "d7e7 h4f3"]
+[SolutionSAN "Qe7 Nf3#"]
+[FEN "5r1k/3Q1pp1/p6p/8/1p2P1Pn/2bB3b/2P2P1P/6KR w - - 1 30"]
+[SetUp "1"]
+
+30. Qe7 Nf3# *

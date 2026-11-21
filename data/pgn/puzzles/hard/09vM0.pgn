@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09vM0"]
+[Difficulty "hard"]
+[Rating "2825"]
+[Themes "crushing endgame quietMove rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/NqlLYOBP/black#144"]
+[Solution "e4f4 c5d5 f3f2 e1f1 e8e7 f1f2 f4e3 f2h2 e7e8 h2h3"]
+[SolutionSAN "Kf4 Kxd5 f2 Rf1 Rxe7 Rxf2+ Ke3 Rh2 Re8 Rh3+"]
+[FEN "4r3/4P3/8/2Kp4/3Pk3/5p2/8/4R3 b - - 1 72"]
+[SetUp "1"]
+
+72... Kf4 73. Kxd5 f2 74. Rf1 Rxe7 75. Rxf2+ Ke3 76. Rh2 Re8 77. Rh3+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E49e"]
+[Difficulty "hard"]
+[Rating "2046"]
+[Themes "advancedPawn crushing endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/4n0BtrI4#127"]
+[Solution "h2h4 d3d2 h4h3 c4c3"]
+[SolutionSAN "Rh4 d2 Rh3+ c3"]
+[FEN "8/8/8/8/1pp5/1k1p4/7R/1K6 w - - 4 64"]
+[SetUp "1"]
+
+64. Rh4 d2 65. Rh3+ c3 *

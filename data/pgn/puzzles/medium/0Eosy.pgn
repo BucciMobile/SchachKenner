@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Eosy"]
+[Difficulty "medium"]
+[Rating "1600"]
+[Themes "advantage discoveredAttack discoveredCheck kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/Precti1L#47"]
+[Solution "f4f5 h4g5 h1g2 g5e3"]
+[SolutionSAN "f5 Bg5+ Kg2 Bxe3"]
+[FEN "4rrk1/pp3ppp/2pp3q/8/4PP1b/2N1BQ2/PPP5/R4R1K w - - 3 24"]
+[SetUp "1"]
+
+24. f5 Bg5+ 25. Kg2 Bxe3 *

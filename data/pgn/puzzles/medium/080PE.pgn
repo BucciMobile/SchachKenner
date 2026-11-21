@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "080PE"]
+[Difficulty "medium"]
+[Rating "1369"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/Sw57mIG5/black#52"]
+[Solution "e8e1 g1e1 h7h5 f5e7"]
+[SolutionSAN "Rxe1+ Rxe1 Qh5 Ne7+"]
+[FEN "4r1k1/pp3ppq/n1p3r1/3p1N2/3P4/3Q4/PPP4P/1K2R1R1 b - - 13 26"]
+[SetUp "1"]
+
+26... Rxe1+ 27. Rxe1 Qh5 28. Ne7+ *

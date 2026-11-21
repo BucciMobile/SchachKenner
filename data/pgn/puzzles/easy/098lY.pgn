@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "098lY"]
+[Difficulty "easy"]
+[Rating "844"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/mvuYHgQe/black#42"]
+[Solution "d8e7 b2g7"]
+[SolutionSAN "Qe7 Qg7#"]
+[FEN "r2q1rk1/p2n1b1p/3pN1p1/2pP1p2/1pP1p3/1P2P1P1/PQ1R1PBP/3R2K1 b - - 9 21"]
+[SetUp "1"]
+
+21... Qe7 22. Qg7# *

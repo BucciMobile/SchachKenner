@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05fKp"]
+[Difficulty "easy"]
+[Rating "995"]
+[Themes "endgame fork long mate mateIn3"]
+[GameUrl "https://lichess.org/game/m3IvvOzT/black#80"]
+[Solution "e3g5 f3f7 g8h8 f7e8 d6f8 e8f8"]
+[SolutionSAN "Bxg5 Qxf7+ Kh8 Qxe8+ Qf8+ Qxf8#"]
+[FEN "4r1k1/1p3ppp/p2q4/3B2PP/8/4bQ2/8/5K2 b - - 0 40"]
+[SetUp "1"]
+
+40... Bxg5 41. Qxf7+ Kh8 42. Qxe8+ Qf8+ 43. Qxf8# *

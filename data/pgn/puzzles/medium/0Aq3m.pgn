@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Aq3m"]
+[Difficulty "medium"]
+[Rating "1634"]
+[Themes "attraction clearance crushing endgame long pin queenRookEndgame"]
+[GameUrl "https://lichess.org/game/hclyg9QG/black#84"]
+[Solution "f7f6 g6f6 e6f6 g8g6 d6e7 g6f6"]
+[SolutionSAN "Rf6 Rxf6 Qxf6 Rg6 Ke7 Rxf6"]
+[FEN "6R1/5r2/1p1kq1R1/p6P/8/8/P4PK1/8 b - - 3 42"]
+[SetUp "1"]
+
+42... Rf6 43. Rxf6 Qxf6 44. Rg6 Ke7 45. Rxf6 *

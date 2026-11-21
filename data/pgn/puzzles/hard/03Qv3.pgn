@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Qv3"]
+[Difficulty "hard"]
+[Rating "1756"]
+[Themes "crushing endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/uUStDZbD#77"]
+[Solution "g3h2 e3e1 g1f2 e1c1"]
+[SolutionSAN "Qh2 Rxe1+ Kf2 Rc1"]
+[FEN "6k1/5p1p/5bpP/p1p2b2/PpPp1P2/1P1Pr1Q1/2B3P1/4B1K1 w - - 1 39"]
+[SetUp "1"]
+
+39. Qh2 Rxe1+ 40. Kf2 Rc1 *

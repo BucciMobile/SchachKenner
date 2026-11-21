@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07yyg"]
+[Difficulty "medium"]
+[Rating "1586"]
+[Themes "crushing endgame long queenEndgame"]
+[GameUrl "https://lichess.org/game/behZ92vI#71"]
+[Solution "g3g5 f6g5 h4g5 f7f6 h2g3 f6g5"]
+[SolutionSAN "Qg5 Qxg5 hxg5 f6 Kg3 fxg5"]
+[FEN "8/5pk1/1p1p1qp1/3P3p/2P4P/1P4Q1/6PK/8 w - - 4 36"]
+[SetUp "1"]
+
+36. Qg5 Qxg5 37. hxg5 f6 38. Kg3 fxg5 *

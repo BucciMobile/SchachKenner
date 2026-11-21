@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "061yF"]
+[Difficulty "hard"]
+[Rating "2142"]
+[Themes "attraction crushing exposedKing kingsideAttack long master middlegame skewer"]
+[GameUrl "https://lichess.org/game/9rsMnEZG#59"]
+[Solution "f2d2 e4g2 g1g2 h8h2 g2g3 h2d2"]
+[SolutionSAN "Qd2 Bxg2 Kxg2 Rh2+ Kxg3 Rxd2"]
+[FEN "7r/5pk1/p1p3p1/q2pP3/Nr1RbP2/1P4p1/P1P2QB1/2R3K1 w - - 0 30"]
+[SetUp "1"]
+
+30. Qd2 Bxg2 31. Kxg2 Rh2+ 32. Kxg3 Rxd2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CwfG"]
+[Difficulty "hard"]
+[Rating "2338"]
+[Themes "advantage clearance middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/6gVYViAf#53"]
+[Solution "g2f2 e5f3 f2f3 e8e3 f3g2 e3g3 f1f3 g3g2"]
+[SolutionSAN "Qf2 Nxf3+ Qxf3 Re3 Qg2 Rg3 Rf3 Rxg2+"]
+[FEN "4r3/1pp4k/p2p1b1p/3PnPp1/1PP2pPq/5P1P/P5QK/1BR2R2 w - - 3 27"]
+[SetUp "1"]
+
+27. Qf2 Nxf3+ 28. Qxf3 Re3 29. Qg2 Rg3 30. Rf3 Rxg2+ *

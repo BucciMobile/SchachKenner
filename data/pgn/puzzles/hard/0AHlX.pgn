@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AHlX"]
+[Difficulty "hard"]
+[Rating "2064"]
+[Themes "crushing endgame fork veryLong"]
+[GameUrl "https://lichess.org/game/0FmNhNOp/black#62"]
+[Solution "f8b8 e3d4 g3e5 d5e5 d6e5 d4e5 h8g8 e5b8"]
+[SolutionSAN "Rb8 Bd4+ Be5 Rxe5 dxe5 Bxe5+ Kg8 Bxb8"]
+[FEN "5r1k/4p2p/p2pP3/3R4/8/4B1bP/P5P1/6K1 b - - 1 31"]
+[SetUp "1"]
+
+31... Rb8 32. Bd4+ Be5 33. Rxe5 dxe5 34. Bxe5+ Kg8 35. Bxb8 *

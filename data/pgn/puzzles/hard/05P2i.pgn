@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05P2i"]
+[Difficulty "hard"]
+[Rating "1908"]
+[Themes "crushing endgame knightEndgame veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/wPrQ1rm5/black#90"]
+[Solution "e3f5 d6f5 e6f5 f3f4 d7e6 g5g6 e6e7 f4f5"]
+[SolutionSAN "Nf5 Nxf5 exf5 Kf4 Ke6 g6 Ke7 Kxf5"]
+[FEN "8/3k2p1/1p1Np2p/1P2P1PP/8/4nK2/8/8 b - - 4 45"]
+[SetUp "1"]
+
+45... Nf5 46. Nxf5 exf5 47. Kf4 Ke6 48. g6 Ke7 49. Kxf5 *

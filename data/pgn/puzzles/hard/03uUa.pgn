@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03uUa"]
+[Difficulty "hard"]
+[Rating "2071"]
+[Themes "crushing endgame master pin short"]
+[GameUrl "https://lichess.org/game/McvodlsN#59"]
+[Solution "g5e3 e5b5 g4d1 c2c3"]
+[SolutionSAN "Be3 Qb5 Qd1 Rc3"]
+[FEN "7k/p4pp1/1p2n3/4q1B1/6QP/3R2P1/P1r2P2/5K2 w - - 1 30"]
+[SetUp "1"]
+
+30. Be3 Qb5 31. Qd1 Rc3 *

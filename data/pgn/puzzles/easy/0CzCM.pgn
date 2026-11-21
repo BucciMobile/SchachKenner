@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CzCM"]
+[Difficulty "easy"]
+[Rating "1069"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/98v7P5Km/black#82"]
+[Solution "d7b8 c3c4 b5c4 b2b8"]
+[SolutionSAN "Nb8 Rxc4 bxc4 Qxb8+"]
+[FEN "6k1/3n3r/p3p1p1/Pp1qPpP1/2bPp2P/2R1P1P1/1Q6/2R3K1 b - - 6 41"]
+[SetUp "1"]
+
+41... Nb8 42. Rxc4 bxc4 43. Qxb8+ *

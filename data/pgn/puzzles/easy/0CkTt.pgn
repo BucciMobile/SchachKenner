@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CkTt"]
+[Difficulty "easy"]
+[Rating "1140"]
+[Themes "advantage fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/27ger7Tp/black#54"]
+[Solution "c6d4 g4g5 h6g5 g1g5 f5g5 h5g5"]
+[SolutionSAN "Nxd4 Rxg5+ hxg5 Rxg5+ Qxg5 Qxg5+"]
+[FEN "r4r2/1pp3k1/p1n4p/4PqpQ/3P1pR1/2N5/PPP5/2K3R1 b - - 3 27"]
+[SetUp "1"]
+
+27... Nxd4 28. Rxg5+ hxg5 29. Rxg5+ Qxg5 30. Qxg5+ *

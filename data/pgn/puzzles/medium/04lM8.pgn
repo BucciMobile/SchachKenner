@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04lM8"]
+[Difficulty "medium"]
+[Rating "1674"]
+[Themes "advantage kingsideAttack middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/07xz7dbd#51"]
+[Solution "f3f7 g8g3 f2g3 e5d4"]
+[SolutionSAN "Qxf7 Rxg3+ fxg3 Bd4+"]
+[FEN "2k3r1/p2p1p2/1pp5/4b2r/2P5/2N2QBq/PP3P1P/R5KR w - - 5 26"]
+[SetUp "1"]
+
+26. Qxf7 Rxg3+ 27. fxg3 Bd4+ *

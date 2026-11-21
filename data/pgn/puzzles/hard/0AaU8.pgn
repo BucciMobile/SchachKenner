@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AaU8"]
+[Difficulty "hard"]
+[Rating "2038"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/wk48T8op#71"]
+[Solution "f3f4 e6e4 g2f2 e4h1 c2c1 h1h2"]
+[SolutionSAN "f4 Qe4+ Kf2 Qh1 Rc1 Qh2+"]
+[FEN "2r3k1/2r2pp1/R1p1q3/1pQp4/3P2Pp/4PP1P/2RP2K1/8 w - - 1 36"]
+[SetUp "1"]
+
+36. f4 Qe4+ 37. Kf2 Qh1 38. Rc1 Qh2+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08AkA"]
+[Difficulty "medium"]
+[Rating "1614"]
+[Themes "crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/xSEsyzsX#49"]
+[Solution "b2b4 e5e1 a1e1 e6e1 h1h2 f4e2 f3e2 e1e2"]
+[SolutionSAN "b4 Re1+ Rxe1 Qxe1+ Kh2 Ne2 Qxe2 Qxe2"]
+[FEN "6k1/B1p4p/3pq3/2p1r1p1/5n2/2P2Q1P/PP3PP1/R6K w - - 0 25"]
+[SetUp "1"]
+
+25. b4 Re1+ 26. Rxe1 Qxe1+ 27. Kh2 Ne2 28. Qxe2 Qxe2 *

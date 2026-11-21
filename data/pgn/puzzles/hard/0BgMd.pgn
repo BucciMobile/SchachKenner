@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BgMd"]
+[Difficulty "hard"]
+[Rating "1830"]
+[Themes "advancedPawn crushing endgame master short"]
+[GameUrl "https://lichess.org/game/zgiOvkb9#75"]
+[Solution "d1d2 e2e1 c1c2 a3a2"]
+[SolutionSAN "Rd2 Qe1+ Kc2 a2"]
+[FEN "8/k1p5/1p1p4/8/8/p7/4qPQ1/2KR4 w - - 0 38"]
+[SetUp "1"]
+
+38. Rd2 Qe1+ 39. Kc2 a2 *

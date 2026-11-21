@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BF85"]
+[Difficulty "easy"]
+[Rating "690"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/LC4fihpj#33"]
+[Solution "h7g6 f6g6 h4g6 f7g6"]
+[SolutionSAN "Qg6+ Qxg6 Nxg6 Kxg6"]
+[FEN "r5r1/ppp2kpQ/3p1q2/4p3/4P1bN/3P4/PPP2PPP/R3K2R w KQ - 2 17"]
+[SetUp "1"]
+
+17. Qg6+ Qxg6 18. Nxg6 Kxg6 *

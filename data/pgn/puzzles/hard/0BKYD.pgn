@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BKYD"]
+[Difficulty "hard"]
+[Rating "2361"]
+[Themes "advancedPawn clearance crushing kingsideAttack middlegame veryLong"]
+[GameUrl "https://lichess.org/game/BLfGyzNH/black#58"]
+[Solution "e8g6 h6g6 h7g6 h1h6 a7h7 h6h7 g8h7 f6f7"]
+[SolutionSAN "Qg6 Qxg6+ hxg6 Rh6 Rh7 Rxh7 Kxh7 f7"]
+[FEN "4q1k1/r6p/1n2pP1Q/3pP1p1/2p3P1/1pP1P3/1P6/rNK2R1R b - - 2 29"]
+[SetUp "1"]
+
+29... Qg6 30. Qxg6+ hxg6 31. Rh6 Rh7 32. Rxh7 Kxh7 33. f7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06cN5"]
+[Difficulty "medium"]
+[Rating "1679"]
+[Themes "attraction crushing fork long master middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/pbPGRXCL/black#44"]
+[Solution "f5f4 e1e4 e8e4 b3c5 d7d4 c5e4"]
+[SolutionSAN "f4 Rxe4 Rxe4 Nc5 Qxd4 Nxe4"]
+[FEN "3rr1k1/p2q1p1p/2p3p1/Q4p2/2PPn3/1N6/P4PPP/4RRK1 b - - 6 22"]
+[SetUp "1"]
+
+22... f4 23. Rxe4 Rxe4 24. Nc5 Qxd4 25. Nxe4 *

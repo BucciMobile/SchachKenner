@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "099TU"]
+[Difficulty "medium"]
+[Rating "1405"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/aEQLZsd9/black#66"]
+[Solution "e8d8 g7d7"]
+[SolutionSAN "Kd8 Rd7#"]
+[FEN "2r1k3/p5R1/1p3N2/3B4/2P5/6PK/r6P/6b1 b - - 2 33"]
+[SetUp "1"]
+
+33... Kd8 34. Rd7# *

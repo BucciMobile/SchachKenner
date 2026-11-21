@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C773"]
+[Difficulty "hard"]
+[Rating "1822"]
+[Themes "crushing defensiveMove endgame long queenEndgame"]
+[GameUrl "https://lichess.org/game/LtHWSTc5/black#92"]
+[Solution "g7h6 a7e3 c3e3 f2e3 h6g5 a2a4"]
+[SolutionSAN "Kh6 Qe3+ Qxe3 fxe3 Kg5 a4"]
+[FEN "8/Q5k1/6p1/5p1p/2P5/2q5/P4PK1/8 b - - 3 46"]
+[SetUp "1"]
+
+46... Kh6 47. Qe3+ Qxe3 48. fxe3 Kg5 49. a4 *

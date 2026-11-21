@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B0pv"]
+[Difficulty "easy"]
+[Rating "857"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/lgrr6rD8#47"]
+[Solution "h5e5 c2g2"]
+[SolutionSAN "Qxe5 Qxg2#"]
+[FEN "2k1r1r1/1pp1nR1p/8/1N2n2Q/P7/8/1Pq3PP/R6K w - - 0 24"]
+[SetUp "1"]
+
+24. Qxe5 Qxg2# *

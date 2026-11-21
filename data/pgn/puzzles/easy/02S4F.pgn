@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02S4F"]
+[Difficulty "easy"]
+[Rating "751"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/KqqpuZh2/black#82"]
+[Solution "g5h6 f8h8"]
+[SolutionSAN "Kh6 Rh8#"]
+[FEN "5R2/1r4p1/1r2p1p1/2pp2kp/8/3K4/8/6R1 b - - 1 41"]
+[SetUp "1"]
+
+41... Kh6 42. Rh8# *

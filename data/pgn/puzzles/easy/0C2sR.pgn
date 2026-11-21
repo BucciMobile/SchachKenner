@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C2sR"]
+[Difficulty "easy"]
+[Rating "831"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/mz375oUe#47"]
+[Solution "b1d1 f3d1 e7e1 d1e1"]
+[SolutionSAN "Rxd1 Qxd1+ Re1 Qxe1+"]
+[FEN "1k4r1/pp2RQ2/8/5n2/8/B1P2qP1/P4P1P/1R1r2K1 w - - 5 24"]
+[SetUp "1"]
+
+24. Rxd1 Qxd1+ 25. Re1 Qxe1+ *

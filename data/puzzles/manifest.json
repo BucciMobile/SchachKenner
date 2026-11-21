@@ -1,0 +1,36 @@
+{
+ "generated": "2026-11-21",
+ "seed": 20261121,
+ "perLevel": 800,
+ "source": "https://database.lichess.org/lichess_db_puzzle.csv.zst",
+ "license": "CC0 1.0 — licenses/lichess-database-cc0.md",
+ "bands": {
+  "easy": "<1200",
+  "medium": "1200-1700",
+  "hard": ">1700"
+ },
+ "levels": {
+  "easy": {
+   "count": 800,
+   "pgnFiles": 800,
+   "skippedInvalid": 0
+  },
+  "medium": {
+   "count": 800,
+   "pgnFiles": 800,
+   "skippedInvalid": 0
+  },
+  "hard": {
+   "count": 800,
+   "pgnFiles": 800,
+   "skippedInvalid": 0
+  }
+ },
+ "sha256": {
+  "index.json": "18ba451ffbd974f2933fbb6ff1980f5ecab2b6db8ac014d2289a3e9fa8cb221b",
+  "easy.json": "4ef4d8543dea6a67c2ee3edc5a8c960c64ca86d77f2e1061b24e51869844ce8d",
+  "medium.json": "54e8172bd138fa73f592c59fcdd6557c3d8de25ca354b83077809537f9653414",
+  "hard.json": "01f1fb8e49567908d15ce7b3b6f1254f9c12ddd65a7a00a7fed37d1082fcee36"
+ },
+ "count": 2400
+}

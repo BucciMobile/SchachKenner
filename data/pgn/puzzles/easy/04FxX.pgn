@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04FxX"]
+[Difficulty "easy"]
+[Rating "1012"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/x7Bxfdr2/black#80"]
+[Solution "d8e7 f5h5"]
+[SolutionSAN "Be7 Rh5#"]
+[FEN "3b2r1/6rk/p7/1pPpNR2/6P1/2P4P/PP6/6K1 b - - 2 40"]
+[SetUp "1"]
+
+40... Be7 41. Rh5# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ClVy"]
+[Difficulty "hard"]
+[Rating "2032"]
+[Themes "discoveredAttack discoveredCheck exposedKing hookMate long mate mateIn3 middlegame operaMate"]
+[GameUrl "https://lichess.org/game/X90THX5k#41"]
+[Solution "d1d7 h2f4 h1g1 e5f3 g1g2 h3h2"]
+[SolutionSAN "Qd7 Bf4+ Kg1 Nf3+ Kg2 Rh2#"]
+[FEN "4r1k1/ppP3pp/2p3p1/4n1B1/B1P1p1P1/7r/PP3P1b/R2Q1R1K w - - 0 21"]
+[SetUp "1"]
+
+21. Qd7 Bf4+ 22. Kg1 Nf3+ 23. Kg2 Rh2# *

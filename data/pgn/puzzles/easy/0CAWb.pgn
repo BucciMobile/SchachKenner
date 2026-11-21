@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CAWb"]
+[Difficulty "easy"]
+[Rating "997"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/zBEg3fAw/black#28"]
+[Solution "e7c6 b5b7 a8d8 b7c6"]
+[SolutionSAN "Nc6 Qxb7 Rd8 Qxc6+"]
+[FEN "r3kb1r/pp2nppp/4p3/1Q1pq3/8/4B3/PP3PPP/RN3RK1 b kq - 1 14"]
+[SetUp "1"]
+
+14... Nc6 15. Qxb7 Rd8 16. Qxc6+ *

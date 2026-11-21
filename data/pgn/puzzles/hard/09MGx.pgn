@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09MGx"]
+[Difficulty "hard"]
+[Rating "2311"]
+[Themes "advantage middlegame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/ERIun43Y#49"]
+[Solution "b2b4 c8c6 a1e1 c6h6 h2h4 h6g6 e1e5 h5e5"]
+[SolutionSAN "b4 Rc6 Rae1 Rh6 h4 Rg6 Rxe5 Qxe5"]
+[FEN "1kr4r/1p4pp/p7/2p1b2q/Q2p4/N2P2P1/PPP2P1P/R4RK1 w - - 1 25"]
+[SetUp "1"]
+
+25. b4 Rc6 26. Rae1 Rh6 27. h4 Rg6 28. Rxe5 Qxe5 *

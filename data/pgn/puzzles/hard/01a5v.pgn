@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01a5v"]
+[Difficulty "hard"]
+[Rating "1898"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/NLOK8h0L#63"]
+[Solution "f4g5 g2h2"]
+[SolutionSAN "fxg5 Qh2#"]
+[FEN "4r2k/R7/1p6/5ppp/3P1P1K/4P3/PP2QPq1/2R5 w - - 0 32"]
+[SetUp "1"]
+
+32. fxg5 Qh2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00lY4"]
+[Difficulty "hard"]
+[Rating "1816"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/maqTkdnt/black#46"]
+[Solution "b6c8 f1c1 c8b6 c1c7 b7f3 c7a7"]
+[SolutionSAN "Nxc8 Rc1 Nb6 Rc7 Bxf3 Rxa7"]
+[FEN "2R3k1/rb3ppp/pn2p3/4P3/1P1P1P2/P4B2/6PP/5RK1 b - - 0 23"]
+[SetUp "1"]
+
+23... Nxc8 24. Rc1 Nb6 25. Rc7 Bxf3 26. Rxa7 *

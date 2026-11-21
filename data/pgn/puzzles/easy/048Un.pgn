@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "048Un"]
+[Difficulty "easy"]
+[Rating "1134"]
+[Themes "crushing endgame queenEndgame short skewer"]
+[GameUrl "https://lichess.org/game/CI5urSLm#87"]
+[Solution "g4f5 d1h5 f5e4 h5a5"]
+[SolutionSAN "Kf5 Qh5+ Ke4 Qxa5"]
+[FEN "6k1/6p1/8/Q7/P4PK1/6P1/8/3q4 w - - 5 44"]
+[SetUp "1"]
+
+44. Kf5 Qh5+ 45. Ke4 Qxa5 *

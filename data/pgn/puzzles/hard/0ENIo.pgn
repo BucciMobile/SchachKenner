@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ENIo"]
+[Difficulty "hard"]
+[Rating "1848"]
+[Themes "advancedPawn endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/hL5ZURQa/black#146"]
+[Solution "d2d5 c4d5 f2f1q e6e7"]
+[SolutionSAN "Rxd5+ cxd5 f1=Q e7#"]
+[FEN "3k4/3P4/P2KP3/1PPB4/2P5/8/3r1p2/8 b - - 0 73"]
+[SetUp "1"]
+
+73... Rxd5+ 74. cxd5 f1=Q 75. e7# *

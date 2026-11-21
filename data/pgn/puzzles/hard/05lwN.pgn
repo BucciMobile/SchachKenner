@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05lwN"]
+[Difficulty "hard"]
+[Rating "2043"]
+[Themes "advancedPawn crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/fGoF7Cgy/black#106"]
+[Solution "b4c5 a6a7 c5a7 b5a7 h5h4 a7b5"]
+[SolutionSAN "Bc5 a7 Bxa7 Nxa7 h4 Nb5"]
+[FEN "8/3k4/P5p1/1N1P3p/1b6/5K2/8/8 b - - 0 53"]
+[SetUp "1"]
+
+53... Bc5 54. a7 Bxa7 55. Nxa7 h4 56. Nb5 *

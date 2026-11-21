@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EQfw"]
+[Difficulty "medium"]
+[Rating "1294"]
+[Themes "crushing endgame long master masterVsMaster"]
+[GameUrl "https://lichess.org/game/EnDSCO6R/black#88"]
+[Solution "c8a6 e4e8 g8g7 f4e5 f7f6 e8e7"]
+[SolutionSAN "Ba6 Qe8+ Kg7 Be5+ f6 Qe7+"]
+[FEN "2b3k1/5p2/6p1/8/1p2QB2/1P2P2q/5P2/6K1 b - - 1 44"]
+[SetUp "1"]
+
+44... Ba6 45. Qe8+ Kg7 46. Be5+ f6 47. Qe7+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02I5f"]
+[Difficulty "easy"]
+[Rating "1196"]
+[Themes "advancedPawn endgame master mate mateIn1 oneMove promotion"]
+[GameUrl "https://lichess.org/game/MBiC54RP/black#78"]
+[Solution "e8d8 f7f8r"]
+[SolutionSAN "Kd8 f8=R#"]
+[FEN "rr2k3/2p2PQ1/2n5/2n1p1p1/2Pp4/p2P4/P4PK1/8 b - - 0 39"]
+[SetUp "1"]
+
+39... Kd8 40. f8=R# *

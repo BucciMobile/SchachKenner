@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Ihz"]
+[Difficulty "medium"]
+[Rating "1534"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/Yn4mNplG/black#24"]
+[Solution "b6c4 d3c4 e5c4 c2a4 c8d7 a4c4"]
+[SolutionSAN "Nbxc4 Bxc4 Nxc4 Qa4+ Bd7 Qxc4"]
+[FEN "r1bqk2r/p3ppbp/1n1p2p1/2pPn3/2P1P3/2NB4/P1QBNPPP/1R2K2R b Kkq - 6 12"]
+[SetUp "1"]
+
+12... Nbxc4 13. Bxc4 Nxc4 14. Qa4+ Bd7 15. Qxc4 *

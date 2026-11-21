@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01aGC"]
+[Difficulty "easy"]
+[Rating "499"]
+[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/czq7d70n/black#58"]
+[Solution "e5e8 d8e8"]
+[SolutionSAN "Qe8 Qxe8#"]
+[FEN "3Q3k/6pp/8/2p1q3/P3p3/3p3P/1rr2PP1/1R3RK1 b - - 3 29"]
+[SetUp "1"]
+
+29... Qe8 30. Qxe8# *

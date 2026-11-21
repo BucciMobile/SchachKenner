@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "037Gj"]
+[Difficulty "easy"]
+[Rating "749"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/rljLttms#53"]
+[Solution "d1d3 a5e1"]
+[SolutionSAN "Rxd3 Qe1#"]
+[FEN "2r5/p3kp2/4p3/q2pP2p/6p1/NP1b4/PQ3PPP/3R2K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Rxd3 Qe1# *

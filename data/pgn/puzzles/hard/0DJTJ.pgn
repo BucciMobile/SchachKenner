@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DJTJ"]
+[Difficulty "hard"]
+[Rating "1798"]
+[Themes "crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/mXj3u7lY/black#62"]
+[Solution "c1a3 e1e7 d8d1 g1g2 c8d8 e7c7"]
+[SolutionSAN "Ba3 Ree7 Rd1+ Kg2 Kd8 Rxc7"]
+[FEN "2kr1r2/p1p4R/1pP2p2/8/1P6/6P1/P6P/2b1R1K1 b - - 5 31"]
+[SetUp "1"]
+
+31... Ba3 32. Ree7 Rd1+ 33. Kg2 Kd8 34. Rxc7 *

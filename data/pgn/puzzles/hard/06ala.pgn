@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06ala"]
+[Difficulty "hard"]
+[Rating "1895"]
+[Themes "crushing endgame interference short"]
+[GameUrl "https://lichess.org/game/JRLLW2bi#61"]
+[Solution "c3d5 h4h3 e3f2 h3h2"]
+[SolutionSAN "Nd5 Rh3+ Kf2 Rxh2+"]
+[FEN "8/1p5p/p5p1/4kp2/7r/P1N1K3/1P1R3P/8 w - - 0 31"]
+[SetUp "1"]
+
+31. Nd5 Rh3+ 32. Kf2 Rxh2+ *

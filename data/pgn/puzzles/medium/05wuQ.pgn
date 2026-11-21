@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05wuQ"]
+[Difficulty "medium"]
+[Rating "1544"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/hgXgd1XD#39"]
+[Solution "f3h4 f6h4 h3h4 f5h4 g2g3 h4f5"]
+[SolutionSAN "Nh4 Qxh4 Qxh4 Nxh4 g3 Nf5"]
+[FEN "r5k1/pp1n1p1p/3p1qp1/2p2n2/8/3P1N1Q/PPP3PP/4RR1K w - - 2 20"]
+[SetUp "1"]
+
+20. Nh4 Qxh4 21. Qxh4 Nxh4 22. g3 Nf5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06E3J"]
+[Difficulty "medium"]
+[Rating "1404"]
+[Themes "endgame mate mateIn1 oneMove queenEndgame"]
+[GameUrl "https://lichess.org/game/mv5UOcJz#75"]
+[Solution "b8b4 f3h1"]
+[SolutionSAN "Qxb4 Qh1#"]
+[FEN "1Q6/7k/6p1/P4p1p/1p5P/1P3qPK/5P2/8 w - - 0 38"]
+[SetUp "1"]
+
+38. Qxb4 Qh1# *

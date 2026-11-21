@@ -20,6 +20,7 @@ License proofs (verbatim quotes, raw copies, SHA-256) are in `licenses/`.
 
 - Repo's own content (code, docs, this file): **CC0 1.0** — https://github.com/BucciMobile/SchachKenner/blob/main/LICENSE
 - Hosted game datasets: CC0 / CC BY-SA 4.0 / CC BY-SA 3.0 / MIT / Unlicense — per-dataset proofs in `licenses/`
+- Hosted daily puzzles (`data/pgn/puzzles/` 2,400 PGNs + `data/puzzles/` index, served by `docs/puzzles.html`): derived from the lichess puzzle export, **CC0 1.0** — `licenses/lichess-database-cc0.md`
 - Hosted books in `data/books/`: public domain (pre-1930), PD-Mark on archive.org — `licenses/books-public-domain.md`
 - Everything else is **link-only** to the original source.
 

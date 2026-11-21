@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00hA5"]
+[Difficulty "medium"]
+[Rating "1637"]
+[Themes "crushing defensiveMove endgame knightEndgame master short"]
+[GameUrl "https://lichess.org/game/JOwIOHIj/black#106"]
+[Solution "g8h6 f5e6 h6g8 e6d7"]
+[SolutionSAN "Nh6+ Ke6 Ng8 Kd7"]
+[FEN "6n1/2p3k1/1p1p2P1/p2P1K1P/P1P5/1P6/8/8 b - - 2 53"]
+[SetUp "1"]
+
+53... Nh6+ 54. Ke6 Ng8 55. Kd7 *

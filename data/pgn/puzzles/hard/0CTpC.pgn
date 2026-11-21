@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CTpC"]
+[Difficulty "hard"]
+[Rating "2060"]
+[Themes "crushing hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/GvfAw7Yd#47"]
+[Solution "a1e1 b4e1 f3g4 h7g5"]
+[SolutionSAN "Re1 Qxe1 Qg4 Ng5"]
+[FEN "4r1k1/1pp2ppn/7p/7N/pq1pN3/1P1P1QP1/P1P3KP/R7 w - - 0 24"]
+[SetUp "1"]
+
+24. Re1 Qxe1 25. Qg4 Ng5 *

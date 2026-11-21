@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0000D"]
+[Difficulty "medium"]
+[Rating "1433"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/F8M8OS71#53"]
+[Solution "d3d6 f8d8 d6d8 f6d8"]
+[SolutionSAN "Qd6 Rd8 Qxd8+ Bxd8"]
+[FEN "5rk1/1p3ppp/pq3b2/8/8/1P1Q1N2/P4PPP/3R2K1 w - - 2 27"]
+[SetUp "1"]
+
+27. Qd6 Rd8 28. Qxd8+ Bxd8 *

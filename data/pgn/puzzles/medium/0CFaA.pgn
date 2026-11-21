@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CFaA"]
+[Difficulty "medium"]
+[Rating "1553"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/pI7yC3N7#71"]
+[Solution "c1e1 e5f3 g2f3 e7e1"]
+[SolutionSAN "Re1 Nf3+ gxf3 Qxe1+"]
+[FEN "2r2k2/4q3/p5p1/1p2n3/1P1p4/PQnB4/2R2PP1/2R3K1 w - - 0 36"]
+[SetUp "1"]
+
+36. Re1 Nf3+ 37. gxf3 Qxe1+ *

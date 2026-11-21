@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07YFf"]
+[Difficulty "easy"]
+[Rating "1117"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/CEFoPmwI/black#44"]
+[Solution "c5e3 e4f6 g7f6 g2c6"]
+[SolutionSAN "Bxe3 Nxf6+ gxf6 Bxc6"]
+[FEN "5rk1/2pb1ppp/2q1pn2/2b5/2p1N3/4B1PP/1PQ2PB1/R5K1 b - - 0 22"]
+[SetUp "1"]
+
+22... Bxe3 23. Nxf6+ gxf6 24. Bxc6 *

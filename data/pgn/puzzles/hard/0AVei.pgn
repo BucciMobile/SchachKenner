@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AVei"]
+[Difficulty "hard"]
+[Rating "1873"]
+[Themes "advancedPawn advantage endgame long"]
+[GameUrl "https://lichess.org/game/N0xhwy36#77"]
+[Solution "h2g3 f5f4 g3f3 b5d4 f3f4 e3e2"]
+[SolutionSAN "Kg3 f4+ Kf3 Nd4+ Kxf4 e2"]
+[FEN "2B4k/7p/p7/1n1PPp2/8/4p2P/PP4PK/8 w - - 0 39"]
+[SetUp "1"]
+
+39. Kg3 f4+ 40. Kf3 Nd4+ 41. Kxf4 e2 *

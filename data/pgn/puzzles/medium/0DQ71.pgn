@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DQ71"]
+[Difficulty "medium"]
+[Rating "1577"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/z98dCrwG#63"]
+[Solution "d2b2 b8b2 b1b2 c4d3"]
+[SolutionSAN "Rdxb2 Rxb2+ Rxb2 Bxd3"]
+[FEN "1r4k1/6p1/7p/5p2/2b4P/3B1PP1/1p1R1K2/1Rr5 w - - 2 32"]
+[SetUp "1"]
+
+32. Rdxb2 Rxb2+ 33. Rxb2 Bxd3 *

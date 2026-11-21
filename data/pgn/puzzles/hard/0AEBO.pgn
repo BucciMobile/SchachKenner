@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AEBO"]
+[Difficulty "hard"]
+[Rating "1926"]
+[Themes "advancedPawn crushing endgame master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/TNS3Bc9R#89"]
+[Solution "g5f3 a3a2 f7g7 g4f4"]
+[SolutionSAN "Nf3 a2 Rg7+ Kxf4"]
+[FEN "8/4PR2/8/6N1/1p3Pk1/p7/4r1P1/2K5 w - - 0 45"]
+[SetUp "1"]
+
+45. Nf3 a2 46. Rg7+ Kxf4 *

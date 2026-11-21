@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04isr"]
+[Difficulty "hard"]
+[Rating "2796"]
+[Themes "advantage defensiveMove middlegame veryLong"]
+[GameUrl "https://lichess.org/game/DH95mDrg#59"]
+[Solution "b2c1 d2d4 g1h1 b8b1 a3f3 a8a6 c1h6 b1f1 f3f1 a6f6 f1c1 f6d6"]
+[SolutionSAN "Bc1 Qxd4+ Kh1 Rxb1 Qf3 Ra6 Bxh6 Rxf1+ Qxf1 Rxf6 Qc1 Rd6"]
+[FEN "rr5k/4Np1p/5Ppb/8/p2P4/Q7/1B1q2PP/1R3RK1 w - - 2 30"]
+[SetUp "1"]
+
+30. Bc1 Qxd4+ 31. Kh1 Rxb1 32. Qf3 Ra6 33. Bxh6 Rxf1+ 34. Qxf1 Rxf6 35. Qc1 Rd6 *

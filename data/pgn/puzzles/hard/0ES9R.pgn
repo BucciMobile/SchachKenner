@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ES9R"]
+[Difficulty "hard"]
+[Rating "1843"]
+[Themes "clearance crushing middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/t8BW2eba#51"]
+[Solution "f1d1 f5g5 h4g5 f6f3"]
+[SolutionSAN "Rd1 Rxg5 hxg5 Qf3"]
+[FEN "r5k1/p2p2p1/2b1pqp1/5rNp/2P4P/1P4P1/P1Q1RP2/5RK1 w - - 4 26"]
+[SetUp "1"]
+
+26. Rd1 Rxg5 27. hxg5 Qf3 *

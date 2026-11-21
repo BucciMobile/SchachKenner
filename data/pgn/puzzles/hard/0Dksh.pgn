@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dksh"]
+[Difficulty "hard"]
+[Rating "1973"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/zJfP91Yt#119"]
+[Solution "f7g7 g4f3 g7f7 f3g2"]
+[SolutionSAN "Rg7+ Kf3 Rf7+ Kg2"]
+[FEN "8/5R2/8/7P/6k1/3K2p1/8/7r w - - 2 60"]
+[SetUp "1"]
+
+60. Rg7+ Kf3 61. Rf7+ Kg2 *

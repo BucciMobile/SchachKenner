@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BBu7"]
+[Difficulty "hard"]
+[Rating "2079"]
+[Themes "crushing long middlegame pin"]
+[GameUrl "https://lichess.org/game/OGhlsdnE/black#46"]
+[Solution "a8b8 h5g5 f7f6 b2f6 a5c7 f6e5"]
+[SolutionSAN "Rab8 Qg5 f6 Bxf6 Qc7 Be5"]
+[FEN "r3r1k1/1p3ppp/p3b3/q1p4Q/2P4P/1P1p1B2/PB1P2P1/1K1R4 b - - 2 23"]
+[SetUp "1"]
+
+23... Rab8 24. Qg5 f6 25. Bxf6 Qc7 26. Be5 *

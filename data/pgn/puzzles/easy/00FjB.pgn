@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00FjB"]
+[Difficulty "easy"]
+[Rating "878"]
+[Themes "doubleBishopMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/r1BPO2dx/black#26"]
+[Solution "h8f8 c1g5"]
+[SolutionSAN "Rf8 Bg5#"]
+[FEN "rnbk3r/pppp1Bpp/8/5p2/4p3/2PP4/P1P2PPP/R1B1K2R b KQ - 0 13"]
+[SetUp "1"]
+
+13... Rf8 14. Bg5# *

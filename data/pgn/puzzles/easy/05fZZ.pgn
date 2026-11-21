@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05fZZ"]
+[Difficulty "easy"]
+[Rating "1139"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/47MtdMFT#57"]
+[Solution "b3f7 e4e1"]
+[SolutionSAN "Qxf7 Re1#"]
+[FEN "7k/1p3qp1/pbp4p/2P5/4r3/1Q3P2/P1P3PP/7K w - - 0 29"]
+[SetUp "1"]
+
+29. Qxf7 Re1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Fgr"]
+[Difficulty "hard"]
+[Rating "1864"]
+[Themes "crushing endgame short trappedPiece"]
+[GameUrl "https://lichess.org/game/uFWP7kjD/black#46"]
+[Solution "c7d7 e6e7 d7e7 e3e7"]
+[SolutionSAN "Qd7 Re7 Qxe7 Qxe7"]
+[FEN "2kr3r/2q3pp/p2pR3/1p1P1p2/3P4/NP2Q1P1/P4P2/3K4 b - - 1 23"]
+[SetUp "1"]
+
+23... Qd7 24. Re7 Qxe7 25. Qxe7 *

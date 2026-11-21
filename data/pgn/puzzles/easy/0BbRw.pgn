@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BbRw"]
+[Difficulty "easy"]
+[Rating "1106"]
+[Themes "mate mateIn1 middlegame oneMove operaMate vukovicMate"]
+[GameUrl "https://lichess.org/game/lV62lhzw/black#40"]
+[Solution "d8c8 e7c7"]
+[SolutionSAN "Kc8 Rc7#"]
+[FEN "r2k2r1/4R1p1/pnNB1nbp/8/8/2P5/PP3PPP/R2K4 b - - 0 20"]
+[SetUp "1"]
+
+20... Kc8 21. Rc7# *

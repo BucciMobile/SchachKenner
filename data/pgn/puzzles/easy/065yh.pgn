@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "065yh"]
+[Difficulty "easy"]
+[Rating "587"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/AMQWJnOK#143"]
+[Solution "a2e2 b4b1 e2e1 b1e1"]
+[SolutionSAN "Rxe2 Rb1+ Re1 Rxe1#"]
+[FEN "8/7p/8/PP6/1r6/6k1/R3b3/6K1 w - - 1 72"]
+[SetUp "1"]
+
+72. Rxe2 Rb1+ 73. Re1 Rxe1# *

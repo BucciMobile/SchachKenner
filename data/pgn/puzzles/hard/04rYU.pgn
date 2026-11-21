@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04rYU"]
+[Difficulty "hard"]
+[Rating "2785"]
+[Themes "crushing middlegame pin sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/pcg5gApp/black#32"]
+[Solution "h4g5 h1h7 g8h7 f3f7 g5e3 f2e3 c8h3 d1h1 d8c8 f7h5 h7g8 h1h3"]
+[SolutionSAN "Bg5 Rxh7 Kxh7 Qf7 Bxe3+ fxe3 Bh3 Rh1 Qc8 Qh5+ Kg8 Rxh3"]
+[FEN "r1bq2k1/1np3pp/1p1p4/p2P4/3P3b/4BQP1/PPP2P2/2KR3R b - - 0 16"]
+[SetUp "1"]
+
+16... Bg5 17. Rxh7 Kxh7 18. Qf7 Bxe3+ 19. fxe3 Bh3 20. Rh1 Qc8 21. Qh5+ Kg8 22. Rxh3 *

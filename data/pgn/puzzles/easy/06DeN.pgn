@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06DeN"]
+[Difficulty "easy"]
+[Rating "1055"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/PutGoKG6#63"]
+[Solution "f3h3 e6h3 a7a8 g8h7"]
+[SolutionSAN "Qxh3 Qxh3 Ra8+ Kh7"]
+[FEN "6k1/R4pp1/3pq2p/6r1/1P6/P3PQ1r/3R1PP1/6K1 w - - 0 32"]
+[SetUp "1"]
+
+32. Qxh3 Qxh3 33. Ra8+ Kh7 *

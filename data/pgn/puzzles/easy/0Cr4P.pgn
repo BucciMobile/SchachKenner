@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cr4P"]
+[Difficulty "easy"]
+[Rating "423"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/oIjXCc21/black#40"]
+[Solution "a8a2 c3c8"]
+[SolutionSAN "Rxa2 Rc8#"]
+[FEN "r5k1/1p3ppp/1p2p3/1B1pP3/4bP2/1PR1P3/R5PP/6K1 b - - 0 20"]
+[SetUp "1"]
+
+20... Rxa2 21. Rc8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02SDA"]
+[Difficulty "easy"]
+[Rating "1091"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/mQUePY13/black#30"]
+[Solution "f8g8 g5h6 f6h7 h6h7"]
+[SolutionSAN "Rg8 Qh6+ Nh7 Qxh7#"]
+[FEN "r2q1r1k/1bpnpp2/pp1p1n2/4P1QP/3P4/2NB4/PPP2PP1/R3K2R b KQ - 0 15"]
+[SetUp "1"]
+
+15... Rg8 16. Qh6+ Nh7 17. Qxh7# *

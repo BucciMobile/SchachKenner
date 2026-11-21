@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0257T"]
+[Difficulty "medium"]
+[Rating "1463"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/j2ohZNAv/black#36"]
+[Solution "f6e5 f1f8"]
+[SolutionSAN "Bxe5 Rxf8#"]
+[FEN "r2qnr1k/pppb2pp/2n2b1B/3NN3/8/P5QP/1PP1B1P1/R4RK1 b - - 0 18"]
+[SetUp "1"]
+
+18... Bxe5 19. Rxf8# *

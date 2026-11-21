@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DOIB"]
+[Difficulty "hard"]
+[Rating "2007"]
+[Themes "crushing defensiveMove endgame long queenEndgame quietMove"]
+[GameUrl "https://lichess.org/game/R9mKQMcW#79"]
+[Solution "d4e4 b7e4 f3e4 g5g4 g2f1 g6f6"]
+[SolutionSAN "Qe4+ Qxe4 fxe4 g4 Kf1 Kf6"]
+[FEN "8/1q3p2/6kp/6p1/3Q4/4PPP1/6KP/8 w - - 1 40"]
+[SetUp "1"]
+
+40. Qe4+ Qxe4 41. fxe4 g4 42. Kf1 Kf6 *

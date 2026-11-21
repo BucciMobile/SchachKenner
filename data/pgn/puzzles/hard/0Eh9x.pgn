@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Eh9x"]
+[Difficulty "hard"]
+[Rating "2135"]
+[Themes "clearance endgame equality short"]
+[GameUrl "https://lichess.org/game/fF91m0a9/black#42"]
+[Solution "g7g6 e8h8 f7g7 e1e8"]
+[SolutionSAN "g6 Rh8 Kg7 Ree8"]
+[FEN "r2nR3/p1pr1kp1/1p3p1p/2p2P2/6P1/2P5/PP5P/4R1K1 b - - 0 21"]
+[SetUp "1"]
+
+21... g6 22. Rh8 Kg7 23. Ree8 *

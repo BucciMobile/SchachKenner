@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05gck"]
+[Difficulty "medium"]
+[Rating "1611"]
+[Themes "crushing kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/sBm8Md2J#37"]
+[Solution "b2d4 e8e2 d4b6 e2e1 a1e1 d7b6"]
+[SolutionSAN "Qd4 Rxe2 Qxb6 Rxe1+ Rxe1 Nxb6"]
+[FEN "r3r1k1/3n1pp1/1qp2n1p/1p1p4/7P/PP1P2P1/1Q2NPB1/R3R1K1 w - - 1 19"]
+[SetUp "1"]
+
+19. Qd4 Rxe2 20. Qxb6 Rxe1+ 21. Rxe1 Nxb6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AxyD"]
+[Difficulty "easy"]
+[Rating "685"]
+[Themes "advantage kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/uvfJxlhL/black#38"]
+[Solution "f7f6 e5e8 a8e8 e1e8"]
+[SolutionSAN "f6 Rxe8+ Rxe8 Rxe8+"]
+[FEN "r3r1k1/p2p1p1p/1pp3p1/4Rnq1/3P4/2P2Q2/PPB2PPP/4R1K1 b - - 3 19"]
+[SetUp "1"]
+
+19... f6 20. Rxe8+ Rxe8 21. Rxe8+ *

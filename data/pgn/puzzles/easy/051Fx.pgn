@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "051Fx"]
+[Difficulty "easy"]
+[Rating "415"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/SdWW04po/black#94"]
+[Solution "f4d2 c5c8 f7f8 c8f8"]
+[SolutionSAN "Bd2 Rc8+ Rf8 Rxf8#"]
+[FEN "7k/p4rp1/8/2R2Bp1/5bP1/2p2K2/P7/8 b - - 1 47"]
+[SetUp "1"]
+
+47... Bd2 48. Rc8+ Rf8 49. Rxf8# *

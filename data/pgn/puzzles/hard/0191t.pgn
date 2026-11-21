@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0191t"]
+[Difficulty "hard"]
+[Rating "1712"]
+[Themes "crushing discoveredAttack endgame long"]
+[GameUrl "https://lichess.org/game/HGBswAqB#65"]
+[Solution "e1e3 h5h4 g3f3 f5b1 g1h2 f7f3"]
+[SolutionSAN "Re3 h4 Qf3 Qb1+ Kh2 Rxf3"]
+[FEN "6k1/1p3r2/p1p1p3/4Pqpp/3P4/1P4QP/P4PP1/4R1K1 w - - 0 33"]
+[SetUp "1"]
+
+33. Re3 h4 34. Qf3 Qb1+ 35. Kh2 Rxf3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04cNE"]
+[Difficulty "hard"]
+[Rating "2028"]
+[Themes "crushing defensiveMove long middlegame"]
+[GameUrl "https://lichess.org/game/BhbE9con/black#48"]
+[Solution "c8a6 e2f3 h1d1 f3g3 d1d6 c3e5"]
+[SolutionSAN "Ba6+ Kf3 Qd1+ Kg3 Qd6+ Be5"]
+[FEN "r1b2r2/p1p2p1k/2p1pQ2/6p1/6N1/2B5/P1P1KPP1/7q b - - 3 24"]
+[SetUp "1"]
+
+24... Ba6+ 25. Kf3 Qd1+ 26. Kg3 Qd6+ 27. Be5 *

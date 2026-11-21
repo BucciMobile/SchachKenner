@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Ulb"]
+[Difficulty "easy"]
+[Rating "612"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/pqt0GU3v/black#72"]
+[Solution "b2a2 d1d8"]
+[SolutionSAN "Ra2 Rd8#"]
+[FEN "6k1/P1p2ppp/4p3/8/2n5/7P/1r4P1/3RK3 b - - 0 36"]
+[SetUp "1"]
+
+36... Ra2 37. Rd8# *

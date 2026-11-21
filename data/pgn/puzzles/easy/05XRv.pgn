@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05XRv"]
+[Difficulty "easy"]
+[Rating "466"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/E6HRmuBi#79"]
+[Solution "b6a4 b8b1 c4c1 b1c1"]
+[SolutionSAN "Nxa4 Rb1+ Rc1 Rxc1#"]
+[FEN "1r6/6pp/1N6/p7/n1R5/5k2/5P1P/6K1 w - - 2 40"]
+[SetUp "1"]
+
+40. Nxa4 Rb1+ 41. Rc1 Rxc1# *

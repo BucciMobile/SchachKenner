@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cadi"]
+[Difficulty "hard"]
+[Rating "2167"]
+[Themes "endgame knightEndgame mate mateIn2 quietMove short"]
+[GameUrl "https://lichess.org/game/K7qvdJ05/black#108"]
+[Solution "h6h5 c3d1 g7g6 d1e3"]
+[SolutionSAN "h5 Nd1 g6 Ne3#"]
+[FEN "8/6p1/7p/4p3/4P1kP/2N3P1/3n2K1/8 b - - 9 54"]
+[SetUp "1"]
+
+54... h5 55. Nd1 g6 56. Ne3# *

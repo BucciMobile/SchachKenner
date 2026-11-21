@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CkNo"]
+[Difficulty "hard"]
+[Rating "2434"]
+[Themes "crushing endgame long pin"]
+[GameUrl "https://lichess.org/game/ZFKITr1D/black#62"]
+[Solution "f2f6 e6e7 g6h5 e7g7 f6g6 g8e8"]
+[SolutionSAN "Rf6 Re7 Kh5 Rxg7 Rg6 Qe8"]
+[FEN "6Q1/1p4p1/2p1R1kp/p5q1/8/1PP5/1KP2r2/8 b - - 3 31"]
+[SetUp "1"]
+
+31... Rf6 32. Re7 Kh5 33. Rxg7 Rg6 34. Qe8 *

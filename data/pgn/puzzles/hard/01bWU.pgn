@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01bWU"]
+[Difficulty "hard"]
+[Rating "2734"]
+[Themes "advantage endgame pawnEndgame quietMove veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/aUFPa2OM/black#90"]
+[Solution "e7d6 f3e4 a5a4 a2a3 f7f6 e4f5 d6d5 f5g6 d5d4 g6h6"]
+[SolutionSAN "Kd6 Ke4 a4 a3 f6 Kf5 Kxd5 Kg6 Kd4 Kxh6"]
+[FEN "8/4kp2/7p/p2Pp1pP/2p3P1/5K2/PP3P2/8 b - - 2 45"]
+[SetUp "1"]
+
+45... Kd6 46. Ke4 a4 47. a3 f6 48. Kf5 Kxd5 49. Kg6 Kd4 50. Kxh6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01749"]
+[Difficulty "easy"]
+[Rating "548"]
+[Themes "endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/OVh3Rgxm/black#64"]
+[Solution "c8c4 a1a8 b3b8 a8b8 c4c8 b8c8"]
+[SolutionSAN "Rxc4 Ra8+ Rb8 Rxb8+ Rc8 Rxc8#"]
+[FEN "2r3k1/5ppp/4p3/3n4/2QB4/1r4P1/5PKP/R2q4 b - - 1 32"]
+[SetUp "1"]
+
+32... Rxc4 33. Ra8+ Rb8 34. Rxb8+ Rc8 35. Rxc8# *

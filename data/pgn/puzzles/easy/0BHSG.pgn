@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BHSG"]
+[Difficulty "easy"]
+[Rating "580"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[GameUrl "https://lichess.org/game/kppBiVfT/black#80"]
+[Solution "f4g3 b4b5 f5f4 b5b6 g3g2 b6b7 f4f3 b7b8q"]
+[SolutionSAN "Kg3 b5 f4 b6 Kg2 b7 f3 b8=Q"]
+[FEN "8/5p2/8/5p2/1P3k2/2K5/8/8 b - - 0 40"]
+[SetUp "1"]
+
+40... Kg3 41. b5 f4 42. b6 Kg2 43. b7 f3 44. b8=Q *

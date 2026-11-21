@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A0jY"]
+[Difficulty "hard"]
+[Rating "2202"]
+[Themes "crushing discoveredAttack discoveredCheck interference kingsideAttack middlegame veryLong"]
+[GameUrl "https://lichess.org/game/lnssEecw#39"]
+[Solution "h3g4 h5g4 h1g1 b8h2 g1f2 h2f4 f2e1 f4c1"]
+[SolutionSAN "hxg4 hxg4+ Kg1 Qh2+ Kf2 Qf4+ Ke1 Qxc1+"]
+[FEN "rqb1k2r/3p2p1/p3pp2/1p3P1p/4P1n1/P1N4P/BP2Q1P1/2R2R1K w kq - 1 20"]
+[SetUp "1"]
+
+20. hxg4 hxg4+ 21. Kg1 Qh2+ 22. Kf2 Qf4+ 23. Ke1 Qxc1+ *

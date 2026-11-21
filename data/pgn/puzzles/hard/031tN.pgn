@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "031tN"]
+[Difficulty "hard"]
+[Rating "2564"]
+[Themes "advantage kingsideAttack long opening"]
+[GameUrl "https://lichess.org/game/fRuCare2/black#24"]
+[Solution "g6f5 d1h5 h7h6 g5f7 f8f7 b3f7"]
+[SolutionSAN "gxf5 Qh5 h6 Nxf7 Rxf7 Bxf7+"]
+[FEN "r2q1rk1/1bppnpbp/p5p1/1p3PN1/3nP3/1B6/PP4PP/RNBQ1RK1 b - - 0 12"]
+[SetUp "1"]
+
+12... gxf5 13. Qh5 h6 14. Nxf7 Rxf7 15. Bxf7+ *

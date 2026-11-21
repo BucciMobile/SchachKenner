@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Bna"]
+[Difficulty "easy"]
+[Rating "784"]
+[Themes "advantage endgame long master rookEndgame"]
+[GameUrl "https://lichess.org/game/m51eTxXL/black#80"]
+[Solution "h4h3 f5f6 g6g7 f6f7 g7g8 f7f8"]
+[SolutionSAN "Rxh3 Rf6+ Kg7 Rf7+ Kg8 Rf8+"]
+[FEN "7r/2p5/1p1p2k1/pP1PpRp1/P1P3Pr/7P/6K1/5R2 b - - 12 40"]
+[SetUp "1"]
+
+40... Rxh3 41. Rf6+ Kg7 42. Rf7+ Kg8 43. Rf8+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Jo4"]
+[Difficulty "hard"]
+[Rating "2045"]
+[Themes "crushing endgame master quietMove veryLong"]
+[GameUrl "https://lichess.org/game/DWkxb2GI/black#96"]
+[Solution "e7e6 d1h1 f8c5 h2h8 b2b4 f4g3 b4g4 g3f3 f5e4 f3g4 e4h1 h8h1"]
+[SolutionSAN "e6 Rdh1 Bc5 Rh8 Rb4+ Kg3 Rg4+ Kf3 Be4+ Kxg4 Bxh1 Rxh1"]
+[FEN "5b2/4ppk1/6p1/4PbP1/5K2/2p5/prP4R/N2R4 b - - 4 48"]
+[SetUp "1"]
+
+48... e6 49. Rdh1 Bc5 50. Rh8 Rb4+ 51. Kg3 Rg4+ 52. Kf3 Be4+ 53. Kxg4 Bxh1 54. Rxh1 *

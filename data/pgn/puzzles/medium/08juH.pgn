@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08juH"]
+[Difficulty "medium"]
+[Rating "1513"]
+[Themes "advancedPawn advantage endgame fork long"]
+[GameUrl "https://lichess.org/game/TZctnBC9/black#78"]
+[Solution "g8g7 d6d7 e5d7 d5d7 g7f6 d7e8"]
+[SolutionSAN "Kg7 d7 Nxd7 Qxd7+ Kf6 Qxe8"]
+[FEN "4r1k1/8/pp1P2pp/3Qnp2/8/2P5/PPB5/1KN2q2 b - - 2 39"]
+[SetUp "1"]
+
+39... Kg7 40. d7 Nxd7 41. Qxd7+ Kf6 42. Qxe8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Mmj"]
+[Difficulty "medium"]
+[Rating "1500"]
+[Themes "crushing defensiveMove long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/Gz0nfbeh#53"]
+[Solution "b1a1 a8a1 g1g2 e8e1 h4d8 d6f8"]
+[SolutionSAN "Rxa1 Qxa1+ Kg2 Re1 Qd8+ Bf8"]
+[FEN "q3r1k1/5p1p/3b2p1/3P4/2P2B1Q/3R1P2/5P1P/rR4K1 w - - 9 27"]
+[SetUp "1"]
+
+27. Rxa1 Qxa1+ 28. Kg2 Re1 29. Qd8+ Bf8 *

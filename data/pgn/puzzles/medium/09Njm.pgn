@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Njm"]
+[Difficulty "medium"]
+[Rating "1215"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/Z9segEMe/black#40"]
+[Solution "g7h7 h5h7 g8f8 h7f7"]
+[SolutionSAN "Rxh7 Qxh7+ Kf8 Qf7#"]
+[FEN "r2qn1k1/pppb2rR/4pbB1/7Q/8/2N3P1/PPP2P1P/R5K1 b - - 6 20"]
+[SetUp "1"]
+
+20... Rxh7 21. Qxh7+ Kf8 22. Qf7# *

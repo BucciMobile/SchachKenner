@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03vXm"]
+[Difficulty "easy"]
+[Rating "1102"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/HRcvRm5u/black#62"]
+[Solution "a4b5 c3c7 c8c7 c1c7"]
+[SolutionSAN "Bb5 Rxc7 Rxc7 Rxc7"]
+[FEN "2r2kr1/p1p3q1/1p1p1pBp/3PpP2/bP4PQ/P1R4P/7K/2R5 b - - 5 31"]
+[SetUp "1"]
+
+31... Bb5 32. Rxc7 Rxc7 33. Rxc7 *

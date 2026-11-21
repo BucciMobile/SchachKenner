@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03iDV"]
+[Difficulty "hard"]
+[Rating "1868"]
+[Themes "advancedPawn bishopEndgame crushing endgame promotion quietMove veryLong"]
+[GameUrl "https://lichess.org/game/WGOdiB6P/black#122"]
+[Solution "g6h5 f4f5 h5h4 f5f6 h4h3 f6f7 h3h2 f7f8q h2h1q f8c8 h1e4 e5d6"]
+[SolutionSAN "gxh5 f5 h4 f6 h3 f7 h2 f8=Q h1=Q Qxc8 Qe4+ Kd6"]
+[FEN "2b5/2P4p/6p1/4K2P/5P2/4k3/8/8 b - - 0 61"]
+[SetUp "1"]
+
+61... gxh5 62. f5 h4 63. f6 h3 64. f7 h2 65. f8=Q h1=Q 66. Qxc8 Qe4+ 67. Kd6 *

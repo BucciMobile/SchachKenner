@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Tio"]
+[Difficulty "medium"]
+[Rating "1480"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/DwKYA2IJ/black#102"]
+[Solution "g5g4 d7d4 g4g3 d4c4 c5c7 c4c7"]
+[SolutionSAN "Kg4 Rd4+ Kg3 Rc4 Rxc7 Rxc7"]
+[FEN "8/2PR4/6p1/2r2pk1/8/3K4/8/8 b - - 6 51"]
+[SetUp "1"]
+
+51... Kg4 52. Rd4+ Kg3 53. Rc4 Rxc7 54. Rxc7 *

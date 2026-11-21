@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05dji"]
+[Difficulty "medium"]
+[Rating "1516"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/LZbswrbg#77"]
+[Solution "e3d4 b3d1 g1f2 d1d4"]
+[SolutionSAN "Bd4 Qd1+ Kf2 Qxd4+"]
+[FEN "5n1k/R7/p4p2/3B3p/2p2N2/1q2B2b/4R2P/6K1 w - - 0 39"]
+[SetUp "1"]
+
+39. Bd4 Qd1+ 40. Kf2 Qxd4+ *

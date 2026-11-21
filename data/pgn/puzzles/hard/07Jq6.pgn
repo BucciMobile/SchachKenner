@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Jq6"]
+[Difficulty "hard"]
+[Rating "2031"]
+[Themes "bishopEndgame crushing endgame short"]
+[GameUrl "https://lichess.org/game/F1yKQBE4/black#86"]
+[Solution "a5a4 b3a4 b5a4 d5c4"]
+[SolutionSAN "a4 bxa4+ Kxa4 Kc4"]
+[FEN "8/8/5p2/pkpK2p1/3b2P1/1P5P/8/4B3 b - - 3 43"]
+[SetUp "1"]
+
+43... a4 44. bxa4+ Kxa4 45. Kc4 *

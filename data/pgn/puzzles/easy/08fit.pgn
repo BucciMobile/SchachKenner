@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08fit"]
+[Difficulty "easy"]
+[Rating "433"]
+[Themes "kingsideAttack mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/xY4AeLpW#19"]
+[Solution "f3g5 d6h2"]
+[SolutionSAN "Ng5 Qxh2#"]
+[FEN "r1b2rk1/ppp2ppp/2nq4/3p4/3P2n1/2NB1N2/PPP2PPP/R2Q1RK1 w - - 6 10"]
+[SetUp "1"]
+
+10. Ng5 Qxh2# *

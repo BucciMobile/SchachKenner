@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "074wx"]
+[Difficulty "hard"]
+[Rating "2280"]
+[Themes "crushing enPassant master middlegame quietMove short"]
+[GameUrl "https://lichess.org/game/PWns1PpZ/black#44"]
+[Solution "d5a5 h3f3 f7f5 e5f6"]
+[SolutionSAN "Qa5 Rf3 f5 exf6"]
+[FEN "4r1k1/pp2bp1p/4p1pB/3qP3/1nr1BQ2/7R/PP3PPP/4R1K1 b - - 4 22"]
+[SetUp "1"]
+
+22... Qa5 23. Rf3 f5 24. exf6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0433g"]
+[Difficulty "hard"]
+[Rating "1849"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/Et37bg2r#57"]
+[Solution "h4g5 f3h5 h2g1 f4f3"]
+[SolutionSAN "hxg5 Qh5+ Kg1 f3"]
+[FEN "2r2rk1/6p1/N1p4p/3p2n1/5p1P/1P2PqP1/P1Q2P1K/2R2R2 w - - 0 29"]
+[SetUp "1"]
+
+29. hxg5 Qh5+ 30. Kg1 f3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08nsy"]
+[Difficulty "easy"]
+[Rating "710"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/XStpCLoA/black#54"]
+[Solution "a5a4 d4g7"]
+[SolutionSAN "a4 Qxg7#"]
+[FEN "1r1r2k1/3q1pp1/7p/p2p4/1bPQn3/4PN1P/RB3PP1/5RK1 b - - 4 27"]
+[SetUp "1"]
+
+27... a4 28. Qxg7# *

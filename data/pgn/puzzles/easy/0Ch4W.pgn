@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ch4W"]
+[Difficulty "easy"]
+[Rating "822"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/H2D9JWcS/black#48"]
+[Solution "a8c8 c2c8 d8c8 c1c8"]
+[SolutionSAN "Rac8 Qxc8 Rxc8 Rxc8+"]
+[FEN "r2r2k1/3nqppp/p3p3/1p2P3/8/5N1P/PPQ2PP1/2R1R1K1 b - - 4 24"]
+[SetUp "1"]
+
+24... Rac8 25. Qxc8 Rxc8 26. Rxc8+ *

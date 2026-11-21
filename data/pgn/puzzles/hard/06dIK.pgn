@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06dIK"]
+[Difficulty "hard"]
+[Rating "1889"]
+[Themes "advancedPawn crushing endgame master promotion short"]
+[GameUrl "https://lichess.org/game/qUMWW13H#91"]
+[Solution "b3b2 c2c1q b2f2 c1c6"]
+[SolutionSAN "Rxb2 c1=Q Rxf2 Qc6+"]
+[FEN "8/2k2P2/4K3/8/4P3/1R6/1pp2r2/8 w - - 0 46"]
+[SetUp "1"]
+
+46. Rxb2 c1=Q 47. Rxf2 Qc6+ *

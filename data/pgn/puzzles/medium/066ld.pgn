@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "066ld"]
+[Difficulty "medium"]
+[Rating "1252"]
+[Themes "advantage deflection discoveredCheck doubleCheck endgame short"]
+[GameUrl "https://lichess.org/game/ePT7GGwS/black#90"]
+[Solution "d4f5 c4d6 e4f3 d6f5"]
+[SolutionSAN "Nf5 Nxd6+ Kf3 Nxf5"]
+[FEN "7r/6p1/3p4/4p1P1/R1Nnk3/2r5/5P1p/R6K b - - 1 45"]
+[SetUp "1"]
+
+45... Nf5 46. Nxd6+ Kf3 47. Nxf5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EC8S"]
+[Difficulty "hard"]
+[Rating "1835"]
+[Themes "advancedPawn endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/YYomljHz/black#92"]
+[Solution "a4c4 h6h7 g8h8 g5f6"]
+[SolutionSAN "Rc4 h7+ Kh8 Bf6#"]
+[FEN "6k1/2R5/b3p1pP/4P1B1/r4P2/4K3/2p5/8 b - - 2 46"]
+[SetUp "1"]
+
+46... Rc4 47. h7+ Kh8 48. Bf6# *

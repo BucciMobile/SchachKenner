@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01lqX"]
+[Difficulty "medium"]
+[Rating "1355"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/44CAPUrr/black#106"]
+[Solution "c3c2 h1h3 b3c4 b6c6 c4d5 c6c2"]
+[SolutionSAN "Rcc2 Rh3+ Kc4 Rc6+ Kd5 Rxc2"]
+[FEN "8/8/1R5P/8/1p6/1kr5/r7/1K5R b - - 4 53"]
+[SetUp "1"]
+
+53... Rcc2 54. Rh3+ Kc4 55. Rc6+ Kd5 56. Rxc2 *

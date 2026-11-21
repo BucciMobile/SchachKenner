@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02FYq"]
+[Difficulty "medium"]
+[Rating "1526"]
+[Themes "mate mateIn2 middlegame queensideAttack sacrifice short"]
+[GameUrl "https://lichess.org/game/ag1ROex4#63"]
+[Solution "b1c1 a2a1 b3a1 a8a1"]
+[SolutionSAN "Kc1 Qa1+ Nxa1 Rxa1#"]
+[FEN "r4rk1/4Qp2/3p2p1/3P2Pp/2nB3P/1N6/qPP5/1K1R1R2 w - - 1 32"]
+[SetUp "1"]
+
+32. Kc1 Qa1+ 33. Nxa1 Rxa1# *

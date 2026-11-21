@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Edti"]
+[Difficulty "medium"]
+[Rating "1459"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/mR0DykPj/black#56"]
+[Solution "c7e5 f5f8"]
+[SolutionSAN "Qe5 Qf8#"]
+[FEN "8/1pq3kp/p5p1/2B2Q1b/2P2b1P/1P1P4/P3r3/1K4R1 b - - 0 28"]
+[SetUp "1"]
+
+28... Qe5 29. Qf8# *

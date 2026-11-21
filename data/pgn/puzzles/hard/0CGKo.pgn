@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CGKo"]
+[Difficulty "hard"]
+[Rating "2141"]
+[Themes "advantage endgame fork long sacrifice"]
+[GameUrl "https://lichess.org/game/5QrvS6qT#49"]
+[Solution "a3c3 e8e1 c3e1 b1b5 e1e2 b5d7"]
+[SolutionSAN "Qc3 Rxe1+ Qxe1 Qb5+ Qe2 Qxd7"]
+[FEN "4r1k1/pp1R1ppp/8/2p5/8/Q7/5PPP/1q2BK2 w - - 3 25"]
+[SetUp "1"]
+
+25. Qc3 Rxe1+ 26. Qxe1 Qb5+ 27. Qe2 Qxd7 *

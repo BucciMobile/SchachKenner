@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03D2V"]
+[Difficulty "easy"]
+[Rating "1155"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/o5c1UsSN#51"]
+[Solution "g4h4 d2f3 g1f1 f3h4"]
+[SolutionSAN "Qh4 Nf3+ Kf1 Nxh4"]
+[FEN "5kr1/p1q2p2/1p2p3/2p5/6Q1/P1P4P/3n1PP1/3RR1K1 w - - 3 26"]
+[SetUp "1"]
+
+26. Qh4 Nf3+ 27. Kf1 Nxh4 *

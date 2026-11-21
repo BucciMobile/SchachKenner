@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cbss"]
+[Difficulty "medium"]
+[Rating "1527"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/1Vywly1i#73"]
+[Solution "d3f4 g5f4 g3f4 d4e3"]
+[SolutionSAN "Nxf4 gxf4+ Kxf4 dxe3"]
+[FEN "r7/5pk1/1p1r3p/5PpP/P2p1nP1/1P1NR1K1/8/3R4 w - - 0 37"]
+[SetUp "1"]
+
+37. Nxf4 gxf4+ 38. Kxf4 dxe3 *

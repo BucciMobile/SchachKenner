@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03e8L"]
+[Difficulty "hard"]
+[Rating "1728"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/xzr5z6JW#85"]
+[Solution "f3d2 e8d8 d3c3 d8d2"]
+[SolutionSAN "Nd2 Rd8+ Kc3 Rxd2"]
+[FEN "4r3/p7/1b6/4Pkpp/4R3/3K1NPP/PP6/8 w - - 1 43"]
+[SetUp "1"]
+
+43. Nd2 Rd8+ 44. Kc3 Rxd2 *

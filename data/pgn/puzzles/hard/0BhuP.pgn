@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BhuP"]
+[Difficulty "hard"]
+[Rating "2165"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/YVa2Kaq2/black#68"]
+[Solution "a3a2 b7g7 g8f8 e5d7 f8e8 f6f7"]
+[SolutionSAN "a2 Rg7+ Kf8 Nd7+ Ke8 f7+"]
+[FEN "r5k1/1R5p/5P2/1p2N3/8/p1n5/7P/6K1 b - - 0 34"]
+[SetUp "1"]
+
+34... a2 35. Rg7+ Kf8 36. Nd7+ Ke8 37. f7+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "082Zg"]
+[Difficulty "hard"]
+[Rating "2007"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/ZH57D7TE/black#74"]
+[Solution "d8f8 e7e6 g8h8 e6d6"]
+[SolutionSAN "Rf8 Qe6+ Kh8 Qd6"]
+[FEN "3r2k1/4Q1p1/p5P1/6K1/2P3p1/1P3b2/P6r/8 b - - 1 37"]
+[SetUp "1"]
+
+37... Rf8 38. Qe6+ Kh8 39. Qd6 *

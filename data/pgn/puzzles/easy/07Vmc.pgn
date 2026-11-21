@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Vmc"]
+[Difficulty "easy"]
+[Rating "724"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+[GameUrl "https://lichess.org/game/yvDKkZHC#91"]
+[Solution "f4f5 a4a3 d4d5 a3a2 f5f6 a2a1q"]
+[SolutionSAN "f5 a3 Kd5 a2 f6 a1=Q"]
+[FEN "8/1p6/8/8/pk1K1P2/8/6P1/8 w - - 0 46"]
+[SetUp "1"]
+
+46. f5 a3 47. Kd5 a2 48. f6 a1=Q *

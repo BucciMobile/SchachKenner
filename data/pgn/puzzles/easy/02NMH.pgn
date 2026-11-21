@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02NMH"]
+[Difficulty "easy"]
+[Rating "1135"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/85StwTc7#55"]
+[Solution "d3g6 d4h4"]
+[SolutionSAN "Bxg6 Rh4#"]
+[FEN "7k/p5b1/1p2p1p1/2q1P3/3r4/3B4/P3Q1P1/3R3K w - - 1 28"]
+[SetUp "1"]
+
+28. Bxg6 Rh4# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GpY2"]
+[Difficulty "medium"]
+[Rating "1494"]
+[Themes "crushing hangingPiece long master middlegame"]
+[GameUrl "https://lichess.org/game/eXNlbKAz/black#62"]
+[Solution "a6a8 c7d6 g5e7 d6e7 f8e7 d5a8"]
+[SolutionSAN "Rxa8 Bxd6+ Be7 Bxe7+ Kxe7 Bxa8"]
+[FEN "R3bk2/2B3pp/r2n4/2pBppbP/8/2N3P1/P2r1P2/R5K1 b - - 5 31"]
+[SetUp "1"]
+
+31... Rxa8 32. Bxd6+ Be7 33. Bxe7+ Kxe7 34. Bxa8 *

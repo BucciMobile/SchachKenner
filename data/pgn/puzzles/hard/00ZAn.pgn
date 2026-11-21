@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00ZAn"]
+[Difficulty "hard"]
+[Rating "1794"]
+[Themes "advantage hangingPiece long opening"]
+[GameUrl "https://lichess.org/game/uS929Njx#11"]
+[Solution "f3e5 d6e5 d1h5 g7g6 h5e5 g8f6"]
+[SolutionSAN "Nxe5 dxe5 Qh5+ g6 Qxe5 Nf6"]
+[FEN "rnbqk1nr/ppp1b1pp/3p4/4p3/2B1P3/5N2/PPPP2PP/RNBQK2R w KQkq - 0 6"]
+[SetUp "1"]
+
+6. Nxe5 dxe5 7. Qh5+ g6 8. Qxe5 Nf6 *

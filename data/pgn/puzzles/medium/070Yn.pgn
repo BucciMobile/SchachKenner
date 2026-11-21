@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "070Yn"]
+[Difficulty "medium"]
+[Rating "1419"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/ivjxAQqE/black#50"]
+[Solution "d3c1 g2g6 h7h8 g6h7"]
+[SolutionSAN "Nxc1 Qxg6+ Kh8 Qh7#"]
+[FEN "r4r2/ppp4k/3p2pb/3Np3/2Pn3q/1P1n4/PB1P2Q1/1BRK2N1 b - - 5 25"]
+[SetUp "1"]
+
+25... Nxc1 26. Qxg6+ Kh8 27. Qh7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06nC7"]
+[Difficulty "hard"]
+[Rating "2053"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/Ree6nsRE#83"]
+[Solution "g3e3 d5e5 e3e5 f6e5"]
+[SolutionSAN "Qe3 Qe5+ Qxe5 fxe5"]
+[FEN "5B2/8/5pk1/2pq3p/6pP/1p1P2Q1/1rP1R2K/8 w - - 2 42"]
+[SetUp "1"]
+
+42. Qe3 Qe5+ 43. Qxe5 fxe5 *

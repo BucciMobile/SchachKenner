@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FCnE"]
+[Difficulty "medium"]
+[Rating "1207"]
+[Themes "crushing long opening pin"]
+[GameUrl "https://lichess.org/game/n769YUvt#41"]
+[Solution "e3e6 e7e6 d4e6 d8e8 e1g1 e8e6"]
+[SolutionSAN "Qxe6+ Qxe6+ Nxe6 Re8 O-O Rxe6"]
+[FEN "1nkr1br1/1pp1q3/3pp1pp/1P1n4/3N4/2P1Q2P/5PP1/RNB1K2R w KQ - 1 21"]
+[SetUp "1"]
+
+21. Qxe6+ Qxe6+ 22. Nxe6 Re8 23. O-O Rxe6 *

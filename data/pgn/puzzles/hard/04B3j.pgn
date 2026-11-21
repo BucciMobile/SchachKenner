@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04B3j"]
+[Difficulty "hard"]
+[Rating "1745"]
+[Themes "advantage discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/UAZlCQhZ/black#68"]
+[Solution "c6d4 c5e6 d4e6 c2c8"]
+[SolutionSAN "Ncd4 Ncxe6+ Nxe6 Rxc8"]
+[FEN "2r5/1p3pk1/p1nqp1p1/2Np1nNp/7P/6P1/PPRQ1P2/6K1 b - - 3 34"]
+[SetUp "1"]
+
+34... Ncd4 35. Ncxe6+ Nxe6 36. Rxc8 *

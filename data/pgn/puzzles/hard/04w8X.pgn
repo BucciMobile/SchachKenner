@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04w8X"]
+[Difficulty "hard"]
+[Rating "2256"]
+[Themes "advantage clearance long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/3oubCUYh#35"]
+[Solution "e2e4 d5e4 d3e4 f5c5 c1d2 c5f2"]
+[SolutionSAN "e4 Bxe4 dxe4 Qc5+ Kd2 Qxf2+"]
+[FEN "rn3rk1/2p2ppp/4p3/pp1b1qB1/1n5P/3P1NP1/PP2PPB1/1QKR3R w - - 5 18"]
+[SetUp "1"]
+
+18. e4 Bxe4 19. dxe4 Qc5+ 20. Kd2 Qxf2+ *

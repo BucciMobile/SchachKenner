@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GCVn"]
+[Difficulty "medium"]
+[Rating "1387"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/MUkeyYW4/black#54"]
+[Solution "c4c7 b4a5 d8c8 a5c7"]
+[SolutionSAN "Rc7 Ba5 Rdc8 Bxc7"]
+[FEN "3r4/5kbp/p5p1/4pp2/PBrp4/1PP2P2/5KPP/R2R4 b - - 0 27"]
+[SetUp "1"]
+
+27... Rc7 28. Ba5 Rdc8 29. Bxc7 *

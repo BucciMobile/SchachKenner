@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DBQk"]
+[Difficulty "medium"]
+[Rating "1442"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/RDLyTkoC#73"]
+[Solution "a4b5 c6g2"]
+[SolutionSAN "Bxb5 Qg2#"]
+[FEN "8/1b1R1pkp/p1q1p1p1/1n2P3/B5P1/2b4P/P3QP2/3R2K1 w - - 8 37"]
+[SetUp "1"]
+
+37. Bxb5 Qg2# *

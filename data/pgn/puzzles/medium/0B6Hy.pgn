@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B6Hy"]
+[Difficulty "medium"]
+[Rating "1669"]
+[Themes "advantage discoveredAttack discoveredCheck long master middlegame"]
+[GameUrl "https://lichess.org/game/68xqPs9I#67"]
+[Solution "h3e6 b7g2 f1g1 g2f3 e6g8 f3h5"]
+[SolutionSAN "Bxe6 Bg2+ Kg1 Bf3+ Bxg8 Bxh5"]
+[FEN "q1k3r1/pbbn4/1p2p2p/2p4Q/1PPp1p1N/P2n3B/5P2/1RB1RK2 w - - 0 34"]
+[SetUp "1"]
+
+34. Bxe6 Bg2+ 35. Kg1 Bf3+ 36. Bxg8 Bxh5 *

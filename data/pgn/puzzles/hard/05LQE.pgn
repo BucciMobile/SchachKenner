@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05LQE"]
+[Difficulty "hard"]
+[Rating "2283"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/Zb0IYoOV/black#52"]
+[Solution "h4f2 g1f1 e2b2 a1d1"]
+[SolutionSAN "Bxf2+ Kf1 Rxb2 Rd1"]
+[FEN "6k1/pp3ppp/5n2/2P5/7b/1B5P/PP2rPPB/R5K1 b - - 0 26"]
+[SetUp "1"]
+
+26... Bxf2+ 27. Kf1 Rxb2 28. Rd1 *

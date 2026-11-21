@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CBLG"]
+[Difficulty "medium"]
+[Rating "1562"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/wgbfOULP#49"]
+[Solution "d2d4 b6b2"]
+[SolutionSAN "Rxd4 Qxb2#"]
+[FEN "2k2b2/pp6/1qp3pp/4P3/n2r2PN/P1N3QP/1P1R1P2/1K5R w - - 0 25"]
+[SetUp "1"]
+
+25. Rxd4 Qxb2# *

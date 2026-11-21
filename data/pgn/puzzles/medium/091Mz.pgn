@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "091Mz"]
+[Difficulty "medium"]
+[Rating "1533"]
+[Themes "deflection endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/UyzXzrGW#71"]
+[Solution "b2b3 h1b1 b3c4 b1c2 c4d5 c2c6"]
+[SolutionSAN "Kb3 Qb1+ Kc4 Qxc2+ Kd5 Qc6#"]
+[FEN "5k2/1p6/p4pQ1/4pBp1/PP1bP3/5P2/1KP3P1/7q w - - 3 36"]
+[SetUp "1"]
+
+36. Kb3 Qb1+ 37. Kc4 Qxc2+ 38. Kd5 Qc6# *

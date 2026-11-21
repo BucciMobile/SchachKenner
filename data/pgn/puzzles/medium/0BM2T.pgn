@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BM2T"]
+[Difficulty "medium"]
+[Rating "1452"]
+[Themes "fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/RDRK7C5G/black#82"]
+[Solution "f8f6 h3h7 e7h7 g6h7"]
+[SolutionSAN "Rf6 Rxh7+ Qxh7 Qxh7#"]
+[FEN "4rr1k/1p2q2n/p1p3Q1/8/PP6/3B3R/K1P5/8 b - - 4 41"]
+[SetUp "1"]
+
+41... Rf6 42. Rxh7+ Qxh7 43. Qxh7# *

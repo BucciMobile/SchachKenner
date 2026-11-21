@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02wdz"]
+[Difficulty "medium"]
+[Rating "1578"]
+[Themes "advantage master masterVsMaster middlegame pin short"]
+[GameUrl "https://lichess.org/game/BDUoFW6u/black#66"]
+[Solution "e7d7 e6d6 d7d6 c5d6"]
+[SolutionSAN "Qd7 Rxd6 Qxd6 cxd6"]
+[FEN "3k1r2/1p2qr2/p2pR3/2PP4/4p1QP/2b5/P1P2P2/2K3R1 b - - 3 33"]
+[SetUp "1"]
+
+33... Qd7 34. Rxd6 Qxd6 35. cxd6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02JQH"]
+[Difficulty "hard"]
+[Rating "1824"]
+[Themes "attraction crushing kingsideAttack long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/aeZrFnCi/black#46"]
+[Solution "d4h4 g1g7 g8g7 d1g1 h4g5 g1g5"]
+[SolutionSAN "Qxh4 Rxg7+ Kxg7 Rg1+ Qg5 Rxg5+"]
+[FEN "rn1b1rk1/6p1/3p4/2pPpp1Q/Np1q3P/1P1B4/P4P2/1K1R2R1 b - - 3 23"]
+[SetUp "1"]
+
+23... Qxh4 24. Rxg7+ Kxg7 25. Rg1+ Qg5 26. Rxg5+ *

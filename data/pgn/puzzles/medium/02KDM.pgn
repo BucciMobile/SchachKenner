@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02KDM"]
+[Difficulty "medium"]
+[Rating "1371"]
+[Themes "advantage intermezzo master middlegame short"]
+[GameUrl "https://lichess.org/game/wTAxX14r#43"]
+[Solution "c4d5 c7b6 g1h1 c6d5"]
+[SolutionSAN "Bxd5 Qb6+ Kh1 Bxd5"]
+[FEN "1kr4r/ppq1bp2/2b3pp/3pP3/2B2P2/P7/1B2Q1PP/1RR3K1 w - - 0 22"]
+[SetUp "1"]
+
+22. Bxd5 Qb6+ 23. Kh1 Bxd5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08gDZ"]
+[Difficulty "hard"]
+[Rating "1864"]
+[Themes "advantage attackingF2F7 fork opening short"]
+[GameUrl "https://lichess.org/game/YIn33jDq#23"]
+[Solution "h1g1 c5f2 e1d1 f2g1"]
+[SolutionSAN "Rg1 Bxf2+ Kd1 Bxg1"]
+[FEN "r3k1nr/pppb1ppp/3p4/2b5/4P3/1QN2N2/PP2BPqP/R1B1K2R w KQkq - 0 12"]
+[SetUp "1"]
+
+12. Rg1 Bxf2+ 13. Kd1 Bxg1 *

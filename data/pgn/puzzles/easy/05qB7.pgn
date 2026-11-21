@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05qB7"]
+[Difficulty "easy"]
+[Rating "452"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/FFwVWNhS#85"]
+[Solution "e1c1 c8c1"]
+[SolutionSAN "Rxc1 Rxc1#"]
+[FEN "2r1k3/b4p2/4p1p1/8/P2P4/8/6PP/1Bq1R2K w - - 0 43"]
+[SetUp "1"]
+
+43. Rxc1 Rxc1# *

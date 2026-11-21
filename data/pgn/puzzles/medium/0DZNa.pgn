@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DZNa"]
+[Difficulty "medium"]
+[Rating "1446"]
+[Themes "crushing discoveredAttack endgame master queenEndgame short"]
+[GameUrl "https://lichess.org/game/QloAWbim#107"]
+[Solution "c2b3 c5c4 b3c3 f2b6"]
+[SolutionSAN "Kb3 c4+ Kc3 Qxb6"]
+[FEN "8/6kp/1Q6/2p5/8/3P4/PPK2q2/8 w - - 3 54"]
+[SetUp "1"]
+
+54. Kb3 c4+ 55. Kc3 Qxb6 *

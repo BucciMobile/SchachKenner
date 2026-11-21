@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00sJb"]
+[Difficulty "hard"]
+[Rating "2276"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/kiuvTFoE#33"]
+[Solution "d1d7 a5e1 d7d1 e1e3 c1b1 e3b6"]
+[SolutionSAN "Rxd7 Qe1+ Rd1 Qxe3+ Kb1 Qb6"]
+[FEN "Q1b2r1k/p2np2p/5bp1/q7/5P2/4B3/PPP3PP/2KR1B1R w - - 1 17"]
+[SetUp "1"]
+
+17. Rxd7 Qe1+ 18. Rd1 Qxe3+ 19. Kb1 Qb6 *

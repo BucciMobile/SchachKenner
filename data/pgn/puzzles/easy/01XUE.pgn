@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01XUE"]
+[Difficulty "easy"]
+[Rating "1072"]
+[Themes "bishopEndgame crushing endgame master short"]
+[GameUrl "https://lichess.org/game/wj7xAnw1/black#108"]
+[Solution "c4e2 f5f6 c2c1q f4c1"]
+[SolutionSAN "Be2 f6 c1=Q Bxc1"]
+[FEN "8/7p/8/5PK1/2b2BP1/8/2p5/3k4 b - - 6 54"]
+[SetUp "1"]
+
+54... Be2 55. f6 c1=Q 56. Bxc1 *

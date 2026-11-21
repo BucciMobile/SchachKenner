@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06vJl"]
+[Difficulty "easy"]
+[Rating "881"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/zVbrCh4H/black#118"]
+[Solution "c2a4 e4c5 a6b5 c5a4"]
+[SolutionSAN "Bxa4 Nc5+ Kb5 Nxa4"]
+[FEN "8/8/k7/4K1p1/P3N3/8/2b4P/8 b - - 2 59"]
+[SetUp "1"]
+
+59... Bxa4 60. Nc5+ Kb5 61. Nxa4 *

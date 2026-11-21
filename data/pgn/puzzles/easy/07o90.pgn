@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07o90"]
+[Difficulty "easy"]
+[Rating "606"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/S2tsVIpX#41"]
+[Solution "f3h4 d8d1 e3e1 d1e1"]
+[SolutionSAN "Nh4 Rd1+ Re1 Rxe1#"]
+[FEN "2kr4/2p2p2/p1p2p2/2P4p/8/4RNPb/PPP2P1P/6K1 w - - 5 21"]
+[SetUp "1"]
+
+21. Nh4 Rd1+ 22. Re1 Rxe1# *

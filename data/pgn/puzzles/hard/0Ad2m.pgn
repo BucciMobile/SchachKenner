@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ad2m"]
+[Difficulty "hard"]
+[Rating "2357"]
+[Themes "crushing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/Zmr4XW3i#61"]
+[Solution "f7f5 h2g1 f1e2 g1f2 e2d3 b8d8 d3e4 h3g5"]
+[SolutionSAN "Qf5 Qg1+ Ke2 Qxf2+ Kd3 Rd8+ Ke4 Ng5+"]
+[FEN "1r6/2p2Qpk/1b4Np/pP6/P4p2/2P4n/5PPq/3RRK2 w - - 3 31"]
+[SetUp "1"]
+
+31. Qf5 Qg1+ 32. Ke2 Qxf2+ 33. Kd3 Rd8+ 34. Ke4 Ng5+ *

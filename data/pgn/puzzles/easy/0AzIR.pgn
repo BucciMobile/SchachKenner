@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AzIR"]
+[Difficulty "easy"]
+[Rating "587"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/ldk3566X/black#46"]
+[Solution "f8g7 d4a7"]
+[SolutionSAN "Bg7 Qa7#"]
+[FEN "1k1r1b1r/1bq5/p2p3p/1p3Bp1/3Q1p2/2P5/PP3BPP/2KR3R b - - 3 23"]
+[SetUp "1"]
+
+23... Bg7 24. Qa7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Vrw"]
+[Difficulty "medium"]
+[Rating "1498"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/wdS4FGH5/black#70"]
+[Solution "f4d6 f1f6"]
+[SolutionSAN "Bd6 Qf6#"]
+[FEN "7k/p6p/6p1/1p6/4Pb2/1B1r4/P2q2NP/5Q1K b - - 5 35"]
+[SetUp "1"]
+
+35... Bd6 36. Qf6# *

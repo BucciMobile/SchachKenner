@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00eYd"]
+[Difficulty "hard"]
+[Rating "2747"]
+[Themes "advantage long master middlegame pin sacrifice"]
+[GameUrl "https://lichess.org/game/6LoVaUuw/black#48"]
+[Solution "b8c7 g4g6 h7g6 e3g5 c7d8 g5g6"]
+[SolutionSAN "Qc7 Rxg6 hxg6 Qg5 Qd8 Qxg6"]
+[FEN "rq3rk1/1p3ppp/p2p2n1/3Bp3/4P1R1/P3QPR1/1P3P2/7K b - - 0 24"]
+[SetUp "1"]
+
+24... Qc7 25. Rxg6 hxg6 26. Qg5 Qd8 27. Qxg6 *

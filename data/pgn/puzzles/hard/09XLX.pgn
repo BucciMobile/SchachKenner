@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09XLX"]
+[Difficulty "hard"]
+[Rating "1780"]
+[Themes "advantage endgame long sacrifice skewer"]
+[GameUrl "https://lichess.org/game/Ruwl8tHr#59"]
+[Solution "b4b2 a8a1 b2a1 h2h1 f1f2 h1a1"]
+[SolutionSAN "Qb2 Ra1+ Qxa1 Qh1+ Kf2 Qxa1"]
+[FEN "r5k1/5pp1/4p2p/1R6/1Q1PP3/5P1P/6Pq/5K2 w - - 1 30"]
+[SetUp "1"]
+
+30. Qb2 Ra1+ 31. Qxa1 Qh1+ 32. Kf2 Qxa1 *

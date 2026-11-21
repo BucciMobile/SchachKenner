@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07HDF"]
+[Difficulty "medium"]
+[Rating "1302"]
+[Themes "crushing endgame long skewer"]
+[GameUrl "https://lichess.org/game/QVpKm9Do/black#58"]
+[Solution "b7b6 g1g7 e7e8 g7h8 e8f7 h8a8"]
+[SolutionSAN "b6 Qg7+ Ke8 Qh8+ Kf7 Qxa8"]
+[FEN "r7/pp2k3/2p1pn2/5q2/8/1P6/P1P5/1K1R2Q1 b - - 2 29"]
+[SetUp "1"]
+
+29... b6 30. Qg7+ Ke8 31. Qh8+ Kf7 32. Qxa8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08WSG"]
+[Difficulty "easy"]
+[Rating "1088"]
+[Themes "advantage deflection endgame knightEndgame master short"]
+[GameUrl "https://lichess.org/game/jEVYhsdY/black#92"]
+[Solution "b2a4 c7e8 f6e7 e8g7"]
+[SolutionSAN "Nxa4 Ne8+ Ke7 Nxg7"]
+[FEN "8/1pN3p1/p1p2kP1/3p1P2/P4K2/2P5/1n6/8 b - - 3 46"]
+[SetUp "1"]
+
+46... Nxa4 47. Ne8+ Ke7 48. Nxg7 *

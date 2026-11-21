@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "089EI"]
+[Difficulty "medium"]
+[Rating "1373"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/lFTLSBkl/black#58"]
+[Solution "f3f2 b4g4"]
+[SolutionSAN "f2 Qg4#"]
+[FEN "3r3r/2pk4/p1qp3b/8/1Q6/1PP2p2/PB6/K3R3 b - - 2 29"]
+[SetUp "1"]
+
+29... f2 30. Qg4# *

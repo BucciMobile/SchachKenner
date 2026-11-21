@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08WM4"]
+[Difficulty "easy"]
+[Rating "961"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/ulZUdfpg/black#54"]
+[Solution "c7c5 h5f7 g8h8 f7g7"]
+[SolutionSAN "Qxc5 Qxf7+ Kh8 Qxg7#"]
+[FEN "r3r1k1/p1qR1pp1/7p/2N1p2Q/2P2n2/1P5P/P4PP1/1R4K1 b - - 3 27"]
+[SetUp "1"]
+
+27... Qxc5 28. Qxf7+ Kh8 29. Qxg7# *

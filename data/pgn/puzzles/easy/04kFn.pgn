@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04kFn"]
+[Difficulty "easy"]
+[Rating "1018"]
+[Themes "crushing endgame queenRookEndgame short skewer"]
+[GameUrl "https://lichess.org/game/y8XPICOr/black#124"]
+[Solution "h2h1q f6h6 h4g4 h6h1"]
+[SolutionSAN "h1=Q Rh6+ Kg4 Rxh1"]
+[FEN "8/2K5/5R2/P7/7k/8/5p1p/8 b - - 0 62"]
+[SetUp "1"]
+
+62... h1=Q 63. Rh6+ Kg4 64. Rxh1 *

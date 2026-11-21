@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D66O"]
+[Difficulty "easy"]
+[Rating "1078"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/JVpGAfEu/black#30"]
+[Solution "e5d5 d3h7 g8h7 d2d5"]
+[SolutionSAN "Qxd5 Bxh7+ Kxh7 Qxd5"]
+[FEN "r1b2rk1/ppp2ppp/3p4/3Pq3/8/3B4/PP1Q1PPP/4RRK1 b - - 1 15"]
+[SetUp "1"]
+
+15... Qxd5 16. Bxh7+ Kxh7 17. Qxd5 *

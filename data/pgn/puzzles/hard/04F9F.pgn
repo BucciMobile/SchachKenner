@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04F9F"]
+[Difficulty "hard"]
+[Rating "2618"]
+[Themes "advancedPawn crushing endgame interference pin promotion queensideAttack quietMove veryLong"]
+[GameUrl "https://lichess.org/game/ApSN8sJ1#55"]
+[Solution "h2h4 c5c4 c1d2 c4c3 d2e2 c3b2 d1d2 b2b1q h1b1 a2b1"]
+[SolutionSAN "h4 c4 Kd2 c3+ Ke2 cxb2 Rd2 b1=Q Rxb1 Qxb1"]
+[FEN "2r5/4p2k/p3P1pp/2pPQp2/1p6/8/qP4PP/2KR3R w - - 0 28"]
+[SetUp "1"]
+
+28. h4 c4 29. Kd2 c3+ 30. Ke2 cxb2 31. Rd2 b1=Q 32. Rxb1 Qxb1 *

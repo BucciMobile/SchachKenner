@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06dkb"]
+[Difficulty "hard"]
+[Rating "2460"]
+[Themes "attraction crushing endgame sacrifice short"]
+[GameUrl "https://lichess.org/game/dBkM30ZX/black#60"]
+[Solution "h7h6 g1g7 h8g7 b1g1"]
+[SolutionSAN "h6 Rxg7 Kxg7 Rg1+"]
+[FEN "4r2k/6pp/1Q6/5p2/8/r6q/5P1P/1R4RK b - - 5 30"]
+[SetUp "1"]
+
+30... h6 31. Rxg7 Kxg7 32. Rg1+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03W6X"]
+[Difficulty "medium"]
+[Rating "1323"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/LMiT83N8#59"]
+[Solution "e1e7 a4a2 b6f2 a2f2"]
+[SolutionSAN "Rxe7 Ra2+ Qf2 Rxf2+"]
+[FEN "5rk1/4pp2/1Q1p2p1/3P4/r1P5/2q2PP1/6KP/1R2R3 w - - 0 30"]
+[SetUp "1"]
+
+30. Rxe7 Ra2+ 31. Qf2 Rxf2+ *

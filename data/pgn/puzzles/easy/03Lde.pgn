@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Lde"]
+[Difficulty "easy"]
+[Rating "733"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/3JCtrKz4#63"]
+[Solution "b3b2 d3d1"]
+[SolutionSAN "Rxb2 Rd1#"]
+[FEN "2k5/2p4p/p1n5/5pp1/2N5/1R1r3P/1p3PPB/6K1 w - - 0 32"]
+[SetUp "1"]
+
+32. Rxb2 Rd1# *

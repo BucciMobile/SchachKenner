@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AyUY"]
+[Difficulty "medium"]
+[Rating "1296"]
+[Themes "crushing endgame pawnEndgame quietMove short"]
+[GameUrl "https://lichess.org/game/l3vqpPm4#101"]
+[Solution "e5e6 d5d4 f5e4 e7e6"]
+[SolutionSAN "e6 d4 Ke4 Kxe6"]
+[FEN "8/4k3/7p/3pPK1P/p7/P7/8/8 w - - 1 51"]
+[SetUp "1"]
+
+51. e6 d4 52. Ke4 Kxe6 *

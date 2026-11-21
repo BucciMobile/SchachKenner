@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09PWe"]
+[Difficulty "medium"]
+[Rating "1250"]
+[Themes "advantage defensiveMove endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/1HXyeRbt/black#102"]
+[Solution "g5g4 h3h4 c4d4 e5h5 f3f8 h4g4"]
+[SolutionSAN "g4+ Kh4 Kd4 Rxh5 Rf8 Kxg4"]
+[FEN "8/8/8/4R1pp/2k5/5rPK/8/8 b - - 1 51"]
+[SetUp "1"]
+
+51... g4+ 52. Kh4 Kd4 53. Rxh5 Rf8 54. Kxg4 *

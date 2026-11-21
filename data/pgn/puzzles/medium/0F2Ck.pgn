@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F2Ck"]
+[Difficulty "medium"]
+[Rating "1322"]
+[Themes "crushing discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/FNA6if3k#31"]
+[Solution "e1f1 e4d2 f1e1 e8e2"]
+[SolutionSAN "Kf1 Nd2+ Ke1 Rxe2+"]
+[FEN "2bkr3/1p1p1ppp/pN6/8/3nn3/8/PPP1BPPP/R3K2R w - - 6 16"]
+[SetUp "1"]
+
+16. Kf1 Nd2+ 17. Ke1 Rxe2+ *

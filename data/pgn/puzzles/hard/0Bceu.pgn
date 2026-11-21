@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bceu"]
+[Difficulty "hard"]
+[Rating "1711"]
+[Themes "advantage endgame long master"]
+[GameUrl "https://lichess.org/game/QR5rqSIe#89"]
+[Solution "g3h4 d6f4 g7f6 e6f6 g4g5 f4g5"]
+[SolutionSAN "Kh4 Bxf4 Bxf6 Kxf6 g5+ Bxg5+"]
+[FEN "8/1R4Bp/1p1bkp1P/8/5PP1/Pr4K1/8/8 w - - 1 45"]
+[SetUp "1"]
+
+45. Kh4 Bxf4 46. Bxf6 Kxf6 47. g5+ Bxg5+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ch3G"]
+[Difficulty "medium"]
+[Rating "1696"]
+[Themes "advancedPawn crushing deflection endgame kingsideAttack long sacrifice"]
+[GameUrl "https://lichess.org/game/jLc5cHpE/black#70"]
+[Solution "b2f6 h5g6 d6e7 g6g7 f6g7 f7e7"]
+[SolutionSAN "Bf6 hxg6 Qxe7 g7+ Bxg7 Qxe7"]
+[FEN "3r3k/4NQ1p/3q2p1/p1p2p1P/4p3/1P2P1P1/Pb3P2/5RK1 b - - 2 35"]
+[SetUp "1"]
+
+35... Bf6 36. hxg6 Qxe7 37. g7+ Bxg7 38. Qxe7 *

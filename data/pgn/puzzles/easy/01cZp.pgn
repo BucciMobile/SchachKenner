@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01cZp"]
+[Difficulty "easy"]
+[Rating "623"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/60Sde0tT#77"]
+[Solution "g7g6 c4f1"]
+[SolutionSAN "Qxg6 Qf1#"]
+[FEN "3k4/6Q1/6n1/7p/p1q1P1pP/P1B5/1P5P/7K w - - 6 39"]
+[SetUp "1"]
+
+39. Qxg6 Qf1# *

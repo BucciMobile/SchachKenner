@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Brfx"]
+[Difficulty "medium"]
+[Rating "1301"]
+[Themes "exposedKing long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/gYWbdwew/black#48"]
+[Solution "c3c2 b4b5 a6a5 g5d2 g7c3 d2c3"]
+[SolutionSAN "c2 b5+ Kxa5 Bd2+ Bc3 Bxc3#"]
+[FEN "r4r2/ppR2nbp/kn4p1/N2p2B1/PP6/2p5/5PPP/R5K1 b - - 0 24"]
+[SetUp "1"]
+
+24... c2 25. b5+ Kxa5 26. Bd2+ Bc3 27. Bxc3# *

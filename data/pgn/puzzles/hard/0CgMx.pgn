@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CgMx"]
+[Difficulty "hard"]
+[Rating "2677"]
+[Themes "attraction crushing endgame long rookEndgame sacrifice"]
+[GameUrl "https://lichess.org/game/T9JjI1GD#119"]
+[Solution "g2g3 h7h6 f5g6 f6f5 g4f5 a1f1"]
+[SolutionSAN "g3 Kh6 fxg6 f5+ Kxf5 Rf1+"]
+[FEN "8/7k/5pp1/5P2/6KP/R7/p5P1/r7 w - - 0 60"]
+[SetUp "1"]
+
+60. g3 Kh6 61. fxg6 f5+ 62. Kxf5 Rf1+ *

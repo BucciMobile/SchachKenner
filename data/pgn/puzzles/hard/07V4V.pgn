@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07V4V"]
+[Difficulty "hard"]
+[Rating "2156"]
+[Themes "crushing exposedKing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/F2LsB5Gn#51"]
+[Solution "c1d2 c4c2 d2e3 c2e2 e3f4 e2f2 f4g4 d3f5"]
+[SolutionSAN "Kd2 Qc2+ Ke3 Qe2+ Kf4 Qxf2+ Kg4 Bf5+"]
+[FEN "3B1rk1/5p1p/p4QpP/1pp5/2q5/3b4/PP3PP1/2KR3R w - - 2 26"]
+[SetUp "1"]
+
+26. Kd2 Qc2+ 27. Ke3 Qe2+ 28. Kf4 Qxf2+ 29. Kg4 Bf5+ *

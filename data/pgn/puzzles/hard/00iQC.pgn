@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00iQC"]
+[Difficulty "hard"]
+[Rating "2097"]
+[Themes "crushing discoveredAttack exposedKing middlegame queensideAttack quietMove veryLong"]
+[GameUrl "https://lichess.org/game/Yg1J59NW/black#56"]
+[Solution "d8d7 e1b1 d7b7 b6a7 b8c8 a6c6 e7c7 c6e8"]
+[SolutionSAN "Rd7 Rb1 Rb7 Ba7+ Kc8 Qxc6+ Qc7 Qe8+"]
+[FEN "1k1r1b1r/4q3/QBpp4/4p3/4P2p/5p2/P5PP/4R1K1 b - - 0 28"]
+[SetUp "1"]
+
+28... Rd7 29. Rb1 Rb7 30. Ba7+ Kc8 31. Qxc6+ Qc7 32. Qe8+ *

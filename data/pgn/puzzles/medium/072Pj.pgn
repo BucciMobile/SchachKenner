@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "072Pj"]
+[Difficulty "medium"]
+[Rating "1631"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/Xl99OYkJ#53"]
+[Solution "a2a1 c1d1 a1d1 c7c2 d1f1 c2d2"]
+[SolutionSAN "Ra1 Rxd1+ Rxd1 Qc2 Rf1 Qxd2"]
+[FEN "4kb2/1pq2p2/4b1p1/pP1pPp2/P2P3Q/8/R2N1PPP/2rR2K1 w - - 6 27"]
+[SetUp "1"]
+
+27. Ra1 Rxd1+ 28. Rxd1 Qc2 29. Rf1 Qxd2 *

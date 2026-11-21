@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CfON"]
+[Difficulty "easy"]
+[Rating "819"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/dMvcReVg/black#98"]
+[Solution "f6e6 e2f4 e6e5 f4d5"]
+[SolutionSAN "Ke6 Nf4+ Ke5 Nxd5"]
+[FEN "8/8/5kpp/3r1p2/1P2p2P/2K5/P3NPP1/8 b - - 2 49"]
+[SetUp "1"]
+
+49... Ke6 50. Nf4+ Ke5 51. Nxd5 *

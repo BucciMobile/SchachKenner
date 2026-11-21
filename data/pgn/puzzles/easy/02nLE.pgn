@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02nLE"]
+[Difficulty "easy"]
+[Rating "492"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/xatzilCF#29"]
+[Solution "a1c1 d5g2"]
+[SolutionSAN "Rac1 Qxg2#"]
+[FEN "r3k2r/1bp2ppp/p3pn2/1p1qN3/3P4/3QP3/PPB2PPP/R4RK1 w kq - 0 15"]
+[SetUp "1"]
+
+15. Rac1 Qxg2# *

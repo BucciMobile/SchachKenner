@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05AUF"]
+[Difficulty "easy"]
+[Rating "593"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/bif5SHKa/black#62"]
+[Solution "b2c3 e1e8"]
+[SolutionSAN "Bc3 Qe8#"]
+[FEN "5k2/2q2ppp/8/N2p1P2/B7/5P1n/1bP2P2/4QK2 b - - 0 31"]
+[SetUp "1"]
+
+31... Bc3 32. Qe8# *

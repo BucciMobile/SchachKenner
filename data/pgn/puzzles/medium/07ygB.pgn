@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07ygB"]
+[Difficulty "medium"]
+[Rating "1626"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/GyPWp1W6/black#106"]
+[Solution "g8f8 f6d8"]
+[SolutionSAN "Kf8 Qd8#"]
+[FEN "6k1/5p2/4pQp1/4B1P1/1p1Pp2P/p6K/8/1q6 b - - 3 53"]
+[SetUp "1"]
+
+53... Kf8 54. Qd8# *

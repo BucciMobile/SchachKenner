@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04t02"]
+[Difficulty "medium"]
+[Rating "1383"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/U4z5fmdd/black#26"]
+[Solution "b4c3 b3b4 c3b4 a3b4"]
+[SolutionSAN "Bc3 b4 Bxb4 axb4"]
+[FEN "r3k2r/1p1n1ppp/p3p3/q2p4/1b1Pb3/PP2PN1P/1B2BPP1/R2Q1RK1 b kq - 0 13"]
+[SetUp "1"]
+
+13... Bc3 14. b4 Bxb4 15. axb4 *

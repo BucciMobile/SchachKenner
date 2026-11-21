@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EeSJ"]
+[Difficulty "medium"]
+[Rating "1470"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/4Xpoz7Y2/black#70"]
+[Solution "e4d4 d7d4 c5d4 f2e2 d2d1r e2d1"]
+[SolutionSAN "Rd4 Rxd4 cxd4 Ke2 d1=R Kxd1"]
+[FEN "8/3R3p/P5pk/2p5/4rP2/1P4P1/3p1K1P/4n3 b - - 1 35"]
+[SetUp "1"]
+
+35... Rd4 36. Rxd4 cxd4 37. Ke2 d1=R 38. Kxd1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08IE5"]
+[Difficulty "easy"]
+[Rating "753"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/aDrfXhzX#51"]
+[Solution "e7c7 c3e1"]
+[SolutionSAN "Rxc7 Qxe1#"]
+[FEN "r4k1r/ppp1Rp2/6p1/3P1bQp/5B2/2q5/P4PPP/4R1K1 w - - 6 26"]
+[SetUp "1"]
+
+26. Rxc7 Qxe1# *

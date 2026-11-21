@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ChqP"]
+[Difficulty "hard"]
+[Rating "1765"]
+[Themes "advantage discoveredAttack fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/gFx5aAPd#37"]
+[Solution "b5c6 d5c3 c6d7 c3e2 g1g2 c8c1 a1c1 e2c1"]
+[SolutionSAN "Bxc6 Nxc3 Bxd7 Ne2+ Kg2 Rxc1 Rxc1 Nxc1"]
+[FEN "r1r3k1/p2q1ppp/2n1p3/1B1n4/3P1B2/2Q1PP2/5P1P/R1R3K1 w - - 3 19"]
+[SetUp "1"]
+
+19. Bxc6 Nxc3 20. Bxd7 Ne2+ 21. Kg2 Rxc1 22. Rxc1 Nxc1 *

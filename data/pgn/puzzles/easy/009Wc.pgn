@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "009Wc"]
+[Difficulty "easy"]
+[Rating "1157"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/WnthPrdl#37"]
+[Solution "e5d7 f6d7 c5d7 c7d7"]
+[SolutionSAN "Ned7 Nxd7 Nxd7 Qxd7"]
+[FEN "1r3rk1/1pq2pbp/p1p1pnp1/2N1N3/3P4/1QP5/PP3PPP/3RR1K1 w - - 2 19"]
+[SetUp "1"]
+
+19. Ned7 Nxd7 20. Nxd7 Qxd7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DoIf"]
+[Difficulty "medium"]
+[Rating "1303"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/xoCuqzd2#37"]
+[Solution "d1d4 e4b1 d4d1 d8d1 b3d1 b1b2"]
+[SolutionSAN "Rxd4 Qb1+ Rd1 Rxd1+ Qxd1 Qxb2"]
+[FEN "3r1rk1/1p2bppp/p4nb1/2P5/1P1nq1P1/PQ2N2P/1B2PPB1/3RK2R w K - 0 19"]
+[SetUp "1"]
+
+19. Rxd4 Qb1+ 20. Rd1 Rxd1+ 21. Qxd1 Qxb2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08bOn"]
+[Difficulty "medium"]
+[Rating "1263"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/Nc5Yaeen#33"]
+[Solution "d2f4 g7e5 g4h4 e5f4"]
+[SolutionSAN "Qxf4 Be5 Rh4 Bxf4"]
+[FEN "r4rk1/ppp2pbp/n2p2p1/3P3q/2B1PpR1/P1N2P2/1PPQ1P1P/R6K w - - 1 17"]
+[SetUp "1"]
+
+17. Qxf4 Be5 18. Rh4 Bxf4 *

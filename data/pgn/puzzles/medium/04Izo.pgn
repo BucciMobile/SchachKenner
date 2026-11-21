@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Izo"]
+[Difficulty "medium"]
+[Rating "1658"]
+[Themes "crushing middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/NPUKWwTZ/black#48"]
+[Solution "b4b3 h4h5 g6e4 d2e4"]
+[SolutionSAN "b3 h5 Qxe4+ Nxe4"]
+[FEN "r1bb1rk1/5ppp/3p2q1/2pP2P1/ppP1PP1P/6Q1/PP1N4/1K1R3R b - - 0 24"]
+[SetUp "1"]
+
+24... b3 25. h5 Qxe4+ 26. Nxe4 *

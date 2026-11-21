@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EMWX"]
+[Difficulty "medium"]
+[Rating "1539"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/hPuxN20q/black#84"]
+[Solution "c4b3 f5f6 b6f6 f1f6"]
+[SolutionSAN "cxb3 f6 Qxf6 Rxf6"]
+[FEN "r7/3r1ppk/1q5p/p3pP1P/Rpp1P1Q1/1P6/1PP3P1/5R1K b - - 1 42"]
+[SetUp "1"]
+
+42... cxb3 43. f6 Qxf6 44. Rxf6 *

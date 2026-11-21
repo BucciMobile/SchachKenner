@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02j44"]
+[Difficulty "hard"]
+[Rating "2067"]
+[Themes "crushing exposedKing fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/kjngVApx/black#34"]
+[Solution "b8c6 h5f3 f8g7 g3f5 g7g6 f5e7 c6e7 f3b7"]
+[SolutionSAN "Nc6 Qf3+ Kg7 Nf5+ Kxg6 Nxe7+ Ncxe7 Qxb7"]
+[FEN "rn3knr/pbppq3/1p4Bp/4P1pQ/2p5/2P3N1/P4PPP/R3R1K1 b - - 1 17"]
+[SetUp "1"]
+
+17... Nc6 18. Qf3+ Kg7 19. Nf5+ Kxg6 20. Nxe7+ Ncxe7 21. Qxb7 *

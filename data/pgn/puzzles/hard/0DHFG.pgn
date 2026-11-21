@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DHFG"]
+[Difficulty "hard"]
+[Rating "2463"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/ECjXS71B#71"]
+[Solution "b3b5 d6e6 e4b4 f6e7 e1e6 e7b4"]
+[SolutionSAN "Rxb5 Re6 Qb4 Be7 Rxe6 Bxb4"]
+[FEN "7k/1pq2pp1/3r1b1p/1p6/4Q3/1R3P2/PPP5/1K2R3 w - - 2 36"]
+[SetUp "1"]
+
+36. Rxb5 Re6 37. Qb4 Be7 38. Rxe6 Bxb4 *

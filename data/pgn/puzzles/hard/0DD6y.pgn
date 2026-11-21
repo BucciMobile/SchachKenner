@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DD6y"]
+[Difficulty "hard"]
+[Rating "1819"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/JK1pm3k3/black#28"]
+[Solution "d7e5 e1e5 f6g4 f3g4"]
+[SolutionSAN "Nxe5 Rxe5 Ng4 Bxg4"]
+[FEN "r2q1rk1/1p1nbp2/p3bn1Q/3pN3/2pP4/2N2B2/PPP2PPP/R3R1K1 b - - 0 14"]
+[SetUp "1"]
+
+14... Nxe5 15. Rxe5 Ng4 16. Bxg4 *

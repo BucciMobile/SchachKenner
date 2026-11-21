@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EEvZ"]
+[Difficulty "medium"]
+[Rating "1447"]
+[Themes "advantage master middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/u88bB58m#41"]
+[Solution "e3g5 e4f3 g5g6 f3e2"]
+[SolutionSAN "Qg5 Bxf3 Qxg6 Bxe2+"]
+[FEN "2rr2k1/p2n1ppp/1p2p1q1/2p5/P2Pb3/B1P1QN2/4BP1P/R1R2K2 w - - 2 21"]
+[SetUp "1"]
+
+21. Qg5 Bxf3 22. Qxg6 Bxe2+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CP0V"]
+[Difficulty "medium"]
+[Rating "1475"]
+[Themes "crushing endgame rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/Hw5iG7sX/black#84"]
+[Solution "g5h5 h4h5 g6h5 f4f5 h5h4 f5f6 h4g4 f6f7"]
+[SolutionSAN "Rxh5 Rxh5 Kxh5 Kf5 Kh4 Kxf6 Kg4 Kxf7"]
+[FEN "8/2p2p2/1p1p1pk1/pP4rP/P1P1PK1R/8/8/8 b - - 0 42"]
+[SetUp "1"]
+
+42... Rxh5 43. Rxh5 Kxh5 44. Kf5 Kh4 45. Kxf6 Kg4 46. Kxf7 *

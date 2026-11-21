@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08DmD"]
+[Difficulty "medium"]
+[Rating "1621"]
+[Themes "crushing deflection endgame long pawnEndgame quietMove"]
+[GameUrl "https://lichess.org/game/Gje59mAg/black#88"]
+[Solution "h7h6 b4b5 c4b5 d2d3 b5c6 d3e4"]
+[SolutionSAN "h6 b5 Kxb5 Kxd3 Kc6 Ke4"]
+[FEN "8/6pp/8/4p3/1Pk3PP/3p4/3K1P2/8 b - - 0 44"]
+[SetUp "1"]
+
+44... h6 45. b5 Kxb5 46. Kxd3 Kc6 47. Ke4 *

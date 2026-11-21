@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00RoG"]
+[Difficulty "easy"]
+[Rating "1001"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/rOjlXCXv#35"]
+[Solution "h2h3 g4g1"]
+[SolutionSAN "h3 Qg1#"]
+[FEN "2kr2nr/pp2nppp/2pp4/2b2PP1/4NPq1/3B1R2/PPP4P/R2QB2K w - - 5 18"]
+[SetUp "1"]
+
+18. h3 Qg1# *

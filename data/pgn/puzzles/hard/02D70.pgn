@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02D70"]
+[Difficulty "hard"]
+[Rating "1797"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/WoBXMicu#47"]
+[Solution "g5e7 b7b2 a4b2 d5c3"]
+[SolutionSAN "Bxe7 Rxb2+ Nxb2 Nc3#"]
+[FEN "1r4k1/pr2bpp1/2p3b1/3n2B1/N1B5/P4P2/KP5P/R5R1 w - - 5 24"]
+[SetUp "1"]
+
+24. Bxe7 Rxb2+ 25. Nxb2 Nc3# *

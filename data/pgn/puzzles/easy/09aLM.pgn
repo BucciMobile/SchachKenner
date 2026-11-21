@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09aLM"]
+[Difficulty "easy"]
+[Rating "1009"]
+[Themes "advancedPawn crushing endgame master short"]
+[GameUrl "https://lichess.org/game/RFbxijbt/black#94"]
+[Solution "h5g4 b5b6 g3e1 b6b7"]
+[SolutionSAN "hxg4 b6 Be1 b7"]
+[FEN "8/8/8/1P1Bk2p/4PpP1/6b1/1R4K1/3r4 b - - 0 47"]
+[SetUp "1"]
+
+47... hxg4 48. b6 Be1 49. b7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03rBl"]
+[Difficulty "easy"]
+[Rating "988"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/mjcE5Dns/black#36"]
+[Solution "d8e7 c3b5"]
+[SolutionSAN "Qe7 Nb5#"]
+[FEN "r2q4/ppp3p1/2nk3r/2p1p3/4P1Q1/2NP2P1/PPP5/R4RK1 b - - 3 18"]
+[SetUp "1"]
+
+18... Qe7 19. Nb5# *

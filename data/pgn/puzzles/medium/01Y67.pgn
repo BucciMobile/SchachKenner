@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Y67"]
+[Difficulty "medium"]
+[Rating "1695"]
+[Themes "mate mateIn2 middlegame operaMate sacrifice short"]
+[GameUrl "https://lichess.org/game/byEY64hO/black#66"]
+[Solution "b7b5 h5h6 g7h6 h1h6"]
+[SolutionSAN "b5 Qxh6+ gxh6 Rxh6#"]
+[FEN "3rr3/1p1q2pk/5b1p/p1pB1b1Q/2P5/KP1n4/P4P2/2B3RR b - - 9 33"]
+[SetUp "1"]
+
+33... b5 34. Qxh6+ gxh6 35. Rxh6# *

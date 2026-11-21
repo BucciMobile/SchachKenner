@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04FI1"]
+[Difficulty "hard"]
+[Rating "2356"]
+[Themes "crushing kingsideAttack master middlegame veryLong"]
+[GameUrl "https://lichess.org/game/XlupSrQ7/black#38"]
+[Solution "e8f7 h5f7 g8h8 f1f6 e7g8 f6e6 d6e6 f7e6"]
+[SolutionSAN "Bxf7 Qxf7+ Kh8 Rf6 Ng8 Rxe6 Qxe6 Qxe6"]
+[FEN "r3b1k1/pp2nNp1/3qp2p/3p3Q/3p4/3B4/PPP3PP/5R1K b - - 2 19"]
+[SetUp "1"]
+
+19... Bxf7 20. Qxf7+ Kh8 21. Rf6 Ng8 22. Rxe6 Qxe6 23. Qxe6 *

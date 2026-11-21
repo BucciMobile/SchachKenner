@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EBsV"]
+[Difficulty "medium"]
+[Rating "1689"]
+[Themes "advantage exposedKing kingsideAttack long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/8jPa30ir#37"]
+[Solution "b2b4 d7h3 b4c5 d4f3 d1f3 h3f3"]
+[SolutionSAN "b4 Qh3 bxc5 Nxf3+ Qxf3 Qxf3"]
+[FEN "r3r1k1/pppq2pp/1b6/2nPp1P1/2Pn1p1P/2N2P2/PP3B2/RB1Q1RK1 w - - 2 19"]
+[SetUp "1"]
+
+19. b4 Qh3 20. bxc5 Nxf3+ 21. Qxf3 Qxf3 *

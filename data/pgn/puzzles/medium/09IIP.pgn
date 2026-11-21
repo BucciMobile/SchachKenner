@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09IIP"]
+[Difficulty "medium"]
+[Rating "1450"]
+[Themes "advantage defensiveMove fork long middlegame"]
+[GameUrl "https://lichess.org/game/zVnGKY00/black#32"]
+[Solution "d8d2 c3e4 d2b2 e4f6 g8g7 f6e4"]
+[SolutionSAN "Rd2 Ne4 Rxb2 Nxf6+ Kg7 Ne4"]
+[FEN "r2r2k1/pp3p2/2p1bbpp/2P1p3/8/P1N1PBP1/1P3P1P/2R2RK1 b - - 1 16"]
+[SetUp "1"]
+
+16... Rd2 17. Ne4 Rxb2 18. Nxf6+ Kg7 19. Ne4 *

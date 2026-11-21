@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03gHj"]
+[Difficulty "hard"]
+[Rating "2107"]
+[Themes "deflection discoveredAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/Ntf6Ggft#67"]
+[Solution "c1e1 e6h3 f1g1 e8e1"]
+[SolutionSAN "Rxe1 Qxh3+ Kg1 Rxe1#"]
+[FEN "3nr1k1/R5p1/2b1q2p/3p4/3N4/1Q1P2PP/1P3P2/1NR1rK2 w - - 1 34"]
+[SetUp "1"]
+
+34. Rxe1 Qxh3+ 35. Kg1 Rxe1# *

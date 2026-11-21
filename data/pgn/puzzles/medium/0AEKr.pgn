@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AEKr"]
+[Difficulty "medium"]
+[Rating "1543"]
+[Themes "advantage opening short trappedPiece"]
+[GameUrl "https://lichess.org/game/erkf2In5/black#16"]
+[Solution "b6b2 c3a4 b2a1 d1a1"]
+[SolutionSAN "Qxb2 Na4 Qxa1 Qxa1"]
+[FEN "r1b1k2r/pp1p1ppp/1qn1pn2/8/4P3/P1N1PN2/1PP3PP/R2QKB1R b KQkq - 0 8"]
+[SetUp "1"]
+
+8... Qxb2 9. Na4 Qxa1 10. Qxa1 *

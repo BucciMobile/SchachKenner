@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AczW"]
+[Difficulty "easy"]
+[Rating "442"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/CVwAzJyH/black#24"]
+[Solution "f6g4 c2h7"]
+[SolutionSAN "Nxg4 Qh7#"]
+[FEN "r2q1rk1/pb1nbpp1/1p1ppn1p/8/3P1BP1/2P2N2/PPQN1P1P/1BR1K2R b K - 0 12"]
+[SetUp "1"]
+
+12... Nxg4 13. Qh7# *

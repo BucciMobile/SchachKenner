@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DOOs"]
+[Difficulty "hard"]
+[Rating "2178"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/FeCKjEeY#29"]
+[Solution "f1f7 h8f8 g7f8 d8f8 f7f8 c5f8"]
+[SolutionSAN "Rxf7 Rhf8 Qxf8 Rxf8 Rxf8+ Bxf8"]
+[FEN "2kr3r/pppq1pQp/n3p3/2bP4/2P5/2N5/PP4PP/R1B2R1K w - - 1 15"]
+[SetUp "1"]
+
+15. Rxf7 Rhf8 16. Qxf8 Rxf8 17. Rxf8+ Bxf8 *

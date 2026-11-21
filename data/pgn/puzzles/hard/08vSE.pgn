@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08vSE"]
+[Difficulty "hard"]
+[Rating "2147"]
+[Themes "advantage fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/yP3WaEAO/black#38"]
+[Solution "a1c2 d5b3 c2b4 c3d5 b6c6 d5c7 c6c7 b3c3"]
+[SolutionSAN "Nc2 Qb3+ Nb4 Nd5+ Kc6 Nxc7 Kxc7 Qc3"]
+[FEN "r1b2b1r/ppq2P1p/1k1p4/2pQ4/4P3/2N5/PP4PP/n4RK1 b - - 4 19"]
+[SetUp "1"]
+
+19... Nc2 20. Qb3+ Nb4 21. Nd5+ Kc6 22. Nxc7 Kxc7 23. Qc3 *

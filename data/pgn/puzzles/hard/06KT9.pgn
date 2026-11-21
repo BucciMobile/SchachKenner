@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06KT9"]
+[Difficulty "hard"]
+[Rating "1996"]
+[Themes "advancedPawn crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/nVvffsfD#73"]
+[Solution "c2c1 h3h2 e6e7 g6f7 e7e8r f7e8"]
+[SolutionSAN "Kc1 h2 e7 Kf7 e8=R Kxe8"]
+[FEN "8/8/4P1k1/8/p6R/2P4p/PPK1r3/8 w - - 2 37"]
+[SetUp "1"]
+
+37. Kc1 h2 38. e7 Kf7 39. e8=R Kxe8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08xP8"]
+[Difficulty "easy"]
+[Rating "880"]
+[Themes "epauletteMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/tWaJNMaj/black#56"]
+[Solution "g7h7 h5f7"]
+[SolutionSAN "Kh7 Qf7#"]
+[FEN "r6r/2qb2k1/p1p1p2p/1nPpPp1Q/3N1P2/2B4P/PP3R2/R5K1 b - - 3 28"]
+[SetUp "1"]
+
+28... Kh7 29. Qf7# *

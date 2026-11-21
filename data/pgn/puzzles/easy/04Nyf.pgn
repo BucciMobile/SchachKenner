@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Nyf"]
+[Difficulty "easy"]
+[Rating "1099"]
+[Themes "advancedPawn crushing endgame promotion short"]
+[GameUrl "https://lichess.org/game/5SBYMheY/black#76"]
+[Solution "g8g7 f4f8 g7h7 e7e8q"]
+[SolutionSAN "Kxg7 Qf8+ Kh7 e8=Q"]
+[FEN "6k1/p3P1B1/4q1r1/1p6/2pP1Qp1/P2p1P2/1P3KP1/8 b - - 0 38"]
+[SetUp "1"]
+
+38... Kxg7 39. Qf8+ Kh7 40. e8=Q *

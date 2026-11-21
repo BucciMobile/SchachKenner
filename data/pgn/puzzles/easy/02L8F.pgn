@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02L8F"]
+[Difficulty "easy"]
+[Rating "982"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/d2eitv89/black#50"]
+[Solution "e8e7 e5f6 e7f8 d2d8"]
+[SolutionSAN "Ke7 Bf6+ Kf8 Rd8#"]
+[FEN "4k1r1/1p3p2/p1r1p3/4B2p/4b3/P5P1/1PPR3P/2K2R2 b - - 3 25"]
+[SetUp "1"]
+
+25... Ke7 26. Bf6+ Kf8 27. Rd8# *
