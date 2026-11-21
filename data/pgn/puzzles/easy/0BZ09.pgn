@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BZ09"]
+[Difficulty "easy"]
+[Rating "805"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/fzJElvlh#121"]
+[Solution "f7g8 f4f8 c8f8 e7f8"]
+[SolutionSAN "Kg8 Rf8+ Qxf8 Bxf8"]
+[FEN "2Q5/4bK2/3p2p1/6k1/5r2/8/2P5/8 w - - 11 61"]
+[SetUp "1"]
+
+61. Kg8 Rf8+ 62. Qxf8 Bxf8 *

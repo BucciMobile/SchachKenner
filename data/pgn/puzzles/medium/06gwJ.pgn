@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06gwJ"]
+[Difficulty "medium"]
+[Rating "1298"]
+[Themes "discoveredAttack discoveredCheck master mate mateIn4 opening pillsburysMate veryLong"]
+[GameUrl "https://lichess.org/game/0HTMQLZq/black#28"]
+[Solution "d6e5 b2e5 g7h7 f7g5 h6g5 h4g5 f8h6 h1h6"]
+[SolutionSAN "dxe5 Bxe5+ Kh7 Ng5+ hxg5 hxg5+ Bh6 Rxh6#"]
+[FEN "r1b1qbr1/ppp1pNk1/1n1pP1pp/4Q3/7P/1P6/PBPP1PP1/RN2K2R b KQ - 0 14"]
+[SetUp "1"]
+
+14... dxe5 15. Bxe5+ Kh7 16. Ng5+ hxg5 17. hxg5+ Bh6 18. Rxh6# *

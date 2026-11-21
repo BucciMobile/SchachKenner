@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BJad"]
+[Difficulty "medium"]
+[Rating "1236"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/cKsCGhty/black#104"]
+[Solution "d4d5 d3c4 g8g7 c4d5"]
+[SolutionSAN "Rxd5 Bc4 Kg7 Bxd5"]
+[FEN "6k1/2p5/3p4/3P3p/3r2bP/3B4/PPK1p3/4R3 b - - 5 52"]
+[SetUp "1"]
+
+52... Rxd5 53. Bc4 Kg7 54. Bxd5 *

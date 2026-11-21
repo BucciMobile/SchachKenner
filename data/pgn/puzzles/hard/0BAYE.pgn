@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BAYE"]
+[Difficulty "hard"]
+[Rating "1727"]
+[Themes "advancedPawn bishopEndgame crushing endgame promotion short"]
+[GameUrl "https://lichess.org/game/vy4ItwXP/black#100"]
+[Solution "g4g3 a6a7 f2c5 a7a8q"]
+[SolutionSAN "g3 a7 Bxc5 a8=Q"]
+[FEN "8/8/P3k3/1KB1P2p/6p1/8/5b2/8 b - - 2 50"]
+[SetUp "1"]
+
+50... g3 51. a7 Bxc5 52. a8=Q *

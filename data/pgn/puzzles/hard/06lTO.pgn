@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06lTO"]
+[Difficulty "hard"]
+[Rating "1933"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/ynjKY5oV/black#46"]
+[Solution "d7c6 a2a8 c8d7 f3e5"]
+[SolutionSAN "Qc6 Qa8+ Kd7 Ne5#"]
+[FEN "2k3rr/1ppqbp2/3np3/5p1b/3P3p/2P2N1P/Q3BPP1/1R3RKN b - - 3 23"]
+[SetUp "1"]
+
+23... Qc6 24. Qa8+ Kd7 25. Ne5# *

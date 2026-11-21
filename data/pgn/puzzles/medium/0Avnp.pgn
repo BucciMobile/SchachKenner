@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Avnp"]
+[Difficulty "medium"]
+[Rating "1560"]
+[Themes "advantage fork long opening"]
+[GameUrl "https://lichess.org/game/26h2YPPW#19"]
+[Solution "d1a4 b4c3 b2c3 b7b5 c4b5 c6b5"]
+[SolutionSAN "Qa4 Bxc3+ bxc3 b5 Bxb5 cxb5"]
+[FEN "rn1qk2r/pp3pp1/2p1pnp1/8/1bBP4/2N1P3/PP3PPP/R1BQK2R w KQkq - 1 10"]
+[SetUp "1"]
+
+10. Qa4 Bxc3+ 11. bxc3 b5 12. Bxb5 cxb5 *

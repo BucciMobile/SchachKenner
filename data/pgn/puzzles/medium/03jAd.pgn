@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03jAd"]
+[Difficulty "medium"]
+[Rating "1567"]
+[Themes "crushing defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/Y7jowfpw/black#72"]
+[Solution "a3a2 d2e3 f6d4 d3d4"]
+[SolutionSAN "Qxa2+ Ke3 Bxd4+ Qxd4"]
+[FEN "2b4r/1p2k3/4pb2/8/p2B4/q1PQ1B2/P2KPP2/6R1 b - - 12 36"]
+[SetUp "1"]
+
+36... Qxa2+ 37. Ke3 Bxd4+ 38. Qxd4 *

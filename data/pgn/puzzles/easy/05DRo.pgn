@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05DRo"]
+[Difficulty "easy"]
+[Rating "938"]
+[Themes "endgame master mate mateIn1 oneMove smotheredMate"]
+[GameUrl "https://lichess.org/game/DGd0yID3/black#54"]
+[Solution "a8f8 g6e7"]
+[SolutionSAN "Rxf8 Ne7#"]
+[FEN "r4Qkr/pp3ppp/5nN1/3pb3/8/8/PP3PPP/4R1K1 b - - 6 27"]
+[SetUp "1"]
+
+27... Rxf8 28. Ne7# *

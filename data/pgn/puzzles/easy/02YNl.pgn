@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02YNl"]
+[Difficulty "easy"]
+[Rating "426"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/vNJPnxhD/black#132"]
+[Solution "d3f2 c8h8"]
+[SolutionSAN "Nf2 Rh8#"]
+[FEN "2R5/8/5Kpk/7p/8/3n4/8/8 b - - 15 66"]
+[SetUp "1"]
+
+66... Nf2 67. Rh8# *

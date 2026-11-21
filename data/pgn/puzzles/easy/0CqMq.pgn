@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CqMq"]
+[Difficulty "easy"]
+[Rating "669"]
+[Themes "endgame master mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/NErsnGBU/black#74"]
+[Solution "c3b3 a6a8"]
+[SolutionSAN "Rxb3 Ra8#"]
+[FEN "5k2/5pp1/R4P1p/1p1p4/5KP1/1Pr4P/8/8 b - - 0 37"]
+[SetUp "1"]
+
+37... Rxb3 38. Ra8# *

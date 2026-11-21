@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Mp8"]
+[Difficulty "hard"]
+[Rating "2423"]
+[Themes "crushing endgame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/y7DVsOYZ/black#50"]
+[Solution "d5a2 e5e6 a2a1 c1d2 f8d8 d2e3 a1d1 f6g6"]
+[SolutionSAN "Qxa2 e6 Qa1+ Kd2 Rfd8+ Ke3 Qxd1 Rxg6+"]
+[FEN "r4rk1/1pp2p1p/5RpP/p2qP3/8/2Q5/PPP5/2KR4 b - - 3 25"]
+[SetUp "1"]
+
+25... Qxa2 26. e6 Qa1+ 27. Kd2 Rfd8+ 28. Ke3 Qxd1 29. Rxg6+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dzwo"]
+[Difficulty "hard"]
+[Rating "2230"]
+[Themes "crushing long master middlegame"]
+[GameUrl "https://lichess.org/game/sUZAeuQC#43"]
+[Solution "h7g6 f4d4 e1e3 d7e5 g6h5 e8c8"]
+[SolutionSAN "Bg6 Qxd4+ Re3 Ne5 Bh5 Rc8"]
+[FEN "4rr1k/pp1n3B/4b3/3p2p1/3P1q2/5PN1/P1Q2KPP/2R1R3 w - - 0 22"]
+[SetUp "1"]
+
+22. Bg6 Qxd4+ 23. Re3 Ne5 24. Bh5 Rc8 *

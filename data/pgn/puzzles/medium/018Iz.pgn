@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "018Iz"]
+[Difficulty "medium"]
+[Rating "1319"]
+[Themes "advancedPawn bishopEndgame crushing endgame long promotion"]
+[GameUrl "https://lichess.org/game/51AxZaDj/black#102"]
+[Solution "b5c5 h5h6 c5c6 h6h7 c6d7 h7h8q"]
+[SolutionSAN "Kxc5 h6 Kc6 h7 Kxd7 h8=Q"]
+[FEN "8/3P4/8/1kP2pbP/8/5K2/8/8 b - - 0 51"]
+[SetUp "1"]
+
+51... Kxc5 52. h6 Kc6 53. h7 Kxd7 54. h8=Q *

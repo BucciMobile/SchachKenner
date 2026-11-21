@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04hNd"]
+[Difficulty "hard"]
+[Rating "1958"]
+[Themes "endgame mate mateIn1 oneMove queenEndgame"]
+[GameUrl "https://lichess.org/game/acB1djfT/black#70"]
+[Solution "d5d3 g5h5"]
+[SolutionSAN "Qd3 Qh5#"]
+[FEN "8/7p/2p5/3q1pQ1/4p3/5kPP/3P1P2/6K1 b - - 2 35"]
+[SetUp "1"]
+
+35... Qd3 36. Qh5# *

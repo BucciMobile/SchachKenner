@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01uDg"]
+[Difficulty "medium"]
+[Rating "1262"]
+[Themes "crushing endgame hangingPiece master short"]
+[GameUrl "https://lichess.org/game/RCNZUXRe/black#64"]
+[Solution "f4e3 e6f8 e8f6 h4f6"]
+[SolutionSAN "fxe3 Nxf8 Nxf6 Qxf6+"]
+[FEN "1q2nr1k/5p1p/4NP2/p7/5p1Q/4R3/1PP3PP/1K6 b - - 0 32"]
+[SetUp "1"]
+
+32... fxe3 33. Nxf8 Nxf6 34. Qxf6+ *

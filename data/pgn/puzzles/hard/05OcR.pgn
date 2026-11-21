@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05OcR"]
+[Difficulty "hard"]
+[Rating "1885"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/nKOG4OCT/black#60"]
+[Solution "b5b4 g3g7 g8g7 h5h6 g7g8 h6h7"]
+[SolutionSAN "b4 Rxg7+ Kxg7 Qxh6+ Kg8 Qh7#"]
+[FEN "1r3rk1/5pp1/p6p/1p5Q/3p3R/P5R1/1KP3PP/4q3 b - - 5 30"]
+[SetUp "1"]
+
+30... b4 31. Rxg7+ Kxg7 32. Qxh6+ Kg8 33. Qh7# *

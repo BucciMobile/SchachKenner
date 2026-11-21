@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04BWh"]
+[Difficulty "easy"]
+[Rating "631"]
+[Themes "endgame fork mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/qbwhQZcN#59"]
+[Solution "f3f2 e5e1 f2f1 e1f1"]
+[SolutionSAN "Rxf2 Qe1+ Rf1 Qxf1#"]
+[FEN "8/1pkn3Q/2pb4/p3q3/8/5R2/PPB2rPP/7K w - - 0 30"]
+[SetUp "1"]
+
+30. Rxf2 Qe1+ 31. Rf1 Qxf1# *

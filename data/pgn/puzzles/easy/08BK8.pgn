@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08BK8"]
+[Difficulty "easy"]
+[Rating "899"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/F7xs2t1p#65"]
+[Solution "b7a7 g7d4 g1f1 d4a7"]
+[SolutionSAN "Ra7 Bd4+ Kf1 Bxa7"]
+[FEN "6k1/1R4b1/6pp/p4p2/P1p1pP2/7P/6P1/6K1 w - - 1 33"]
+[SetUp "1"]
+
+33. Ra7 Bd4+ 34. Kf1 Bxa7 *

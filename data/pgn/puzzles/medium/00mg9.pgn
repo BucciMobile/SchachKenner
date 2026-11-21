@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00mg9"]
+[Difficulty "medium"]
+[Rating "1467"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/LvqtEXMe#55"]
+[Solution "d5e5 c7c2 b1a1 c2c1"]
+[SolutionSAN "Qe5 Qc2+ Ka1 Qc1#"]
+[FEN "1r1r3k/2q1b1pp/p7/3Q2pP/3B4/Pp6/1P3P2/1K1N2RR w - - 1 28"]
+[SetUp "1"]
+
+28. Qe5 Qc2+ 29. Ka1 Qc1# *

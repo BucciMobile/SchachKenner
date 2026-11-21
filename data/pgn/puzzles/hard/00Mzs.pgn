@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Mzs"]
+[Difficulty "hard"]
+[Rating "2055"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/RWXjVv9Z/black#48"]
+[Solution "a8d8 f3e5 g6g5 e5f7"]
+[SolutionSAN "Rad8 Ne5+ Kg5 Nf7+"]
+[FEN "r6r/p5pp/1p3nk1/5n2/1q6/5N2/P5PP/R2QR2K b - - 1 24"]
+[SetUp "1"]
+
+24... Rad8 25. Ne5+ Kg5 26. Nf7+ *

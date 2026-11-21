@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CegO"]
+[Difficulty "hard"]
+[Rating "2776"]
+[Themes "bishopEndgame crushing defensiveMove endgame master quietMove veryLong"]
+[GameUrl "https://lichess.org/game/FQPuiola#103"]
+[Solution "g3f4 e5f4 e3f2 h5h4 c2d3 h4h3 d3e4 g5h4 e4c6 f4f3 f2g1 h4g3"]
+[SolutionSAN "gxf4+ exf4+ Kf2 h4 Bd3 h3 Be4 Kh4 Bc6 f3 Kg1 Kg3"]
+[FEN "8/8/8/1p2p1kp/1P3pp1/4K1P1/2B5/8 w - - 0 52"]
+[SetUp "1"]
+
+52. gxf4+ exf4+ 53. Kf2 h4 54. Bd3 h3 55. Be4 Kh4 56. Bc6 f3 57. Kg1 Kg3 *

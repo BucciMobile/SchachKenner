@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01M89"]
+[Difficulty "easy"]
+[Rating "1197"]
+[Themes "advancedPawn crushing endgame hangingPiece long pin"]
+[GameUrl "https://lichess.org/game/XOFOkMQr#117"]
+[Solution "g3e2 f3e2 g1e1 f4f1 b1c1 f1e1"]
+[SolutionSAN "Ne2 fxe2 Re1 Rf1 Kc1 Rxe1+"]
+[FEN "8/2p5/1p2B3/p7/5r2/P4pN1/1PP4k/1K4R1 w - - 1 59"]
+[SetUp "1"]
+
+59. Ne2 fxe2 60. Re1 Rf1 61. Kc1 Rxe1+ *

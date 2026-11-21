@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06LWJ"]
+[Difficulty "easy"]
+[Rating "1009"]
+[Themes "endgame long master masterVsMaster mate mateIn3 pillsburysMate"]
+[GameUrl "https://lichess.org/game/ml4d8uMg/black#60"]
+[Solution "d8d5 e3h6 g7h8 b6b8 d5d8 b8d8"]
+[SolutionSAN "Rd5 Bh6+ Kh8 Rb8+ Rd8 Rxd8#"]
+[FEN "3r4/5pkp/1R6/1p5p/2b5/4B3/5PPK/8 b - - 3 30"]
+[SetUp "1"]
+
+30... Rd5 31. Bh6+ Kh8 32. Rb8+ Rd8 33. Rxd8# *

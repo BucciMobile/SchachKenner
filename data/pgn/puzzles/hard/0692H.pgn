@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0692H"]
+[Difficulty "hard"]
+[Rating "1890"]
+[Themes "crushing endgame knightEndgame master short"]
+[GameUrl "https://lichess.org/game/i5r63KSY#99"]
+[Solution "f4g5 f6g5 c3b1 f5e5"]
+[SolutionSAN "fxg5 fxg5 Nb1 Ke5"]
+[FEN "8/8/3p1p2/p2P1kp1/P4P2/2N2K2/1p6/8 w - - 0 50"]
+[SetUp "1"]
+
+50. fxg5 fxg5 51. Nb1 Ke5 *

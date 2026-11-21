@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02zMY"]
+[Difficulty "medium"]
+[Rating "1655"]
+[Themes "crushing endgame master queenEndgame short"]
+[GameUrl "https://lichess.org/game/AN93HtvD/black#74"]
+[Solution "g2g6 f6g6 f7g6 f5f4"]
+[SolutionSAN "Qg6+ Qxg6+ fxg6+ Kxf4"]
+[FEN "6k1/1p3p2/2p2Q2/2Pp1K2/1P1P1p2/8/6qP/8 b - - 5 37"]
+[SetUp "1"]
+
+37... Qg6+ 38. Qxg6+ fxg6+ 39. Kxf4 *

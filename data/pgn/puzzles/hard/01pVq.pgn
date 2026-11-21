@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01pVq"]
+[Difficulty "hard"]
+[Rating "2434"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/AGkx6s31/black#22"]
+[Solution "d7c5 b4c5 b6b2 d1d2"]
+[SolutionSAN "Nc5 bxc5 Qxb2 Qd2"]
+[FEN "r1b2rk1/pp1nbpp1/1qpp1n1p/4p3/1P2P3/P1NP1N2/1BP1BPPP/R2Q1RK1 b - - 0 11"]
+[SetUp "1"]
+
+11... Nc5 12. bxc5 Qxb2 13. Qd2 *

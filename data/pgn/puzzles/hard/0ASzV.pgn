@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ASzV"]
+[Difficulty "hard"]
+[Rating "2197"]
+[Themes "advantage defensiveMove long opening skewer"]
+[GameUrl "https://lichess.org/game/AQN7JLLH/black#20"]
+[Solution "b2c3 a1c1 c3d3 c1c8 e8d7 d1c1"]
+[SolutionSAN "Qxc3 Rc1 Qxd3 Rxc8+ Kd7 Qc1"]
+[FEN "rnb1kb1r/pp2pppp/3p4/8/8/2PB1N2/Pq1N1PPP/R2QK2R b KQkq - 1 10"]
+[SetUp "1"]
+
+10... Qxc3 11. Rc1 Qxd3 12. Rxc8+ Kd7 13. Qc1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BJSK"]
+[Difficulty "easy"]
+[Rating "815"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/1v0pRt5A#35"]
+[Solution "h1g1 h8h2"]
+[SolutionSAN "Kg1 Qh2#"]
+[FEN "1k5q/ppp2pp1/3r1n2/4P3/8/2P1P1p1/PP1NB1P1/R1BQ1R1K w - - 1 18"]
+[SetUp "1"]
+
+18. Kg1 Qh2# *

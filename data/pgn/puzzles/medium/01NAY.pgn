@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01NAY"]
+[Difficulty "medium"]
+[Rating "1683"]
+[Themes "crushing endgame pawnEndgame quietMove short"]
+[GameUrl "https://lichess.org/game/bM8MJCNV/black#110"]
+[Solution "a7a6 a3a4 a6b5 a4b5"]
+[SolutionSAN "a6 a4 axb5 axb5"]
+[FEN "8/pk1K4/1p6/1P6/8/P7/8/8 b - - 4 55"]
+[SetUp "1"]
+
+55... a6 56. a4 axb5 57. axb5 *

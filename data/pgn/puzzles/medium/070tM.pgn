@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "070tM"]
+[Difficulty "medium"]
+[Rating "1660"]
+[Themes "advantage endgame fork long"]
+[GameUrl "https://lichess.org/game/11OLTYy2/black#66"]
+[Solution "g6f5 f3f5 e6f5 e1e8 g8g7 e8c8"]
+[SolutionSAN "Qf5 Qxf5 exf5 Re8+ Kg7 Rxc8"]
+[FEN "2b3k1/1p3p1n/p1p1p1q1/8/2P5/P4Q2/1P3PP1/4R1K1 b - - 1 33"]
+[SetUp "1"]
+
+33... Qf5 34. Qxf5 exf5 35. Re8+ Kg7 36. Rxc8 *

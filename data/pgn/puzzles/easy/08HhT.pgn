@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08HhT"]
+[Difficulty "easy"]
+[Rating "800"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/f41wM6m8/black#62"]
+[Solution "b7f3 g2f3 g4h4 h3h4"]
+[SolutionSAN "Bxf3 Bxf3 Rxh4+ Kxh4"]
+[FEN "r5k1/1b4p1/4p2p/ppb1P3/2p3rP/P1Pp1N1K/1P3PB1/3R1R2 b - - 4 31"]
+[SetUp "1"]
+
+31... Bxf3 32. Bxf3 Rxh4+ 33. Kxh4 *

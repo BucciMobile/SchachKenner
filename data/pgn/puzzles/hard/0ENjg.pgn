@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ENjg"]
+[Difficulty "hard"]
+[Rating "1743"]
+[Themes "advantage kingsideAttack long opening"]
+[GameUrl "https://lichess.org/game/GEDfXLPz/black#22"]
+[Solution "d7d5 d1g4 e7g5 h6g5 c8f5 g4f5"]
+[SolutionSAN "d5 Qg4+ Bg5 Bxg5 Bxf5 Qxf5"]
+[FEN "r1bq2kr/ppppbp1p/2n4B/5N2/2n5/8/PPP2PPP/RN1Q1RK1 b - - 4 11"]
+[SetUp "1"]
+
+11... d5 12. Qg4+ Bg5 13. Bxg5 Bxf5 14. Qxf5 *

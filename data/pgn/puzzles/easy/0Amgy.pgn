@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Amgy"]
+[Difficulty "easy"]
+[Rating "919"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/qOZ7hDjt#61"]
+[Solution "f3d5 e8e1 g1h2 f5h5"]
+[SolutionSAN "Bxd5 Re1+ Kh2 Rh5#"]
+[FEN "4r2k/1R6/1pp4p/3b1r2/5p2/P1P2B2/1P1R1PP1/6K1 w - - 1 31"]
+[SetUp "1"]
+
+31. Bxd5 Re1+ 32. Kh2 Rh5# *

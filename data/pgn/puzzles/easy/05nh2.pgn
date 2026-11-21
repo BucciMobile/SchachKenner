@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05nh2"]
+[Difficulty "easy"]
+[Rating "1183"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/nVvkc8uA#33"]
+[Solution "b5c5 d8d2 c1d2 f4d2"]
+[SolutionSAN "Qxc5 Rxd2+ Bxd2 Qxd2#"]
+[FEN "3rk2r/pp5p/2p2p2/1Qb1p3/5q2/5nN1/PPPP3P/R1BK1B1R w k - 0 17"]
+[SetUp "1"]
+
+17. Qxc5 Rxd2+ 18. Bxd2 Qxd2# *

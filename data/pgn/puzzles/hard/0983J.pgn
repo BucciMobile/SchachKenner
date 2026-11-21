@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0983J"]
+[Difficulty "hard"]
+[Rating "2152"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/gP4Bmlm5#31"]
+[Solution "a3b4 a5b4 e4e5 b4c3"]
+[SolutionSAN "axb4 axb4 e5 bxc3"]
+[FEN "r1b2rk1/2p2pbp/5qp1/pp6/1n2Pp2/PBN2N1P/1PP1QPP1/2KR3R w - - 0 16"]
+[SetUp "1"]
+
+16. axb4 axb4 17. e5 bxc3 *

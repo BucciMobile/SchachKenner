@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09H6e"]
+[Difficulty "hard"]
+[Rating "1739"]
+[Themes "advantage defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/TQrNFowD/black#96"]
+[Solution "e6f5 e7f7 a2a4 c4d5"]
+[SolutionSAN "Kf5 Rxf7 Ra4+ Kd5"]
+[FEN "8/4Rp1p/4kPp1/6P1/2K4P/8/r7/8 b - - 3 48"]
+[SetUp "1"]
+
+48... Kf5 49. Rxf7 Ra4+ 50. Kd5 *

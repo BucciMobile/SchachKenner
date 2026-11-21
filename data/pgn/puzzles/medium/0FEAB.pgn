@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FEAB"]
+[Difficulty "medium"]
+[Rating "1365"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/WtW6q2AN#41"]
+[Solution "b1d1 e7c5 e3c5 e4c5"]
+[SolutionSAN "Rbd1 Bxc5 Qxc5 Nxc5"]
+[FEN "5rk1/3qb1pp/p1p5/2Pp4/4nB2/4Q3/P5PP/1R2R1K1 w - - 3 21"]
+[SetUp "1"]
+
+21. Rbd1 Bxc5 22. Qxc5 Nxc5 *

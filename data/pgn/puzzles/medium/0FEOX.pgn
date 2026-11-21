@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FEOX"]
+[Difficulty "medium"]
+[Rating "1200"]
+[Themes "endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/HT0r3RMy/black#60"]
+[Solution "c8c7 a7a8 c7c8 a8c8 g8h7 c8h8"]
+[SolutionSAN "Rxc7 Ra8+ Rc8 Rxc8+ Kh7 Rh8#"]
+[FEN "2r3k1/R1R2p2/4p1pp/3pB3/3P4/2P1n2P/5rPK/8 b - - 3 30"]
+[SetUp "1"]
+
+30... Rxc7 31. Ra8+ Rc8 32. Rxc8+ Kh7 33. Rh8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02yeg"]
+[Difficulty "hard"]
+[Rating "1803"]
+[Themes "discoveredAttack kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/djtoOszl/black#34"]
+[Solution "b5b4 e4f6 g7f6 d3h7"]
+[SolutionSAN "b4 Nf6+ gxf6 Qxh7#"]
+[FEN "r4rk1/p1npqppp/b1n1p3/1p2P3/4N3/3Q1N2/PPB2PPP/R2R2K1 b - - 3 17"]
+[SetUp "1"]
+
+17... b4 18. Nf6+ gxf6 19. Qxh7# *

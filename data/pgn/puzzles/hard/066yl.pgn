@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "066yl"]
+[Difficulty "hard"]
+[Rating "2265"]
+[Themes "crushing endgame long pin"]
+[GameUrl "https://lichess.org/game/MJTwo9KS/black#48"]
+[Solution "e3d4 d6f5 d4c5 f5e7 c5e7 f1f7"]
+[SolutionSAN "Qxd4 Nf5 Qc5 Nxe7 Qxe7 Rf7"]
+[FEN "r7/1p1kn1Q1/p2Np2p/3pP3/3P4/4q3/P5PP/5R1K b - - 1 24"]
+[SetUp "1"]
+
+24... Qxd4 25. Nf5 Qc5 26. Nxe7 Qxe7 27. Rf7 *

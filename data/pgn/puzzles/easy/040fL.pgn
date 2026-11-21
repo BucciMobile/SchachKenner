@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "040fL"]
+[Difficulty "easy"]
+[Rating "859"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/ABofI3BC/black#42"]
+[Solution "b5c5 c3g7"]
+[SolutionSAN "Qc5 Qxg7#"]
+[FEN "r4rk1/pp2bpp1/2n1p2p/1q6/6PP/1PQ5/PB3P2/3RKN2 b - - 7 21"]
+[SetUp "1"]
+
+21... Qc5 22. Qxg7# *

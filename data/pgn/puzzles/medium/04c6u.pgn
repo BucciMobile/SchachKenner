@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04c6u"]
+[Difficulty "medium"]
+[Rating "1530"]
+[Themes "deflection endgame kingsideAttack long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/QrIT4O9c#49"]
+[Solution "a1e1 h4f2 e2f2 e8e1 f2f1 e1f1"]
+[SolutionSAN "Rae1 Qxf2+ Rxf2 Rxe1+ Rf1 Rexf1#"]
+[FEN "4rr1k/6pp/Q7/1pp5/3p3q/P2P4/1PP1RPPP/R5K1 w - - 3 25"]
+[SetUp "1"]
+
+25. Rae1 Qxf2+ 26. Rxf2 Rxe1+ 27. Rf1 Rexf1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00VJF"]
+[Difficulty "medium"]
+[Rating "1233"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/x96V69hr/black#64"]
+[Solution "c7d7 b5d7 f6d7 b6d8"]
+[SolutionSAN "Qd7 Qxd7 Nxd7 Bxd8"]
+[FEN "2rr2k1/1pq2pp1/1B2pnp1/1Q1p4/8/2P2B2/PP4Pb/3RR2K b - - 1 32"]
+[SetUp "1"]
+
+32... Qd7 33. Qxd7 Nxd7 34. Bxd8 *

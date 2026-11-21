@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00PrK"]
+[Difficulty "easy"]
+[Rating "968"]
+[Themes "crushing endgame short skewer"]
+[GameUrl "https://lichess.org/game/N9FWAV9a/black#110"]
+[Solution "a8a6 h7h6 e6d5 h6a6"]
+[SolutionSAN "Rxa6 Rh6+ Kd5 Rxa6"]
+[FEN "r7/7R/P3k3/4p2p/3b2p1/3K4/8/5R2 b - - 7 55"]
+[SetUp "1"]
+
+55... Rxa6 56. Rh6+ Kd5 57. Rxa6 *

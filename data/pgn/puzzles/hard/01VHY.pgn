@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01VHY"]
+[Difficulty "hard"]
+[Rating "2798"]
+[Themes "advancedPawn crushing defensiveMove endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/irrUnPjb/black#78"]
+[Solution "f5f4 b5b6 c8b8 b6b7 e5e6 c1a1"]
+[SolutionSAN "f4 b6 Kb8 b7 Re6 Ra1"]
+[FEN "2k5/p1p5/P7/1PP1rp2/7p/6pP/6P1/2R3K1 b - - 3 39"]
+[SetUp "1"]
+
+39... f4 40. b6 Kb8 41. b7 Re6 42. Ra1 *

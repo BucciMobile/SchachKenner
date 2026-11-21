@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09MHa"]
+[Difficulty "medium"]
+[Rating "1417"]
+[Themes "crushing endgame master sacrifice short"]
+[GameUrl "https://lichess.org/game/bAAD8ZPp#53"]
+[Solution "e1e2 h6e3 e2e3 b8b2"]
+[SolutionSAN "Re2 Bxe3+ Rxe3 Rb2+"]
+[FEN "1r4k1/5p1p/2Q1p1pb/3pP3/3P4/3qPN1P/5KP1/4R3 w - - 1 27"]
+[SetUp "1"]
+
+27. Re2 Bxe3+ 28. Rxe3 Rb2+ *

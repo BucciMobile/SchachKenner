@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08qei"]
+[Difficulty "hard"]
+[Rating "2334"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/tOVX5SMa/black#56"]
+[Solution "b7b8 a8b8 d8b8 g2g4"]
+[SolutionSAN "Rbb8 Rxb8 Rxb8 g4"]
+[FEN "R2r4/1r1q1pkp/2p1pbp1/1pP2n2/1P1PQ3/5P2/4NBPP/R5K1 b - - 9 28"]
+[SetUp "1"]
+
+28... Rbb8 29. Rxb8 Rxb8 30. g4 *

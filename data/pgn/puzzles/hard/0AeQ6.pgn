@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AeQ6"]
+[Difficulty "hard"]
+[Rating "2409"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/KaKzmUT2/black#38"]
+[Solution "f7c4 e2e3 e5g6 e4d2"]
+[SolutionSAN "Bc4 Qe3 Ng6 Nd2"]
+[FEN "2kr3r/ppq1bb2/2p2p1p/4nN2/3PN3/7P/PPP1QPP1/R3R1K1 b - - 0 19"]
+[SetUp "1"]
+
+19... Bc4 20. Qe3 Ng6 21. Nd2 *

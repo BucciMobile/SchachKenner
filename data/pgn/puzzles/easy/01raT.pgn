@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01raT"]
+[Difficulty "easy"]
+[Rating "1021"]
+[Themes "crushing defensiveMove endgame long master rookEndgame"]
+[GameUrl "https://lichess.org/game/s7qT56Ht/black#138"]
+[Solution "g8g7 d5d7 f7d7 e6d7 g7f7 d7d6"]
+[SolutionSAN "Kg7 Rd7 Rxd7 Kxd7 Kf7 Kd6"]
+[FEN "6k1/5r2/4K1p1/3R2P1/8/8/8/8 b - - 9 69"]
+[SetUp "1"]
+
+69... Kg7 70. Rd7 Rxd7 71. Kxd7 Kf7 72. Kd6 *

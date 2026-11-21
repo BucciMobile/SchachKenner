@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Csuj"]
+[Difficulty "hard"]
+[Rating "2255"]
+[Themes "advantage defensiveMove endgame long master"]
+[GameUrl "https://lichess.org/game/TY5pxLdL#71"]
+[Solution "b6b8 f8c8 b8c8 g8f7 c8c1 h7h5"]
+[SolutionSAN "Qb8 Rxc8 Qxc8+ Kf7 Qc1 h5"]
+[FEN "2R2rk1/6np/1Q2p3/3p1p2/3P1Pp1/P2KP3/1P1N2q1/8 w - - 1 36"]
+[SetUp "1"]
+
+36. Qb8 Rxc8 37. Qxc8+ Kf7 38. Qc1 h5 *

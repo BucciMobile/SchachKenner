@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09FtK"]
+[Difficulty "medium"]
+[Rating "1286"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/2ukOueD3/black#46"]
+[Solution "b5d5 c7f7"]
+[SolutionSAN "Qd5 Qxf7#"]
+[FEN "r3k2r/1pQ2p2/p1b1pPp1/Bq3nNp/3p1P2/1P1P4/P5PP/R4RK1 b kq - 6 23"]
+[SetUp "1"]
+
+23... Qd5 24. Qxf7# *

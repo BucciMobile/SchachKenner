@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04sKi"]
+[Difficulty "hard"]
+[Rating "2103"]
+[Themes "advantage discoveredAttack long middlegame"]
+[GameUrl "https://lichess.org/game/37wEF56A/black#50"]
+[Solution "f8f5 g2d5 g8f8 e5g6 h7g6 g3c7"]
+[SolutionSAN "Rxf5 Bd5+ Kf8 Ng6+ hxg6 Qxc7"]
+[FEN "1rb2rk1/p1qnb1pp/8/1pp1NP2/8/1P1P2QP/PB1N2B1/2R3K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Rxf5 26. Bd5+ Kf8 27. Ng6+ hxg6 28. Qxc7 *

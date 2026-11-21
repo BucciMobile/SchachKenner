@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00OYl"]
+[Difficulty "hard"]
+[Rating "1944"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/es489ddj#67"]
+[Solution "f3h4 f5e5 e2f1 e5c5"]
+[SolutionSAN "Nh4 Rxe5 Qf1 Rxc5"]
+[FEN "3r4/5p2/k3p1p1/2B1Pr2/2P3n1/1p3NPp/4QP1P/6K1 w - - 0 34"]
+[SetUp "1"]
+
+34. Nh4 Rxe5 35. Qf1 Rxc5 *

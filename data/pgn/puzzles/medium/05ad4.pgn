@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ad4"]
+[Difficulty "medium"]
+[Rating "1205"]
+[Themes "advantage discoveredAttack discoveredCheck kingsideAttack opening short"]
+[GameUrl "https://lichess.org/game/XvUdrUG1#21"]
+[Solution "h3g4 h5g4 f3h2 g4g3"]
+[SolutionSAN "hxg4 hxg4+ Nh2 g3"]
+[FEN "r3k1nr/pp1n1pb1/1qp3p1/4p2p/4P1b1/2NP1N1P/PPP1B1P1/R1BQ1R1K w kq - 0 11"]
+[SetUp "1"]
+
+11. hxg4 hxg4+ 12. Nh2 g3 *

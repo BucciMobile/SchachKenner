@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09vvv"]
+[Difficulty "easy"]
+[Rating "626"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/euS19JDc#63"]
+[Solution "e1f1 f4f1 b1f1 f8f1"]
+[SolutionSAN "Rxf1 Rxf1+ Rxf1 Rxf1#"]
+[FEN "5r1k/7p/3pQ1p1/1p2b3/1P3r2/7P/6P1/1R2Rq1K w - - 1 32"]
+[SetUp "1"]
+
+32. Rxf1 Rxf1+ 33. Rxf1 Rxf1# *

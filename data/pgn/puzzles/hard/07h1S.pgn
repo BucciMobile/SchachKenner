@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07h1S"]
+[Difficulty "hard"]
+[Rating "2392"]
+[Themes "advancedPawn crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/iEUXTT4G/black#84"]
+[Solution "b3e6 d4d5 e6f5 c6c7 f5c8 d5d6 b4b3 d6d7"]
+[SolutionSAN "Qe6 d5 Qf5 c7 Qc8 d6 b3 d7"]
+[FEN "7k/6b1/2P4p/p7/Pp1P4/1q6/6PP/2Q4K b - - 1 42"]
+[SetUp "1"]
+
+42... Qe6 43. d5 Qf5 44. c7 Qc8 45. d6 b3 46. d7 *

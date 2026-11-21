@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07n7R"]
+[Difficulty "medium"]
+[Rating "1522"]
+[Themes "advancedPawn crushing endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/0n5tewnq/black#92"]
+[Solution "e7e3 d5d6 e3f3 d6d7"]
+[SolutionSAN "Re3 d6 Rxf3 d7"]
+[FEN "2R5/1p2r2p/1k6/2pP4/2K5/5P2/8/8 b - - 3 46"]
+[SetUp "1"]
+
+46... Re3 47. d6 Rxf3 48. d7 *

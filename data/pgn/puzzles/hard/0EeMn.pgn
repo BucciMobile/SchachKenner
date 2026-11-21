@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EeMn"]
+[Difficulty "hard"]
+[Rating "2372"]
+[Themes "crushing endgame pin veryLong"]
+[GameUrl "https://lichess.org/game/oIrTFMhg#35"]
+[Solution "a8h8 f4f3 g2g4 g6h6 h8a8 h6h3 a8f3 h3f3"]
+[SolutionSAN "Qxh8 f3 g4 Qh6 Qa8 Qxh3 Qxf3 Qxf3"]
+[FEN "Q6r/p1kn1ppp/3p2q1/8/3b1p2/3P3P/PPP2PP1/R3R1K1 w - - 1 18"]
+[SetUp "1"]
+
+18. Qxh8 f3 19. g4 Qh6 20. Qa8 Qxh3 21. Qxf3 Qxf3 *

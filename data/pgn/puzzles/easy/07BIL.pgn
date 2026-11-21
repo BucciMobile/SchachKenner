@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07BIL"]
+[Difficulty "easy"]
+[Rating "947"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/V4ozO4W6#57"]
+[Solution "h1g2 a1f1"]
+[SolutionSAN "Kg2 Qf1#"]
+[FEN "1k3r2/p1p5/1P6/8/1P2N3/3P2P1/P2Q3P/q6K w - - 1 29"]
+[SetUp "1"]
+
+29. Kg2 Qf1# *

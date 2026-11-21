@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BrKN"]
+[Difficulty "hard"]
+[Rating "2163"]
+[Themes "advantage defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/xh4ppewf/black#60"]
+[Solution "f8f4 f2g3 a4b3 g3f4"]
+[SolutionSAN "Rxf4+ Kg3 Qb3+ Kxf4"]
+[FEN "1k3r2/ppp3Q1/8/1b2N2r/q1pP1P2/8/1P2RKP1/5R2 b - - 0 30"]
+[SetUp "1"]
+
+30... Rxf4+ 31. Kg3 Qb3+ 32. Kxf4 *

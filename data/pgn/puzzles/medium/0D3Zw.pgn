@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D3Zw"]
+[Difficulty "medium"]
+[Rating "1700"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/NdxxzpdO#91"]
+[Solution "d6d7 f4d5 e7e6 a7d7"]
+[SolutionSAN "Rd7 Nd5+ Ke6 Rxd7"]
+[FEN "6k1/r3K1P1/3R4/8/2p2n2/2B5/8/8 w - - 1 46"]
+[SetUp "1"]
+
+46. Rd7 Nd5+ 47. Ke6 Rxd7 *

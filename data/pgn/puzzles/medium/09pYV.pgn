@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09pYV"]
+[Difficulty "medium"]
+[Rating "1552"]
+[Themes "endgame mate mateIn2 short vukovicMate"]
+[GameUrl "https://lichess.org/game/WG2uumFD/black#88"]
+[Solution "c4c3 h6f7 h8h7 g5g7"]
+[SolutionSAN "c3 Nf7+ Kh7 Rg7#"]
+[FEN "7k/8/5K1N/p5RP/r1p5/3n4/8/8 b - - 1 44"]
+[SetUp "1"]
+
+44... c3 45. Nf7+ Kh7 46. Rg7# *

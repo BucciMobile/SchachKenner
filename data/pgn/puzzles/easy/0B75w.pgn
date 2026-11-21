@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B75w"]
+[Difficulty "easy"]
+[Rating "1036"]
+[Themes "advantage discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/f77az7lQ/black#54"]
+[Solution "d1d3 e3f5 g6f5 f3d3"]
+[SolutionSAN "Rd3 Nf5+ gxf5 Rxd3"]
+[FEN "8/2p3k1/p1n3pp/1p2p3/1P6/2P1NR1P/P5PK/3r4 b - - 1 27"]
+[SetUp "1"]
+
+27... Rd3 28. Nf5+ gxf5 29. Rxd3 *

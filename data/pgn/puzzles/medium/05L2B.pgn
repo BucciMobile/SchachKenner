@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05L2B"]
+[Difficulty "medium"]
+[Rating "1684"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/9Mo6Sn37/black#28"]
+[Solution "c6f3 g2f3 d6f4 h6f4"]
+[SolutionSAN "Bxf3 gxf3 Bf4+ Qxf4"]
+[FEN "r2q1rk1/ppp2p2/2bb1n1Q/8/8/2N2N2/PPP2PPP/2KR3R b - - 0 14"]
+[SetUp "1"]
+
+14... Bxf3 15. gxf3 Bf4+ 16. Qxf4 *

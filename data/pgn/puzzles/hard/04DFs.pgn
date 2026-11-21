@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04DFs"]
+[Difficulty "hard"]
+[Rating "1983"]
+[Themes "advancedPawn crushing long middlegame promotion"]
+[GameUrl "https://lichess.org/game/8Odv6hR4/black#54"]
+[Solution "e5d5 b3d5 d8d5 b6a7 c8c7 a7a8q"]
+[SolutionSAN "Qd5 Qxd5 Rxd5 bxa7 Kc7 a8=Q"]
+[FEN "2kr1b1r/p4ppp/1P6/4q3/8/1Q6/1P1N4/R2K4 b - - 6 27"]
+[SetUp "1"]
+
+27... Qd5 28. Qxd5 Rxd5 29. bxa7 Kc7 30. a8=Q *

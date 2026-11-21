@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02hUG"]
+[Difficulty "easy"]
+[Rating "1158"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/vd3CgvwR#63"]
+[Solution "e2d2 c5c1 d2d1 c1f4"]
+[SolutionSAN "Red2 Qc1+ Rd1 Qxf4"]
+[FEN "r5k1/1p3pp1/p2R1np1/2q5/5Q2/8/P3RPPP/6K1 w - - 3 32"]
+[SetUp "1"]
+
+32. Red2 Qc1+ 33. Rd1 Qxf4 *

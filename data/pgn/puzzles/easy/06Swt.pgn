@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Swt"]
+[Difficulty "easy"]
+[Rating "980"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/wZ8nYk1a/black#32"]
+[Solution "d6c5 a7f7"]
+[SolutionSAN "Bxc5 Qxf7#"]
+[FEN "2rqk2r/Q4ppp/2pb4/2P1pb2/8/1B1n1P2/PP4PP/R1B2KNR b k - 1 16"]
+[SetUp "1"]
+
+16... Bxc5 17. Qxf7# *

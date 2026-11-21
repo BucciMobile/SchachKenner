@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DS9v"]
+[Difficulty "hard"]
+[Rating "2146"]
+[Themes "crushing middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/cx5zywtU#53"]
+[Solution "d1d4 b6d4 b1c2 d4d3"]
+[SolutionSAN "Rxd4 Qxd4 Kxc2 Qd3+"]
+[FEN "3r2k1/5p1p/pq4p1/1p4P1/3nP2P/5P2/PPr3B1/1K1RQ2R w - - 0 27"]
+[SetUp "1"]
+
+27. Rxd4 Qxd4 28. Kxc2 Qd3+ *

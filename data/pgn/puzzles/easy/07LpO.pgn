@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07LpO"]
+[Difficulty "easy"]
+[Rating "1110"]
+[Themes "advancedPawn attraction endgame mate mateIn2 promotion rookEndgame short"]
+[GameUrl "https://lichess.org/game/HErroBco/black#88"]
+[Solution "e8g8 g7g8 h8g8 e7e8q"]
+[SolutionSAN "Rg8 Rxg8+ Kxg8 e8=Q#"]
+[FEN "4r2k/4P1R1/1p4K1/7p/r4P2/8/8/8 b - - 0 44"]
+[SetUp "1"]
+
+44... Rg8 45. Rxg8+ Kxg8 46. e8=Q# *

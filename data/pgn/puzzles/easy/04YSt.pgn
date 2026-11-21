@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04YSt"]
+[Difficulty "easy"]
+[Rating "863"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/wuThqwKM#31"]
+[Solution "c1d2 d4e2"]
+[SolutionSAN "Bd2 Ne2#"]
+[FEN "r1b2r2/pp4kp/2p3p1/4p3/3nB3/3PN3/PPP3PP/R1B3KR w - - 1 16"]
+[SetUp "1"]
+
+16. Bd2 Ne2# *

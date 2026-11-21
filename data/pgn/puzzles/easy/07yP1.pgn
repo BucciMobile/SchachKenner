@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07yP1"]
+[Difficulty "easy"]
+[Rating "1098"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/q0nALkwe/black#46"]
+[Solution "e7d6 c4c5 g8h8 c5d6"]
+[SolutionSAN "Bd6 c5+ Kh8 cxd6"]
+[FEN "r1b2rk1/ppp1b1pp/8/5p2/2PPp1q1/1Q4N1/PP1BR1PP/5R1K b - - 1 23"]
+[SetUp "1"]
+
+23... Bd6 24. c5+ Kh8 25. cxd6 *

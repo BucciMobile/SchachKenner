@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Gnp"]
+[Difficulty "medium"]
+[Rating "1318"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/TnChAOQE#63"]
+[Solution "d3g6 h3h2 g1f1 h2f2"]
+[SolutionSAN "Qxg6 Qh2+ Kf1 Qxf2#"]
+[FEN "2r3k1/6b1/R3p1r1/3p4/3P4/2PQ1Ppq/1P3P2/4R1K1 w - - 0 32"]
+[SetUp "1"]
+
+32. Qxg6 Qh2+ 33. Kf1 Qxf2# *

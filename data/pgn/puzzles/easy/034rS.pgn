@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "034rS"]
+[Difficulty "easy"]
+[Rating "1175"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/fTwwoqOC/black#50"]
+[Solution "e5e4 d1d8 c8d8 b6d8"]
+[SolutionSAN "e4 Rd8+ Rxd8 Qxd8#"]
+[FEN "2r1k2r/5pbp/1Q4p1/Bp2p3/2q5/8/PP3PPP/1K1RR3 b k - 0 25"]
+[SetUp "1"]
+
+25... e4 26. Rd8+ Rxd8 27. Qxd8# *

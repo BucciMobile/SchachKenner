@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05gYL"]
+[Difficulty "easy"]
+[Rating "1129"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/cOjkxGUq/black#38"]
+[Solution "e5e3 f3e3 d5e3 d1d8"]
+[SolutionSAN "Qe3+ Qxe3 Nxe3 Rxd8+"]
+[FEN "3r2kr/pp6/2p2p2/3nq2p/8/5Q2/PPP3PP/3R1RK1 b - - 1 19"]
+[SetUp "1"]
+
+19... Qe3+ 20. Qxe3 Nxe3 21. Rxd8+ *

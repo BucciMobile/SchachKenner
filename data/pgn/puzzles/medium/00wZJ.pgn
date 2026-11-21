@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00wZJ"]
+[Difficulty "medium"]
+[Rating "1319"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/5kqvWE61#51"]
+[Solution "e4g6 h7g6 d3g6 f7g7"]
+[SolutionSAN "Bxg6 hxg6 Qxg6+ Rg7"]
+[FEN "1r4k1/3bqr1p/2p1p1p1/1p2P3/p2PBP2/2PQ2P1/P5K1/1R5R w - - 1 26"]
+[SetUp "1"]
+
+26. Bxg6 hxg6 27. Qxg6+ Rg7 *

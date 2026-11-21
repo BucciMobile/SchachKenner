@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DLir"]
+[Difficulty "hard"]
+[Rating "1878"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/IovUZWDF/black#96"]
+[Solution "b7b6 a4a5 c5b4 a5b6"]
+[SolutionSAN "b6 a5 cxb4 axb6"]
+[FEN "8/1p6/p4p1p/2p3k1/PP4P1/2PP2K1/8/8 b - - 0 48"]
+[SetUp "1"]
+
+48... b6 49. a5 cxb4 50. axb6 *

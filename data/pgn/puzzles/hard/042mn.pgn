@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "042mn"]
+[Difficulty "hard"]
+[Rating "1940"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/QXALNuyl/black#72"]
+[Solution "c3e3 e2d1 e3b3 g6c2 b3c2 d1c2"]
+[SolutionSAN "Qe3+ Kd1 Qb3+ Bc2 Qxc2+ Kxc2"]
+[FEN "2b2rk1/3n2nR/p3p1B1/3pP3/3p1PP1/2q3N1/4K3/7Q b - - 6 36"]
+[SetUp "1"]
+
+36... Qe3+ 37. Kd1 Qb3+ 38. Bc2 Qxc2+ 39. Kxc2 *

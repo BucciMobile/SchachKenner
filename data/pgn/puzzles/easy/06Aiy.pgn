@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Aiy"]
+[Difficulty "easy"]
+[Rating "818"]
+[Themes "backRankMate hangingPiece mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/ser41dXL/black#28"]
+[Solution "c3d5 b2h8"]
+[SolutionSAN "Nd5 Qxh8#"]
+[FEN "r3k2r/pp1qpp1p/2n1b1pB/2p5/6P1/2nP1N1P/PQP2PB1/R3K2R b KQkq - 1 14"]
+[SetUp "1"]
+
+14... Nd5 15. Qxh8# *

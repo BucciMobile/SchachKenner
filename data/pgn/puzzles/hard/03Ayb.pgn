@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Ayb"]
+[Difficulty "hard"]
+[Rating "1938"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/7LfACH2E/black#36"]
+[Solution "f7g8 h5h6 a5c7 e5c7"]
+[SolutionSAN "Kg8 Qh6 Qc7 Bxc7"]
+[FEN "r6r/pp3k1p/2p1b1p1/q1b1B2Q/8/2n3P1/PPP3KP/R4R2 b - - 1 18"]
+[SetUp "1"]
+
+18... Kg8 19. Qh6 Qc7 20. Bxc7 *

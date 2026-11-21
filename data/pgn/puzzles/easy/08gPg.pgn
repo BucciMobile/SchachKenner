@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08gPg"]
+[Difficulty "easy"]
+[Rating "973"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/or3UbNc0/black#42"]
+[Solution "e5e1 g4g7"]
+[SolutionSAN "Qxe1 Qxg7#"]
+[FEN "r3r1k1/pp3pp1/2p4B/3bq3/6Q1/P5P1/1P3P1P/4RRK1 b - - 0 21"]
+[SetUp "1"]
+
+21... Qxe1 22. Qxg7# *

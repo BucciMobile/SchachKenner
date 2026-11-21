@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07XFF"]
+[Difficulty "hard"]
+[Rating "1843"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/QzFoHHER/black#36"]
+[Solution "e8g8 d1h5 g7g6 h5e5 f6e5 e1e5"]
+[SolutionSAN "O-O Qh5 g6 Qxe5 Qxe5 Rxe5"]
+[FEN "r1b1k2r/3p1ppp/2p1pq2/p3b3/P7/1P1B2P1/2PB1P1P/1R1QR1K1 b kq - 0 18"]
+[SetUp "1"]
+
+18... O-O 19. Qh5 g6 20. Qxe5 Qxe5 21. Rxe5 *

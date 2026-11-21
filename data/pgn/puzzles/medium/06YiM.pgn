@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06YiM"]
+[Difficulty "medium"]
+[Rating "1484"]
+[Themes "advantage endgame fork long sacrifice"]
+[GameUrl "https://lichess.org/game/s3CRjIT0#49"]
+[Solution "d3d6 f6e4 d6e6 e4g3 h1h2 g3e2"]
+[SolutionSAN "Rd6 Nxe4 Rxe6 Ng3+ Kh2 Nxe2"]
+[FEN "5rk1/p5p1/2p1qn1p/4p3/4N3/P2R3P/1PP1Q1P1/7K w - - 1 25"]
+[SetUp "1"]
+
+25. Rd6 Nxe4 26. Rxe6 Ng3+ 27. Kh2 Nxe2 *

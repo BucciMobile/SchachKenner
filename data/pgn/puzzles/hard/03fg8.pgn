@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03fg8"]
+[Difficulty "hard"]
+[Rating "1962"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[GameUrl "https://lichess.org/game/CdZAalg4#115"]
+[Solution "g2g3 d4d3 g3h4 c5c4 h4h5 c4c3 h5h6 c3c2 f4f5 c2c1q"]
+[SolutionSAN "g3 Kxd3 gxh4 c4 h5 c3 h6 c2 Kf5 c1=Q"]
+[FEN "8/8/8/2p5/3k1K1p/3P3P/6P1/8 w - - 1 58"]
+[SetUp "1"]
+
+58. g3 Kxd3 59. gxh4 c4 60. h5 c3 61. h6 c2 62. Kf5 c1=Q *

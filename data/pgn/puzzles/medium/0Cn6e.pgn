@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cn6e"]
+[Difficulty "medium"]
+[Rating "1351"]
+[Themes "endgame master masterVsMaster mate mateIn1 oneMove pin"]
+[GameUrl "https://lichess.org/game/Z29PuQ1a#75"]
+[Solution "b5a5 e3e1"]
+[SolutionSAN "Rxa5 Re1#"]
+[FEN "5rk1/2p3p1/2R4p/pR6/P2P4/4rNbP/6P1/5K2 w - - 6 38"]
+[SetUp "1"]
+
+38. Rxa5 Re1# *

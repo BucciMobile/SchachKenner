@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07kC8"]
+[Difficulty "hard"]
+[Rating "2270"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/Ngljpolk#63"]
+[Solution "e2f4 e6f4 g3f4 b2b7"]
+[SolutionSAN "Nf4 Nxf4+ gxf4 Qb7+"]
+[FEN "3r4/4pk2/4n2p/R1p2p2/P1P3p1/4Q1P1/1q2NPKP/8 w - - 0 32"]
+[SetUp "1"]
+
+32. Nf4 Nxf4+ 33. gxf4 Qb7+ *

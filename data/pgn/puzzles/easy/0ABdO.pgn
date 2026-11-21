@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ABdO"]
+[Difficulty "easy"]
+[Rating "794"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/9edUMNkg#47"]
+[Solution "g2f1 f5h3"]
+[SolutionSAN "Kf1 Qh3#"]
+[FEN "6r1/pp3k1p/3pbp1B/5q2/8/8/PPP1QPKP/R3R3 w - - 1 24"]
+[SetUp "1"]
+
+24. Kf1 Qh3# *

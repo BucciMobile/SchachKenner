@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BIMV"]
+[Difficulty "hard"]
+[Rating "2506"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/5urNK5VR#83"]
+[Solution "f3e3 e5e3 e2e3 h6g5 e3f3 g5h4"]
+[SolutionSAN "Rxe3 Rxe3+ Kxe3 Kg5 Kf3 Kh4"]
+[FEN "8/6p1/5p1k/4rP1p/6P1/4pR1P/4K3/8 w - - 1 42"]
+[SetUp "1"]
+
+42. Rxe3 Rxe3+ 43. Kxe3 Kg5 44. Kf3 Kh4 *

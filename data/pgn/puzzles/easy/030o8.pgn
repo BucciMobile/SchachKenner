@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "030o8"]
+[Difficulty "easy"]
+[Rating "937"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/JwSBkIUT#77"]
+[Solution "g2g3 f8f3 g3h4 f2h2"]
+[SolutionSAN "Kg3 R8f3+ Kh4 Rh2#"]
+[FEN "5r1k/6p1/p1R5/1p4PP/6R1/P7/5rK1/8 w - - 0 39"]
+[SetUp "1"]
+
+39. Kg3 R8f3+ 40. Kh4 Rh2# *

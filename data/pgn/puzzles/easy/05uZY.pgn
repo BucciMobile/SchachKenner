@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05uZY"]
+[Difficulty "easy"]
+[Rating "1090"]
+[Themes "crushing endgame exposedKing fork long"]
+[GameUrl "https://lichess.org/game/RSUuOYYz/black#56"]
+[Solution "d2f4 e2c4 g8h8 e5f7 h8g7 f7g5"]
+[SolutionSAN "Bf4 Qc4+ Kh8 Nf7+ Kg7 Nxg5"]
+[FEN "6k1/pp6/2p3pp/4Npq1/3Pp3/2P5/PP1bQP2/5K2 b - - 1 28"]
+[SetUp "1"]
+
+28... Bf4 29. Qc4+ Kh8 30. Nf7+ Kg7 31. Nxg5 *

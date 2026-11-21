@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04zhG"]
+[Difficulty "easy"]
+[Rating "1042"]
+[Themes "discoveredCheck doubleCheck mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/6V85NHWz/black#32"]
+[Solution "d7f6 h5g6"]
+[SolutionSAN "Nf6 hxg6#"]
+[FEN "r1b2r2/pppnNpbk/3p2p1/6BP/3pqP2/4P2R/PPP1Q3/R3K1N1 b Q - 0 16"]
+[SetUp "1"]
+
+16... Nf6 17. hxg6# *

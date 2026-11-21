@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B31E"]
+[Difficulty "medium"]
+[Rating "1567"]
+[Themes "advantage hangingPiece long middlegame pin"]
+[GameUrl "https://lichess.org/game/JShChNw9/black#36"]
+[Solution "d7f7 d1g4 f7d7 b3e6 d7e6 g4e6"]
+[SolutionSAN "Qxf7 Qxg4+ Qd7 Be6 Qxe6 Qxe6+"]
+[FEN "2kr3r/1ppq1Rp1/p1np4/4p3/1P2P1n1/1BPP4/P2N1PPp/R2Q3K b - - 0 18"]
+[SetUp "1"]
+
+18... Qxf7 19. Qxg4+ Qd7 20. Be6 Qxe6 21. Qxe6+ *

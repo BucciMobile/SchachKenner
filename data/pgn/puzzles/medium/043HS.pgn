@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "043HS"]
+[Difficulty "medium"]
+[Rating "1239"]
+[Themes "advantage deflection endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/FvlJcvzW#87"]
+[Solution "d1d5 b7b4 c4b4 c6d5"]
+[SolutionSAN "Rd5 Rxb4+ Kxb4 Kxd5"]
+[FEN "8/1r3p2/2k3p1/4p2p/1PK5/8/5PPP/3R4 w - - 2 44"]
+[SetUp "1"]
+
+44. Rd5 Rxb4+ 45. Kxb4 Kxd5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03AGC"]
+[Difficulty "hard"]
+[Rating "2201"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/1z8xjNCc/black#40"]
+[Solution "g2h2 e6c7 h2h4 g3h4"]
+[SolutionSAN "Rxh2 Nxc7 Rxh4 gxh4"]
+[FEN "5rk1/1bq2p2/ppn1NRp1/2p4p/2P4Q/NP2P1P1/P5rP/R4K2 b - - 1 20"]
+[SetUp "1"]
+
+20... Rxh2 21. Nxc7 Rxh4 22. gxh4 *

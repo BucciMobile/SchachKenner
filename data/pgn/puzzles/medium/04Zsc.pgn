@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Zsc"]
+[Difficulty "medium"]
+[Rating "1262"]
+[Themes "crushing defensiveMove endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/89B5Xu0C/black#98"]
+[Solution "g6f6 c2c3 f6e5 c3d3"]
+[SolutionSAN "Kf6 Kxc3 Ke5 Kd3"]
+[FEN "8/6p1/3p2kp/3P4/4P1P1/2b4P/2K5/8 b - - 0 49"]
+[SetUp "1"]
+
+49... Kf6 50. Kxc3 Ke5 51. Kd3 *

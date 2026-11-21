@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AQVh"]
+[Difficulty "hard"]
+[Rating "2767"]
+[Themes "advantage attraction defensiveMove fork middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/MVozoJXV/black#58"]
+[Solution "d7f5 g1f1 g7c3 e3h6 h7g8 h6f8 g8f8 f1f5 c3f6 e4c3"]
+[SolutionSAN "Bf5 Rxf1 Bxc3 Qxh6+ Kg8 Qxf8+ Kxf8 Rxf5+ Bf6+ Nc3"]
+[FEN "5r2/1ppb2bk/p2p3p/3P4/2q1N3/2N1Q3/PPK5/5rRR b - - 10 29"]
+[SetUp "1"]
+
+29... Bf5 30. Rxf1 Bxc3 31. Qxh6+ Kg8 32. Qxf8+ Kxf8 33. Rxf5+ Bf6+ 34. Nc3 *

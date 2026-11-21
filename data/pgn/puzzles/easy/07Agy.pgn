@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Agy"]
+[Difficulty "easy"]
+[Rating "1117"]
+[Themes "mate mateIn2 opening short"]
+[GameUrl "https://lichess.org/game/1N31yIU1#23"]
+[Solution "e1d1 d4g4 f1e2 g4e2"]
+[SolutionSAN "Kd1 Qg4+ Be2 Qxe2#"]
+[FEN "rnb1k3/pppp3Q/4r3/5p2/3q4/8/PPPP2PP/RNB1KB1R w q - 3 12"]
+[SetUp "1"]
+
+12. Kd1 Qg4+ 13. Be2 Qxe2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EFZa"]
+[Difficulty "medium"]
+[Rating "1630"]
+[Themes "crushing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/HtdeVeQB#27"]
+[Solution "a8a7 e7e2 d1c1 d6f4 b1d2 e2d2 c1b1 a6d3"]
+[SolutionSAN "Qxa7 Qe2+ Kc1 Bf4+ Nd2 Qxd2+ Kb1 Bd3"]
+[FEN "Q7/p1ppqkpp/bp1b1n2/8/8/1P6/PBP2PPP/RN1K3R w - - 3 14"]
+[SetUp "1"]
+
+14. Qxa7 Qe2+ 15. Kc1 Bf4+ 16. Nd2 Qxd2+ 17. Kb1 Bd3 *

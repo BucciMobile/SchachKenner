@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06RYV"]
+[Difficulty "easy"]
+[Rating "1011"]
+[Themes "crushing endgame short skewer"]
+[GameUrl "https://lichess.org/game/jouHRyYm#65"]
+[Solution "d4c4 a2a4 c4b3 a4e4"]
+[SolutionSAN "Kc4 Ra4+ Kb3 Rxe4"]
+[FEN "3r2k1/p4p1p/4p1p1/4P1R1/3KB2P/2P3R1/r7/8 w - - 6 33"]
+[SetUp "1"]
+
+33. Kc4 Ra4+ 34. Kb3 Rxe4 *

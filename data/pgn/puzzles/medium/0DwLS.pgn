@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DwLS"]
+[Difficulty "medium"]
+[Rating "1283"]
+[Themes "advancedPawn crushing discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/JcQxiJ1H/black#100"]
+[Solution "d5g5 f6f7 g8f7 e7g5"]
+[SolutionSAN "Rg5 f7+ Kxf7 Bxg5"]
+[FEN "6k1/4B1Pp/5P2/2pr4/4K1P1/7P/8/8 b - - 3 50"]
+[SetUp "1"]
+
+50... Rg5 51. f7+ Kxf7 52. Bxg5 *

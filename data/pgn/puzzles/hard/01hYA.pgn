@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01hYA"]
+[Difficulty "hard"]
+[Rating "2197"]
+[Themes "crushing endgame master quietMove short"]
+[GameUrl "https://lichess.org/game/LLQAp4HH/black#102"]
+[Solution "a7a8 b4b5 c3b4 b5b6"]
+[SolutionSAN "Ra8 b5 Kb4 b6"]
+[FEN "8/r1P4p/3K2p1/3p1p2/pP5P/Rbk1P1P1/8/8 b - - 0 51"]
+[SetUp "1"]
+
+51... Ra8 52. b5 Kb4 53. b6 *

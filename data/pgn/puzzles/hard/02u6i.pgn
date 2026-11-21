@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02u6i"]
+[Difficulty "hard"]
+[Rating "2576"]
+[Themes "advancedPawn crushing defensiveMove endgame pin sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/XeTTcsKn#87"]
+[Solution "c4d5 c6b5 e2d2 e4e3 d2c3 e3f2 d1b1 f5g5 b1b5 g2g1"]
+[SolutionSAN "cxd5 Bb5+ Kd2 e3+ Kc3 exf2 Qb1+ Kg5 Qxb5 Rg1"]
+[FEN "8/1p6/2b5/p2pPk2/2P1pp2/8/P3KPr1/3Q4 w - - 0 44"]
+[SetUp "1"]
+
+44. cxd5 Bb5+ 45. Kd2 e3+ 46. Kc3 exf2 47. Qb1+ Kg5 48. Qxb5 Rg1 *

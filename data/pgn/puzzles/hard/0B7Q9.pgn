@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B7Q9"]
+[Difficulty "hard"]
+[Rating "1956"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/LbLhYYp4/black#32"]
+[Solution "e8g8 h1f1 f2f1 c4f1"]
+[SolutionSAN "O-O Rf1 Qxf1+ Bxf1"]
+[FEN "r1b1k2r/pp3pp1/n1p4p/4N3/2BPp2P/1Q4P1/PP3q2/R1K4R b kq - 3 16"]
+[SetUp "1"]
+
+16... O-O 17. Rf1 Qxf1+ 18. Bxf1 *

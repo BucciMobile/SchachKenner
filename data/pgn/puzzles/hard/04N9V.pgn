@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04N9V"]
+[Difficulty "hard"]
+[Rating "2132"]
+[Themes "advancedPawn advantage kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/n3fKqYIp#45"]
+[Solution "h2h3 b8f4 e3e2 e4e3 d4f3 e3f2"]
+[SolutionSAN "h3 Bf4 Qe2 e3 Nf3 exf2+"]
+[FEN "1b2rrk1/1R4pp/8/1pPp4/3Np2q/2P1Q3/1P3PPP/4R1K1 w - - 2 23"]
+[SetUp "1"]
+
+23. h3 Bf4 24. Qe2 e3 25. Nf3 exf2+ *

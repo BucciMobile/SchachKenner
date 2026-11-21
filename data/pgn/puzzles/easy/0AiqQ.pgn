@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AiqQ"]
+[Difficulty "easy"]
+[Rating "1030"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/oXUBE9lE#89"]
+[Solution "c3d3 b5b2"]
+[SolutionSAN "Qd3 Qxb2#"]
+[FEN "5k2/5pp1/1rNp1n2/1qpPpP1p/p3P2P/P1Q1R1P1/KP6/8 w - - 9 45"]
+[SetUp "1"]
+
+45. Qd3 Qxb2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02eAu"]
+[Difficulty "hard"]
+[Rating "2506"]
+[Themes "advancedPawn crushing endgame knightEndgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/puOlDSQo/black#96"]
+[Solution "c7d7 h2h4 d7e6 h7g7 a7c6 h4h5 c6e5 h5h6 e5g4 h6h7"]
+[SolutionSAN "Kd7 h4 Ke6 Kg7 Nc6 h5 Ne5 h6 Nxg4 h7"]
+[FEN "8/n1k4K/8/8/6P1/8/7P/8 b - - 0 48"]
+[SetUp "1"]
+
+48... Kd7 49. h4 Ke6 50. Kg7 Nc6 51. h5 Ne5 52. h6 Nxg4 53. h7 *

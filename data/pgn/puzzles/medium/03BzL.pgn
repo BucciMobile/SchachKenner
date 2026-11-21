@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03BzL"]
+[Difficulty "medium"]
+[Rating "1307"]
+[Themes "advantage long master middlegame"]
+[GameUrl "https://lichess.org/game/GMI3slC2#37"]
+[Solution "c3e4 c7c1 e4f6 g7f6 d1c1 c8c1"]
+[SolutionSAN "Nxe4 Qxc1 Nxf6+ gxf6 Rxc1 Rxc1+"]
+[FEN "2r2rk1/1pq2ppp/p4n2/5b2/1P2p3/PQN1P3/4BPPP/2RR2K1 w - - 0 19"]
+[SetUp "1"]
+
+19. Nxe4 Qxc1 20. Nxf6+ gxf6 21. Rxc1 Rxc1+ *

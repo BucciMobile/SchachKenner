@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05AVd"]
+[Difficulty "medium"]
+[Rating "1343"]
+[Themes "fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/gFIz2Iat/black#46"]
+[Solution "a8f8 h6g7 h5g7 f7f8"]
+[SolutionSAN "Rf8 Bxg7+ Nxg7 Qxf8#"]
+[FEN "r6k/p3RQbp/2pq2pB/1p5n/8/2N4P/PP3PP1/6K1 b - - 2 23"]
+[SetUp "1"]
+
+23... Rf8 24. Bxg7+ Nxg7 25. Qxf8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05XDB"]
+[Difficulty "hard"]
+[Rating "2178"]
+[Themes "advantage deflection exposedKing middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/xoyYvI9A/black#36"]
+[Solution "e5d4 c1c8 e8d7 c8c7 d7c7 e4e6 a8e8 b4e7"]
+[SolutionSAN "Bxd4 Rxc8+ Kd7 Rc7+ Kxc7 Qxe6 Rae8 Be7"]
+[FEN "r1b1k2r/pp4pp/4qp2/4b3/1B1NQ2P/8/PP3PP1/2R1K2R b Kkq - 5 18"]
+[SetUp "1"]
+
+18... Bxd4 19. Rxc8+ Kd7 20. Rc7+ Kxc7 21. Qxe6 Rae8 22. Be7 *

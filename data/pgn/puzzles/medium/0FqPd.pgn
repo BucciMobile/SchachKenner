@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FqPd"]
+[Difficulty "medium"]
+[Rating "1200"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/bdjxvAuU#31"]
+[Solution "f7f8 e7e5 f4e5 d6f8"]
+[SolutionSAN "Qf8 Rxe5+ fxe5 Qxf8"]
+[FEN "rnb5/pp2rQpk/3q3p/2pPN3/5P2/8/PPP3PP/R3KB1R w KQ - 1 16"]
+[SetUp "1"]
+
+16. Qf8 Rxe5+ 17. fxe5 Qxf8 *

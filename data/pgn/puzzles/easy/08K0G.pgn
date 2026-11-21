@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08K0G"]
+[Difficulty "easy"]
+[Rating "558"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/azD1j9pJ#69"]
+[Solution "d3e4 c6c1 d2c1 c8c1"]
+[SolutionSAN "Be4 Qc1+ Qxc1 Rxc1#"]
+[FEN "2r3k1/5pp1/2qBp2p/R2nP3/3P4/3B4/3Q1PPP/6K1 w - - 0 35"]
+[SetUp "1"]
+
+35. Be4 Qc1+ 36. Qxc1 Rxc1# *

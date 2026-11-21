@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CGlJ"]
+[Difficulty "medium"]
+[Rating "1353"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/D1Ha5rwI/black#68"]
+[Solution "f6e7 h7f7 e7d8 h1h8"]
+[SolutionSAN "Ke7 Rxf7+ Kd8 Rh8+"]
+[FEN "8/1p1n1p1R/5kp1/pPPp1pN1/5P2/1r2r1P1/2K3P1/7R b - - 1 34"]
+[SetUp "1"]
+
+34... Ke7 35. Rxf7+ Kd8 36. Rh8+ *

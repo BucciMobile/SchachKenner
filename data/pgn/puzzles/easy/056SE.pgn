@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "056SE"]
+[Difficulty "easy"]
+[Rating "503"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/uw6Ds7JK#51"]
+[Solution "e1e3 a5b3"]
+[SolutionSAN "Rxe3 Nb3#"]
+[FEN "2kr4/ppp2p2/7p/n1Pp1b2/3P3P/P1N1rNp1/1P4P1/2KRR3 w - - 2 26"]
+[SetUp "1"]
+
+26. Rxe3 Nb3# *

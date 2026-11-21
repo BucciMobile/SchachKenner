@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01e8p"]
+[Difficulty "hard"]
+[Rating "2197"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/3iPUzA6r#103"]
+[Solution "g2h1 b4b1 h1h2 b1b2 c2g2 g4f3"]
+[SolutionSAN "Kh1 Rb1+ Kh2 Rb2 Rg2+ Kf3"]
+[FEN "8/8/8/1P6/1rP3kp/p7/P1R3K1/8 w - - 3 52"]
+[SetUp "1"]
+
+52. Kh1 Rb1+ 53. Kh2 Rb2 54. Rg2+ Kf3 *

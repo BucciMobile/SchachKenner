@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C5u7"]
+[Difficulty "easy"]
+[Rating "616"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/MCJ4du4p#33"]
+[Solution "e5d6 g5g2"]
+[SolutionSAN "Bd6 Qxg2#"]
+[FEN "5rk1/pp2r1pp/1np1p3/3pB1qB/P2Pb3/4P3/1PP2PPP/R2Q1RK1 w - - 5 17"]
+[SetUp "1"]
+
+17. Bd6 Qxg2# *

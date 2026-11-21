@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BLE8"]
+[Difficulty "hard"]
+[Rating "2708"]
+[Themes "advantage defensiveMove intermezzo middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/vun7r8T7#55"]
+[Solution "f3e5 c6e5 d4e5 f6g5 f4g5 a8a2 g2e4 a1b2 c1d2 d5e4 d2e3 a2a8"]
+[SolutionSAN "Ne5 Nxe5 dxe5 Bg5 fxg5 Ra2 Qxe4 Qb2+ Kd2 dxe4 Ke3 Ra8"]
+[FEN "r6k/5p1P/2n1pb2/3p4/1p1PnP2/1P3N2/2P3Q1/qNKR3R w - - 3 28"]
+[SetUp "1"]
+
+28. Ne5 Nxe5 29. dxe5 Bg5 30. fxg5 Ra2 31. Qxe4 Qb2+ 32. Kd2 dxe4 33. Ke3 Ra8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dtfk"]
+[Difficulty "medium"]
+[Rating "1343"]
+[Themes "crushing hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/aT9H4CrP/black#68"]
+[Solution "c8c2 e3c2 e4e1 c2e1"]
+[SolutionSAN "Rc2 Nxc2 Rxe1+ Nxe1"]
+[FEN "2r3k1/1b3pp1/p5np/1p1p1N2/3Pr3/1P2N1PP/P7/2B1R1K1 b - - 0 34"]
+[SetUp "1"]
+
+34... Rc2 35. Nxc2 Rxe1+ 36. Nxe1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04hwM"]
+[Difficulty "hard"]
+[Rating "2012"]
+[Themes "crushing defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/XOWJuiv9#41"]
+[Solution "f3e5 g4d1 b3f7 e8d8"]
+[SolutionSAN "Nxe5 Bxd1 Bxf7+ Kd8"]
+[FEN "r3k2r/1pp2pp1/p2p1q2/4bN1p/4P1b1/1B3N2/PP3PK1/R2QR3 w kq - 2 21"]
+[SetUp "1"]
+
+21. Nxe5 Bxd1 22. Bxf7+ Kd8 *

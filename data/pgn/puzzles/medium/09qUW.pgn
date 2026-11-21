@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09qUW"]
+[Difficulty "medium"]
+[Rating "1554"]
+[Themes "crushing endgame hangingPiece master short"]
+[GameUrl "https://lichess.org/game/7lcmuxO5/black#138"]
+[Solution "d4c3 h4e4 c4b3 c2b3"]
+[SolutionSAN "Kc3 Rxe4 cxb3 cxb3"]
+[FEN "8/8/8/1p6/1ppkn2R/1P6/2P1p3/4K3 b - - 1 69"]
+[SetUp "1"]
+
+69... Kc3 70. Rxe4 cxb3 71. cxb3 *

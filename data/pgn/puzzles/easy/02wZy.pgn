@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02wZy"]
+[Difficulty "easy"]
+[Rating "1073"]
+[Themes "endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/qPTVgl8Y/black#94"]
+[Solution "c3a2 g2g4 f5g4 h3g4 h5h4 b6h6"]
+[SolutionSAN "Nxa2 g4+ fxg4+ hxg4+ Kh4 Rxh6#"]
+[FEN "8/r7/1R5p/3p1ppk/3P4/pNn1PK1P/P5P1/8 b - - 11 47"]
+[SetUp "1"]
+
+47... Nxa2 48. g4+ fxg4+ 49. hxg4+ Kh4 50. Rxh6# *

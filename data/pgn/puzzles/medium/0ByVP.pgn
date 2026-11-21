@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ByVP"]
+[Difficulty "medium"]
+[Rating "1365"]
+[Themes "crushing endgame master queenEndgame short skewer"]
+[GameUrl "https://lichess.org/game/Sqmx95zL/black#80"]
+[Solution "d6c6 d3a6 c6d5 a6f6"]
+[SolutionSAN "Kc6 Qxa6+ Kd5 Qxf6"]
+[FEN "8/2p5/p2k1q1p/4p3/1P6/3Q2P1/6K1/8 b - - 11 40"]
+[SetUp "1"]
+
+40... Kc6 41. Qxa6+ Kd5 42. Qxf6 *

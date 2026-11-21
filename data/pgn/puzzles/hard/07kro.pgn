@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07kro"]
+[Difficulty "hard"]
+[Rating "2234"]
+[Themes "advancedPawn clearance crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/qcgdEZxj#111"]
+[Solution "c3b4 b6d4 e4c5 c4c3 c5b3 c3c2 a2a4 d4b2"]
+[SolutionSAN "cxb4 Bxd4 Nc5 c3 Nb3 c2 a4 Bb2"]
+[FEN "8/6p1/pb2p1k1/4P3/1ppPNKp1/2P3P1/P5P1/8 w - - 0 56"]
+[SetUp "1"]
+
+56. cxb4 Bxd4 57. Nc5 c3 58. Nb3 c2 59. a4 Bb2 *

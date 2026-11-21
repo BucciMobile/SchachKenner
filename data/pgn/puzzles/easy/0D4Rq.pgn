@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D4Rq"]
+[Difficulty "easy"]
+[Rating "1134"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/Bhi22yW3#51"]
+[Solution "e2f3 e5e1"]
+[SolutionSAN "Bf3 Qe1#"]
+[FEN "1k5r/pppQ4/3b4/4q2p/8/2PR4/PP2BPP1/6K1 w - - 2 26"]
+[SetUp "1"]
+
+26. Bf3 Qe1# *

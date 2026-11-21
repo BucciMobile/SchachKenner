@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03z3g"]
+[Difficulty "hard"]
+[Rating "1737"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/XHoBZJUe#79"]
+[Solution "c4a4 a2a4 b5a4 c8c7 a6a7 c7b7"]
+[SolutionSAN "Ra4 Rxa4 Kxa4 Kxc7 a7 Kb7"]
+[FEN "2k5/2P4p/P7/1K6/2R3p1/5p2/r6P/8 w - - 0 40"]
+[SetUp "1"]
+
+40. Ra4 Rxa4 41. Kxa4 Kxc7 42. a7 Kb7 *

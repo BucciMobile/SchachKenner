@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Sb2"]
+[Difficulty "medium"]
+[Rating "1516"]
+[Themes "equality fork middlegame short"]
+[GameUrl "https://lichess.org/game/P1OiEDFE/black#32"]
+[Solution "f6e5 c4d6 e8e7 d6e4"]
+[SolutionSAN "fxe5 Nd6+ Ke7 Nxe4"]
+[FEN "r1b1k2r/pp4pp/5p2/4N3/2N1q3/2P5/PP3PPP/R4K1R b kq - 1 16"]
+[SetUp "1"]
+
+16... fxe5 17. Nd6+ Ke7 18. Nxe4 *

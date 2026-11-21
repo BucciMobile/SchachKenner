@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06aC5"]
+[Difficulty "hard"]
+[Rating "1742"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/20SMFtNc/black#86"]
+[Solution "c4b3 f3d5 b3d5 b6b2"]
+[SolutionSAN "Bxb3 Bd5 Bxd5 Rxb2"]
+[FEN "8/4k3/1R4p1/6K1/2b2P2/1P3B2/1r6/8 b - - 1 43"]
+[SetUp "1"]
+
+43... Bxb3 44. Bd5 Bxd5 45. Rxb2 *

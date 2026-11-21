@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02qOC"]
+[Difficulty "medium"]
+[Rating "1630"]
+[Themes "advantage long middlegame pin"]
+[GameUrl "https://lichess.org/game/dUO9nB24/black#40"]
+[Solution "e7c5 d4f6 c5f2 g3f2 c2f2 g1f2"]
+[SolutionSAN "Bc5 Bxf6 Bxf2+ Qxf2 Qxf2+ Kxf2"]
+[FEN "3r1rk1/4bpp1/p3pn1p/8/1p1B1N2/3R2Q1/PPq2PPP/R5K1 b - - 1 20"]
+[SetUp "1"]
+
+20... Bc5 21. Bxf6 Bxf2+ 22. Qxf2 Qxf2+ 23. Kxf2 *

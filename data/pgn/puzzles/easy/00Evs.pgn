@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Evs"]
+[Difficulty "easy"]
+[Rating "1057"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/ZuufvD5S/black#48"]
+[Solution "g7g5 d5f6 g8h8 f6e4"]
+[SolutionSAN "g5 Nf6+ Kh8 Nxe4"]
+[FEN "5qk1/pQ3pp1/7p/b2N1b2/P3r3/5K2/7P/R4B2 b - - 1 24"]
+[SetUp "1"]
+
+24... g5 25. Nf6+ Kh8 26. Nxe4 *

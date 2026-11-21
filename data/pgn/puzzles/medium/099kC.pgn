@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "099kC"]
+[Difficulty "medium"]
+[Rating "1666"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/xB4FLXgM#81"]
+[Solution "a6c5 g5h4 c3d3 h4g3"]
+[SolutionSAN "Nc5 Kh4 Kd3 Kg3"]
+[FEN "8/8/N2b2p1/1p2p1kp/1P2Pp2/2K2P1P/1P4P1/8 w - - 1 41"]
+[SetUp "1"]
+
+41. Nc5 Kh4 42. Kd3 Kg3 *

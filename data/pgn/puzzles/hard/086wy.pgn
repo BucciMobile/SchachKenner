@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "086wy"]
+[Difficulty "hard"]
+[Rating "2045"]
+[Themes "advantage exposedKing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/EiGOxgPy/black#48"]
+[Solution "b5c4 f7c4 a6b7 c1b1 b7c8 c4a6 c8d7 b1d1"]
+[SolutionSAN "bxc4 Qxc4+ Kb7 Rb1+ Kc8 Qa6+ Kd7 Rd1+"]
+[FEN "r2q3r/p1p2Qp1/k4p2/Pp2p3/2B2P2/2B5/6bP/2R3K1 b - - 1 24"]
+[SetUp "1"]
+
+24... bxc4 25. Qxc4+ Kb7 26. Rb1+ Kc8 27. Qa6+ Kd7 28. Rd1+ *

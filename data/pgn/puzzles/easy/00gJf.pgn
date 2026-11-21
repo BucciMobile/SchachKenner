@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00gJf"]
+[Difficulty "easy"]
+[Rating "1068"]
+[Themes "endgame long mate mateIn3 pillsburysMate"]
+[GameUrl "https://lichess.org/game/Tbult76w#69"]
+[Solution "f2d4 g4f3 h1g1 h8g8 d4g7 g8g7"]
+[SolutionSAN "Bd4 Bf3+ Kg1 Rg8+ Bg7 Rxg7#"]
+[FEN "7r/2N2p1p/p2p4/1p6/6b1/8/P3kB1P/2RR3K w - - 2 35"]
+[SetUp "1"]
+
+35. Bd4 Bf3+ 36. Kg1 Rg8+ 37. Bg7 Rxg7# *

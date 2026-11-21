@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09f6y"]
+[Difficulty "medium"]
+[Rating "1224"]
+[Themes "attraction endgame kingsideAttack mate mateIn2 pillsburysMate sacrifice short"]
+[GameUrl "https://lichess.org/game/IuXIKM4j/black#44"]
+[Solution "d8d2 h1h7 h8h7 a1h1"]
+[SolutionSAN "Rd2 Rxh7+ Kxh7 Rh1#"]
+[FEN "3r1r1k/ppp3pp/8/2b1pP2/4p1P1/1BP3P1/PP3PK1/R6R b - - 1 22"]
+[SetUp "1"]
+
+22... Rd2 23. Rxh7+ Kxh7 24. Rh1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DyM8"]
+[Difficulty "medium"]
+[Rating "1339"]
+[Themes "advantage deflection endgame master short"]
+[GameUrl "https://lichess.org/game/aSu7Jpbg/black#60"]
+[Solution "e8f8 g6h7 g8h7 f1f8"]
+[SolutionSAN "Rf8 Bh7+ Kxh7 Rxf8"]
+[FEN "2b1r1k1/6p1/1p1p2B1/p2P3P/2Pp4/1P6/8/5RK1 b - - 0 30"]
+[SetUp "1"]
+
+30... Rf8 31. Bh7+ Kxh7 32. Rxf8 *

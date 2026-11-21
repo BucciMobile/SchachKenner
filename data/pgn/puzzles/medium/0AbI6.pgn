@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AbI6"]
+[Difficulty "medium"]
+[Rating "1643"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/KpiX9ZRm/black#58"]
+[Solution "g7e5 f3e5 e4e1 a1e1"]
+[SolutionSAN "Bxe5 Nxe5 Rxe1 Rxe1"]
+[FEN "5rk1/pp4bp/6p1/4Pp2/4r3/5NP1/PP3K2/R3R3 b - - 0 29"]
+[SetUp "1"]
+
+29... Bxe5 30. Nxe5 Rxe1 31. Rxe1 *

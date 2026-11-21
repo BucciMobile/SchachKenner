@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03BpL"]
+[Difficulty "easy"]
+[Rating "750"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/rgUWpOYg#113"]
+[Solution "b6b7 e6c5 b7c6 c5a4"]
+[SolutionSAN "Kb7 Nc5+ Kc6 Nxa4"]
+[FEN "3k4/3P4/1K2n2p/6p1/B4pP1/5P2/7P/8 w - - 3 57"]
+[SetUp "1"]
+
+57. Kb7 Nc5+ 58. Kc6 Nxa4 *

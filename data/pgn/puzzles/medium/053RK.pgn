@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "053RK"]
+[Difficulty "medium"]
+[Rating "1352"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/w0y6x9ol/black#24"]
+[Solution "b4c5 c3a4 c5f2 d2f2 b6f2 e1f2"]
+[SolutionSAN "Bc5 Na4 Bxf2+ Qxf2 Qxf2+ Kxf2"]
+[FEN "2kr3r/pp1b1p1p/1qp1pp2/8/1b2P3/P1NB4/1PPQ1PPP/R3K2R b KQ - 0 12"]
+[SetUp "1"]
+
+12... Bc5 13. Na4 Bxf2+ 14. Qxf2 Qxf2+ 15. Kxf2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09hAA"]
+[Difficulty "hard"]
+[Rating "1712"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/OH3q7W8J#125"]
+[Solution "h6h7 f3f2 h8a8 g5h5"]
+[SolutionSAN "h7 Kf2 Ra8 Rh5#"]
+[FEN "7R/8/7P/5pr1/8/5k2/7K/8 w - - 5 63"]
+[SetUp "1"]
+
+63. h7 Kf2 64. Ra8 Rh5# *

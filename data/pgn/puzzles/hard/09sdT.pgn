@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09sdT"]
+[Difficulty "hard"]
+[Rating "2232"]
+[Themes "advantage endgame exposedKing fork long"]
+[GameUrl "https://lichess.org/game/ekacwPKg/black#56"]
+[Solution "g8f8 g6f6 f8e8 f6h8 e8d7 f3d3"]
+[SolutionSAN "Kf8 Qf6+ Ke8 Qh8+ Kd7 Rd3+"]
+[FEN "3r2k1/1q6/p3p1Q1/1p5p/2r2P2/P1P2R1P/1P4P1/6K1 b - - 0 28"]
+[SetUp "1"]
+
+28... Kf8 29. Qf6+ Ke8 30. Qh8+ Kd7 31. Rd3+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CuzU"]
+[Difficulty "medium"]
+[Rating "1628"]
+[Themes "advantage kingsideAttack long middlegame pin"]
+[GameUrl "https://lichess.org/game/ZFeIs6st#59"]
+[Solution "h1g2 e5d4 g1f1 g4h3 g2h3 h7h3"]
+[SolutionSAN "Qg2 Bd4+ Kf1 Bh3 Qxh3 Rxh3"]
+[FEN "2q3k1/1p5r/p2p2p1/2pPbp2/P1P3b1/2NB1P2/1P6/R3R1KQ w - - 1 30"]
+[SetUp "1"]
+
+30. Qg2 Bd4+ 31. Kf1 Bh3 32. Qxh3 Rxh3 *

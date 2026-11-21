@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C4Uo"]
+[Difficulty "easy"]
+[Rating "983"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/79pxkx45/black#54"]
+[Solution "f8d7 c3b5"]
+[SolutionSAN "Nd7 Nb5#"]
+[FEN "3rbn2/pp3p2/3kpP2/2ppN3/5P2/2N3P1/PPP5/2K4R b - - 0 27"]
+[SetUp "1"]
+
+27... Nd7 28. Nb5# *

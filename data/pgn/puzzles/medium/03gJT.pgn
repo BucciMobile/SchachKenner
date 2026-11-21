@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03gJT"]
+[Difficulty "medium"]
+[Rating "1619"]
+[Themes "crushing endgame exposedKing long sacrifice skewer"]
+[GameUrl "https://lichess.org/game/dK7bKjDI/black#98"]
+[Solution "g5e4 e1e4 f5e4 d2g5 e7e6 g5d8"]
+[SolutionSAN "Ne4+ Rxe4 fxe4 Bg5+ Ke6 Bxd8"]
+[FEN "3r4/p3k3/6p1/4Ppn1/1P6/P2p2P1/3B1K2/4R3 b - - 1 49"]
+[SetUp "1"]
+
+49... Ne4+ 50. Rxe4 fxe4 51. Bg5+ Ke6 52. Bxd8 *

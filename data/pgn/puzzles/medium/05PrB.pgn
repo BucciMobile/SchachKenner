@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05PrB"]
+[Difficulty "medium"]
+[Rating "1530"]
+[Themes "bishopEndgame crushing endgame master veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/IkFTl3Ej#97"]
+[Solution "d2f4 d6f4 e4f4 e7d6 f4e4 d6c5 e4d3 a4a3"]
+[SolutionSAN "Bf4 Bxf4 Kxf4 Kd6 Ke4 Kc5 Kd3 a3"]
+[FEN "8/4k3/2pb1p2/5P2/p1P1K3/2P5/P2B4/8 w - - 4 49"]
+[SetUp "1"]
+
+49. Bf4 Bxf4 50. Kxf4 Kd6 51. Ke4 Kc5 52. Kd3 a3 *

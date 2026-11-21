@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "030zt"]
+[Difficulty "easy"]
+[Rating "799"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/amEbDpNz#33"]
+[Solution "h3g4 f6g4 h2g1 g4e3"]
+[SolutionSAN "hxg4 Nxg4+ Kg1 Nxe3"]
+[FEN "1nq2rk1/4ppbp/p2p1np1/2p5/4PPb1/2PPB2P/P2NN1BK/3Q1R2 w - - 0 17"]
+[SetUp "1"]
+
+17. hxg4 Nxg4+ 18. Kg1 Nxe3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02nyA"]
+[Difficulty "easy"]
+[Rating "1109"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/YRpWtcrv#89"]
+[Solution "d7f7 g6f6 f7f6 g7f6"]
+[SolutionSAN "Rf7+ Rf6 Rxf6+ gxf6"]
+[FEN "8/1p1R2p1/p1p3r1/P1P5/1P3k1K/7P/8/8 w - - 0 45"]
+[SetUp "1"]
+
+45. Rf7+ Rf6 46. Rxf6+ gxf6 *

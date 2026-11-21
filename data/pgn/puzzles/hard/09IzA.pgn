@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09IzA"]
+[Difficulty "hard"]
+[Rating "1908"]
+[Themes "dovetailMate endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/G7HZNXRm/black#60"]
+[Solution "c8d8 f7g7 f6g7 d7f5"]
+[SolutionSAN "Rd8 Rxg7+ Bxg7 Qf5#"]
+[FEN "r1r5/3Q1Rp1/1p3bkp/p7/PnP1P3/6P1/5PP1/6K1 b - - 2 30"]
+[SetUp "1"]
+
+30... Rd8 31. Rxg7+ Bxg7 32. Qf5# *

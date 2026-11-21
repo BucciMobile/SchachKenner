@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CIr9"]
+[Difficulty "hard"]
+[Rating "2078"]
+[Themes "crushing defensiveMove middlegame veryLong"]
+[GameUrl "https://lichess.org/game/3DczZrM2/black#62"]
+[Solution "e5c4 f3f7 d8d2 f2g3 a8a3 g3h4 a3h3 h4h3"]
+[SolutionSAN "Nxc4 Rf7 Rd2+ Kg3 Ra3+ Kh4 Rxh3+ Kxh3"]
+[FEN "r1br2k1/4p1b1/6Q1/4n3/2B1P1P1/5R1P/5K2/8 b - - 2 31"]
+[SetUp "1"]
+
+31... Nxc4 32. Rf7 Rd2+ 33. Kg3 Ra3+ 34. Kh4 Rxh3+ 35. Kxh3 *

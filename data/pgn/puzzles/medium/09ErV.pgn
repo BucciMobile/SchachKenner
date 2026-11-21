@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09ErV"]
+[Difficulty "medium"]
+[Rating "1531"]
+[Themes "discoveredAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/4jaLhP3O/black#66"]
+[Solution "f5f3 g6h6 g7h6 g3g8"]
+[SolutionSAN "Qf3 Rxh6+ gxh6 Qxg8#"]
+[FEN "6r1/p4rpk/1p4Rp/2p2q2/3p4/1P1Pn1Q1/P1P4P/1KB3R1 b - - 3 33"]
+[SetUp "1"]
+
+33... Qf3 34. Rxh6+ gxh6 35. Qxg8# *

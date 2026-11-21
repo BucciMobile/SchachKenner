@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Ph7"]
+[Difficulty "medium"]
+[Rating "1597"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/V47LR47A#29"]
+[Solution "a4a6 b8b6 a6b6 c7b6"]
+[SolutionSAN "Qxa6 Rb6 Qxb6 cxb6"]
+[FEN "1r3rk1/2pq1pb1/p1Npbp1p/8/Q3P3/2P5/PP1N1PPP/2KR3R w - - 3 15"]
+[SetUp "1"]
+
+15. Qxa6 Rb6 16. Qxb6 cxb6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08wdH"]
+[Difficulty "hard"]
+[Rating "1701"]
+[Themes "advantage attackingF2F7 defensiveMove long opening"]
+[GameUrl "https://lichess.org/game/qWqBFAxI#13"]
+[Solution "g1f3 g4f2 d1d4 f2h1 d4g7 h8f8"]
+[SolutionSAN "Nf3 Nxf2 Qd4 Nxh1 Qxg7 Rf8"]
+[FEN "rnbqk2r/ppp2pp1/3b3p/8/6n1/2B5/PPP1PPPP/RN1QKBNR w KQkq - 0 7"]
+[SetUp "1"]
+
+7. Nf3 Nxf2 8. Qd4 Nxh1 9. Qxg7 Rf8 *

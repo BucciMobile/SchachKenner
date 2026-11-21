@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00gPT"]
+[Difficulty "hard"]
+[Rating "1784"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/197y5kFN#69"]
+[Solution "g5g6 e8e1 c1d2 e1d1"]
+[SolutionSAN "g6 Re1+ Kd2 Rd1#"]
+[FEN "2r1r3/5R2/p7/6P1/5P2/PB3bR1/1PP2k1P/2K5 w - - 1 35"]
+[SetUp "1"]
+
+35. g6 Re1+ 36. Kd2 Rd1# *

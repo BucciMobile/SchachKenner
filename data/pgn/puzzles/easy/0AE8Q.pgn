@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AE8Q"]
+[Difficulty "easy"]
+[Rating "1005"]
+[Themes "advancedPawn crushing endgame master promotion short"]
+[GameUrl "https://lichess.org/game/pnnjShzN/black#100"]
+[Solution "a7c7 d6c7 b4f4 c7c8q"]
+[SolutionSAN "Rxc7 dxc7 Rxf4 c8=Q"]
+[FEN "8/r1R3kp/3PB1p1/8/1r3P2/8/7P/7K b - - 2 50"]
+[SetUp "1"]
+
+50... Rxc7 51. dxc7 Rxf4 52. c8=Q *

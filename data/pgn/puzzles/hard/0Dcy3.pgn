@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dcy3"]
+[Difficulty "hard"]
+[Rating "1751"]
+[Themes "advantage collinearMove long middlegame sacrifice skewer"]
+[GameUrl "https://lichess.org/game/S1MP6l57#57"]
+[Solution "f1h1 h7h2 h1h2 h8h2 f2f1 h2d2"]
+[SolutionSAN "Rh1 Qh2+ Rxh2 Rxh2+ Kf1 Rxd2"]
+[FEN "1k2r2r/ppp4q/8/n2p4/3P2B1/1PP2PP1/P2Q1K2/R4R2 w - - 3 29"]
+[SetUp "1"]
+
+29. Rh1 Qh2+ 30. Rxh2 Rxh2+ 31. Kf1 Rxd2 *

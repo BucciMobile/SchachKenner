@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "047bE"]
+[Difficulty "medium"]
+[Rating "1467"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/f2BhrZ7i/black#52"]
+[Solution "f5g4 a7a8 d8a8 a3a8"]
+[SolutionSAN "fxg4 Ra8 Qxa8 Qxa8+"]
+[FEN "3q2k1/R3r1pp/2p1p3/1pPp1p2/1P1Pb1P1/Q3P1BP/5P2/6K1 b - - 3 26"]
+[SetUp "1"]
+
+26... fxg4 27. Ra8 Qxa8 28. Qxa8+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fjx6"]
+[Difficulty "medium"]
+[Rating "1500"]
+[Themes "crushing fork opening short"]
+[GameUrl "https://lichess.org/game/eR8ESujg/black#14"]
+[Solution "f6d5 d1a4 b8c6 a4g4"]
+[SolutionSAN "Nxd5 Qa4+ Nc6 Qxg4"]
+[FEN "rn1qkb1r/pp3ppp/4pn2/3P4/6b1/5N2/PP1PBPPP/RNBQ1RK1 b kq - 0 7"]
+[SetUp "1"]
+
+7... Nxd5 8. Qa4+ Nc6 9. Qxg4 *

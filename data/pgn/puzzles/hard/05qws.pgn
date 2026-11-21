@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05qws"]
+[Difficulty "hard"]
+[Rating "1853"]
+[Themes "crushing endgame short trappedPiece"]
+[GameUrl "https://lichess.org/game/gfhmCcSE/black#42"]
+[Solution "e7f8 h4f6 f8e8 f6h8"]
+[SolutionSAN "Kf8 Qf6 Ke8 Qxh8+"]
+[FEN "7r/p3kp1B/2nqp1p1/1p6/2pP3Q/2P5/PP1K1PP1/7R b - - 1 21"]
+[SetUp "1"]
+
+21... Kf8 22. Qf6 Ke8 23. Qxh8+ *

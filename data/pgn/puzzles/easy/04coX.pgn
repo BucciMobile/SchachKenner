@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04coX"]
+[Difficulty "easy"]
+[Rating "1186"]
+[Themes "advancedPawn advantage endgame sacrifice short"]
+[GameUrl "https://lichess.org/game/KY6fwdpY/black#56"]
+[Solution "d7c6 c1c6 b7c6 d6d7"]
+[SolutionSAN "Bc6 Rxc6 bxc6 d7"]
+[FEN "6k1/1p1b1pp1/p2P3p/8/3P2P1/1P5P/1r3P2/2R3K1 b - - 2 28"]
+[SetUp "1"]
+
+28... Bc6 29. Rxc6 bxc6 30. d7 *

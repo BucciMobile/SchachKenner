@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04I3d"]
+[Difficulty "easy"]
+[Rating "923"]
+[Themes "hangingPiece interference mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/1u7dQImo#35"]
+[Solution "b6a5 b8b1 e1e2 e6c4"]
+[SolutionSAN "Qxa5 Rxb1+ Ke2 Bxc4#"]
+[FEN "1r3rk1/5ppp/1Q2b3/p7/2P1Pp2/P3bP2/R5PP/1N2KB1R w K - 1 18"]
+[SetUp "1"]
+
+18. Qxa5 Rxb1+ 19. Ke2 Bxc4# *

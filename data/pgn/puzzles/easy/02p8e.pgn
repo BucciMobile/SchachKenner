@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02p8e"]
+[Difficulty "easy"]
+[Rating "954"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/qX3tvWd3#57"]
+[Solution "b1b7 d7c5 d3d2 c5b7"]
+[SolutionSAN "Rxb7 Nc5+ Kd2 Nxb7"]
+[FEN "2r3k1/1p1n1ppp/8/3Pp3/p3P3/P2K1B2/6PP/1R6 w - - 1 29"]
+[SetUp "1"]
+
+29. Rxb7 Nc5+ 30. Kd2 Nxb7 *

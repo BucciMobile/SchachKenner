@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "099Ug"]
+[Difficulty "medium"]
+[Rating "1440"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/ynnfuP7j#49"]
+[Solution "d2h6 f6h5 g3h4 e6h6"]
+[SolutionSAN "Bxh6 Nh5 Qh4 Qxh6"]
+[FEN "3r1rk1/2p2pp1/pn1bqn1p/1p2p3/4P3/1PP2NQP/P1BB1PP1/R2R2K1 w - - 4 25"]
+[SetUp "1"]
+
+25. Bxh6 Nh5 26. Qh4 Qxh6 *

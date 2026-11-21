@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04THu"]
+[Difficulty "easy"]
+[Rating "816"]
+[Themes "crushing endgame master rookEndgame short skewer"]
+[GameUrl "https://lichess.org/game/zCBjRjjv#87"]
+[Solution "e4e5 f7e7 e5f6 e7e3"]
+[SolutionSAN "Kxe5 Re7+ Kf6 Rxe3"]
+[FEN "8/3k1r2/1p6/p1pPp1p1/P1P1K1Pp/1P2R2P/8/8 w - - 4 44"]
+[SetUp "1"]
+
+44. Kxe5 Re7+ 45. Kf6 Rxe3 *

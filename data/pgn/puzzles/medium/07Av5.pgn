@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Av5"]
+[Difficulty "medium"]
+[Rating "1341"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/66EQ6kLq#57"]
+[Solution "d7e7 c8c1"]
+[SolutionSAN "Rxe7 Qc1#"]
+[FEN "2q1rk2/1Q1Rnp2/4p1p1/1P2P2p/3p4/P2PP3/5PPP/6K1 w - - 2 29"]
+[SetUp "1"]
+
+29. Rxe7 Qc1# *

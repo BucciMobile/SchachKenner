@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04S0T"]
+[Difficulty "hard"]
+[Rating "2763"]
+[Themes "advantage clearance master middlegame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/aC7IlWtO#45"]
+[Solution "b6c5 e8e6 e3f4 e4e3 f2e3 f6e4 c5h5 e6g6 h5g6 f7g6"]
+[SolutionSAN "Qc5 Re6 Bf4 e3 fxe3 Ne4 Qh5 Rg6+ Qxg6 fxg6"]
+[FEN "2r1r1k1/5pp1/1Qp2n1p/8/2PPp3/2P1B2q/4BP2/1R3RK1 w - - 0 23"]
+[SetUp "1"]
+
+23. Qc5 Re6 24. Bf4 e3 25. fxe3 Ne4 26. Qh5 Rg6+ 27. Qxg6 fxg6 *

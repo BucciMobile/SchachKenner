@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01ZHr"]
+[Difficulty "medium"]
+[Rating "1668"]
+[Themes "advantage defensiveMove endgame exposedKing long"]
+[GameUrl "https://lichess.org/game/UawqiXtM#67"]
+[Solution "h7h8 e8d7 h6h4 c2e3 d1d2 e3c4"]
+[SolutionSAN "Rh8+ Kd7 Qh4 Nxe3+ Kd2 Nc4+"]
+[FEN "4k3/2p1p2R/4p2Q/3p4/3P2P1/1p2P3/1Pn5/3KNq2 w - - 4 34"]
+[SetUp "1"]
+
+34. Rh8+ Kd7 35. Qh4 Nxe3+ 36. Kd2 Nc4+ *

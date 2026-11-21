@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cf06"]
+[Difficulty "hard"]
+[Rating "2460"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/D2gZpiaW#83"]
+[Solution "d5a8 f8g7 a8c6 b6c5 f4e2 e3e2 f1e2 c2c1q"]
+[SolutionSAN "Qa8+ Kg7 Qc6 Bc5 Ne2 Rxe2 Kxe2 c1=Q"]
+[FEN "5k2/2p2p2/1b1p4/p2Q4/5Np1/P3r1P1/1Pp3P1/5K2 w - - 0 42"]
+[SetUp "1"]
+
+42. Qa8+ Kg7 43. Qc6 Bc5 44. Ne2 Rxe2 45. Kxe2 c1=Q *

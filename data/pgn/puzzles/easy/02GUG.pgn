@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02GUG"]
+[Difficulty "easy"]
+[Rating "925"]
+[Themes "endgame kingsideAttack mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/w79xBSyT/black#54"]
+[Solution "b5a6 e6e8 g7f8 e8f8"]
+[SolutionSAN "Qxa6 Qe8+ Bf8 Qxf8#"]
+[FEN "1rn4k/2B3bp/R2pQpp1/1qp1p3/4P3/3P1P1P/1P4P1/6K1 b - - 1 27"]
+[SetUp "1"]
+
+27... Qxa6 28. Qe8+ Bf8 29. Qxf8# *

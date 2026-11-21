@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Pkx"]
+[Difficulty "easy"]
+[Rating "1133"]
+[Themes "advantage capturingDefender master middlegame short"]
+[GameUrl "https://lichess.org/game/kZgtJo1s#29"]
+[Solution "d1d4 c5d4 e3d4 d6f4"]
+[SolutionSAN "Qd4 Qxd4 exd4 Bxf4"]
+[FEN "r2k3r/pp1n2p1/3bpnBp/2qp4/5BPP/P1N1P3/1PP2P2/R2Q1RK1 w - - 2 15"]
+[SetUp "1"]
+
+15. Qd4 Qxd4 16. exd4 Bxf4 *

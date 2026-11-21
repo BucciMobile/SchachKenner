@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05lEx"]
+[Difficulty "hard"]
+[Rating "2388"]
+[Themes "crushing endgame hangingPiece rookEndgame skewer veryLong"]
+[GameUrl "https://lichess.org/game/i3qWCOHZ#103"]
+[Solution "h4h5 f4e5 h6h7 e5e6 h5h6 e6f7 h7h8q g1h1 h6g5 h1h8"]
+[SolutionSAN "Kh5 Kxe5 h7 Ke6 Kh6 Kf7 h8=Q Rh1+ Kg5 Rxh8"]
+[FEN "8/8/7P/4R3/5k1K/8/8/6r1 w - - 1 52"]
+[SetUp "1"]
+
+52. Kh5 Kxe5 53. h7 Ke6 54. Kh6 Kf7 55. h8=Q Rh1+ 56. Kg5 Rxh8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08kv0"]
+[Difficulty "easy"]
+[Rating "804"]
+[Themes "blindSwineMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/ibptoyU0#81"]
+[Solution "e1e5 g7g1 f1f2 g8g2"]
+[SolutionSAN "Rxe5 Rg1+ Kf2 R8g2#"]
+[FEN "6rk/1p4r1/7p/2Pbbp2/1P1p4/P2B1P1P/1R1N4/4RK2 w - - 6 41"]
+[SetUp "1"]
+
+41. Rxe5 Rg1+ 42. Kf2 R8g2# *

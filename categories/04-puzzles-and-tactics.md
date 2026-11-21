@@ -14,6 +14,7 @@
 
 | Resource | What you get | Access / license | Link |
 |---|---|---|---|
+| **SchachKenner daily puzzles (hosted here)** | **2,400 curated puzzles** (800 each easy/medium/hard) as PGN + a page that serves **3 new puzzles every day at 00:00 UTC**, solvable in the browser, with a copyable PNG image (SchachKenner disclaimer burned in) for chats/Discord | Hosted in this repo, **CC0** | [puzzles.html](https://BucciMobile.github.io/SchachKenner/puzzles.html) · [data/pgn/puzzles/](../data/pgn/puzzles/) · [data/puzzles/index.json](../data/puzzles/index.json) |
 | lichess training | Unlimited rated puzzles + themed training (pins, forks, endgames, …) | Free | https://lichess.org/training |
 | lichess puzzle storm / rush | Speed puzzle modes | Free | https://lichess.org/storm |
 | lichess puzzle database dump | 6M+ puzzles, rated and tagged, monthly updates (from 300M+ analyzed games) | Free download | https://database.lichess.org/#puzzles |

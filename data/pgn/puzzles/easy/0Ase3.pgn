@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ase3"]
+[Difficulty "easy"]
+[Rating "663"]
+[Themes "endgame mate mateIn1 oneMove operaMate"]
+[GameUrl "https://lichess.org/game/vHGBcEAw/black#78"]
+[Solution "g6h6 b7h7"]
+[SolutionSAN "Kh6 Rh7#"]
+[FEN "5r2/pR6/3p2k1/4P1p1/3n4/P2B4/1PP2p2/2K5 b - - 0 39"]
+[SetUp "1"]
+
+39... Kh6 40. Rh7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00km1"]
+[Difficulty "medium"]
+[Rating "1397"]
+[Themes "crushing intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/W2y2Akcv/black#34"]
+[Solution "d7a4 b8f8 g8f8 c3a4"]
+[SolutionSAN "Qxa4 Rxf8+ Kxf8 Nxa4"]
+[FEN "1R3rk1/p2q1ppp/3bpn2/3p4/Q2P4/2N3P1/P3PP1P/2B2RK1 b - - 0 17"]
+[SetUp "1"]
+
+17... Qxa4 18. Rxf8+ Kxf8 19. Nxa4 *

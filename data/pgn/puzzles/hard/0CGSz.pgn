@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CGSz"]
+[Difficulty "hard"]
+[Rating "2404"]
+[Themes "crushing endgame pin veryLong"]
+[GameUrl "https://lichess.org/game/7YGFrTac#71"]
+[Solution "g3g5 h6g5 g6h5 h8g8 h5d1 c8d8 d1b3 b8b3"]
+[SolutionSAN "Rxg5 hxg5 Qh5+ Kg8 Qd1 Rd8 Qb3+ Qxb3"]
+[FEN "1qr4k/6p1/3R1pQp/6r1/8/6RP/5PPK/8 w - - 12 36"]
+[SetUp "1"]
+
+36. Rxg5 hxg5 37. Qh5+ Kg8 38. Qd1 Rd8 39. Qb3+ Qxb3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Xrt"]
+[Difficulty "medium"]
+[Rating "1418"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/huAIKdXG#35"]
+[Solution "g5f6 d8f6 d1g4 f6a1"]
+[SolutionSAN "Bxf6 Qxf6 Qxg4 Qxa1"]
+[FEN "r2q1rk1/b1p2ppp/p1Np1n2/3P2B1/pP4b1/P7/5PPP/RN1Q1RK1 w - - 2 18"]
+[SetUp "1"]
+
+18. Bxf6 Qxf6 19. Qxg4 Qxa1 *

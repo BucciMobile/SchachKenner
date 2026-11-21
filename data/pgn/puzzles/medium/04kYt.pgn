@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04kYt"]
+[Difficulty "medium"]
+[Rating "1360"]
+[Themes "advancedPawn crushing deflection endgame exposedKing long promotion"]
+[GameUrl "https://lichess.org/game/unBadIZG#69"]
+[Solution "g2g3 d3d2 f2d4 f4e3 d4e3 d2d1q"]
+[SolutionSAN "g3 d2 Qxd4 Be3+ Qxe3 d1=Q+"]
+[FEN "r7/5k2/7p/p5p1/3pPb2/P2p3P/1P3QP1/6K1 w - - 0 35"]
+[SetUp "1"]
+
+35. g3 d2 36. Qxd4 Be3+ 37. Qxe3 d1=Q+ *

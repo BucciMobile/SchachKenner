@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05U1U"]
+[Difficulty "hard"]
+[Rating "2074"]
+[Themes "advancedPawn crushing endgame long queenEndgame"]
+[GameUrl "https://lichess.org/game/IucrdYN0/black#90"]
+[Solution "a5a4 h5h6 a7a6 c5b6 a6b6 h6h7"]
+[SolutionSAN "a4 h6 Ka6 Qxb6+ Kxb6 h7"]
+[FEN "8/kp6/1qp5/p1Qp3P/3P4/8/6P1/7K b - - 0 45"]
+[SetUp "1"]
+
+45... a4 46. h6 Ka6 47. Qxb6+ Kxb6 48. h7 *

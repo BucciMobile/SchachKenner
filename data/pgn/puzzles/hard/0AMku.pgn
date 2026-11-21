@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AMku"]
+[Difficulty "hard"]
+[Rating "1762"]
+[Themes "crushing defensiveMove endgame long master pawnEndgame"]
+[GameUrl "https://lichess.org/game/ck1YQroF#97"]
+[Solution "d5d6 f5e6 d3e4 e6d6 a2a3 d6c5"]
+[SolutionSAN "d6 Ke6 Ke4 Kxd6 a3 Kc5"]
+[FEN "8/pp6/8/3P1k2/5p2/1P1K4/P7/8 w - - 1 49"]
+[SetUp "1"]
+
+49. d6 Ke6 50. Ke4 Kxd6 51. a3 Kc5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06dZM"]
+[Difficulty "easy"]
+[Rating "990"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/Dr7kIZZZ#35"]
+[Solution "d1d6 e6c4 d6f6 c4b3"]
+[SolutionSAN "Rd6 Bxc4 Rxf6 Bxb3"]
+[FEN "r3r1k1/p4pb1/1pp1bqnp/4p1p1/P1B1P3/1QP2P2/1P2NBPP/3R1RK1 w - - 1 18"]
+[SetUp "1"]
+
+18. Rd6 Bxc4 19. Rxf6 Bxb3 *

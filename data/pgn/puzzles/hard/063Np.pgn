@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "063Np"]
+[Difficulty "hard"]
+[Rating "2072"]
+[Themes "advancedPawn crushing endgame promotion rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/Ladm90cl/black#86"]
+[Solution "b5b4 e6g6 g4g6 h5g6 c4h4 h6g5 h4e4 g7g8q"]
+[SolutionSAN "b4 Rg6 Rxg6+ hxg6 Rh4+ Kg5 Re4 g8=Q"]
+[FEN "8/p2k2P1/4R2K/1ppP3P/2r3r1/8/8/8 b - - 0 43"]
+[SetUp "1"]
+
+43... b4 44. Rg6 Rxg6+ 45. hxg6 Rh4+ 46. Kg5 Re4 47. g8=Q *

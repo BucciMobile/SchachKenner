@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09fGh"]
+[Difficulty "easy"]
+[Rating "1078"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/jPDWbOQR/black#70"]
+[Solution "d8b8 c7c8 b8c8 c2c8"]
+[SolutionSAN "Rxb8 Rc8+ Rxc8 Rxc8#"]
+[FEN "1Q1r2k1/r1R2ppp/3p4/n3p3/3b4/6B1/2R1BPPP/6K1 b - - 0 35"]
+[SetUp "1"]
+
+35... Rxb8 36. Rc8+ Rxc8 37. Rxc8# *

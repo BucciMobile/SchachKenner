@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07qNg"]
+[Difficulty "hard"]
+[Rating "2594"]
+[Themes "crushing endgame exposedKing long pin"]
+[GameUrl "https://lichess.org/game/ZDH6t8H0#71"]
+[Solution "b1e1 c4c1 g1f1 c1e1 f1e1 h4h3"]
+[SolutionSAN "Re1 Rc1 Kf1 Rxe1+ Kxe1 h3"]
+[FEN "2r3k1/4Bp2/1R3Pp1/8/1Pr2P1p/P3p3/8/1R4K1 w - - 0 36"]
+[SetUp "1"]
+
+36. Re1 Rc1 37. Kf1 Rxe1+ 38. Kxe1 h3 *

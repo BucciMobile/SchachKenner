@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CSlH"]
+[Difficulty "hard"]
+[Rating "2414"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/FX6i9QWt#109"]
+[Solution "b4e1 g3g2 f1f2 f5g5 f2g1 g5h5"]
+[SolutionSAN "Be1 g2+ Kf2 Rg5 Kg1 Rh5"]
+[FEN "6k1/1R6/8/1P3r2/1BP5/1P3pp1/8/5K2 w - - 0 55"]
+[SetUp "1"]
+
+55. Be1 g2+ 56. Kf2 Rg5 57. Kg1 Rh5 *

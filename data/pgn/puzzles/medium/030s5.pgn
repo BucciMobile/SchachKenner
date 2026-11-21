@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "030s5"]
+[Difficulty "medium"]
+[Rating "1298"]
+[Themes "advantage deflection endgame long sacrifice"]
+[GameUrl "https://lichess.org/game/UjBV4gUi#81"]
+[Solution "d3f5 f8f5 e5f5 e6e4 f4f3 g6f5"]
+[SolutionSAN "Bxf5+ Rxf5+ Rxf5 Re4+ Kf3 Kxf5"]
+[FEN "5rb1/R7/4r1k1/3pRp1p/5K1P/2PB4/P1P5/8 w - - 1 41"]
+[SetUp "1"]
+
+41. Bxf5+ Rxf5+ 42. Rxf5 Re4+ 43. Kf3 Kxf5 *

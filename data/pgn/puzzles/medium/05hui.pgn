@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05hui"]
+[Difficulty "medium"]
+[Rating "1418"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/VMWZZiA6/black#76"]
+[Solution "e7f6 g5h7 f8e7 h7f6"]
+[SolutionSAN "Qf6 Nh7+ Ke7 Nxf6"]
+[FEN "b4k2/4q3/1p2p1Q1/3pb1N1/1P6/8/2P2PP1/6K1 b - - 0 38"]
+[SetUp "1"]
+
+38... Qf6 39. Nh7+ Ke7 40. Nxf6 *

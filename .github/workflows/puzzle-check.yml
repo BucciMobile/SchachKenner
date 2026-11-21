@@ -1,0 +1,38 @@
+name: puzzle-check
+
+# Validates the hosted daily-puzzle dataset (data/puzzles/ + data/pgn/puzzles/):
+# >= 2000 puzzles, >= 600 per difficulty level, every PGN parses and its solution
+# line is legal, the daily UTC rotation rule is in sync across index.json,
+# docs/puzzles.html and bot/src/puzzles.js, and the inline JS of docs/puzzles.html
+# parses (node --check).
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install python-chess
+        run: pip install python-chess
+      - name: Validate puzzle dataset
+        run: python3 scripts/validate-puzzles.py
+      - name: Parse-check inline script of docs/puzzles.html
+        run: |
+          python3 - <<'EOF'
+          import re
+          s = open('docs/puzzles.html', encoding='utf-8').read()
+          scripts = re.findall(r'<script[^>]*>(.*?)</script>', s, re.S)
+          assert scripts, 'no inline script found'
+          open('/tmp/puzzles-inline.mjs', 'w', encoding='utf-8').write(scripts[0])
+          EOF
+          node --check /tmp/puzzles-inline.mjs

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00kDo"]
+[Difficulty "hard"]
+[Rating "1836"]
+[Themes "advantage endgame long pin"]
+[GameUrl "https://lichess.org/game/dYy9DNqE#73"]
+[Solution "a5a6 g6b1 c4f1 f3e2 h4h3 e2a6"]
+[SolutionSAN "a6 Qb1+ Bf1 Be2 Qh3 Bxa6"]
+[FEN "8/5ppk/6qp/P1p1p3/2B4Q/1P2PbP1/5P1P/6K1 w - - 1 37"]
+[SetUp "1"]
+
+37. a6 Qb1+ 38. Bf1 Be2 39. Qh3 Bxa6 *

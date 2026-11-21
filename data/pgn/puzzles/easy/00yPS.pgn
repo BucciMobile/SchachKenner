@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00yPS"]
+[Difficulty "easy"]
+[Rating "1065"]
+[Themes "crushing discoveredAttack endgame long queenEndgame"]
+[GameUrl "https://lichess.org/game/pyTEOQI7/black#86"]
+[Solution "g3g4 c5c8 f8g7 f5f6 g7f6 c8g4"]
+[SolutionSAN "Qxg4 Qc8+ Kg7 f6+ Kxf6 Qxg4"]
+[FEN "5k2/p3pp2/7p/2Qp1P2/6B1/6q1/2K5/8 b - - 2 43"]
+[SetUp "1"]
+
+43... Qxg4 44. Qc8+ Kg7 45. f6+ Kxf6 46. Qxg4 *

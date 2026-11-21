@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03BKg"]
+[Difficulty "hard"]
+[Rating "2439"]
+[Themes "intermezzo long mate mateIn3 opening sacrifice"]
+[GameUrl "https://lichess.org/game/yChTknxk/black#36"]
+[Solution "c6e7 f3f6 g7f6 c1h6 f8g8 d5f6"]
+[SolutionSAN "Nce7 Qxf6+ gxf6 Bh6+ Kg8 Nxf6#"]
+[FEN "1rbq1k1r/p1p3pp/2nbPpn1/3N4/3P4/2P2Q2/PP3PPP/R1B1R1K1 b - - 2 18"]
+[SetUp "1"]
+
+18... Nce7 19. Qxf6+ gxf6 20. Bh6+ Kg8 21. Nxf6# *

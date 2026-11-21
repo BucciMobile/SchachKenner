@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "064ZL"]
+[Difficulty "hard"]
+[Rating "2339"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/03YCPcXP/black#42"]
+[Solution "d5f6 e4a8 c8a8 g4g5"]
+[SolutionSAN "Nf6 Bxa8 Rxa8 g5"]
+[FEN "b1rq1r1k/4bpp1/p3p2p/1p1nN3/3PB1P1/P4N2/1P3PP1/1Q1RR1K1 b - - 0 21"]
+[SetUp "1"]
+
+21... Nf6 22. Bxa8 Rxa8 23. g5 *

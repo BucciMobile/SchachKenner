@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "078kF"]
+[Difficulty "easy"]
+[Rating "730"]
+[Themes "crushing endgame short skewer"]
+[GameUrl "https://lichess.org/game/0mfaNFVP#63"]
+[Solution "a1b2 a8a2 b2b1 a2d2"]
+[SolutionSAN "Kb2 Rxa2+ Kb1 Rxd2"]
+[FEN "r7/5ppp/8/1pk5/2b5/5P2/P2R2PP/K1R5 w - - 2 32"]
+[SetUp "1"]
+
+32. Kb2 Rxa2+ 33. Kb1 Rxd2 *

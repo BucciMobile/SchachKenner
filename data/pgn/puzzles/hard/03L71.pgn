@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03L71"]
+[Difficulty "hard"]
+[Rating "2200"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/JL9XYBWq/black#62"]
+[Solution "a8e8 e5f7 h8g8 f7h6"]
+[SolutionSAN "Re8 Nf7+ Kg8 Nxh6+"]
+[FEN "r6k/1p4p1/p4n1p/4N1pP/8/P2QP2q/1PP5/1K3R2 b - - 0 31"]
+[SetUp "1"]
+
+31... Re8 32. Nf7+ Kg8 33. Nxh6+ *

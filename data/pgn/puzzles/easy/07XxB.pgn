@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07XxB"]
+[Difficulty "easy"]
+[Rating "806"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/MgvukLzF#61"]
+[Solution "d5d8 e6d8 f3c6 d8c6"]
+[SolutionSAN "Rd8+ Nxd8 Bxc6 Nxc6"]
+[FEN "5k2/p4ppp/b1r1n3/3R4/8/3p1B2/P5PP/3R2K1 w - - 6 31"]
+[SetUp "1"]
+
+31. Rd8+ Nxd8 32. Bxc6 Nxc6 *

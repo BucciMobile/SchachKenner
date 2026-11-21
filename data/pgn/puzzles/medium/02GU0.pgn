@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02GU0"]
+[Difficulty "medium"]
+[Rating "1529"]
+[Themes "crushing defensiveMove endgame master short"]
+[GameUrl "https://lichess.org/game/KqZQxJ0c/black#88"]
+[Solution "c7c4 b4c4 b7b6 a3a4"]
+[SolutionSAN "Rxc4+ Kxc4 b6 a4"]
+[FEN "8/1pr5/3k2p1/3P1p1p/1KR1p2P/P5P1/5P2/8 b - - 0 44"]
+[SetUp "1"]
+
+44... Rxc4+ 45. Kxc4 b6 46. a4 *

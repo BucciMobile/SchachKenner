@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03rSW"]
+[Difficulty "medium"]
+[Rating "1482"]
+[Themes "advantage discoveredAttack discoveredCheck master middlegame short"]
+[GameUrl "https://lichess.org/game/o97foO1S#53"]
+[Solution "g3e5 d4f5 d2c2 f5e7"]
+[SolutionSAN "Be5 Nf5+ Kc2 Nxe7"]
+[FEN "2br3k/p3R1pp/1bp5/8/2BnP3/2N3B1/P2K2PP/8 w - - 5 27"]
+[SetUp "1"]
+
+27. Be5 Nf5+ 28. Kc2 Nxe7 *

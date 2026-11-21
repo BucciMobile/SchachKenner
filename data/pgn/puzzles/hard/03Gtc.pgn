@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Gtc"]
+[Difficulty "hard"]
+[Rating "2258"]
+[Themes "advancedPawn advantage bishopEndgame endgame promotion veryLong"]
+[GameUrl "https://lichess.org/game/SjOx5l6S#119"]
+[Solution "h4h5 e3d3 e4e5 d3c2 e5e6 d4d3 e6e7 d3d2 e7e8q d2d1q"]
+[SolutionSAN "h5 Kxd3 e5 Kc2 e6 d3 e7 d2 e8=Q d1=Q"]
+[FEN "8/8/8/2p5/2PpP2P/1PbPkP2/6K1/8 w - - 1 60"]
+[SetUp "1"]
+
+60. h5 Kxd3 61. e5 Kc2 62. e6 d3 63. e7 d2 64. e8=Q d1=Q *

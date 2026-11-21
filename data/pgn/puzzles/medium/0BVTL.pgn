@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BVTL"]
+[Difficulty "medium"]
+[Rating "1663"]
+[Themes "crushing discoveredAttack kingsideAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/yJ8XygpJ#61"]
+[Solution "d5c7 d4f3 g2f3 d7d1"]
+[SolutionSAN "Nxc7 Nf3+ gxf3 Rxd1+"]
+[FEN "5qk1/2pr3p/1p3ppb/pP1Np3/2PnP3/1P4BP/Q4PP1/3R2K1 w - - 2 31"]
+[SetUp "1"]
+
+31. Nxc7 Nf3+ 32. gxf3 Rxd1+ *

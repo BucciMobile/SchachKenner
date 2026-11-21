@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D4Bz"]
+[Difficulty "medium"]
+[Rating "1321"]
+[Themes "advancedPawn advantage deflection endgame promotion short"]
+[GameUrl "https://lichess.org/game/h1rdFdAy/black#90"]
+[Solution "a1b1 e1c3 f6c3 d7d8q"]
+[SolutionSAN "Rxb1 Bc3 Bxc3 d8=Q+"]
+[FEN "7k/3P4/5b1p/8/2P5/8/5KP1/rB2B3 b - - 0 45"]
+[SetUp "1"]
+
+45... Rxb1 46. Bc3 Bxc3 47. d8=Q+ *

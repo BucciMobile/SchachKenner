@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Y0b"]
+[Difficulty "easy"]
+[Rating "556"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/iBRudAA1#47"]
+[Solution "f5g6 c8h3"]
+[SolutionSAN "fxg6 Qxh3#"]
+[FEN "2q1rbk1/5p1p/2p2np1/3p1P2/1p1P4/3BP2P/1PQ1NP2/6RK w - - 0 24"]
+[SetUp "1"]
+
+24. fxg6 Qxh3# *

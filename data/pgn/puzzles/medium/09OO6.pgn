@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09OO6"]
+[Difficulty "medium"]
+[Rating "1298"]
+[Themes "advantage capturingDefender middlegame pin short"]
+[GameUrl "https://lichess.org/game/gsvg6TSJ/black#40"]
+[Solution "e7d6 e1e6 e8e6 f3d5"]
+[SolutionSAN "Bd6 Rxe6 Rxe6 Qxd5"]
+[FEN "4rrk1/p1q1b1pp/4b3/Np1n1p2/1Ppp1P2/P2P1QNP/2PB2P1/R3R1K1 b - - 1 20"]
+[SetUp "1"]
+
+20... Bd6 21. Rxe6 Rxe6 22. Qxd5 *

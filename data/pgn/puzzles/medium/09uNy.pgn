@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09uNy"]
+[Difficulty "medium"]
+[Rating "1243"]
+[Themes "crushing endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/JifyByza/black#84"]
+[Solution "g7g6 e3e4 c4e4 f3e4"]
+[SolutionSAN "Kg6 Qe4+ Qxe4 fxe4"]
+[FEN "8/5pk1/5p2/2P1p1P1/2q5/4QP1K/8/8 b - - 2 42"]
+[SetUp "1"]
+
+42... Kg6 43. Qe4+ Qxe4 44. fxe4 *

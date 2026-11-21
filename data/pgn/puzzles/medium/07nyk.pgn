@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07nyk"]
+[Difficulty "medium"]
+[Rating "1212"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/KHcPosYa/black#112"]
+[Solution "d3d6 c3e4 f2e3 e4d6"]
+[SolutionSAN "Qd6 Ne4+ Ke3 Nxd6"]
+[FEN "7R/pp6/7p/8/1P6/1KNq1n2/P4k2/8 b - - 3 56"]
+[SetUp "1"]
+
+56... Qd6 57. Ne4+ Ke3 58. Nxd6 *

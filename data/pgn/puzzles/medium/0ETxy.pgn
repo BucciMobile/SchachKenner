@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ETxy"]
+[Difficulty "medium"]
+[Rating "1488"]
+[Themes "advantage fork long middlegame pin"]
+[GameUrl "https://lichess.org/game/38eOcpH6#47"]
+[Solution "d2h2 h8h2 c2h2 f1f2 h2f2 c5f2"]
+[SolutionSAN "Rh2 Rxh2 Qxh2 Rf2+ Qxf2 Bxf2"]
+[FEN "2k4r/1pp2p2/p2p1pb1/2bPpN2/2P1P3/2N2P2/PKQR4/5r2 w - - 0 24"]
+[SetUp "1"]
+
+24. Rh2 Rxh2 25. Qxh2 Rf2+ 26. Qxf2 Bxf2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Nay"]
+[Difficulty "hard"]
+[Rating "1766"]
+[Themes "crushing deflection long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/wMvkJfcA/black#38"]
+[Solution "g7g6 g3h3 f8h8 h3f5 g6g7 f5g5"]
+[SolutionSAN "Kg6 Qh3 Rh8 Qf5+ Kg7 Qxg5+"]
+[FEN "r2q1r2/ppp2pk1/3p1n2/4p1p1/2B1P3/2NP2Q1/PPP5/2K4R b - - 0 19"]
+[SetUp "1"]
+
+19... Kg6 20. Qh3 Rh8 21. Qf5+ Kg7 22. Qxg5+ *

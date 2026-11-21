@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04EiV"]
+[Difficulty "easy"]
+[Rating "907"]
+[Themes "advancedPawn crushing endgame promotion rookEndgame short"]
+[GameUrl "https://lichess.org/game/fw4YSAr4#75"]
+[Solution "g3g2 d3d2 g2h1 d2d1q"]
+[SolutionSAN "Kg2 d2 Kxh1 d1=Q+"]
+[FEN "8/p2k4/1p4R1/2p2Pp1/2P3P1/3p1PK1/PP6/7r w - - 0 38"]
+[SetUp "1"]
+
+38. Kg2 d2 39. Kxh1 d1=Q+ *

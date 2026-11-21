@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DTS7"]
+[Difficulty "medium"]
+[Rating "1514"]
+[Themes "fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/3M2LHQTj#31"]
+[Solution "d5e4 h4e1 f7f1 d4e2"]
+[SolutionSAN "Bxe4 Qe1+ Qf1 Ne2#"]
+[FEN "r6N/ppp2Q1p/3k4/3Bp3/3nn1bq/8/PPPP2PP/RNB3KR w - - 5 16"]
+[SetUp "1"]
+
+16. Bxe4 Qe1+ 17. Qf1 Ne2# *

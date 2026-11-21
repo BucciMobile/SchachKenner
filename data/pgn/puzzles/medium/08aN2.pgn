@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08aN2"]
+[Difficulty "medium"]
+[Rating "1635"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/iH2xILha#81"]
+[Solution "h3h4 g5h4 b3b4 a5b4"]
+[SolutionSAN "h4 gxh4 b4 axb4"]
+[FEN "8/8/5p2/p4pp1/3k1P2/PP3K1P/8/8 w - - 4 41"]
+[SetUp "1"]
+
+41. h4 gxh4 42. b4 axb4 *

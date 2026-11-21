@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Syw"]
+[Difficulty "easy"]
+[Rating "1144"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/jZ7Bv2mA#61"]
+[Solution "f1e2 f4f3"]
+[SolutionSAN "Ke2 Qf3#"]
+[FEN "6k1/p4pp1/4p2p/8/P3Pq2/7B/3Q1P1n/4RK2 w - - 1 31"]
+[SetUp "1"]
+
+31. Ke2 Qf3# *

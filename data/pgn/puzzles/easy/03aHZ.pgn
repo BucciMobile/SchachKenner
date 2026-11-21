@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03aHZ"]
+[Difficulty "easy"]
+[Rating "1128"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/wP3Go3UT/black#30"]
+[Solution "c6e4 c4f7 g8f7 c2c7"]
+[SolutionSAN "Be4 Bxf7+ Kxf7 Qxc7"]
+[FEN "r2r2k1/1pq1ppbp/p1b2np1/8/2B5/1P2P3/PBQ1NPPP/2R2RK1 b - - 5 15"]
+[SetUp "1"]
+
+15... Be4 16. Bxf7+ Kxf7 17. Qxc7 *

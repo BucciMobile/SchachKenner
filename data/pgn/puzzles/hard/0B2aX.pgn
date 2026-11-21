@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B2aX"]
+[Difficulty "hard"]
+[Rating "1779"]
+[Themes "crushing defensiveMove endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/nWofljbI/black#94"]
+[Solution "g8g7 b7g7 g3g7 a7g7 h8g7 a2a4"]
+[SolutionSAN "R8g7 Rxg7 Rxg7 Rxg7 Kxg7 a4"]
+[FEN "6rk/RR6/3p4/4p2p/4P3/6r1/P3K3/8 b - - 3 47"]
+[SetUp "1"]
+
+47... R8g7 48. Rxg7 Rxg7 49. Rxg7 Kxg7 50. a4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ec0p"]
+[Difficulty "medium"]
+[Rating "1308"]
+[Themes "crushing long opening"]
+[GameUrl "https://lichess.org/game/UWUwbxQq/black#24"]
+[Solution "e8g8 f1f6 h7h6 f6h6 g7h6 h4h6"]
+[SolutionSAN "O-O Rxf6 h6 Rxh6 gxh6 Qxh6"]
+[FEN "r1bqk2r/1p3ppp/p2bpn2/2p1n1N1/2B4Q/3P4/PPP3PP/RNB2RK1 b kq - 5 12"]
+[SetUp "1"]
+
+12... O-O 13. Rxf6 h6 14. Rxh6 gxh6 15. Qxh6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CodQ"]
+[Difficulty "medium"]
+[Rating "1464"]
+[Themes "crushing discoveredAttack endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/ySxBUUqk#71"]
+[Solution "f2f3 g5g4 f3e4 h4f6"]
+[SolutionSAN "Kf3 g4+ Ke4 Qxf6"]
+[FEN "8/7k/p3PQ1p/6p1/1P5q/P7/5KP1/8 w - - 1 36"]
+[SetUp "1"]
+
+36. Kf3 g4+ 37. Ke4 Qxf6 *

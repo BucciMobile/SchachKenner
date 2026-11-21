@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01RXs"]
+[Difficulty "medium"]
+[Rating "1684"]
+[Themes "crushing endgame interference master rookEndgame short"]
+[GameUrl "https://lichess.org/game/67sQLB4C/black#80"]
+[Solution "d3d2 h2h5 e5e6 h5h6"]
+[SolutionSAN "d2 Rh5+ Ke6 Rxh6+"]
+[FEN "8/8/3r3p/p1P1k3/4pp2/PPKp4/6PR/8 b - - 0 40"]
+[SetUp "1"]
+
+40... d2 41. Rh5+ Ke6 42. Rxh6+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B2Dr"]
+[Difficulty "hard"]
+[Rating "2258"]
+[Themes "crushing deflection endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/vQHjbUKI/black#110"]
+[Solution "e4e3 d6d4 f4f5 g2f3"]
+[SolutionSAN "e3 Rd4+ Kf5 Kxf3"]
+[FEN "8/8/2pR4/1p6/4pk2/2P2rp1/1P4K1/8 b - - 1 55"]
+[SetUp "1"]
+
+55... e3 56. Rd4+ Kf5 57. Kxf3 *

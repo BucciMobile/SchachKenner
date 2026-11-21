@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D7Y2"]
+[Difficulty "hard"]
+[Rating "2034"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/KASmUfA8/black#74"]
+[Solution "c3d4 h2h8 d4d1 b1b2"]
+[SolutionSAN "Qd4 Qh8 Qd1+ Kb2"]
+[FEN "R7/2p1kr2/3p2p1/2r1p1P1/4Pp2/1Pq5/2P2R1Q/1K6 b - - 6 37"]
+[SetUp "1"]
+
+37... Qd4 38. Qh8 Qd1+ 39. Kb2 *

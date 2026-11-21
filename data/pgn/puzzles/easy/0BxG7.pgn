@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BxG7"]
+[Difficulty "easy"]
+[Rating "1171"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/rZgGdEqU#49"]
+[Solution "b5d7 g3e2 g1f2 e2d4"]
+[SolutionSAN "Bxd7 Ne2+ Kf2 Nxd4"]
+[FEN "6k1/pb1r2pp/1p1q1pn1/1B1pr3/1P1QP3/P4PnP/1B4P1/2RRN1K1 w - - 1 25"]
+[SetUp "1"]
+
+25. Bxd7 Ne2+ 26. Kf2 Nxd4 *

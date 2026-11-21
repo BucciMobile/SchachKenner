@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00jd8"]
+[Difficulty "easy"]
+[Rating "958"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/aHbfNMOT#71"]
+[Solution "h1h2 f6f1"]
+[SolutionSAN "Rh2 Qf1#"]
+[FEN "4b2k/R7/p4q2/2P1r2p/3QP1pP/1B6/P5p1/6KR w - - 0 36"]
+[SetUp "1"]
+
+36. Rh2 Qf1# *

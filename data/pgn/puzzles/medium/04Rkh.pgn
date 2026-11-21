@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Rkh"]
+[Difficulty "medium"]
+[Rating "1337"]
+[Themes "discoveredCheck doubleCheck mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/rEPWj5y4/black#38"]
+[Solution "h6h7 e4f6 h7h8 c2h7"]
+[SolutionSAN "Kh7 Nf6+ Kh8 Qh7#"]
+[FEN "r1b2r2/pp2q1p1/2p4k/2P1n1Pn/4N2P/4P3/PPQ2P2/2R1K2R b K - 0 19"]
+[SetUp "1"]
+
+19... Kh7 20. Nf6+ Kh8 21. Qh7# *

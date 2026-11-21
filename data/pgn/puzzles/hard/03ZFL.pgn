@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03ZFL"]
+[Difficulty "hard"]
+[Rating "1872"]
+[Themes "crushing fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/bT8P7Mu7#63"]
+[Solution "f2f3 h3g3 g4g3 h5f4 g2h2 f4e2"]
+[SolutionSAN "f3 Rg3+ Rxg3 Nf4+ Kh2 Nxe2"]
+[FEN "6k1/1p4pp/1b3p2/pP2pP1n/P1P3R1/2q4r/3NQPK1/3R4 w - - 0 32"]
+[SetUp "1"]
+
+32. f3 Rg3+ 33. Rxg3 Nf4+ 34. Kh2 Nxe2 *

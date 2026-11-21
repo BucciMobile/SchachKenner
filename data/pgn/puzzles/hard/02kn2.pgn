@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02kn2"]
+[Difficulty "hard"]
+[Rating "1848"]
+[Themes "crushing discoveredAttack opening short"]
+[GameUrl "https://lichess.org/game/OrurLtEu/black#16"]
+[Solution "c8d7 e5d7 b8d7 f4d6"]
+[SolutionSAN "Bd7 Nxd7 Nbxd7 Bxd6"]
+[FEN "rnbqk2r/pp3pp1/3bpn1p/1B1pN3/3Q1B2/4P3/PPP2PPP/RN2K2R b KQkq - 2 8"]
+[SetUp "1"]
+
+8... Bd7 9. Nxd7 Nbxd7 10. Bxd6 *

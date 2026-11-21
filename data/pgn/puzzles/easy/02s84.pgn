@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02s84"]
+[Difficulty "easy"]
+[Rating "698"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/joPT7WJb#75"]
+[Solution "h4a4 e8e1 g1h2 e1h1"]
+[SolutionSAN "Rhxa4 Re1+ Kh2 Rh1#"]
+[FEN "4rk2/R7/8/3b4/p6R/2b3PP/5P2/6K1 w - - 6 38"]
+[SetUp "1"]
+
+38. Rhxa4 Re1+ 39. Kh2 Rh1# *

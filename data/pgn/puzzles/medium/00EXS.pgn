@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00EXS"]
+[Difficulty "medium"]
+[Rating "1548"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/CeNY4SjC#37"]
+[Solution "f1h1 f2e3 c1b1 h2e2"]
+[SolutionSAN "Rh1 Bxe3+ Kb1 Qxe2"]
+[FEN "r3r1k1/p2Q1p1p/1p2p1p1/8/1P1P4/P3P3/1B2Nb1q/2KR1R2 w - - 0 19"]
+[SetUp "1"]
+
+19. Rh1 Bxe3+ 20. Kb1 Qxe2 *

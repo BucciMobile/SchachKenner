@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02mfm"]
+[Difficulty "hard"]
+[Rating "2492"]
+[Themes "crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/QbopKomS#85"]
+[Solution "e5e6 e7e6 h2b2 g7h6 b2d2 g6g5"]
+[SolutionSAN "e6 Qxe6 Qb2+ Kh6 Qd2+ g5"]
+[FEN "8/4qpkp/6p1/4P3/8/5r2/7Q/1BR4K w - - 1 43"]
+[SetUp "1"]
+
+43. e6 Qxe6 44. Qb2+ Kh6 45. Qd2+ g5 *

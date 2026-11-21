@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Kun"]
+[Difficulty "hard"]
+[Rating "2119"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/29MN6BMh/black#44"]
+[Solution "f6g5 g1g5 e7g5 d5g5"]
+[SolutionSAN "fxg5 Rxg5 Qxg5 Qxg5"]
+[FEN "1r3r1k/2p1q1p1/3p1pP1/3Q2B1/2P1p3/2P2b2/PP3P2/R3K1R1 b Q - 0 22"]
+[SetUp "1"]
+
+22... fxg5 23. Rxg5 Qxg5 24. Qxg5 *

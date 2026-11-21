@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07DGc"]
+[Difficulty "hard"]
+[Rating "2452"]
+[Themes "crushing kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/NWhMEkgl#63"]
+[Solution "f1d1 c5f2 g1h1 f2e2 h5g4 e2g4"]
+[SolutionSAN "Rxd1 Qxf2+ Kh1 Qe2 Qxg4+ Qxg4"]
+[FEN "5r2/p6R/2p1kpn1/2q3pQ/Bp4n1/1P6/P4PPP/3r1RK1 w - - 14 32"]
+[SetUp "1"]
+
+32. Rxd1 Qxf2+ 33. Kh1 Qe2 34. Qxg4+ Qxg4 *

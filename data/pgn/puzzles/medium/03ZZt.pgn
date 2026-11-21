@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03ZZt"]
+[Difficulty "medium"]
+[Rating "1321"]
+[Themes "endgame exposedKing long mate mateIn3 queenRookEndgame"]
+[GameUrl "https://lichess.org/game/ftcGFNdI#81"]
+[Solution "e2d3 g4g3 d3d4 g2d2 d4e5 g3e3"]
+[SolutionSAN "Kd3 R4g3+ Kd4 Rd2+ Ke5 Re3#"]
+[FEN "2Q5/6k1/p5p1/1pR2p2/1P3Pr1/8/1P2K1r1/8 w - - 1 41"]
+[SetUp "1"]
+
+41. Kd3 R4g3+ 42. Kd4 Rd2+ 43. Ke5 Re3# *

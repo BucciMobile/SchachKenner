@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03PNb"]
+[Difficulty "easy"]
+[Rating "910"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/G2mDF6KO#113"]
+[Solution "g3g4 d5c3 e2e1 c3b5"]
+[SolutionSAN "g4 Nc3+ Ke1 Nxb5"]
+[FEN "8/8/8/1R1n4/3kp3/6P1/4K3/8 w - - 3 57"]
+[SetUp "1"]
+
+57. g4 Nc3+ 58. Ke1 Nxb5 *

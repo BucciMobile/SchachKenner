@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02GQ5"]
+[Difficulty "medium"]
+[Rating "1368"]
+[Themes "advantage endgame exposedKing fork long"]
+[GameUrl "https://lichess.org/game/kM3WseIN#83"]
+[Solution "d5d6 d2d1 h1h2 e3g4 h2h3 g4f6"]
+[SolutionSAN "d6 Rd1+ Kh2 Ng4+ Kh3 Nxf6"]
+[FEN "8/p5k1/5R2/3PP3/2P2N1p/1P2n3/3r4/7K w - - 0 42"]
+[SetUp "1"]
+
+42. d6 Rd1+ 43. Kh2 Ng4+ 44. Kh3 Nxf6 *

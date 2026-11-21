@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08un8"]
+[Difficulty "medium"]
+[Rating "1435"]
+[Themes "crushing endgame long pin queenRookEndgame"]
+[GameUrl "https://lichess.org/game/kqoFJi5Z/black#90"]
+[Solution "g4g5 d3h7 e7d8 h7h4 d8c7 h4g5"]
+[SolutionSAN "Rg5 Qh7+ Kd8 Qh4 Kc7 Qxg5"]
+[FEN "8/3pk3/1pr1p3/4P3/6r1/P2Q4/KP6/8 b - - 1 45"]
+[SetUp "1"]
+
+45... Rg5 46. Qh7+ Kd8 47. Qh4 Kc7 48. Qxg5 *

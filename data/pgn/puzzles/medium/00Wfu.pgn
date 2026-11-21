@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Wfu"]
+[Difficulty "medium"]
+[Rating "1351"]
+[Themes "advantage deflection endgame master short"]
+[GameUrl "https://lichess.org/game/gxWHwrUj#51"]
+[Solution "e5d5 e8e1 d1e1 d8d5"]
+[SolutionSAN "Qxd5 Re1+ Rxe1 Qxd5"]
+[FEN "3qr1k1/p4p1p/6p1/3pQ3/8/1P3P2/P5PP/3R2K1 w - - 2 26"]
+[SetUp "1"]
+
+26. Qxd5 Re1+ 27. Rxe1 Qxd5 *

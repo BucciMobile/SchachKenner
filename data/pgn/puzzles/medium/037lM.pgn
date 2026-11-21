@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "037lM"]
+[Difficulty "medium"]
+[Rating "1613"]
+[Themes "cornerMate deflection mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/5uxyHi6R/black#66"]
+[Solution "c3e4 g2g8 f8g8 h6f7"]
+[SolutionSAN "Nxe4 Rg8+ Rxg8 Nxf7#"]
+[FEN "r4r1k/5p1p/2p2b1N/P7/4P3/2n5/6RP/6RK b - - 0 33"]
+[SetUp "1"]
+
+33... Nxe4 34. Rg8+ Rxg8 35. Nxf7# *

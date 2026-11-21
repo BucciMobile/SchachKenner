@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CGoR"]
+[Difficulty "hard"]
+[Rating "1895"]
+[Themes "crushing endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/O8ZbGJbY#71"]
+[Solution "f7c4 g7g1 b1a2 g1g8"]
+[SolutionSAN "Qc4 Qg1+ Ka2 Qg8"]
+[FEN "8/pp3Qqk/2p4p/4p3/8/P2P1P2/1PP5/1K6 w - - 2 36"]
+[SetUp "1"]
+
+36. Qc4 Qg1+ 37. Ka2 Qg8 *

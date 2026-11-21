@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06NbQ"]
+[Difficulty "easy"]
+[Rating "896"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/j13IHVYt/black#50"]
+[Solution "b6d4 c4f7 g8f7 a4d4"]
+[SolutionSAN "Qxd4 Bxf7+ Kxf7 Qxd4"]
+[FEN "2r1r1k1/1b3p1p/pq4p1/8/Q1BR4/P6P/1P3PP1/1R4K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Qxd4 26. Bxf7+ Kxf7 27. Qxd4 *

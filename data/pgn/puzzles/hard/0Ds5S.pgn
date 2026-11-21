@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ds5S"]
+[Difficulty "hard"]
+[Rating "2357"]
+[Themes "advantage long opening"]
+[GameUrl "https://lichess.org/game/igiYM0ya#15"]
+[Solution "c3e4 d8e7 d1e2 c6d4 e4f6 g7f6"]
+[SolutionSAN "Ncxe4 Qe7 Qe2 Nd4 Nxf6+ gxf6"]
+[FEN "r1bqk2r/pppp2pp/2n2n2/2b3N1/4pP2/2N5/PPPP2PP/R1BQKB1R w KQkq - 2 8"]
+[SetUp "1"]
+
+8. Ncxe4 Qe7 9. Qe2 Nd4 10. Nxf6+ gxf6 *

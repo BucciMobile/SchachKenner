@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02DcQ"]
+[Difficulty "hard"]
+[Rating "1972"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/67A6DVdE/black#96"]
+[Solution "g8d8 h5f7 d8e7 f7e7"]
+[SolutionSAN "Qd8 Qf7 Qxe7 Qxe7"]
+[FEN "6qk/pp2N2n/2p2p2/7Q/8/3p3P/P4PP1/6K1 b - - 1 48"]
+[SetUp "1"]
+
+48... Qd8 49. Qf7 Qxe7 50. Qxe7 *

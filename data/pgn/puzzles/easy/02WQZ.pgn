@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02WQZ"]
+[Difficulty "easy"]
+[Rating "1150"]
+[Themes "advancedPawn crushing kingsideAttack middlegame promotion short"]
+[GameUrl "https://lichess.org/game/ndRPsVgd/black#46"]
+[Solution "a5a4 b4f8 g7f8 d7d8q"]
+[SolutionSAN "Ra4 Qxf8+ Bxf8 d8=Q"]
+[FEN "5rk1/3P1pbp/q3p1p1/r2p4/1Q3P2/N1P1B3/PP4PP/R5K1 b - - 2 23"]
+[SetUp "1"]
+
+23... Ra4 24. Qxf8+ Bxf8 25. d8=Q *

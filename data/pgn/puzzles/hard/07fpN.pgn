@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07fpN"]
+[Difficulty "hard"]
+[Rating "2175"]
+[Themes "equality middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/BSWMBPqL/black#32"]
+[Solution "h6h5 e1d2 c2d3 d2d3"]
+[SolutionSAN "Qh5 Kd2 Bxd3 Kxd3"]
+[FEN "r3k1r1/p1p2p1p/2p4q/8/8/1PNPPN2/P1b1Q2P/R3K3 b Qq - 0 16"]
+[SetUp "1"]
+
+16... Qh5 17. Kd2 Bxd3 18. Kxd3 *

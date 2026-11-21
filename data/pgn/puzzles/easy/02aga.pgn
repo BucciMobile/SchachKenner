@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02aga"]
+[Difficulty "easy"]
+[Rating "586"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/jRSULLpN#51"]
+[Solution "f1d3 c8c1 d3d1 c1d1"]
+[SolutionSAN "Qxd3 Rc1+ Qd1 Rxd1#"]
+[FEN "2r3k1/pp3pp1/4p2p/3pP3/8/1P1q2P1/P5PP/5Q1K w - - 0 26"]
+[SetUp "1"]
+
+26. Qxd3 Rc1+ 27. Qd1 Rxd1# *

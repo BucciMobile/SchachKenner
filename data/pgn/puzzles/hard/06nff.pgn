@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06nff"]
+[Difficulty "hard"]
+[Rating "2146"]
+[Themes "advancedPawn advantage endgame promotion quietMove sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/XKbWciyD#101"]
+[Solution "e6f6 d5d4 f6e7 h3f5 g3f5 e3e2 f5d4 e2e1q"]
+[SolutionSAN "Kf6 d4 Ke7 Bxf5 Nxf5 e2 Nxd4 e1=Q"]
+[FEN "6k1/8/2p1K3/2PpPP2/8/4p1Nb/7P/8 w - - 0 51"]
+[SetUp "1"]
+
+51. Kf6 d4 52. Ke7 Bxf5 53. Nxf5 e2 54. Nxd4 e1=Q *

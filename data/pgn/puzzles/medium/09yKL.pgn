@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09yKL"]
+[Difficulty "medium"]
+[Rating "1392"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/TRJJiZvv/black#72"]
+[Solution "c1c7 f3g3 c7g3 h2g3"]
+[SolutionSAN "Qc7+ Rg3+ Qxg3+ Kxg3"]
+[FEN "5rk1/5p1p/8/5Q2/p7/3p1R1P/6PK/2q5 b - - 5 36"]
+[SetUp "1"]
+
+36... Qc7+ 37. Rg3+ Qxg3+ 38. Kxg3 *

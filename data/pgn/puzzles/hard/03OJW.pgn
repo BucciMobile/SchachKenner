@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03OJW"]
+[Difficulty "hard"]
+[Rating "1724"]
+[Themes "crushing deflection discoveredAttack middlegame pin short"]
+[GameUrl "https://lichess.org/game/7Q9D82ua/black#32"]
+[Solution "e5g6 e4g5 f7g8 d3g6"]
+[SolutionSAN "Ng6 Ng5+ Kg8 Bxg6"]
+[FEN "r2q3r/pbpn1k2/1p2pb1B/4n3/4NQp1/3B4/PPP2PPP/R3R1K1 b - - 3 16"]
+[SetUp "1"]
+
+16... Ng6 17. Ng5+ Kg8 18. Bxg6 *

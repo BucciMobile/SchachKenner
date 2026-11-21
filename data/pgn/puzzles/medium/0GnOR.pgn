@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GnOR"]
+[Difficulty "medium"]
+[Rating "1224"]
+[Themes "crushing endgame hangingPiece intermezzo short"]
+[GameUrl "https://lichess.org/game/CEdFFmWP/black#68"]
+[Solution "f5f1 d4e5 b8c8 g2f1"]
+[SolutionSAN "Rxf1 Bxe5+ Kc8 Kxf1"]
+[FEN "1k6/1p3p2/4p3/4nr2/3B4/3P4/6KP/5R2 b - - 4 34"]
+[SetUp "1"]
+
+34... Rxf1 35. Bxe5+ Kc8 36. Kxf1 *

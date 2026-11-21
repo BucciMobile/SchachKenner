@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07X3h"]
+[Difficulty "medium"]
+[Rating "1357"]
+[Themes "crushing fork opening short"]
+[GameUrl "https://lichess.org/game/h5QScRIm/black#24"]
+[Solution "f8g7 b5d6 e8d8 d6e4"]
+[SolutionSAN "Bxg7 Nd6+ Kd8 Nxe4"]
+[FEN "rn2kb1r/1b1p1pBp/pp2p3/1N1n4/4q3/1Q6/PP2NPPP/R3KB1R b KQkq - 0 12"]
+[SetUp "1"]
+
+12... Bxg7 13. Nd6+ Kd8 14. Nxe4 *

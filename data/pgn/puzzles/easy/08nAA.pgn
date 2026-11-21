@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08nAA"]
+[Difficulty "easy"]
+[Rating "1103"]
+[Themes "middlegame"]
+[GameUrl "https://lichess.org/game/OVy5gE1i/black#36"]
+[Solution "c3c1 b1c1 e7c6 c1c6 b7c6 d6c6"]
+[SolutionSAN "Qxc1+ Rxc1+ Nc6 Rxc6+ bxc6 Qxc6+"]
+[FEN "r1k2b1r/pp2n1pp/3Q4/3pP3/3p1n2/2q2N2/P2N1PPP/1RR3K1 b - - 3 18"]
+[SetUp "1"]
+
+18... Qxc1+ 19. Rxc1+ Nc6 20. Rxc6+ bxc6 21. Qxc6+ *

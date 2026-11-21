@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06EU4"]
+[Difficulty "medium"]
+[Rating "1328"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/GJAjNdBe/black#62"]
+[Solution "g8a8 a3a6"]
+[SolutionSAN "Qa8 Qa6#"]
+[FEN "6qr/pkp5/1pNp4/1P5p/2rpP1p1/Q7/P4PPP/5RK1 b - - 1 31"]
+[SetUp "1"]
+
+31... Qa8 32. Qa6# *

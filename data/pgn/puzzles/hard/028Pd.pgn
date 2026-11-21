@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "028Pd"]
+[Difficulty "hard"]
+[Rating "2277"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/AI5JOyc3#49"]
+[Solution "b7d5 a7d7 f5f6 g7f6"]
+[SolutionSAN "Bd5 Rd7 f6 gxf6"]
+[FEN "5r1k/rB2b1pp/p7/4pP2/b7/8/1P1B2PP/2R2R1K w - - 1 25"]
+[SetUp "1"]
+
+25. Bd5 Rd7 26. f6 gxf6 *

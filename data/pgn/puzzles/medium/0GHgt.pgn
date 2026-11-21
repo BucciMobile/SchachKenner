@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GHgt"]
+[Difficulty "medium"]
+[Rating "1562"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/TKDOEiwi/black#52"]
+[Solution "c5a3 a1e5 d7e5 h6g7"]
+[SolutionSAN "Qxa3 Bxe5 Nxe5 Qg7"]
+[FEN "7r/3nkp1p/4p1pQ/2q1n1P1/4P3/P7/6PP/BB3R1K b - - 4 26"]
+[SetUp "1"]
+
+26... Qxa3 27. Bxe5 Nxe5 28. Qg7 *

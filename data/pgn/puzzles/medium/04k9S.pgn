@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04k9S"]
+[Difficulty "medium"]
+[Rating "1384"]
+[Themes "crushing endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/28s6xkGA/black#74"]
+[Solution "h5h4 e3g3 h4g3 f2g3"]
+[SolutionSAN "Qxh4 Qg3+ Qxg3 fxg3"]
+[FEN "8/1pk5/2p5/7q/4p2P/4Q3/PP3P2/1K6 b - - 2 37"]
+[SetUp "1"]
+
+37... Qxh4 38. Qg3+ Qxg3 39. fxg3 *

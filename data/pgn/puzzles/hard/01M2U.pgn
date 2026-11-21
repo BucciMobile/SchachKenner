@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01M2U"]
+[Difficulty "hard"]
+[Rating "2303"]
+[Themes "advancedPawn advantage endgame long master sacrifice"]
+[GameUrl "https://lichess.org/game/L4WpZJZC#75"]
+[Solution "e2f1 h6h3 f1h3 e3e2 h1b1 h8h3"]
+[SolutionSAN "Bf1 Rxh3 Bxh3 e2 Rb1 Rxh3"]
+[FEN "1k5r/pp4p1/7r/3p2p1/3P2R1/2P1pP1P/PP2Bb2/K6R w - - 0 38"]
+[SetUp "1"]
+
+38. Bf1 Rxh3 39. Bxh3 e2 40. Rb1 Rxh3 *

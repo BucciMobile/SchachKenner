@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BNWh"]
+[Difficulty "hard"]
+[Rating "2087"]
+[Themes "advantage endgame sacrifice skewer veryLong"]
+[GameUrl "https://lichess.org/game/UdUm8XXt/black#56"]
+[Solution "e2f2 e8h8 h7g6 f7e5 g6f6 e5g4 f5g4 h8f8 f6e5 f8f2"]
+[SolutionSAN "Qxf2 Qh8+ Kg6 Ne5+ Kf6 Ng4+ fxg4 Qf8+ Ke5 Qxf2"]
+[FEN "1rb1Q3/pp1p1Npk/4p3/2P2p2/1P6/P6P/4qPPK/8 b - - 3 28"]
+[SetUp "1"]
+
+28... Qxf2 29. Qh8+ Kg6 30. Ne5+ Kf6 31. Ng4+ fxg4 32. Qf8+ Ke5 33. Qxf2 *

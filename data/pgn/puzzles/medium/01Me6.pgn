@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Me6"]
+[Difficulty "medium"]
+[Rating "1344"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/njaVheic/black#118"]
+[Solution "f5e5 b5a5 e5d6 a5b6 d6d7 b6b7"]
+[SolutionSAN "Ke5 Kxa5 Kd6 Kb6 Kd7 Kb7"]
+[FEN "8/8/8/pK3k2/P7/8/8/8 b - - 1 59"]
+[SetUp "1"]
+
+59... Ke5 60. Kxa5 Kd6 61. Kb6 Kd7 62. Kb7 *

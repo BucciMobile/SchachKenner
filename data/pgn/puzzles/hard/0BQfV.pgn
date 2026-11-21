@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BQfV"]
+[Difficulty "hard"]
+[Rating "2035"]
+[Themes "crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/ROkErQs6/black#54"]
+[Solution "f7f6 h5f6 g7f6 f3f6"]
+[SolutionSAN "f6 Nxf6+ gxf6 Qxf6"]
+[FEN "3rr1k1/1p3ppp/pnpqp3/4R2N/1P1P4/2P2Q2/5PPP/2R3K1 b - - 2 27"]
+[SetUp "1"]
+
+27... f6 28. Nxf6+ gxf6 29. Qxf6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08jHj"]
+[Difficulty "hard"]
+[Rating "1933"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/y4CfOBMc/black#102"]
+[Solution "a6a3 b7b6 g6h5 b6a6"]
+[SolutionSAN "Ra3 Rb6+ Kh5 Ra6"]
+[FEN "8/PR6/r5kp/5p2/1pB2b1P/8/8/1Kb5 b - - 2 51"]
+[SetUp "1"]
+
+51... Ra3 52. Rb6+ Kh5 53. Ra6 *

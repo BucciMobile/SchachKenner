@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ByiS"]
+[Difficulty "easy"]
+[Rating "1029"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/sBeRoxli#51"]
+[Solution "f1e2 h1g2"]
+[SolutionSAN "Ke2 Qxg2#"]
+[FEN "5r1k/1b3pp1/p2Np3/2Pp4/1r6/3BPPb1/PPQ3P1/1R1R1K1q w - - 8 26"]
+[SetUp "1"]
+
+26. Ke2 Qxg2# *

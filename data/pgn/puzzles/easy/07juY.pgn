@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07juY"]
+[Difficulty "easy"]
+[Rating "400"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/PJCgqD80#49"]
+[Solution "d1d6 a5a1 d6d1 a1d1"]
+[SolutionSAN "Rxd6 Ra1+ Rd1 Rxd1#"]
+[FEN "6k1/pp3pp1/3r3p/r3p3/4P3/1PP5/1P3PPP/3R2K1 w - - 0 25"]
+[SetUp "1"]
+
+25. Rxd6 Ra1+ 26. Rd1 Rxd1# *

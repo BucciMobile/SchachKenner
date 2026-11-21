@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03kw5"]
+[Difficulty "easy"]
+[Rating "1056"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/vmtrmKj0#31"]
+[Solution "g2f3 d7g4"]
+[SolutionSAN "Kf3 Qg4#"]
+[FEN "r3k1r1/pppq1p2/3p1p1p/8/1PBpP3/P2P4/2P2PK1/R2Q1R2 w q - 1 16"]
+[SetUp "1"]
+
+16. Kf3 Qg4# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BK3y"]
+[Difficulty "hard"]
+[Rating "1983"]
+[Themes "crushing endgame exposedKing fork long master quietMove"]
+[GameUrl "https://lichess.org/game/Fvnc9ICT#103"]
+[Solution "f5h6 a5a4 d3c2 c4e3 c2b2 e3g2"]
+[SolutionSAN "Nxh6 a4 Kc2 Ne3+ Kb2 Nxg2"]
+[FEN "8/8/7p/ppk1pN2/2n3P1/3K3P/6B1/8 w - - 3 52"]
+[SetUp "1"]
+
+52. Nxh6 a4 53. Kc2 Ne3+ 54. Kb2 Nxg2 *

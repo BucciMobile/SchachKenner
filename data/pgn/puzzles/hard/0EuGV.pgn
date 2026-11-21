@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EuGV"]
+[Difficulty "hard"]
+[Rating "2051"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/1z3uQNtm/black#48"]
+[Solution "d6a6 a2c4 d7c6 c4a6 c6e4 c5e7"]
+[SolutionSAN "Qa6 Bc4 Bc6 Bxa6 Bxe4 Bxe7"]
+[FEN "1r1r2k1/3bbppp/3qp3/2B5/p3Q3/P1R5/BPP3PP/5R1K b - - 2 24"]
+[SetUp "1"]
+
+24... Qa6 25. Bc4 Bc6 26. Bxa6 Bxe4 27. Bxe7 *

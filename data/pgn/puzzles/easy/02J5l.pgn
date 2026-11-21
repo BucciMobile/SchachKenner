@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02J5l"]
+[Difficulty "easy"]
+[Rating "956"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/5VON85eA#59"]
+[Solution "d3e2 h7h1 g2h1 h8h1"]
+[SolutionSAN "Qe2 Rh1+ Bxh1 Rxh1#"]
+[FEN "2b4r/1p5r/p1p2k2/3p1p2/3P2p1/P2QP1q1/1P1N2B1/2R1RK2 w - - 0 30"]
+[SetUp "1"]
+
+30. Qe2 Rh1+ 31. Bxh1 Rxh1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AY68"]
+[Difficulty "easy"]
+[Rating "517"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/fBOamPLY/black#118"]
+[Solution "g1f3 g4f3 e4f3 f2f3"]
+[SolutionSAN "Nf3 Bxf3 exf3 Kxf3"]
+[FEN "8/8/8/8/4p1Bp/3kP2P/5K2/6n1 b - - 9 59"]
+[SetUp "1"]
+
+59... Nf3 60. Bxf3 exf3 61. Kxf3 *

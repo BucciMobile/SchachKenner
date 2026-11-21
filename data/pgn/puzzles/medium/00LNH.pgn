@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00LNH"]
+[Difficulty "medium"]
+[Rating "1622"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/gVcbpusg#43"]
+[Solution "c4b3 e6f5 c2f5 g6f5"]
+[SolutionSAN "Bb3 Bf5 Qxf5 gxf5"]
+[FEN "1k2r3/pp2r2p/2pqbpp1/3n4/2BP1p2/5N1P/PPQB1PP1/1K1RR3 w - - 2 22"]
+[SetUp "1"]
+
+22. Bb3 Bf5 23. Qxf5 gxf5 *

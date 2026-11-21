@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "001Oo"]
+[Difficulty "hard"]
+[Rating "2078"]
+[Themes "crushing endgame long quietMove"]
+[GameUrl "https://lichess.org/game/8IKs77O9/black#46"]
+[Solution "d1a4 a2a4 b5a4 b4b5 g8f7 b5b6"]
+[SolutionSAN "Qa4 Qxa4 bxa4 b5 Kf7 b6"]
+[FEN "6k1/4p1bp/6p1/1p1pP3/1PpPp3/2P1P3/Q2B1KPP/3q4 b - - 2 23"]
+[SetUp "1"]
+
+23... Qa4 24. Qxa4 bxa4 25. b5 Kf7 26. b6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Aoe"]
+[Difficulty "medium"]
+[Rating "1633"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/C4MJugGy#29"]
+[Solution "d1f3 g4h2 f1e2 h2f3"]
+[SolutionSAN "Qf3 Nh2+ Ke2 Nxf3"]
+[FEN "r3k2r/pp3Rp1/2pp3p/4p3/1bB1P1nq/2NP4/PPPB1PP1/R2Q1K2 w kq - 0 15"]
+[SetUp "1"]
+
+15. Qf3 Nh2+ 16. Ke2 Nxf3 *

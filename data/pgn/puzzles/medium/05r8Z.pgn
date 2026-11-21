@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05r8Z"]
+[Difficulty "medium"]
+[Rating "1244"]
+[Themes "crushing deflection discoveredAttack endgame long"]
+[GameUrl "https://lichess.org/game/uY0r60dE/black#68"]
+[Solution "e7e8 h4h5 h6g7 h5g5 g7f8 h1h8"]
+[SolutionSAN "Ree8 Rxh5+ Kg7 Rg5+ Kf8 Rxh8+"]
+[FEN "7r/pb2rp2/1pp4k/3pP2p/1P1P3R/P2B1Pp1/2K5/7R b - - 5 34"]
+[SetUp "1"]
+
+34... Ree8 35. Rxh5+ Kg7 36. Rg5+ Kf8 37. Rxh8+ *

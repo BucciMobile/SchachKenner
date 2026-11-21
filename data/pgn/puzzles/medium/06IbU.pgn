@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06IbU"]
+[Difficulty "medium"]
+[Rating "1521"]
+[Themes "advantage endgame quietMove skewer veryLong"]
+[GameUrl "https://lichess.org/game/u0Oxk4K6#61"]
+[Solution "g1f1 b8a8 f1e1 a8a1 e1d2 a1d1 d2e3 d1d7"]
+[SolutionSAN "Kf1 Ra8 Ke1 Ra1+ Kd2 Rd1+ Ke3 Rxd7"]
+[FEN "1r4k1/3R1pp1/4p2p/2p1P3/2B5/1P3bP1/5P1P/6K1 w - - 1 31"]
+[SetUp "1"]
+
+31. Kf1 Ra8 32. Ke1 Ra1+ 33. Kd2 Rd1+ 34. Ke3 Rxd7 *

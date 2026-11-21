@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01485"]
+[Difficulty "easy"]
+[Rating "1102"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/Qku6iH4j/black#32"]
+[Solution "f7f8 f4g6"]
+[SolutionSAN "Kf8 Ng6#"]
+[FEN "r2qr3/p2n1kp1/b1pb1n1p/8/1p1P1N2/1Q3N1P/PP3PP1/R1B1R1K1 b - - 1 16"]
+[SetUp "1"]
+
+16... Kf8 17. Ng6# *

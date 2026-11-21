@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AZ8u"]
+[Difficulty "medium"]
+[Rating "1274"]
+[Themes "advantage endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/dF4zPHHR#53"]
+[Solution "e1e5 c5e5 f4e5 e6e5"]
+[SolutionSAN "Rxe5+ Rxe5 fxe5 Kxe5"]
+[FEN "8/ppp4p/4k3/2r1np2/2P2P2/P5P1/1P5P/2K1R3 w - - 1 27"]
+[SetUp "1"]
+
+27. Rxe5+ Rxe5 28. fxe5 Kxe5 *

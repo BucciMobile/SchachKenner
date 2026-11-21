@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05teJ"]
+[Difficulty "easy"]
+[Rating "766"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/Zr5rXENj#59"]
+[Solution "d4f6 f5f6 g4f6 g7f6"]
+[SolutionSAN "Qxf6+ Qxf6 Nxf6 Kxf6"]
+[FEN "8/1p3pkp/p4np1/5q2/PP1Q2N1/7P/5PP1/6K1 w - - 4 30"]
+[SetUp "1"]
+
+30. Qxf6+ Qxf6 31. Nxf6 Kxf6 *

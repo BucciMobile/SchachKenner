@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "042gq"]
+[Difficulty "medium"]
+[Rating "1306"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/XgYNgeOy/black#40"]
+[Solution "h7e4 c3e4 d3b3 e4c5"]
+[SolutionSAN "Bxe4 Nxe4 Rxb3 Nxc5"]
+[FEN "2k4r/2p2ppb/pnp1p2p/2q1P2P/4PPP1/1QNr4/PP6/1KBR3R b - - 4 20"]
+[SetUp "1"]
+
+20... Bxe4 21. Nxe4 Rxb3 22. Nxc5 *

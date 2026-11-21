@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09doW"]
+[Difficulty "easy"]
+[Rating "1139"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/EwcljgM9#71"]
+[Solution "b4b5 c4g4 g2f3 g6f5"]
+[SolutionSAN "b5 Rxg4+ Kf3 Kxf5"]
+[FEN "8/7p/6k1/5Rp1/1Pr3P1/8/5PKP/8 w - - 3 36"]
+[SetUp "1"]
+
+36. b5 Rxg4+ 37. Kf3 Kxf5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02CQe"]
+[Difficulty "medium"]
+[Rating "1297"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/7BFYWf9w/black#48"]
+[Solution "c6c5 h5f7 g8h8 f7b7"]
+[SolutionSAN "c5 Qf7+ Kh8 Qxb7"]
+[FEN "r5k1/1b4b1/2p1p2p/pp4pQ/8/P5BP/1Pq3PN/5R1K b - - 0 24"]
+[SetUp "1"]
+
+24... c5 25. Qf7+ Kh8 26. Qxb7 *

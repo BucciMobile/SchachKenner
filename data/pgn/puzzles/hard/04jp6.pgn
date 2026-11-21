@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04jp6"]
+[Difficulty "hard"]
+[Rating "2018"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/klzJfoyu/black#68"]
+[Solution "d7d5 c4d5 d8d5 b6b7 d5b5 d1d4"]
+[SolutionSAN "Qd5 Qxd5 Rxd5 b7 Rb5 Rxd4"]
+[FEN "3r2k1/3q1ppp/1P6/8/2Qbp3/6PP/6K1/3R4 b - - 0 34"]
+[SetUp "1"]
+
+34... Qd5 35. Qxd5 Rxd5 36. b7 Rb5 37. Rxd4 *

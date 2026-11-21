@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07QW4"]
+[Difficulty "hard"]
+[Rating "1911"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/hpGL5gTY/black#38"]
+[Solution "d7e7 g5g4 h5g4 h1h8"]
+[SolutionSAN "Qe7 Qxg4 hxg4 Rxh8+"]
+[FEN "r3k2r/1p1q1p2/p2p2p1/2p3Qp/3pPNn1/P2P2P1/1PP2PK1/R6R b kq - 1 19"]
+[SetUp "1"]
+
+19... Qe7 20. Qxg4 hxg4 21. Rxh8+ *

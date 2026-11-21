@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CGSv"]
+[Difficulty "hard"]
+[Rating "2478"]
+[Themes "crushing defensiveMove endgame exposedKing master masterVsMaster veryLong"]
+[GameUrl "https://lichess.org/game/P0y9MpVB#97"]
+[Solution "f7e7 b3b1 e7e1 b1e1 f1e1 b4b3 g5f6 g3g2"]
+[SolutionSAN "Re7 Rb1+ Re1 Rxe1+ Kxe1 b3 Bf6 Kg2"]
+[FEN "8/5R2/8/6B1/1p5P/1r3pk1/8/5K2 w - - 1 49"]
+[SetUp "1"]
+
+49. Re7 Rb1+ 50. Re1 Rxe1+ 51. Kxe1 b3 52. Bf6 Kg2 *

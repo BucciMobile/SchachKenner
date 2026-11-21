@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02IrF"]
+[Difficulty "hard"]
+[Rating "1953"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/WoZ5wdv5#49"]
+[Solution "c4d5 e6g4 g2g3 g4h3 d5f3 f6f3"]
+[SolutionSAN "Qxd5 Qg4 g3 Qh3 Qxf3 Rxf3"]
+[FEN "5r1k/pp4pp/4qr2/1P1np3/P1Q5/B1P2p2/5PPP/3R1RK1 w - - 0 25"]
+[SetUp "1"]
+
+25. Qxd5 Qg4 26. g3 Qh3 27. Qxf3 Rxf3 *

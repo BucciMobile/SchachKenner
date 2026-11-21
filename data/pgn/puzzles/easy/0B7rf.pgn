@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B7rf"]
+[Difficulty "easy"]
+[Rating "817"]
+[Themes "crushing kingsideAttack middlegame short xRayAttack"]
+[GameUrl "https://lichess.org/game/3tDsPei6#41"]
+[Solution "a1e1 e3e1 f2e1 g3e1"]
+[SolutionSAN "Re1 Rxe1+ Qxe1 Qxe1+"]
+[FEN "2k5/pppn2p1/6n1/8/5p2/3PrPqN/PPP2QBR/R5K1 w - - 0 21"]
+[SetUp "1"]
+
+21. Re1 Rxe1+ 22. Qxe1 Qxe1+ *

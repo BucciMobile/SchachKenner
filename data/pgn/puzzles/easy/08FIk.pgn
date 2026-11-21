@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08FIk"]
+[Difficulty "easy"]
+[Rating "487"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/AhJa2Mhn/black#36"]
+[Solution "f7e6 f3f8"]
+[SolutionSAN "fxe6 Qxf8#"]
+[FEN "1rb2rk1/p1p2ppp/1p2P3/3P4/8/2Pn1QB1/P1q1N2P/R4RK1 b - - 0 18"]
+[SetUp "1"]
+
+18... fxe6 19. Qxf8# *

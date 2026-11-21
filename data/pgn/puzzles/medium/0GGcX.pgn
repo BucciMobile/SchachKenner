@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GGcX"]
+[Difficulty "medium"]
+[Rating "1288"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/Klb9o5Wr#99"]
+[Solution "a3a4 f8d8 b7d7 d8d7"]
+[SolutionSAN "a4 Rd8+ Rd7 Rxd7#"]
+[FEN "5r2/1R3pR1/1p2rP2/p2K1kP1/2P5/P7/8/8 w - - 4 50"]
+[SetUp "1"]
+
+50. a4 Rd8+ 51. Rd7 Rxd7# *

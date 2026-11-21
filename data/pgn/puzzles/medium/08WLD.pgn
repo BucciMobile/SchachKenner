@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08WLD"]
+[Difficulty "medium"]
+[Rating "1536"]
+[Themes "endgame hookMate mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/bJVOmvAw/black#62"]
+[Solution "g6f5 e4f4"]
+[SolutionSAN "Kf5 Rf4#"]
+[FEN "4r3/2p1r1p1/1p2Npk1/p2Pn3/4R3/2P5/P6P/6RK b - - 5 31"]
+[SetUp "1"]
+
+31... Kf5 32. Rf4# *

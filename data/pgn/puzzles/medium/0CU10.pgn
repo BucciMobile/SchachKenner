@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CU10"]
+[Difficulty "medium"]
+[Rating "1217"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/CcOmjkvH/black#58"]
+[Solution "f5f4 d3h7 g8h7 e3c3"]
+[SolutionSAN "f4 Bh7+ Kxh7 Qxc3"]
+[FEN "4b1k1/8/p2bpr1p/1p1pNpp1/3P4/1PqBQ2P/P5P1/5R1K b - - 3 29"]
+[SetUp "1"]
+
+29... f4 30. Bh7+ Kxh7 31. Qxc3 *

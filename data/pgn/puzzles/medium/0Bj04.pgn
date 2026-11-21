@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bj04"]
+[Difficulty "medium"]
+[Rating "1312"]
+[Themes "epauletteMate mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/qgBWozZt/black#14"]
+[Solution "e8d7 d1d5"]
+[SolutionSAN "Kd7 Qxd5#"]
+[FEN "r1b1kbnr/ppN1pppp/1qn5/3p4/5B2/4pN2/PPP2PPP/R2QKB1R b KQkq - 1 7"]
+[SetUp "1"]
+
+7... Kd7 8. Qxd5# *

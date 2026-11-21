@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "017c1"]
+[Difficulty "easy"]
+[Rating "1129"]
+[Themes "crushing discoveredAttack endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/xat94cnU/black#98"]
+[Solution "e4d4 b2c3 d4c3 e2a2"]
+[SolutionSAN "Kd4 bxc3+ Kxc3 Rxa2"]
+[FEN "8/8/8/1p6/4k3/2p4P/rP2RK2/8 b - - 1 49"]
+[SetUp "1"]
+
+49... Kd4 50. bxc3+ Kxc3 51. Rxa2 *

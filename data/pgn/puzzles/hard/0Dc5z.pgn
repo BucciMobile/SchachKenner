@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dc5z"]
+[Difficulty "hard"]
+[Rating "1954"]
+[Themes "attraction long mate mateIn3 middlegame operaMate queensideAttack sacrifice"]
+[GameUrl "https://lichess.org/game/wqHNhE8p#49"]
+[Solution "g4g5 a5a2 b1a2 c5a5 a2b1 a5a1"]
+[SolutionSAN "g5 Qxa2+ Kxa2 Ra5+ Kb1 Ra1#"]
+[FEN "4k2r/p3pp2/3p3p/q1rP4/5PP1/1Pb1Q3/P1P3B1/1K1R3R w k - 3 25"]
+[SetUp "1"]
+
+25. g5 Qxa2+ 26. Kxa2 Ra5+ 27. Kb1 Ra1# *

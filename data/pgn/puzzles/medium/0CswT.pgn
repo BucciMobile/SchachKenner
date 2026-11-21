@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CswT"]
+[Difficulty "medium"]
+[Rating "1357"]
+[Themes "advantage discoveredAttack long middlegame"]
+[GameUrl "https://lichess.org/game/8EjCowJO/black#38"]
+[Solution "d8c8 d7d5 c8b8 d5c5 b7f3 g2f3"]
+[SolutionSAN "Kc8 Rd5+ Kb8 Rxc5 Bxf3 gxf3"]
+[FEN "r2k3r/1bpR3p/p3Bp2/npq5/8/5N2/PPP2PPP/2K1R3 b - - 0 19"]
+[SetUp "1"]
+
+19... Kc8 20. Rd5+ Kb8 21. Rxc5 Bxf3 22. gxf3 *

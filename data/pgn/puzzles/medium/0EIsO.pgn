@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EIsO"]
+[Difficulty "medium"]
+[Rating "1268"]
+[Themes "crushing discoveredAttack kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/izuaT7LC/black#38"]
+[Solution "e8g8 e4f6 g7f6 d3h7 g8f7 d1d8"]
+[SolutionSAN "O-O Nxf6+ gxf6 Bxh7+ Kf7 Rxd8"]
+[FEN "r1bqk2r/pp2n1pp/2p1pp2/8/1Q2NP2/3B4/PPP3PP/2KR3R b kq - 2 19"]
+[SetUp "1"]
+
+19... O-O 20. Nxf6+ gxf6 21. Bxh7+ Kf7 22. Rxd8 *

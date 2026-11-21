@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04FyS"]
+[Difficulty "easy"]
+[Rating "1036"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/JCpo8jdk/black#48"]
+[Solution "h1h2 b4e7 d8c8 e7e8"]
+[SolutionSAN "Qxh2 Qe7+ Kc8 Qe8#"]
+[FEN "3k4/1ppn1ppp/p7/3N4/1QP5/P7/KP5P/7q b - - 5 24"]
+[SetUp "1"]
+
+24... Qxh2 25. Qe7+ Kc8 26. Qe8# *

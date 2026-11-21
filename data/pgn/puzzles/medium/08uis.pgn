@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08uis"]
+[Difficulty "medium"]
+[Rating "1576"]
+[Themes "crushing endgame hangingPiece long"]
+[GameUrl "https://lichess.org/game/0xtseClY/black#98"]
+[Solution "b4b3 e2g3 b3b2 d3c2 b2b1q c2b1"]
+[SolutionSAN "b3 Nxg3 b2 Kc2 b1=Q+ Kxb1"]
+[FEN "8/8/4p1p1/3kP1P1/1p3P2/3K2b1/4N3/8 b - - 3 49"]
+[SetUp "1"]
+
+49... b3 50. Nxg3 b2 51. Kc2 b1=Q+ 52. Kxb1 *

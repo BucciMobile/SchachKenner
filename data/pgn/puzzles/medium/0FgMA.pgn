@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FgMA"]
+[Difficulty "medium"]
+[Rating "1323"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/p0rRELMy/black#74"]
+[Solution "a4d7 d8f6 d7d4 f6d4"]
+[SolutionSAN "Qd7 Qf6 Qxd4 Qxd4"]
+[FEN "3Q1bk1/1p3p1p/4b1p1/8/q2BP3/5B1P/6P1/7K b - - 1 37"]
+[SetUp "1"]
+
+37... Qd7 38. Qf6 Qxd4 39. Qxd4 *

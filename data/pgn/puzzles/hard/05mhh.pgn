@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05mhh"]
+[Difficulty "hard"]
+[Rating "2109"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/ESr9Uj15#61"]
+[Solution "e6d6 b3a2 c4a2 c7b7 b1c2 b7b2"]
+[SolutionSAN "Qxd6 bxa2+ Bxa2 Qb7+ Kc2 Qb2+"]
+[FEN "5r1k/2q4p/3pQbpP/2p5/2B1PP2/1p6/P7/1K1R4 w - - 0 31"]
+[SetUp "1"]
+
+31. Qxd6 bxa2+ 32. Bxa2 Qb7+ 33. Kc2 Qb2+ *

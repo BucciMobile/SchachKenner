@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "005do"]
+[Difficulty "medium"]
+[Rating "1433"]
+[Themes "attraction crushing deflection endgame fork long sacrifice"]
+[GameUrl "https://lichess.org/game/Q1hPi58C/black#84"]
+[Solution "h8f8 c1c7 d7c7 g5e6 c7b6 e6f8"]
+[SolutionSAN "Rf8 Rc7+ Kxc7 Nxe6+ Kb6 Nxf8"]
+[FEN "7r/pp1k4/4p1b1/3pP1Np/3P1P1K/8/P7/2R5 b - - 7 42"]
+[SetUp "1"]
+
+42... Rf8 43. Rc7+ Kxc7 44. Nxe6+ Kb6 45. Nxf8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00eiu"]
+[Difficulty "easy"]
+[Rating "435"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/FN8YasJv#51"]
+[Solution "a1f1 b5f1"]
+[SolutionSAN "Rxf1 Qxf1#"]
+[FEN "r5k1/1b1pn1p1/1p5p/pq1PN2B/4P3/P6Q/6PP/R4r1K w - - 0 26"]
+[SetUp "1"]
+
+26. Rxf1 Qxf1# *

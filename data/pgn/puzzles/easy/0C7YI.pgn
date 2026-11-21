@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C7YI"]
+[Difficulty "easy"]
+[Rating "729"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/CeouWdXE/black#80"]
+[Solution "f4e4 f3g5 h7h6 g5e4"]
+[SolutionSAN "Qxe4 Ng5+ Kh6 Nxe4"]
+[FEN "8/p4p1k/6p1/8/1P2Pq1p/P4N1P/5KP1/8 b - - 2 40"]
+[SetUp "1"]
+
+40... Qxe4 41. Ng5+ Kh6 42. Nxe4 *

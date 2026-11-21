@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0COFF"]
+[Difficulty "medium"]
+[Rating "1285"]
+[Themes "crushing deflection middlegame short"]
+[GameUrl "https://lichess.org/game/Ethn2COZ/black#44"]
+[Solution "d7e5 e7g7 g6g7 d3f5"]
+[SolutionSAN "Ne5 Rg7+ Kxg7 Qxf5"]
+[FEN "r6r/pp1nR3/2p2pk1/3p1qp1/8/2NQ2P1/PPP2P1P/R5K1 b - - 5 22"]
+[SetUp "1"]
+
+22... Ne5 23. Rg7+ Kxg7 24. Qxf5 *

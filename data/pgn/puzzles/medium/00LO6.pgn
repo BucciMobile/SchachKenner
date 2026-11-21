@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00LO6"]
+[Difficulty "medium"]
+[Rating "1655"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/X0I5NJuv#65"]
+[Solution "c5d5 c6d5 c1c8 d7c8"]
+[SolutionSAN "Rxd5 cxd5 Rxc8+ Qxc8"]
+[FEN "2r3k1/3q1pp1/1rp5/2Rn2Np/1p1N3n/1Q2P3/5PP1/2R3K1 w - - 0 33"]
+[SetUp "1"]
+
+33. Rxd5 cxd5 34. Rxc8+ Qxc8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CXXd"]
+[Difficulty "hard"]
+[Rating "1956"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/vJjI1kLt/black#80"]
+[Solution "g7h6 d5e4 b2g2 e4g2"]
+[SolutionSAN "Kh6 Be4 Rg2+ Bxg2"]
+[FEN "8/p1R3kp/8/3B4/P2n2K1/8/1r6/8 b - - 6 40"]
+[SetUp "1"]
+
+40... Kh6 41. Be4 Rg2+ 42. Bxg2 *

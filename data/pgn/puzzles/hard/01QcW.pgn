@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01QcW"]
+[Difficulty "hard"]
+[Rating "2886"]
+[Themes "advancedPawn crushing endgame promotion quietMove veryLong"]
+[GameUrl "https://lichess.org/game/UwsZhZ4i#87"]
+[Solution "f8b8 b4c3 b8f8 g3h3 f8f7 g4g3 f7f3 h3h2 f1e2 g3g2 f3c3 g2g1q"]
+[SolutionSAN "Rb8 Bc3 Rf8 Kh3 Rf7 g3 Rxf3 Kh2 Ke2 g2 Rxc3 g1=Q"]
+[FEN "5R2/8/8/p1p5/PbP3p1/1P3pk1/8/5K2 w - - 4 44"]
+[SetUp "1"]
+
+44. Rb8 Bc3 45. Rf8 Kh3 46. Rf7 g3 47. Rxf3 Kh2 48. Ke2 g2 49. Rxc3 g1=Q *

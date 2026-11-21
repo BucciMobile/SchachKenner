@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D75x"]
+[Difficulty "hard"]
+[Rating "2049"]
+[Themes "crushing defensiveMove endgame long queenEndgame"]
+[GameUrl "https://lichess.org/game/l63zY92A#81"]
+[Solution "f7g6 d2d3 g6d3 c4d3 g3f3 a5a4"]
+[SolutionSAN "Qxg6 Qd3+ Qxd3 cxd3 Kf3 a4"]
+[FEN "7k/5Q2/6pp/pp6/2p2P1P/2P3K1/3q2P1/8 w - - 3 41"]
+[SetUp "1"]
+
+41. Qxg6 Qd3+ 42. Qxd3 cxd3 43. Kf3 a4 *

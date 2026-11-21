@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08sQO"]
+[Difficulty "hard"]
+[Rating "2029"]
+[Themes "crushing long master middlegame"]
+[GameUrl "https://lichess.org/game/Czm80l4s#37"]
+[Solution "d1f3 c6e5 b2e5 g6e5 f4e5 f5f3"]
+[SolutionSAN "Qf3 Nce5 Bxe5 Nxe5 fxe5 Rxf3"]
+[FEN "r6k/1pp3pp/1pnp2n1/5r2/1PB2P1q/P3P2P/1BP5/R2Q1RK1 w - - 1 19"]
+[SetUp "1"]
+
+19. Qf3 Nce5 20. Bxe5 Nxe5 21. fxe5 Rxf3 *

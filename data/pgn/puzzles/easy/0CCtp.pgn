@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CCtp"]
+[Difficulty "easy"]
+[Rating "678"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/Qus6xTbq/black#50"]
+[Solution "b5b3 e3e7 g7f8 e7d7"]
+[SolutionSAN "Rxb3 Rxe7+ Kf8 Rxd7"]
+[FEN "r7/p2bp1k1/R1p3pp/1r6/5P2/1PN1R3/1P4PP/6K1 b - - 1 25"]
+[SetUp "1"]
+
+25... Rxb3 26. Rxe7+ Kf8 27. Rxd7 *

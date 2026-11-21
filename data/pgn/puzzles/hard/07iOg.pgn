@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07iOg"]
+[Difficulty "hard"]
+[Rating "1839"]
+[Themes "attraction endgame exposedKing long mate mateIn3 pillsburysMate"]
+[GameUrl "https://lichess.org/game/Kh3SUq7P#81"]
+[Solution "e2a2 a3a2 a1a2 b8a8 h7a7 a8a7"]
+[SolutionSAN "Qa2 Qxa2+ Kxa2 Ra8+ Ra7 Rxa7#"]
+[FEN "1r1k4/7R/8/4Pp2/3PbP2/qPp5/4Q3/K3R3 w - - 1 41"]
+[SetUp "1"]
+
+41. Qa2 Qxa2+ 42. Kxa2 Ra8+ 43. Ra7 Rxa7# *

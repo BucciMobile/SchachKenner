@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02zwj"]
+[Difficulty "easy"]
+[Rating "804"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/AvjZwmQu#27"]
+[Solution "e2d3 d6h2"]
+[SolutionSAN "Bd3 Bh2#"]
+[FEN "r4rk1/ppqn1ppp/2pb1p2/8/3Pb1PN/4B2P/PPPQBP2/R4RK1 w - - 5 14"]
+[SetUp "1"]
+
+14. Bd3 Bh2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CQir"]
+[Difficulty "hard"]
+[Rating "2672"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/uxvLWSt6#59"]
+[Solution "c1c7 d7c7 b5b6 c7d6"]
+[SolutionSAN "Rxc7 Qxc7 b6 Qd6"]
+[FEN "1k4r1/1prq3p/8/QP1Pp2b/P3Pp2/7P/6P1/2R2B1K w - - 0 30"]
+[SetUp "1"]
+
+30. Rxc7 Qxc7 31. b6 Qd6 *

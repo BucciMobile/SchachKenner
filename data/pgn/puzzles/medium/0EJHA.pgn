@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EJHA"]
+[Difficulty "medium"]
+[Rating "1379"]
+[Themes "advantage attraction fork long opening"]
+[GameUrl "https://lichess.org/game/Lkbfd6Eb/black#26"]
+[Solution "d7f8 e6f7 g8f7 e2c4 f8e6 c4b4"]
+[SolutionSAN "Nf8 Bxf7+ Kxf7 Qc4+ Ne6 Qxb4"]
+[FEN "r1bq2k1/pp1n1rpp/2p1Bn2/8/1b1P4/2N5/PPP1Q1PP/R1B2RK1 b - - 0 13"]
+[SetUp "1"]
+
+13... Nf8 14. Bxf7+ Kxf7 15. Qc4+ Ne6 16. Qxb4 *

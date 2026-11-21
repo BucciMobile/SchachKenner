@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "071Gu"]
+[Difficulty "easy"]
+[Rating "1013"]
+[Themes "advantage fork opening short"]
+[GameUrl "https://lichess.org/game/8jHV7PA4#17"]
+[Solution "f3g5 d8a5 c1d2 a5b5"]
+[SolutionSAN "Ng5 Qa5+ Bd2 Qxb5"]
+[FEN "r2qk2r/pp2nppp/2nbb3/1Bp1p3/3pP3/3P1NN1/PPP2PPP/R1BQK2R w KQkq - 1 9"]
+[SetUp "1"]
+
+9. Ng5 Qa5+ 10. Bd2 Qxb5 *

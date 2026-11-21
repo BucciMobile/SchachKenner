@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01bSB"]
+[Difficulty "easy"]
+[Rating "907"]
+[Themes "endgame mate mateIn1 oneMove queenEndgame"]
+[GameUrl "https://lichess.org/game/81CUVIR4/black#104"]
+[Solution "a5a4 c5b4"]
+[SolutionSAN "Ka4 Qb4#"]
+[FEN "8/8/p7/k1Q5/2K5/8/8/7q b - - 1 52"]
+[SetUp "1"]
+
+52... Ka4 53. Qb4# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "096sw"]
+[Difficulty "medium"]
+[Rating "1376"]
+[Themes "fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/HMpxHY05#41"]
+[Solution "h2h4 c5b3 c1d1 g5d2"]
+[SolutionSAN "h4 Nb3+ Kd1 Qxd2#"]
+[FEN "r5k1/p1p2ppp/1p6/2nPQbq1/2P5/P7/1P1RB1PP/2K4R w - - 4 21"]
+[SetUp "1"]
+
+21. h4 Nb3+ 22. Kd1 Qxd2# *

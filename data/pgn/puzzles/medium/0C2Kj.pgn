@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C2Kj"]
+[Difficulty "medium"]
+[Rating "1346"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/brZwNMi1#59"]
+[Solution "d2f1 c1f1 f2f1 e2g2"]
+[SolutionSAN "Nf1 Rxf1+ Rxf1 Qg2#"]
+[FEN "2r3k1/5pp1/1R2p3/4P3/Q2P1B2/6Pp/P2NqR1P/2r3K1 w - - 4 30"]
+[SetUp "1"]
+
+30. Nf1 Rxf1+ 31. Rxf1 Qg2# *

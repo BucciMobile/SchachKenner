@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05mc3"]
+[Difficulty "medium"]
+[Rating "1556"]
+[Themes "crushing deflection endgame long"]
+[GameUrl "https://lichess.org/game/LECtz1GC/black#76"]
+[Solution "d7a7 d6e6 e7e6 a3a7 e6e5 d4e5"]
+[SolutionSAN "Qa7 Rxe6+ Rxe6 Qxa7 Rxe5 dxe5"]
+[FEN "4r3/3qr3/3Rp1kp/3pBpp1/3P4/Q6P/5PPK/8 b - - 11 38"]
+[SetUp "1"]
+
+38... Qa7 39. Rxe6+ Rxe6 40. Qxa7 Rxe5 41. dxe5 *

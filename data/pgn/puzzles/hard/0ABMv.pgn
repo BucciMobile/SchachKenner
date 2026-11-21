@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ABMv"]
+[Difficulty "hard"]
+[Rating "2011"]
+[Themes "advantage defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/uKjkHqLS/black#34"]
+[Solution "a8d8 d1b1 c5f2 g1h1"]
+[SolutionSAN "Rd8 Rb1 Bxf2+ Kh1"]
+[FEN "r5k1/pb3ppp/1qp1p3/2b5/4PB2/2P3P1/P1Q2PBP/3R2K1 b - - 0 17"]
+[SetUp "1"]
+
+17... Rd8 18. Rb1 Bxf2+ 19. Kh1 *

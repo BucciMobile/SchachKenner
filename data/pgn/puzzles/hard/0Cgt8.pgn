@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cgt8"]
+[Difficulty "hard"]
+[Rating "1703"]
+[Themes "crushing endgame short trappedPiece"]
+[GameUrl "https://lichess.org/game/absdUmwS/black#82"]
+[Solution "c2d1 f2e1 d1b3 d4b3"]
+[SolutionSAN "Bd1 Ke1 Bxb3 Nxb3"]
+[FEN "8/8/p2k1p2/p4Pp1/3N2Pp/1PP4P/2b2K2/8 b - - 5 41"]
+[SetUp "1"]
+
+41... Bd1 42. Ke1 Bxb3 43. Nxb3 *

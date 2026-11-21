@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07h6q"]
+[Difficulty "easy"]
+[Rating "604"]
+[Themes "endgame mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/MGEP6nug/black#94"]
+[Solution "c2c1q e1e8"]
+[SolutionSAN "c1=Q Re8#"]
+[FEN "6k1/1p3p1p/1P4pB/p7/P5P1/2n2PK1/1qp5/4R3 b - - 4 47"]
+[SetUp "1"]
+
+47... c1=Q 48. Re8# *

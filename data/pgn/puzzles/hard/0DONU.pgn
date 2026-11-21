@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DONU"]
+[Difficulty "hard"]
+[Rating "2075"]
+[Themes "crushing deflection endgame pin short"]
+[GameUrl "https://lichess.org/game/DW5j4mz2/black#74"]
+[Solution "e1d2 c1g1 f6g4 f5h5"]
+[SolutionSAN "Qd2 Rg1+ Ng4 Qxh5"]
+[FEN "8/r4pk1/3p1n2/p2PpQ1p/1p2P2P/1B6/PP3P2/1KR1q3 b - - 0 37"]
+[SetUp "1"]
+
+37... Qd2 38. Rg1+ Ng4 39. Qxh5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Lta"]
+[Difficulty "hard"]
+[Rating "2014"]
+[Themes "bishopEndgame endgame mate mateIn2 quietMove short"]
+[GameUrl "https://lichess.org/game/ALYfMu1E/black#50"]
+[Solution "c6d5 b4b5 a7a6 c3c4"]
+[SolutionSAN "Kd5 b5 a6 c4#"]
+[FEN "8/ppp2ppp/2k1p3/4P3/1P1B1PP1/b1PK4/4P2P/8 b - - 0 25"]
+[SetUp "1"]
+
+25... Kd5 26. b5 a6 27. c4# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "095wQ"]
+[Difficulty "medium"]
+[Rating "1488"]
+[Themes "advantage capturingDefender intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/PrKG66Gd/black#30"]
+[Solution "d5f4 d1d6 c7d6 e3f4"]
+[SolutionSAN "Nxf4 Rxd6 cxd6 Bxf4"]
+[FEN "r4rk1/ppp2p1p/3bp1p1/3n4/2B2P2/2P1B2P/PPP2P2/R2R3K b - - 5 15"]
+[SetUp "1"]
+
+15... Nxf4 16. Rxd6 cxd6 17. Bxf4 *

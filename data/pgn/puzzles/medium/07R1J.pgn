@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07R1J"]
+[Difficulty "medium"]
+[Rating "1566"]
+[Themes "advantage attraction fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/WX9usx4t/black#60"]
+[Solution "e5f5 f4f5 d7f5 c6e7 g8h8 e7f5"]
+[SolutionSAN "Rf5 Qxf5 Qxf5 Ne7+ Kh8 Nxf5"]
+[FEN "5rk1/p2q1bpp/2Np4/3Pr3/1Pp1pQ2/P1P3PP/1B3P2/3R2K1 b - - 6 30"]
+[SetUp "1"]
+
+30... Rf5 31. Qxf5 Qxf5 32. Ne7+ Kh8 33. Nxf5 *

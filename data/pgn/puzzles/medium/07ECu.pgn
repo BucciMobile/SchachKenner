@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07ECu"]
+[Difficulty "medium"]
+[Rating "1357"]
+[Themes "attraction crushing deflection discoveredCheck doubleCheck long middlegame skewer"]
+[GameUrl "https://lichess.org/game/CkduJhCU#33"]
+[Solution "h2g2 g4f3 g2f3 g6h5 f3g3 h5e2"]
+[SolutionSAN "Kg2 Bxf3+ Kxf3 Qh5+ Kg3 Qxe2"]
+[FEN "r3k2r/ppp2pp1/3p1nqp/4p3/2B1P1b1/3PBN2/PPP1QP1K/R5R1 w kq - 10 17"]
+[SetUp "1"]
+
+17. Kg2 Bxf3+ 18. Kxf3 Qh5+ 19. Kg3 Qxe2 *

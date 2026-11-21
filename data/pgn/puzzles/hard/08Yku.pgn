@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Yku"]
+[Difficulty "hard"]
+[Rating "1914"]
+[Themes "crushing endgame knightEndgame veryLong"]
+[GameUrl "https://lichess.org/game/mroYk50R/black#74"]
+[Solution "g8f8 e4d5 c6d8 d5d6 a6a5 d6c7 a5a4 c7d8"]
+[SolutionSAN "Kf8 Kd5 Nd8 Kd6 a5 Kc7 a4 Kxd8"]
+[FEN "6k1/8/pPn2p2/6p1/1P2K1P1/7P/8/8 b - - 4 37"]
+[SetUp "1"]
+
+37... Kf8 38. Kd5 Nd8 39. Kd6 a5 40. Kc7 a4 41. Kxd8 *

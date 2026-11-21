@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DWMK"]
+[Difficulty "medium"]
+[Rating "1520"]
+[Themes "cornerMate kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/wtXfV00m/black#50"]
+[Solution "f7f6 h1h7 g6h7 g5f7"]
+[SolutionSAN "f6 Rxh7+ Bxh7 Nf7#"]
+[FEN "6rk/p4p1p/1pqpp1b1/6N1/1P3P2/P3P1Q1/2r3P1/R5KR b - - 3 25"]
+[SetUp "1"]
+
+25... f6 26. Rxh7+ Bxh7 27. Nf7# *

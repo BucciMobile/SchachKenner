@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BK3U"]
+[Difficulty "easy"]
+[Rating "1012"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/fIjwZove#91"]
+[Solution "g2g1 e4e1 g1g2 e1a5"]
+[SolutionSAN "Kg1 Qe1+ Kg2 Qxa5"]
+[FEN "8/8/3pB2p/R2Pk1p1/4q3/6PP/5PK1/8 w - - 1 46"]
+[SetUp "1"]
+
+46. Kg1 Qe1+ 47. Kg2 Qxa5 *

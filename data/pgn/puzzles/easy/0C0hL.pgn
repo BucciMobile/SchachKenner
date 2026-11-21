@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C0hL"]
+[Difficulty "easy"]
+[Rating "1018"]
+[Themes "advancedPawn crushing endgame short"]
+[GameUrl "https://lichess.org/game/mFAZlM0C#77"]
+[Solution "h2h3 b3b2 c3b2 a2b2"]
+[SolutionSAN "h3 b2 Bxb2 Rxb2"]
+[FEN "8/8/5Pkp/p7/6PK/1pB5/r1p4P/2R5 w - - 3 39"]
+[SetUp "1"]
+
+39. h3 b2 40. Bxb2 Rxb2 *

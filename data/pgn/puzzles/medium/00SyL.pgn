@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00SyL"]
+[Difficulty "medium"]
+[Rating "1257"]
+[Themes "capturingDefender crushing opening short"]
+[GameUrl "https://lichess.org/game/f988q4eE/black#30"]
+[Solution "d5c5 c2c5 e7c5 g2c6"]
+[SolutionSAN "Qc5 Qxc5 Bxc5 Bxc6"]
+[FEN "1rb2rk1/4bppp/p1n1p3/1p1qP3/7N/P5P1/1PQ2PBP/R1B2RK1 b - - 1 15"]
+[SetUp "1"]
+
+15... Qc5 16. Qxc5 Bxc5 17. Bxc6 *

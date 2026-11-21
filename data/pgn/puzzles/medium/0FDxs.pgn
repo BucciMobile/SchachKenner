@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FDxs"]
+[Difficulty "medium"]
+[Rating "1572"]
+[Themes "crushing endgame quietMove short"]
+[GameUrl "https://lichess.org/game/HXUmiUkv/black#70"]
+[Solution "a6a5 h4h5 a2h2 f3g3"]
+[SolutionSAN "a5 h5 Rh2 Kg3"]
+[FEN "2k5/p1p2p2/p4N2/3P4/5P1P/5K1P/r7/8 b - - 0 35"]
+[SetUp "1"]
+
+35... a5 36. h5 Rh2 37. Kg3 *

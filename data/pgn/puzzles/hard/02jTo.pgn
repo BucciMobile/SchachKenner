@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02jTo"]
+[Difficulty "hard"]
+[Rating "2415"]
+[Themes "crushing deflection master middlegame short"]
+[GameUrl "https://lichess.org/game/bUUeWoxY#61"]
+[Solution "a2d2 g5g4 f3g4 d6e4"]
+[SolutionSAN "Qd2 g4+ fxg4 Nxe4"]
+[FEN "2r3k1/5p2/1p1n1b2/6pp/pP1NP3/P1r1BPPK/Q6P/8 w - - 1 31"]
+[SetUp "1"]
+
+31. Qd2 g4+ 32. fxg4 Nxe4 *

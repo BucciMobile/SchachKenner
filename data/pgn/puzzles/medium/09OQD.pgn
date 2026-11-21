@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09OQD"]
+[Difficulty "medium"]
+[Rating "1627"]
+[Themes "backRankMate mate mateIn4 middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/XKQ4YE2h/black#60"]
+[Solution "h2g3 d2d6 b8a8 d7d8 g8d8 d6d8 h8d8 d1d8"]
+[SolutionSAN "Qxg3 Qd6+ Ka8 Rd8+ Rxd8 Qxd8+ Rxd8 Rxd8#"]
+[FEN "1k4rr/pp1R1p2/2p5/4p1p1/2P1Pn2/1P3PP1/P2Q2Bq/3R1K2 b - - 6 30"]
+[SetUp "1"]
+
+30... Qxg3 31. Qd6+ Ka8 32. Rd8+ Rxd8 33. Qxd8+ Rxd8 34. Rxd8# *

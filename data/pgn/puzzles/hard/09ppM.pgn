@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09ppM"]
+[Difficulty "hard"]
+[Rating "1765"]
+[Themes "advancedPawn advantage endgame promotion short"]
+[GameUrl "https://lichess.org/game/ntb2n7Ms#103"]
+[Solution "c6c7 d2d1q c7d8r d1d8"]
+[SolutionSAN "c7 d1=Q cxd8=R+ Qxd8"]
+[FEN "3rk3/R5Pb/2P5/4P3/1N6/8/3p1K2/8 w - - 2 52"]
+[SetUp "1"]
+
+52. c7 d1=Q 53. cxd8=R+ Qxd8 *

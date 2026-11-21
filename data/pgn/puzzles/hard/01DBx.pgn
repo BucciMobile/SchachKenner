@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01DBx"]
+[Difficulty "hard"]
+[Rating "2065"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/ECqMqbgq/black#50"]
+[Solution "h7g6 g4g5 b7g2 g5g2 d2g2 h1g2"]
+[SolutionSAN "hxg6 Qg5 Qxg2+ Qxg2 Rxg2 Kxg2"]
+[FEN "3r2k1/1q4pp/p2p2P1/1pp5/6Q1/2P5/PP1r2PP/1R2R2K b - - 0 25"]
+[SetUp "1"]
+
+25... hxg6 26. Qg5 Qxg2+ 27. Qxg2 Rxg2 28. Kxg2 *

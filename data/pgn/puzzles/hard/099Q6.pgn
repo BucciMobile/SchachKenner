@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "099Q6"]
+[Difficulty "hard"]
+[Rating "1982"]
+[Themes "crushing defensiveMove endgame long master masterVsMaster"]
+[GameUrl "https://lichess.org/game/2QFjwzpo#73"]
+[Solution "e6f6 f8g7 c7d7 d1d7 f6g6 g7g6"]
+[SolutionSAN "Rf6+ Kg7 Rxd7+ Qxd7 Rxg6+ Kxg6"]
+[FEN "5k2/ppRr4/4R1pp/8/8/1P3P1P/P4PBK/3q4 w - - 2 37"]
+[SetUp "1"]
+
+37. Rf6+ Kg7 38. Rxd7+ Qxd7 39. Rxg6+ Kxg6 *

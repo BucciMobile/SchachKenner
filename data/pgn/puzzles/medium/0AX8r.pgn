@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AX8r"]
+[Difficulty "medium"]
+[Rating "1298"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/T5lx1Uy8/black#28"]
+[Solution "d7e6 e2e6"]
+[SolutionSAN "Bxe6 Qxe6#"]
+[FEN "rn2qr2/pp1bbkpn/2p1P2p/3p1P2/6PB/2NP4/PPP1Q2P/R3KB1R b KQ - 0 14"]
+[SetUp "1"]
+
+14... Bxe6 15. Qxe6# *

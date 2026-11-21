@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04TVM"]
+[Difficulty "easy"]
+[Rating "480"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/OiSFuUpw/black#112"]
+[Solution "d3g3 c2c8 e4e8 c8e8"]
+[SolutionSAN "Rg3 Rc8+ Qe8 Rxe8#"]
+[FEN "6k1/1p4p1/6P1/8/P3q2p/3r4/2R4K/8 b - - 2 56"]
+[SetUp "1"]
+
+56... Rg3 57. Rc8+ Qe8 58. Rxe8# *

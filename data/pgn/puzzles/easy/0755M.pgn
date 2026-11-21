@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0755M"]
+[Difficulty "easy"]
+[Rating "1008"]
+[Themes "kingsideAttack master mate mateIn2 middlegame pillsburysMate short"]
+[GameUrl "https://lichess.org/game/VOgFEpSu#45"]
+[Solution "e3c5 e7e1 d1e1 e8e1"]
+[SolutionSAN "Bc5 Re1+ Rxe1 Rxe1#"]
+[FEN "4r1k1/2p1rpp1/p2b1n1p/1p1P4/1P6/P1NRB2P/5PP1/3R2K1 w - - 3 23"]
+[SetUp "1"]
+
+23. Bc5 Re1+ 24. Rxe1 Rxe1# *

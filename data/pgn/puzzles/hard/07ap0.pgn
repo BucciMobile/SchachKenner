@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07ap0"]
+[Difficulty "hard"]
+[Rating "2038"]
+[Themes "bishopEndgame crushing endgame master short"]
+[GameUrl "https://lichess.org/game/uFipkC8c/black#72"]
+[Solution "g4g3 d2e1 d6e7 e1g3"]
+[SolutionSAN "g3 Be1 Be7 Bxg3"]
+[FEN "8/8/1p1b4/p1p2k2/P1Pp2p1/1P1P1P2/3B2K1/8 b - - 2 36"]
+[SetUp "1"]
+
+36... g3 37. Be1 Be7 38. Bxg3 *

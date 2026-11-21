@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08A4s"]
+[Difficulty "hard"]
+[Rating "1723"]
+[Themes "crushing endgame knightEndgame master short"]
+[GameUrl "https://lichess.org/game/mXdjBtf8/black#92"]
+[Solution "a2b4 f4d3 e5f6 d3b4"]
+[SolutionSAN "Nb4 Nd3+ Kf6 Nxb4"]
+[FEN "8/8/4p3/1p2kp2/5NpP/1P4P1/n2K1P2/8 b - - 2 46"]
+[SetUp "1"]
+
+46... Nb4 47. Nd3+ Kf6 48. Nxb4 *

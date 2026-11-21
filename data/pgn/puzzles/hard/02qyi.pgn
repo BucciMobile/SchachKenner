@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02qyi"]
+[Difficulty "hard"]
+[Rating "1720"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/ax8aAohC#77"]
+[Solution "f6h7 f4e3 d1d3 e3d3"]
+[SolutionSAN "Nxh7 Ke3 Rd3+ Kxd3"]
+[FEN "8/pp5p/2p2N2/P5p1/5k2/7P/7r/3RK3 w - - 1 39"]
+[SetUp "1"]
+
+39. Nxh7 Ke3 40. Rd3+ Kxd3 *

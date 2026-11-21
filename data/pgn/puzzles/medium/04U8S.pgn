@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04U8S"]
+[Difficulty "medium"]
+[Rating "1673"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/t8RvFVQG/black#68"]
+[Solution "c7e7 g4h6 g8g7 e6f7 e7f7 h6f7"]
+[SolutionSAN "Qe7 Nh6+ Kg7 Qxf7+ Qxf7 Nxf7"]
+[FEN "3r2k1/1bq2r1p/1p2Q1p1/1P6/6N1/5P2/7P/2R2R1K b - - 2 34"]
+[SetUp "1"]
+
+34... Qe7 35. Nh6+ Kg7 36. Qxf7+ Qxf7 37. Nxf7 *

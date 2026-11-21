@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A7Ua"]
+[Difficulty "medium"]
+[Rating "1431"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/tL3hzhzJ/black#56"]
+[Solution "b2f6 e7f5 f6f5 c5f5"]
+[SolutionSAN "Qf6 Nf5+ Qxf5 Rxf5"]
+[FEN "r4r2/p3Npk1/6b1/2R3Q1/8/8/Pq2nPPP/5R1K b - - 2 28"]
+[SetUp "1"]
+
+28... Qf6 29. Nf5+ Qxf5 30. Rxf5 *

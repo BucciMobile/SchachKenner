@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09KPu"]
+[Difficulty "medium"]
+[Rating "1485"]
+[Themes "endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/mwR2xcnG#59"]
+[Solution "h6f8 d2g2 g3h4 g6g5 f4g5 g2g5"]
+[SolutionSAN "Qxf8 Qg2+ Kh4 g5+ fxg5+ Qxg5#"]
+[FEN "5r2/p4p2/5kpQ/3p1p2/5P2/2P3KP/Pr1q4/4RR2 w - - 0 30"]
+[SetUp "1"]
+
+30. Qxf8 Qg2+ 31. Kh4 g5+ 32. fxg5+ Qxg5# *

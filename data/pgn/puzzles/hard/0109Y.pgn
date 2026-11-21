@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0109Y"]
+[Difficulty "hard"]
+[Rating "2015"]
+[Themes "advantage long middlegame skewer"]
+[GameUrl "https://lichess.org/game/VLvS4i1J/black#54"]
+[Solution "e7d7 d3b5 d7d6 b5e8 a8e8 e1e8"]
+[SolutionSAN "Kd7 Bb5+ Kd6 Bxe8 Rxe8 Rxe8"]
+[FEN "r3r2Q/p3kpn1/5q2/3p4/1p5P/3B1PR1/PPP2nP1/1K2R3 b - - 6 27"]
+[SetUp "1"]
+
+27... Kd7 28. Bb5+ Kd6 29. Bxe8 Rxe8 30. Rxe8 *

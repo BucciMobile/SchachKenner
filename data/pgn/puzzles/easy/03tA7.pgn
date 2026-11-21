@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03tA7"]
+[Difficulty "easy"]
+[Rating "515"]
+[Themes "hangingPiece master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/0M8rPTm7/black#30"]
+[Solution "d7c6 d2d8"]
+[SolutionSAN "dxc6 Qxd8#"]
+[FEN "r1bq1k1r/p2p1pb1/2B3pp/2p1Pp2/5B1P/2P2N2/PP1Q1PP1/R3K2R b KQ - 0 15"]
+[SetUp "1"]
+
+15... dxc6 16. Qxd8# *

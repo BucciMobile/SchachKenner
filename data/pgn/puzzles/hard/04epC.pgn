@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04epC"]
+[Difficulty "hard"]
+[Rating "2329"]
+[Themes "advantage defensiveMove hangingPiece middlegame veryLong"]
+[GameUrl "https://lichess.org/game/ZNFbWZ67#37"]
+[Solution "d2h6 g7h6 b3e6 f7e6 e5e6 g8h7 e6f5 h7h8"]
+[SolutionSAN "Bxh6 gxh6 Bxe6 fxe6 Qxe6+ Kh7 Qf5+ Kh8"]
+[FEN "2rr2k1/p4pp1/1n2p2p/4Q2n/3PP2q/1B3P2/PP1B1P1P/R4R1K w - - 4 19"]
+[SetUp "1"]
+
+19. Bxh6 gxh6 20. Bxe6 fxe6 21. Qxe6+ Kh7 22. Qf5+ Kh8 *

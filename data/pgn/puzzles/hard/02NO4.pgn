@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02NO4"]
+[Difficulty "hard"]
+[Rating "1887"]
+[Themes "advantage bishopEndgame clearance defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/wNMyJ9gc/black#80"]
+[Solution "d7c6 h5h6 g7g8 e2h5"]
+[SolutionSAN "Bc6 h6+ Kg8 Bh5"]
+[FEN "8/3b2kp/4p3/2ppPpPP/p1p4K/P1P1P3/1P2B3/8 b - - 18 40"]
+[SetUp "1"]
+
+40... Bc6 41. h6+ Kg8 42. Bh5 *

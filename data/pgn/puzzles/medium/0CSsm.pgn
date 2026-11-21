@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CSsm"]
+[Difficulty "medium"]
+[Rating "1542"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/vS4CQPnJ/black#54"]
+[Solution "c8a8 d4c6 a6c6 d5c6"]
+[SolutionSAN "Ra8 Nc6+ Qxc6 dxc6"]
+[FEN "2r5/4kpp1/q2p4/3Pp1b1/2pN2P1/5Q2/1PP5/1K5R b - - 1 27"]
+[SetUp "1"]
+
+27... Ra8 28. Nc6+ Qxc6 29. dxc6 *
