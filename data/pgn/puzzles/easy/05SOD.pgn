@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05SOD"]
+[Difficulty "easy"]
+[Rating "1136"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/9PGB1l1K/black#52"]
+[Solution "a5c6 a7f7 g8h8 f7f8 b8f8 f2f8"]
+[SolutionSAN "Nc6 Qxf7+ Kh8 Qf8+ Rxf8 Rxf8#"]
+[FEN "1r4k1/Q4ppp/4p3/n2bP3/8/8/r2N1RPP/6K1 b - - 1 26"]
+[SetUp "1"]
+
+26... Nc6 27. Qxf7+ Kh8 28. Qf8+ Rxf8 29. Rxf8# *

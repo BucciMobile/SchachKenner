@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ozl"]
+[Difficulty "medium"]
+[Rating "1327"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/5pNvsMRU/black#64"]
+[Solution "f5f4 b4c5 e4e3 f2f3"]
+[SolutionSAN "f4 bxc5 e3+ Kf3"]
+[FEN "1r4k1/6pp/p2q4/Q1pP1p2/1PP1p3/P6P/5KP1/1R6 b - - 0 32"]
+[SetUp "1"]
+
+32... f4 33. bxc5 e3+ 34. Kf3 *

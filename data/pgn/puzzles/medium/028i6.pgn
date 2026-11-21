@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "028i6"]
+[Difficulty "medium"]
+[Rating "1331"]
+[Themes "capturingDefender crushing middlegame short"]
+[GameUrl "https://lichess.org/game/1ziMVbPr#35"]
+[Solution "d2b3 d5d1 f1d1 a6e2"]
+[SolutionSAN "Nb3 Qxd1 Rxd1 Bxe2"]
+[FEN "r4rk1/p4ppp/b4b2/3q4/8/P3P2P/R1PNNPP1/3Q1RK1 w - - 2 18"]
+[SetUp "1"]
+
+18. Nb3 Qxd1 19. Rxd1 Bxe2 *

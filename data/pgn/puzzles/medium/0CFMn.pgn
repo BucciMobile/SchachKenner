@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CFMn"]
+[Difficulty "medium"]
+[Rating "1249"]
+[Themes "endgame mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/wSPMmx8m/black#62"]
+[Solution "c5b5 a7a5"]
+[SolutionSAN "Kb5 Ra5#"]
+[FEN "3r4/R6p/2p2np1/2k5/1pN5/1Bb5/6PP/7K b - - 13 31"]
+[SetUp "1"]
+
+31... Kb5 32. Ra5# *

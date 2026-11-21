@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BtOS"]
+[Difficulty "easy"]
+[Rating "400"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/Fx763mzy#53"]
+[Solution "a1d1 d8d1"]
+[SolutionSAN "Rxd1 Rxd1#"]
+[FEN "3r4/p1Q1bkpp/1p6/5p2/P3p3/BP6/5PPP/R2q2K1 w - - 2 27"]
+[SetUp "1"]
+
+27. Rxd1 Rxd1# *

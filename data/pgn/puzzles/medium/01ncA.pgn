@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01ncA"]
+[Difficulty "medium"]
+[Rating "1596"]
+[Themes "advantage master opening short"]
+[GameUrl "https://lichess.org/game/TAMDGpzu/black#22"]
+[Solution "b6c4 d1d3 f7f5 d3c4"]
+[SolutionSAN "Nc4 Qd3 f5 Qxc4"]
+[FEN "r1bq1rk1/pp3pp1/1nnbp2p/2p5/3P4/2P1B3/PPB1NPPP/RN1Q1RK1 b - - 2 11"]
+[SetUp "1"]
+
+11... Nc4 12. Qd3 f5 13. Qxc4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CUUQ"]
+[Difficulty "easy"]
+[Rating "972"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/Sb16Cv7S/black#48"]
+[Solution "g8f8 c4f7"]
+[SolutionSAN "Kf8 Qf7#"]
+[FEN "r3r1k1/1p4pp/p7/q3N3/P1Qp1P2/2b3P1/5P1P/2R2K1R b - - 2 24"]
+[SetUp "1"]
+
+24... Kf8 25. Qf7# *

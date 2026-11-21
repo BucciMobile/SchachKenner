@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00hSW"]
+[Difficulty "hard"]
+[Rating "1807"]
+[Themes "advancedPawn advantage endgame master promotion sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/56G5UTGb#77"]
+[Solution "e5d7 b4b3 d5d6 e7d6 d7b6 b3b2 b6c4 b2b1q"]
+[SolutionSAN "Nd7 b3 d6 Bxd6 Nxb6 b2 Nc4 b1=Q"]
+[FEN "2R5/4b1pk/1r5p/2pPN3/1p2P3/3P4/4K1PP/8 w - - 1 39"]
+[SetUp "1"]
+
+39. Nd7 b3 40. d6 Bxd6 41. Nxb6 b2 42. Nc4 b1=Q *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Pdl"]
+[Difficulty "medium"]
+[Rating "1307"]
+[Themes "bishopEndgame crushing endgame hangingPiece long quietMove"]
+[GameUrl "https://lichess.org/game/DysCzMZK#109"]
+[Solution "d6d7 f3g2 c6c7 g2b7 c7c8q b7c8"]
+[SolutionSAN "Kd7 Bxg2 c7 Bb7 c8=Q Bxc8+"]
+[FEN "8/k7/2PKp3/4P3/2P5/5bp1/6B1/8 w - - 2 55"]
+[SetUp "1"]
+
+55. Kd7 Bxg2 56. c7 Bb7 57. c8=Q Bxc8+ *

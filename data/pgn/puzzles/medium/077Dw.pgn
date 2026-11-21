@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "077Dw"]
+[Difficulty "medium"]
+[Rating "1599"]
+[Themes "advantage defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/4nuapdvd/black#32"]
+[Solution "h3h1 g7g1 h1g1 f3g1"]
+[SolutionSAN "Qh1+ Rg1 Qxg1+ Nxg1"]
+[FEN "rn2k2r/pbpp1pRp/1p1b4/8/3B4/P4N1q/1PP1BP2/R2QK3 b Qkq - 0 16"]
+[SetUp "1"]
+
+16... Qh1+ 17. Rg1 Qxg1+ 18. Nxg1 *

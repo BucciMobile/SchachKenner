@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03hf0"]
+[Difficulty "easy"]
+[Rating "668"]
+[Themes "kingsideAttack mate mateIn2 middlegame pillsburysMate sacrifice short"]
+[GameUrl "https://lichess.org/game/QU6nCA7f/black#40"]
+[Solution "c6b4 f4f8 e8f8 f1f8"]
+[SolutionSAN "Nb4 Qf8+ Rxf8 Rxf8#"]
+[FEN "4r2k/pppb2p1/2np3p/8/4BQ2/3P3P/PqPKN1P1/5R2 b - - 1 20"]
+[SetUp "1"]
+
+20... Nb4 21. Qf8+ Rxf8 22. Rxf8# *

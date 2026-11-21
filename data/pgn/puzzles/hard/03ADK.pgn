@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03ADK"]
+[Difficulty "hard"]
+[Rating "1865"]
+[Themes "advantage middlegame veryLong"]
+[GameUrl "https://lichess.org/game/ggoDP5bk/black#56"]
+[Solution "f6d7 f2f7 g7h8 h4d8 g6g8 d8d7 d3d7 f7d7"]
+[SolutionSAN "Nd7 Rxf7+ Kh8 Qd8+ Rg8 Qxd7 Qxd7 Rxd7"]
+[FEN "8/p4pk1/4rnrp/4P3/7Q/3q4/P4RPP/5R1K b - - 0 28"]
+[SetUp "1"]
+
+28... Nd7 29. Rxf7+ Kh8 30. Qd8+ Rg8 31. Qxd7 Qxd7 32. Rxd7 *

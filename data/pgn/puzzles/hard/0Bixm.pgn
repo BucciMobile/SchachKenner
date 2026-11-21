@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bixm"]
+[Difficulty "hard"]
+[Rating "1864"]
+[Themes "crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/jOo7lvDC/black#104"]
+[Solution "e5d5 e3f4 d5e6 f4g5 e6f7 g5h6"]
+[SolutionSAN "Kd5 Kf4 Ke6 Kg5 Kf7 Kh6"]
+[FEN "8/8/6p1/4kp1p/7P/4K1P1/5P2/8 b - - 3 52"]
+[SetUp "1"]
+
+52... Kd5 53. Kf4 Ke6 54. Kg5 Kf7 55. Kh6 *

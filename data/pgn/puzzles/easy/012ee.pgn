@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "012ee"]
+[Difficulty "easy"]
+[Rating "1106"]
+[Themes "advantage endgame kingsideAttack long skewer"]
+[GameUrl "https://lichess.org/game/zrmGJ1qH#51"]
+[Solution "e5d3 c7h2 g1f1 h2h1 f1e2 h1a1"]
+[SolutionSAN "Nd3 Qxh2+ Kf1 Qh1+ Ke2 Qxa1"]
+[FEN "rb4k1/2q3pp/P3pp2/3pN3/1Q1P4/4P3/2P2PPP/R5K1 w - - 2 26"]
+[SetUp "1"]
+
+26. Nd3 Qxh2+ 27. Kf1 Qh1+ 28. Ke2 Qxa1 *

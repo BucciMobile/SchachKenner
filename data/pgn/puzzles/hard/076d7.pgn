@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "076d7"]
+[Difficulty "hard"]
+[Rating "1752"]
+[Themes "crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/TViiXFTd/black#58"]
+[Solution "f7g6 f1f8 g8f8 h5h7"]
+[SolutionSAN "fxg6 Rxf8+ Kxf8 Qxh7"]
+[FEN "r1b2rk1/3q1ppp/p2p2B1/2pP2BQ/P7/6P1/7P/4RRK1 b - - 0 29"]
+[SetUp "1"]
+
+29... fxg6 30. Rxf8+ Kxf8 31. Qxh7 *

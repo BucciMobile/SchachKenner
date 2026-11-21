@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02LWp"]
+[Difficulty "easy"]
+[Rating "625"]
+[Themes "endgame mate mateIn1 oneMove operaMate"]
+[GameUrl "https://lichess.org/game/oh0XKotT/black#54"]
+[Solution "a8a7 f7a7"]
+[SolutionSAN "Rxa7 Rxa7#"]
+[FEN "rr6/Q4Rp1/k3p2q/2Bp4/P6p/7P/2P3P1/6K1 b - - 0 27"]
+[SetUp "1"]
+
+27... Rxa7 28. Rxa7# *

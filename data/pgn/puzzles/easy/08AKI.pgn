@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08AKI"]
+[Difficulty "easy"]
+[Rating "655"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/U0tibhsk#27"]
+[Solution "f3d4 d6h2"]
+[SolutionSAN "Nxd4 Qxh2#"]
+[FEN "rnb1k2r/pp2pp2/2pq2p1/7p/2Pb2n1/2NB1N2/PPQB1PPP/4RRK1 w kq - 0 14"]
+[SetUp "1"]
+
+14. Nxd4 Qxh2# *

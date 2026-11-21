@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "008cl"]
+[Difficulty "easy"]
+[Rating "858"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/K27KSt2D#31"]
+[Solution "f3g4 h5h2"]
+[SolutionSAN "fxg4 Qh2#"]
+[FEN "r3k2r/ppp2p1p/2n1pp2/7q/2PN2b1/2BP1Pb1/PP2B1P1/R2Q1RK1 w kq - 1 16"]
+[SetUp "1"]
+
+16. fxg4 Qh2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02kZu"]
+[Difficulty "hard"]
+[Rating "2561"]
+[Themes "bishopEndgame crushing endgame exposedKing long quietMove"]
+[GameUrl "https://lichess.org/game/ItIbtHc9/black#86"]
+[Solution "g5h4 g4g5 a5a4 e5e6 d7e8 d5d6"]
+[SolutionSAN "Bh4 g5 a4 e6+ Ke8 d6"]
+[FEN "8/3k4/8/pp1PPKb1/6P1/8/P7/8 b - - 1 43"]
+[SetUp "1"]
+
+43... Bh4 44. g5 a4 45. e6+ Ke8 46. d6 *

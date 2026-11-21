@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Eh7"]
+[Difficulty "hard"]
+[Rating "1950"]
+[Themes "long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/xEQfCzOh/black#66"]
+[Solution "h7g6 d6g6 f7g6 c2g6 h8g7 g6g7"]
+[SolutionSAN "hxg6 Rdxg6+ fxg6 Qxg6+ Bg7 Qxg7#"]
+[FEN "1r2r1kb/2q1Bp1p/3R2B1/p7/5P2/1Pp4P/P1Q3R1/1K6 b - - 0 33"]
+[SetUp "1"]
+
+33... hxg6 34. Rdxg6+ fxg6 35. Qxg6+ Bg7 36. Qxg7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "065Z9"]
+[Difficulty "easy"]
+[Rating "1172"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/SBl6iPJL#85"]
+[Solution "g3g4 h5g5 f6g5 f8f1"]
+[SolutionSAN "Kg4 Rxg5+ Bxg5 Rxf1"]
+[FEN "5r2/8/p4Bk1/3p2Pr/P2Pp3/2P3K1/6P1/5R2 w - - 9 43"]
+[SetUp "1"]
+
+43. Kg4 Rxg5+ 44. Bxg5 Rxf1 *

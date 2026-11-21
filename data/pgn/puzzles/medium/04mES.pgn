@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04mES"]
+[Difficulty "medium"]
+[Rating "1559"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/8ziwpXlZ#73"]
+[Solution "f2f3 h8h3 g5g3 h3f5"]
+[SolutionSAN "Kf3 Qh3+ Qg3 Qf5+"]
+[FEN "7q/p2k4/4p1R1/np1pP1Q1/2pP4/2P5/PP3K1r/1R6 w - - 2 37"]
+[SetUp "1"]
+
+37. Kf3 Qh3+ 38. Qg3 Qf5+ *

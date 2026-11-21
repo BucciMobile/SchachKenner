@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Zkj"]
+[Difficulty "medium"]
+[Rating "1279"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/lQUaA2p8/black#94"]
+[Solution "c5f2 d7f5 g6h6 f5h5"]
+[SolutionSAN "Qxf2 Qf5+ Kh6 Qh5#"]
+[FEN "8/3Q1pp1/3p2k1/2qPp3/4PbK1/8/5PB1/8 b - - 13 47"]
+[SetUp "1"]
+
+47... Qxf2 48. Qf5+ Kh6 49. Qh5# *

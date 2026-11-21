@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03I6Q"]
+[Difficulty "easy"]
+[Rating "1152"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/MCU0LaJS/black#34"]
+[Solution "b6c7 d4e6 f7e6 e3c5"]
+[SolutionSAN "Qc7 Nxe6 fxe6 Bxc5"]
+[FEN "2r2rk1/1p3ppp/pqn1b3/2bpPp2/3N1P2/2P1BN2/P5PP/1R1Q1R1K b - - 8 17"]
+[SetUp "1"]
+
+17... Qc7 18. Nxe6 fxe6 19. Bxc5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0981K"]
+[Difficulty "medium"]
+[Rating "1367"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/yI6oHsyj/black#60"]
+[Solution "b4c3 b2d2 c3d2 c1c8 g8f7 c8d8"]
+[SolutionSAN "bxc3 Rxd2 cxd2 Rxc8+ Kf7 Rd8"]
+[FEN "2r3k1/7p/p3p1p1/8/1pP1p3/nP2P1P1/PR1r1PKP/2R5 b - c3 0 30"]
+[SetUp "1"]
+
+30... bxc3 31. Rxd2 cxd2 32. Rxc8+ Kf7 33. Rd8 *

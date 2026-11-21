@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08WPo"]
+[Difficulty "hard"]
+[Rating "1711"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/RFqXtgxJ#83"]
+[Solution "d4c3 b4c2 c3c2 c7c6"]
+[SolutionSAN "Kc3 Nxc2 Kxc2 Kc6"]
+[FEN "8/1pk2p2/p3p3/2P5/Pn1K1P2/6P1/2B5/8 w - - 0 42"]
+[SetUp "1"]
+
+42. Kc3 Nxc2 43. Kxc2 Kc6 *

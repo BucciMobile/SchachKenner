@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "029MM"]
+[Difficulty "medium"]
+[Rating "1432"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/Jb7t1k3s#27"]
+[Solution "c1f4 f6h5 f4d6 h5g3"]
+[SolutionSAN "Bf4 Nh5 Bxd6 Nxg3"]
+[FEN "r2qr1k1/pp3ppp/3b1n2/8/2P5/2NP2Q1/PP3PPP/R1B2RK1 w - - 5 14"]
+[SetUp "1"]
+
+14. Bf4 Nh5 15. Bxd6 Nxg3 *

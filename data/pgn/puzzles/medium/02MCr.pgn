@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02MCr"]
+[Difficulty "medium"]
+[Rating "1622"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/BNT4d0Yi/black#56"]
+[Solution "f5d3 f3e2 d3e2 c3e2"]
+[SolutionSAN "Qd3 Be2 Qxe2 Nxe2"]
+[FEN "1n1r3k/p4pp1/bp1Pp2p/4Pq1P/Q4B2/2N2BP1/PP3P2/6K1 b - - 2 28"]
+[SetUp "1"]
+
+28... Qd3 29. Be2 Qxe2 30. Nxe2 *

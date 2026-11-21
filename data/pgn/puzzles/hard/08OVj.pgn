@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08OVj"]
+[Difficulty "hard"]
+[Rating "2068"]
+[Themes "advantage long middlegame pin"]
+[GameUrl "https://lichess.org/game/YFOXsDcA/black#54"]
+[Solution "d4e6 g3f5 g7f8 f1h1 h8h1 d1h1"]
+[SolutionSAN "Ne6 Nf5+ Kf8 Rh1 Rxh1 Rxh1"]
+[FEN "r6r/p1q1ppk1/1p4p1/2p1P1Q1/3n1PP1/6N1/1PP5/1K1R1R2 b - - 4 27"]
+[SetUp "1"]
+
+27... Ne6 28. Nf5+ Kf8 29. Rh1 Rxh1 30. Rxh1 *

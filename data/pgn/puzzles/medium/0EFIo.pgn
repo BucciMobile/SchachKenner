@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EFIo"]
+[Difficulty "medium"]
+[Rating "1252"]
+[Themes "advantage interference kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/pqyWBUQ7#43"]
+[Solution "e7e8 h3h2 g1f1 h2h1 f1e2 f8e8"]
+[SolutionSAN "Rxe8 Qxh2+ Kf1 Qh1+ Ke2 Rxe8+"]
+[FEN "4rrk1/pp2Rppp/2p5/2Pp4/1P1P1Qn1/P1N3Pq/1B3P1P/4R1K1 w - - 3 22"]
+[SetUp "1"]
+
+22. Rxe8 Qxh2+ 23. Kf1 Qh1+ 24. Ke2 Rxe8+ *

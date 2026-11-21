@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AyQq"]
+[Difficulty "medium"]
+[Rating "1487"]
+[Themes "advantage kingsideAttack long opening"]
+[GameUrl "https://lichess.org/game/iz8KwZaf/black#36"]
+[Solution "f7e5 d3h3 g8h6 c1h6 g7h6 h3h6"]
+[SolutionSAN "Nxe5 Qh3+ Nh6 Bxh6 gxh6 Qxh6+"]
+[FEN "r3qrnk/ppp1bnp1/8/4P3/3N4/2PQ4/PP4PP/R1B2RK1 b - - 3 18"]
+[SetUp "1"]
+
+18... Nxe5 19. Qh3+ Nh6 20. Bxh6 gxh6 21. Qxh6+ *

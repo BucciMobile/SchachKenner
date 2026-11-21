@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CZV8"]
+[Difficulty "hard"]
+[Rating "1710"]
+[Themes "advantage discoveredAttack endgame master short"]
+[GameUrl "https://lichess.org/game/nZn0MJBa/black#84"]
+[Solution "a8a6 b6d5 e3f3 f6a6"]
+[SolutionSAN "Rxa6 Nd5+ Kxf3 Rxa6"]
+[FEN "r7/8/PN3R2/4p1pp/1p3b2/4kP1P/1PK5/8 b - - 2 42"]
+[SetUp "1"]
+
+42... Rxa6 43. Nd5+ Kxf3 44. Rxa6 *

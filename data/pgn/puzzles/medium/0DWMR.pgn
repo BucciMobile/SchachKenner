@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DWMR"]
+[Difficulty "medium"]
+[Rating "1259"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/qaiag0zC#73"]
+[Solution "b5a6 e5g5 g1h2 g5d8"]
+[SolutionSAN "bxa6 Qg5+ Kh2 Qxd8"]
+[FEN "3R4/kpp3p1/p6p/PP2q3/8/5p1P/5P2/5QK1 w - - 2 37"]
+[SetUp "1"]
+
+37. bxa6 Qg5+ 38. Kh2 Qxd8 *

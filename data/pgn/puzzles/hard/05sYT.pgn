@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05sYT"]
+[Difficulty "hard"]
+[Rating "1718"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/P5dyY5Px#63"]
+[Solution "b4b5 a4c4 a2b1 e4d2 b1c1 c4a2"]
+[SolutionSAN "b5 Qc4+ Kb1 Nd2+ Kc1 Qa2"]
+[FEN "r1b5/1p5Q/1k2p3/p2pP3/qP1Nn3/P1p1P2B/K1P5/6R1 w - - 0 32"]
+[SetUp "1"]
+
+32. b5 Qc4+ 33. Kb1 Nd2+ 34. Kc1 Qa2 *

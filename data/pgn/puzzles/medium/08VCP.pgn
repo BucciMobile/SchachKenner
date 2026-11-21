@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08VCP"]
+[Difficulty "medium"]
+[Rating "1225"]
+[Themes "bishopEndgame endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/C40J2bll#83"]
+[Solution "g3h4 b4e1 b6f2 e1f2"]
+[SolutionSAN "Kh4 Be1+ Bf2 Bxf2#"]
+[FEN "8/8/1B2b1k1/p6p/PbP5/1P4K1/8/3B4 w - - 4 42"]
+[SetUp "1"]
+
+42. Kh4 Be1+ 43. Bf2 Bxf2# *

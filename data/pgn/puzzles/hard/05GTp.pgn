@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05GTp"]
+[Difficulty "hard"]
+[Rating "2142"]
+[Themes "crushing endgame exposedKing quietMove veryLong"]
+[GameUrl "https://lichess.org/game/2ZJCD4LM/black#58"]
+[Solution "f7g6 d7e6 g6h5 e6f5 h5h6 g3g4 d1g4 f5g4"]
+[SolutionSAN "Kg6 Qxe6+ Kh5 Qf5+ Kh6 g4 Qxg4+ Qxg4"]
+[FEN "b7/3Q1kpp/4p3/2Pp4/1n2p3/4P1P1/7P/3q1NK1 b - - 3 29"]
+[SetUp "1"]
+
+29... Kg6 30. Qxe6+ Kh5 31. Qf5+ Kh6 32. g4 Qxg4+ 33. Qxg4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05YTo"]
+[Difficulty "hard"]
+[Rating "1892"]
+[Themes "crushing defensiveMove endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/fIvjwL6k#69"]
+[Solution "c3c4 c6c5 d4e4 d6e6"]
+[SolutionSAN "c4 c5+ Ke4 Ke6"]
+[FEN "8/p5p1/2pk4/6p1/3K2P1/P1P4P/8/8 w - - 2 35"]
+[SetUp "1"]
+
+35. c4 c5+ 36. Ke4 Ke6 *

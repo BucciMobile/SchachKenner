@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01ZiW"]
+[Difficulty "easy"]
+[Rating "400"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/mfROm9c6#139"]
+[Solution "a6a7 d4d1"]
+[SolutionSAN "Ra7 Rd1#"]
+[FEN "8/8/R7/5k2/3r3p/6pP/6P1/6K1 w - - 4 70"]
+[SetUp "1"]
+
+70. Ra7 Rd1# *

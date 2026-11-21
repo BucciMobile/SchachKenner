@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B070"]
+[Difficulty "hard"]
+[Rating "1959"]
+[Themes "crushing deflection endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/LuNkcS51#51"]
+[Solution "e4b4 c8c3 g3h4 d2g2"]
+[SolutionSAN "Rxb4 Rc3+ Kh4 Rxg2"]
+[FEN "2r3k1/1p4p1/4p2p/4P3/1p2R3/1P4K1/P2r2PP/R7 w - - 4 26"]
+[SetUp "1"]
+
+26. Rxb4 Rc3+ 27. Kh4 Rxg2 *

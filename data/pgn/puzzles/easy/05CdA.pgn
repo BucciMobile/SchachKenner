@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05CdA"]
+[Difficulty "easy"]
+[Rating "1081"]
+[Themes "mate mateIn2 opening short"]
+[GameUrl "https://lichess.org/game/idofjVEk#31"]
+[Solution "e1e2 g3e3 e2f1 e3f2"]
+[SolutionSAN "Ke2 Qxe3+ Kf1 Qf2#"]
+[FEN "r1b2rk1/2p2pp1/p1n4p/2b5/2P1B3/PP2P1qP/1B1N4/R2QK1NR w KQ - 0 16"]
+[SetUp "1"]
+
+16. Ke2 Qxe3+ 17. Kf1 Qf2# *

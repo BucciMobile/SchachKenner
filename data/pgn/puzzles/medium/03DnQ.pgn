@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03DnQ"]
+[Difficulty "medium"]
+[Rating "1221"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/EieodZSt/black#66"]
+[Solution "a5a4 b6b8 f2f8 b8f8"]
+[SolutionSAN "a4 Rb8+ Rf8 Rxf8#"]
+[FEN "7k/7p/1R1p3P/p1p1p3/4P3/1P1P2P1/b4r2/2K5 b - - 0 33"]
+[SetUp "1"]
+
+33... a4 34. Rb8+ Rf8 35. Rxf8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06qNo"]
+[Difficulty "medium"]
+[Rating "1646"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/sb2GETbp#57"]
+[Solution "b6a6 d3b1 g1g2 b1b7 f4f3 b7a6"]
+[SolutionSAN "Rxa6 Qb1+ Kg2 Qb7+ Qf3 Qxa6"]
+[FEN "5r1k/6pp/pR3p2/2p5/2P2Q2/P2q2P1/5P1P/6K1 w - - 0 29"]
+[SetUp "1"]
+
+29. Rxa6 Qb1+ 30. Kg2 Qb7+ 31. Qf3 Qxa6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09SFr"]
+[Difficulty "medium"]
+[Rating "1310"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/FPJu1u0S#25"]
+[Solution "c3e4 d5e4 d3e4 e8e4"]
+[SolutionSAN "Nxe4 dxe4 Bxe4 Rxe4"]
+[FEN "r1bqr1k1/1p3ppp/1np5/p2p4/1b1Pn3/2NBPN1P/PP1BQPP1/R1R3K1 w - - 2 13"]
+[SetUp "1"]
+
+13. Nxe4 dxe4 14. Bxe4 Rxe4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Mf0"]
+[Difficulty "hard"]
+[Rating "2345"]
+[Themes "advantage long master middlegame quietMove"]
+[GameUrl "https://lichess.org/game/rkMC42R8/black#38"]
+[Solution "g7h6 f1b1 h6h2 g1f1 c6a5 b3b4"]
+[SolutionSAN "Qh6 Rfb1 Qxh2+ Kf1 Na5 Qb4"]
+[FEN "2kr3r/pp1b1pq1/2n1p3/2Pp4/5Np1/1QP3P1/P4PBP/R4RK1 b - - 4 19"]
+[SetUp "1"]
+
+19... Qh6 20. Rfb1 Qxh2+ 21. Kf1 Na5 22. Qb4 *

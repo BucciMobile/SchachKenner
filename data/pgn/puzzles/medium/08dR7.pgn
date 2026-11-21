@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08dR7"]
+[Difficulty "medium"]
+[Rating "1393"]
+[Themes "advantage endgame fork master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/lsn0dg5k#63"]
+[Solution "g4f5 c4f1 h1h2 f1f5"]
+[SolutionSAN "Bxf5 Qf1+ Kh2 Qxf5"]
+[FEN "8/p1N2kpR/8/3pPp1P/1bq3B1/4B1P1/6P1/7K w - - 0 32"]
+[SetUp "1"]
+
+32. Bxf5 Qf1+ 33. Kh2 Qxf5 *

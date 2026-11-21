@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01WLY"]
+[Difficulty "medium"]
+[Rating "1343"]
+[Themes "crushing fork master opening short"]
+[GameUrl "https://lichess.org/game/CCJq2aBi/black#20"]
+[Solution "e5c4 d1a4 e7c6 a4c4"]
+[SolutionSAN "Nxc4 Qa4+ Nc6 Qxc4"]
+[FEN "r2qk2r/ppp1npbp/3p2p1/4n3/2P1P3/2N2BB1/PP3PPP/R2QK2R b KQkq - 0 10"]
+[SetUp "1"]
+
+10... Nxc4 11. Qa4+ Nc6 12. Qxc4 *

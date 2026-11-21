@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04gGY"]
+[Difficulty "medium"]
+[Rating "1438"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/Vro6z730/black#52"]
+[Solution "g8g7 f1f8 g7g8 c6f6"]
+[SolutionSAN "Rxg7 Rf8+ Rg8 Qf6#"]
+[FEN "6rk/6Rp/2Q3p1/4p1P1/8/4q3/1r4PP/5R1K b - - 1 26"]
+[SetUp "1"]
+
+26... Rxg7 27. Rf8+ Rg8 28. Qf6# *

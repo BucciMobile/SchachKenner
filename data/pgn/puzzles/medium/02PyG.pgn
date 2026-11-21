@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02PyG"]
+[Difficulty "medium"]
+[Rating "1234"]
+[Themes "crushing deflection endgame exposedKing master veryLong"]
+[GameUrl "https://lichess.org/game/4dKDIYf9/black#66"]
+[Solution "d1d2 f5f7 e8d8 b2f6 f8g6 f6e7 g6e7 f7f8 d8c7 f8e7"]
+[SolutionSAN "Qxd2 Qf7+ Kd8 Bf6 Ng6 Bxe7+ Nxe7 Qf8+ Kc7 Qxe7+"]
+[FEN "4kn2/p3b3/1p2P3/1P1p1Qp1/P7/8/1B1N1PK1/3q4 b - - 2 33"]
+[SetUp "1"]
+
+33... Qxd2 34. Qf7+ Kd8 35. Bf6 Ng6 36. Bxe7+ Nxe7 37. Qf8+ Kc7 38. Qxe7+ *

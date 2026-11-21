@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02MgP"]
+[Difficulty "hard"]
+[Rating "1974"]
+[Themes "advancedPawn advantage kingsideAttack middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/jRGb0WQd#55"]
+[Solution "f1g3 d6g3 h4g3 c7g3 f2g3 d8d4 c3d4 f3f2"]
+[SolutionSAN "Ng3 Bxg3 Qxg3 Qxg3+ fxg3 Rxd4 cxd4 f2+"]
+[FEN "3r1rk1/p1q3pb/1p1b4/8/3B2PQ/2P2p1P/PP3P2/R3RNK1 w - - 1 28"]
+[SetUp "1"]
+
+28. Ng3 Bxg3 29. Qxg3 Qxg3+ 30. fxg3 Rxd4 31. cxd4 f2+ *

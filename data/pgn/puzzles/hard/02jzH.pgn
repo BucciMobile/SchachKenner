@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02jzH"]
+[Difficulty "hard"]
+[Rating "2278"]
+[Themes "crushing defensiveMove endgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/TZfWCq6x/black#86"]
+[Solution "d3f2 a7a8 f2h1 g3f3 g7g5 a8a7 f6g7 e8e7"]
+[SolutionSAN "Nxf2 Raa8 Nh1+ Kf3 g5 Ra7+ Bg7 Ree7"]
+[FEN "4R3/R5pk/1p3b1p/7P/8/P2n2K1/r4P2/8 b - - 2 43"]
+[SetUp "1"]
+
+43... Nxf2 44. Raa8 Nh1+ 45. Kf3 g5 46. Ra7+ Bg7 47. Ree7 *

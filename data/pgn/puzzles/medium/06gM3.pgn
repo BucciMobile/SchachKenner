@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06gM3"]
+[Difficulty "medium"]
+[Rating "1291"]
+[Themes "deflection kingsideAttack long mate mateIn3 middlegame pillsburysMate"]
+[GameUrl "https://lichess.org/game/l34fAGgQ/black#42"]
+[Solution "f6b2 h5f7 g8h8 f7f8 a8f8 f3f8"]
+[SolutionSAN "Qxb2 Qf7+ Kh8 Qxf8+ Rxf8 Rxf8#"]
+[FEN "r4nk1/pppb2p1/3p1q1p/3P3Q/8/3B1R2/PP3PPP/6K1 b - - 5 21"]
+[SetUp "1"]
+
+21... Qxb2 22. Qf7+ Kh8 23. Qxf8+ Rxf8 24. Rxf8# *

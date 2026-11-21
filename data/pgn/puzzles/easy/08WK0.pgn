@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08WK0"]
+[Difficulty "easy"]
+[Rating "1112"]
+[Themes "crushing endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/XUnL5nJC/black#70"]
+[Solution "g7d4 a3f8 h8h7 f8f7"]
+[SolutionSAN "Qxd4 Qf8+ Kh7 Qxf7+"]
+[FEN "7k/5pq1/4p2p/8/3P4/Q5P1/5P1P/6K1 b - - 0 35"]
+[SetUp "1"]
+
+35... Qxd4 36. Qf8+ Kh7 37. Qxf7+ *

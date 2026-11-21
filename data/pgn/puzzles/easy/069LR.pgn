@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "069LR"]
+[Difficulty "easy"]
+[Rating "907"]
+[Themes "advancedPawn crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/KeuHiuiM#141"]
+[Solution "f7f8 b2f2 f6e7 f2f8 e7f8 b3b2"]
+[SolutionSAN "Rf8 Rf2+ Ke7 Rxf8 Kxf8 b2"]
+[FEN "8/5R2/5K1k/3pP3/2pP4/1pP5/1r6/8 w - - 0 71"]
+[SetUp "1"]
+
+71. Rf8 Rf2+ 72. Ke7 Rxf8 73. Kxf8 b2 *

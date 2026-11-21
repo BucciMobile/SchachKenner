@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09d7J"]
+[Difficulty "easy"]
+[Rating "1016"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/unNOnp17/black#72"]
+[Solution "d5d4 d6e8 g7h6 e8c7"]
+[SolutionSAN "d4 Ne8+ Kh6 Nxc7"]
+[FEN "5b2/2r2pkp/3Np1p1/1R1pP3/5P2/2P3P1/2K4P/8 b - - 0 36"]
+[SetUp "1"]
+
+36... d4 37. Ne8+ Kh6 38. Nxc7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ELsQ"]
+[Difficulty "medium"]
+[Rating "1618"]
+[Themes "crushing discoveredAttack middlegame pin short"]
+[GameUrl "https://lichess.org/game/pHoqcurY/black#54"]
+[Solution "f8h7 f5h6 f6h6 g4d7"]
+[SolutionSAN "Nxh7 Nh6+ Rxh6 Qxd7"]
+[FEN "5nk1/p1bq2pP/5r2/1p1p1N1P/3P2Q1/P3B3/1r6/R4RK1 b - - 0 27"]
+[SetUp "1"]
+
+27... Nxh7 28. Nh6+ Rxh6 29. Qxd7 *

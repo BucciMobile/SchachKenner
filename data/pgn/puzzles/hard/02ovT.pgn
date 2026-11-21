@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02ovT"]
+[Difficulty "hard"]
+[Rating "1723"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/qp95GS6A/black#26"]
+[Solution "c6d4 d5e7 g8h8 e7g6 f7g6 f3e3"]
+[SolutionSAN "Nd4 Ne7+ Kh8 Nxg6+ fxg6 Qe3"]
+[FEN "r4rk1/pp3ppp/2npb1q1/2pNp3/4P2P/3P1Q2/PPP2PP1/2KR3R b - - 2 13"]
+[SetUp "1"]
+
+13... Nd4 14. Ne7+ Kh8 15. Nxg6+ fxg6 16. Qe3 *

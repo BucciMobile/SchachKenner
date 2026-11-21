@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00VDN"]
+[Difficulty "medium"]
+[Rating "1541"]
+[Themes "crushing discoveredAttack endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/Tex5WhjM#75"]
+[Solution "e3e4 d5e4 f3e3 d7d4"]
+[SolutionSAN "e4 dxe4+ Ke3 Rxd4"]
+[FEN "3r4/3r2k1/p7/3p2p1/3R2Pp/1P2PK2/P2R4/8 w - - 0 38"]
+[SetUp "1"]
+
+38. e4 dxe4+ 39. Ke3 Rxd4 *

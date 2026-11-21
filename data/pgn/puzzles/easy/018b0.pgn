@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "018b0"]
+[Difficulty "easy"]
+[Rating "1106"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/oD9GfZhW/black#36"]
+[Solution "c6e7 g6g7"]
+[SolutionSAN "Ne7 Qxg7#"]
+[FEN "r4r1k/1ppq2p1/1pnp1nQp/4pN2/4P3/3PB2P/PPP2RP1/R5K1 b - - 11 18"]
+[SetUp "1"]
+
+18... Ne7 19. Qxg7# *

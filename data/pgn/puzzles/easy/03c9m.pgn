@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03c9m"]
+[Difficulty "easy"]
+[Rating "429"]
+[Themes "endgame master mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/ZeMFiirE/black#70"]
+[Solution "a8e8 e1e8"]
+[SolutionSAN "Rxe8 Rxe8#"]
+[FEN "r3Q2k/q6p/7B/3P4/P7/1P3P2/KPb3P1/4R3 b - - 10 35"]
+[SetUp "1"]
+
+35... Rxe8 36. Rxe8# *

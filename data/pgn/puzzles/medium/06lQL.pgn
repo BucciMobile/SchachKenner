@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06lQL"]
+[Difficulty "medium"]
+[Rating "1286"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/Nf2kC0fF/black#42"]
+[Solution "d8d4 f5h7 g8f8 h7h8 f8e7 a1e1"]
+[SolutionSAN "Rxd4 Qh7+ Kf8 Qh8+ Ke7 Re1+"]
+[FEN "3rq1k1/pp3pp1/2p2b1p/5Q2/3P4/3B3P/PP3PP1/R5K1 b - - 3 21"]
+[SetUp "1"]
+
+21... Rxd4 22. Qh7+ Kf8 23. Qh8+ Ke7 24. Re1+ *

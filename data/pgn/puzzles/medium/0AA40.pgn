@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AA40"]
+[Difficulty "medium"]
+[Rating "1613"]
+[Themes "capturingDefender crushing middlegame short"]
+[GameUrl "https://lichess.org/game/AziAZ7QI/black#20"]
+[Solution "f6f5 g4f5 e6f5 c4d5"]
+[SolutionSAN "Qf5 Qxf5 exf5 Bxd5"]
+[FEN "rn2kbnN/p1p3pp/1p2pq2/3b2B1/2BP2Q1/8/PPP2P1P/R3K1N1 b Qq - 2 10"]
+[SetUp "1"]
+
+10... Qf5 11. Qxf5 exf5 12. Bxd5 *

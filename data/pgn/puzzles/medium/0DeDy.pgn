@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DeDy"]
+[Difficulty "medium"]
+[Rating "1316"]
+[Themes "advantage defensiveMove hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/Mku0rXmt#45"]
+[Solution "d1d5 d8d5 f4f6 c5e6"]
+[SolutionSAN "Rxd5 Qxd5 Qf6 Ne6"]
+[FEN "1rrq2k1/p4p1p/1p4pB/2npP3/5Q2/6P1/PP3P1P/R2R2K1 w - - 0 23"]
+[SetUp "1"]
+
+23. Rxd5 Qxd5 24. Qf6 Ne6 *

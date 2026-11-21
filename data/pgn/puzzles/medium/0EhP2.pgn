@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EhP2"]
+[Difficulty "medium"]
+[Rating "1605"]
+[Themes "advantage long middlegame pin sacrifice"]
+[GameUrl "https://lichess.org/game/NRdImb2F#37"]
+[Solution "d5d2 e8e2 d2e2 d7b5 e2b5 a6b5"]
+[SolutionSAN "Qd2 Rxe2 Qxe2 Bb5 Qxb5 axb5"]
+[FEN "r3r1k1/1ppb1ppp/p2p4/3Q4/8/5NPP/PPq1BP2/R4K1R w - - 1 19"]
+[SetUp "1"]
+
+19. Qd2 Rxe2 20. Qxe2 Bb5 21. Qxb5 axb5 *

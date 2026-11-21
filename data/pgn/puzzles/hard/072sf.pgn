@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "072sf"]
+[Difficulty "hard"]
+[Rating "1725"]
+[Themes "clearance crushing middlegame short"]
+[GameUrl "https://lichess.org/game/PeqPArjB/black#60"]
+[Solution "a7a2 c4a2 a8a2 c3c8"]
+[SolutionSAN "Qxa2 Qxa2 Rxa2 Rc8+"]
+[FEN "r5k1/q4p1p/4pnpb/8/1BQP4/2R2N1P/P4PP1/6K1 b - - 0 30"]
+[SetUp "1"]
+
+30... Qxa2 31. Qxa2 Rxa2 32. Rc8+ *

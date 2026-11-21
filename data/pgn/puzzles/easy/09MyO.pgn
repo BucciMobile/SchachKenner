@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09MyO"]
+[Difficulty "easy"]
+[Rating "1000"]
+[Themes "endgame master mate mateIn2 queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/6XicqWKw#89"]
+[Solution "f5g5 f7f6 g5h5 f6h6"]
+[SolutionSAN "Kxg5 Qf6+ Kh5 Qh6#"]
+[FEN "6k1/1p3qp1/p7/2P2Kp1/3PR1P1/8/P3R3/8 w - - 6 45"]
+[SetUp "1"]
+
+45. Kxg5 Qf6+ 46. Kh5 Qh6# *

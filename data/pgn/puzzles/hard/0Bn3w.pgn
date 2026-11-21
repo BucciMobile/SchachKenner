@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bn3w"]
+[Difficulty "hard"]
+[Rating "2141"]
+[Themes "advantage endgame fork long master"]
+[GameUrl "https://lichess.org/game/3A4OwRa5#73"]
+[Solution "e4e5 c8g4 e5g3 g4d1 g1h2 d1h5"]
+[SolutionSAN "Qxe5 Qxg4+ Qg3 Qxd1+ Kh2 Qh5"]
+[FEN "b1q5/8/p5pk/1p1Pb1N1/1P2Q1Pn/P3P3/5P2/3R2K1 w - - 3 37"]
+[SetUp "1"]
+
+37. Qxe5 Qxg4+ 38. Qg3 Qxd1+ 39. Kh2 Qh5 *

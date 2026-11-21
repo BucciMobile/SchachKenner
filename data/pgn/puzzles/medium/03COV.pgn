@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03COV"]
+[Difficulty "medium"]
+[Rating "1598"]
+[Themes "advantage middlegame short skewer"]
+[GameUrl "https://lichess.org/game/q3PiiNYF/black#40"]
+[Solution "h7h6 e3f4 e5f6 f4d6"]
+[SolutionSAN "h6 Bf4 Qf6 Bxd6"]
+[FEN "r4rk1/p2b1ppp/3bp3/3pq3/2pN4/P1P1B1P1/1P1Q1P1P/R4RK1 b - - 0 20"]
+[SetUp "1"]
+
+20... h6 21. Bf4 Qf6 22. Bxd6 *

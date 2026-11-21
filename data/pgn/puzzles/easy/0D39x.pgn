@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D39x"]
+[Difficulty "easy"]
+[Rating "1132"]
+[Themes "bishopEndgame crushing endgame hangingPiece long"]
+[GameUrl "https://lichess.org/game/ErFdSYTF#105"]
+[Solution "b5a6 b6c6 a6a7 c6b7 a7a8q b7a8"]
+[SolutionSAN "bxa6 Kxc6 a7 Kb7 a8=Q+ Kxa8"]
+[FEN "8/8/nkB5/1P6/7b/6p1/6K1/8 w - - 0 53"]
+[SetUp "1"]
+
+53. bxa6 Kxc6 54. a7 Kb7 55. a8=Q+ Kxa8 *

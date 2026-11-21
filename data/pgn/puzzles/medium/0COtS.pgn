@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0COtS"]
+[Difficulty "medium"]
+[Rating "1219"]
+[Themes "deflection long master mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/AD6pUdN2#61"]
+[Solution "g2h3 d2e1 h3f1 e1f2 g1h1 f2f1"]
+[SolutionSAN "Bxh3 Qe1+ Bf1 Qf2+ Kh1 Qxf1#"]
+[FEN "8/1Q4bk/6pp/4pp2/2P3n1/2NPP1Pb/1B1qP1BP/6K1 w - - 5 31"]
+[SetUp "1"]
+
+31. Bxh3 Qe1+ 32. Bf1 Qf2+ 33. Kh1 Qxf1# *

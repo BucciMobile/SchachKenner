@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01tei"]
+[Difficulty "hard"]
+[Rating "2289"]
+[Themes "crushing defensiveMove endgame hangingPiece long quietMove rookEndgame"]
+[GameUrl "https://lichess.org/game/DlcVV8pm#103"]
+[Solution "f5f6 c5h5 g3g4 h5h8 g4f5 b5c6"]
+[SolutionSAN "f6 Rxh5 Kg4 Rh8 Kf5 Kc6"]
+[FEN "8/8/8/1kr2P1R/8/6K1/8/8 w - - 0 52"]
+[SetUp "1"]
+
+52. f6 Rxh5 53. Kg4 Rh8 54. Kf5 Kc6 *

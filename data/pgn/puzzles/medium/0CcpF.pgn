@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CcpF"]
+[Difficulty "medium"]
+[Rating "1443"]
+[Themes "advantage discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/eeZ1Z1FX#61"]
+[Solution "g4g5 c4d4 c3d4 c8c1"]
+[SolutionSAN "g5 Rxd4 cxd4 Rxc1"]
+[FEN "2r3k1/5p2/p3p1pP/4P3/n1rB2P1/2P4R/P3K3/2R5 w - - 1 31"]
+[SetUp "1"]
+
+31. g5 Rxd4 32. cxd4 Rxc1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "034nU"]
+[Difficulty "hard"]
+[Rating "2156"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/aYZoqMFC#59"]
+[Solution "e4d3 f2c2 d3d4 c2e4"]
+[SolutionSAN "Kxd3 Qc2+ Kd4 Qe4#"]
+[FEN "2r3k1/p6p/1p2N1pQ/5p2/4KP2/1P1nP2R/P4qPP/8 w - - 0 30"]
+[SetUp "1"]
+
+30. Kxd3 Qc2+ 31. Kd4 Qe4# *

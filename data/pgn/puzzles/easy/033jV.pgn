@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "033jV"]
+[Difficulty "easy"]
+[Rating "1140"]
+[Themes "endgame mate mateIn2 queenEndgame short"]
+[GameUrl "https://lichess.org/game/w0XjYxJi/black#114"]
+[Solution "e2e1q h4h7 g7f6 h7f7"]
+[SolutionSAN "e1=Q Qh7+ Kf6 Qf7#"]
+[FEN "8/2p3k1/2Pp2P1/2pP1p2/5P1Q/P2q4/4p2K/8 b - - 1 57"]
+[SetUp "1"]
+
+57... e1=Q 58. Qh7+ Kf6 59. Qf7# *

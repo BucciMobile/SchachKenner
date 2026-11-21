@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03UYH"]
+[Difficulty "easy"]
+[Rating "898"]
+[Themes "crushing endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/K0ebxbdF/black#76"]
+[Solution "c4b5 b8b5 a6b5 a5a6"]
+[SolutionSAN "Qxb5 Qxb5 axb5 a6"]
+[FEN "1Q6/5pk1/p4p2/PN1p4/2q2P2/4P3/6PK/8 b - - 0 38"]
+[SetUp "1"]
+
+38... Qxb5 39. Qxb5 axb5 40. a6 *

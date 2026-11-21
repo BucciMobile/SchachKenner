@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02pbx"]
+[Difficulty "medium"]
+[Rating "1501"]
+[Themes "endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/l3kzricJ#49"]
+[Solution "a4c3 e2f2 g1h1 f2f1 d1f1 f8f1"]
+[SolutionSAN "Nc3 Qf2+ Kh1 Qf1+ Rxf1 Rxf1#"]
+[FEN "1k3r2/2p3pp/3bQ3/p7/N7/4P3/1PP1q1PP/3R2K1 w - - 1 25"]
+[SetUp "1"]
+
+25. Nc3 Qf2+ 26. Kh1 Qf1+ 27. Rxf1 Rxf1# *

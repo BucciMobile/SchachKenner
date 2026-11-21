@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00VFK"]
+[Difficulty "easy"]
+[Rating "1058"]
+[Themes "crushing endgame master queenEndgame short"]
+[GameUrl "https://lichess.org/game/cuisbvqQ#89"]
+[Solution "h3h4 g7g5 a5g5 h6g5"]
+[SolutionSAN "Kh4 g5+ Qxg5 hxg5+"]
+[FEN "8/6pk/7p/Q7/6P1/3q3K/1P5P/8 w - - 1 45"]
+[SetUp "1"]
+
+45. Kh4 g5+ 46. Qxg5 hxg5+ *

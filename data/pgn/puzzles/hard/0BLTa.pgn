@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BLTa"]
+[Difficulty "hard"]
+[Rating "2086"]
+[Themes "attraction crushing kingsideAttack long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/vzw7N11L#39"]
+[Solution "b4d2 g5g2 g1g2 d7g4 g2h1 g4f3"]
+[SolutionSAN "Bd2 Rxg2+ Kxg2 Qg4+ Kh1 Qf3+"]
+[FEN "5rk1/1Qpq1ppp/1p1p2n1/6r1/PB2P3/1P6/2P2PPP/R4RK1 w - - 3 20"]
+[SetUp "1"]
+
+20. Bd2 Rxg2+ 21. Kxg2 Qg4+ 22. Kh1 Qf3+ *

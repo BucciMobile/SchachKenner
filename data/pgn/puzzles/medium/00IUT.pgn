@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00IUT"]
+[Difficulty "medium"]
+[Rating "1442"]
+[Themes "crushing fork long middlegame"]
+[GameUrl "https://lichess.org/game/93xXeKdX#37"]
+[Solution "d1d4 c7c5 b4a3 c5d4 a3e7 e8e7"]
+[SolutionSAN "Rxd4 c5 Qa3 cxd4 Qxe7 Rxe7"]
+[FEN "1r2r1k1/ppp1q1pp/4b3/4P3/1Q1p1P2/8/P5PP/R1BR2K1 w - - 6 19"]
+[SetUp "1"]
+
+19. Rxd4 c5 20. Qa3 cxd4 21. Qxe7 Rxe7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BapO"]
+[Difficulty "hard"]
+[Rating "1909"]
+[Themes "crushing endgame sacrifice short"]
+[GameUrl "https://lichess.org/game/lWDmKTQh#61"]
+[Solution "f2f3 e4c4 c7c4 b5c4"]
+[SolutionSAN "f3 Qc4 Rxc4 bxc4"]
+[FEN "8/p1R5/b2R3p/1p3ppk/1P2qB2/P3P3/2p2PPP/6K1 w - - 6 31"]
+[SetUp "1"]
+
+31. f3 Qc4 32. Rxc4 bxc4 *

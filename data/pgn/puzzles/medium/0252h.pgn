@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0252h"]
+[Difficulty "medium"]
+[Rating "1246"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/neaSEHVk/black#32"]
+[Solution "f5h4 f3f7"]
+[SolutionSAN "Nh4 Qf7#"]
+[FEN "r2qkb1r/p5pp/2p1p3/3p1n2/3P4/2P2Q1P/PP4P1/RNB2RK1 b kq - 3 16"]
+[SetUp "1"]
+
+16... Nh4 17. Qf7# *

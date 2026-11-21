@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A0OX"]
+[Difficulty "easy"]
+[Rating "911"]
+[Themes "endgame master mate mateIn1 oneMove swallowstailMate"]
+[GameUrl "https://lichess.org/game/Ot2fCCui/black#72"]
+[Solution "f6f5 d4f4"]
+[SolutionSAN "Kf5 Qf4#"]
+[FEN "7R/p4p2/1p2pkp1/7p/3Q4/8/PP3KNr/7q b - - 17 36"]
+[SetUp "1"]
+
+36... Kf5 37. Qf4# *

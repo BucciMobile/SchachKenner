@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BIIA"]
+[Difficulty "easy"]
+[Rating "688"]
+[Themes "hangingPiece kingsideAttack master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/5aADugvJ/black#46"]
+[Solution "d8b6 a3f8"]
+[SolutionSAN "Qb6 Qxf8#"]
+[FEN "3q1r1k/p2b2pp/P3p3/1p1pPp2/2rP3P/Q1P2N2/5PP1/R1R3K1 b - - 0 23"]
+[SetUp "1"]
+
+23... Qb6 24. Qxf8# *

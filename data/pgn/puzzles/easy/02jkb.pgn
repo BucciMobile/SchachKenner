@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02jkb"]
+[Difficulty "easy"]
+[Rating "585"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/CCMdAYH5/black#30"]
+[Solution "e7f6 e2e8 d8e8 e1e8"]
+[SolutionSAN "Bxf6 Qxe8+ Qxe8 Rxe8#"]
+[FEN "r1bqr1k1/4bppp/p4B2/1pp5/8/1P1B4/P2PQPPP/RN2R1K1 b - - 0 15"]
+[SetUp "1"]
+
+15... Bxf6 16. Qxe8+ Qxe8 17. Rxe8# *

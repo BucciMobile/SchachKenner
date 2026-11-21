@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bmhd"]
+[Difficulty "medium"]
+[Rating "1678"]
+[Themes "crushing defensiveMove endgame pawnEndgame short zugzwang"]
+[GameUrl "https://lichess.org/game/TITuQArx/black#84"]
+[Solution "d5d6 d3d4 d6d7 d4d5"]
+[SolutionSAN "Kd6 Kxd4 Kd7 Kd5"]
+[FEN "8/8/p5p1/Pp1k1p1p/1P1p1P1P/3K2P1/8/8 b - - 2 42"]
+[SetUp "1"]
+
+42... Kd6 43. Kxd4 Kd7 44. Kd5 *

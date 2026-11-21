@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "025MV"]
+[Difficulty "hard"]
+[Rating "2114"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/7DOTI2sk/black#48"]
+[Solution "f4d5 e4d6 d5c7 d6b5"]
+[SolutionSAN "Nxd5 Nxd6 Nxc7 Nxb5"]
+[FEN "1r3rk1/1pR3pp/1p1p4/1q1Pp3/bP2Nn2/5N2/P2Q1PPP/R5K1 b - - 8 24"]
+[SetUp "1"]
+
+24... Nxd5 25. Nxd6 Nxc7 26. Nxb5 *

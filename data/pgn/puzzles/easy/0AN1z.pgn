@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AN1z"]
+[Difficulty "easy"]
+[Rating "772"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/Cv3AEWti#57"]
+[Solution "e1f1 f4f1 d1f1 f8f1"]
+[SolutionSAN "Rxf1 Rxf1+ Rxf1 Rxf1#"]
+[FEN "2k2r2/ppp1P2Q/6p1/3n4/3P1r2/8/P5PP/3RRq1K w - - 3 29"]
+[SetUp "1"]
+
+29. Rxf1 Rxf1+ 30. Rxf1 Rxf1# *

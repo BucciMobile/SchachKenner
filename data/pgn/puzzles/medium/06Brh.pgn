@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Brh"]
+[Difficulty "medium"]
+[Rating "1582"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/Gjhxq9t5#61"]
+[Solution "a1e1 e4c6 e1e8 c6e8"]
+[SolutionSAN "Re1 Bxc6 Rxe8+ Bxe8"]
+[FEN "4r1k1/6pp/p1NR4/1r6/4b3/7P/P5P1/R5K1 w - - 0 31"]
+[SetUp "1"]
+
+31. Re1 Bxc6 32. Rxe8+ Bxe8 *

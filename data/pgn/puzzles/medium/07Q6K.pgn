@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Q6K"]
+[Difficulty "medium"]
+[Rating "1662"]
+[Themes "crushing hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/8pOdkdxD/black#54"]
+[Solution "g8d8 f3g4 c8c7 b2e5"]
+[SolutionSAN "Rd8 Bxg4+ Kc7 Be5+"]
+[FEN "2k3r1/pp5q/2p5/8/1b4n1/1P1RPBP1/PB2KP2/R7 b - - 3 27"]
+[SetUp "1"]
+
+27... Rd8 28. Bxg4+ Kc7 29. Be5+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AMmn"]
+[Difficulty "hard"]
+[Rating "2848"]
+[Themes "advancedPawn crushing middlegame pin sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/9ghJMZPC/black#42"]
+[Solution "h6h5 h1h5 f4h5 g5g6 g8h8 d5f7 f8f7 g6f7 c8f8 f2f5 c7f7 f5f7 f8f7 f1f7"]
+[SolutionSAN "h5 Rxh5 Nxh5 g6 Kh8 Bxf7 Rxf7 gxf7 Rf8 Qf5 Qxf7 Qxf7 Rxf7 Rxf7"]
+[FEN "2r2rk1/p1q2pp1/3p3p/1p1Bp1P1/4Pn2/2PP4/PP3Q2/1K3R1R b - - 0 21"]
+[SetUp "1"]
+
+21... h5 22. Rxh5 Nxh5 23. g6 Kh8 24. Bxf7 Rxf7 25. gxf7 Rf8 26. Qf5 Qxf7 27. Qxf7 Rxf7 28. Rxf7 *

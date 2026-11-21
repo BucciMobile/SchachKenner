@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02dWc"]
+[Difficulty "hard"]
+[Rating "1969"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/fVHoWsSQ/black#58"]
+[Solution "g6e7 f5d4 d8e8 h5e8"]
+[SolutionSAN "Ne7 Nxd4 Qe8 Qxe8"]
+[FEN "3q1r1k/p5pp/6n1/1pr1pN1Q/3nP3/6P1/PP3P1P/3R1RK1 b - - 1 29"]
+[SetUp "1"]
+
+29... Ne7 30. Nxd4 Qe8 31. Qxe8 *

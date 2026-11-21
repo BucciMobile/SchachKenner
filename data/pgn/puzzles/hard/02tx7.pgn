@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02tx7"]
+[Difficulty "hard"]
+[Rating "1746"]
+[Themes "endgame exposedKing long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/JCotrRCJ#53"]
+[Solution "d3c3 h2c2 c3b4 c2c4 b4a3 c4a4"]
+[SolutionSAN "Kc3 Rxc2+ Kxb4 Rc4+ Ka3 Ra4#"]
+[FEN "1k6/1b3pp1/pB1R4/1p2p1P1/1n2P3/1N1K1P2/PPP4r/8 w - - 3 27"]
+[SetUp "1"]
+
+27. Kc3 Rxc2+ 28. Kxb4 Rc4+ 29. Ka3 Ra4# *

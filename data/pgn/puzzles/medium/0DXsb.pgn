@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DXsb"]
+[Difficulty "medium"]
+[Rating "1223"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/2G40bE7l#69"]
+[Solution "c5b5 h6e3 g1h1 e3c3"]
+[SolutionSAN "Qxb5 Qe3+ Kh1 Qxc3"]
+[FEN "4r2k/1b1p2pp/3P1p1q/1pQ5/8/2B5/B5PP/R5K1 w - - 0 35"]
+[SetUp "1"]
+
+35. Qxb5 Qe3+ 36. Kh1 Qxc3 *

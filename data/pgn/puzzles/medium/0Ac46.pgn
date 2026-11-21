@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ac46"]
+[Difficulty "medium"]
+[Rating "1580"]
+[Themes "crushing discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/BLmHKu1T#35"]
+[Solution "d4d5 f4h2 g1h2 g4a4"]
+[SolutionSAN "d5 Bxh2+ Kxh2 Qxa4"]
+[FEN "2kr3r/p1p2ppp/1p2p3/nPP5/Q2P1bq1/P3B3/3N1PPP/R4RK1 w - - 0 18"]
+[SetUp "1"]
+
+18. d5 Bxh2+ 19. Kxh2 Qxa4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03FbU"]
+[Difficulty "easy"]
+[Rating "1075"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+[GameUrl "https://lichess.org/game/bAZKIzXV#83"]
+[Solution "d6c5 e5e4 c5b6 e4e3 c4c5 e3e2"]
+[SolutionSAN "Kxc5 e4 Kb6 e3 c5 e2"]
+[FEN "8/8/p2K4/2p1p3/1pP5/1P1k4/P7/8 w - - 1 42"]
+[SetUp "1"]
+
+42. Kxc5 e4 43. Kb6 e3 44. c5 e2 *

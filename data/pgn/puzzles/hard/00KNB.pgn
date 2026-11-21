@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00KNB"]
+[Difficulty "hard"]
+[Rating "2499"]
+[Themes "crushing kingsideAttack master middlegame pin short"]
+[GameUrl "https://lichess.org/game/Ri0duT8T/black#64"]
+[Solution "c8c7 h5h6 b2b1q h6g5"]
+[SolutionSAN "Rc7 Qxh6 b1=Q Qxg5+"]
+[FEN "2rr2k1/5p2/4p2p/4N1pQ/1p3P2/4P3/np3P1P/2q2BRK b - - 1 32"]
+[SetUp "1"]
+
+32... Rc7 33. Qxh6 b1=Q 34. Qxg5+ *

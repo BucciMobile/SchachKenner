@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0119E"]
+[Difficulty "easy"]
+[Rating "476"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/krqkZh3J/black#90"]
+[Solution "e7f8 f1f8"]
+[SolutionSAN "Qxf8 Qxf8#"]
+[FEN "5R1k/4q2p/3Np1bP/4P3/3P2P1/2n5/8/5QK1 b - - 6 45"]
+[SetUp "1"]
+
+45... Qxf8 46. Qxf8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GgIf"]
+[Difficulty "medium"]
+[Rating "1442"]
+[Themes "advantage hangingPiece long opening"]
+[GameUrl "https://lichess.org/game/aMUVEzfe#21"]
+[Solution "c4f7 e8f7 f3e5 d6e5 d1g4 d8d2"]
+[SolutionSAN "Bxf7+ Kxf7 Nxe5+ dxe5 Qxg4 Qxd2"]
+[FEN "r2qk1nr/1pp2p2/p2p2pp/4b3/2B1P1b1/2P2N2/PP1N1PPP/R2Q1RK1 w kq - 0 11"]
+[SetUp "1"]
+
+11. Bxf7+ Kxf7 12. Nxe5+ dxe5 13. Qxg4 Qxd2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08cbn"]
+[Difficulty "easy"]
+[Rating "1016"]
+[Themes "advantage endgame master rookEndgame short skewer"]
+[GameUrl "https://lichess.org/game/nrvhE0TH#101"]
+[Solution "c6d5 f3f5 d5d6 f5a5"]
+[SolutionSAN "Kxd5 Rf5+ Kd6 Rxa5"]
+[FEN "8/k4p2/P1K5/R2p4/3P4/4Pr2/5P2/8 w - - 1 51"]
+[SetUp "1"]
+
+51. Kxd5 Rf5+ 52. Kd6 Rxa5 *

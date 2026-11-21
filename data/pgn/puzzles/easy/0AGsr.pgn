@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AGsr"]
+[Difficulty "easy"]
+[Rating "927"]
+[Themes "advantage endgame hangingPiece long"]
+[GameUrl "https://lichess.org/game/sOxNUsrE#43"]
+[Solution "d7h7 g6e5 h7h8 b8a7 h8a8 a7a8"]
+[SolutionSAN "Rxh7 Nxe5 Rh8+ Ka7 Rxa8+ Kxa8"]
+[FEN "rk6/1p1R3p/p3p1n1/2p1N3/4P3/6P1/PPP2r1P/2K4R w - - 2 22"]
+[SetUp "1"]
+
+22. Rxh7 Nxe5 23. Rh8+ Ka7 24. Rxa8+ Kxa8 *

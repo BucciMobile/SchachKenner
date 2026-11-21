@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Yg1"]
+[Difficulty "hard"]
+[Rating "2173"]
+[Themes "advantage middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/OaTIohe4/black#70"]
+[Solution "e4e3 d2d3 e3d3 e5d3"]
+[SolutionSAN "Qe3 Rd3 Qxd3 Nxd3"]
+[FEN "8/pp1b2p1/2pk3p/3pN3/3PqPPb/1PN5/PK1R4/5R2 b - - 6 35"]
+[SetUp "1"]
+
+35... Qe3 36. Rd3 Qxd3 37. Nxd3 *

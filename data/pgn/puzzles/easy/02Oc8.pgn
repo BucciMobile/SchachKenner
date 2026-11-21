@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Oc8"]
+[Difficulty "easy"]
+[Rating "1118"]
+[Themes "discoveredAttack endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/AmB0sTp9#57"]
+[Solution "a1d1 d4e2 g1f1 d5d1"]
+[SolutionSAN "Rd1 Ne2+ Kf1 Qxd1#"]
+[FEN "8/Q5p1/4pk2/p2q4/P1pn4/8/5PPP/R5K1 w - - 2 29"]
+[SetUp "1"]
+
+29. Rd1 Ne2+ 30. Kf1 Qxd1# *

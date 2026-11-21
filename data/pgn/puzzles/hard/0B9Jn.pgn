@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B9Jn"]
+[Difficulty "hard"]
+[Rating "1965"]
+[Themes "advantage kingsideAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/DJQK1ldm#53"]
+[Solution "g2e4 a5g5 f4g5 h4e4"]
+[SolutionSAN "Qxe4 Rg5+ fxg5 Qxe4"]
+[FEN "8/1pN1ppkp/2np2p1/r7/2P1nP1q/PB6/1P4Q1/R4RK1 w - - 3 27"]
+[SetUp "1"]
+
+27. Qxe4 Rg5+ 28. fxg5 Qxe4 *

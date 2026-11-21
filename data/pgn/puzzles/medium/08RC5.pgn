@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08RC5"]
+[Difficulty "medium"]
+[Rating "1517"]
+[Themes "advantage defensiveMove opening short"]
+[GameUrl "https://lichess.org/game/DZT3HFl7/black#20"]
+[Solution "b6b4 c1d2 d4e2 d2b4"]
+[SolutionSAN "Qb4+ Bd2 Nxe2 Bxb4"]
+[FEN "r1b1k2r/pp1p1ppp/1q2p3/8/2NnP1n1/8/PP2QPPP/R1B1KB1R b KQkq - 1 10"]
+[SetUp "1"]
+
+10... Qb4+ 11. Bd2 Nxe2 12. Bxb4 *

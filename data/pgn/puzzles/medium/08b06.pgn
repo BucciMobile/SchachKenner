@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08b06"]
+[Difficulty "medium"]
+[Rating "1352"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/52ZoC5JO/black#76"]
+[Solution "d1d3 h7g6 e8d7 g6f7"]
+[SolutionSAN "Qxd3 Qxg6+ Kd7 Qf7+"]
+[FEN "4k3/7Q/3pp1p1/2p3P1/1p1nP3/3P3P/1P4BK/3q4 b - - 2 38"]
+[SetUp "1"]
+
+38... Qxd3 39. Qxg6+ Kd7 40. Qf7+ *

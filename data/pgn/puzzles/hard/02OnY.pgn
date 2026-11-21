@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02OnY"]
+[Difficulty "hard"]
+[Rating "1949"]
+[Themes "advancedPawn crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/AO2PzZEl/black#66"]
+[Solution "c8c5 b4c5 b8b1 e7e8 g7f8 c5c6 b1c1 c6c7"]
+[SolutionSAN "Rxc5 bxc5 Rxb1 Re8+ Bf8 c6 Rc1 c7"]
+[FEN "1rr3k1/4Rpbp/6p1/2P1p3/PPP5/5PP1/5PK1/1R6 b - - 0 33"]
+[SetUp "1"]
+
+33... Rxc5 34. bxc5 Rxb1 35. Re8+ Bf8 36. c6 Rc1 37. c7 *

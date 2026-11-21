@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03lLX"]
+[Difficulty "easy"]
+[Rating "1042"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/JQScYmxP#43"]
+[Solution "c3e2 h8h2 h1h2 e6h6 f3h5 h6h5"]
+[SolutionSAN "Ne2 Rxh2+ Kxh2 Qh6+ Qh5 Qxh5#"]
+[FEN "r3k2r/pp3pp1/2ppq3/4p3/3bP3/P1NP1QP1/1PP3PN/2R2R1K w kq - 0 22"]
+[SetUp "1"]
+
+22. Ne2 Rxh2+ 23. Kxh2 Qh6+ 24. Qh5 Qxh5# *

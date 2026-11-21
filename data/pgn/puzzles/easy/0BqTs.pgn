@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BqTs"]
+[Difficulty "easy"]
+[Rating "1081"]
+[Themes "advantage discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/uMB2qdJS/black#84"]
+[Solution "h5g5 h4g5 f6g5 h1h8"]
+[SolutionSAN "Rxg5 hxg5+ Kxg5 Rxh8"]
+[FEN "7r/1p6/5kp1/p2pp1Rr/2p2p1P/2P5/PP1K1N2/7R b - - 1 42"]
+[SetUp "1"]
+
+42... Rxg5 43. hxg5+ Kxg5 44. Rxh8 *

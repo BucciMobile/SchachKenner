@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02MxE"]
+[Difficulty "easy"]
+[Rating "816"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/isHktToS/black#52"]
+[Solution "e6d7 d3f5 d7e8 f5h7"]
+[SolutionSAN "Kxd7 Bxf5+ Ke8 Bxh7"]
+[FEN "8/bp1N3r/2p1k2p/3n1p2/7B/3B4/P4PPP/1N4K1 b - - 0 26"]
+[SetUp "1"]
+
+26... Kxd7 27. Bxf5+ Ke8 28. Bxh7 *

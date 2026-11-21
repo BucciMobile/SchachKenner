@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09zYA"]
+[Difficulty "hard"]
+[Rating "1790"]
+[Themes "crushing endgame long queenRookEndgame"]
+[GameUrl "https://lichess.org/game/tw06UIFq/black#54"]
+[Solution "a2b2 e4e8 h8g7 e1g1 g7h6 e8e4"]
+[SolutionSAN "Qxb2 Re8+ Kg7 Rg1+ Kh6 Re4"]
+[FEN "7k/p4p1p/5p2/5P2/3pR3/7K/qP5P/4R3 b - - 1 27"]
+[SetUp "1"]
+
+27... Qxb2 28. Re8+ Kg7 29. Rg1+ Kh6 30. Re4 *

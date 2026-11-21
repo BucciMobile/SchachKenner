@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Wj2"]
+[Difficulty "hard"]
+[Rating "1950"]
+[Themes "crushing defensiveMove endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/ExNzPahz#89"]
+[Solution "g2g4 b3b2 e3d3 b2b3"]
+[SolutionSAN "g4 Kxb2 Kd3 Kb3"]
+[FEN "8/1p6/p5p1/P1p4p/7P/1k2KP2/1P4P1/8 w - - 5 45"]
+[SetUp "1"]
+
+45. g4 Kxb2 46. Kd3 Kb3 *

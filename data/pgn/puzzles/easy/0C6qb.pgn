@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C6qb"]
+[Difficulty "easy"]
+[Rating "810"]
+[Themes "advancedPawn bishopEndgame crushing endgame short"]
+[GameUrl "https://lichess.org/game/EoyL8eYH/black#80"]
+[Solution "g6g5 f6f7 b3f7 e8f7"]
+[SolutionSAN "Kxg5 f7 Bxf7+ Kxf7"]
+[FEN "4K3/8/pp3Pk1/6P1/1P6/Pb6/8/8 b - - 1 40"]
+[SetUp "1"]
+
+40... Kxg5 41. f7 Bxf7+ 42. Kxf7 *

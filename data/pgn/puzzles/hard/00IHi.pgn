@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00IHi"]
+[Difficulty "hard"]
+[Rating "1743"]
+[Themes "advancedPawn crushing endgame promotion veryLong"]
+[GameUrl "https://lichess.org/game/DiBepPdz#109"]
+[Solution "e7e1 a1e1 f2e1 a4a3 e1d2 a3a2 d2c3 a2a1q"]
+[SolutionSAN "Re1 Rxe1 Kxe1 a3 Kd2 a2 Kc3 a1=Q+"]
+[FEN "8/4R3/1k6/8/p7/1p1N2P1/5KP1/r7 w - - 0 55"]
+[SetUp "1"]
+
+55. Re1 Rxe1 56. Kxe1 a3 57. Kd2 a2 58. Kc3 a1=Q+ *

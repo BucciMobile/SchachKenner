@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Fg4"]
+[Difficulty "medium"]
+[Rating "1514"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/3lLMS9xz#111"]
+[Solution "e5d5 d1d5 e4d5 f7e7 d7d8q e7d8"]
+[SolutionSAN "Rd5 Rxd5 exd5 Ke7 d8=Q+ Kxd8"]
+[FEN "8/3P1k2/8/4R1p1/1K2Pp2/8/8/3r4 w - - 1 56"]
+[SetUp "1"]
+
+56. Rd5 Rxd5 57. exd5 Ke7 58. d8=Q+ Kxd8 *

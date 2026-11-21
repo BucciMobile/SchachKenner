@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EYTd"]
+[Difficulty "medium"]
+[Rating "1318"]
+[Themes "advantage deflection long opening pin"]
+[GameUrl "https://lichess.org/game/r2iOHFYq/black#22"]
+[Solution "d7d6 c3d5 e7d8 d5f6 g7f6 g5f6"]
+[SolutionSAN "d6 Nd5+ Kd8 Nxf6 gxf6 Qxf6+"]
+[FEN "r1b1qb1r/2ppk1pp/p4n2/np2N1Q1/3PP3/2N5/PPP2PPP/R1B1K2R b KQ - 4 11"]
+[SetUp "1"]
+
+11... d6 12. Nd5+ Kd8 13. Nxf6 gxf6 14. Qxf6+ *

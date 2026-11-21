@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AO7M"]
+[Difficulty "medium"]
+[Rating "1551"]
+[Themes "advantage discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/tdGyT9m2/black#42"]
+[Solution "b6b2 c2h7 g8h7 e2b2"]
+[SolutionSAN "Qxb2 Bxh7+ Kxh7 Qxb2"]
+[FEN "3r2k1/1p2bppp/pqb1pn2/4B3/8/P1N4P/1PB1QPPK/2R5 b - - 4 21"]
+[SetUp "1"]
+
+21... Qxb2 22. Bxh7+ Kxh7 23. Qxb2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01eIm"]
+[Difficulty "hard"]
+[Rating "2243"]
+[Themes "middlegame"]
+[GameUrl "https://lichess.org/game/medu7ImI/black#46"]
+[Solution "g7e5 e2e5 c5e5 a1c3 a5c5 b3b5 c5c4 b5e5 d8d3 e5e3 d3e3 f2e3"]
+[SolutionSAN "Bxe5 Rxe5 Rxe5 Bc3 Qc5 Rb5 Qxc4 Rxe5 Rd3 Re3 Rxe3 fxe3"]
+[FEN "3rn1k1/p4pbp/1p2p1p1/q1r1P3/2P5/1R3BP1/P1Q1RP1P/B5K1 b - - 3 23"]
+[SetUp "1"]
+
+23... Bxe5 24. Rxe5 Rxe5 25. Bc3 Qc5 26. Rb5 Qxc4 27. Rxe5 Rd3 28. Re3 Rxe3 29. fxe3 *

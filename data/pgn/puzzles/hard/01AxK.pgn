@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01AxK"]
+[Difficulty "hard"]
+[Rating "1994"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/QH4PNif5/black#52"]
+[Solution "d7e7 h3f5 g6f5 e6e7 g7e7 e1e7"]
+[SolutionSAN "Re7 Qxf5 gxf5 Rxe7+ Qxe7 Rxe7+"]
+[FEN "3r4/2kr2qp/pp1pRNp1/n1pP1n2/P1P5/7Q/2P2PPP/4R1K1 b - - 10 26"]
+[SetUp "1"]
+
+26... Re7 27. Qxf5 gxf5 28. Rxe7+ Qxe7 29. Rxe7+ *

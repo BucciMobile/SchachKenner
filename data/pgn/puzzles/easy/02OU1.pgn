@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02OU1"]
+[Difficulty "easy"]
+[Rating "943"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/NLu7Xink/black#52"]
+[Solution "a5c4 f7e6 d7d8 e6f5"]
+[SolutionSAN "Nc4 Be6+ Kd8 Bxf5"]
+[FEN "8/pppk1B1p/5p2/n2P1n2/8/2P5/P1P4B/7K b - - 0 26"]
+[SetUp "1"]
+
+26... Nc4 27. Be6+ Kd8 28. Bxf5 *

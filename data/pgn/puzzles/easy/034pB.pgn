@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "034pB"]
+[Difficulty "easy"]
+[Rating "692"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/yIjystGB/black#86"]
+[Solution "g1d1 c1d1 c2d1q d2d1"]
+[SolutionSAN "Qd1+ Rxd1 cxd1=Q+ Kxd1"]
+[FEN "3r2k1/6pp/p2Np3/1b2P3/5P2/7Q/2pK3P/2R3q1 b - - 9 43"]
+[SetUp "1"]
+
+43... Qd1+ 44. Rxd1 cxd1=Q+ 45. Kxd1 *

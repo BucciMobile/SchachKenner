@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07egd"]
+[Difficulty "hard"]
+[Rating "2562"]
+[Themes "crushing endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/Y16zMiun/black#78"]
+[Solution "a5a4 h1g2 d6f6 d5d6"]
+[SolutionSAN "a4 Kg2 Qf6 d6"]
+[FEN "8/6p1/1p1q3p/p2P4/2P3Pk/4Q2P/8/7K b - - 2 39"]
+[SetUp "1"]
+
+39... a4 40. Kg2 Qf6 41. d6 *

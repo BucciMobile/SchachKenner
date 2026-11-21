@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "010gX"]
+[Difficulty "easy"]
+[Rating "1023"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/M8JiVXgH#73"]
+[Solution "h3h2 e5g4 h2g1 b3b1"]
+[SolutionSAN "Kh2 Nxg4+ Kg1 Rb1#"]
+[FEN "8/R4pk1/6p1/3Bn3/P1P3P1/1r5K/6P1/8 w - - 1 37"]
+[SetUp "1"]
+
+37. Kh2 Nxg4+ 38. Kg1 Rb1# *

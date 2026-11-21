@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03FZy"]
+[Difficulty "hard"]
+[Rating "1938"]
+[Themes "crushing endgame knightEndgame long master quietMove"]
+[GameUrl "https://lichess.org/game/MR93MbXD/black#112"]
+[Solution "d5c3 b4b5 c3d5 d6c4 d5c7 b5b6"]
+[SolutionSAN "Nxc3 b5 Nd5 Nxc4 Nc7 b6"]
+[FEN "8/8/3N4/3n1pk1/1PpP4/2P2K2/8/8 b - - 5 56"]
+[SetUp "1"]
+
+56... Nxc3 57. b5 Nd5 58. Nxc4 Nc7 59. b6 *

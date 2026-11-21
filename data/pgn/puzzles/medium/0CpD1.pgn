@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CpD1"]
+[Difficulty "medium"]
+[Rating "1301"]
+[Themes "backRankMate endgame hangingPiece mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/cvBXDedV#55"]
+[Solution "d3c5 d5h1 e2d1 h1d1"]
+[SolutionSAN "Nxc5 Qxh1+ Qd1 Qxd1#"]
+[FEN "6k1/pp3pp1/4p2p/2rq4/3p2P1/3N3P/PP2QP2/K6R w - - 4 28"]
+[SetUp "1"]
+
+28. Nxc5 Qxh1+ 29. Qd1 Qxd1# *

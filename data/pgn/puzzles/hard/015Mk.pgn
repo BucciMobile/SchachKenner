@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "015Mk"]
+[Difficulty "hard"]
+[Rating "1961"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/Osk8Y30x/black#28"]
+[Solution "g4f3 a4c6 e8e7 c6b7"]
+[SolutionSAN "Bxf3 Qxc6+ Ke7 Qb7+"]
+[FEN "r3k2r/p4ppp/2p1p3/q2pPn2/Qb1P1Pb1/2N2N2/PP1B2PP/R4RK1 b kq - 5 14"]
+[SetUp "1"]
+
+14... Bxf3 15. Qxc6+ Ke7 16. Qb7+ *

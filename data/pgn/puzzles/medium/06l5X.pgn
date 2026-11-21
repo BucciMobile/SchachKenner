@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06l5X"]
+[Difficulty "medium"]
+[Rating "1606"]
+[Themes "advantage defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/5JW9lK9c#61"]
+[Solution "f6f3 b7b6 g2g3 b6a5"]
+[SolutionSAN "Qf3+ Kb6 g3 Kxa5"]
+[FEN "5r2/1k3p1p/4qQ2/R7/3p4/P7/1P3PPP/6K1 w - - 1 31"]
+[SetUp "1"]
+
+31. Qf3+ Kb6 32. g3 Kxa5 *

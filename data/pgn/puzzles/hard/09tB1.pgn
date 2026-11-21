@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09tB1"]
+[Difficulty "hard"]
+[Rating "1732"]
+[Themes "advantage discoveredAttack kingsideAttack opening short"]
+[GameUrl "https://lichess.org/game/lCIV0C1j#19"]
+[Solution "e2f4 d6f4 e3f4 d8d4"]
+[SolutionSAN "Nf4 Bxf4 Bxf4 Qxd4+"]
+[FEN "rn1qk2r/pp3ppp/2pbpnb1/8/3P4/2NBBP2/PPP1N1PP/R2Q1RK1 w kq - 4 10"]
+[SetUp "1"]
+
+10. Nf4 Bxf4 11. Bxf4 Qxd4+ *

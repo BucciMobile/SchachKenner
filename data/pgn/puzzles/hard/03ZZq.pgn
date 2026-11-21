@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03ZZq"]
+[Difficulty "hard"]
+[Rating "1795"]
+[Themes "advantage attraction endgame fork long pin sacrifice"]
+[GameUrl "https://lichess.org/game/hxACmY5P/black#70"]
+[Solution "e6d7 c1c7 d7c7 d4e6 g7g6 e6c7"]
+[SolutionSAN "Qd7 Rc7 Qxc7 Ne6+ Kg6 Nxc7"]
+[FEN "7r/1p4k1/p3qp1p/4n1p1/3N2P1/8/PP5Q/K1R5 b - - 0 35"]
+[SetUp "1"]
+
+35... Qd7 36. Rc7 Qxc7 37. Ne6+ Kg6 38. Nxc7 *

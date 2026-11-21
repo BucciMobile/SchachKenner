@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "055Is"]
+[Difficulty "medium"]
+[Rating "1384"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/zGFxEOSN/black#62"]
+[Solution "f7c4 d4g7"]
+[SolutionSAN "Qxc4 Qg7#"]
+[FEN "2r2r2/5q1k/3p3p/1p3b2/2PQ4/P1N1P1R1/1p4PP/5RK1 b - - 1 31"]
+[SetUp "1"]
+
+31... Qxc4 32. Qg7# *

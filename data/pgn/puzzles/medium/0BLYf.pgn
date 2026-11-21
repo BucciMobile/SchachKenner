@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BLYf"]
+[Difficulty "medium"]
+[Rating "1578"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/hiEjR98u#67"]
+[Solution "f7b7 e4g3 h1g1 g7d4"]
+[SolutionSAN "Rxb7 Nxg3+ Kg1 Bd4#"]
+[FEN "r6k/pp3Rb1/8/3p4/4n3/6Pp/PP5N/R6K w - - 0 34"]
+[SetUp "1"]
+
+34. Rxb7 Nxg3+ 35. Kg1 Bd4# *

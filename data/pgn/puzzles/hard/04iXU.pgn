@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04iXU"]
+[Difficulty "hard"]
+[Rating "2421"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/mUvn9pOO/black#82"]
+[Solution "c5a3 e5e7 a3e7 e2e7"]
+[SolutionSAN "Qxa3 Re7 Qxe7 Qxe7"]
+[FEN "8/3b4/2p3kp/1pqpR3/p5PP/P7/4Q1K1/8 b - - 0 41"]
+[SetUp "1"]
+
+41... Qxa3 42. Re7 Qxe7 43. Qxe7 *

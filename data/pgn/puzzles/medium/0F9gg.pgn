@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F9gg"]
+[Difficulty "medium"]
+[Rating "1661"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/ZETS4sre#45"]
+[Solution "d5c6 f6h4 g2g3 h4g3"]
+[SolutionSAN "Bxc6 Bh4+ g3 Bxg3+"]
+[FEN "1r1q1rk1/3p1ppp/2n2b2/1b1Bp3/4P3/P1N2P1P/1P4P1/1R1QK1NR w K - 2 23"]
+[SetUp "1"]
+
+23. Bxc6 Bh4+ 24. g3 Bxg3+ *

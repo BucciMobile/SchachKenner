@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04gTU"]
+[Difficulty "easy"]
+[Rating "1181"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/FuxDzTUj/black#50"]
+[Solution "h4f2 f1f2 c7g3 f2g2"]
+[SolutionSAN "Bxf2+ Rxf2 Qg3+ Rg2"]
+[FEN "5rrk/p1q4p/2p1Q2P/8/4R1Pb/8/PPP2P2/5RK1 b - - 2 25"]
+[SetUp "1"]
+
+25... Bxf2+ 26. Rxf2 Qg3+ 27. Rg2 *

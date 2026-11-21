@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Rmm"]
+[Difficulty "medium"]
+[Rating "1451"]
+[Themes "advantage attraction endgame fork long"]
+[GameUrl "https://lichess.org/game/MjgWCyPg#59"]
+[Solution "e2c2 c8c2 b3c2 d5e3 c2d3 e3d1"]
+[SolutionSAN "Rc2 Rxc2 Kxc2 Ne3+ Kd3 Nxd1"]
+[FEN "2rr2k1/5ppp/p7/1p1nP3/1B1P1PP1/PK5P/4R3/3R4 w - - 4 30"]
+[SetUp "1"]
+
+30. Rc2 Rxc2 31. Kxc2 Ne3+ 32. Kd3 Nxd1 *

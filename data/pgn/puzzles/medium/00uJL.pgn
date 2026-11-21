@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00uJL"]
+[Difficulty "medium"]
+[Rating "1501"]
+[Themes "endgame epauletteMate master mate mateIn1 oneMove pin"]
+[GameUrl "https://lichess.org/game/1AY8THKB#81"]
+[Solution "g2g4 d4g4"]
+[SolutionSAN "g4+ Qxg4#"]
+[FEN "7Q/5p2/6p1/R3pk1p/P2q3K/7P/5PP1/7r w - - 2 41"]
+[SetUp "1"]
+
+41. g4+ Qxg4# *

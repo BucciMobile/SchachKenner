@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Agi"]
+[Difficulty "hard"]
+[Rating "2368"]
+[Themes "attraction crushing fork middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/8DU0ym6M/black#48"]
+[Solution "b7b5 f8a3 a6b7 f1f7 h5f7 c4d6 b7c7 d6f7"]
+[SolutionSAN "b5 Qa3+ Kb7 Rf7+ Qxf7 Nd6+ Kc7 Nxf7"]
+[FEN "r1b2Qn1/pp6/k1n5/7q/2NP4/2P4P/PP4P1/5RK1 b - - 4 24"]
+[SetUp "1"]
+
+24... b5 25. Qa3+ Kb7 26. Rf7+ Qxf7 27. Nd6+ Kc7 28. Nxf7 *

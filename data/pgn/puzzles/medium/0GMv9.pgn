@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GMv9"]
+[Difficulty "medium"]
+[Rating "1594"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/qdOC5SVY/black#60"]
+[Solution "f8e8 d6e5"]
+[SolutionSAN "Rfe8 Bxe5#"]
+[FEN "3r1r1k/7p/3BQ1p1/4p3/4P3/P4pP1/4qP2/6RK b - - 0 30"]
+[SetUp "1"]
+
+30... Rfe8 31. Bxe5# *

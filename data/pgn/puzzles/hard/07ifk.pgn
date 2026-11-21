@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07ifk"]
+[Difficulty "hard"]
+[Rating "1749"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/dDUyoAQ1#29"]
+[Solution "a1d1 e5c3 f3c3 f6e4"]
+[SolutionSAN "Rad1 Bxc3 Qxc3 Ne4"]
+[FEN "1r1q1rk1/p4ppp/4bn2/2ppb1B1/8/1PN2Q1P/P1P1BPP1/R4RK1 w - - 0 15"]
+[SetUp "1"]
+
+15. Rad1 Bxc3 16. Qxc3 Ne4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D66P"]
+[Difficulty "medium"]
+[Rating "1513"]
+[Themes "advantage defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/9lH3O3z7#73"]
+[Solution "d3d5 d8d5 f4e4 c7c6"]
+[SolutionSAN "Rxd5 Rxd5 Qe4 c6"]
+[FEN "3r4/1qp2ppk/r6p/2PpPP2/1P3Q2/3R3P/6PK/3R4 w - - 1 37"]
+[SetUp "1"]
+
+37. Rxd5 Rxd5 38. Qe4 c6 *

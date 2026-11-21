@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "099ja"]
+[Difficulty "medium"]
+[Rating "1335"]
+[Themes "crushing long middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/WkOqigcR#41"]
+[Solution "g1f3 e4c4 c1d2 f5c2 d2e1 c4e4"]
+[SolutionSAN "Nf3 Rc4+ Kd2 Qc2+ Ke1 Re4+"]
+[FEN "7r/B4ppp/1Q1bk3/3p1q2/4r3/8/PP3PPP/2KR2NR w - - 3 21"]
+[SetUp "1"]
+
+21. Nf3 Rc4+ 22. Kd2 Qc2+ 23. Ke1 Re4+ *

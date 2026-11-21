@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02MwE"]
+[Difficulty "easy"]
+[Rating "1178"]
+[Themes "crushing kingsideAttack middlegame pin short"]
+[GameUrl "https://lichess.org/game/MNqQTDDx/black#48"]
+[Solution "g8h8 f4g6 f8g6 f5g6"]
+[SolutionSAN "Kh8 Ng6+ Nxg6 fxg6"]
+[FEN "4rnk1/pb2r1pp/1p1q1p2/5P2/2BppN2/7R/PP1Q2PP/4R1K1 b - - 1 24"]
+[SetUp "1"]
+
+24... Kh8 25. Ng6+ Nxg6 26. fxg6 *

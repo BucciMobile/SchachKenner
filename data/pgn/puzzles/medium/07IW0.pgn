@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07IW0"]
+[Difficulty "medium"]
+[Rating "1264"]
+[Themes "master mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/7TdEuERR/black#24"]
+[Solution "e6f5 g2g4"]
+[SolutionSAN "Kf5 g4#"]
+[FEN "r1bq1b1r/ppp2Q1p/2n1kn2/4N3/3Pp3/8/PPP2PPP/R1B1K2R b KQ - 3 12"]
+[SetUp "1"]
+
+12... Kf5 13. g4# *

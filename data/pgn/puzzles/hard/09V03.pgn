@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09V03"]
+[Difficulty "hard"]
+[Rating "2104"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/TWCsFgqG/black#64"]
+[Solution "g7d4 c5f5 b3b1 f1e2"]
+[SolutionSAN "Bxd4 Rxf5 Rb1+ Ke2"]
+[FEN "8/R4pbk/4p1pp/p1R2r2/P2P4/1r3N1P/5PP1/5K2 b - - 3 32"]
+[SetUp "1"]
+
+32... Bxd4 33. Rxf5 Rb1+ 34. Ke2 *

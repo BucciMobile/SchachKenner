@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "057XH"]
+[Difficulty "easy"]
+[Rating "699"]
+[Themes "kingsideAttack mate mateIn2 middlegame operaMate short"]
+[GameUrl "https://lichess.org/game/ZdaGGXez#39"]
+[Solution "a3c1 c8c1 f2f1 c1f1"]
+[SolutionSAN "Bxc1 Rxc1+ Rf1 Rxf1#"]
+[FEN "2r1k2r/pp3p1p/4pQp1/1b1pPn2/3P1P2/B7/P4RPP/RNq3K1 w k - 8 20"]
+[SetUp "1"]
+
+20. Bxc1 Rxc1+ 21. Rf1 Rxf1# *

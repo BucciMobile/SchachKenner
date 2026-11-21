@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C7LE"]
+[Difficulty "hard"]
+[Rating "1840"]
+[Themes "advantage fork master middlegame short"]
+[GameUrl "https://lichess.org/game/2wLI7LLf/black#72"]
+[Solution "d5e3 c4b6 d7c7 b6c8"]
+[SolutionSAN "Nxe3 Nxb6 Qc7 Nxc8"]
+[FEN "2r3k1/3qn1p1/1p2pp1p/pP1n4/P1NP3P/4NQP1/5P2/3R2K1 b - - 2 36"]
+[SetUp "1"]
+
+36... Nxe3 37. Nxb6 Qc7 38. Nxc8 *

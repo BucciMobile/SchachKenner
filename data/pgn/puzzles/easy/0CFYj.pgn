@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CFYj"]
+[Difficulty "easy"]
+[Rating "929"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/wWsJfSyE#57"]
+[Solution "f7g7 c8c1 g1h2 c1h1"]
+[SolutionSAN "Qxg7 Rc1+ Kh2 Rh1#"]
+[FEN "1kr5/1p3Qpp/p7/3p3P/3Nb3/1P2P1P1/P4P2/6K1 w - - 3 29"]
+[SetUp "1"]
+
+29. Qxg7 Rc1+ 30. Kh2 Rh1# *

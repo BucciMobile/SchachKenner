@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0220F"]
+[Difficulty "hard"]
+[Rating "2229"]
+[Themes "crushing fork long middlegame pin"]
+[GameUrl "https://lichess.org/game/cffy1N6q#49"]
+[Solution "a1e1 g5h4 h2h3 h4f2 g1h1 f2e1"]
+[SolutionSAN "Re1 Qh4 h3 Qf2+ Kh1 Qxe1"]
+[FEN "1rb3k1/pp4p1/3Qp2p/1N1pP1q1/3P2n1/P7/1P4PP/R4BK1 w - - 4 25"]
+[SetUp "1"]
+
+25. Re1 Qh4 26. h3 Qf2+ 27. Kh1 Qxe1 *

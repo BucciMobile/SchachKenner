@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02DqO"]
+[Difficulty "medium"]
+[Rating "1594"]
+[Themes "advancedPawn crushing endgame promotion short"]
+[GameUrl "https://lichess.org/game/rc2kJpkW#101"]
+[Solution "h4g4 f3g2 g4f3 g2g1q"]
+[SolutionSAN "Kxg4 fxg2 Kf3 g1=Q"]
+[FEN "8/4k3/8/7R/6pK/5p2/P3n1P1/8 w - - 0 51"]
+[SetUp "1"]
+
+51. Kxg4 fxg2 52. Kf3 g1=Q *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AhGJ"]
+[Difficulty "easy"]
+[Rating "434"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/6dhDwGlr#43"]
+[Solution "d6d7 e3e1 d7d1 e1d1"]
+[SolutionSAN "Rxd7 Re1+ Rd1 Rxd1#"]
+[FEN "1r4k1/1p1b2np/p2R2p1/4p1P1/4P3/4r3/PPP5/1K3B1R w - - 0 22"]
+[SetUp "1"]
+
+22. Rxd7 Re1+ 23. Rd1 Rxd1# *

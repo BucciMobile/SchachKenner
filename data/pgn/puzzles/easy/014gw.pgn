@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "014gw"]
+[Difficulty "easy"]
+[Rating "1075"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/6ZOSpfpG/black#18"]
+[Solution "h5d1 c4f7"]
+[SolutionSAN "Bxd1 Bxf7#"]
+[FEN "r2qkb1r/1p2pppp/p2p1n2/2p1N2b/P1B1P3/3P3P/1PPN1PP1/R1BQ1RK1 b kq - 0 9"]
+[SetUp "1"]
+
+9... Bxd1 10. Bxf7# *

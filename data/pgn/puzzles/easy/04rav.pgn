@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04rav"]
+[Difficulty "easy"]
+[Rating "1030"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/N6rjpToG#79"]
+[Solution "h7f7 c8d6 e4d5 d6f7"]
+[SolutionSAN "Rf7 Nd6+ Kd5 Nxf7"]
+[FEN "1kn5/7R/r4p2/1p6/3BK3/5P2/6PP/8 w - - 0 40"]
+[SetUp "1"]
+
+40. Rf7 Nd6+ 41. Kd5 Nxf7 *

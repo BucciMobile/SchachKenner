@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03KcV"]
+[Difficulty "medium"]
+[Rating "1581"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/bX34wOvd#51"]
+[Solution "e1e3 d6f4 c1f1 f4e3"]
+[SolutionSAN "Re3 Bf4 Qf1 Bxe3"]
+[FEN "3r1rk1/2q2pp1/p2b1n1p/1p6/1P6/P1p2N1P/B1P2PP1/R1Q1R1K1 w - - 1 26"]
+[SetUp "1"]
+
+26. Re3 Bf4 27. Qf1 Bxe3 *

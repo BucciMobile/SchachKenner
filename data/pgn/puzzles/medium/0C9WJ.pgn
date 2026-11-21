@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C9WJ"]
+[Difficulty "medium"]
+[Rating "1448"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/EntzkYSX#53"]
+[Solution "e2d3 g2e4"]
+[SolutionSAN "Kxd3 Qe4#"]
+[FEN "r5k1/p4ppp/8/2p2R2/N1Pp3r/1P1n4/P2BK1q1/R2Q4 w - - 0 27"]
+[SetUp "1"]
+
+27. Kxd3 Qe4# *

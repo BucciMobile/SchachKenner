@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04eNS"]
+[Difficulty "medium"]
+[Rating "1566"]
+[Themes "crushing hangingPiece opening short"]
+[GameUrl "https://lichess.org/game/rLpNf2a2/black#28"]
+[Solution "f6g4 d4g7 d8g5 g7g5"]
+[SolutionSAN "Nxg4 Qxg7 Qxg5 Qxg5"]
+[FEN "r1bqk2r/pp1p1pb1/4pn2/6B1/3Q2N1/6Pp/PPP2P2/RN3RK1 b kq - 0 14"]
+[SetUp "1"]
+
+14... Nxg4 15. Qxg7 Qxg5 16. Qxg5 *

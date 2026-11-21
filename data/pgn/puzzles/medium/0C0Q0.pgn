@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C0Q0"]
+[Difficulty "medium"]
+[Rating "1357"]
+[Themes "endgame mate mateIn1 oneMove pin"]
+[GameUrl "https://lichess.org/game/HeQBDvm9/black#58"]
+[Solution "c5d4 h3h6"]
+[SolutionSAN "cxd4 Qxh6#"]
+[FEN "6r1/pb3Rpk/1p2p2p/2pqP3/3P4/2P4Q/P2B2PP/6K1 b - - 2 29"]
+[SetUp "1"]
+
+29... cxd4 30. Qxh6# *

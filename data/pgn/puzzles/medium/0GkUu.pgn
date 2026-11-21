@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GkUu"]
+[Difficulty "medium"]
+[Rating "1550"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/uQfdhk9q/black#94"]
+[Solution "f4g4 f1f3"]
+[SolutionSAN "Kxg4 Qf3#"]
+[FEN "8/8/5p2/2p1q1p1/2P1PkPp/3p4/2r3BP/5Q1K b - - 1 47"]
+[SetUp "1"]
+
+47... Kxg4 48. Qf3# *

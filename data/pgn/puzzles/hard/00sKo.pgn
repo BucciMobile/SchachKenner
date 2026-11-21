@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00sKo"]
+[Difficulty "hard"]
+[Rating "1708"]
+[Themes "advantage attraction long middlegame pin sacrifice"]
+[GameUrl "https://lichess.org/game/EGRQ04CN#47"]
+[Solution "b7a7 a6f1 g1f1 f5g3 f1e1 g3e4"]
+[SolutionSAN "Rxa7 Qxf1+ Kxf1 Ng3+ Ke1 Nxe4"]
+[FEN "5rk1/pR4bp/q2p4/3Ppn1p/4Q3/4B2P/5PP1/5RK1 w - - 1 24"]
+[SetUp "1"]
+
+24. Rxa7 Qxf1+ 25. Kxf1 Ng3+ 26. Ke1 Nxe4 *

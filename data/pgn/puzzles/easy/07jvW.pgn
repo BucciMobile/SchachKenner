@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07jvW"]
+[Difficulty "easy"]
+[Rating "973"]
+[Themes "advantage deflection endgame short"]
+[GameUrl "https://lichess.org/game/kNlt4Bek/black#62"]
+[Solution "g8d8 b3e6 c8b8 d2d8"]
+[SolutionSAN "Rd8 Be6+ Kb8 Rxd8+"]
+[FEN "2k3r1/1pp1p3/p4p2/5P2/8/1B6/PP1RKP2/1r6 b - - 3 31"]
+[SetUp "1"]
+
+31... Rd8 32. Be6+ Kb8 33. Rxd8+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03N75"]
+[Difficulty "medium"]
+[Rating "1247"]
+[Themes "advancedPawn backRankMate endgame mate mateIn2 promotion short"]
+[GameUrl "https://lichess.org/game/aM58pb9L/black#62"]
+[Solution "e5c4 d6b8 a8b8 a7b8q"]
+[SolutionSAN "Nc4 Qb8+ Rxb8 axb8=Q#"]
+[FEN "r5k1/P4ppp/3Qp3/r2pn3/8/7P/5PP1/6K1 b - - 2 31"]
+[SetUp "1"]
+
+31... Nc4 32. Qb8+ Rxb8 33. axb8=Q# *

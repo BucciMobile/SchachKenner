@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DakS"]
+[Difficulty "hard"]
+[Rating "1845"]
+[Themes "crushing hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/uxxRLAgd#37"]
+[Solution "e6f8 h4g3 d1g4 f5g4"]
+[SolutionSAN "Nxf8 Qxg3 Qxg4 fxg4"]
+[FEN "2r1nrk1/1p4pp/p3N3/3p1p2/6nq/PP1P2NP/B1P2bP1/R1BQ1R1K w - - 1 19"]
+[SetUp "1"]
+
+19. Nxf8 Qxg3 20. Qxg4 fxg4 *

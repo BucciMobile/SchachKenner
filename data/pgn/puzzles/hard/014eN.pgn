@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "014eN"]
+[Difficulty "hard"]
+[Rating "2092"]
+[Themes "advantage kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/i2SoBtXC#37"]
+[Solution "f3h2 h6h2 g1f1 g4e3 f2e3 a8f8"]
+[SolutionSAN "Nxh2 Qxh2+ Kf1 Nxe3+ fxe3 Rf8+"]
+[FEN "r5k1/1pp3pp/2np3q/p3p3/6n1/1P2PNN1/PBP2PBr/R2Q2K1 w - - 4 19"]
+[SetUp "1"]
+
+19. Nxh2 Qxh2+ 20. Kf1 Nxe3+ 21. fxe3 Rf8+ *

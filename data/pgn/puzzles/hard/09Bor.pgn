@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Bor"]
+[Difficulty "hard"]
+[Rating "1770"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/waImTh7B#133"]
+[Solution "f2e3 d2e2 e3e2 g5f4"]
+[SolutionSAN "Ke3 Rxe2+ Kxe2 gxf4"]
+[FEN "8/6k1/8/3p2pp/4pR1P/6P1/3rBK2/8 w - - 0 67"]
+[SetUp "1"]
+
+67. Ke3 Rxe2+ 68. Kxe2 gxf4 *

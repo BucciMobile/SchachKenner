@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00qHr"]
+[Difficulty "easy"]
+[Rating "841"]
+[Themes "advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/AFnU6OzI#71"]
+[Solution "d3d6 h6f5 g3f3 f5d6"]
+[SolutionSAN "Rd6 Nf5+ Kf3 Nxd6"]
+[FEN "8/5p2/p3pkpn/N7/P4P2/3RP1K1/r4P1P/8 w - - 1 36"]
+[SetUp "1"]
+
+36. Rd6 Nf5+ 37. Kf3 Nxd6 *

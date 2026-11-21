@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06SFs"]
+[Difficulty "hard"]
+[Rating "2262"]
+[Themes "crushing endgame long master pawnEndgame"]
+[GameUrl "https://lichess.org/game/htHsCKeF#93"]
+[Solution "f3f4 e5f4 g3f4 g7g5 e4e5 d6e6"]
+[SolutionSAN "f4 exf4 gxf4 g5 e5+ Ke6"]
+[FEN "8/6p1/2pk1p2/p3p2p/P1K1P2P/2P2PP1/8/8 w - - 0 47"]
+[SetUp "1"]
+
+47. f4 exf4 48. gxf4 g5 49. e5+ Ke6 *

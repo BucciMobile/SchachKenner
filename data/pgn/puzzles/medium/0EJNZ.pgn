@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EJNZ"]
+[Difficulty "medium"]
+[Rating "1269"]
+[Themes "crushing fork opening short"]
+[GameUrl "https://lichess.org/game/wEoEzgcE/black#18"]
+[Solution "e8g8 d1b3 g8h8 b3b4"]
+[SolutionSAN "O-O Qb3+ Kh8 Qxb4"]
+[FEN "r1bqk2r/ppp1n1pp/2p2p2/8/1b1PP3/2N2N2/PP3PPP/R1BQ1RK1 b kq - 4 9"]
+[SetUp "1"]
+
+9... O-O 10. Qb3+ Kh8 11. Qxb4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08qzN"]
+[Difficulty "easy"]
+[Rating "1022"]
+[Themes "advantage endgame fork long"]
+[GameUrl "https://lichess.org/game/RdaUN6GK/black#96"]
+[Solution "b6a5 b3b4 a5a6 d5c7 a6b7 c7e8"]
+[SolutionSAN "Ka5 b4+ Ka6 Nc7+ Kb7 Nxe8"]
+[FEN "4r3/7p/1k4p1/1ppN2n1/p3p3/1PP1R3/P3K3/8 b - - 1 48"]
+[SetUp "1"]
+
+48... Ka5 49. b4+ Ka6 50. Nc7+ Kb7 51. Nxe8 *

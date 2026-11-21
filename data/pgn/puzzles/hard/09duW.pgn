@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09duW"]
+[Difficulty "hard"]
+[Rating "2552"]
+[Themes "advancedPawn clearance crushing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/FZmH2hIX/black#36"]
+[Solution "d8d5 h5f7 g8g7 g5g6 h7h8 f7e8 g7g8 g6g7 f5g7 e8g6 d5e4 g6e4"]
+[SolutionSAN "Qd5 Qxf7+ Rg7 g6+ Kh8 Qe8+ Rg8 g7+ Nxg7 Qg6 Qe4 Qxe4"]
+[FEN "r1bq2r1/ppp2p1k/4p2p/4PnPQ/3P3P/2P5/P4P2/2KR2R1 b - - 4 18"]
+[SetUp "1"]
+
+18... Qd5 19. Qxf7+ Rg7 20. g6+ Kh8 21. Qe8+ Rg8 22. g7+ Nxg7 23. Qg6 Qe4 24. Qxe4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EUwP"]
+[Difficulty "medium"]
+[Rating "1380"]
+[Themes "endgame exposedKing long mate mateIn3 rookEndgame"]
+[GameUrl "https://lichess.org/game/rqsjn1jy#111"]
+[Solution "a2a3 c3b3 a5c5 h2h1 c5c1 h1c1"]
+[SolutionSAN "a3 Kb3 Rc5 Rh1+ Rc1 Rxc1#"]
+[FEN "8/8/8/R7/1P1P4/2k5/P6r/K7 w - - 0 56"]
+[SetUp "1"]
+
+56. a3 Kb3 57. Rc5 Rh1+ 58. Rc1 Rxc1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ir0"]
+[Difficulty "hard"]
+[Rating "2032"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/TzUde6Dt#61"]
+[Solution "h4f5 c4b2 d1f1 b2d3 f1f2 d3f2"]
+[SolutionSAN "Nf5 Nxb2 Rf1 Nxd3 Rxf2 Nxf2"]
+[FEN "7k/7p/p7/1p2P3/2nP2rN/2PB2P1/PP3r2/1K1R4 w - - 0 31"]
+[SetUp "1"]
+
+31. Nf5 Nxb2 32. Rf1 Nxd3 33. Rxf2 Nxf2 *

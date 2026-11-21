@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03XAy"]
+[Difficulty "easy"]
+[Rating "832"]
+[Themes "endgame epauletteMate mate mateIn1 oneMove operaMate"]
+[GameUrl "https://lichess.org/game/5nPCHAFF/black#70"]
+[Solution "e7b4 c7f7"]
+[SolutionSAN "Bxb4 Rf7#"]
+[FEN "4B3/2R1b2p/4pkp1/5p2/1P3P2/r7/6PP/5K2 b - - 2 35"]
+[SetUp "1"]
+
+35... Bxb4 36. Rf7# *

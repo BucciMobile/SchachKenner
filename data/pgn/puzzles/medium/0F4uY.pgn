@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F4uY"]
+[Difficulty "medium"]
+[Rating "1410"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/F07qbYQf#31"]
+[Solution "e4d5 e7c5 f4f2 c5c3"]
+[SolutionSAN "exd5 Qc5+ Qf2 Qxc3"]
+[FEN "1rb2rk1/p3qppp/2p5/3pn3/4PQ2/1PN5/P1P1B1PP/R4RK1 w - - 0 16"]
+[SetUp "1"]
+
+16. exd5 Qc5+ 17. Qf2 Qxc3 *

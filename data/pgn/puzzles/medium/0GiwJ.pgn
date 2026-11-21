@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GiwJ"]
+[Difficulty "medium"]
+[Rating "1467"]
+[Themes "advantage intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/ZyqEJ8Q0#33"]
+[Solution "c4d6 b5d3 e2d3 e4d6"]
+[SolutionSAN "Nxd6 Bxd3 Qxd3 Nxd6"]
+[FEN "2r2rk1/pp2n1pp/3ppq2/1b3p2/2NPn3/3BPN2/PP2QPPP/R2R2K1 w - - 3 17"]
+[SetUp "1"]
+
+17. Nxd6 Bxd3 18. Qxd3 Nxd6 *

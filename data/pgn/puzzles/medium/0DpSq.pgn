@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DpSq"]
+[Difficulty "medium"]
+[Rating "1486"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/8EuZCNHv/black#80"]
+[Solution "c4a4 f5c8"]
+[SolutionSAN "Ra4 Qc8#"]
+[FEN "4k3/4r3/1pp5/3p1Q2/2r5/P5P1/4q3/1K3R2 b - - 7 40"]
+[SetUp "1"]
+
+40... Ra4 41. Qc8# *

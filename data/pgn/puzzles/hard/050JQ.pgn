@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "050JQ"]
+[Difficulty "hard"]
+[Rating "2017"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/0tRXW7IZ/black#36"]
+[Solution "f5e3 c1e3 d4e3 d1d3 g7g6 d3e3"]
+[SolutionSAN "Ne3 Bxe3 Bxe3 Qd3 g6 Qxe3"]
+[FEN "r2q1rk1/5ppp/p3p3/3p1n2/3b1P2/8/PPB3PP/R1BQ1R1K b - - 1 18"]
+[SetUp "1"]
+
+18... Ne3 19. Bxe3 Bxe3 20. Qd3 g6 21. Qxe3 *

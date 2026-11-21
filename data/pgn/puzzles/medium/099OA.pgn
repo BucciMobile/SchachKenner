@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "099OA"]
+[Difficulty "medium"]
+[Rating "1373"]
+[Themes "advantage deflection endgame long sacrifice"]
+[GameUrl "https://lichess.org/game/GvIuDDnl#45"]
+[Solution "d3d4 e3e1 c3e1 e8e1 d1e1 f4d4"]
+[SolutionSAN "Qd4 Re1+ Bxe1 Rxe1+ Rxe1 Qxd4+"]
+[FEN "4r1k1/p4ppp/8/3P4/P4q2/2BQr2P/1PP3P1/3R2K1 w - - 1 23"]
+[SetUp "1"]
+
+23. Qd4 Re1+ 24. Bxe1 Rxe1+ 25. Rxe1 Qxd4+ *

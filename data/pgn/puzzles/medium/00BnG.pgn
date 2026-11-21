@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00BnG"]
+[Difficulty "medium"]
+[Rating "1426"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/ilH2rBRb#65"]
+[Solution "d4d5 d7e7 e8e7 g6e7"]
+[SolutionSAN "d5 Re7+ Qxe7+ Nxe7"]
+[FEN "4Q3/ppkr1pp1/2p3n1/2P4p/1P1P4/4K3/P5P1/8 w - - 2 33"]
+[SetUp "1"]
+
+33. d5 Re7+ 34. Qxe7+ Nxe7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01u7X"]
+[Difficulty "medium"]
+[Rating "1512"]
+[Themes "advantage interference middlegame short"]
+[GameUrl "https://lichess.org/game/O32ftR2e#59"]
+[Solution "h2h1 d8d2 e2b5 d2c2"]
+[SolutionSAN "Kh1 Rd2 Qxb5 Rxc2"]
+[FEN "3r2k1/4qp2/4r1pp/1p6/pP5P/4bRP1/P1B1Q1PK/5R2 w - - 1 30"]
+[SetUp "1"]
+
+30. Kh1 Rd2 31. Qxb5 Rxc2 *

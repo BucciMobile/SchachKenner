@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03MDl"]
+[Difficulty "hard"]
+[Rating "1769"]
+[Themes "attraction crushing deflection endgame veryLong"]
+[GameUrl "https://lichess.org/game/gVZpRZ4H/black#64"]
+[Solution "f8f5 f1f5 e6f5 c7g7 g6f6 g7f7 f6f7 d3f5"]
+[SolutionSAN "Rf5 Rxf5 Qxf5 Rxg7+ Kf6 Rf7+ Kxf7 Qxf5+"]
+[FEN "4rr2/ppR3p1/3pq1k1/4p1p1/8/1P1Q3P/P6P/5R1K b - - 9 32"]
+[SetUp "1"]
+
+32... Rf5 33. Rxf5 Qxf5 34. Rxg7+ Kf6 35. Rf7+ Kxf7 36. Qxf5+ *

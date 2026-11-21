@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02MgK"]
+[Difficulty "easy"]
+[Rating "698"]
+[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/gyDXOBbe/black#78"]
+[Solution "g8h8 e6c8"]
+[SolutionSAN "Kh8 Qxc8#"]
+[FEN "2r3k1/q5pp/4Qp2/8/1Ppb4/5PPP/7K/4BB2 b - - 0 39"]
+[SetUp "1"]
+
+39... Kh8 40. Qxc8# *

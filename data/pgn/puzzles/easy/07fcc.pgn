@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07fcc"]
+[Difficulty "easy"]
+[Rating "672"]
+[Themes "fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/IPnbIEMp#53"]
+[Solution "c3d1 d8d1 e2e1 d1e1"]
+[SolutionSAN "Nxd1 Rxd1+ Re1 Rxe1#"]
+[FEN "1q1r2k1/1b3ppp/pp2p3/2b5/2P2PQ1/1PN5/PB2R1PP/1B1r3K w - - 1 27"]
+[SetUp "1"]
+
+27. Nxd1 Rxd1+ 28. Re1 Rxe1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07FLH"]
+[Difficulty "easy"]
+[Rating "566"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/XgL9g9TV#27"]
+[Solution "c3d5 f6b2"]
+[SolutionSAN "Nxd5 Qxb2#"]
+[FEN "r3k2r/1ppnnpbp/p2p1qp1/3p4/4PP2/2N1B2P/PPPQBP2/2KR3R w kq - 0 14"]
+[SetUp "1"]
+
+14. Nxd5 Qxb2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AN5p"]
+[Difficulty "easy"]
+[Rating "1146"]
+[Themes "crushing defensiveMove endgame fork short"]
+[GameUrl "https://lichess.org/game/akCLJjG6/black#98"]
+[Solution "d5d4 b4c5 d4f4 c5b6"]
+[SolutionSAN "Rd4+ Kc5 Rxf4 Kxb6"]
+[FEN "7k/7p/1n4p1/1P1rN3/1K3P2/8/8/1R6 b - - 4 49"]
+[SetUp "1"]
+
+49... Rd4+ 50. Kc5 Rxf4 51. Kxb6 *

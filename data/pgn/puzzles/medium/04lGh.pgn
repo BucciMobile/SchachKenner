@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04lGh"]
+[Difficulty "medium"]
+[Rating "1693"]
+[Themes "attraction crushing endgame short"]
+[GameUrl "https://lichess.org/game/nOzShUfp#41"]
+[Solution "h1e1 e6e1 d1e1 g5e5"]
+[SolutionSAN "Re1 Rxe1+ Kxe1 Qe5+"]
+[FEN "r5k1/1pp2pp1/1p2r2p/6q1/1P6/P2P1Q1P/2P2PP1/R2K3R w - - 3 21"]
+[SetUp "1"]
+
+21. Re1 Rxe1+ 22. Kxe1 Qe5+ *

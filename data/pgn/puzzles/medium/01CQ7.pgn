@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01CQ7"]
+[Difficulty "medium"]
+[Rating "1538"]
+[Themes "attraction mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/yu8CZvqe#41"]
+[Solution "d2e3 f1e1 d1e1 f8f1"]
+[SolutionSAN "Be3 Rxe1+ Kxe1 Rf1#"]
+[FEN "1n3r1k/p5pp/8/7Q/4P3/2NP4/PPPB2qP/R2KRr2 w - - 3 21"]
+[SetUp "1"]
+
+21. Be3 Rxe1+ 22. Kxe1 Rf1# *

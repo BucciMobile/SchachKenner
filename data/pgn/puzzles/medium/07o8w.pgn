@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07o8w"]
+[Difficulty "medium"]
+[Rating "1660"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/SzSlSzQM#29"]
+[Solution "d1g4 h4g4 h3g4 g3h1"]
+[SolutionSAN "Qg4 Qxg4 hxg4 Nxh1"]
+[FEN "5rk1/ppp3pp/2np4/4p3/7q/2PP2nP/PP4PK/RNBQ3R w - - 4 15"]
+[SetUp "1"]
+
+15. Qg4 Qxg4 16. hxg4 Nxh1 *

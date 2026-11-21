@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "047Tg"]
+[Difficulty "hard"]
+[Rating "1762"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/KsmmudGP/black#30"]
+[Solution "e8g8 d4d5 b4c3 d5e6"]
+[SolutionSAN "O-O d5 Bxc3 dxe6"]
+[FEN "r3k2r/pp1n1pp1/4b2p/q7/1bpP3B/2N5/PPB3PP/R2Q1RK1 b kq - 0 15"]
+[SetUp "1"]
+
+15... O-O 16. d5 Bxc3 17. dxe6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02HYo"]
+[Difficulty "medium"]
+[Rating "1586"]
+[Themes "crushing intermezzo long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/rqqEGw1Q#39"]
+[Solution "e2d4 c6d4 c1c8 d4e2 g1h1 d8c8"]
+[SolutionSAN "Nd4 Nxd4 Rxc8 Ne2+ Kh1 Rxc8"]
+[FEN "2rr2k1/pp3ppp/2n5/3p4/QP6/P3P3/1q2NPPP/2R2RK1 w - - 1 20"]
+[SetUp "1"]
+
+20. Nd4 Nxd4 21. Rxc8 Ne2+ 22. Kh1 Rxc8 *

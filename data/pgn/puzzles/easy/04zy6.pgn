@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04zy6"]
+[Difficulty "easy"]
+[Rating "1043"]
+[Themes "mate mateIn2 middlegame morphysMate short"]
+[GameUrl "https://lichess.org/game/Vevcuw4Q/black#22"]
+[Solution "d8e7 c3b4 c6c5 b4c5"]
+[SolutionSAN "Ke7 Bb4+ c5 Bxc5#"]
+[FEN "r1bkr3/pp3pbp/2p1pnp1/8/2B1P3/2B5/PPP2PPP/RN1R2K1 b - - 3 11"]
+[SetUp "1"]
+
+11... Ke7 12. Bb4+ c5 13. Bxc5# *

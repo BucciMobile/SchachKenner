@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07clM"]
+[Difficulty "hard"]
+[Rating "1979"]
+[Themes "crushing exposedKing intermezzo long master middlegame"]
+[GameUrl "https://lichess.org/game/eOsCQ0hJ/black#70"]
+[Solution "e8e4 f3f8 h8h7 e3e4 g4e4 e2e4"]
+[SolutionSAN "Rxe4 Rf8+ Kh7 Qxe4+ Qxe4+ Rxe4"]
+[FEN "4r2k/pp4r1/8/8/4P1qb/4QR1p/PP2R3/5B1K b - - 5 35"]
+[SetUp "1"]
+
+35... Rxe4 36. Rf8+ Kh7 37. Qxe4+ Qxe4+ 38. Rxe4 *

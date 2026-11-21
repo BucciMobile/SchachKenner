@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02ljf"]
+[Difficulty "medium"]
+[Rating "1578"]
+[Themes "discoveredAttack mate mateIn2 middlegame queensideAttack sacrifice short"]
+[GameUrl "https://lichess.org/game/qiuRZ1vy/black#32"]
+[Solution "d6e5 e4d6 c7d6 f3b7"]
+[SolutionSAN "dxe5 Nd6+ cxd6 Qxb7#"]
+[FEN "2kr2n1/pppnqp2/3p2p1/4P2r/3BNP1p/3P1Q1P/P1P3B1/R5K1 b - - 2 16"]
+[SetUp "1"]
+
+16... dxe5 17. Nd6+ cxd6 18. Qxb7# *

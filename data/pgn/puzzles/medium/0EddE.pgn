@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EddE"]
+[Difficulty "medium"]
+[Rating "1698"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/EcrZxkYt#87"]
+[Solution "g4g3 d4f5 g3f3 e4f4"]
+[SolutionSAN "Kg3 Nf5+ Kf3 Rf4+"]
+[FEN "6k1/4R3/8/1p2p1PB/p2nr1KP/P7/1P6/8 w - - 0 44"]
+[SetUp "1"]
+
+44. Kg3 Nf5+ 45. Kf3 Rf4+ *

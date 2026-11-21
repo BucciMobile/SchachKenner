@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08B2y"]
+[Difficulty "easy"]
+[Rating "705"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/LZaSmMqj#89"]
+[Solution "a6c5 c4e3 c2d3 e3g2"]
+[SolutionSAN "Nc5 Ne3+ Kd3 Nxg2"]
+[FEN "8/6k1/N7/4p1p1/2n4p/8/1PK3B1/8 w - - 0 45"]
+[SetUp "1"]
+
+45. Nc5 Ne3+ 46. Kd3 Nxg2 *

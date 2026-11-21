@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07CBm"]
+[Difficulty "medium"]
+[Rating "1550"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/mbHxzfgQ#29"]
+[Solution "d5d6 a7d7 d6d7 b8d7"]
+[SolutionSAN "Qxd6 Rd7 Qxd7 Nxd7"]
+[FEN "1n1q1rk1/r4ppp/p2p4/1p1Qp1b1/4P3/1N6/PPP2PPP/1K1R1B1R w - - 1 15"]
+[SetUp "1"]
+
+15. Qxd6 Rd7 16. Qxd7 Nxd7 *

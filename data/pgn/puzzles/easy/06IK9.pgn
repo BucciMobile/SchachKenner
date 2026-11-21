@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06IK9"]
+[Difficulty "easy"]
+[Rating "978"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/Lpxd4tTO#75"]
+[Solution "g4g5 f6f5 f4g3 f5f3 g3g2 f3e3"]
+[SolutionSAN "g5 Rxf5+ Kg3 Rf3+ Kg2 Rxe3"]
+[FEN "8/3k4/p1p2rp1/2Pp1P1p/PP2pKPP/4P3/8/6R1 w - - 0 38"]
+[SetUp "1"]
+
+38. g5 Rxf5+ 39. Kg3 Rf3+ 40. Kg2 Rxe3 *

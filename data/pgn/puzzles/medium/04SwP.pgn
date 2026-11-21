@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04SwP"]
+[Difficulty "medium"]
+[Rating "1330"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/SzqbXDAS#77"]
+[Solution "g5h3 f5g4"]
+[SolutionSAN "Nxh3 Bg4#"]
+[FEN "6k1/pp6/8/5bN1/1pP2P2/1P5p/Pr1p4/R2K3R w - - 1 39"]
+[SetUp "1"]
+
+39. Nxh3 Bg4# *

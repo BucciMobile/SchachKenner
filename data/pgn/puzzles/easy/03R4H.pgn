@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03R4H"]
+[Difficulty "easy"]
+[Rating "900"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/XTdibgnH/black#44"]
+[Solution "c2d2 b6d8 f6d8 e1e8"]
+[SolutionSAN "Qd2 Qxd8+ Bxd8 Re8#"]
+[FEN "3r2k1/5ppp/1Q1B1b2/1p6/2p5/8/1Pq2PPP/4R1K1 b - - 1 22"]
+[SetUp "1"]
+
+22... Qd2 23. Qxd8+ Bxd8 24. Re8# *

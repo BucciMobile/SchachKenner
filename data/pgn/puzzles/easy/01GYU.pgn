@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01GYU"]
+[Difficulty "easy"]
+[Rating "831"]
+[Themes "middlegame"]
+[GameUrl "https://lichess.org/game/3qIfu9yd#31"]
+[Solution "e3f4 e5e1 d1e1 e7e1 a1e1 d6f4"]
+[SolutionSAN "Bf4 Rxe1+ Qxe1 Qxe1+ Rxe1 Bxf4"]
+[FEN "r5k1/p2nqppp/1p1b1n2/2p1r3/8/1BNPB2P/PPP2PP1/R2QR1K1 w - - 2 16"]
+[SetUp "1"]
+
+16. Bf4 Rxe1+ 17. Qxe1 Qxe1+ 18. Rxe1 Bxf4 *

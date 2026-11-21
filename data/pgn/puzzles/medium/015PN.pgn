@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "015PN"]
+[Difficulty "medium"]
+[Rating "1585"]
+[Themes "crushing long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/VelBInft/black#36"]
+[Solution "g2e2 h5g6 e2d2 c2b3 d2h2 h6h2"]
+[SolutionSAN "Qxe2 hxg6 Qxd2+ Kb3 Qh2 Qxh2"]
+[FEN "r1b2rk1/ppp2p2/4p1pQ/3pP2P/3Pn3/2P1P3/PPKNB1q1/R7 b - - 3 18"]
+[SetUp "1"]
+
+18... Qxe2 19. hxg6 Qxd2+ 20. Kb3 Qh2 21. Qxh2 *

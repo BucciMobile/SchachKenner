@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BmT9"]
+[Difficulty "medium"]
+[Rating "1444"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/QMfHhCQW#71"]
+[Solution "a1b1 b2b1 c2b1 d4d1"]
+[SolutionSAN "Rb1 Qxb1+ Bxb1 Rd1#"]
+[FEN "7r/5k1p/p4n2/6R1/3r4/P6Q/1qB2PPP/R5K1 w - - 1 36"]
+[SetUp "1"]
+
+36. Rb1 Qxb1+ 37. Bxb1 Rd1# *

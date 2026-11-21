@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09J5k"]
+[Difficulty "easy"]
+[Rating "1066"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/s0z7xWym#31"]
+[Solution "e2e3 d4b3"]
+[SolutionSAN "e3 Nb3#"]
+[FEN "2rr4/pp1pkpp1/6qp/4p3/2Pn4/P7/1P1QPPPP/2KR1B1R w - - 1 16"]
+[SetUp "1"]
+
+16. e3 Nb3# *

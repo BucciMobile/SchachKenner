@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "016Ym"]
+[Difficulty "easy"]
+[Rating "1080"]
+[Themes "advantage endgame long skewer"]
+[GameUrl "https://lichess.org/game/QmlasXVy/black#64"]
+[Solution "d5a2 f3a8 c8c7 a8h8 a2d5 h1g1"]
+[SolutionSAN "Qxa2 Qa8+ Kc7 Qxh8 Qd5+ Kg1"]
+[FEN "2k4r/p2p4/8/1ppq1p2/5P2/3P1Q2/PP5P/5R1K b - - 1 32"]
+[SetUp "1"]
+
+32... Qxa2 33. Qa8+ Kc7 34. Qxh8 Qd5+ 35. Kg1 *

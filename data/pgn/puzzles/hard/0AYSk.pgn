@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AYSk"]
+[Difficulty "hard"]
+[Rating "1771"]
+[Themes "crushing endgame long pin"]
+[GameUrl "https://lichess.org/game/MIgyvMFo/black#64"]
+[Solution "f7f6 c5f8 f6e5 e3b3 d5b3 a2b3"]
+[SolutionSAN "f6 Bxf8 fxe5 Qb3 Qxb3 axb3"]
+[FEN "5rk1/1p1P1ppp/8/2BqN2b/8/4Q2P/P5PK/8 b - - 0 32"]
+[SetUp "1"]
+
+32... f6 33. Bxf8 fxe5 34. Qb3 Qxb3 35. axb3 *

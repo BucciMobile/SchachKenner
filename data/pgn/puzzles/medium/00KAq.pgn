@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00KAq"]
+[Difficulty "medium"]
+[Rating "1304"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/bqU1drSK#51"]
+[Solution "d6d4 f4g3 d4d7 e7d7 f3b7 d7e8"]
+[SolutionSAN "Rd4 fxg3 Rxd7+ Kxd7 Qb7+ Ke8"]
+[FEN "5rr1/3pk1q1/p2Rp3/1pP4p/1P3p2/2P2QP1/1P3P1P/5RK1 w - - 1 26"]
+[SetUp "1"]
+
+26. Rd4 fxg3 27. Rxd7+ Kxd7 28. Qb7+ Ke8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02uIX"]
+[Difficulty "hard"]
+[Rating "2129"]
+[Themes "crushing endgame master quietMove rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/XcgohB7X#67"]
+[Solution "a2a4 f4f3 g2g3 c8c1 h2h3 c1g1 g3h2 g1g2"]
+[SolutionSAN "a4 f3+ Kg3 Rc1 h3 Rg1+ Kh2 Rg2+"]
+[FEN "2r5/8/p7/3R2pk/1P3pp1/8/PP3PKP/8 w - - 0 34"]
+[SetUp "1"]
+
+34. a4 f3+ 35. Kg3 Rc1 36. h3 Rg1+ 37. Kh2 Rg2+ *

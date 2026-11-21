@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02W8D"]
+[Difficulty "medium"]
+[Rating "1316"]
+[Themes "crushing defensiveMove endgame hangingPiece master short"]
+[GameUrl "https://lichess.org/game/LcPfwK6u#155"]
+[Solution "h8h4 f2h4 c4b5 h4d8"]
+[SolutionSAN "Rxh4 Bxh4 Kb5 Bd8"]
+[FEN "7R/8/8/p7/PpK4p/1P6/5bk1/8 w - - 0 78"]
+[SetUp "1"]
+
+78. Rxh4 Bxh4 79. Kb5 Bd8 *

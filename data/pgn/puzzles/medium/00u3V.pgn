@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00u3V"]
+[Difficulty "medium"]
+[Rating "1631"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/IapycI42/black#40"]
+[Solution "f8c8 c1c8 a8c8 b3a4"]
+[SolutionSAN "Rfc8 Rxc8+ Rxc8 Bxa4"]
+[FEN "r4rk1/1p3pb1/1n2q1pp/p2p3n/b2Pp2B/NB2P3/1P3PPP/1NRQ1RK1 b - - 1 20"]
+[SetUp "1"]
+
+20... Rfc8 21. Rxc8+ Rxc8 22. Bxa4 *

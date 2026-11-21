@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BQWq"]
+[Difficulty "easy"]
+[Rating "644"]
+[Themes "endgame epauletteMate mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/W2atJqw3/black#100"]
+[Solution "d5b5 g8g4"]
+[SolutionSAN "Rb5 Rg4#"]
+[FEN "6R1/8/8/3rpn2/5k2/5P2/4K3/8 b - - 0 50"]
+[SetUp "1"]
+
+50... Rb5 51. Rg4# *

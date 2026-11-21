@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06xNO"]
+[Difficulty "hard"]
+[Rating "2760"]
+[Themes "crushing defensiveMove endgame veryLong"]
+[GameUrl "https://lichess.org/game/VbBanjAV/black#62"]
+[Solution "f8e7 e3f3 e7d7 f3f6 g7f6 g3f4 e8h8 h1g2 b8g8 g2f3"]
+[SolutionSAN "Ke7 Rf3 Kd7 Rxf6 gxf6 Qf4 Rh8+ Kg2 Rbg8+ Kf3"]
+[FEN "1r2rk2/pp4p1/4pq2/3p4/8/2P1R1Q1/PP3P2/5R1K b - - 4 31"]
+[SetUp "1"]
+
+31... Ke7 32. Rf3 Kd7 33. Rxf6 gxf6 34. Qf4 Rh8+ 35. Kg2 Rbg8+ 36. Kf3 *

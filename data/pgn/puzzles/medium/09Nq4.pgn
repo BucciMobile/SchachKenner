@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Nq4"]
+[Difficulty "medium"]
+[Rating "1623"]
+[Themes "crushing endgame knightEndgame master short"]
+[GameUrl "https://lichess.org/game/MntJ2eHV#99"]
+[Solution "b8a6 g3e4 c3d3 g4g3"]
+[SolutionSAN "Nxa6 Ne4+ Kd3 g3"]
+[FEN "1N6/5k2/p1p4p/Pp1pP2P/1P1P2p1/2K3n1/8/8 w - - 0 50"]
+[SetUp "1"]
+
+50. Nxa6 Ne4+ 51. Kd3 g3 *

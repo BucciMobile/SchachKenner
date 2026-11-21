@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C7i0"]
+[Difficulty "easy"]
+[Rating "1126"]
+[Themes "endgame mate mateIn2 operaMate sacrifice short"]
+[GameUrl "https://lichess.org/game/pCamFb44/black#76"]
+[Solution "b4b3 h3h6 g7h6 f7h7"]
+[SolutionSAN "b3 Rxh6+ Bxh6 Rh7#"]
+[FEN "r5rk/5Rb1/3p3p/3P1B2/pp6/7R/P5PP/6K1 b - - 0 38"]
+[SetUp "1"]
+
+38... b3 39. Rxh6+ Bxh6 40. Rh7# *

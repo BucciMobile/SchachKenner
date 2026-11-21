@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BCEU"]
+[Difficulty "medium"]
+[Rating "1578"]
+[Themes "advantage middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/cmBY3X0W/black#32"]
+[Solution "e8g8 a1e1 e2e1 f3e1"]
+[SolutionSAN "O-O Re1 Qxe1+ Nxe1"]
+[FEN "r3k2r/pppb1ppp/8/n2P4/2P2p2/2Q2N2/PP1Nq2P/R5KR b kq - 1 16"]
+[SetUp "1"]
+
+16... O-O 17. Re1 Qxe1+ 18. Nxe1 *

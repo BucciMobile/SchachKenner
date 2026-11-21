@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EqMq"]
+[Difficulty "hard"]
+[Rating "1959"]
+[Themes "crushing endgame quietMove rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/rOxP2OA4/black#96"]
+[Solution "b4a4 g7g8 e6e7 g8a8 e5a5 a8a5 a4a5 b7e7"]
+[SolutionSAN "Ka4 Rg8 Rxe7 Ra8+ Ra5 Rxa5+ Kxa5 Rxe7"]
+[FEN "8/1R2P1R1/4r3/4r3/1kp5/p7/K1P5/8 b - - 2 48"]
+[SetUp "1"]
+
+48... Ka4 49. Rg8 Rxe7 50. Ra8+ Ra5 51. Rxa5+ Kxa5 52. Rxe7 *

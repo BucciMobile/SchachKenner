@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BLGX"]
+[Difficulty "easy"]
+[Rating "828"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/sjLBT33S#17"]
+[Solution "d5c6 b6f2"]
+[SolutionSAN "dxc6 Qf2#"]
+[FEN "r1b1kb1r/pp2nppp/1qpp4/3Pp3/4PPn1/2NB4/PPPB2PP/R2QK1NR w KQkq - 3 9"]
+[SetUp "1"]
+
+9. dxc6 Qf2# *

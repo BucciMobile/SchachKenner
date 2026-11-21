@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Npd"]
+[Difficulty "hard"]
+[Rating "2057"]
+[Themes "advancedPawn bishopEndgame crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/ytOuIXVO/black#116"]
+[Solution "d4a1 b5b6 c7b6 d5d6 e5e4 c6c7 a1e5 d6e5 b6c7 e5e4"]
+[SolutionSAN "Ba1 b6+ Kxb6 Kd6 e4 c7 Be5+ Kxe5 Kxc7 Kxe4"]
+[FEN "8/2k5/2P3p1/pP1Kp1P1/P2b1p2/5P2/8/8 b - - 0 58"]
+[SetUp "1"]
+
+58... Ba1 59. b6+ Kxb6 60. Kd6 e4 61. c7 Be5+ 62. Kxe5 Kxc7 63. Kxe4 *

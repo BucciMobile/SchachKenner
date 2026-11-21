@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03x8Z"]
+[Difficulty "medium"]
+[Rating "1694"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/qJSyJZR0#71"]
+[Solution "b6g6 d2f4 g3h3 f1h1"]
+[SolutionSAN "Rxg6 Bf4+ Kh3 Rh1#"]
+[FEN "8/3R4/1R4p1/2k2p2/7P/1P1P2K1/1PPb2P1/5r2 w - - 7 36"]
+[SetUp "1"]
+
+36. Rxg6 Bf4+ 37. Kh3 Rh1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04lJt"]
+[Difficulty "easy"]
+[Rating "1035"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/Cya5Wjoa/black#76"]
+[Solution "f2g3 f4g6 h6g6 f7g6"]
+[SolutionSAN "Bg3 Ng6+ Qxg6 Qxg6"]
+[FEN "6rk/2R2Qpr/p6q/4P3/5N2/7P/P4bP1/7K b - - 1 38"]
+[SetUp "1"]
+
+38... Bg3 39. Ng6+ Qxg6 40. Qxg6 *

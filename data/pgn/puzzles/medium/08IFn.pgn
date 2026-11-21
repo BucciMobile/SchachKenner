@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08IFn"]
+[Difficulty "medium"]
+[Rating "1356"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/lyozsqSA#51"]
+[Solution "g3h4 g4g2"]
+[SolutionSAN "gxh4 Qg2#"]
+[FEN "5k2/1b4p1/pp4p1/2p2pN1/2Pp1Pqr/3P2P1/PP1Q1K2/4R3 w - - 0 26"]
+[SetUp "1"]
+
+26. gxh4 Qg2# *

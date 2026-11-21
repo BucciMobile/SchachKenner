@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04IXh"]
+[Difficulty "hard"]
+[Rating "1705"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/9pD5KEiq/black#84"]
+[Solution "c6c5 c4f7 g6f5 f7e8"]
+[SolutionSAN "c5 Bf7+ Kf5 Bxe8"]
+[FEN "4r3/2R5/p1p3k1/P7/1bB2P2/6K1/8/8 b - - 1 42"]
+[SetUp "1"]
+
+42... c5 43. Bf7+ Kf5 44. Bxe8 *

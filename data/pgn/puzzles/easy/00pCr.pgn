@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00pCr"]
+[Difficulty "easy"]
+[Rating "692"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/NGOQ1yu4/black#62"]
+[Solution "c3d4 c7h7"]
+[SolutionSAN "Bd4 Qxh7#"]
+[FEN "6nk/pRQ4p/6p1/5p2/4p3/2b2nP1/q4PKP/5B2 b - - 3 31"]
+[SetUp "1"]
+
+31... Bd4 32. Qxh7# *

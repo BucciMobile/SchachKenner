@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01iy8"]
+[Difficulty "hard"]
+[Rating "1724"]
+[Themes "long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/2ku2FXte#55"]
+[Solution "c3b3 g4f3 c1g1 f3g2 g1g2 g5g2"]
+[SolutionSAN "Rb3 Bf3 Rg1 Bxg2+ Rxg2 Qxg2#"]
+[FEN "2r3k1/2P2pp1/6r1/3p2qp/3N2b1/2R1P3/3Q1PPP/2R4K w - - 1 28"]
+[SetUp "1"]
+
+28. Rb3 Bf3 29. Rg1 Bxg2+ 30. Rxg2 Qxg2# *

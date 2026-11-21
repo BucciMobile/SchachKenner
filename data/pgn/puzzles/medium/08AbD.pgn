@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08AbD"]
+[Difficulty "medium"]
+[Rating "1498"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/Fwcg4LeX#111"]
+[Solution "c6a5 e6c5 a4c4 b5a5"]
+[SolutionSAN "Nxa5 Nc5 Rc4 Rxa5"]
+[FEN "8/4pk1p/2N1n1p1/pr4P1/R4P2/P3K3/8/8 w - - 24 56"]
+[SetUp "1"]
+
+56. Nxa5 Nc5 57. Rc4 Rxa5 *

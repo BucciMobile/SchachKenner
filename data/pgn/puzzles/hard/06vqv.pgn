@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06vqv"]
+[Difficulty "hard"]
+[Rating "2062"]
+[Themes "advantage hangingPiece kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/pjbD11WY#39"]
+[Solution "g2h3 f5e4 f1g2 e4b1"]
+[SolutionSAN "gxh3 Qxe4+ Qg2 Qxb1+"]
+[FEN "5knN/1pp4p/6p1/P2P1q2/2B1R3/7b/P2P1bPP/1N3Q1K w - - 0 20"]
+[SetUp "1"]
+
+20. gxh3 Qxe4+ 21. Qg2 Qxb1+ *

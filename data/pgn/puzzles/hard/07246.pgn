@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07246"]
+[Difficulty "hard"]
+[Rating "1952"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/hUrZuQac/black#44"]
+[Solution "d7d4 c1d1 d4b4 a2a3 b4b2 f3g4"]
+[SolutionSAN "Qxd4 Rd1 Qb4 a3 Qxb2 Qxg4"]
+[FEN "5r2/p2q1pkp/1p2p1p1/8/3P2n1/5QP1/PP3PBP/2R3K1 b - - 0 22"]
+[SetUp "1"]
+
+22... Qxd4 23. Rd1 Qb4 24. a3 Qxb2 25. Qxg4 *

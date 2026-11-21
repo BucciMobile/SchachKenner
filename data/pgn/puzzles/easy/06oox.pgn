@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06oox"]
+[Difficulty "easy"]
+[Rating "699"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/SF85am2e#61"]
+[Solution "e3d4 d7b5 e2f3 b5a6"]
+[SolutionSAN "exd4 Bb5+ Kf3 Bxa6"]
+[FEN "6k1/3b2pp/R7/5p2/1p1r4/1P2P2P/P3KPP1/8 w - - 0 31"]
+[SetUp "1"]
+
+31. exd4 Bb5+ 32. Kf3 Bxa6 *

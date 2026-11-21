@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A3uq"]
+[Difficulty "hard"]
+[Rating "2181"]
+[Themes "advantage opening sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/ikmV2Ktd/black#24"]
+[Solution "f8g7 f3g5 h6g5 b3f7 g7h6 f1f6 d8f6 f7f6"]
+[SolutionSAN "Kg7 Nxg5 hxg5 Qf7+ Kh6 Rf6+ Qxf6 Qxf6+"]
+[FEN "r1bq1k1r/pppp4/2nb3p/4p1p1/3P4/1QP2NP1/PP4PP/RN3RK1 b - - 0 12"]
+[SetUp "1"]
+
+12... Kg7 13. Nxg5 hxg5 14. Qf7+ Kh6 15. Rf6+ Qxf6 16. Qxf6+ *

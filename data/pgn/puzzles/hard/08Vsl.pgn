@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Vsl"]
+[Difficulty "hard"]
+[Rating "1739"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/EEPngqts#51"]
+[Solution "b2e5 e8c6 e5b8 g8h7"]
+[SolutionSAN "Qe5 Qc6 Qb8+ Kh7"]
+[FEN "4q1k1/pb3pp1/1b5p/8/5B2/P6P/1Q3PP1/5RK1 w - - 1 26"]
+[SetUp "1"]
+
+26. Qe5 Qc6 27. Qb8+ Kh7 *

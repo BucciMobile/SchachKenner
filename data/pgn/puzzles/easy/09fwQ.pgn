@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09fwQ"]
+[Difficulty "easy"]
+[Rating "624"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/4AlcuvH1#59"]
+[Solution "f4g5 h6h2"]
+[SolutionSAN "fxg5 Qxh2#"]
+[FEN "4r2k/p3r2p/1p1b1p1q/6p1/1P1B1PP1/P3PQ2/7P/1R4RK w - - 0 30"]
+[SetUp "1"]
+
+30. fxg5 Qxh2# *

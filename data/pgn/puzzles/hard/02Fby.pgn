@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Fby"]
+[Difficulty "hard"]
+[Rating "1911"]
+[Themes "advantage deflection endgame long"]
+[GameUrl "https://lichess.org/game/zQIymUBF#51"]
+[Solution "b1e1 e4g2 f1g2 e2e1 a1e1 e8e1"]
+[SolutionSAN "Re1 Bxg2+ Kxg2 Rxe1 Rxe1 Rxe1"]
+[FEN "4r1k1/5ppp/8/p7/3Bb3/2P5/P3rPPP/RR3K2 w - - 3 26"]
+[SetUp "1"]
+
+26. Re1 Bxg2+ 27. Kxg2 Rxe1 28. Rxe1 Rxe1 *

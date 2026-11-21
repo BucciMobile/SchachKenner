@@ -1,0 +1,43 @@
+name: bot-stays-private
+
+# GUARD: the Discord bot code lives ONLY in the PRIVATE repo
+# BucciMobile/SchachKenner-beta (bot/). It must NEVER appear in this public repo.
+# This workflow fails any push/PR that adds:
+#   - anything under bot/
+#   - .env / .env.* files or files containing a DISCORD_TOKEN assignment
+#   - obvious private-key material
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fail if bot/ or secrets are tracked
+        run: |
+          set -e
+          echo "== checking tracked file paths =="
+          if git ls-files | grep -E '^bot/|(^|/)\.env($|\.)'; then
+            echo "ERROR: bot/ or .env files are tracked in this PUBLIC repo. The bot lives only in BucciMobile/SchachKenner-beta (private)."
+            exit 1
+          fi
+          echo "== checking diff for secrets =="
+          if git diff --name-only ${{ github.event.pull_request.base.sha || github.event.before }} ${{ github.event.pull_request.head.sha || github.sha }} 2>/dev/null | grep -E '^bot/|(^|/)\.env($|\.)'; then
+            echo "ERROR: this change adds bot/ or .env files to the PUBLIC repo."
+            exit 1
+          fi
+          if git grep -I -n -E 'DISCORD_TOKEN\s*=\s*[^<"'\'' ]{8,}|ghp_[A-Za-z0-9]{20,}|gho_[A-Za-z0-9]{20,}' -- . ':!licenses/raw' ':!.github/workflows/bot-stays-private.yml' > /tmp/secrets.txt 2>/dev/null; then
+            echo "ERROR: possible secret/token found in tracked files:"; cat /tmp/secrets.txt; exit 1
+          fi
+          echo "OK: no bot code, no .env, no tokens in this public repo."

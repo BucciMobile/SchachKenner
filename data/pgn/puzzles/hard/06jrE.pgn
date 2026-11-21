@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06jrE"]
+[Difficulty "hard"]
+[Rating "1946"]
+[Themes "attraction discoveredCheck doubleCheck mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/35AlKrjU#43"]
+[Solution "d4e6 f2f1 g1f1 c5f2"]
+[SolutionSAN "Nxe6 Rf1+ Kxf1 Qf2#"]
+[FEN "6k1/6p1/p3b2p/2qp4/1p1Nn3/1B6/PPP2rPP/R2Q2K1 w - - 3 22"]
+[SetUp "1"]
+
+22. Nxe6 Rf1+ 23. Kxf1 Qf2# *

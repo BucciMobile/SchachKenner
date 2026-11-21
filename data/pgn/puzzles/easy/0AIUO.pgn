@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AIUO"]
+[Difficulty "easy"]
+[Rating "1134"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/mfEMNO9c#49"]
+[Solution "e4d6 d8d6 c5d6 c7c1"]
+[SolutionSAN "Nd6 Rxd6 cxd6 Rxc1"]
+[FEN "1nqr4/2r2pbk/4p1pp/1BPn4/P2PN3/1Q2P3/5PPP/2R2RK1 w - - 9 25"]
+[SetUp "1"]
+
+25. Nd6 Rxd6 26. cxd6 Rxc1 *

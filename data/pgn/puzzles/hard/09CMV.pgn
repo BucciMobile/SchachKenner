@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09CMV"]
+[Difficulty "hard"]
+[Rating "1960"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/WsAk18Ux#117"]
+[Solution "f7f8q g7a7"]
+[SolutionSAN "f8=Q Qa7#"]
+[FEN "k1r5/5Pq1/K1pQ1R2/p6p/P1P5/1P6/8/8 w - - 2 59"]
+[SetUp "1"]
+
+59. f8=Q Qa7# *

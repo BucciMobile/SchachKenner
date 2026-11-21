@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Dib"]
+[Difficulty "medium"]
+[Rating "1346"]
+[Themes "endgame master"]
+[GameUrl "https://lichess.org/game/o6FLrwm5/black#92"]
+[Solution "g3h4 g4g5 h4g5 g6g5 d5g5 f6g5"]
+[SolutionSAN "Bh4+ g5 Bxg5+ Rxg5 Rxg5 Kxg5"]
+[FEN "7k/8/4PKR1/3r4/6P1/6b1/8/8 b - - 2 46"]
+[SetUp "1"]
+
+46... Bh4+ 47. g5 Bxg5+ 48. Rxg5 Rxg5 49. Kxg5 *

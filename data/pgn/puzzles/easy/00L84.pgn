@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00L84"]
+[Difficulty "easy"]
+[Rating "1152"]
+[Themes "advancedPawn crushing endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/ZX4yckwu#73"]
+[Solution "b2b3 c3c1 f1g2 d3d2"]
+[SolutionSAN "Rb3 Rc1+ Kg2 d2"]
+[FEN "6k1/5pp1/7p/2p5/2P5/2rp2PP/PR3P2/5K2 w - - 0 37"]
+[SetUp "1"]
+
+37. Rb3 Rc1+ 38. Kg2 d2 *

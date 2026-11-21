@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05LmX"]
+[Difficulty "hard"]
+[Rating "2197"]
+[Themes "advancedPawn crushing discoveredAttack endgame exposedKing long rookEndgame"]
+[GameUrl "https://lichess.org/game/an65Z4hv/black#102"]
+[Solution "c5c6 g6h6 h8g8 f6f7 g8f7 h6c6"]
+[SolutionSAN "Rc6 Rxh6+ Kg8 f7+ Kxf7 Rxc6"]
+[FEN "7k/8/5PRp/1pr5/4K3/8/8/8 b - - 0 51"]
+[SetUp "1"]
+
+51... Rc6 52. Rxh6+ Kg8 53. f7+ Kxf7 54. Rxc6 *

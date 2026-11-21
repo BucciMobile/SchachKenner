@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00reB"]
+[Difficulty "easy"]
+[Rating "1030"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/DXolHS5L#47"]
+[Solution "b4f8 c6g2"]
+[SolutionSAN "Bxf8 Qxg2#"]
+[FEN "4rrk1/pb4pp/1pq2p2/4p3/1BPb4/3P3P/P3QPPN/1R2R1K1 w - - 0 24"]
+[SetUp "1"]
+
+24. Bxf8 Qxg2# *

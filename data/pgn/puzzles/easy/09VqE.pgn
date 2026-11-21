@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09VqE"]
+[Difficulty "easy"]
+[Rating "631"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/DvHUSXLL/black#58"]
+[Solution "g8g1 h5h7"]
+[SolutionSAN "Rxg1 Qxh7#"]
+[FEN "r5rk/2p2p1p/p3p3/1p1bR2Q/3P1q2/P1PB3K/1P3P2/6R1 b - - 1 29"]
+[SetUp "1"]
+
+29... Rxg1 30. Qxh7# *

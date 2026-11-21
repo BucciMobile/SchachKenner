@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GL9X"]
+[Difficulty "medium"]
+[Rating "1318"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/yjPyCa67#41"]
+[Solution "c6e7 d6e7 b7e7 c5e7"]
+[SolutionSAN "Ne7+ Qxe7 Qxe7 Bxe7"]
+[FEN "2r2rk1/1Q3ppp/2Nq1n2/2bp4/4p3/4B2P/P1P2PP1/R4RK1 w - - 6 21"]
+[SetUp "1"]
+
+21. Ne7+ Qxe7 22. Qxe7 Bxe7 *

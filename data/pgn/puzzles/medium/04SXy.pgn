@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04SXy"]
+[Difficulty "medium"]
+[Rating "1593"]
+[Themes "crushing defensiveMove endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/XkHgsVU7#87"]
+[Solution "a7f7 b6f6 f7f6 g7f6 f4f5 a6a5"]
+[SolutionSAN "Rxf7 Rf6+ Rxf6 gxf6 Kf5 a5"]
+[FEN "8/R4pp1/pr6/7k/5K1P/5P2/8/8 w - - 0 44"]
+[SetUp "1"]
+
+44. Rxf7 Rf6+ 45. Rxf6 gxf6 46. Kf5 a5 *

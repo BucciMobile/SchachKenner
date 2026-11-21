@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06HYD"]
+[Difficulty "easy"]
+[Rating "1140"]
+[Themes "advancedPawn crushing endgame promotion short"]
+[GameUrl "https://lichess.org/game/YWKebGI4/black#72"]
+[Solution "b7d7 d6e7 d7d8 e7d8q"]
+[SolutionSAN "Rbd7 dxe7 Rxd8 exd8=Q"]
+[FEN "3Q4/1r2rpkp/q2P2p1/p1p5/Pp6/5B2/6PP/6RK b - - 0 36"]
+[SetUp "1"]
+
+36... Rbd7 37. dxe7 Rxd8 38. exd8=Q *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Beje"]
+[Difficulty "hard"]
+[Rating "2120"]
+[Themes "crushing fork long master middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/rtv358XA#63"]
+[Solution "e3g3 e5f4 e1e7 h5d1 f2g1 d1g1"]
+[SolutionSAN "Rg3 Bxf4 Rxe7 Qd1+ Qg1 Qxg1+"]
+[FEN "4r1k1/4r2p/p2p4/3Pbppq/2Pn1B2/1P2R2P/P4QP1/1B2R2K w - - 0 32"]
+[SetUp "1"]
+
+32. Rg3 Bxf4 33. Rxe7 Qd1+ 34. Qg1 Qxg1+ *

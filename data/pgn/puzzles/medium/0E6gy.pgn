@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E6gy"]
+[Difficulty "medium"]
+[Rating "1675"]
+[Themes "crushing endgame long rookEndgame trappedPiece"]
+[GameUrl "https://lichess.org/game/ivinBn1w#71"]
+[Solution "f1e2 a5e5 e2d3 f7g7 h6h5 e5h5"]
+[SolutionSAN "Ke2 Re5+ Kd3 Kg7 Rxh5 Rxh5"]
+[FEN "8/5k2/4p2R/r6p/6pP/6P1/5P2/5K2 w - - 4 36"]
+[SetUp "1"]
+
+36. Ke2 Re5+ 37. Kd3 Kg7 38. Rxh5 Rxh5 *

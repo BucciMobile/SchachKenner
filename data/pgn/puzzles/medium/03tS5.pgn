@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03tS5"]
+[Difficulty "medium"]
+[Rating "1547"]
+[Themes "crushing defensiveMove endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/JgjqyLAs/black#68"]
+[Solution "g4d4 d5d4 g5f4 f3e4"]
+[SolutionSAN "Rd4+ Kxd4 Qf4+ Be4"]
+[FEN "2R5/4kpp1/p6p/3KP1q1/6r1/5B2/PP2RP2/8 b - - 19 34"]
+[SetUp "1"]
+
+34... Rd4+ 35. Kxd4 Qf4+ 36. Be4 *

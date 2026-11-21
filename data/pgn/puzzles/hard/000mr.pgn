@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "000mr"]
+[Difficulty "hard"]
+[Rating "1943"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/8sVpuwso#81"]
+[Solution "e3g3 f7f4 e5f4 f8f4"]
+[SolutionSAN "Qg3 Rxf4 Bxf4 Rxf4"]
+[FEN "5r1k/5rp1/p7/1b2B2p/1P1P1Pq1/2R1Q3/P3p1P1/2R3K1 w - - 0 41"]
+[SetUp "1"]
+
+41. Qg3 Rxf4 42. Bxf4 Rxf4 *

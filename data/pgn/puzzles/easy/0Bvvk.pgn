@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bvvk"]
+[Difficulty "easy"]
+[Rating "820"]
+[Themes "endgame epauletteMate mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/BEwgmkRC/black#94"]
+[Solution "f4g6 h8h5"]
+[SolutionSAN "Ng6 Rh5#"]
+[FEN "7R/1p1r1p2/2p1p3/2R1P1k1/r2P1nP1/P4K2/2N5/8 b - - 8 47"]
+[SetUp "1"]
+
+47... Ng6 48. Rh5# *

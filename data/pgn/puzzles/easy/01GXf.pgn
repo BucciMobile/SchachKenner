@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01GXf"]
+[Difficulty "easy"]
+[Rating "1178"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/iduwCdmp/black#40"]
+[Solution "e7f6 d5c7 e8f8 c7a8"]
+[SolutionSAN "Bf6 Nc7+ Kf8 Nxa8"]
+[FEN "r3k2r/pR2bppp/4p3/3N4/8/8/P4PPP/4R1K1 b kq - 0 20"]
+[SetUp "1"]
+
+20... Bf6 21. Nc7+ Kf8 22. Nxa8 *

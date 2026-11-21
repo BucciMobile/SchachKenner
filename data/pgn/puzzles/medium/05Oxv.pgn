@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Oxv"]
+[Difficulty "medium"]
+[Rating "1474"]
+[Themes "crushing kingsideAttack long middlegame pin sacrifice"]
+[GameUrl "https://lichess.org/game/qG60sa6m#65"]
+[Solution "g2e4 f8f2 e2f2 g5e3 f2e3 b6e3"]
+[SolutionSAN "Be4 Rxf2 Qxf2 Be3 Qxe3 Qxe3+"]
+[FEN "r4r1k/6p1/1q1p3p/p2Pp1bP/6R1/R1P3P1/1P2QPB1/6K1 w - - 9 33"]
+[SetUp "1"]
+
+33. Be4 Rxf2 34. Qxf2 Be3 35. Qxe3 Qxe3+ *

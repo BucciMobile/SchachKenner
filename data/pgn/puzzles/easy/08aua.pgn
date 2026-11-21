@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08aua"]
+[Difficulty "easy"]
+[Rating "1171"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/TEgtBwkH#41"]
+[Solution "f1f2 d4d1 f2f1 d1f1"]
+[SolutionSAN "Rxf2 Qd1+ Rf1 Qxf1#"]
+[FEN "1n3rk1/1QB1p1bp/p5p1/1p2Np2/3qpP2/8/PP3nPP/RN3R1K w - - 2 21"]
+[SetUp "1"]
+
+21. Rxf2 Qd1+ 22. Rf1 Qxf1# *

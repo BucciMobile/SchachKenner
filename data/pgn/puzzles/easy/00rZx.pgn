@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00rZx"]
+[Difficulty "easy"]
+[Rating "400"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/iBQYpJsz/black#64"]
+[Solution "f8f7 d3d8 f7f8 d8f8"]
+[SolutionSAN "Rxf7 Rd8+ Rf8 Rxf8#"]
+[FEN "5r1k/2p2Bpp/p7/1p2p3/8/3R4/PP3PKP/4q3 b - - 1 32"]
+[SetUp "1"]
+
+32... Rxf7 33. Rd8+ Rf8 34. Rxf8# *

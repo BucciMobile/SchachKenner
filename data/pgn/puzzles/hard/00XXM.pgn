@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00XXM"]
+[Difficulty "hard"]
+[Rating "1725"]
+[Themes "advantage long middlegame pin"]
+[GameUrl "https://lichess.org/game/Pd55n9kL/black#50"]
+[Solution "f8e7 c3c4 b7b6 a7c7 d7c7 c4d5"]
+[SolutionSAN "Be7 c4 b6 Qxc7+ Kxc7 cxd5"]
+[FEN "3r1br1/Qpqk1p2/p1p1p2p/3nP3/8/2P1NP1N/PP6/1K1R3R b - - 3 25"]
+[SetUp "1"]
+
+25... Be7 26. c4 b6 27. Qxc7+ Kxc7 28. cxd5 *

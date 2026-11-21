@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AEyz"]
+[Difficulty "easy"]
+[Rating "631"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/HOBsv7Fe/black#32"]
+[Solution "a6a5 g4g7"]
+[SolutionSAN "a5 Qxg7#"]
+[FEN "2rq1rk1/5ppp/p1p1p3/1p1pB3/3Pn1Q1/PRP1P3/2P2PPP/4K2R b K - 0 16"]
+[SetUp "1"]
+
+16... a5 17. Qxg7# *

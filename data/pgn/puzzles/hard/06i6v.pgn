@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06i6v"]
+[Difficulty "hard"]
+[Rating "2288"]
+[Themes "crushing endgame long queenEndgame"]
+[GameUrl "https://lichess.org/game/vCrloF3l/black#82"]
+[Solution "d5b5 b2b5 c6b5 c3c4 b5b4 a3b4"]
+[SolutionSAN "Qb5+ Qxb5 cxb5 c4 b4 axb4"]
+[FEN "8/6kp/2p3p1/3q4/3P4/P1PK4/1Q6/8 b - - 0 41"]
+[SetUp "1"]
+
+41... Qb5+ 42. Qxb5 cxb5 43. c4 b4 44. axb4 *

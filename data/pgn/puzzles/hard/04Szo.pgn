@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Szo"]
+[Difficulty "hard"]
+[Rating "2373"]
+[Themes "clearance crushing defensiveMove middlegame pin short"]
+[GameUrl "https://lichess.org/game/hXXrggHq/black#48"]
+[Solution "d7f7 e2e6 f8e7 h5e2"]
+[SolutionSAN "Qf7 Rxe6+ Be7 Qe2"]
+[FEN "2r1kbr1/p2q2p1/1p2p2p/3p1p1Q/3B4/2P4P/P3RPP1/R5K1 b - - 1 24"]
+[SetUp "1"]
+
+24... Qf7 25. Rxe6+ Be7 26. Qe2 *

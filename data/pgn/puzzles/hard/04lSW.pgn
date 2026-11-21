@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04lSW"]
+[Difficulty "hard"]
+[Rating "2019"]
+[Themes "crushing endgame knightEndgame master short"]
+[GameUrl "https://lichess.org/game/fFGabVJX/black#100"]
+[Solution "e6f4 e3d5 f4d5 e4d5"]
+[SolutionSAN "Nxf4 Nd5+ Nxd5 exd5"]
+[FEN "8/8/3Knkp1/8/4PP2/4N3/8/8 b - - 3 50"]
+[SetUp "1"]
+
+50... Nxf4 51. Nd5+ Nxd5 52. exd5 *

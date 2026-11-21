@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02myt"]
+[Difficulty "easy"]
+[Rating "1048"]
+[Themes "crushing defensiveMove endgame short zugzwang"]
+[GameUrl "https://lichess.org/game/Ivp9f0zu/black#92"]
+[Solution "f7f6 e5f6 f5f6 f3f4"]
+[SolutionSAN "Rxf6 Bxf6 Kxf6 Kf4"]
+[FEN "8/5r2/5P2/1p1pBk2/p1pP4/P1P2K2/1P6/8 b - - 4 46"]
+[SetUp "1"]
+
+46... Rxf6 47. Bxf6 Kxf6 48. Kf4 *

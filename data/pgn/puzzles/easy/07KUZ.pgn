@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07KUZ"]
+[Difficulty "easy"]
+[Rating "1182"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/nqIwqnej#41"]
+[Solution "g4f5 g6g3 g1h2 h7f5"]
+[SolutionSAN "Qxf5 Rxg3+ Kh2 Qxf5"]
+[FEN "2kr4/1pp3pq/p1n1Npr1/2N1pn2/2P1R1QP/3P2P1/PP6/R1B3K1 w - - 1 21"]
+[SetUp "1"]
+
+21. Qxf5 Rxg3+ 22. Kh2 Qxf5 *

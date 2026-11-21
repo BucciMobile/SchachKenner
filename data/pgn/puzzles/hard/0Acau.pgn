@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Acau"]
+[Difficulty "hard"]
+[Rating "2080"]
+[Themes "attraction deflection endgame fork mate mateIn5 sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/Tb8liqCQ/black#68"]
+[Solution "f4e2 b3c2 h7g8 c6e8 b4f8 c2h7 g8h7 e8f7 f8g7 f7g7"]
+[SolutionSAN "Ne2 Bc2+ Kg8 Qe8+ Bf8 Bh7+ Kxh7 Qxf7+ Bg7 Qxg7#"]
+[FEN "8/5p1k/1pQ4p/p2P2p1/Pb1B1n2/1B3P1P/6PK/4q3 b - - 6 34"]
+[SetUp "1"]
+
+34... Ne2 35. Bc2+ Kg8 36. Qe8+ Bf8 37. Bh7+ Kxh7 38. Qxf7+ Bg7 39. Qxg7# *

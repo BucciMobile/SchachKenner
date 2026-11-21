@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "098cl"]
+[Difficulty "medium"]
+[Rating "1505"]
+[Themes "advantage endgame fork long"]
+[GameUrl "https://lichess.org/game/xdaTD2Zc#75"]
+[Solution "a8a7 e6d5 h1g1 d6c5 a7c5 d5c5"]
+[SolutionSAN "Qxa7 Qd5+ Kg1 Bc5+ Qxc5 Qxc5+"]
+[FEN "Q7/p4ppk/3bq3/8/8/2P3P1/PP5P/5R1K w - - 5 38"]
+[SetUp "1"]
+
+38. Qxa7 Qd5+ 39. Kg1 Bc5+ 40. Qxc5 Qxc5+ *

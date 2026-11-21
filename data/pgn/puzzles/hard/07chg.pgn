@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07chg"]
+[Difficulty "hard"]
+[Rating "1814"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/UqDCpCXY#63"]
+[Solution "e3e7 d7e7 c8g4 e7e1"]
+[SolutionSAN "Rxe7 Rdxe7 Qxg4 Rxe1+"]
+[FEN "2Q5/3rprk1/2p2p2/2Pp2p1/3P2q1/p1P1R1B1/b4PP1/4R1K1 w - - 0 32"]
+[SetUp "1"]
+
+32. Rxe7 Rdxe7 33. Qxg4 Rxe1+ *

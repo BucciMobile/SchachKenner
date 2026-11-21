@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00pXW"]
+[Difficulty "hard"]
+[Rating "2454"]
+[Themes "advantage enPassant long middlegame"]
+[GameUrl "https://lichess.org/game/v1UUIAn8/black#34"]
+[Solution "h6g5 f4g5 f7f5 g5f6 d7f6 f1f6"]
+[SolutionSAN "hxg5 fxg5 f5 gxf6 Nxf6 Rxf6"]
+[FEN "r2qr1k1/3n1pp1/p2bp2p/1p1b2NQ/5P2/3BB3/PPP3PP/R4RK1 b - - 1 17"]
+[SetUp "1"]
+
+17... hxg5 18. fxg5 f5 19. gxf6 Nxf6 20. Rxf6 *

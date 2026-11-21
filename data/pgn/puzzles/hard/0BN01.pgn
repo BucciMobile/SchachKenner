@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BN01"]
+[Difficulty "hard"]
+[Rating "1900"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/EbT146Zb#21"]
+[Solution "c3d5 d4e6 d5e7 d8e7"]
+[SolutionSAN "Nd5 Nxe6 Nxe7 Qxe7"]
+[FEN "r2q1r1k/ppp1b1pp/3pBn2/4p3/3nP3/2NPB3/PPPQ1PPP/R3K2R w KQ - 5 11"]
+[SetUp "1"]
+
+11. Nd5 Nxe6 12. Nxe7 Qxe7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09ORz"]
+[Difficulty "medium"]
+[Rating "1502"]
+[Themes "advantage capturingDefender middlegame short"]
+[GameUrl "https://lichess.org/game/7eAW3YKh#45"]
+[Solution "c1c6 d7e5 d4e5 d6c6"]
+[SolutionSAN "Rc6 Nxe5 dxe5 Qxc6"]
+[FEN "rr4k1/3n2pp/3qp3/3pNp2/3P4/4P1P1/1P1Q1P1P/2R2RK1 w - - 1 23"]
+[SetUp "1"]
+
+23. Rc6 Nxe5 24. dxe5 Qxc6 *

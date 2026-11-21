@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02LYC"]
+[Difficulty "medium"]
+[Rating "1654"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/7GM7Nud2#57"]
+[Solution "f2g2 g7g2 g1h1 e6c6"]
+[SolutionSAN "Rg2 Rxg2+ Kh1 Qxc6"]
+[FEN "5rk1/6rp/p1Q1q3/4N3/4PP2/2N4b/PPP2R1P/R5K1 w - - 1 29"]
+[SetUp "1"]
+
+29. Rg2 Rxg2+ 30. Kh1 Qxc6 *

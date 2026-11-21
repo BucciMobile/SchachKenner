@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01c1h"]
+[Difficulty "medium"]
+[Rating "1442"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/HZh6fMAQ#59"]
+[Solution "b7b8q f7f3"]
+[SolutionSAN "b8=Q Qf3#"]
+[FEN "4r1k1/QP2pq2/3p2r1/3N4/4P3/8/P4p1P/1R3R1K w - - 2 30"]
+[SetUp "1"]
+
+30. b8=Q Qf3# *

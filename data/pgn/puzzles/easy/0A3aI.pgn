@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A3aI"]
+[Difficulty "easy"]
+[Rating "1029"]
+[Themes "endgame long mate mateIn3 queenRookEndgame"]
+[GameUrl "https://lichess.org/game/h1SJqZgO/black#114"]
+[Solution "a2a1q g2g4 g1g4 h3g4 h5h4 b6h6"]
+[SolutionSAN "a1=Q g4+ Rxg4 hxg4+ Kh4 Rh6#"]
+[FEN "8/8/1R6/2p3pk/8/2P2K1P/p5P1/6r1 b - - 3 57"]
+[SetUp "1"]
+
+57... a1=Q 58. g4+ Rxg4 59. hxg4+ Kh4 60. Rh6# *

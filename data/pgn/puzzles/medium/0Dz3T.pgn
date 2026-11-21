@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dz3T"]
+[Difficulty "medium"]
+[Rating "1563"]
+[Themes "middlegame"]
+[GameUrl "https://lichess.org/game/8856m7rm/black#28"]
+[Solution "c8e6 h4h6"]
+[SolutionSAN "Bxe6 Qh6#"]
+[FEN "rnbq3r/ppp2pkB/1b2N1p1/3nP3/3P3Q/P1N5/1PP3PP/R1B1K2R b KQ - 0 14"]
+[SetUp "1"]
+
+14... Bxe6 15. Qh6# *

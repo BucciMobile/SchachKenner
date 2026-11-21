@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02oHh"]
+[Difficulty "hard"]
+[Rating "1746"]
+[Themes "crushing endgame exposedKing long quietMove rookEndgame"]
+[GameUrl "https://lichess.org/game/EUxHqmdy/black#50"]
+[Solution "f4f2 h1g1 a7a5 g5g8 h8h7 g8a8"]
+[SolutionSAN "Rf2 Rhg1 a5 Rg8+ Kxh7 Rxa8"]
+[FEN "r6k/ppp2p1P/3p4/6R1/5r2/8/PPP5/2K4R b - - 1 25"]
+[SetUp "1"]
+
+25... Rf2 26. Rhg1 a5 27. Rg8+ Kxh7 28. Rxa8 *

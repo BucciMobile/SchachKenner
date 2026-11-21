@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06fWI"]
+[Difficulty "easy"]
+[Rating "494"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[GameUrl "https://lichess.org/game/IOkIvKo8/black#114"]
+[Solution "a6a5 h4h5 b4a4 h5h6 b5b4 h6h7 b4b3 h7h8q"]
+[SolutionSAN "a5 h5 Ka4 h6 b4 h7 b3 h8=Q"]
+[FEN "8/8/p5K1/1p6/1k5P/8/8/8 b - - 1 57"]
+[SetUp "1"]
+
+57... a5 58. h5 Ka4 59. h6 b4 60. h7 b3 61. h8=Q *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05qg5"]
+[Difficulty "medium"]
+[Rating "1474"]
+[Themes "advancedPawn advantage endgame long"]
+[GameUrl "https://lichess.org/game/0J7COuld/black#50"]
+[Solution "g2h2 h1h2 c2h2 f5f6 h2f2 f6f7"]
+[SolutionSAN "Rxh2 Rxh2 Rxh2 f6 Rf2 f7"]
+[FEN "2k5/1pp3Bp/p7/5P2/6P1/5P2/PPr3rP/3K3R b - - 0 25"]
+[SetUp "1"]
+
+25... Rxh2 26. Rxh2 Rxh2 27. f6 Rf2 28. f7 *

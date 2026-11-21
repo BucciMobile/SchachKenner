@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AiVM"]
+[Difficulty "easy"]
+[Rating "651"]
+[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
+[GameUrl "https://lichess.org/game/1uH7gpMc#103"]
+[Solution "g6f5 e4e3 f2f3 e3e2 b5c3 e2e1q"]
+[SolutionSAN "Kf5 e3 f3 e2 Nc3 e1=Q"]
+[FEN "k7/P7/6K1/1N6/4pp2/8/5P2/8 w - - 0 52"]
+[SetUp "1"]
+
+52. Kf5 e3 53. f3 e2 54. Nc3 e1=Q *

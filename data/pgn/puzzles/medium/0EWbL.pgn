@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EWbL"]
+[Difficulty "medium"]
+[Rating "1261"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/QFRRUk52/black#48"]
+[Solution "g7f6 d4c5 a6c5 g3d6"]
+[SolutionSAN "gxf6 Qxc5+ Nxc5 Bd6+"]
+[FEN "r4k2/6pp/n4P2/1pqp4/2pQ4/2P2PB1/P5PP/5RK1 b - - 0 24"]
+[SetUp "1"]
+
+24... gxf6 25. Qxc5+ Nxc5 26. Bd6+ *

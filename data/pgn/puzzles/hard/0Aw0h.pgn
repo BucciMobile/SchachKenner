@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Aw0h"]
+[Difficulty "hard"]
+[Rating "2306"]
+[Themes "crushing middlegame pin queensideAttack veryLong"]
+[GameUrl "https://lichess.org/game/XjD0cDXO#63"]
+[Solution "a2b1 c5a4 e2c2 a4c3 b1c1 b3c2 c1c2 c3d1"]
+[SolutionSAN "Kb1 Nxa4 Qc2 Nc3+ Kc1 Qxc2+ Kxc2 Nxd1"]
+[FEN "4rr2/p6k/7p/2n5/Pp4P1/1q1PN2P/KP2Q3/3R1R2 w - - 0 32"]
+[SetUp "1"]
+
+32. Kb1 Nxa4 33. Qc2 Nc3+ 34. Kc1 Qxc2+ 35. Kxc2 Nxd1 *

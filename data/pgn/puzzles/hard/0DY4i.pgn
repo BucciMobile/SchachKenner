@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DY4i"]
+[Difficulty "hard"]
+[Rating "2157"]
+[Themes "crushing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/OzLYDPhy#55"]
+[Solution "c3g7 h8g8 c7a5 c8c1 e7e1 c1e1 a5e1 g4g7"]
+[SolutionSAN "Bxg7+ Kg8 Qa5 Rc1+ Re1 Rxe1+ Qxe1 Qxg7"]
+[FEN "2r2r1k/p1Q1R1pp/8/3b4/6q1/1PB2pP1/P4R1P/7K w - - 2 28"]
+[SetUp "1"]
+
+28. Bxg7+ Kg8 29. Qa5 Rc1+ 30. Re1 Rxe1+ 31. Qxe1 Qxg7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "040ke"]
+[Difficulty "medium"]
+[Rating "1478"]
+[Themes "advantage long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/eq18bgSW/black#36"]
+[Solution "f8f7 d1d8 c8d8 c3e4 f5e4 c2e4"]
+[SolutionSAN "Rxf7 Rxd8+ Rxd8 Ne4 Bxe4 Qxe4"]
+[FEN "2rq1rk1/5Bbp/p5p1/1p2pb2/7P/P1N5/1PQ1NPP1/1K1R3R b - - 0 18"]
+[SetUp "1"]
+
+18... Rxf7 19. Rxd8+ Rxd8 20. Ne4 Bxe4 21. Qxe4 *

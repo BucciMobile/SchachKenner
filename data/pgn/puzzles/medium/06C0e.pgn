@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06C0e"]
+[Difficulty "medium"]
+[Rating "1561"]
+[Themes "crushing fork long middlegame"]
+[GameUrl "https://lichess.org/game/GmmjItpv#39"]
+[Solution "b7b6 e4c3 b1c3 d3c3 f3d2 c3a1"]
+[SolutionSAN "Qxb6 Nxc3 Nxc3 Qxc3+ Nd2 Qxa1+"]
+[FEN "2r3k1/1QB1bppp/1p6/3pPb2/1P2n3/2PqPN2/P4PPP/RN2K2R w KQ - 1 20"]
+[SetUp "1"]
+
+20. Qxb6 Nxc3 21. Nxc3 Qxc3+ 22. Nd2 Qxa1+ *

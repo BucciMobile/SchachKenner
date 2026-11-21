@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09cZr"]
+[Difficulty "easy"]
+[Rating "821"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/hxbPBy3D/black#78"]
+[Solution "h2h3 f2f6 f8g8 f6g6"]
+[SolutionSAN "Qxh3 Qxf6+ Kg8 Qxg6+"]
+[FEN "5k2/1p6/p1p2pn1/P2p2p1/1P1P2P1/2PN3P/5Q1q/4K3 b - - 1 39"]
+[SetUp "1"]
+
+39... Qxh3 40. Qxf6+ Kg8 41. Qxg6+ *

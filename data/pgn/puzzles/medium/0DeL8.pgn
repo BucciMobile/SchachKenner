@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DeL8"]
+[Difficulty "medium"]
+[Rating "1256"]
+[Themes "advantage attraction endgame exposedKing long master skewer"]
+[GameUrl "https://lichess.org/game/x5jGfvlB#55"]
+[Solution "g5e3 f2g2 h2g2 b5f1 g2g3 f1h3"]
+[SolutionSAN "Be3 Rxg2+ Kxg2 Bf1+ Kg3 Bxh3"]
+[FEN "5rk1/ppp3p1/4p3/1b2P1B1/3PP3/2P4R/PP3rRK/8 w - - 11 28"]
+[SetUp "1"]
+
+28. Be3 Rxg2+ 29. Kxg2 Bf1+ 30. Kg3 Bxh3 *

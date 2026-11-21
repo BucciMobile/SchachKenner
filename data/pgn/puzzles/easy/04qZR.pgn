@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04qZR"]
+[Difficulty "easy"]
+[Rating "1124"]
+[Themes "crushing deflection endgame short"]
+[GameUrl "https://lichess.org/game/TqWNErou#59"]
+[Solution "e2e6 f5f1 e1f1 f7e6"]
+[SolutionSAN "Qe6 Rf1+ Rxf1 Qxe6"]
+[FEN "8/p4q1k/1p1b4/1P3rpp/3P4/6P1/1B2Q2P/4R1K1 w - - 2 30"]
+[SetUp "1"]
+
+30. Qe6 Rf1+ 31. Rxf1 Qxe6 *

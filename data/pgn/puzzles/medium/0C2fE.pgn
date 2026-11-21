@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C2fE"]
+[Difficulty "medium"]
+[Rating "1662"]
+[Themes "advantage master middlegame pin short"]
+[GameUrl "https://lichess.org/game/vyaCNUCH/black#62"]
+[Solution "c7d8 b2e5 d8f6 e5f6"]
+[SolutionSAN "Qd8 Bxe5 Qxf6 Bxf6"]
+[FEN "5r2/2qk1p1p/p1ppbQnP/1p2n3/P3P3/1P4P1/1BP1B1P1/3R2K1 b - - 8 31"]
+[SetUp "1"]
+
+31... Qd8 32. Bxe5 Qxf6 33. Bxf6 *

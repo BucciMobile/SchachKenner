@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EZYx"]
+[Difficulty "medium"]
+[Rating "1486"]
+[Themes "crushing endgame exposedKing fork long master"]
+[GameUrl "https://lichess.org/game/oJdrl7i2#91"]
+[Solution "g3g5 h6h3 h1g2 h3g3 g5g3 f4g3"]
+[SolutionSAN "Qg5 Rxh3+ Kg2 Rg3+ Qxg3 fxg3"]
+[FEN "5q1k/R7/1p5r/1PpNp3/2Pn1p2/3P2QP/8/7K w - - 0 46"]
+[SetUp "1"]
+
+46. Qg5 Rxh3+ 47. Kg2 Rg3+ 48. Qxg3 fxg3 *

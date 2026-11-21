@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00gcQ"]
+[Difficulty "hard"]
+[Rating "2545"]
+[Themes "advancedPawn advantage endgame veryLong"]
+[GameUrl "https://lichess.org/game/CHTbPYuY#69"]
+[Solution "c2d1 h4g3 h2g1 g3f2 g1h2 f3d3 d1e2 d3d2 e5f5 g6f5"]
+[SolutionSAN "Bd1 hxg3+ Kg1 gxf2+ Kh2 Qd3 Be2 Qd2 Qxf5 gxf5"]
+[FEN "8/p4p1k/1p4p1/3pQr2/3P3p/5qP1/PPB2P1K/5R2 w - - 6 35"]
+[SetUp "1"]
+
+35. Bd1 hxg3+ 36. Kg1 gxf2+ 37. Kh2 Qd3 38. Be2 Qd2 39. Qxf5 gxf5 *

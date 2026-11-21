@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04uwm"]
+[Difficulty "easy"]
+[Rating "974"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/L9EpuxGc/black#52"]
+[Solution "c6e5 h7c7"]
+[SolutionSAN "Nxe5 Qxc7#"]
+[FEN "2k2r2/1pp4Q/p1nrp3/3pNn2/3P4/8/4q1PP/2R2RK1 b - - 4 26"]
+[SetUp "1"]
+
+26... Nxe5 27. Qxc7# *

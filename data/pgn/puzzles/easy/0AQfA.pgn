@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AQfA"]
+[Difficulty "easy"]
+[Rating "801"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/cJKMBE6Y/black#28"]
+[Solution "e7d6 d5f7"]
+[SolutionSAN "Bxd6 Qxf7#"]
+[FEN "r2qk2r/pp2bppp/3B2n1/3Q4/4P3/8/PPP1N1PP/R4RK1 b kq - 0 14"]
+[SetUp "1"]
+
+14... Bxd6 15. Qxf7# *

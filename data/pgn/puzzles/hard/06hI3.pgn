@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06hI3"]
+[Difficulty "hard"]
+[Rating "2266"]
+[Themes "crushing endgame master quietMove short"]
+[GameUrl "https://lichess.org/game/PwgQLtez/black#74"]
+[Solution "g7g6 d6f5 b3e3 f5e3"]
+[SolutionSAN "Kg6 Nf5 Re3+ Nxe3"]
+[FEN "8/pR4k1/1b1NKp2/7p/7P/1r3P2/8/8 b - - 5 37"]
+[SetUp "1"]
+
+37... Kg6 38. Nf5 Re3+ 39. Nxe3 *

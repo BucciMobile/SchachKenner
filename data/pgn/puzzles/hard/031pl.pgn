@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "031pl"]
+[Difficulty "hard"]
+[Rating "2114"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/zmgaaT1J/black#48"]
+[Solution "e7c5 e5h5 h8g8 e4h7"]
+[SolutionSAN "Bxc5 Rh5 Kg8 Qxh7+"]
+[FEN "2rq1r1k/1p2b1pp/p7/2N1R3/3BQ3/7P/PP3PP1/6K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Bxc5 25. Rh5 Kg8 26. Qxh7+ *

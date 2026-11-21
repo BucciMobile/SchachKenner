@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08e2z"]
+[Difficulty "hard"]
+[Rating "1992"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/ys85Ywiw/black#42"]
+[Solution "c8d7 f3g5 d8e8 e4e8"]
+[SolutionSAN "Bd7 Ng5 Qe8 Rxe8"]
+[FEN "r1bq1bk1/2p2p2/p1np1P1p/3Q4/4R3/5N2/PBP2PPP/6K1 b - - 1 21"]
+[SetUp "1"]
+
+21... Bd7 22. Ng5 Qe8 23. Rxe8 *

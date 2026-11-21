@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "046tY"]
+[Difficulty "medium"]
+[Rating "1617"]
+[Themes "equality fork long middlegame"]
+[GameUrl "https://lichess.org/game/1wTsaNQ5/black#32"]
+[Solution "c8b7 f3g4 g8h8 g4d7 b7d5 e4d5"]
+[SolutionSAN "Bb7 Qg4+ Kh8 Qxd7 Bxd5 exd5"]
+[FEN "r1b2rk1/3n1p1p/p2p1p2/1p1Nq3/4P3/1PP2Q2/1P3PPP/R4RK1 b - - 0 16"]
+[SetUp "1"]
+
+16... Bb7 17. Qg4+ Kh8 18. Qxd7 Bxd5 19. exd5 *

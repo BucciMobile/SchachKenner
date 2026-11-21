@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CtmN"]
+[Difficulty "easy"]
+[Rating "499"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/rbFPbyeJ#27"]
+[Solution "c3e2 d5d1"]
+[SolutionSAN "Nxe2 Qd1#"]
+[FEN "2k5/Qpp2ppp/3r4/3q1b2/6n1/2N2N2/PPP1r1PP/R1B1K2R w KQ - 0 14"]
+[SetUp "1"]
+
+14. Nxe2 Qd1# *

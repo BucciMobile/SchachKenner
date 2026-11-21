@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cxhe"]
+[Difficulty "easy"]
+[Rating "539"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/thTfv7Ie/black#60"]
+[Solution "d6f4 d1d8 e6e8 d8e8"]
+[SolutionSAN "Bf4 Rd8+ Qe8 Rxe8#"]
+[FEN "6k1/p4pp1/3bq2p/8/8/4N3/PPB1K3/3R4 b - - 1 30"]
+[SetUp "1"]
+
+30... Bf4 31. Rd8+ Qe8 32. Rxe8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "014K4"]
+[Difficulty "hard"]
+[Rating "1905"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/Nsm0s8cz#87"]
+[Solution "d3d6 f6e5 d6d3 e5e4"]
+[SolutionSAN "Rd6+ Ke5 Rd3 Ke4"]
+[FEN "8/7p/5kpP/p4p2/8/2bR4/P2p1PP1/6K1 w - - 4 44"]
+[SetUp "1"]
+
+44. Rd6+ Ke5 45. Rd3 Ke4 *

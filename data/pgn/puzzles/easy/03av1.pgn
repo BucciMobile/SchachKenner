@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03av1"]
+[Difficulty "easy"]
+[Rating "1119"]
+[Themes "advantage endgame master short skewer"]
+[GameUrl "https://lichess.org/game/c9Dttwn2#89"]
+[Solution "g3g4 h5h4 g4f3 h4d4"]
+[SolutionSAN "Kg4 Rh4+ Kf3 Rxd4"]
+[FEN "2b5/1p6/3RPk2/2Pp1Ppr/3N4/6K1/8/8 w - - 2 45"]
+[SetUp "1"]
+
+45. Kg4 Rh4+ 46. Kf3 Rxd4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0836q"]
+[Difficulty "hard"]
+[Rating "1777"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/jqiFOHMf#75"]
+[Solution "g2f1 d7b5 c3c4 b5c4"]
+[SolutionSAN "Kf1 Bb5+ c4 Bxc4+"]
+[FEN "5k2/1p1b4/4pq1p/3pR1p1/3P2Rn/2P5/3Q1PKP/8 w - - 2 38"]
+[SetUp "1"]
+
+38. Kf1 Bb5+ 39. c4 Bxc4+ *

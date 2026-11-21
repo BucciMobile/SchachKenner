@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06VOs"]
+[Difficulty "medium"]
+[Rating "1523"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/AcWBbyYB/black#40"]
+[Solution "b7b5 c4c6 c7c6 f3c6"]
+[SolutionSAN "b5 Qxc6+ Qxc6 Bxc6+"]
+[FEN "4k2r/1pq1bp1p/p1n1p1p1/8/1PQP4/2P1PB1P/P4PP1/R4K2 b k - 2 20"]
+[SetUp "1"]
+
+20... b5 21. Qxc6+ Qxc6 22. Bxc6+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02luq"]
+[Difficulty "medium"]
+[Rating "1244"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/soRP403j#63"]
+[Solution "e2h2 h3f3 h2g2 f3g2"]
+[SolutionSAN "Rh2 Qf3+ Rg2 Qxg2#"]
+[FEN "6r1/2pk1p2/p7/1p1PQP2/8/2P4q/P1B1R3/4R2K w - - 0 32"]
+[SetUp "1"]
+
+32. Rh2 Qf3+ 33. Rg2 Qxg2# *

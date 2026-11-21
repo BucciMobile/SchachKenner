@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Di6g"]
+[Difficulty "hard"]
+[Rating "1808"]
+[Themes "mate mateIn2 middlegame pin short smotheredMate"]
+[GameUrl "https://lichess.org/game/zc50j5f2/black#34"]
+[Solution "f6f5 g8g6 f5f7 h7f6"]
+[SolutionSAN "Rf5 Qg6+ Rf7 Nf6#"]
+[FEN "2rqkbQ1/1p1bn2N/2n2r2/1pp5/3p4/3P4/PPP2PPP/R3R1K1 b - - 1 17"]
+[SetUp "1"]
+
+17... Rf5 18. Qg6+ Rf7 19. Nf6# *

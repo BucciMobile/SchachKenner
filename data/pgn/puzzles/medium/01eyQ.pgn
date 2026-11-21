@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01eyQ"]
+[Difficulty "medium"]
+[Rating "1269"]
+[Themes "advantage master middlegame pin short"]
+[GameUrl "https://lichess.org/game/o185y1l3/black#28"]
+[Solution "d5f6 h4f6 g7f6 f3f6"]
+[SolutionSAN "Nf6 Bxf6 Bxf6 Qxf6"]
+[FEN "r2qk2r/3pppb1/p5pp/1p1n4/3p3B/3P1Q2/PPP2PPP/R3RBK1 b kq - 1 14"]
+[SetUp "1"]
+
+14... Nf6 15. Bxf6 Bxf6 16. Qxf6 *

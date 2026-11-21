@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "084JF"]
+[Difficulty "hard"]
+[Rating "1815"]
+[Themes "clearance crushing long middlegame pin"]
+[GameUrl "https://lichess.org/game/U6jJGkue#85"]
+[Solution "h2f4 c2d2 d1d2 c6c1 g1f2 h5f5"]
+[SolutionSAN "Qf4 Rxd2 Rxd2 Qc1+ Kf2 Rf5"]
+[FEN "8/7k/2q3b1/7r/3B2p1/1P1p4/P1rR2PQ/3R2K1 w - - 6 43"]
+[SetUp "1"]
+
+43. Qf4 Rxd2 44. Rxd2 Qc1+ 45. Kf2 Rf5 *

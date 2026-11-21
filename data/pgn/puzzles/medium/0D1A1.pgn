@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D1A1"]
+[Difficulty "medium"]
+[Rating "1380"]
+[Themes "clearance kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/odEEK26V#35"]
+[Solution "b3d5 h2h1 g2h1 h4h2"]
+[SolutionSAN "Qd5 Rh1+ Bxh1 Qh2#"]
+[FEN "r6k/pp4p1/3b4/8/3P3q/1QN3p1/PP2P1Br/R1B2RK1 w - - 2 18"]
+[SetUp "1"]
+
+18. Qd5 Rh1+ 19. Bxh1 Qh2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Ki8"]
+[Difficulty "hard"]
+[Rating "1809"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/OZDSb76O#61"]
+[Solution "g2f3 f1f2 h2h1 f2f3"]
+[SolutionSAN "gxf3 Qf2+ Kh1 Qxf3+"]
+[FEN "1r5k/pp2Q2p/3p1p1B/2p5/2P5/5n1P/PP4PK/R4q2 w - - 7 31"]
+[SetUp "1"]
+
+31. gxf3 Qf2+ 32. Kh1 Qxf3+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "026YW"]
+[Difficulty "medium"]
+[Rating "1439"]
+[Themes "advantage defensiveMove endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/LxHILHYG/black#62"]
+[Solution "c4c3 d2d3 g7g5 d3c4"]
+[SolutionSAN "c3+ Kd3 g5 Kc4"]
+[FEN "8/p4pp1/7p/4k3/1pppP1P1/1P3PP1/P1PK4/8 b - - 0 31"]
+[SetUp "1"]
+
+31... c3+ 32. Kd3 g5 33. Kc4 *

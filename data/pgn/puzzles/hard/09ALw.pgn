@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09ALw"]
+[Difficulty "hard"]
+[Rating "1847"]
+[Themes "crushing long middlegame pin"]
+[GameUrl "https://lichess.org/game/5XTMWUxc/black#42"]
+[Solution "d6e5 h5g6 h7g8 e4f6 e5f6 g6f6"]
+[SolutionSAN "Qe5 Qg6+ Kg8 Nf6+ Qxf6 Qxf6"]
+[FEN "r6r/ppp3pk/2nq3n/7Q/1P2N2P/P3P3/3P1P2/R3K1R1 b Q - 0 21"]
+[SetUp "1"]
+
+21... Qe5 22. Qg6+ Kg8 23. Nf6+ Qxf6 24. Qxf6 *

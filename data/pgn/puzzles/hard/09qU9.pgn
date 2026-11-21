@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09qU9"]
+[Difficulty "hard"]
+[Rating "2370"]
+[Themes "advantage deflection kingsideAttack middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/hDcUEq6j#39"]
+[Solution "f2g1 b4f4 g7f8 f4h2 g1f1 h2h1 f1e2 h1g2 e2d3 g4f2"]
+[SolutionSAN "Kg1 Qf4 Bxf8 Qxh2+ Kf1 Qh1+ Ke2 Qxg2+ Kd3 Nf2+"]
+[FEN "rn3rk1/1pp3B1/p3R3/3P4/1q4n1/2N5/PP3KPP/R2Q4 w - - 1 20"]
+[SetUp "1"]
+
+20. Kg1 Qf4 21. Bxf8 Qxh2+ 22. Kf1 Qh1+ 23. Ke2 Qxg2+ 24. Kd3 Nf2+ *

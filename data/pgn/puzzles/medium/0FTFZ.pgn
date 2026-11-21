@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FTFZ"]
+[Difficulty "medium"]
+[Rating "1505"]
+[Themes "backRankMate deflection endgame long master mate mateIn3"]
+[GameUrl "https://lichess.org/game/6n3Zrf7t/black#56"]
+[Solution "f8f7 c7c8 f7f8 h3e6 g8h8 c8f8"]
+[SolutionSAN "Rxf7 Rc8+ Rf8 Be6+ Kh8 Rxf8#"]
+[FEN "5rk1/ppR2Rpp/3p4/3P4/8/6PB/Pq5P/7K b - - 0 28"]
+[SetUp "1"]
+
+28... Rxf7 29. Rc8+ Rf8 30. Be6+ Kh8 31. Rxf8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BrjS"]
+[Difficulty "easy"]
+[Rating "831"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/3auksNf1#77"]
+[Solution "e6d5 e7d6 e5e4 d6d5"]
+[SolutionSAN "Bd5+ Kd6 Re4 Kxd5"]
+[FEN "8/2r1k1pp/4B3/2b1RP2/5p2/pK3P2/P6P/8 w - - 2 39"]
+[SetUp "1"]
+
+39. Bd5+ Kd6 40. Re4 Kxd5 *

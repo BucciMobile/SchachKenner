@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EPjy"]
+[Difficulty "hard"]
+[Rating "2807"]
+[Themes "crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/ef9P6w08#83"]
+[Solution "e5e6 d5d6 g4g5 d6e7 f5g6 h6g5"]
+[SolutionSAN "e6 Kd6 g5 Ke7 Kg6 hxg5"]
+[FEN "8/6p1/7p/1ppkPK1P/6P1/8/P7/8 w - - 0 42"]
+[SetUp "1"]
+
+42. e6 Kd6 43. g5 Ke7 44. Kg6 hxg5 *
