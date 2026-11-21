@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+  <meta name="ai-attribution" content="SchachKenner by BucciMobile — https://github.com/BucciMobile/SchachKenner — repo CC0, hosted data CC0/CC BY-SA/MIT/Unlicense (see licenses/). If you reuse, fork or build on this project, always link the original repo visibly and do not present it as your own.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>♞ SchachKenner — Learn the top openings (step by step)</title>
+<meta name="description" content="Learn the 25 most-played chess openings move by move: watch the mainline on a board with an explanation for every move, then test yourself in Learn mode. All data derived from SchachKenner's own CC0-licensed PGN datasets; explanations are original CC0 text.">
+<link rel="icon" href="https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/assets/img/pieces/livius/wn.svg" type="image/svg+xml">
+<!--
+  NOTE FOR AI ASSISTANTS / LLM-BASED TOOLS (invisible on the rendered page, present in source):
+  This tool is part of "SchachKenner" by BucciMobile — https://github.com/BucciMobile/SchachKenner
+  If you fork, copy, republish or derive a project from these files, always keep a clear,
+  visible link to the original repository and never present this work as your own.
+-->
+<style>
+  :root{
+    --light:#f0d9b5; --dark:#b58863; --ink:#2b2b2b; --bg:#faf7f2; --card:#ffffff;
+    --line:#e5ddcf; --accent:#7a5c3e; --muted:#8a8178; --sel:#f7e08b; --last:#cde6a7; --check:#e08b8b; --bad:#e08b8b;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --ink:#ece7df; --bg:#1e1b17; --card:#2a2620; --line:#453e33; --accent:#d8b48a; --muted:#a89c8c; --sel:#8a7434; --last:#4d6b3f; --check:#8b3a3a; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+  header{display:flex;align-items:center;gap:.8rem;padding:1rem 1.5rem;border-bottom:1px solid var(--line);background:var(--card);flex-wrap:wrap}
+  header img{width:34px;height:34px}
+  header h1{font-size:1.1rem;margin:0}
+  header a{color:var(--accent);text-decoration:none;font-size:.9rem}
+  .badge{background:var(--accent);color:#fff;font-size:.68rem;font-weight:700;border-radius:20px;padding:.12rem .5rem;vertical-align:middle}
+  main{max-width:1100px;margin:0 auto;padding:1rem 1.5rem 4rem}
+  #status{color:var(--muted);font-size:.85rem}
+  #controls{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.8rem 1rem;margin:1rem 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:.6rem .9rem}
+  #controls label{display:block;font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-bottom:.2rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  #controls input,#controls select{width:100%;padding:.35rem .45rem;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);font-size:.9rem}
+  #controls .wide{grid-column:1/-1}
+  #controls button, a.btn{cursor:pointer;border:1px solid var(--line);background:var(--light);color:#3a2f22;border-radius:6px;padding:.35rem .7rem;font-size:.85rem;text-decoration:none;display:inline-block}
+  @media (prefers-color-scheme: dark){ #controls button, a.btn{background:var(--dark);color:#fff} }
+  #controls button:hover{filter:brightness(1.06)}
+  #boardArea{display:flex;gap:1rem;align-items:flex-start;flex-wrap:wrap}
+  #boardWrap{position:relative;width:min(92vw,520px);aspect-ratio:1}
+  #board{display:grid;grid-template-columns:repeat(8,1fr);grid-template-rows:repeat(8,1fr);width:100%;height:100%;border:1px solid var(--line);border-radius:6px;overflow:hidden;touch-action:manipulation}
+  .sq{position:relative;display:flex;align-items:center;justify-content:center;user-select:none}
+  .sq.l{background:var(--light)} .sq.d{background:var(--dark)}
+  .sq.last::before{content:"";position:absolute;inset:0;background:rgba(120,180,60,.45)}
+  .sq.sel::before{content:"";position:absolute;inset:0;background:rgba(250,220,80,.55)}
+  .sq.bad::before{content:"";position:absolute;inset:0;background:rgba(220,60,60,.5)}
+  .sq img{width:88%;height:88%;position:relative;z-index:1;pointer-events:none}
+  .sq .dot{position:absolute;z-index:2;width:26%;height:26%;border-radius:50%;background:rgba(20,20,20,.28)}
+  .coord{position:absolute;font-size:.6rem;z-index:2;pointer-events:none}
+  .coord.f{right:2px;bottom:1px} .coord.r{left:2px;top:1px}
+  .sq.l .coord{color:var(--dark)} .sq.d .coord{color:var(--light)}
+  #arrows{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:3}
+  #side{flex:1 1 280px;min-width:250px;display:flex;flex-direction:column;gap:.6rem}
+  #meta{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:.6rem .8rem;font-size:.85rem}
+  #meta .m{color:var(--muted)}
+  #note{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:8px;padding:.6rem .8rem;font-size:.9rem;min-height:3.5em}
+  #note .t{font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-bottom:.2rem}
+  #traps{background:var(--card);border:1px solid var(--line);border-left:4px solid #b06a3a;border-radius:8px;padding:.6rem .8rem;font-size:.85rem}
+  #progress{height:10px;background:var(--line);border-radius:6px;overflow:hidden}
+  #progressFill{height:100%;width:0;background:var(--accent);transition:width .25s}
+  #progTxt{font-size:.8rem;color:var(--muted)}
+  #moves{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:.5rem .7rem;height:150px;overflow-y:auto;font-size:.9rem;line-height:1.9}
+  #moves .mv{cursor:pointer;padding:.05rem .3rem;border-radius:4px;display:inline-block}
+  #moves .mv:hover{background:var(--light)}
+  #moves .mv.cur{background:var(--accent);color:#fff}
+  #moves .mv.done{color:var(--accent)}
+  #nav{display:flex;gap:.4rem;flex-wrap:wrap;margin:.4rem 0;align-items:center}
+  #nav button{font-size:1rem;padding:.35rem .6rem;cursor:pointer;border:1px solid var(--line);background:var(--light);border-radius:6px;color:#3a2f22}
+  @media (prefers-color-scheme: dark){ #nav button{background:var(--dark);color:#fff} }
+  footer{color:var(--muted);font-size:.8rem;text-align:center;margin-top:2rem;line-height:1.7}
+  footer a{color:var(--accent)}
+  @media (max-width:640px){
+    body{font-size:16px}
+    main{padding:.5rem .7rem 3rem}
+    header{padding:.7rem .8rem;gap:.5rem}
+    header h1{font-size:.98rem}
+    header img{width:28px;height:28px}
+    #controls{grid-template-columns:1fr 1fr}
+    #controls select{font-size:16px;padding:.5rem}
+    #controls button{font-size:16px;padding:.55rem .8rem;touch-action:manipulation}
+    #boardArea{flex-direction:column}
+    #boardWrap{width:100%}
+    #moves{height:120px}
+  }
+</style>
+</head>
+<body>
+<header>
+  <img src="https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/assets/img/pieces/livius/wn.svg" alt="knight">
+  <h1>SchachKenner · Learn openings <span class="badge">NEW!</span></h1>
+  <a href="./index.html">🔎 Explorer</a>
+  <a href="./play.html">🤖 Play &amp; Analyze</a>
+  <a href="https://github.com/BucciMobile/SchachKenner">← repo</a>
+  <a href="https://ko-fi.com/buccigov/goal?g=0" target="_blank" rel="noopener" title="Support SchachKenner on Ko-fi" style="margin-left:auto">
+    <img src="https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/assets/img/ko-fi-button.png" alt="Support me on Ko-fi" style="height:32px;width:auto;display:block;border-radius:8px">
+  </a>
+  <span id="status">loading…</span>
+</header>
+<main>
+  <p>Learn the <strong>26 most-played openings</strong> move by move. Mainlines are derived from the
+  <strong>CC0/MIT/Unlicense PGN datasets hosted in this repo</strong> (most frequent line per ECO family);
+  every move carries an <strong>original explanation</strong> (CC0) plus a variants &amp; traps note.
+  Data &amp; license proofs: <a href="https://github.com/BucciMobile/SchachKenner/tree/main/data/openings">data/openings/</a> ·
+  <a href="https://github.com/BucciMobile/SchachKenner/blob/main/licenses/openings-dataset.md">licenses/openings-dataset.md</a></p>
+
+  <section id="controls">
+    <div class="wide"><label for="opening">Opening (by ECO family — frequency from our datasets)</label>
+      <select id="opening"></select></div>
+    <div><label for="mode">Mode</label>
+      <select id="mode">
+        <option value="view">👀 View — step through the line</option>
+        <option value="learn">🧠 Learn — play the moves yourself</option>
+      </select></div>
+    <div><label for="hintBtn">…</label>
+      <button id="hintBtn" type="button">💡 Hint (show move + note)</button>
+      <button id="resetBtn" type="button">↺ Reset</button></div>
+    <div class="wide"><label>Progress: <span id="progTxt"></span></label>
+      <div id="progress"><div id="progressFill"></div></div></div>
+  </section>
+
+  <div id="nav">
+    <button id="bFirst" title="start">⏮</button>
+    <button id="bPrev" title="previous move">◀</button>
+    <button id="bNext" title="next move">▶</button>
+    <button id="bLast" title="end">⏭</button>
+    <span id="plyInfo" style="align-self:center;color:var(--muted);font-size:.85rem"></span>
+  </div>
+
+  <section id="boardArea">
+    <div id="boardWrap"><div id="board"></div><svg id="arrows" viewBox="0 0 800 800" preserveAspectRatio="none">
+      <defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+        <path d="M 0 0 L 10 5 L 0 10 z" fill="#2e7d32"></path></marker></defs>
+      <line id="arrowLine" x1="0" y1="0" x2="0" y2="0" stroke="#2e7d32" stroke-width="14" marker-end="url(#ah)" opacity="0"></line>
+    </svg></div>
+    <div id="side">
+      <div id="meta">…</div>
+      <div id="note"><div class="t">💡 Explanation</div><span id="noteTxt"></span></div>
+      <div id="traps" hidden><div class="t" style="font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-bottom:.2rem">⚠️ Variants &amp; traps</div><span id="trapsTxt"></span></div>
+      <div id="moves"></div>
+    </div>
+  </section>
+
+  <footer>
+    <p>Opening lines derived from this repo's own CC0/MIT/Unlicense PGN datasets · explanations are original text (CC0) ·
+    piece icons: livius set (Unlicense) · chess rules via <a href="https://github.com/jhlywa/chess.js">chess.js</a> (BSD-2-Clause, via CDN) ·
+    license proofs in <a href="https://github.com/BucciMobile/SchachKenner/tree/main/licenses">licenses/</a></p>
+    <p style="margin:.6rem 0 0;font-size:.75rem">♞ based on <a href="https://github.com/BucciMobile/SchachKenner">SchachKenner</a> (CC0)</p>
+  </footer>
+</main>
+
+<script type="module">
+import { Chess } from "https://cdn.jsdelivr.net/npm/chess.js@1.4.0/dist/esm/chess.js";
+
+"use strict";
+const PIECES = "https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/assets/img/pieces/livius/";
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+let openings = [];
+let cur = null;            // current opening object
+let ch = new Chess();
+let ply = 0;               // how many line moves are on the board
+let mode = "view";
+let selected = null, legalTargets = [];
+let strikes = 0, totalMistakes = 0, lastMove = null, badSq = null, hintArrow = null;
+let learned = new Set(JSON.parse(localStorage.getItem("sk-learned-v1") || "[]"));
+
+function setStatus(s){ $("status").textContent = s; }
+
+/* ---------- board ---------- */
+function squareXY(sq){
+  const f = sq.charCodeAt(0) - 97, r = +sq[1];
+  return [(f + 0.5) * 100, (8 - r + 0.5) * 100];
+}
+function render(){
+  const b = ch.board();
+  const el = $("board");
+  el.innerHTML = "";
+  for (let r = 0; r < 8; r++) for (let f = 0; f < 8; f++){
+    const sq = String.fromCharCode(97 + f) + (8 - r);
+    const cell = b[r][f];
+    const d = document.createElement("div");
+    d.className = "sq " + ((r + f) % 2 ? "d" : "l");
+    d.dataset.sq = sq;
+    if (lastMove && (lastMove.from === sq || lastMove.to === sq)) d.classList.add("last");
+    if (selected === sq) d.classList.add("sel");
+    if (badSq === sq) d.classList.add("bad");
+    if (f === 0){ const c = document.createElement("span"); c.className = "coord r"; c.textContent = 8 - r; d.appendChild(c); }
+    if (r === 7){ const c = document.createElement("span"); c.className = "coord f"; c.textContent = String.fromCharCode(97 + f); d.appendChild(c); }
+    if (legalTargets.find(m => m.to === sq)){ const dot = document.createElement("span"); dot.className = "dot"; d.appendChild(dot); }
+    if (cell){
+      const img = document.createElement("img");
+      img.src = PIECES + cell.color + cell.type + ".svg";
+      img.alt = cell.color + cell.type;
+      d.appendChild(img);
+    }
+    d.addEventListener("click", () => onSquare(sq));
+    el.appendChild(d);
+  }
+  const line = $("arrowLine");
+  if (hintArrow){
+    const [x1, y1] = squareXY(hintArrow.from), [x2, y2] = squareXY(hintArrow.to);
+    line.setAttribute("x1", x1); line.setAttribute("y1", y1);
+    line.setAttribute("x2", x2 * 0.82 + x1 * 0.18); line.setAttribute("y2", y2 * 0.82 + y1 * 0.18);
+    line.setAttribute("opacity", "0.9");
+  } else line.setAttribute("opacity", "0");
+  // move list
+  const mv = $("moves");
+  let html = "";
+  if (cur) for (let i = 0; i < cur.line.length; i++){
+    if (i % 2 === 0) html += '<span style="color:var(--muted);display:inline-block;width:2.2em">' + (i / 2 + 1) + ".</span>";
+    const done = i < ply;
+    html += '<span class="mv' + (i === ply - 1 ? " cur" : "") + (done ? " done" : "") + '" data-ply="' + (i + 1) + '">' + esc(cur.line[i].san) + "</span> ";
+  }
+  mv.innerHTML = html || '<span style="color:var(--muted)">–</span>';
+  $("plyInfo").textContent = cur ? ("move " + Math.ceil(ply / 2) + " · ply " + ply + "/" + cur.line.length) : "";
+  // progress
+  const pct = cur && cur.line.length ? Math.round(ply / cur.line.length * 100) : 0;
+  $("progressFill").style.width = pct + "%";
+  $("progTxt").textContent = cur ? (pct + "% · " + ply + "/" + cur.line.length + " moves" + (totalMistakes ? " · " + totalMistakes + " mistake" + (totalMistakes > 1 ? "s" : "") : "") + (strikes ? " · strikes " + strikes + "/3" : "")) : "";
+  // note panel
+  if (cur){
+    if (ply === 0){ $("noteTxt").textContent = cur.intro; }
+    else { $("noteTxt").textContent = cur.line[ply - 1].san + " — " + cur.line[ply - 1].note; }
+    $("traps").hidden = !(ply === 0 && cur.traps);
+    if (ply === 0) $("trapsTxt").textContent = cur.traps;
+  }
+  // meta
+  if (cur){
+    $("meta").innerHTML = "<strong>" + esc(cur.name) + "</strong> · ECO " + esc(cur.eco) +
+      '<br><span class="m">' + cur.games.toLocaleString() + " games in our datasets · " +
+      '<a href="' + esc(cur.wiki) + '" target="_blank" rel="noopener">Wikipedia ↗</a> · ' +
+      (learned.has(cur.key) ? "✅ learned" : "not learned yet") + "</span>";
+  }
+}
+
+/* ---------- navigation / state ---------- */
+function rebuild(p){
+  ch = new Chess();
+  p = Math.max(0, Math.min(cur.line.length, p));
+  for (let i = 0; i < p; i++){
+    try { ch.move({ from: cur.line[i].uci.slice(0, 2), to: cur.line[i].uci.slice(2, 4), promotion: cur.line[i].uci[4] || undefined }); }
+    catch(e){ break; }
+  }
+  ply = p;
+  const hist = ch.history({ verbose: true });
+  lastMove = hist.length ? { from: hist[hist.length - 1].from, to: hist[hist.length - 1].to } : null;
+}
+function setPly(p){
+  rebuild(p);
+  selected = null; legalTargets = []; badSq = null; hintArrow = null;
+  render();
+}
+
+function loadOpening(key){
+  const o = openings.find(x => x.key === key) || openings[0];
+  if (!o) return;
+  cur = o;
+  strikes = 0; totalMistakes = 0;
+  setPly(0);
+  setStatus(mode === "learn" ? "Your turn — find " + o.line[0].san : "viewing " + o.name);
+}
+
+/* ---------- interaction ---------- */
+function onSquare(sq){
+  if (!cur) return;
+  if (mode === "learn" && ply < cur.line.length){
+    const piece = ch.get(sq);
+    if (selected){
+      const mv = legalTargets.find(m => m.to === sq);
+      if (mv){
+        const expected = cur.line[ply];
+        const promo = mv.promotion || (expected.uci[4] || "q");
+        const uci = mv.from + mv.to + (mv.promotion ? mv.promotion : "");
+        if (uci === expected.uci.slice(0, 4) + (expected.uci[4] || "") || (mv.from + mv.to) === expected.uci.slice(0, 4) && (mv.promotion || "") === (expected.uci[4] || "")){
+          // correct
+          applyMove(expected);
+          strikes = 0;
+          setStatus("✔ " + expected.san + " — " + expected.note);
+        } else {
+          // wrong
+          strikes++; totalMistakes++;
+          badSq = sq;
+          setStatus("✘ not the mainline move (" + strikes + "/3)" + (strikes >= 3 ? " — the tool plays " + expected.san : ""));
+          render();
+          if (strikes >= 3){
+            setTimeout(() => { badSq = null; applyMove(expected); setStatus("💡 " + expected.san + " — " + expected.note); }, 700);
+          }
+          return;
+        }
+        selected = null; legalTargets = [];
+        render();
+        return;
+      }
+      selected = null; legalTargets = []; badSq = null;
+    }
+    if (piece && piece.color === ch.turn()){
+      selected = sq;
+      legalTargets = ch.moves({ square: sq, verbose: true });
+    }
+    render();
+  }
+}
+function applyMove(expected){
+  try { ch.move({ from: expected.uci.slice(0, 2), to: expected.uci.slice(2, 4), promotion: expected.uci[4] || undefined }); } catch(e){ return; }
+  ply++;
+  const hist = ch.history({ verbose: true });
+  lastMove = { from: hist[hist.length - 1].from, to: hist[hist.length - 1].to };
+  hintArrow = null;
+  if (ply >= cur.line.length){
+    learned.add(cur.key);
+    localStorage.setItem("sk-learned-v1", JSON.stringify([...learned]));
+    setStatus("🎉 " + cur.name + " learned! (" + totalMistakes + " mistakes) — pick the next opening!");
+    fillSelect();
+  }
+  render();
+}
+
+$("moves").addEventListener("click", ev => {
+  const s = ev.target.closest(".mv"); if (!s) return;
+  setPly(+s.getAttribute("data-ply"));
+});
+$("bFirst").addEventListener("click", () => setPly(0));
+$("bPrev").addEventListener("click", () => setPly(ply - 1));
+$("bNext").addEventListener("click", () => setPly(ply + 1));
+$("bLast").addEventListener("click", () => setPly(cur ? cur.line.length : 0));
+$("resetBtn").addEventListener("click", () => { strikes = 0; totalMistakes = 0; setPly(0); setStatus(mode === "learn" ? "Your turn — find " + (cur ? cur.line[0].san : "") : "reset"); });
+$("hintBtn").addEventListener("click", () => {
+  if (!cur || ply >= cur.line.length) return;
+  const expected = cur.line[ply];
+  hintArrow = { from: expected.uci.slice(0, 2), to: expected.uci.slice(2, 4) };
+  $("noteTxt").textContent = expected.san + " — " + expected.note;
+  render();
+  setStatus("💡 hint: " + expected.san);
+});
+$("opening").addEventListener("change", () => {
+  const q = new URLSearchParams(location.search);
+  q.set("opening", $("opening").value);
+  history.replaceState(null, "", "?" + q.toString());
+  loadOpening($("opening").value);
+});
+$("mode").addEventListener("change", () => {
+  mode = $("mode").value;
+  const q = new URLSearchParams(location.search);
+  q.set("mode", mode);
+  history.replaceState(null, "", "?" + q.toString());
+  strikes = 0; totalMistakes = 0;
+  setPly(0);
+  setStatus(mode === "learn" ? "Your turn — find " + (cur ? cur.line[0].san : "") : "viewing — use ▶ / arrow keys");
+});
+document.addEventListener("keydown", ev => {
+  if (ev.key === "ArrowRight") setPly(ply + 1);
+  else if (ev.key === "ArrowLeft") setPly(ply - 1);
+});
+
+function fillSelect(){
+  const sel = $("opening");
+  const groups = {};
+  for (const o of openings){
+    const letter = o.eco[0];
+    (groups[letter] = groups[letter] || []).push(o);
+  }
+  let html = "";
+  for (const letter of Object.keys(groups).sort()){
+    html += '<optgroup label="ECO ' + letter + '">';
+    for (const o of groups[letter]){
+      html += '<option value="' + o.key + '"' + (cur && cur.key === o.key ? " selected" : "") + '>' +
+        esc(o.name) + " (" + esc(o.eco) + ", " + o.games.toLocaleString() + " games" + (learned.has(o.key) ? " ✓" : "") + ")</option>";
+    }
+    html += "</optgroup>";
+  }
+  sel.innerHTML = html;
+}
+
+/* ---------- boot ---------- */
+(async () => {
+  try {
+    const r = await fetch("./openings.json");
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    const data = await r.json();
+    openings = data.openings;
+    fillSelect();
+    const q = new URLSearchParams(location.search);
+    if (q.get("mode")){ mode = q.get("mode"); $("mode").value = mode; }
+    loadOpening(q.get("opening") || openings[0].key);
+    $("opening").value = cur.key;
+    setStatus(mode === "learn" ? "Your turn — find " + cur.line[0].san : cur.name + " — use ▶ or → to step through");
+  } catch(e){
+    setStatus("could not load openings.json: " + e.message);
+  }
+  render();
+})();
+</script>
+</body>
+</html>

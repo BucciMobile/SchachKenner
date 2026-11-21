@@ -10,6 +10,8 @@
 -->
 # 3 · Openings & repertoires
 
+> 🆕 **Learn them interactively:** [SchachKenner Learn tool](https://BucciMobile.github.io/SchachKenner/learn.html) — 26 most-played openings (by ECO family, derived from this repo's own CC0/MIT/Unlicense PGNs), step-through view with an explanation per move + variants/traps, and a Learn mode where you play the mainline yourself (3 mistakes → auto-help). Data: [`data/openings/openings.json`](../data/openings/openings.json), license proof: [`licenses/openings-dataset.md`](../licenses/openings-dataset.md).
+
 [Back to README](../README.md)
 
 | Resource | What you get | Access / license | Link |

@@ -38,6 +38,7 @@ in `data/` — everything else is link-only (see the category files).
 | **Stockfish.js 16** (nmrugg/stockfish.js v16.0.0) — WASM chess engine | ✅ **GPLv3** — verbatim redistribution allowed with license text + Corresponding Source (the engine file itself carries the GPL header) | **Loaded unmodified via official jsDelivr CDN** in `docs/play.html` (single-thread build — GitHub Pages sends no COOP/COEP, so no SharedArrayBuffer); attribution + source link in the tool footer; nothing vendored or patched | [stockfishjs-gpl3.md](stockfishjs-gpl3.md) |
 | **Ko-fi support button PNG** | ✅ Owner-provided asset (uploaded by repo owner BucciMobile, 2026-11-20); Ko-fi-branded button linking to Ko-fi is Ko-fi's intended button use | **Hosted** in `assets/img/ko-fi-button.png`, shown in README (top) + `docs/play.html` header, linking to the owner's Ko-fi goal | [ko-fi-button.md](ko-fi-button.md) |
 | **17 public-domain chess books in 8 languages** (Internet Archive items, all published ≤ 1929) | ✅ Most items carry an explicit **Public Domain Mark 1.0** (`licenseurl` in the IA metadata); the rest are PD in the US by age (pre-1930) | **Hosted** full texts in `data/books/<lang>/` with per-file SHA-256; raw IA metadata JSON per item in `raw/ia-*.metadata.json` | [books-public-domain.md](books-public-domain.md) |
+| **Openings dataset** (`data/openings/openings.json`, 26 openings) | ✅ Derived in-repo from CC0/MIT/Unlicense PGN datasets (CC BY-SA datasets excluded); move lines & ECO codes are facts; explanation texts are original (CC0) | **Hosted** in `data/openings/` + served copy `docs/openings.json`; generator scripts in `scripts/` | [openings-dataset.md](openings-dataset.md) |
 
 ## SHA-256 of the raw evidence pages (retrieved 2026-11-19 UTC)
 
@@ -93,6 +94,12 @@ c79dd341ed5b7d64235b9885587ffd545ace699284cca62d8f0d1fe6881e7197  raw/ia-bub_gb_
 fe2e89448e7de081598d2caafaef616bbaa83b8b018d8d02460a0639e8a907bb  raw/ia-lasker-s-manual-of-chess.metadata.json
 2bc2d7fc161afaf5ef37afcc2aad1f888d0709fb094b16530b98b5c1cc1f3f6e  raw/ia-nimzowitsch-my-system.metadata.json
 3ea4ee4d64aab5920148ecc78068a6d9f5a34cfb2b1bb960a9f1796a30d489e6  raw/ia-osensocomumnoxadrez.metadata.json
+```
+
+The hosted openings dataset (`data/openings/openings.json` + `docs/openings.json`, built 2026-11-20 UTC):
+
+```
+2ad8dee380c234df533ec067dddc4454fa2914c16cbb3c7d8f2aa45b51e62ce8  data/openings/openings.json
 ```
 
 ## Rule for future additions
