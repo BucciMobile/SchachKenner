@@ -2,8 +2,8 @@
 
 Full-text chess books whose copyright has **expired** (all published ≤ 1929 → public domain
 in the US; most items additionally carry an explicit **Public Domain Mark 1.0** on the Internet
-Archive). License evidence per book: [`licenses/books-public-domain.md`](../licenses/books-public-domain.md)
-+ raw archive.org metadata in [`licenses/raw/`](raw/) (SHA-256 below).
+Archive). License evidence per book: [`licenses/books-public-domain.md`](../../licenses/books-public-domain.md)
++ raw archive.org metadata in [`licenses/raw/`](../../licenses/raw/) (SHA-256 below).
 
 Regenerate with `python scripts/fetch-books.py` (manifest: `scripts/books-manifest.json`).
 

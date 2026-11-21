@@ -160,7 +160,7 @@ This project stands on the shoulders of these sites, projects and people:
   [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/) ·
   [stockfish.js](https://github.com/nmrugg/stockfish.js) ·
   [chessboard.js](https://github.com/oakmac/chessboardjs) ·
-  [react-chessboard](https://github.com/wass08/react-chessboard) ·
+  [react-chessboard](https://github.com/Clariity/react-chessboard) ·
   [lila (lichess server)](https://github.com/lichess-org/lila) ·
   [chess-openings dataset](https://github.com/lichess-org/chess-openings) ·
   [Polyglot](https://github.com/ddugovic/polyglot) ·

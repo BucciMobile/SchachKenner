@@ -21,4 +21,4 @@
 | Gaviota tablebases | Free 3–5 men endgame tablebases | Free | https://chessprogramming.org/Gaviota_Tablebases |
 | Polyglot opening books | Free `.bin` books for engines/GUIs | Open — see repo | https://github.com/gmcheems-org/free-opening-books |
 | Polyglot format/tools | Book format spec + reader/writer | Open source (GPL) | https://github.com/ddugovic/polyglot · https://www.caissa-chess.org/tools/polyglot |
-| Chess Programming Wiki — tablebases | Overview of all TB formats (Syzygy, Gaviota, Nalimov, DTM…) | CC BY-SA 4.0 | https://chessprogramming.org/Tablebases |
+| Chess Programming Wiki — tablebases | Overview of all TB formats (Syzygy, Gaviota, Nalimov, DTM…) | CC BY-SA 4.0 | https://chessprogramming.org/Syzygy_Bases |

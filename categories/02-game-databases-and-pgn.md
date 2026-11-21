@@ -61,7 +61,7 @@ Full dumps (GBs) are **not** hosted — get them from https://database.lichess.o
 | lichess elite database | Subset, both players ≥ 2400 Elo | CC0 | https://database.lichess.org/#elite |
 | Lumbras Gigabase | ~9.6M games, SCID + PGN | CC BY-NC 4.0 (credit, non-commercial) — evidence in `licenses/`; click-gated download | https://lumbrasgigabase.com/en/ |
 | FICS games archive | All games ever played on the Free Internet Chess Server | Free download, no explicit license → link only | https://www.ficsgames.org/ |
-| Caïssabase (legacy) | Formerly free ~5M curated SCID games (site discontinued 2025) | Historical | https://chessprogramming.org/Caissabase |
+| Caïssabase (legacy) | Formerly free ~5M curated SCID games (site discontinued 2025) | Historical | https://chessprogramming.org/ |
 
 ## 📰 Subcategory B — Weekly news & curated/themed collections (PGN)
 
