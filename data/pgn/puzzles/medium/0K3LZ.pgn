@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K3LZ"]
+[Difficulty "medium"]
+[Rating "1248"]
+[Themes "advantage middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/nuWhdBZk#47"]
+[Solution "h4h5 d7g4 h5f7 g8f7"]
+[SolutionSAN "Qh5 Bg4 Qxf7+ Kxf7"]
+[FEN "r1q3k1/p2b1r1p/1p3p1B/3pp1p1/2pPn2Q/2P2N2/PPB2PPP/4RRK1 w - - 0 24"]
+[SetUp "1"]
+
+24. Qh5 Bg4 25. Qxf7+ Kxf7 *

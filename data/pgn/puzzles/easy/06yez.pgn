@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06yez"]
+[Difficulty "easy"]
+[Rating "1198"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/IclMHAJl#23"]
+[Solution "g1f3 g5c1"]
+[SolutionSAN "Nf3 Qc1#"]
+[FEN "r2k1b1r/pp1b1Bpp/2n5/3Qp1q1/8/3P4/PP2PP1P/RN2K1NR w KQ - 3 12"]
+[SetUp "1"]
+
+12. Nf3 Qc1# *

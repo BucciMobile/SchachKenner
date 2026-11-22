@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08PpV"]
+[Difficulty "easy"]
+[Rating "876"]
+[Themes "cornerMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/pwNY6E22#87"]
+[Solution "g2h1 e4f2"]
+[SolutionSAN "Kh1 Nf2#"]
+[FEN "2R5/kp5p/6q1/p2p4/P2Pn3/1P1Q4/6KP/3R4 w - - 1 44"]
+[SetUp "1"]
+
+44. Kh1 Nf2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08wqk"]
+[Difficulty "easy"]
+[Rating "1183"]
+[Themes "crushing endgame intermezzo long"]
+[GameUrl "https://lichess.org/game/feTcy5u3/black#54"]
+[Solution "f8f7 g3g6 h7h8 e5f7 d5f7 g6f7"]
+[SolutionSAN "Rxf7 Qxg6+ Kh8 Nxf7+ Qxf7 Qxf7"]
+[FEN "1r3r2/pP3R1k/6pp/3qN3/3P4/6Q1/P5PP/6K1 b - - 0 27"]
+[SetUp "1"]
+
+27... Rxf7 28. Qxg6+ Kh8 29. Nxf7+ Qxf7 30. Qxf7 *

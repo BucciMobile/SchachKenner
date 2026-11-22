@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BDSa"]
+[Difficulty "easy"]
+[Rating "788"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/niFTSrdj/black#40"]
+[Solution "f6e4 c3g7"]
+[SolutionSAN "Ne4 Qxg7#"]
+[FEN "r2r2k1/1q2ppbp/1p3np1/nPp2b2/P1N5/2Q1PN1P/1B2BPP1/2R2RK1 b - - 5 20"]
+[SetUp "1"]
+
+20... Ne4 21. Qxg7# *

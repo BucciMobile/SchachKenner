@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K1RS"]
+[Difficulty "medium"]
+[Rating "1267"]
+[Themes "anastasiaMate attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/rcwYXJvx#41"]
+[Solution "g1h1 h8h2 h1h2 a8h8"]
+[SolutionSAN "Kh1 Rxh2+ Kxh2 Rh8#"]
+[FEN "r6r/1p2k1p1/2p3p1/p1p1N3/P2nP3/1B1P4/1PP1nPPP/3R1RK1 w - - 5 21"]
+[SetUp "1"]
+
+21. Kh1 Rxh2+ 22. Kxh2 Rh8# *

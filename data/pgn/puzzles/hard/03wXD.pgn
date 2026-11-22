@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03wXD"]
+[Difficulty "hard"]
+[Rating "1801"]
+[Themes "crushing endgame fork quietMove veryLong"]
+[GameUrl "https://lichess.org/game/9umB3kI3#125"]
+[Solution "a4b5 c4d6 b5a5 d6b7 a5b6 b7d6 b6c6 d6f5"]
+[SolutionSAN "Kb5 Nd6+ Kxa5 Nxb7+ Kb6 Nd6 Kc6 Nf5"]
+[FEN "8/1R3p2/4k3/p5P1/K1nP4/4P3/8/8 w - - 3 63"]
+[SetUp "1"]
+
+63. Kb5 Nd6+ 64. Kxa5 Nxb7+ 65. Kb6 Nd6 66. Kc6 Nf5 *

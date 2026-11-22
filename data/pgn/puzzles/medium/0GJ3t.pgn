@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GJ3t"]
+[Difficulty "medium"]
+[Rating "1399"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/JTANm9Wa#59"]
+[Solution "a5g5 a7a1 c1d2 d4f2 d2c3 f8c8"]
+[SolutionSAN "Qxg5 Ra1+ Kd2 Qxf2+ Kc3 Rc8+"]
+[FEN "5r2/r4k2/4p2P/Q5pP/1P1q1p2/3P4/1PP2P2/2KR3R w - - 1 30"]
+[SetUp "1"]
+
+30. Qxg5 Ra1+ 31. Kd2 Qxf2+ 32. Kc3 Rc8+ *

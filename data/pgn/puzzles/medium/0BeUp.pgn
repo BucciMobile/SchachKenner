@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BeUp"]
+[Difficulty "medium"]
+[Rating "1262"]
+[Themes "crushing hangingPiece intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/l8MzBv77/black#34"]
+[Solution "b4b5 c6e7 g8h7 c3b5"]
+[SolutionSAN "Qxb5 Nxe7+ Kh7 Nxb5"]
+[FEN "r4rk1/ppp1bpp1/2N2n1p/1Q6/1q1Pp1P1/2N4P/PP3P2/R1B1R1K1 b - - 0 17"]
+[SetUp "1"]
+
+17... Qxb5 18. Nxe7+ Kh7 19. Nxb5 *

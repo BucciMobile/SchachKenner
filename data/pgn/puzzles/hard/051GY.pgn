@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "051GY"]
+[Difficulty "hard"]
+[Rating "2060"]
+[Themes "endgame long mate mateIn3 queensideAttack"]
+[GameUrl "https://lichess.org/game/BRnsMXsQ#45"]
+[Solution "f5f6 e1d2 c1b1 e7e1 g4d1 e1d1"]
+[SolutionSAN "f6 Bd2+ Kb1 Qe1+ Qd1 Qxd1#"]
+[FEN "3r2k1/p3qppp/2P5/1N3P2/6Q1/1B6/PPP3PP/2K1b3 w - - 1 23"]
+[SetUp "1"]
+
+23. f6 Bd2+ 24. Kb1 Qe1+ 25. Qd1 Qxd1# *

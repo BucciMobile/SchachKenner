@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02ZzV"]
+[Difficulty "hard"]
+[Rating "2118"]
+[Themes "endgame mate mateIn2 quietMove short"]
+[GameUrl "https://lichess.org/game/b41IbQK9/black#116"]
+[Solution "f4d3 c4b3 e3e2 d4c2"]
+[SolutionSAN "Nd3 Bb3 e2 Nc2#"]
+[FEN "8/7b/8/p7/2BNpn2/k1K1p3/P7/8 b - - 9 58"]
+[SetUp "1"]
+
+58... Nd3 59. Bb3 e2 60. Nc2# *

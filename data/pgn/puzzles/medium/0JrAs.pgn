@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JrAs"]
+[Difficulty "medium"]
+[Rating "1634"]
+[Themes "advancedPawn crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/nj1U1zDG/black#82"]
+[Solution "e7c7 d6c7 e2e1q f2e1"]
+[SolutionSAN "Rxc7 dxc7 e1=Q+ Kxe1"]
+[FEN "8/2R1rk1p/p2P4/6p1/6P1/1r5P/4pK2/2R5 b - - 2 41"]
+[SetUp "1"]
+
+41... Rxc7 42. dxc7 e1=Q+ 43. Kxe1 *

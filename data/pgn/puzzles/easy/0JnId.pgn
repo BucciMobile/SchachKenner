@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JnId"]
+[Difficulty "easy"]
+[Rating "957"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/S4uBkTrU/black#60"]
+[Solution "b7d7 h6h8"]
+[SolutionSAN "Rxd7 Rh8#"]
+[FEN "5rk1/1r1R1p2/7R/6p1/p1PQ4/P5P1/5PKP/1q6 b - - 0 30"]
+[SetUp "1"]
+
+30... Rxd7 31. Rh8# *

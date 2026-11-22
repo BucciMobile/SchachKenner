@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F38g"]
+[Difficulty "easy"]
+[Rating "1042"]
+[Themes "bishopEndgame crushing endgame master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/zhXJVRil#101"]
+[Solution "c6b7 c4d5 b7d5 e5d5"]
+[SolutionSAN "Bb7 Bd5+ Bxd5 Kxd5"]
+[FEN "8/8/2B5/pp2k3/2b2p2/P1P2K2/2P5/8 w - - 4 51"]
+[SetUp "1"]
+
+51. Bb7 Bd5+ 52. Bxd5 Kxd5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02W4B"]
+[Difficulty "easy"]
+[Rating "1177"]
+[Themes "crushing discoveredAttack discoveredCheck endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/eQuPoKSR/black#58"]
+[Solution "f8e7 e3d2 e7d6 d2c1"]
+[SolutionSAN "Ke7 Kd2+ Kd6 Kxc1"]
+[FEN "5k2/p4p1p/1p4p1/3p4/3P1PP1/4K2P/PP2R3/2r5 b - - 5 29"]
+[SetUp "1"]
+
+29... Ke7 30. Kd2+ Kd6 31. Kxc1 *

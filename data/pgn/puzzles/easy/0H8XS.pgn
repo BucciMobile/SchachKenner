@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H8XS"]
+[Difficulty "easy"]
+[Rating "974"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/R6u8lnqb#25"]
+[Solution "g4e4 e7b4 c2c3 b4b5"]
+[SolutionSAN "Qxe4 Qb4+ c3 Qxb5"]
+[FEN "r3k2r/pppbqp2/2n1p2p/1B6/3Pp1Q1/4P3/PPP2PP1/R3K1NR w KQkq - 4 13"]
+[SetUp "1"]
+
+13. Qxe4 Qb4+ 14. c3 Qxb5 *

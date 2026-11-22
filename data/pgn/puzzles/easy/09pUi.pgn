@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09pUi"]
+[Difficulty "easy"]
+[Rating "529"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+[GameUrl "https://lichess.org/game/8piwBGAT#79"]
+[Solution "h5h6 d4d3 h6h7 d3d2 h7h8r d2d1q"]
+[SolutionSAN "h6 d3 h7 d2 h8=R d1=Q+"]
+[FEN "8/8/p7/1p5P/1P1pk1K1/P7/8/8 w - - 1 40"]
+[SetUp "1"]
+
+40. h6 d3 41. h7 d2 42. h8=R d1=Q+ *

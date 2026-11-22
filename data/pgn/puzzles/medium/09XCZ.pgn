@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09XCZ"]
+[Difficulty "medium"]
+[Rating "1404"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/bJJnXz46/black#42"]
+[Solution "c7c2 a1c1 c2c1 b3c1"]
+[SolutionSAN "Qxc2 Rc1 Qxc1+ Nxc1"]
+[FEN "2kr3r/pbq5/1p2Rp2/3p4/3Q1Pn1/1N4P1/PPP3B1/R5K1 b - - 0 21"]
+[SetUp "1"]
+
+21... Qxc2 22. Rc1 Qxc1+ 23. Nxc1 *

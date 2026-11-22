@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BP3P"]
+[Difficulty "easy"]
+[Rating "1157"]
+[Themes "crushing discoveredAttack discoveredCheck endgame master short"]
+[GameUrl "https://lichess.org/game/WGVBGEJ5/black#74"]
+[Solution "g6c6 f5f6 h7g8 d3d8"]
+[SolutionSAN "Qc6 f6+ Kg8 Qd8+"]
+[FEN "8/5ppk/p5qp/2r1PP2/8/3Q3P/2p3PK/2B5 b - - 0 37"]
+[SetUp "1"]
+
+37... Qc6 38. f6+ Kg8 39. Qd8+ *

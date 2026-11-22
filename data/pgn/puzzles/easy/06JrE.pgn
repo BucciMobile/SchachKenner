@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06JrE"]
+[Difficulty "easy"]
+[Rating "1079"]
+[Themes "advantage hangingPiece long middlegame"]
+[GameUrl "https://lichess.org/game/wKcHocgF#37"]
+[Solution "d1e1 e5b2 e4e7 e8e7 e1e7 b2c1"]
+[SolutionSAN "Re1 Bxb2 Qxe7 Rxe7 Rxe7 Bxc1"]
+[FEN "r3r1k1/p1p1qp1p/1p4p1/4b3/2P1Q3/1P4P1/PB3P1P/2RR2K1 w - - 0 19"]
+[SetUp "1"]
+
+19. Re1 Bxb2 20. Qxe7 Rxe7 21. Rxe7 Bxc1 *

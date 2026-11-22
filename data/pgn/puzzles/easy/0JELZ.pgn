@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JELZ"]
+[Difficulty "easy"]
+[Rating "859"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/c5dk934q#37"]
+[Solution "c3b3 d4b4"]
+[SolutionSAN "Kb3 Qb4#"]
+[FEN "R7/pppk1pp1/2p5/2b5/3qPB2/2KP1Pp1/PPP3P1/RN6 w - - 4 19"]
+[SetUp "1"]
+
+19. Kb3 Qb4# *

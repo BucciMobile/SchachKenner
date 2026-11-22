@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CC1C"]
+[Difficulty "easy"]
+[Rating "1086"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/POXJLHoJ#51"]
+[Solution "e1c1 f4e2 c1b1 e2g3"]
+[SolutionSAN "O-O-O Ne2+ Kb1 Nxg3"]
+[FEN "r4rk1/3q2p1/b1pNp2p/p1B5/1p3n2/6Q1/PPP2PPP/R3K2R w KQ - 0 26"]
+[SetUp "1"]
+
+26. O-O-O Ne2+ 27. Kb1 Nxg3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FDI6"]
+[Difficulty "hard"]
+[Rating "1908"]
+[Themes "crushing endgame long rookEndgame skewer"]
+[GameUrl "https://lichess.org/game/vnTpDG4m/black#78"]
+[Solution "c4b4 b7b4 a5b4 b1a1 a4b5 a1a8"]
+[SolutionSAN "Rb4 R7xb4+ axb4 Ra1+ Kb5 Rxa8"]
+[FEN "r7/1R6/4p2p/p5p1/k1r5/6P1/5K1P/1R6 b - - 7 39"]
+[SetUp "1"]
+
+39... Rb4 40. R7xb4+ axb4 41. Ra1+ Kb5 42. Rxa8 *

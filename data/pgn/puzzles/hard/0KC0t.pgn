@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KC0t"]
+[Difficulty "hard"]
+[Rating "1701"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/RYUPteK1/black#54"]
+[Solution "f8d6 c7g7 f5g7 b7g7"]
+[SolutionSAN "Qxd6 Rcxg7+ Nxg7 Qxg7#"]
+[FEN "r4q2/pQR3pk/3B1p2/3p1n2/4b2P/8/PP2PK1P/6R1 b - - 10 27"]
+[SetUp "1"]
+
+27... Qxd6 28. Rcxg7+ Nxg7 29. Qxg7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BWlb"]
+[Difficulty "hard"]
+[Rating "1877"]
+[Themes "crushing defensiveMove endgame master short"]
+[GameUrl "https://lichess.org/game/8d7txuh8/black#82"]
+[Solution "c8e7 c5d6 e7c8 d6c7"]
+[SolutionSAN "Ne7 Kd6 Nc8+ Kc7"]
+[FEN "2n5/8/5kp1/2K2p1p/2B2P1P/8/5P2/8 b - - 4 41"]
+[SetUp "1"]
+
+41... Ne7 42. Kd6 Nc8+ 43. Kc7 *

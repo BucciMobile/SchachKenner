@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Phf"]
+[Difficulty "medium"]
+[Rating "1251"]
+[Themes "advancedPawn crushing endgame fork promotion quietMove veryLong"]
+[GameUrl "https://lichess.org/game/BA85Gl3l/black#98"]
+[Solution "f4g3 d4f5 g3g2 f5d6 g2h3 e4e5 h3g2 e5e6 h4h3 e6e7 h3h2 e7e8q h2h1q e8e2"]
+[SolutionSAN "Kg3 Nf5+ Kxg2 Nxd6 Kxh3 e5 Kg2 e6 h3 e7 h2 e8=Q h1=Q Qe2+"]
+[FEN "8/8/3r4/6p1/2KNPk1p/5P1P/6P1/8 b - - 6 49"]
+[SetUp "1"]
+
+49... Kg3 50. Nf5+ Kxg2 51. Nxd6 Kxh3 52. e5 Kg2 53. e6 h3 54. e7 h2 55. e8=Q h1=Q 56. Qe2+ *

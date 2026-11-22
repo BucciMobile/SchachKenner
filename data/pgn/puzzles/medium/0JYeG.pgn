@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JYeG"]
+[Difficulty "medium"]
+[Rating "1464"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/IIZR2z2F#33"]
+[Solution "a1c1 c4c1 b2c1 c8c1"]
+[SolutionSAN "Rc1 Qxc1+ Bxc1 Rxc1+"]
+[FEN "2r1k2r/1p2nppp/4p3/p2pP3/1bqP4/5N2/1B1NQPPP/R3K2R w KQk - 2 17"]
+[SetUp "1"]
+
+17. Rc1 Qxc1+ 18. Bxc1 Rxc1+ *

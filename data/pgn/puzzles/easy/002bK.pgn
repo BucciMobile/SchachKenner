@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "002bK"]
+[Difficulty "easy"]
+[Rating "1080"]
+[Themes "advantage endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/IFGj8W5s/black#84"]
+[Solution "c6b5 a3b5 c3c2 e2d2"]
+[SolutionSAN "Bb5+ Nxb5 c2 Kd2"]
+[FEN "8/7p/2b1k3/p2p1pPB/1n1P3P/N1p1P3/4K3/8 b - - 1 42"]
+[SetUp "1"]
+
+42... Bb5+ 43. Nxb5 c2 44. Kd2 *

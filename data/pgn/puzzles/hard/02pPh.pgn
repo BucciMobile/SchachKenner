@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02pPh"]
+[Difficulty "hard"]
+[Rating "1810"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/hSgHKth4#55"]
+[Solution "b1d1 d7e5 c4d4 f4f3"]
+[SolutionSAN "Rbd1 Ne5 Qxd4 Qxf3+"]
+[FEN "6k1/3n1pp1/1r2p1p1/6P1/P1Qp1q2/1P3B1P/5K2/1R5R w - - 0 28"]
+[SetUp "1"]
+
+28. Rbd1 Ne5 29. Qxd4 Qxf3+ *

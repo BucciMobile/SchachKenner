@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08pJ2"]
+[Difficulty "hard"]
+[Rating "1786"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/8nNBGJbN/black#44"]
+[Solution "f6b2 d5e7 c8e8 e7f5"]
+[SolutionSAN "Bxb2 Ne7 Re8 Nxf5"]
+[FEN "2r2k1r/pp3pp1/3R1b1p/3N1b2/8/5N2/PP3PPP/4R1K1 b - - 2 22"]
+[SetUp "1"]
+
+22... Bxb2 23. Ne7 Re8 24. Nxf5 *

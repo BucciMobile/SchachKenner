@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09PPW"]
+[Difficulty "medium"]
+[Rating "1435"]
+[Themes "advantage endgame long rookEndgame skewer"]
+[GameUrl "https://lichess.org/game/ps8UiZLK/black#96"]
+[Solution "d7d6 h1e1 e5f6 h5h6 f6g5 h6d6"]
+[SolutionSAN "Rxd6 Re1+ Kf6 Rh6+ Kg5 Rxd6"]
+[FEN "8/p2r4/1p1P4/2p1kr1R/6p1/1P6/P7/2K4R b - - 0 48"]
+[SetUp "1"]
+
+48... Rxd6 49. Re1+ Kf6 50. Rh6+ Kg5 51. Rxd6 *

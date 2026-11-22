@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Iqtb"]
+[Difficulty "hard"]
+[Rating "2121"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/MTo6ilvK#41"]
+[Solution "c1e3 g7g5 f5g6 f7g6"]
+[SolutionSAN "Be3 g5 fxg6 fxg6"]
+[FEN "3r1rk1/pp3ppp/8/1q2nP2/4BQPb/8/PPP4P/R1B2R1K w - - 7 21"]
+[SetUp "1"]
+
+21. Be3 g5 22. fxg6 fxg6 *

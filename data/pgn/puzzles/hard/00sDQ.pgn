@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00sDQ"]
+[Difficulty "hard"]
+[Rating "2623"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/eDAqXjpA/black#62"]
+[Solution "f4f2 g2f2 e3f2 a1f1"]
+[SolutionSAN "Qf2 Qxf2 Bxf2 Rf1"]
+[FEN "2r2rk1/5p2/1pn1pPp1/1B1pP3/5q2/4b2R/1B4QP/R6K b - - 3 31"]
+[SetUp "1"]
+
+31... Qf2 32. Qxf2 Bxf2 33. Rf1 *

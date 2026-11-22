@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MuXe"]
+[Difficulty "medium"]
+[Rating "1658"]
+[Themes "advantage defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/LTmPi7uY/black#44"]
+[Solution "a8a4 c3a4 b4d2 e3d2 f8d8 d2e1"]
+[SolutionSAN "Rxa4 Nxa4 Bxd2 Bxd2 Rd8 Be1"]
+[FEN "r4rk1/1p4pp/8/4p3/RbP1p3/2N1B3/1P1R1PPP/6K1 b - - 0 22"]
+[SetUp "1"]
+
+22... Rxa4 23. Nxa4 Bxd2 24. Bxd2 Rd8 25. Be1 *

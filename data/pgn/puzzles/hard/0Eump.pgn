@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Eump"]
+[Difficulty "hard"]
+[Rating "2154"]
+[Themes "advantage defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/ig8lT5dd#69"]
+[Solution "e5f7 e8f7 g3h2 f7g8"]
+[SolutionSAN "Nxf7 Qxf7 Qh2 Qg8"]
+[FEN "4qr2/3p1rk1/pp1Pp1p1/2p1NpP1/2P1bP2/2P3Q1/PP3KP1/7R w - - 1 35"]
+[SetUp "1"]
+
+35. Nxf7 Qxf7 36. Qh2 Qg8 *

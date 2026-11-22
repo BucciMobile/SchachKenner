@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01JeV"]
+[Difficulty "easy"]
+[Rating "1154"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/84tx4izp/black#92"]
+[Solution "e1e4 c8h8"]
+[SolutionSAN "Re4 Rh8#"]
+[FEN "2R5/6p1/4p2k/3bN2p/3P1P2/8/5K2/4r3 b - - 2 46"]
+[SetUp "1"]
+
+46... Re4 47. Rh8# *

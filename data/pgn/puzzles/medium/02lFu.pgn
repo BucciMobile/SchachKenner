@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02lFu"]
+[Difficulty "medium"]
+[Rating "1295"]
+[Themes "crushing defensiveMove discoveredAttack discoveredCheck endgame short"]
+[GameUrl "https://lichess.org/game/MOVLqJsy#83"]
+[Solution "d5h5 h7g6 h5g5 g4g5"]
+[SolutionSAN "Rxh5+ Kg6 Rg5+ Rxg5+"]
+[FEN "8/7k/p3q3/3R3p/P3pprP/1P4PK/3Q1P2/8 w - - 1 42"]
+[SetUp "1"]
+
+42. Rxh5+ Kg6 43. Rg5+ Rxg5+ *

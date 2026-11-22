@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ARP7"]
+[Difficulty "easy"]
+[Rating "750"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/iYU0FoAw/black#52"]
+[Solution "b8c8 c1c8 f6e8 c8e8"]
+[SolutionSAN "Rxc8 Rxc8+ Ne8 Rxe8#"]
+[FEN "1rR3k1/5pp1/4pn1p/1p6/3P4/3BP3/1r3PPP/2R3K1 b - - 3 26"]
+[SetUp "1"]
+
+26... Rxc8 27. Rxc8+ Ne8 28. Rxe8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A5Iq"]
+[Difficulty "easy"]
+[Rating "1173"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/HGbjXeED#31"]
+[Solution "d2e4 f6h5 h4d8 h5f4"]
+[SolutionSAN "Nxe4 Nxh5 Bxd8 Nxf4"]
+[FEN "r1bq2kr/ppp3b1/2np1n1p/7B/3PpQ1B/2P1P3/PP1N1PPP/R3K2R w KQ - 2 16"]
+[SetUp "1"]
+
+16. Nxe4 Nxh5 17. Bxd8 Nxf4 *

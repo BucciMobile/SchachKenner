@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OZN6"]
+[Difficulty "medium"]
+[Rating "1498"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/oc3ht2fs#59"]
+[Solution "a7b6 f4f1 g1h2 f8f4 g2g3 f4d2"]
+[SolutionSAN "Qb6 Rf1+ Kh2 Qf4+ g3 Qd2+"]
+[FEN "5qk1/Q7/7p/P5p1/3B1r2/7P/1PP3P1/6K1 w - - 2 30"]
+[SetUp "1"]
+
+30. Qb6 Rf1+ 31. Kh2 Qf4+ 32. g3 Qd2+ *

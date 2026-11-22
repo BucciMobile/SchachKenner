@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01QHF"]
+[Difficulty "medium"]
+[Rating "1677"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/ZDZrONsV/black#32"]
+[Solution "g8e7 d4b5 c7c2 d2c2 c8c2 c1d1"]
+[SolutionSAN "Ne7 Nb5 Qxc2+ Rxc2 Rxc2+ Kd1"]
+[FEN "2r1k1nr/ppqn1ppp/4p3/3p4/1Q1NbPP1/P3B3/1PPR3P/2K2BR1 b k - 6 16"]
+[SetUp "1"]
+
+16... Ne7 17. Nb5 Qxc2+ 18. Rxc2 Rxc2+ 19. Kd1 *

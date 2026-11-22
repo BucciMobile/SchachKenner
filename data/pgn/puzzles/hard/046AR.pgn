@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "046AR"]
+[Difficulty "hard"]
+[Rating "1989"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/YDapWTRT#39"]
+[Solution "h5f3 d8d4 c3d4 f8b4"]
+[SolutionSAN "Bf3 Rxd4+ cxd4 Bb4#"]
+[FEN "3r1b1r/pp4pk/2p1p2p/5b1B/3Pq3/2P3P1/PP1K3P/R1BQ3R w - - 3 20"]
+[SetUp "1"]
+
+20. Bf3 Rxd4+ 21. cxd4 Bb4# *

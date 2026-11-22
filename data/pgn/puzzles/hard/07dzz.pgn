@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07dzz"]
+[Difficulty "hard"]
+[Rating "1850"]
+[Themes "crushing kingsideAttack master masterVsMaster middlegame pin short"]
+[GameUrl "https://lichess.org/game/M2lBjTsu#47"]
+[Solution "e5d7 c7g3 d5g2 c5f2"]
+[SolutionSAN "Nd7 Qg3+ Qg2 Bxf2+"]
+[FEN "5rk1/ppq2pp1/7p/2bQN3/6P1/2B4P/PPb2P2/4R1K1 w - - 0 24"]
+[SetUp "1"]
+
+24. Nd7 Qg3+ 25. Qg2 Bxf2+ *

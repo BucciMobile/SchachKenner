@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I0k1"]
+[Difficulty "hard"]
+[Rating "2029"]
+[Themes "crushing endgame long sacrifice skewer"]
+[GameUrl "https://lichess.org/game/oFuca1rT#75"]
+[Solution "e2e5 g7g4 f3g4 g1g4 f4e3 g4c4"]
+[SolutionSAN "Rxe5 Rxg4+ fxg4 Qxg4+ Ke3 Qxc4"]
+[FEN "8/ppp3rk/8/4p2p/2Q2KP1/P4P2/1P2R3/6q1 w - - 0 38"]
+[SetUp "1"]
+
+38. Rxe5 Rxg4+ 39. fxg4 Qxg4+ 40. Ke3 Qxc4 *

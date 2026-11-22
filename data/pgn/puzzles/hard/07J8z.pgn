@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07J8z"]
+[Difficulty "hard"]
+[Rating "2207"]
+[Themes "advantage defensiveMove master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/U37PGwek/black#40"]
+[Solution "f6d5 d1d5 f5h4 g2h1"]
+[SolutionSAN "Nxd5 Rxd5 Nh4+ Kh1"]
+[FEN "5rk1/1ppq1pp1/p2p1n1p/3N1n2/1PP5/P3r1P1/1BQ2PKP/2RR4 b - - 1 20"]
+[SetUp "1"]
+
+20... Nxd5 21. Rxd5 Nh4+ 22. Kh1 *

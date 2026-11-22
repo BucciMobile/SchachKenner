@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02yFZ"]
+[Difficulty "easy"]
+[Rating "1076"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/iktTKtGe/black#36"]
+[Solution "d7h3 e2f4 h3f5 d1d2"]
+[SolutionSAN "Qh3 Nf4 Qf5 Rxd2"]
+[FEN "r3kr2/pppq1pQp/3p4/3P4/8/2P1n1P1/PB1nN2P/R2R3K b q - 1 18"]
+[SetUp "1"]
+
+18... Qh3 19. Nf4 Qf5 20. Rxd2 *

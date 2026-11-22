@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GDJS"]
+[Difficulty "medium"]
+[Rating "1600"]
+[Themes "clearance endgame long mate mateIn3 pin sacrifice"]
+[GameUrl "https://lichess.org/game/WXhoAs3K#45"]
+[Solution "c3a4 d2f2 f1f2 d8d1 e4e1 d1e1"]
+[SolutionSAN "Na4 Qxf2+ Rxf2 Rd1+ Qe1 Rxe1#"]
+[FEN "3r2k1/p4pp1/1b5p/8/4Q3/P1N5/1P1q1PPP/5RK1 w - - 3 23"]
+[SetUp "1"]
+
+23. Na4 Qxf2+ 24. Rxf2 Rd1+ 25. Qe1 Rxe1# *

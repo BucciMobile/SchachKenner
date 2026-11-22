@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ANLa"]
+[Difficulty "easy"]
+[Rating "842"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/KKZulZkd#79"]
+[Solution "d5c5 b2b1 e2e1 b1e1"]
+[SolutionSAN "Rxc5 Rb1+ Re1 Rxe1#"]
+[FEN "8/5pk1/6p1/2pR3p/5b2/1B6/1rP1RPP1/6K1 w - - 4 40"]
+[SetUp "1"]
+
+40. Rxc5 Rb1+ 41. Re1 Rxe1# *

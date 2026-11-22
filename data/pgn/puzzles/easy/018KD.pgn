@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "018KD"]
+[Difficulty "easy"]
+[Rating "795"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/nG74b9qI/black#62"]
+[Solution "g1h2 e3e2 h2e2 d2e2"]
+[SolutionSAN "Qxh2+ Re2 Qxe2+ Kxe2"]
+[FEN "k6r/1b5p/6p1/1P6/3Q1P2/PP2R3/3K3P/6q1 b - - 4 31"]
+[SetUp "1"]
+
+31... Qxh2+ 32. Re2 Qxe2+ 33. Kxe2 *

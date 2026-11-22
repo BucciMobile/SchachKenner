@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07pY9"]
+[Difficulty "easy"]
+[Rating "772"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/Pm19gJRu#27"]
+[Solution "e1e2 h4f2"]
+[SolutionSAN "Ke2 Qf2#"]
+[FEN "r3k2r/ppp2pp1/2n4p/3Np3/1P1b3q/P2B1P1P/2PB3P/R2QK2R w KQkq - 1 14"]
+[SetUp "1"]
+
+14. Ke2 Qf2# *

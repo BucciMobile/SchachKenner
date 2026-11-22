@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FdOd"]
+[Difficulty "easy"]
+[Rating "532"]
+[Themes "backRankMate endgame mate mateIn2 queenEndgame short"]
+[GameUrl "https://lichess.org/game/LKI6I8Dq#47"]
+[Solution "b3c4 b7b1 e3c1 b1c1"]
+[SolutionSAN "bxc4 Qb1+ Qc1 Qxc1#"]
+[FEN "6k1/1q3pp1/2p1p2p/p7/2pP4/PP2Q3/5PPP/6K1 w - - 0 24"]
+[SetUp "1"]
+
+24. bxc4 Qb1+ 25. Qc1 Qxc1# *

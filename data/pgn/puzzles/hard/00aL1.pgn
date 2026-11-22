@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00aL1"]
+[Difficulty "hard"]
+[Rating "2013"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/UKybXdi1/black#66"]
+[Solution "g6h7 f4f5 d1f3 f5f3"]
+[SolutionSAN "Kh7 Rf5 Qf3+ Rxf3"]
+[FEN "8/5pr1/1Q4k1/p2pp3/5Rp1/6P1/5PKP/3q4 b - - 1 33"]
+[SetUp "1"]
+
+33... Kh7 34. Rf5 Qf3+ 35. Rxf3 *

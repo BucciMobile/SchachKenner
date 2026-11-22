@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BaWa"]
+[Difficulty "easy"]
+[Rating "1177"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/5IICRdUv#45"]
+[Solution "f1g1 h3f2"]
+[SolutionSAN "Rxg1 Nf2#"]
+[FEN "2b3k1/r3rp1p/p1p3p1/4b3/N7/Q6n/PP4B1/R1B2RqK w - - 2 23"]
+[SetUp "1"]
+
+23. Rxg1 Nf2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B7Ug"]
+[Difficulty "hard"]
+[Rating "2278"]
+[Themes "attraction crushing endgame long"]
+[GameUrl "https://lichess.org/game/AYXyfugO/black#76"]
+[Solution "f8h8 h1h8 g7h8 d2h6 h8g8 h6g6"]
+[SolutionSAN "Rh8 Rxh8 Kxh8 Qh6+ Kg8 Qxg6+"]
+[FEN "5r2/4q1k1/p1rp2p1/1p2pp2/8/1P4P1/P2Q1PK1/3R3R b - - 5 38"]
+[SetUp "1"]
+
+38... Rh8 39. Rxh8 Kxh8 40. Qh6+ Kg8 41. Qxg6+ *

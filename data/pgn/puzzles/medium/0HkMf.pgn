@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HkMf"]
+[Difficulty "medium"]
+[Rating "1391"]
+[Themes "advantage discoveredAttack long middlegame queensideAttack sacrifice"]
+[GameUrl "https://lichess.org/game/O4oXtphf/black#44"]
+[Solution "e7c5 c1c5 c7c5 d4d8 e8d8 e3c5"]
+[SolutionSAN "Bc5 Rxc5 Qxc5 Rd8+ Rxd8 Qxc5"]
+[FEN "1k2r2r/ppq1b3/4p1pp/5p2/3RPP2/4Q1N1/PP4PP/2R3K1 b - - 2 22"]
+[SetUp "1"]
+
+22... Bc5 23. Rxc5 Qxc5 24. Rd8+ Rxd8 25. Qxc5 *

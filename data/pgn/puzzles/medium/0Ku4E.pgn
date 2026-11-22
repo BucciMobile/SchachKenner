@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ku4E"]
+[Difficulty "medium"]
+[Rating "1442"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/QJNpdGw9#63"]
+[Solution "f5e4 e5f3 g1f1 g7a1"]
+[SolutionSAN "Qxe4 Nf3+ Kf1 Qa1+"]
+[FEN "7k/pp4q1/3b4/4nQ2/2P1p2p/1P2B2P/P4PP1/6K1 w - - 1 32"]
+[SetUp "1"]
+
+32. Qxe4 Nf3+ 33. Kf1 Qa1+ *

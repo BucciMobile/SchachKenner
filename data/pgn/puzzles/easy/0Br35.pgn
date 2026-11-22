@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Br35"]
+[Difficulty "easy"]
+[Rating "481"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/Y31cCmso#41"]
+[Solution "f7e7 d3d1 f3d1 d8d1 e7e1 d1e1"]
+[SolutionSAN "Rfxe7 Rd1+ Bxd1 Rxd1+ Re1 Rxe1#"]
+[FEN "2kr4/pR2nRpp/2p5/8/8/2Pr1B2/P4PPP/6K1 w - - 1 21"]
+[SetUp "1"]
+
+21. Rfxe7 Rd1+ 22. Bxd1 Rxd1+ 23. Re1 Rxe1# *

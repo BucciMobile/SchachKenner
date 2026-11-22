@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EvXY"]
+[Difficulty "hard"]
+[Rating "1748"]
+[Themes "crushing endgame long queenEndgame"]
+[GameUrl "https://lichess.org/game/rGrsQqBF#81"]
+[Solution "f4g5 f7c7 d6c7 e8d7 c7c8r d7c8"]
+[SolutionSAN "Kg5 Qxc7 dxc7 Kd7 c8=R Kxc8"]
+[FEN "4k3/p1Q2q2/3P2p1/2P4p/5K1P/8/8/8 w - - 4 41"]
+[SetUp "1"]
+
+41. Kg5 Qxc7 42. dxc7 Kd7 43. c8=R Kxc8 *

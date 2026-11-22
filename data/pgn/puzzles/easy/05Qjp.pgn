@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Qjp"]
+[Difficulty "easy"]
+[Rating "888"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/6CsPo63t#111"]
+[Solution "f1e2 d1c3 d5e6 c3e2"]
+[SolutionSAN "Be2 Nc3+ Ke6 Nxe2"]
+[FEN "8/8/8/2pK4/1kP5/8/8/3n1B2 w - - 3 56"]
+[SetUp "1"]
+
+56. Be2 Nc3+ 57. Ke6 Nxe2 *

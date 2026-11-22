@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H5mK"]
+[Difficulty "medium"]
+[Rating "1565"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/Ac4FoXPF#125"]
+[Solution "h3g3 g5g3 f2g3 e4e3"]
+[SolutionSAN "Rg3 Rxg3 Kxg3 e3"]
+[FEN "8/7B/2p3p1/6r1/P3p3/7R/3k1K2/8 w - - 2 63"]
+[SetUp "1"]
+
+63. Rg3 Rxg3 64. Kxg3 e3 *

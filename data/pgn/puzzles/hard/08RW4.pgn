@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08RW4"]
+[Difficulty "hard"]
+[Rating "1877"]
+[Themes "bishopEndgame crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/QnaP2TSx/black#102"]
+[Solution "g3f4 e5e6 f7e6 f5e6 f4g5 d5d6"]
+[SolutionSAN "Bf4 e6 fxe6+ fxe6 Bg5 Kd6"]
+[FEN "8/5pp1/8/1k1KPP1P/8/6b1/8/8 b - - 0 51"]
+[SetUp "1"]
+
+51... Bf4 52. e6 fxe6+ 53. fxe6 Bg5 54. Kd6 *

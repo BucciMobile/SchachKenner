@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IyaO"]
+[Difficulty "hard"]
+[Rating "2113"]
+[Themes "advantage discoveredAttack master middlegame veryLong"]
+[GameUrl "https://lichess.org/game/FX4m6VoW#31"]
+[Solution "h2h3 g4f2 g1f2 d7h3 c1f4 d6f4 g3f4 f8f4"]
+[SolutionSAN "h3 Nxf2 Kxf2 Qxh3 Bf4 Bxf4 gxf4 Rxf4"]
+[FEN "r4rk1/pp1q2pp/2nb4/2p5/3p2n1/3P1NP1/PPP2P1P/R1BQRNK1 w - - 3 16"]
+[SetUp "1"]
+
+16. h3 Nxf2 17. Kxf2 Qxh3 18. Bf4 Bxf4 19. gxf4 Rxf4 *

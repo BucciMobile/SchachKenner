@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HBAk"]
+[Difficulty "hard"]
+[Rating "1942"]
+[Themes "advancedPawn advantage endgame short"]
+[GameUrl "https://lichess.org/game/cCgP44DG#45"]
+[Solution "c5d6 e4e3 f2f3 e3e2"]
+[SolutionSAN "cxd6 e3 f3 e2"]
+[FEN "q4r1k/2p3pp/3p4/2P2p2/2B1pn2/2Q5/1P3PPP/5RK1 w - - 3 23"]
+[SetUp "1"]
+
+23. cxd6 e3 24. f3 e2 *

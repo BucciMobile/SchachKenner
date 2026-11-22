@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M2KW"]
+[Difficulty "hard"]
+[Rating "2512"]
+[Themes "crushing long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/tuWftMQ5#39"]
+[Solution "e6d5 a8h8 e4e5 d6e5 e3g5 g3g5"]
+[SolutionSAN "Bd5 Rah8 e5+ dxe5 Bg5+ Qxg5"]
+[FEN "r7/bpp1n1p1/p2pBk2/8/1P1NP3/P1P1BPq1/4Q1Pr/RN3RK1 w - - 3 20"]
+[SetUp "1"]
+
+20. Bd5 Rah8 21. e5+ dxe5 22. Bg5+ Qxg5 *

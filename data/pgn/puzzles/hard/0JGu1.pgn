@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JGu1"]
+[Difficulty "hard"]
+[Rating "2706"]
+[Themes "crushing defensiveMove endgame hangingPiece long quietMove"]
+[GameUrl "https://lichess.org/game/OTuWhpbq/black#110"]
+[Solution "g5f6 e4f4 a5a4 f1e3 a4a3 b2b3"]
+[SolutionSAN "Kf6 Kxf4 a4 Ne3 a3 b3"]
+[FEN "8/8/6pp/p5k1/1p2KbP1/7P/1P6/5N2 b - - 0 55"]
+[SetUp "1"]
+
+55... Kf6 56. Kxf4 a4 57. Ne3 a3 58. b3 *

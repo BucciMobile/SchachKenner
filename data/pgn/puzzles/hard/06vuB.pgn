@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06vuB"]
+[Difficulty "hard"]
+[Rating "2467"]
+[Themes "advantage discoveredAttack fork long middlegame pin"]
+[GameUrl "https://lichess.org/game/xdwelgzU#29"]
+[Solution "e3h6 e5f3 e2f3 g7c3 b2c3 f8f3"]
+[SolutionSAN "Bh6 Nxf3+ Bxf3 Bxc3 bxc3 Rxf3"]
+[FEN "r3nrk1/1pqbp1bp/p2p2p1/4n3/4P1P1/1NN1BP2/PPPQB3/R3K2R w KQ - 0 15"]
+[SetUp "1"]
+
+15. Bh6 Nxf3+ 16. Bxf3 Bxc3 17. bxc3 Rxf3 *

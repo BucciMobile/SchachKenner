@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "020XG"]
+[Difficulty "easy"]
+[Rating "1037"]
+[Themes "endgame epauletteMate mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/IsYyI1LZ/black#72"]
+[Solution "f8e8 g7d7 a4d7 h7d7"]
+[SolutionSAN "Re8 Rd7+ Bxd7 Rxd7#"]
+[FEN "2rk1r2/ppp3RR/4P3/8/b1P1p3/P3P3/4KP2/8 b - - 2 36"]
+[SetUp "1"]
+
+36... Re8 37. Rd7+ Bxd7 38. Rxd7# *

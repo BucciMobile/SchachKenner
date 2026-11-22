@@ -35,7 +35,7 @@ proof in [`licenses/`](licenses/).
 >
 > 🆕 **New!** [**Learn the 26 most-played openings**](https://BucciMobile.github.io/SchachKenner/learn.html) — step through the mainline of each ECO family on a board with an **original explanation for every move** plus a *variants & traps* note, or test yourself in **Learn mode** (3 wrong tries → the tool plays the move and explains it). Mainlines are derived from this repo's own CC0/MIT/Unlicense PGN datasets (`data/openings/openings.json`, proofs in [`licenses/openings-dataset.md`](licenses/openings-dataset.md)). No engine download — instant. 📱
 >
-> ♞ **New!** [**Daily chess puzzles — 3 per day, rotating at 00:00 UTC**](https://BucciMobile.github.io/SchachKenner/puzzles.html) — **2,400 curated puzzles** (800 each **easy / medium / hard** by lichess puzzle rating, CC0) hosted as PGNs in [`data/pgn/puzzles/`](data/pgn/puzzles/). The page picks today's puzzle per difficulty **deterministically in your browser** (UTC day number — no server needed), you can **solve it on the board**, and **copy the position as a PNG image** — ready to paste into Discord chats. Deep-linkable via `puzzles.html?p=<PuzzleId>` or `?date=YYYY-MM-DD`. 📱
+> ♞ **New!** [**Daily chess puzzles — 3 per day, rotating at 00:00 UTC**](https://BucciMobile.github.io/SchachKenner/puzzles.html) — **9,000 curated puzzles** (3,000 each **easy / medium / hard** by lichess puzzle rating, CC0) hosted as PGNs in [`data/pgn/puzzles/`](data/pgn/puzzles/). The page picks today's puzzle per difficulty **deterministically in your browser** (UTC day number — no server needed), you can **solve it on the board**, and **copy the position as a PNG image** — ready to paste into Discord chats. Deep-linkable via `puzzles.html?p=<PuzzleId>` or `?date=YYYY-MM-DD`. 📱
 
 ## <img src="assets/img/pieces/livius/wb.svg" width="20" alt="bishop"> AI transparency
 
@@ -73,7 +73,7 @@ Only sources with **explicit redistribution permission** are hosted here — pro
 
 - 📥 [`data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn`](data/pgn/lichess/lichess-standard-2026-10-sample-2000-games.pgn) — 2,000 games, **CC0**
 - 📥 [`data/pgn/lichess/lichess-puzzles-sample-1000.csv`](data/pgn/lichess/lichess-puzzles-sample-1000.csv) — 1,000 puzzles, **CC0**
-- ♞ [`data/pgn/puzzles/`](data/pgn/puzzles/) — **2,400 daily puzzles as individual PGNs** (800 each: easy <1200 / medium 1200–1700 / hard >1700 lichess rating), **CC0**, plus machine-readable index in [`data/puzzles/`](data/puzzles/) — powering the [daily puzzle page](https://BucciMobile.github.io/SchachKenner/puzzles.html) (3 new puzzles every 00:00 UTC, solvable in-browser, copyable share image)
+- ♞ [`data/pgn/puzzles/`](data/pgn/puzzles/) — **9,000 daily puzzles as individual PGNs** (3,000 each: easy <1200 / medium 1200–1700 / hard >1700 lichess rating), **CC0**, plus machine-readable index in [`data/puzzles/`](data/puzzles/) — powering the [daily puzzle page](https://BucciMobile.github.io/SchachKenner/puzzles.html) (3 new puzzles every 00:00 UTC, solvable in-browser, copyable share image)
 - 📂 [`data/pgn/lichess/groups/`](data/pgn/lichess/groups/README.md) — the 2,000 games **pre-grouped into 51 files**: by opening / ECO / rating band / time control / result
 - ♟ [`data/pgn/lichess-chess960/`](data/pgn/lichess-chess960/) — 1,000 Chess960 games, **CC0**, with groups
 - 📡 [`data/pgn/lichess-broadcast/`](data/pgn/lichess-broadcast/) — 300 broadcast games, **CC BY-SA 4.0** (attributed), with groups

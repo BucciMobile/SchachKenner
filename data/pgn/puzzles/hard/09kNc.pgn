@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09kNc"]
+[Difficulty "hard"]
+[Rating "1732"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/qKn2Npnd#79"]
+[Solution "c2c7 b3b2 d5c3 b1c1 c7b7 c1c3"]
+[SolutionSAN "Rc7 b2 Nc3 Rc1 Rb7 Rxc3+"]
+[FEN "8/5ppk/5p2/3N4/8/1p3KP1/2R4P/1r6 w - - 0 40"]
+[SetUp "1"]
+
+40. Rc7 b2 41. Nc3 Rc1 42. Rb7 Rxc3+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C552"]
+[Difficulty "easy"]
+[Rating "944"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/Qu3Z7PQ3/black#76"]
+[Solution "a4a3 f7g7"]
+[SolutionSAN "a3 Qxg7#"]
+[FEN "r6k/3R1Qp1/2p4p/1p4P1/p6P/3P3K/8/6q1 b - - 8 38"]
+[SetUp "1"]
+
+38... a3 39. Qxg7# *

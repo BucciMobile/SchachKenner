@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0InIR"]
+[Difficulty "hard"]
+[Rating "1908"]
+[Themes "crushing defensiveMove endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/rNgV6J7U/black#84"]
+[Solution "d5e4 f4e4 f5e4 a1b1"]
+[SolutionSAN "Qe4 Qxe4 fxe4 Kb1"]
+[FEN "8/k1p5/pp6/3q1p2/5Q2/P7/1P5P/K7 b - - 3 42"]
+[SetUp "1"]
+
+42... Qe4 43. Qxe4 fxe4 44. Kb1 *

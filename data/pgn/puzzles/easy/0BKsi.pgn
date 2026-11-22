@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BKsi"]
+[Difficulty "easy"]
+[Rating "1094"]
+[Themes "endgame long mate mateIn3 queenEndgame"]
+[GameUrl "https://lichess.org/game/1yPq6Cfk#77"]
+[Solution "e6e7 g5g4 f3g4 h5g4 h3h4 f2h2"]
+[SolutionSAN "e7 g4+ fxg4 hxg4+ Kh4 Qxh2#"]
+[FEN "8/p7/4P1k1/5ppp/8/1P1Q1PPK/5q1P/8 w - - 0 39"]
+[SetUp "1"]
+
+39. e7 g4+ 40. fxg4 hxg4+ 41. Kh4 Qxh2# *

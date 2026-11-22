@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IJBH"]
+[Difficulty "medium"]
+[Rating "1244"]
+[Themes "advantage endgame knightEndgame master short"]
+[GameUrl "https://lichess.org/game/Z8zC51kj#77"]
+[Solution "d3f2 b5b4 f2d3 b4a3"]
+[SolutionSAN "Nf2 b4 Nd3 bxa3"]
+[FEN "8/5k2/n3p3/1pp1P3/p3PK2/P1PN4/2P5/8 w - - 0 39"]
+[SetUp "1"]
+
+39. Nf2 b4 40. Nd3 bxa3 *

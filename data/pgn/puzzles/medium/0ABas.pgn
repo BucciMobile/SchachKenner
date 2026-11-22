@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ABas"]
+[Difficulty "medium"]
+[Rating "1585"]
+[Themes "discoveredCheck doubleCheck mate mateIn2 middlegame operaMate pillsburysMate short"]
+[GameUrl "https://lichess.org/game/k0aoT0w8/black#74"]
+[Solution "h6h5 g6g5 h5h6 g5h5"]
+[SolutionSAN "Kh5 Rxg5+ Kh6 Rh5#"]
+[FEN "5r2/p4B2/1p3BRk/2n3p1/4P3/qP4p1/P5KP/6n1 b - - 4 37"]
+[SetUp "1"]
+
+37... Kh5 38. Rxg5+ Kh6 39. Rh5# *

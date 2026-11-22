@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BN8i"]
+[Difficulty "hard"]
+[Rating "2379"]
+[Themes "attraction crushing deflection fork middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/cFFC0S8C/black#44"]
+[Solution "a5c4 d5f6 f7f6 h6h7 g8f8 h7h8 f8e7 h1h7 f6f7 h7f7 e7f7 d1d7"]
+[SolutionSAN "Nxc4 Nf6+ Rxf6 Qxh7+ Kf8 Qh8+ Ke7 Rh7+ Rf7 Rxf7+ Kxf7 Rxd7+"]
+[FEN "4r1k1/pb1p1r1p/1p4pQ/n2N4/2P5/5B2/PP3qP1/2KR3R b - - 7 22"]
+[SetUp "1"]
+
+22... Nxc4 23. Nf6+ Rxf6 24. Qxh7+ Kf8 25. Qh8+ Ke7 26. Rh7+ Rf7 27. Rxf7+ Kxf7 28. Rxd7+ *

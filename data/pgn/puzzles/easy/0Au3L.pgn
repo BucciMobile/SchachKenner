@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Au3L"]
+[Difficulty "easy"]
+[Rating "778"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/NkoMmwmG/black#18"]
+[Solution "d5e3 d1d8"]
+[SolutionSAN "Nxe3 Qxd8#"]
+[FEN "r1bqk2r/pp2ppbp/2N3p1/3n4/8/2N1BP2/PPP3PP/R2QKB1R b KQkq - 0 9"]
+[SetUp "1"]
+
+9... Nxe3 10. Qxd8# *

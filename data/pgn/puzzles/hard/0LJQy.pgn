@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LJQy"]
+[Difficulty "hard"]
+[Rating "2598"]
+[Themes "advancedPawn crushing defensiveMove endgame long master masterVsMaster"]
+[GameUrl "https://lichess.org/game/bLpq5J3V#111"]
+[Solution "g3d6 f3f2 d4d5 f5g6 d5d1 a8d8"]
+[SolutionSAN "Bxd6 f2 Rd5+ Kg6 Rd1 Rd8"]
+[FEN "r7/4r3/1p1p4/5k2/2PRp1p1/P3RpBp/7K/8 w - - 0 56"]
+[SetUp "1"]
+
+56. Bxd6 f2 57. Rd5+ Kg6 58. Rd1 Rd8 *

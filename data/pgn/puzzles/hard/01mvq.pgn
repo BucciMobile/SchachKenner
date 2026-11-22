@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01mvq"]
+[Difficulty "hard"]
+[Rating "1764"]
+[Themes "crushing interference middlegame short"]
+[GameUrl "https://lichess.org/game/9WWBV3nN#47"]
+[Solution "g5h4 e8e4 b5d4 e4h4"]
+[SolutionSAN "Bh4 Re4 Nd4 Rxh4"]
+[FEN "4r1k1/pp3ppp/1q4b1/1Nb3B1/2Q5/2P4P/PP3PP1/R5K1 w - - 1 24"]
+[SetUp "1"]
+
+24. Bh4 Re4 25. Nd4 Rxh4 *

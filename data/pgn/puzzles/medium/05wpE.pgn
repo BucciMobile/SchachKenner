@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05wpE"]
+[Difficulty "medium"]
+[Rating "1572"]
+[Themes "crushing endgame master pin veryLong"]
+[GameUrl "https://lichess.org/game/6y4jsuEi/black#64"]
+[Solution "d1d2 f1d3 d2d1 g1h2 d1d3 c4d3 f5d3 c2d3"]
+[SolutionSAN "Rd2 Bd3 Rd1+ Kh2 Rxd3 Qxd3 Qxd3 cxd3"]
+[FEN "8/5ppk/8/5q1p/2Q5/7P/2P2PP1/3r1BK1 b - - 0 32"]
+[SetUp "1"]
+
+32... Rd2 33. Bd3 Rd1+ 34. Kh2 Rxd3 35. Qxd3 Qxd3 36. cxd3 *

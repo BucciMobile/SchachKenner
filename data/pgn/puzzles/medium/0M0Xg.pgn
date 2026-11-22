@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M0Xg"]
+[Difficulty "medium"]
+[Rating "1436"]
+[Themes "crushing endgame fork long master"]
+[GameUrl "https://lichess.org/game/5VOLJcss#95"]
+[Solution "c3e2 e5f3 g1g2 f3e1 g2f1 e1c2"]
+[SolutionSAN "Ne2 Nf3+ Kg2 Ne1+ Kf1 Nxc2"]
+[FEN "8/8/3k2pp/4np2/7P/2Nr2P1/2R2P2/6K1 w - - 22 48"]
+[SetUp "1"]
+
+48. Ne2 Nf3+ 49. Kg2 Ne1+ 50. Kf1 Nxc2 *

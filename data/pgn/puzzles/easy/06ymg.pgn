@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06ymg"]
+[Difficulty "easy"]
+[Rating "1118"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/ICMe3zYa#49"]
+[Solution "f4d4 h5h2"]
+[SolutionSAN "Qd4 Qxh2#"]
+[FEN "3r1rk1/1p3p1p/p2bpBp1/3p3q/5Q2/5P2/N3BP1P/R5RK w - - 1 25"]
+[SetUp "1"]
+
+25. Qd4 Qxh2# *

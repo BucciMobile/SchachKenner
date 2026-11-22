@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KvGL"]
+[Difficulty "hard"]
+[Rating "2008"]
+[Themes "advantage defensiveMove long middlegame"]
+[GameUrl "https://lichess.org/game/S4U51AOt/black#34"]
+[Solution "g8h8 f4e5 f7f6 e5d4 f8c8 f1c1"]
+[SolutionSAN "Kh8 Be5 f6 Bd4 Rfc8 Rfc1"]
+[FEN "r4rk1/pp3ppp/1q2p3/2np4/5BQ1/4P2P/P1R2PP1/5RK1 b - - 1 17"]
+[SetUp "1"]
+
+17... Kh8 18. Be5 f6 19. Bd4 Rfc8 20. Rfc1 *

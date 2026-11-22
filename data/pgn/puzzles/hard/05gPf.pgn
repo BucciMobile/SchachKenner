@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05gPf"]
+[Difficulty "hard"]
+[Rating "2148"]
+[Themes "advantage defensiveMove endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/YinVk870#47"]
+[Solution "e5e6 d8e8 e6d5 a8c8"]
+[SolutionSAN "Kxe6 Re8+ Kd5 Rac8"]
+[FEN "r2r4/p5kp/1p2ppp1/2p1K3/2P5/1P2P1P1/P4P1P/3R1R2 w - - 0 24"]
+[SetUp "1"]
+
+24. Kxe6 Re8+ 25. Kd5 Rac8 *

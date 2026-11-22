@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DUyg"]
+[Difficulty "easy"]
+[Rating "1033"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/AsybQXZX#87"]
+[Solution "h2h4 h7h5"]
+[SolutionSAN "h4 h5#"]
+[FEN "8/7p/4p1k1/4P3/p4PK1/2r5/P4R1P/8 w - - 13 44"]
+[SetUp "1"]
+
+44. h4 h5# *

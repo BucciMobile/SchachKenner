@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jwms"]
+[Difficulty "hard"]
+[Rating "1804"]
+[Themes "advancedPawn advantage middlegame short"]
+[GameUrl "https://lichess.org/game/74GxvCgL#45"]
+[Solution "b4a3 d4d3 f2f3 d3e2"]
+[SolutionSAN "Qa3 d3 f3 dxe2"]
+[FEN "r5k1/1p3rp1/2b4p/5q2/pQPp4/8/PP1NRPPP/4R1K1 w - - 0 23"]
+[SetUp "1"]
+
+23. Qa3 d3 24. f3 dxe2 *

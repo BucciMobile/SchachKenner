@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05dXT"]
+[Difficulty "hard"]
+[Rating "2143"]
+[Themes "master middlegame"]
+[GameUrl "https://lichess.org/game/i2UX8dNd#51"]
+[Solution "d1f1 h5g4 g1h1 b7e4 d4e4 g4e4"]
+[SolutionSAN "Rf1 Qg4+ Kh1 Bxe4 Qxe4 Qxe4"]
+[FEN "8/1b3k1p/pp1p2p1/6Bq/1PPQP3/5r2/P6P/2RR2K1 w - - 2 26"]
+[SetUp "1"]
+
+26. Rf1 Qg4+ 27. Kh1 Bxe4 28. Qxe4 Qxe4 *

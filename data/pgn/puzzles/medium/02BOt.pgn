@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02BOt"]
+[Difficulty "medium"]
+[Rating "1377"]
+[Themes "crushing deflection endgame long queensideAttack"]
+[GameUrl "https://lichess.org/game/QlixdDNB/black#54"]
+[Solution "g4f3 d2d6 b8a8 c1c8 e6c8 d6f6"]
+[SolutionSAN "gxf3 Qd6+ Ka8 Rxc8+ Bxc8 Qxf6"]
+[FEN "1kr5/pp6/4bq2/4p2p/1P2P1p1/5P2/P2QB1PP/2R3K1 b - - 4 27"]
+[SetUp "1"]
+
+27... gxf3 28. Qd6+ Ka8 29. Rxc8+ Bxc8 30. Qxf6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JHRN"]
+[Difficulty "hard"]
+[Rating "2366"]
+[Themes "advantage hangingPiece long opening"]
+[GameUrl "https://lichess.org/game/sZHqqtra#21"]
+[Solution "d3h7 g8h7 f3g5 h7g8 d1h5 d5f5"]
+[SolutionSAN "Bxh7+ Kxh7 Ng5+ Kg8 Qh5 Qf5"]
+[FEN "rnb2rk1/p1p1bppp/1p2p3/3q4/3P3P/2PBBN2/PP3PP1/R2QK2R w KQ - 0 11"]
+[SetUp "1"]
+
+11. Bxh7+ Kxh7 12. Ng5+ Kg8 13. Qh5 Qf5 *

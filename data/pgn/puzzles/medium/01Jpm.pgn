@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Jpm"]
+[Difficulty "medium"]
+[Rating "1348"]
+[Themes "advancedPawn advantage defensiveMove deflection endgame long promotion"]
+[GameUrl "https://lichess.org/game/ScInufn8#91"]
+[Solution "d8f8 e3e2 d1c2 e2e1q f8f4 f1g2"]
+[SolutionSAN "Rf8 e2+ Kc2 e1=Q Rxf4+ Kg2"]
+[FEN "3R4/8/p5pp/2B5/5b1P/P3p3/8/3K1k2 w - - 2 46"]
+[SetUp "1"]
+
+46. Rf8 e2+ 47. Kc2 e1=Q 48. Rxf4+ Kg2 *

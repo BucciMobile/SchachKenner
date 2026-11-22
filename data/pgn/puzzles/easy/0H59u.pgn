@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H59u"]
+[Difficulty "easy"]
+[Rating "1061"]
+[Themes "crushing discoveredAttack discoveredCheck endgame fork short"]
+[GameUrl "https://lichess.org/game/BzeXAOLD/black#62"]
+[Solution "f5f6 d6e8 g7f8 e8f6"]
+[SolutionSAN "Qf6 Ne8+ Kf8 Nxf6+"]
+[FEN "3R4/pp3pkp/3N2p1/4pq2/8/6P1/PP3P1P/6K1 b - - 2 31"]
+[SetUp "1"]
+
+31... Qf6 32. Ne8+ Kf8 33. Nxf6+ *

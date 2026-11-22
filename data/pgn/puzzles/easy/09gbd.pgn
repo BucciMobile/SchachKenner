@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09gbd"]
+[Difficulty "easy"]
+[Rating "986"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/TrXDraZR/black#68"]
+[Solution "e2f4 h3h7 g8f8 h7f7"]
+[SolutionSAN "Nf4 Qh7+ Kf8 Qxf7#"]
+[FEN "6k1/5p2/1q2p1p1/3pP1N1/Ppr3P1/7Q/4nP2/1R3K2 b - - 3 34"]
+[SetUp "1"]
+
+34... Nf4 35. Qh7+ Kf8 36. Qxf7# *

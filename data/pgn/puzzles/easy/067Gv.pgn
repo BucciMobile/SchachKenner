@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "067Gv"]
+[Difficulty "easy"]
+[Rating "992"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/Ne4xBJxj/black#46"]
+[Solution "e3f2 b4b5 a6a5 d7a7"]
+[SolutionSAN "Bxf2 b5+ Ka5 Ra7#"]
+[FEN "2r3nr/3R3p/kp3pp1/8/PP4R1/4bP2/5P1P/1K6 b - - 0 23"]
+[SetUp "1"]
+
+23... Bxf2 24. b5+ Ka5 25. Ra7# *

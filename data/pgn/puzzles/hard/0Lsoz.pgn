@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lsoz"]
+[Difficulty "hard"]
+[Rating "2388"]
+[Themes "attraction crushing defensiveMove long middlegame"]
+[GameUrl "https://lichess.org/game/TaaiQEho/black#50"]
+[Solution "d6h6 g4g5 h6g5 c2g2 f8e8 g2g5"]
+[SolutionSAN "Qh6 g5 Qxg5+ Rg2 Rfe8 Rxg5"]
+[FEN "1br2rk1/pp3bpp/2pq4/5P2/1Pp3P1/P1Q1PR2/1BR4P/6K1 b - - 1 25"]
+[SetUp "1"]
+
+25... Qh6 26. g5 Qxg5+ 27. Rg2 Rfe8 28. Rxg5 *

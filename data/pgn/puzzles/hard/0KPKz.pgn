@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KPKz"]
+[Difficulty "hard"]
+[Rating "1903"]
+[Themes "advancedPawn advantage defensiveMove endgame long promotion"]
+[GameUrl "https://lichess.org/game/OfwuTBsS#89"]
+[Solution "e7d7 d3c3 c5c6 e2e1q c6c7 e1g3"]
+[SolutionSAN "Rd7+ Kc3 c6 e1=Q c7 Qg3+"]
+[FEN "8/4R3/8/2P5/4n3/3k3P/4p1PK/N7 w - - 2 45"]
+[SetUp "1"]
+
+45. Rd7+ Kc3 46. c6 e1=Q 47. c7 Qg3+ *

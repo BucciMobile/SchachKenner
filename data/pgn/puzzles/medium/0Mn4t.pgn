@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Mn4t"]
+[Difficulty "medium"]
+[Rating "1531"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/D4aV37GT/black#62"]
+[Solution "f7e7 f2f3 e5f3 e2f3"]
+[SolutionSAN "Ke7 f3 Nxf3 Kxf3"]
+[FEN "3r4/pp1P1k1p/6p1/3Rnp2/1P2r2P/P3P1P1/4KP2/3R4 b - - 4 31"]
+[SetUp "1"]
+
+31... Ke7 32. f3 Nxf3 33. Kxf3 *

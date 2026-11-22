@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IeMU"]
+[Difficulty "medium"]
+[Rating "1662"]
+[Themes "advantage long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/plIGK4RW/black#40"]
+[Solution "a6a5 e4e5 g7g6 f4g6 g5e3 c1b1"]
+[SolutionSAN "a5 e5 g6 Nxg6 Bxe3+ Kb1"]
+[FEN "r2q1rk1/2p2ppn/p2p3p/5Qb1/1p1PPNP1/3BB2P/PPP5/2K4R b - - 4 20"]
+[SetUp "1"]
+
+20... a5 21. e5 g6 22. Nxg6 Bxe3+ 23. Kb1 *

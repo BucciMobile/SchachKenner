@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MOaN"]
+[Difficulty "hard"]
+[Rating "2134"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/Lid7IZd2#51"]
+[Solution "e5d6 d8d6 e4e5 d6c6"]
+[SolutionSAN "exd6 Rxd6 e5 Rxc6"]
+[FEN "3r1k1r/4bp2/2Qp2q1/4P1pp/Pp2Pn2/2P2PRP/1PBN1P1K/R7 w - - 1 26"]
+[SetUp "1"]
+
+26. exd6 Rxd6 27. e5 Rxc6 *

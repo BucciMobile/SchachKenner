@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02lza"]
+[Difficulty "easy"]
+[Rating "472"]
+[Themes "backRankMate endgame long mate mateIn3 queenRookEndgame"]
+[GameUrl "https://lichess.org/game/1csr3k8Y/black#58"]
+[Solution "a8b8 b2b8 c1c8 b8c8 d1d8 c8d8"]
+[SolutionSAN "Rxb8 Rxb8+ Qc8 Rxc8+ Rd8 Rxd8#"]
+[FEN "rQ4k1/5ppp/4p3/4P2P/4P3/p3P1P1/PR4K1/2qr4 b - - 1 29"]
+[SetUp "1"]
+
+29... Rxb8 30. Rxb8+ Qc8 31. Rxc8+ Rd8 32. Rxd8# *

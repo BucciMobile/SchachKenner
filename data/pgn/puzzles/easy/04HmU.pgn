@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04HmU"]
+[Difficulty "easy"]
+[Rating "1148"]
+[Themes "crushing deflection endgame master short"]
+[GameUrl "https://lichess.org/game/WQZxMOch#75"]
+[Solution "d6g3 e3f1 h2g1 f1g3"]
+[SolutionSAN "Bg3 Nf1+ Kg1 Nxg3"]
+[FEN "4Qb2/6k1/3BBq1p/p1pP4/P7/4n2P/6PK/8 w - - 1 38"]
+[SetUp "1"]
+
+38. Bg3 Nf1+ 39. Kg1 Nxg3 *

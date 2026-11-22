@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0PGIy"]
+[Difficulty "medium"]
+[Rating "1693"]
+[Themes "crushing endgame exposedKing long"]
+[GameUrl "https://lichess.org/game/Vr6VR7Ti/black#52"]
+[Solution "f6f2 d2f2 g7h6 f2f7 g8f7 c1c4"]
+[SolutionSAN "Rxf2 Qxf2 Bxh6 Qxf7+ Kxf7 Rxc4"]
+[FEN "6k1/5qb1/5rpB/4p3/2pp4/1P5P/P2Q1RP1/2R3K1 b - - 0 26"]
+[SetUp "1"]
+
+26... Rxf2 27. Qxf2 Bxh6 28. Qxf7+ Kxf7 29. Rxc4 *

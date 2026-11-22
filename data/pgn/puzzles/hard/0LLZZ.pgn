@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LLZZ"]
+[Difficulty "hard"]
+[Rating "1827"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/L0DLtMqw#51"]
+[Solution "e2f4 h5h4 h2h3 g4g5"]
+[SolutionSAN "Nf4 Rxh4 h3 Qg5"]
+[FEN "r3n1k1/ppn2p1p/2pp2p1/7r/1PPQP1qN/P2P2P1/4N1KP/R4R2 w - - 1 26"]
+[SetUp "1"]
+
+26. Nf4 Rxh4 27. h3 Qg5 *

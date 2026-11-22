@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02yQt"]
+[Difficulty "hard"]
+[Rating "1960"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/FrKfTFNV/black#48"]
+[Solution "c3e4 c1c7 c8c7 d4c6"]
+[SolutionSAN "Nce4 Rxc7+ Rxc7 Ndc6+"]
+[FEN "2r5/2r1kppp/p3pn2/1p2N3/3N4/PPn1P3/3R1PPP/2R2K2 b - - 0 24"]
+[SetUp "1"]
+
+24... Nce4 25. Rxc7+ Rxc7 26. Ndc6+ *

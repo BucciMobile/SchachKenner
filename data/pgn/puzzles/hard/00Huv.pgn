@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Huv"]
+[Difficulty "hard"]
+[Rating "1775"]
+[Themes "clearance crushing endgame short"]
+[GameUrl "https://lichess.org/game/KGI2jWmb/black#58"]
+[Solution "g8f8 h4h6 h7g8 f6h4"]
+[SolutionSAN "Qf8 Rxh6+ Kg8 Qh4"]
+[FEN "3r2q1/5prk/p3pQpp/1p2P3/2p4R/2P2P1P/PPB2P2/6K1 b - - 2 29"]
+[SetUp "1"]
+
+29... Qf8 30. Rxh6+ Kg8 31. Qh4 *

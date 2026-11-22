@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GZlv"]
+[Difficulty "hard"]
+[Rating "2043"]
+[Themes "advantage defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/5ngReY4y#47"]
+[Solution "f1e1 d8d2 e1e6 e7f7"]
+[SolutionSAN "Re1 Rd2 Rxe6+ Kf7"]
+[FEN "3r4/pb2k1p1/2p1p2p/2b2B2/8/1P5P/PB3PP1/5RK1 w - - 0 24"]
+[SetUp "1"]
+
+24. Re1 Rd2 25. Rxe6+ Kf7 *

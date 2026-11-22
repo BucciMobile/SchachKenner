@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E3D2"]
+[Difficulty "hard"]
+[Rating "1960"]
+[Themes "advantage endgame pin veryLong"]
+[GameUrl "https://lichess.org/game/ycEJ71kO#59"]
+[Solution "b1c1 b8a8 a2b1 g4f5 c1c2 f3f2 f1d3 f5d3"]
+[SolutionSAN "Rc1 Ra8+ Kb1 Bf5+ Rc2 Rf2 Bd3 Bxd3"]
+[FEN "1r4k1/6pp/2P5/3PP3/6bP/5rP1/KP6/1R3B1R w - - 3 30"]
+[SetUp "1"]
+
+30. Rc1 Ra8+ 31. Kb1 Bf5+ 32. Rc2 Rf2 33. Bd3 Bxd3 *

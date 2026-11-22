@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Jr3"]
+[Difficulty "hard"]
+[Rating "1980"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/nhBGAeJa#133"]
+[Solution "c4c5 f3f2 d6d1 g4g1 c5c6 g1d1"]
+[SolutionSAN "c5 f2 Rd1 Rg1 c6 Rxd1"]
+[FEN "8/8/1B1R4/4p1pk/2P1P1r1/5p2/2K5/8 w - - 0 67"]
+[SetUp "1"]
+
+67. c5 f2 68. Rd1 Rg1 69. c6 Rxd1 *

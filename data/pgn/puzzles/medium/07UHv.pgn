@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07UHv"]
+[Difficulty "medium"]
+[Rating "1336"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/x5YRIipj#41"]
+[Solution "a1d1 d8d5 e4d5 e8e1"]
+[SolutionSAN "Rad1 Rxd5 exd5 Re1+"]
+[FEN "3rr1k1/2p2pp1/1p5p/p2R4/Pq2P3/5P2/1PQ3PP/R5K1 w - - 1 21"]
+[SetUp "1"]
+
+21. Rad1 Rxd5 22. exd5 Re1+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "030Zf"]
+[Difficulty "hard"]
+[Rating "2478"]
+[Themes "crushing endgame long pin"]
+[GameUrl "https://lichess.org/game/n0YS2coM#77"]
+[Solution "g1f1 e5a1 f1g2 e2g3 f3f5 g3f5"]
+[SolutionSAN "Kf1 Qa1+ Kg2 Ng3 Qf5+ Nxf5"]
+[FEN "8/pp3pp1/4k3/1P2q1P1/P1R1P1Pp/5Q1P/2PrnB2/6K1 w - - 9 39"]
+[SetUp "1"]
+
+39. Kf1 Qa1+ 40. Kg2 Ng3 41. Qf5+ Nxf5 *

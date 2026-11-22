@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Y4y"]
+[Difficulty "hard"]
+[Rating "2112"]
+[Themes "advantage defensiveMove middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/dF6Tnlli#35"]
+[Solution "f4e2 c3f6 f3e4 b8d7"]
+[SolutionSAN "Ne2 Qf6+ Kxe4 Nd7"]
+[FEN "rn4k1/pp3p2/1bp4p/6p1/4rNP1/PNqB1K2/2P4P/R2Q3R w - - 0 18"]
+[SetUp "1"]
+
+18. Ne2 Qf6+ 19. Kxe4 Nd7 *

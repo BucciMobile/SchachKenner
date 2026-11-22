@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ErjB"]
+[Difficulty "hard"]
+[Rating "2496"]
+[Themes "crushing deflection kingsideAttack master masterVsMaster middlegame veryLong"]
+[GameUrl "https://lichess.org/game/waZp18Wd#61"]
+[Solution "a4b5 f6f4 f3f4 e4c3 f1e1 e8e1 d1e1 g5f4"]
+[SolutionSAN "axb5 Rxf4 Rxf4 Nxc3 Re1 Rxe1+ Qxe1 Qxf4"]
+[FEN "4r1k1/5pP1/p4r1p/1p1p2q1/P1pPnN2/2P2R1P/6P1/3Q1RK1 w - - 1 31"]
+[SetUp "1"]
+
+31. axb5 Rxf4 32. Rxf4 Nxc3 33. Re1 Rxe1+ 34. Qxe1 Qxf4 *

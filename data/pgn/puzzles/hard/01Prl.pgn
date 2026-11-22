@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Prl"]
+[Difficulty "hard"]
+[Rating "2172"]
+[Themes "crushing long opening"]
+[GameUrl "https://lichess.org/game/2sPwGlma/black#28"]
+[Solution "d8c7 c3d5 c6d5 d1d5 e7e6 d5a8"]
+[SolutionSAN "Qc7 Nxd5 cxd5 Qxd5 e6 Qxa8"]
+[FEN "r1bqn1k1/4prbp/p1p3p1/3p4/5P2/1BN5/PPP3PP/R1BQR1K1 b - - 1 14"]
+[SetUp "1"]
+
+14... Qc7 15. Nxd5 cxd5 16. Qxd5 e6 17. Qxa8 *

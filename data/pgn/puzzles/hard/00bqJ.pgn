@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00bqJ"]
+[Difficulty "hard"]
+[Rating "1951"]
+[Themes "advantage attraction long middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/FMvI8Grp#53"]
+[Solution "d2c2 f5c2 b1c2 g4d1 g1d1 f4e3"]
+[SolutionSAN "Qc2 Qxc2+ Kxc2 Bxd1+ Rxd1 Bxe3"]
+[FEN "r7/1pp4k/p2p3p/3Ppq2/2P2bb1/1N2R3/PP1Q4/1K1N2R1 w - - 8 27"]
+[SetUp "1"]
+
+27. Qc2 Qxc2+ 28. Kxc2 Bxd1+ 29. Rxd1 Bxe3 *

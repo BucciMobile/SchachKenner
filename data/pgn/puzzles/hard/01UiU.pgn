@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01UiU"]
+[Difficulty "hard"]
+[Rating "1763"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/P9J5A2x6#59"]
+[Solution "f3g5 a8h1 f1e2 h3f4"]
+[SolutionSAN "Nxg5 Qh1+ Ke2 Nf4#"]
+[FEN "q4rk1/n2P1ppp/p7/6b1/Pp1B2P1/1Pp1RN1n/2Q2P2/R4K2 w - - 0 30"]
+[SetUp "1"]
+
+30. Nxg5 Qh1+ 31. Ke2 Nf4# *

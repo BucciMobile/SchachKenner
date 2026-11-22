@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BOJZ"]
+[Difficulty "hard"]
+[Rating "2275"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/2LZ8DrUN#85"]
+[Solution "f2f3 e2g2 f8e8 e6f6"]
+[SolutionSAN "f3 Rxg2 Re8+ Kf6"]
+[FEN "5R2/1R6/4k1p1/5p2/3bp2K/7P/4rPP1/8 w - - 8 43"]
+[SetUp "1"]
+
+43. f3 Rxg2 44. Re8+ Kf6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06VH6"]
+[Difficulty "easy"]
+[Rating "881"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/y1Y2Qd3I/black#82"]
+[Solution "e5e4 g8g4"]
+[SolutionSAN "e4 Rg4#"]
+[FEN "6R1/4r3/1p2r2p/pR2p3/5p1k/PPP2Pp1/4K1P1/8 b - - 0 41"]
+[SetUp "1"]
+
+41... e4 42. Rg4# *

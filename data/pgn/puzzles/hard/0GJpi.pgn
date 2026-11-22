@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GJpi"]
+[Difficulty "hard"]
+[Rating "2274"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/AHSOxlo8/black#30"]
+[Solution "f6e4 d6e5 e4g3 e5g3"]
+[SolutionSAN "Ne4 Be5 Nxg3+ Bxg3"]
+[FEN "rnb3kr/pp4p1/1qpB1nQp/3p1p2/7P/1P3NP1/P1P2bB1/RN3K1R b - - 5 15"]
+[SetUp "1"]
+
+15... Ne4 16. Be5 Nxg3+ 17. Bxg3 *

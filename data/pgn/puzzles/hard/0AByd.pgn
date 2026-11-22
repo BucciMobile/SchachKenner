@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AByd"]
+[Difficulty "hard"]
+[Rating "2576"]
+[Themes "crushing endgame hangingPiece quietMove veryLong"]
+[GameUrl "https://lichess.org/game/7dizJ2Gf#113"]
+[Solution "f3d3 c2d3 f4e5 a5a4 f2f4 a4a3 f4f5 d3e4 e5a1 e4f5"]
+[SolutionSAN "Qxd3+ Kxd3 Be5 a4 f4 a3 f5 Ke4 Ba1 Kxf5"]
+[FEN "8/8/8/p7/1b3B2/3r1Q2/2k2PK1/8 w - - 9 57"]
+[SetUp "1"]
+
+57. Qxd3+ Kxd3 58. Be5 a4 59. f4 a3 60. f5 Ke4 61. Ba1 Kxf5 *

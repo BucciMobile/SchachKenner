@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0449V"]
+[Difficulty "hard"]
+[Rating "1708"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/RoOK0xFk/black#136"]
+[Solution "c5c4 g1h1"]
+[SolutionSAN "c4 Rh1#"]
+[FEN "4r3/6pp/1n5k/1pp1PP2/5K2/8/8/6R1 b - - 2 68"]
+[SetUp "1"]
+
+68... c4 69. Rh1# *

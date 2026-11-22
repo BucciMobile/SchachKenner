@@ -29,6 +29,7 @@ import io
 import json
 import os
 import random
+import shutil
 import subprocess
 import sys
 from datetime import date, datetime, timezone
@@ -157,9 +158,9 @@ def main():
     default_csv = os.path.join(ap.get_default("repo"), "data", "downloads", "lichess_db_puzzle.csv.zst")
     ap.add_argument("--csv", default=default_csv if os.path.exists(default_csv) else
                     os.path.join(ap.get_default("repo"), "data", "downloads", "lichess_db_puzzle.csv"))
-    ap.add_argument("--per-level", type=int, default=800)
+    ap.add_argument("--per-level", type=int, default=3000)
     ap.add_argument("--seed", type=int, default=20261121)
-    ap.add_argument("--scan-cap", type=int, default=8000,
+    ap.add_argument("--scan-cap", type=int, default=12000,
                     help="max candidates kept per level while scanning the export")
     args = ap.parse_args()
 
@@ -178,6 +179,9 @@ def main():
     data_dir = os.path.join(args.repo, "data")
     puzzles_dir = os.path.join(data_dir, "puzzles")
     pgn_dir = os.path.join(data_dir, "pgn", "puzzles")
+    # clean previous build output (README.md is regenerated below)
+    shutil.rmtree(puzzles_dir, ignore_errors=True)
+    shutil.rmtree(pgn_dir, ignore_errors=True)
     os.makedirs(puzzles_dir, exist_ok=True)
 
     index_levels = {}

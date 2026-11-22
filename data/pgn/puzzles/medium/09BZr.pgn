@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09BZr"]
+[Difficulty "medium"]
+[Rating "1501"]
+[Themes "advantage kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/DABgQUYZ/black#38"]
+[Solution "d7e5 g4e6 e7e6 g5e6"]
+[SolutionSAN "Ne5 Qxe6+ Qxe6 Nxe6"]
+[FEN "3r1rk1/p2nq1bp/1p2p1p1/2p3N1/2P3Q1/1P2B1P1/P4PKP/2R1R3 b - - 2 19"]
+[SetUp "1"]
+
+19... Ne5 20. Qxe6+ Qxe6 21. Nxe6 *

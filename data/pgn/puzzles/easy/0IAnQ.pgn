@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IAnQ"]
+[Difficulty "easy"]
+[Rating "1136"]
+[Themes "advantage deflection endgame short"]
+[GameUrl "https://lichess.org/game/vbbE2mlW#59"]
+[Solution "f6f7 g5g2 f2g2 g8f7"]
+[SolutionSAN "Rf7 Rxg2+ Rxg2 Qxf7"]
+[FEN "1kr3q1/2p5/1pQp1R2/p2Pp1rp/P1P1P3/1P6/5RPP/6K1 w - - 4 30"]
+[SetUp "1"]
+
+30. Rf7 Rxg2+ 31. Rxg2 Qxf7 *

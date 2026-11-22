@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0O05D"]
+[Difficulty "medium"]
+[Rating "1484"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/TVBLFnJQ#83"]
+[Solution "f3g2 f5f2 g2f2 b6f2"]
+[SolutionSAN "Qg2 Rf2 Qxf2 Qxf2"]
+[FEN "8/1p1P2k1/pq4p1/5rb1/4R3/2PB1Q1P/PP6/1K6 w - - 9 42"]
+[SetUp "1"]
+
+42. Qg2 Rf2 43. Qxf2 Qxf2 *

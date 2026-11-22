@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04SG4"]
+[Difficulty "hard"]
+[Rating "2493"]
+[Themes "crushing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/BUyNhl0L/black#52"]
+[Solution "d6c6 e1e5 a2b1 c1d2 f5e5 d4e5 b1c2 d2c2"]
+[SolutionSAN "Kc6 Rxe5 Qb1+ Kd2 Rxe5 Qxe5 Qxc2+ Kxc2"]
+[FEN "4r3/1p5R/p2kb3/4nr2/3Q4/3P4/qPP3P1/2K1RB2 b - - 0 26"]
+[SetUp "1"]
+
+26... Kc6 27. Rxe5 Qb1+ 28. Kd2 Rxe5 29. Qxe5 Qxc2+ 30. Kxc2 *

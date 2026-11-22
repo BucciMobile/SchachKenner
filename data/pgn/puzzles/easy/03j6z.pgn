@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03j6z"]
+[Difficulty "easy"]
+[Rating "956"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/PU59xwVk#73"]
+[Solution "f4c1 d5f3"]
+[SolutionSAN "Qxc1 Bxf3#"]
+[FEN "5rk1/pppR2p1/7r/3bP3/5Q2/1P3BP1/5P1p/2q4K w - - 9 37"]
+[SetUp "1"]
+
+37. Qxc1 Bxf3# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AHtW"]
+[Difficulty "medium"]
+[Rating "1556"]
+[Themes "kingsideAttack long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/BoM91113#27"]
+[Solution "c4b3 f5g3 h2g3 g6h6 e2h5 h6h5"]
+[SolutionSAN "Bb3 Ng3+ hxg3 Qh6+ Qh5 Qxh5#"]
+[FEN "r1b2rk1/p2p1ppp/2p3q1/1p2Pn2/2Bb1P2/2NP4/PP2Q1PP/R1B2R1K w - - 0 14"]
+[SetUp "1"]
+
+14. Bb3 Ng3+ 15. hxg3 Qh6+ 16. Qh5 Qxh5# *

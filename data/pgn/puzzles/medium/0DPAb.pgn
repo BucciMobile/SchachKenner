@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DPAb"]
+[Difficulty "medium"]
+[Rating "1205"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/AKdIi3XQ/black#54"]
+[Solution "g5f4 b7c7"]
+[SolutionSAN "gxf4 Rc7#"]
+[FEN "2kr3r/pR3p2/N1p1b2p/6p1/5Q2/3P3P/5PPK/8 b - - 0 27"]
+[SetUp "1"]
+
+27... gxf4 28. Rc7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I3Te"]
+[Difficulty "easy"]
+[Rating "1003"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/iWKlGTPG#53"]
+[Solution "d4f6 h4g3 h2g1 g3g2"]
+[SolutionSAN "Qf6 Qg3+ Kg1 Qxg2#"]
+[FEN "2k3r1/ppp5/3p4/8/3QP2q/7N/PP4PK/4RR2 w - - 0 27"]
+[SetUp "1"]
+
+27. Qf6 Qg3+ 28. Kg1 Qxg2# *

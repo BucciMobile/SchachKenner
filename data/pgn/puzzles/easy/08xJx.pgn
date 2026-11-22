@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08xJx"]
+[Difficulty "easy"]
+[Rating "1130"]
+[Themes "crushing endgame master pawnEndgame short"]
+[GameUrl "https://lichess.org/game/dAy5q4LR#131"]
+[Solution "d4e5 e2f3 e5f6 f3g3"]
+[SolutionSAN "Ke5 Kf3 Kf6 Kxg3"]
+[FEN "8/8/6p1/7p/3K3P/6P1/4k3/8 w - - 2 66"]
+[SetUp "1"]
+
+66. Ke5 Kf3 67. Kf6 Kxg3 *

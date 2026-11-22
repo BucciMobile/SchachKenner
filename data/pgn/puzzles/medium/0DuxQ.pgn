@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DuxQ"]
+[Difficulty "medium"]
+[Rating "1521"]
+[Themes "advancedPawn crushing endgame long promotion queenRookEndgame"]
+[GameUrl "https://lichess.org/game/lTRLvqYS#63"]
+[Solution "f4h4 h8h4 h1h4 g3g2 h4d4 g2g1q"]
+[SolutionSAN "Rxh4 Rxh4 Qxh4 g2 Qd4 g1=Q+"]
+[FEN "1k4rr/1pp5/p3P3/3P4/5R1p/2P3p1/PP6/2K4Q w - - 1 32"]
+[SetUp "1"]
+
+32. Rxh4 Rxh4 33. Qxh4 g2 34. Qd4 g1=Q+ *

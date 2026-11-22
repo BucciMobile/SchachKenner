@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06cLs"]
+[Difficulty "medium"]
+[Rating "1532"]
+[Themes "advantage long middlegame skewer"]
+[GameUrl "https://lichess.org/game/W2iJlroT#27"]
+[Solution "d3d6 c5d6 d1d6 d8e7 d6d5 e7b4"]
+[SolutionSAN "Qxd6 Qxd6 Rxd6 Be7 Rd5 Bxb4"]
+[FEN "rn1bk2r/pp3ppp/3p4/2q1p3/1N2P3/3Q1N2/PPP2PPP/2KR3R w kq - 6 14"]
+[SetUp "1"]
+
+14. Qxd6 Qxd6 15. Rxd6 Be7 16. Rd5 Bxb4 *

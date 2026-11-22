@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0PDh4"]
+[Difficulty "medium"]
+[Rating "1381"]
+[Themes "crushing endgame knightEndgame veryLong"]
+[GameUrl "https://lichess.org/game/3EdtRqPH/black#68"]
+[Solution "e7c6 d4c6 b7c6 f2e3 g7f6 e3d4 f6e7 d4c5 e7d7 c5b6 c6c5 b6c5"]
+[SolutionSAN "Nc6 Nxc6 bxc6 Ke3 Kf6 Kd4 Ke7 Kc5 Kd7 Kb6 c5 Kxc5"]
+[FEN "8/1p2npk1/p5pp/P7/3N4/5P2/5KPP/8 b - - 1 34"]
+[SetUp "1"]
+
+34... Nc6 35. Nxc6 bxc6 36. Ke3 Kf6 37. Kd4 Ke7 38. Kc5 Kd7 39. Kb6 c5 40. Kxc5 *

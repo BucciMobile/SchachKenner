@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AvzR"]
+[Difficulty "hard"]
+[Rating "2355"]
+[Themes "advancedPawn crushing endgame master quietMove rookEndgame short"]
+[GameUrl "https://lichess.org/game/Uj8xHHRA/black#112"]
+[Solution "c4c3 e4e5 a4a5 d6d7"]
+[SolutionSAN "c3 e5 Ra5 d7"]
+[FEN "8/1k6/3PK3/8/r1p1P3/p7/R7/8 b - - 2 56"]
+[SetUp "1"]
+
+56... c3 57. e5 Ra5 58. d7 *

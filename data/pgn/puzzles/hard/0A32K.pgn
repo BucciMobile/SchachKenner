@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A32K"]
+[Difficulty "hard"]
+[Rating "1704"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/c9WC4f83#39"]
+[Solution "f6g7 h8e8 e1g1 e8e4"]
+[SolutionSAN "fxg7 Rhe8 O-O Rxe4"]
+[FEN "3r3r/2p2kpp/p1n2P2/1p6/4NP2/8/PP4PP/R3K2R w KQ - 1 20"]
+[SetUp "1"]
+
+20. fxg7 Rhe8 21. O-O Rxe4 *

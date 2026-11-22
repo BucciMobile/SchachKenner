@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hycp"]
+[Difficulty "easy"]
+[Rating "1161"]
+[Themes "advantage kingsideAttack middlegame veryLong"]
+[GameUrl "https://lichess.org/game/tzfwDfkk#47"]
+[Solution "e4c5 d7d1 c1d1 d8d1 g1g2 a6f1 g2f3 f1h1"]
+[SolutionSAN "Nxc5 Rd1+ Rxd1 Rxd1+ Kg2 Qf1+ Kf3 Qh1+"]
+[FEN "3r2k1/p2r1ppp/qpQ1p3/2b5/4N3/P3P1P1/1PR2P1P/2R3K1 w - - 1 24"]
+[SetUp "1"]
+
+24. Nxc5 Rd1+ 25. Rxd1 Rxd1+ 26. Kg2 Qf1+ 27. Kf3 Qh1+ *

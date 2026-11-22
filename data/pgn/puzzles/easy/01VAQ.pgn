@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01VAQ"]
+[Difficulty "easy"]
+[Rating "462"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/GgFJiSSh/black#48"]
+[Solution "c6e8 e1e8 f2f8 e8f8"]
+[SolutionSAN "Qxe8 Rxe8+ Rf8 Rxf8#"]
+[FEN "4Q2k/ppp3pp/2q5/6r1/2N3P1/6nP/PP3r2/2R1R1K1 b - - 2 24"]
+[SetUp "1"]
+
+24... Qxe8 25. Rxe8+ Rf8 26. Rxf8# *

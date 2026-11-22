@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Da9R"]
+[Difficulty "medium"]
+[Rating "1627"]
+[Themes "crushing endgame quietMove rookEndgame short"]
+[GameUrl "https://lichess.org/game/HxNNM2jw/black#102"]
+[Solution "a2f2 h4h5 c5d4 h5h6"]
+[SolutionSAN "Rf2 h5 Kd4 h6"]
+[FEN "8/6K1/5p2/p1kpp3/1p4PP/8/r7/7R b - - 1 51"]
+[SetUp "1"]
+
+51... Rf2 52. h5 Kd4 53. h6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05wUh"]
+[Difficulty "medium"]
+[Rating "1595"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/mAct905f/black#60"]
+[Solution "g8h7 e1e7 b7e7 c5e7"]
+[SolutionSAN "Kh7 Re7 Qxe7 Bxe7"]
+[FEN "3r2k1/pq4p1/2p2p1p/2Bb4/1P1P4/6QP/5PP1/4R1K1 b - - 2 30"]
+[SetUp "1"]
+
+30... Kh7 31. Re7 Qxe7 32. Bxe7 *

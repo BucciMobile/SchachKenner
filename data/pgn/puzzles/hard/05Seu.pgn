@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Seu"]
+[Difficulty "hard"]
+[Rating "1981"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/8tpRDVL4#29"]
+[Solution "e1g1 d5b3 a2b3 b8d8"]
+[SolutionSAN "O-O Qxb3 axb3 Rd8"]
+[FEN "1r2k2r/ppp3pp/4p3/2bqP2b/8/1Q1B3P/PP1B1PP1/R3K2R w KQk - 0 15"]
+[SetUp "1"]
+
+15. O-O Qxb3 16. axb3 Rd8 *

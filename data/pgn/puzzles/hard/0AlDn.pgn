@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AlDn"]
+[Difficulty "hard"]
+[Rating "2697"]
+[Themes "advantage defensiveMove endgame veryLong"]
+[GameUrl "https://lichess.org/game/uYqMPFd1#63"]
+[Solution "f2f3 f5g5 c3c8 g8g7 c8g4 e2e1 g1h2 g5g4 h3g4 e1d1 h2g3 g6g5"]
+[SolutionSAN "f3 Qg5 Qc8+ Kg7 Qg4 Re1+ Kh2 Qxg4 hxg4 Rxd1 Kg3 g5"]
+[FEN "6k1/5p1p/p5p1/5q2/1P6/P1Q4P/R2prPP1/3R2K1 w - - 4 32"]
+[SetUp "1"]
+
+32. f3 Qg5 33. Qc8+ Kg7 34. Qg4 Re1+ 35. Kh2 Qxg4 36. hxg4 Rxd1 37. Kg3 g5 *

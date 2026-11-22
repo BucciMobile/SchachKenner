@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03P4P"]
+[Difficulty "easy"]
+[Rating "429"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/WWPmQ5AL/black#76"]
+[Solution "e8e4 d1d8 e4e8 d8e8"]
+[SolutionSAN "Rxe4 Rd8+ Re8 Rxe8#"]
+[FEN "4r1k1/p1p3p1/1p3pP1/8/4Q3/4P3/P6P/3R2K1 b - - 0 38"]
+[SetUp "1"]
+
+38... Rxe4 39. Rd8+ Re8 40. Rxe8# *

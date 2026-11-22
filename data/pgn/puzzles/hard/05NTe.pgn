@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05NTe"]
+[Difficulty "hard"]
+[Rating "1959"]
+[Themes "crushing discoveredAttack discoveredCheck master middlegame short"]
+[GameUrl "https://lichess.org/game/IpJSZRJW#63"]
+[Solution "d2a5 e3c4 g1h2 c4a5"]
+[SolutionSAN "Qa5 Nxc4+ Kh2 Nxa5"]
+[FEN "3kr2r/1RR3p1/2p5/7p/2Pq2bP/3Pn1P1/P2QP1B1/6K1 w - - 2 32"]
+[SetUp "1"]
+
+32. Qa5 Nxc4+ 33. Kh2 Nxa5 *

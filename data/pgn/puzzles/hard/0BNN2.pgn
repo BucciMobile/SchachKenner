@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BNN2"]
+[Difficulty "hard"]
+[Rating "2349"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/YAgopHkm#49"]
+[Solution "a7g7 c4f4 c1b1 f4d2 b2b3 d2d1"]
+[SolutionSAN "Qxg7 Qf4+ Kb1 Qd2 b3 Qxd1+"]
+[FEN "2k1r3/Q5bp/3p2p1/2p5/2q5/5P1P/PPP5/2KR4 w - - 0 25"]
+[SetUp "1"]
+
+25. Qxg7 Qf4+ 26. Kb1 Qd2 27. b3 Qxd1+ *

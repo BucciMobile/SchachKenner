@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KDUW"]
+[Difficulty "hard"]
+[Rating "1789"]
+[Themes "advantage deflection discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/8YgEUhUY/black#48"]
+[Solution "f6e7 e6g8 g7g8 e4e7"]
+[SolutionSAN "Be7 Bg8+ Qxg8 Qxe7+"]
+[FEN "rn6/pp4qk/2pRBbp1/7p/4QP2/1P4PP/P1P5/6K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Be7 25. Bg8+ Qxg8 26. Qxe7+ *

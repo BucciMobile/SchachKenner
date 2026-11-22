@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01U73"]
+[Difficulty "easy"]
+[Rating "747"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/vzk0I9K0#93"]
+[Solution "e1f2 c5d3 f4e3 d3f2"]
+[SolutionSAN "Bf2 Nd3+ Ke3 Nxf2"]
+[FEN "8/8/p4k2/2np3p/P4K1P/2P5/8/4B3 w - - 1 47"]
+[SetUp "1"]
+
+47. Bf2 Nd3+ 48. Ke3 Nxf2 *

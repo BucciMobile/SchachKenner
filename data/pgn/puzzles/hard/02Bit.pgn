@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Bit"]
+[Difficulty "hard"]
+[Rating "1804"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/mwsdSmnI/black#60"]
+[Solution "f4f3 e1e7 f5g5 g7g5"]
+[SolutionSAN "f3 Ree7 Rg5 Rxg5"]
+[FEN "r6k/2p3Rp/1p1p3P/3P1r2/1PP2p2/p7/P7/2K1R3 b - - 1 30"]
+[SetUp "1"]
+
+30... f3 31. Ree7 Rg5 32. Rxg5 *

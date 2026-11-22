@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02PHy"]
+[Difficulty "easy"]
+[Rating "1012"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/fnPJChQH#41"]
+[Solution "a5b4 c5b3"]
+[SolutionSAN "Bb4 Nb3#"]
+[FEN "5rk1/5pp1/p1r1p1bp/BpnpP3/8/P1P2P2/1P4PP/2KR1B1R w - - 0 21"]
+[SetUp "1"]
+
+21. Bb4 Nb3# *

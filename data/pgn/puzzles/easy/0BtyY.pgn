@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BtyY"]
+[Difficulty "easy"]
+[Rating "403"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/ZrW94MT8#39"]
+[Solution "c1e1 e2e1 a1e1 e8e1"]
+[SolutionSAN "Rxe1 Rxe1+ Rxe1 Rxe1#"]
+[FEN "4r1k1/2Q2ppp/8/8/P1Pp4/3P4/2P1rPPP/R1R1q1K1 w - - 1 20"]
+[SetUp "1"]
+
+20. Rxe1 Rxe1+ 21. Rxe1 Rxe1# *

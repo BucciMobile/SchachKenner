@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NS5g"]
+[Difficulty "medium"]
+[Rating "1225"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/VfL0dqeo#43"]
+[Solution "e1d2 b6b2 d2d3 c5a7"]
+[SolutionSAN "Kd2 Rb2+ Kd3 Bxa7"]
+[FEN "1r6/Q4pkp/1r1pb3/2b5/6P1/2P2P1P/P3P3/R3K1NR w KQ - 1 22"]
+[SetUp "1"]
+
+22. Kd2 Rb2+ 23. Kd3 Bxa7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CkxO"]
+[Difficulty "easy"]
+[Rating "956"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/k8T69nkJ#67"]
+[Solution "a1e1 h5h2 g2g1 h2h1"]
+[SolutionSAN "Rae1 Rh2+ Kg1 Rh1+"]
+[FEN "5r1k/6p1/7q/1p5r/4RP2/1Q4P1/1P4K1/R7 w - - 3 34"]
+[SetUp "1"]
+
+34. Rae1 Rh2+ 35. Kg1 Rh1+ *

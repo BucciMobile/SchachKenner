@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AjLy"]
+[Difficulty "medium"]
+[Rating "1225"]
+[Themes "endgame master mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/omp7tuXO/black#76"]
+[Solution "g5f6 d2c3 f6e6 f4f5"]
+[SolutionSAN "Kf6 Bc3+ Ke6 f5#"]
+[FEN "2r5/1R4p1/q2p3p/6kn/2p1BP2/8/2PB1P1K/8 b - - 0 38"]
+[SetUp "1"]
+
+38... Kf6 39. Bc3+ Ke6 40. f5# *

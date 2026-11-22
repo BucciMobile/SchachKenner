@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Abea"]
+[Difficulty "medium"]
+[Rating "1335"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/l8cTiWpk/black#48"]
+[Solution "d8d3 b4b6 a7b6 e2f4 d3c3 b3c3"]
+[SolutionSAN "Rxd3 Qxb6 axb6 Nf4 Rxc3+ Kxc3"]
+[FEN "3rk3/pp3p1p/1qp1p3/5p2/1Q5P/1KPB4/P3N1r1/5R1R b - - 7 24"]
+[SetUp "1"]
+
+24... Rxd3 25. Qxb6 axb6 26. Nf4 Rxc3+ 27. Kxc3 *

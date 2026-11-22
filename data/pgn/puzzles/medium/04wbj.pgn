@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04wbj"]
+[Difficulty "medium"]
+[Rating "1615"]
+[Themes "long mate mateIn3 middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/cRkWGffB#55"]
+[Solution "h1h6 e7a3 c1b1 f2f1 d3d1 f1d1"]
+[SolutionSAN "Rxh6 Qa3+ Kb1 Rf1+ Rd1 Rxd1#"]
+[FEN "2r1k3/1Q1bqp2/p3p2p/Pp6/8/1BPR2P1/2P2rP1/2K4R w - - 0 28"]
+[SetUp "1"]
+
+28. Rxh6 Qa3+ 29. Kb1 Rf1+ 30. Rd1 Rxd1# *

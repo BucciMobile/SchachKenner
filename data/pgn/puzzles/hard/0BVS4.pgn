@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BVS4"]
+[Difficulty "hard"]
+[Rating "2393"]
+[Themes "advantage middlegame veryLong"]
+[GameUrl "https://lichess.org/game/tsMd44ic#31"]
+[Solution "e4c6 b8c6 f3c6 b5b4 d1d7 c8d7 c6c5 b4c3"]
+[SolutionSAN "Bc6 Nxc6 Qxc6 b4 Rxd7 Bxd7 Qxc5 bxc3"]
+[FEN "1nbq1rk1/3r1p1p/p3p1p1/1pp1P3/4B3/2N2Q2/PPP2PPP/3R1RK1 w - - 2 16"]
+[SetUp "1"]
+
+16. Bc6 Nxc6 17. Qxc6 b4 18. Rxd7 Bxd7 19. Qxc5 bxc3 *

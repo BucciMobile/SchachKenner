@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ck4z"]
+[Difficulty "medium"]
+[Rating "1370"]
+[Themes "attraction crushing deflection endgame exposedKing long"]
+[GameUrl "https://lichess.org/game/UKCAXXsU/black#64"]
+[Solution "e5d4 h2c7 e6d7 f2f7 e7f7 c7d7"]
+[SolutionSAN "exd4 Qc7+ Qd7 Rf7+ Kxf7 Qxd7+"]
+[FEN "7r/4k3/p1n1q2p/1p2p1p1/2pPN3/P1P1P3/1PK2R1Q/8 b - - 0 32"]
+[SetUp "1"]
+
+32... exd4 33. Qc7+ Qd7 34. Rf7+ Kxf7 35. Qxd7+ *

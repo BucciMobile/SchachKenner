@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gqf7"]
+[Difficulty "hard"]
+[Rating "1724"]
+[Themes "advantage exposedKing long opening"]
+[GameUrl "https://lichess.org/game/Ty7wxpee#25"]
+[Solution "e3g1 c5b4 f3d2 b4d2 d1d2 b2a1"]
+[SolutionSAN "Bg1 Bb4+ Nd2 Bxd2+ Qxd2 Qxa1+"]
+[FEN "r1b1k2r/pp3ppp/4p3/2bpP3/3N1Pn1/4BN2/Pq4PP/R2QKB1R w KQkq - 3 13"]
+[SetUp "1"]
+
+13. Bg1 Bb4+ 14. Nd2 Bxd2+ 15. Qxd2 Qxa1+ *

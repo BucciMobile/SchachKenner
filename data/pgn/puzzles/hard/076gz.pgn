@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "076gz"]
+[Difficulty "hard"]
+[Rating "2198"]
+[Themes "advancedPawn crushing endgame rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/wdifZPDJ#111"]
+[Solution "b2a2 a1a2 a3a2 e4d5 a5a6 d5c6 a6a7 c6b7 a7a8r b7a8 a2b1 f4f3 b1c2 f3f2"]
+[SolutionSAN "Ra2 Rxa2+ Kxa2 Kd5 a6 Kc6 a7 Kb7 a8=R Kxa8 Kb1 f3 Kc2 f2"]
+[FEN "8/8/8/P7/4kp2/K7/1R6/r7 w - - 3 56"]
+[SetUp "1"]
+
+56. Ra2 Rxa2+ 57. Kxa2 Kd5 58. a6 Kc6 59. a7 Kb7 60. a8=R Kxa8 61. Kb1 f3 62. Kc2 f2 *

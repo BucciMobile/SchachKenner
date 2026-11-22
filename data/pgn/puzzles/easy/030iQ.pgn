@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "030iQ"]
+[Difficulty "easy"]
+[Rating "562"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/djVflfbt/black#90"]
+[Solution "e5e4 g4f6 h7g6 f6e8"]
+[SolutionSAN "e4 Nf6+ Kg6 Nxe8"]
+[FEN "4r3/ppp4k/8/4p3/6NP/8/P1P3PK/8 b - - 1 45"]
+[SetUp "1"]
+
+45... e4 46. Nf6+ Kg6 47. Nxe8 *

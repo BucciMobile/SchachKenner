@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GMr2"]
+[Difficulty "medium"]
+[Rating "1362"]
+[Themes "endgame master"]
+[GameUrl "https://lichess.org/game/uJ3pR9o8#65"]
+[Solution "b3e6 c3e3 f2e3 c1e1"]
+[SolutionSAN "Be6 Rxe3 fxe3 Rxe1+"]
+[FEN "5k2/p7/1p3p2/8/1P3P2/1Br1R2b/P4P1P/2r1R1K1 w - - 5 33"]
+[SetUp "1"]
+
+33. Be6 Rxe3 34. fxe3 Rxe1+ *

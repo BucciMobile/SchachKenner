@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ASZf"]
+[Difficulty "easy"]
+[Rating "1119"]
+[Themes "crushing endgame exposedKing hangingPiece long"]
+[GameUrl "https://lichess.org/game/CryIffjf#71"]
+[Solution "g2h3 h6h3 c2h2 h3h2 g1h2 a6c8"]
+[SolutionSAN "Qxh3 Qxh3 Rh2 Qxh2+ Kxh2 Bxc8"]
+[FEN "2R5/p5pk/b6q/3Pp3/4PpP1/5P1n/P1R3Q1/6K1 w - - 11 36"]
+[SetUp "1"]
+
+36. Qxh3 Qxh3 37. Rh2 Qxh2+ 38. Kxh2 Bxc8 *

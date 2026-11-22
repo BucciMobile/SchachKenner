@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dao0"]
+[Difficulty "easy"]
+[Rating "999"]
+[Themes "attraction endgame kingsideAttack mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/mAX9Cws2/black#40"]
+[Solution "d7e5 h4h7 h8h7 d1h5"]
+[SolutionSAN "Ne5 Rxh7+ Kxh7 Qh5#"]
+[FEN "r6k/pp1nq1pp/2p2p2/8/2B1P2R/2P5/PP4PP/3Q2K1 b - - 2 20"]
+[SetUp "1"]
+
+20... Ne5 21. Rxh7+ Kxh7 22. Qh5# *

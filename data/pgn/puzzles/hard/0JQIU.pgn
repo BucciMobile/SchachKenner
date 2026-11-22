@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JQIU"]
+[Difficulty "hard"]
+[Rating "2180"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/esnaee1F/black#88"]
+[Solution "e8e7 e2h5 a8b8 c3b2"]
+[SolutionSAN "Re7 Bxh5 Rb8 Qb2"]
+[FEN "r3r1k1/3p1p2/p5p1/7q/2P1NP2/1pQ1K3/4B3/8 b - - 10 44"]
+[SetUp "1"]
+
+44... Re7 45. Bxh5 Rb8 46. Qb2 *

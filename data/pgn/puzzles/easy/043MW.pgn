@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "043MW"]
+[Difficulty "easy"]
+[Rating "482"]
+[Themes "hangingPiece kingsideAttack master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/KRy1YB8i#53"]
+[Solution "d2h6 d3f1"]
+[SolutionSAN "Bh6 Qxf1#"]
+[FEN "r5k1/1p3p2/p2bpPp1/3p3R/P5Qp/3q3P/3B2P1/5R1K w - - 1 27"]
+[SetUp "1"]
+
+27. Bh6 Qxf1# *

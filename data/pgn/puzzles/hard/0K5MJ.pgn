@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K5MJ"]
+[Difficulty "hard"]
+[Rating "2261"]
+[Themes "crushing endgame master pin short"]
+[GameUrl "https://lichess.org/game/7vEb32rl/black#76"]
+[Solution "d4d3 b1c1 g7h6 b7c7"]
+[SolutionSAN "d3 Rc1 Kh6 Rbxc7"]
+[FEN "2r5/QRr3kp/4ppp1/4q3/3p4/P6P/5PP1/1R4K1 b - - 0 38"]
+[SetUp "1"]
+
+38... d3 39. Rc1 Kh6 40. Rbxc7 *

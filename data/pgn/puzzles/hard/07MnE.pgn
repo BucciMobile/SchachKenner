@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07MnE"]
+[Difficulty "hard"]
+[Rating "1799"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/NpXjFQRk/black#84"]
+[Solution "d7e8 c6b8 e8d8 b8a6 d8c8 a4b5"]
+[SolutionSAN "Ke8 Nb8 Kd8 Nxa6 Kc8 Kb5"]
+[FEN "8/3k4/pbNp4/2pPp1p1/K1P1Pp2/P4PpP/6P1/8 b - - 11 42"]
+[SetUp "1"]
+
+42... Ke8 43. Nb8 Kd8 44. Nxa6 Kc8 45. Kb5 *

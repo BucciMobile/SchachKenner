@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09eSu"]
+[Difficulty "easy"]
+[Rating "1019"]
+[Themes "advancedPawn crushing endgame pin rookEndgame short"]
+[GameUrl "https://lichess.org/game/OjBVHFpM/black#84"]
+[Solution "g8f7 a8a7 b7a7 b6a7"]
+[SolutionSAN "Kf7 Ra7 Rxa7 bxa7"]
+[FEN "R5k1/1r4p1/1P3p1p/3p4/5p2/7P/6PK/8 b - - 1 42"]
+[SetUp "1"]
+
+42... Kf7 43. Ra7 Rxa7 44. bxa7 *

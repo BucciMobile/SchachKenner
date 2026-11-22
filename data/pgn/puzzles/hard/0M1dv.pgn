@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M1dv"]
+[Difficulty "hard"]
+[Rating "2284"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/tBS205fI#43"]
+[Solution "g1f1 d8f8 f7g6 e5f4"]
+[SolutionSAN "Kf1 Rf8 Qg6 Qf4"]
+[FEN "3r3k/pp2bQ2/7p/2p1q2n/2B5/2N4P/PPP2P2/R5K1 w - - 0 22"]
+[SetUp "1"]
+
+22. Kf1 Rf8 23. Qg6 Qf4 *

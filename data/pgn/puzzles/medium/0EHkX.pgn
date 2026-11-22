@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EHkX"]
+[Difficulty "medium"]
+[Rating "1600"]
+[Themes "advantage endgame fork long master"]
+[GameUrl "https://lichess.org/game/QsWoEfNT/black#92"]
+[Solution "d4h4 d6f5 e7d7 c6d6 d7c7 f5h4"]
+[SolutionSAN "Rh4 Nf5+ Kd7 Rd6+ Kc7 Nxh4"]
+[FEN "8/4kppp/2RNn3/p3P3/Pp1r4/4K3/1P5P/8 b - - 7 46"]
+[SetUp "1"]
+
+46... Rh4 47. Nf5+ Kd7 48. Rd6+ Kc7 49. Nxh4 *

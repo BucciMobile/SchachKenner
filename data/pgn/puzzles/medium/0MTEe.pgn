@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MTEe"]
+[Difficulty "medium"]
+[Rating "1532"]
+[Themes "discoveredCheck doubleCheck mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/SJTpKlbw/black#46"]
+[Solution "h8h7 g6f8 h7h8 c2h7"]
+[SolutionSAN "Kxh7 Nf8+ Kh8 Qh7#"]
+[FEN "r1rq3k/3b2pB/p1n1p1Np/1pPpp3/3P2P1/P3P3/2Q4P/2R2RK1 b - - 1 23"]
+[SetUp "1"]
+
+23... Kxh7 24. Nf8+ Kh8 25. Qh7# *

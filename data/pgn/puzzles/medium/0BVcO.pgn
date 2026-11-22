@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BVcO"]
+[Difficulty "medium"]
+[Rating "1623"]
+[Themes "attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/tv86NeMU/black#36"]
+[Solution "f8f4 h1h8 g8h8 d1h5 h8g8 h5h7 g8f8 h7h8"]
+[SolutionSAN "Rxf4 Rh8+ Kxh8 Qh5+ Kg8 Qh7+ Kf8 Qh8#"]
+[FEN "r2q1rk1/pb1nb1p1/1p1pp1P1/4P3/3p1B2/2P3N1/PP4P1/R2QK2R b KQ - 0 18"]
+[SetUp "1"]
+
+18... Rxf4 19. Rh8+ Kxh8 20. Qh5+ Kg8 21. Qh7+ Kf8 22. Qh8# *

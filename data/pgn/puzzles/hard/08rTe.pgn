@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08rTe"]
+[Difficulty "hard"]
+[Rating "2592"]
+[Themes "crushing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/F2QbYlY1#41"]
+[Solution "g1g2 h6h3 g2g1 h7g6 c1c6 b7c6 d5e7 d6e7"]
+[SolutionSAN "Kg2 Qh3+ Kg1 Kg6 Rc6 bxc6 Ne7+ Bxe7"]
+[FEN "r4r2/1p3p1k/p2b3q/3N1pp1/1P4p1/P3P1P1/1B1P1P2/2RQ1RK1 w - - 3 21"]
+[SetUp "1"]
+
+21. Kg2 Qh3+ 22. Kg1 Kg6 23. Rc6 bxc6 24. Ne7+ Bxe7 *

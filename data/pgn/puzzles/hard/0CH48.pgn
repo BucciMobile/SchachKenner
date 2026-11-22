@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CH48"]
+[Difficulty "hard"]
+[Rating "1863"]
+[Themes "advancedPawn crushing endgame long pin promotion rookEndgame sacrifice"]
+[GameUrl "https://lichess.org/game/Oud0gF2g#85"]
+[Solution "g1g2 h4g4 g3g4 c3c2 g2f3 c2c1q"]
+[SolutionSAN "Kg2 Rxg4 Rxg4 c2 Kf3 c1=Q"]
+[FEN "8/8/1p2pk2/pP1p4/P2P1PPr/2p3R1/8/6K1 w - - 0 43"]
+[SetUp "1"]
+
+43. Kg2 Rxg4 44. Rxg4 c2 45. Kf3 c1=Q *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04eCl"]
+[Difficulty "medium"]
+[Rating "1568"]
+[Themes "endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/gZNm5RYu#51"]
+[Solution "h1f1 d3e5 f3f4 g7g5 f4e4 f7f5"]
+[SolutionSAN "Rf1 Ne5+ Kf4 g5+ Ke4 f5#"]
+[FEN "8/pB3pp1/4k2p/8/2P5/P2nPKP1/3r1PP1/7R w - - 1 26"]
+[SetUp "1"]
+
+26. Rf1 Ne5+ 27. Kf4 g5+ 28. Ke4 f5# *

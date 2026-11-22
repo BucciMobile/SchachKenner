@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ENhQ"]
+[Difficulty "hard"]
+[Rating "2365"]
+[Themes "crushing endgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/ORK6a6WO/black#66"]
+[Solution "g7h7 e1e8 f7f6 b2b8 c5c1 g1h2 f5e5 e8e5"]
+[SolutionSAN "Kh7 Re8 f6 Qb8 Rc1+ Kh2 Qe5+ Rxe5"]
+[FEN "8/3p1pk1/p5p1/2r2q1p/P7/7P/1Q3PP1/4R1K1 b - - 3 33"]
+[SetUp "1"]
+
+33... Kh7 34. Re8 f6 35. Qb8 Rc1+ 36. Kh2 Qe5+ 37. Rxe5 *

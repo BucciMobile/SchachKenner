@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I6RM"]
+[Difficulty "medium"]
+[Rating "1403"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/O2bs567m/black#60"]
+[Solution "d7d6 a7e7"]
+[SolutionSAN "Kxd6 Qe7#"]
+[FEN "2q3r1/Q2k1p2/2pB1P1p/3p4/8/7b/PP3PPP/2R3K1 b - - 0 30"]
+[SetUp "1"]
+
+30... Kxd6 31. Qe7# *

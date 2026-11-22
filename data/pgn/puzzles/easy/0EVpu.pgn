@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EVpu"]
+[Difficulty "easy"]
+[Rating "796"]
+[Themes "advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/3WjXJSoG#55"]
+[Solution "e4c5 f4e2 g1f2 e2c1"]
+[SolutionSAN "Nxc5 Ne2+ Kf2 Nxc1"]
+[FEN "2r3k1/5ppp/p7/P1p5/1p2Nn2/3P1P2/1P4PP/2R3K1 w - - 4 28"]
+[SetUp "1"]
+
+28. Nxc5 Ne2+ 29. Kf2 Nxc1 *

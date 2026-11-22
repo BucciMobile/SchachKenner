@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BOFm"]
+[Difficulty "hard"]
+[Rating "1920"]
+[Themes "advantage long master middlegame"]
+[GameUrl "https://lichess.org/game/LYJyEQm0/black#48"]
+[Solution "a8d8 d2b3 d3c4 f4c4 d8d1 h1d1"]
+[SolutionSAN "Rd8 Nb3 Qxc4+ Qxc4 Rxd1+ Rxd1"]
+[FEN "r5k1/pp4p1/1n2P1b1/b1p2pPp/2P2Q1P/3q4/PP1N4/2KR3R b - - 1 24"]
+[SetUp "1"]
+
+24... Rd8 25. Nb3 Qxc4+ 26. Qxc4 Rxd1+ 27. Rxd1 *

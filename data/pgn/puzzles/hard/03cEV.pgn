@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03cEV"]
+[Difficulty "hard"]
+[Rating "2786"]
+[Themes "crushing defensiveMove endgame long sacrifice"]
+[GameUrl "https://lichess.org/game/k64RD6jT#93"]
+[Solution "f3g5 d5e5 f6f7 e6f7 g5f7 e5f4"]
+[SolutionSAN "Ng5 Ke5 f7 Bxf7 Nxf7+ Kf4"]
+[FEN "8/8/4bP2/3k3p/2p5/2K2N2/P7/8 w - - 3 47"]
+[SetUp "1"]
+
+47. Ng5 Ke5 48. f7 Bxf7 49. Nxf7+ Kf4 *

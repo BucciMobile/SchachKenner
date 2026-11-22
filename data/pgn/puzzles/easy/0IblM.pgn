@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IblM"]
+[Difficulty "easy"]
+[Rating "681"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/avruT7Zz#35"]
+[Solution "e5e6 c7h2"]
+[SolutionSAN "e6 Qxh2#"]
+[FEN "2r1r1k1/ppq1ppbp/6p1/4P3/3B2n1/2N2R2/PPP3PP/3RQ2K w - - 1 18"]
+[SetUp "1"]
+
+18. e6 Qxh2# *

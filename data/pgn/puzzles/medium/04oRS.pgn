@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04oRS"]
+[Difficulty "medium"]
+[Rating "1597"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/KZ89LgrZ/black#38"]
+[Solution "f7h7 g4g5 h7h6 g5h6"]
+[SolutionSAN "Rh7 g5 Rxh6 gxh6"]
+[FEN "rnq3k1/pb3r2/1p1p1bnB/2p1p3/2P1P1P1/PP1P3B/3N1P2/R2QK2R b KQ - 2 19"]
+[SetUp "1"]
+
+19... Rh7 20. g5 Rxh6 21. gxh6 *

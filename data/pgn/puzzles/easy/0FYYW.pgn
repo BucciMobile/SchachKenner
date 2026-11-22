@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FYYW"]
+[Difficulty "easy"]
+[Rating "968"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/gcH2DttT/black#88"]
+[Solution "h8g7 e7h4"]
+[SolutionSAN "Qg7 Qh4#"]
+[FEN "7q/4Q3/6pk/4pp2/4b3/6PP/6PK/8 b - - 1 44"]
+[SetUp "1"]
+
+44... Qg7 45. Qh4# *

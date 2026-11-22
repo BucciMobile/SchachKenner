@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "094oI"]
+[Difficulty "hard"]
+[Rating "1724"]
+[Themes "advantage defensiveMove long middlegame"]
+[GameUrl "https://lichess.org/game/9c8EVRYi/black#58"]
+[Solution "f1e1 c3e1 g7d4 e3f4 d1c1 f4f5"]
+[SolutionSAN "Re1+ Bxe1 Bd4+ Kf4 Qc1+ Kf5"]
+[FEN "7k/1p2p1bp/r1p1P3/p5Q1/4B1N1/2B1K3/PPP5/3q1rN1 b - - 14 29"]
+[SetUp "1"]
+
+29... Re1+ 30. Bxe1 Bd4+ 31. Kf4 Qc1+ 32. Kf5 *

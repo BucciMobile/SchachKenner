@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Drn2"]
+[Difficulty "medium"]
+[Rating "1378"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/AVcgklOA#69"]
+[Solution "f2e1 d4g1"]
+[SolutionSAN "Ke1 Qg1#"]
+[FEN "8/5ppk/2Q1p1p1/1pNp4/1Pnq1P2/8/4RKPP/8 w - - 0 35"]
+[SetUp "1"]
+
+35. Ke1 Qg1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JTAZ"]
+[Difficulty "medium"]
+[Rating "1276"]
+[Themes "crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/lWOMEs1x/black#94"]
+[Solution "d4d3 e2f2 d3d2 f2e2 b5a5 e2d2"]
+[SolutionSAN "d3+ Kxf2 d2 Ke2 Kxa5 Kxd2"]
+[FEN "8/7p/8/Pk4p1/3p2P1/7P/4Kp2/8 b - - 1 47"]
+[SetUp "1"]
+
+47... d3+ 48. Kxf2 d2 49. Ke2 Kxa5 50. Kxd2 *

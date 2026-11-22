@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HQiK"]
+[Difficulty "medium"]
+[Rating "1608"]
+[Themes "advantage exposedKing fork long opening sacrifice"]
+[GameUrl "https://lichess.org/game/KKyKV6ni/black#22"]
+[Solution "d8e7 c3d5 e7e6 d5c7 e8f7 c7e6"]
+[SolutionSAN "Qe7 Nd5 Qxe6 Nc7+ Kf7 Nxe6"]
+[FEN "r2qkb1r/1p4pp/p1npNn2/6Bb/4P3/2N2P2/PPP3PP/R2Q1RK1 b kq - 0 11"]
+[SetUp "1"]
+
+11... Qe7 12. Nd5 Qxe6 13. Nc7+ Kf7 14. Nxe6 *

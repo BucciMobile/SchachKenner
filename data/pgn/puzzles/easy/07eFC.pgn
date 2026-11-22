@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07eFC"]
+[Difficulty "easy"]
+[Rating "659"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/43I2NZin/black#80"]
+[Solution "h4h3 e4h7 g8f8 h7h8"]
+[SolutionSAN "h3 Qh7+ Kf8 Qh8#"]
+[FEN "6k1/4bpp1/2p1q3/p3P3/4Q2p/P2B1P2/5P2/4K3 b - - 4 40"]
+[SetUp "1"]
+
+40... h3 41. Qh7+ Kf8 42. Qh8# *

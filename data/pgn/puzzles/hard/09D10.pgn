@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09D10"]
+[Difficulty "hard"]
+[Rating "1866"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/5A1KPNuN#65"]
+[Solution "d8a8 f5c2 a2a1 c2g6"]
+[SolutionSAN "Rxa8 Qxc2+ Ka1 Qxg6"]
+[FEN "r2Rn2k/2P4r/4p1R1/p4qP1/1pB5/1P3P2/K1P5/1N6 w - - 3 33"]
+[SetUp "1"]
+
+33. Rxa8 Qxc2+ 34. Ka1 Qxg6 *

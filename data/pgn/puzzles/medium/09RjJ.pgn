@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09RjJ"]
+[Difficulty "medium"]
+[Rating "1661"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/GNt3gB1Q#41"]
+[Solution "c2b3 a5a3 c1d1 a3b2"]
+[SolutionSAN "cxb3 Qa3+ Kd1 Qb2"]
+[FEN "8/p3p1k1/2ppp1p1/q7/4P1nP/1rN5/P1P2r2/2K1Q1RR w - - 0 21"]
+[SetUp "1"]
+
+21. cxb3 Qa3+ 22. Kd1 Qb2 *

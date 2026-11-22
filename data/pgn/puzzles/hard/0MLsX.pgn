@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MLsX"]
+[Difficulty "hard"]
+[Rating "1991"]
+[Themes "advantage defensiveMove fork middlegame short"]
+[GameUrl "https://lichess.org/game/jm0AdxUe/black#40"]
+[Solution "f4e5 g4h4 b7d5 c2c4"]
+[SolutionSAN "Be5 Qh4 Bd5+ c4"]
+[FEN "3r2k1/pbp2ppp/1p6/8/3n1bQ1/P2B3P/KPP3P1/4r1NR b - - 6 20"]
+[SetUp "1"]
+
+20... Be5 21. Qh4 Bd5+ 22. c4 *

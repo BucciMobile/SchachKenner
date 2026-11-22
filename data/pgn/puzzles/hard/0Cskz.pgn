@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cskz"]
+[Difficulty "hard"]
+[Rating "1751"]
+[Themes "advantage long master middlegame trappedPiece"]
+[GameUrl "https://lichess.org/game/b9FqYemw#43"]
+[Solution "e2h5 d6e5 g7h7 f8h8 h5g6 h8h7"]
+[SolutionSAN "Bh5 Be5 Qh7 Rh8 Bxg6 Rxh7"]
+[FEN "2r1kr2/2qb1pQ1/p2bp1nB/1p1p4/1P1N3P/P1P4R/4BPP1/2R1K3 w - - 1 22"]
+[SetUp "1"]
+
+22. Bh5 Be5 23. Qh7 Rh8 24. Bxg6 Rxh7 *

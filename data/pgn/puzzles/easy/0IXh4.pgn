@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IXh4"]
+[Difficulty "easy"]
+[Rating "1104"]
+[Themes "advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/YWrpAvnR/black#94"]
+[Solution "e3b6 c4b4 e7e8 b4b6"]
+[SolutionSAN "Bxb6 Qb4+ Ke8 Qxb6"]
+[FEN "2q5/4k3/1Pb1p1pp/4p3/2Q1P3/3NbB1P/6PK/8 b - - 4 47"]
+[SetUp "1"]
+
+47... Bxb6 48. Qb4+ Ke8 49. Qxb6 *

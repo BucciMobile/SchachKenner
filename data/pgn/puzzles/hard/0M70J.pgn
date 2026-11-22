@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M70J"]
+[Difficulty "hard"]
+[Rating "2443"]
+[Themes "crushing endgame long quietMove"]
+[GameUrl "https://lichess.org/game/XilAwl9h#89"]
+[Solution "g1f2 c6c5 f2e2 d1d6 f7e6 d6e6"]
+[SolutionSAN "Kf2 Qc5+ Ke2 Rd6 Qxe6 Rxe6+"]
+[FEN "8/5Q1p/pkq1pRp1/1p4P1/7P/2P5/PP6/3r2K1 w - - 6 45"]
+[SetUp "1"]
+
+45. Kf2 Qc5+ 46. Ke2 Rd6 47. Qxe6 Rxe6+ *

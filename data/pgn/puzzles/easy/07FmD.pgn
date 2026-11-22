@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07FmD"]
+[Difficulty "easy"]
+[Rating "961"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/7Pfb5wST/black#36"]
+[Solution "e7d5 g5g7"]
+[SolutionSAN "Nxd5 Qg7#"]
+[FEN "r1b1q2k/ppp1n3/3p1r1P/3BppQ1/2P5/3P2P1/PP2PP2/R3K2R b KQ - 1 18"]
+[SetUp "1"]
+
+18... Nxd5 19. Qg7# *

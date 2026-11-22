@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09pZf"]
+[Difficulty "medium"]
+[Rating "1515"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/qmGSVmMF/black#78"]
+[Solution "b6a5 e3a7 a5b4 c2c3"]
+[SolutionSAN "Ka5 Qxa7+ Kb4 c3#"]
+[FEN "8/p1p5/1k2b3/1p6/P7/1P2Q3/1KP1p3/3q4 b - - 1 39"]
+[SetUp "1"]
+
+39... Ka5 40. Qxa7+ Kb4 41. c3# *

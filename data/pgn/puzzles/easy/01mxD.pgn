@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01mxD"]
+[Difficulty "easy"]
+[Rating "1147"]
+[Themes "kingsideAttack mate mateIn2 opening short"]
+[GameUrl "https://lichess.org/game/gtjH4VlN#33"]
+[Solution "b4b5 g5f3 g2f3 d6h2"]
+[SolutionSAN "b5 Nxf3+ gxf3 Qxh2#"]
+[FEN "rn3rk1/p1b2ppp/1p1qp3/3p2n1/1P1P4/PN1QPN2/5PPP/R3BRK1 w - - 6 17"]
+[SetUp "1"]
+
+17. b5 Nxf3+ 18. gxf3 Qxh2# *

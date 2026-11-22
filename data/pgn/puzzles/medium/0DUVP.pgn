@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DUVP"]
+[Difficulty "medium"]
+[Rating "1237"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/gym9u2km/black#100"]
+[Solution "g6h5 e3d4 h5g6 d4e5"]
+[SolutionSAN "Kh5 Kd4 Kg6 Ke5"]
+[FEN "8/8/4p1k1/p4pP1/P4P2/4K3/8/8 b - - 2 50"]
+[SetUp "1"]
+
+50... Kh5 51. Kd4 Kg6 52. Ke5 *

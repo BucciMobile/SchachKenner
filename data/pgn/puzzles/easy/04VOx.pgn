@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04VOx"]
+[Difficulty "easy"]
+[Rating "835"]
+[Themes "advantage hangingPiece master middlegame short"]
+[GameUrl "https://lichess.org/game/k3VX0UX1/black#56"]
+[Solution "d7c5 b2d4 c5b3 d4b6"]
+[SolutionSAN "Nc5 Qxd4 Nxb3 Qxb6"]
+[FEN "5r1k/p2n2pp/1q1P4/8/P2r1p2/1B6/1Q2K1PP/R3R3 b - - 3 28"]
+[SetUp "1"]
+
+28... Nc5 29. Qxd4 Nxb3 30. Qxb6 *

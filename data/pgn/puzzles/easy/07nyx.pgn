@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07nyx"]
+[Difficulty "easy"]
+[Rating "1135"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/VE7e1fCF/black#72"]
+[Solution "g5f5 g3g4 f5e6 d3e4"]
+[SolutionSAN "Kf5 g4+ Ke6 Ke4"]
+[FEN "8/2p4p/p1p3p1/1p4k1/1P1P1p1P/P2K1PP1/8/8 b - - 0 36"]
+[SetUp "1"]
+
+36... Kf5 37. g4+ Ke6 38. Ke4 *

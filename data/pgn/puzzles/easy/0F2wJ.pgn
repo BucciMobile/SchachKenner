@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F2wJ"]
+[Difficulty "easy"]
+[Rating "1077"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/DWW2rShi#39"]
+[Solution "d1f3 c3d2 f1d2 d8d2"]
+[SolutionSAN "Qf3 Bxd2 Nxd2 Rxd2"]
+[FEN "1r1r2k1/p3q2p/b3p1p1/5p2/8/1Pb5/P1PB1PPP/1R1QRNK1 w - - 4 20"]
+[SetUp "1"]
+
+20. Qf3 Bxd2 21. Nxd2 Rxd2 *

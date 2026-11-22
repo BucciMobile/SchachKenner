@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M8qe"]
+[Difficulty "hard"]
+[Rating "2300"]
+[Themes "crushing endgame master masterVsMaster veryLong"]
+[GameUrl "https://lichess.org/game/yZGdlZ0m#81"]
+[Solution "f4f5 h6f4 d4g1 d5d4 e6d6 f4e5 d6d4 e5d4"]
+[SolutionSAN "f5 Bf4 Bg1 d4 Rd6 Bxe5 Rxd4 Bxd4"]
+[FEN "8/1p4rk/p3R2b/P2pP3/3B1Ppp/2P4P/q7/3Q3K w - - 0 41"]
+[SetUp "1"]
+
+41. f5 Bf4 42. Bg1 d4 43. Rd6 Bxe5 44. Rxd4 Bxd4 *

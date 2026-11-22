@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HSEl"]
+[Difficulty "medium"]
+[Rating "1417"]
+[Themes "crushing endgame long pin rookEndgame"]
+[GameUrl "https://lichess.org/game/CPJjdLq8#91"]
+[Solution "a7g7 f3f6 h6h7 f6f7 g7f7 f8f7"]
+[SolutionSAN "Rg7 Rf6+ Kh7 Rf7 Rxf7+ Kxf7"]
+[FEN "5k2/R7/7K/8/8/P4rp1/8/8 w - - 0 46"]
+[SetUp "1"]
+
+46. Rg7 Rf6+ 47. Kh7 Rf7 48. Rxf7+ Kxf7 *

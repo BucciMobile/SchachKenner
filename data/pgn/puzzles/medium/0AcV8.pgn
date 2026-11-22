@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AcV8"]
+[Difficulty "medium"]
+[Rating "1381"]
+[Themes "advantage endgame short skewer"]
+[GameUrl "https://lichess.org/game/ubKfLWJF/black#62"]
+[Solution "f8e7 g5g7 e7e8 g7b7"]
+[SolutionSAN "Ke7 Rg7+ Ke8 Rxb7"]
+[FEN "r4k2/pb6/4p3/1pp1P1R1/6P1/4K3/Pr6/5R2 b - - 2 31"]
+[SetUp "1"]
+
+31... Ke7 32. Rg7+ Ke8 33. Rxb7 *

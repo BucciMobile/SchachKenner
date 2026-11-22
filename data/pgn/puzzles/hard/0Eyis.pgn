@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Eyis"]
+[Difficulty "hard"]
+[Rating "1988"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/R9Xxatiq#97"]
+[Solution "c3d1 h3h2 g1h1 f3e2 d1c3 e2f1 c3e4 g3g2 h1h2 g2g1q"]
+[SolutionSAN "Nd1 h2+ Kh1 Ke2 Nc3+ Kf1 Ne4 g2+ Kxh2 g1=Q+"]
+[FEN "8/1p6/8/8/8/1PN2kpp/P7/6K1 w - - 0 49"]
+[SetUp "1"]
+
+49. Nd1 h2+ 50. Kh1 Ke2 51. Nc3+ Kf1 52. Ne4 g2+ 53. Kxh2 g1=Q+ *

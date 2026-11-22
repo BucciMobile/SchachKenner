@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ByJT"]
+[Difficulty "medium"]
+[Rating "1521"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/hWJX03QV#31"]
+[Solution "c3d5 f6d5 g5e7 d5e7"]
+[SolutionSAN "Nxd5 Nxd5 Bxe7 Nxe7"]
+[FEN "1r3rk1/2qbbppp/p3pn2/3p2B1/8/2NB1Q1P/PPP2PP1/1R2R1K1 w - - 7 16"]
+[SetUp "1"]
+
+16. Nxd5 Nxd5 17. Bxe7 Nxe7 *

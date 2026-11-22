@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DPQr"]
+[Difficulty "hard"]
+[Rating "1999"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/JSn8GHL3/black#88"]
+[Solution "d5d4 d1e1 e5e1 d2e1"]
+[SolutionSAN "d4 Re1 Qxe1+ Qxe1"]
+[FEN "3r4/5pk1/p2r2p1/1n1pq2p/1P3R2/5B1P/3Q2P1/3R2K1 b - - 1 44"]
+[SetUp "1"]
+
+44... d4 45. Re1 Qxe1+ 46. Qxe1 *

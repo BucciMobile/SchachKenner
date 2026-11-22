@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Ooe"]
+[Difficulty "medium"]
+[Rating "1690"]
+[Themes "advantage endgame master pin short"]
+[GameUrl "https://lichess.org/game/b0YnZ2jv#57"]
+[Solution "d4d5 e6e3 f3e3 b6e3"]
+[SolutionSAN "d5 Re3 Qxe3 Bxe3"]
+[FEN "6k1/p5pp/1bp1r3/8/2pP3P/5QK1/PP4P1/8 w - - 2 29"]
+[SetUp "1"]
+
+29. d5 Re3 30. Qxe3 Bxe3 *

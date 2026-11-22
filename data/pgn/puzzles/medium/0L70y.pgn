@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0L70y"]
+[Difficulty "medium"]
+[Rating "1328"]
+[Themes "crushing endgame intermezzo short"]
+[GameUrl "https://lichess.org/game/elJo0uQe#61"]
+[Solution "c2b3 d6d3 b1a1 a4b3"]
+[SolutionSAN "cxb3 Qd3+ Ka1 axb3"]
+[FEN "4r1k1/5p1p/3q2p1/4p1Q1/p6P/1p3P2/BPP5/1K4R1 w - - 0 31"]
+[SetUp "1"]
+
+31. cxb3 Qd3+ 32. Ka1 axb3 *

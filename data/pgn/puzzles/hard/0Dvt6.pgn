@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dvt6"]
+[Difficulty "hard"]
+[Rating "2049"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/v0dLu8nz#65"]
+[Solution "d3d8 f8d8 d1d8 c6d8 e3h6 d8f7"]
+[SolutionSAN "Rd8+ Rxd8 Rxd8+ Nxd8 Bxh6 Nxf7"]
+[FEN "1k3r2/1pp2P2/p1n4b/7p/6p1/3RB3/5PPP/3R2K1 w - - 0 33"]
+[SetUp "1"]
+
+33. Rd8+ Rxd8 34. Rxd8+ Nxd8 35. Bxh6 Nxf7 *

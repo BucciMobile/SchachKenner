@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AlT8"]
+[Difficulty "medium"]
+[Rating "1230"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+[GameUrl "https://lichess.org/game/ZO3pjzX2/black#22"]
+[Solution "h6g5 e4d6"]
+[SolutionSAN "hxg5 Nd6#"]
+[FEN "r1bqkb1r/pp1pnpp1/4p2p/1B2P1B1/3PN3/8/PP3PPP/R2Q1RK1 b kq - 1 11"]
+[SetUp "1"]
+
+11... hxg5 12. Nd6# *

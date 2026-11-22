@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IPiK"]
+[Difficulty "medium"]
+[Rating "1645"]
+[Themes "deflection mate mateIn2 middlegame pin short"]
+[GameUrl "https://lichess.org/game/ANcqO2iC/black#34"]
+[Solution "g8h7 d1h5 h7g8 h5g6"]
+[SolutionSAN "Kxh7 Qh5+ Kg8 Qxg6#"]
+[FEN "rn1q1rk1/pb5R/1p4p1/2bp2P1/3B4/2PB4/PP3PP1/R2QK3 b Q - 0 17"]
+[SetUp "1"]
+
+17... Kxh7 18. Qh5+ Kg8 19. Qxg6# *

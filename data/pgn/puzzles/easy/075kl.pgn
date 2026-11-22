@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "075kl"]
+[Difficulty "easy"]
+[Rating "1143"]
+[Themes "advantage endgame fork knightEndgame short"]
+[GameUrl "https://lichess.org/game/ww9vd0XG#73"]
+[Solution "d2d3 e5e4 d3d4 e4f3"]
+[SolutionSAN "Kd3 e4+ Kd4 exf3"]
+[FEN "8/p6p/1p1k4/1P1pppP1/N6P/5N2/3K1Pn1/8 w - - 2 37"]
+[SetUp "1"]
+
+37. Kd3 e4+ 38. Kd4 exf3 *

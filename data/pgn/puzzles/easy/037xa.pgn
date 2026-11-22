@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "037xa"]
+[Difficulty "easy"]
+[Rating "942"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/r15372Je/black#58"]
+[Solution "e8d6 f2d4"]
+[SolutionSAN "Nd6 Bd4#"]
+[FEN "1r1Rn1rk/2p1P2p/pp4p1/8/1PP2p2/b6P/5BP1/5RK1 b - - 2 29"]
+[SetUp "1"]
+
+29... Nd6 30. Bd4# *

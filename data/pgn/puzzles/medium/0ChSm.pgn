@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ChSm"]
+[Difficulty "medium"]
+[Rating "1215"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/bDzmSu1G#35"]
+[Solution "f3e4 d3f2 d1e1 f2e4"]
+[SolutionSAN "Qxe4 Nxf2+ Ke1 Nxe4"]
+[FEN "r3k2r/p4pb1/1q4p1/1p1Bp2p/4n1b1/2PnPQ2/PPNPNPPP/R1BK3R w kq - 1 18"]
+[SetUp "1"]
+
+18. Qxe4 Nxf2+ 19. Ke1 Nxe4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Tl1"]
+[Difficulty "hard"]
+[Rating "1901"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/CqRiQ1lv/black#66"]
+[Solution "f5f4 a1a8 g8g7 d4f6 f4f6 d6f6"]
+[SolutionSAN "Qf4 Qa8+ Kg7 Bxf6+ Qxf6 Rxf6"]
+[FEN "6k1/5p1p/3R1np1/1p3q2/2bB4/2P4P/2r2PP1/Q5K1 b - - 7 33"]
+[SetUp "1"]
+
+33... Qf4 34. Qa8+ Kg7 35. Bxf6+ Qxf6 36. Rxf6 *

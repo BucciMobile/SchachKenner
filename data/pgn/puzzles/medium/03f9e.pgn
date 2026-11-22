@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03f9e"]
+[Difficulty "medium"]
+[Rating "1359"]
+[Themes "advancedPawn crushing endgame master promotion quietMove short"]
+[GameUrl "https://lichess.org/game/9yeeVf6U#119"]
+[Solution "d4e5 f5h3 c5c6 h2h1q"]
+[SolutionSAN "Ke5 Bh3 c6 h1=Q"]
+[FEN "7R/8/8/2P2b2/3K1P2/8/6kp/8 w - - 1 60"]
+[SetUp "1"]
+
+60. Ke5 Bh3 61. c6 h1=Q *

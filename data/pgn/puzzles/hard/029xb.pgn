@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "029xb"]
+[Difficulty "hard"]
+[Rating "1958"]
+[Themes "advantage middlegame veryLong"]
+[GameUrl "https://lichess.org/game/KISZk5sh#41"]
+[Solution "f1e1 e8e4 e2e4 f6f5 e4e6 d7e6 e1e6 g7d4"]
+[SolutionSAN "Re1 Rxe4 Qxe4 f5 Qe6+ Qxe6 Rxe6 Bxd4+"]
+[FEN "r3r1k1/3q2bp/2p2pp1/p7/P2BRP2/8/1PP1Q1PP/5RK1 w - - 3 21"]
+[SetUp "1"]
+
+21. Re1 Rxe4 22. Qxe4 f5 23. Qe6+ Qxe6 24. Rxe6 Bxd4+ *

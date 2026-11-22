@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C8Ch"]
+[Difficulty "hard"]
+[Rating "1910"]
+[Themes "advantage exposedKing fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/hoqEw1CS/black#60"]
+[Solution "c8c3 h4h5 g6g5 f6e4 g5f4 e4c3"]
+[SolutionSAN "Qc3 h5+ Kxg5 Ne4+ Kf4 Nxc3"]
+[FEN "1rq2r2/5p1R/4pNk1/1b3nB1/3p3P/1B6/PQ4P1/7K b - - 0 30"]
+[SetUp "1"]
+
+30... Qc3 31. h5+ Kxg5 32. Ne4+ Kf4 33. Nxc3 *

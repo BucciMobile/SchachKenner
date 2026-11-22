@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Tsr"]
+[Difficulty "medium"]
+[Rating "1502"]
+[Themes "crushing endgame pawnEndgame veryLong"]
+[GameUrl "https://lichess.org/game/vEVaPdyG/black#122"]
+[Solution "f5e4 e5e6 f3f2 h3g2 h4h3 g2f2 h3h2 f2g2 h2h1q g2h1"]
+[SolutionSAN "Ke4 e6 f2 Kg2 h3+ Kxf2 h2 Kg2 h1=Q+ Kxh1"]
+[FEN "8/8/8/3pPk2/2pP3p/2P2p1K/8/8 b - - 3 61"]
+[SetUp "1"]
+
+61... Ke4 62. e6 f2 63. Kg2 h3+ 64. Kxf2 h2 65. Kg2 h1=Q+ 66. Kxh1 *

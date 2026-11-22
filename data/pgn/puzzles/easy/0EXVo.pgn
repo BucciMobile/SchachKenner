@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EXVo"]
+[Difficulty "easy"]
+[Rating "885"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/tbP3iOSz/black#28"]
+[Solution "b5c4 g4d7"]
+[SolutionSAN "bxc4 Qd7#"]
+[FEN "r3k2r/p4ppp/n1P2qn1/1p2p3/2B1P1Q1/B1P4P/P4PP1/1R2K2R b Kkq - 0 14"]
+[SetUp "1"]
+
+14... bxc4 15. Qd7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JK2X"]
+[Difficulty "easy"]
+[Rating "1132"]
+[Themes "advantage clearance endgame short"]
+[GameUrl "https://lichess.org/game/922LyZPJ#41"]
+[Solution "e2e1 d2d1 c2d1 h6d2"]
+[SolutionSAN "Ke1 Rxd1+ Bxd1 Bd2+"]
+[FEN "1k1r4/1p3p1p/p4p1b/5P2/4p3/2R5/PPBrKPPP/3R4 w - - 2 21"]
+[SetUp "1"]
+
+21. Ke1 Rxd1+ 22. Bxd1 Bd2+ *

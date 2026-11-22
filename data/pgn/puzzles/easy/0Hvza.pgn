@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hvza"]
+[Difficulty "easy"]
+[Rating "1135"]
+[Themes "advantage endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/h7fYkqj9#79"]
+[Solution "h6h7 e2c2 c1b1 c2b2 b1a1 b2a2"]
+[SolutionSAN "h7 Rxc2+ Kb1 Rxb2+ Ka1 Ra2+"]
+[FEN "8/8/5R1P/2p3k1/p2p4/P4P2/1PP1rr2/2KR4 w - - 0 40"]
+[SetUp "1"]
+
+40. h7 Rxc2+ 41. Kb1 Rxb2+ 42. Ka1 Ra2+ *

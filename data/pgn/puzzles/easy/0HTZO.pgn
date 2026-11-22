@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HTZO"]
+[Difficulty "easy"]
+[Rating "922"]
+[Themes "endgame long master mate mateIn3 rookEndgame"]
+[GameUrl "https://lichess.org/game/s94KV7Ve#111"]
+[Solution "g1h2 g4g3 h2g1 a2a1 b5b1 a1b1"]
+[SolutionSAN "Kh2 g3+ Kg1 Ra1+ Rb1 Rxb1#"]
+[FEN "8/8/8/PR6/6pk/8/r5P1/6K1 w - - 4 56"]
+[SetUp "1"]
+
+56. Kh2 g3+ 57. Kg1 Ra1+ 58. Rb1 Rxb1# *

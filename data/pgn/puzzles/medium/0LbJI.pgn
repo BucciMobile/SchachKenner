@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LbJI"]
+[Difficulty "medium"]
+[Rating "1536"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/L13sdDXh#63"]
+[Solution "e3d3 b2c1 f4c1 f8f1"]
+[SolutionSAN "Rxd3 Qxc1+ Bxc1 Rf1#"]
+[FEN "2k2r2/pp1r3p/2n3p1/8/5B2/P1PpR2Q/Pq4PP/2R4K w - - 6 32"]
+[SetUp "1"]
+
+32. Rxd3 Qxc1+ 33. Bxc1 Rf1# *

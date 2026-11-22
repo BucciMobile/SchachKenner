@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DLEr"]
+[Difficulty "medium"]
+[Rating "1370"]
+[Themes "advantage discoveredCheck doubleCheck fork long middlegame"]
+[GameUrl "https://lichess.org/game/OidwrzDD#35"]
+[Solution "f2f3 e5h2 g1h1 e4g3 h1h2 g3f1"]
+[SolutionSAN "f3 Bh2+ Kh1 Ng3+ Kxh2 Nxf1+"]
+[FEN "4rrk1/1pq3pp/p1b5/3pbp2/3Nn3/1BP1B2P/PP3PP1/R2Q1RK1 w - - 2 18"]
+[SetUp "1"]
+
+18. f3 Bh2+ 19. Kh1 Ng3+ 20. Kxh2 Nxf1+ *

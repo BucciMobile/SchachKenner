@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A8Of"]
+[Difficulty "medium"]
+[Rating "1522"]
+[Themes "deflection kingsideAttack mate mateIn2 middlegame pin sacrifice short"]
+[GameUrl "https://lichess.org/game/92AUYI4b#57"]
+[Solution "g3h4 d5g2 f2g2 f8f1"]
+[SolutionSAN "Qxh4 Qxg2+ Rxg2 Rxf1#"]
+[FEN "3r1rk1/1b4p1/8/p1pqp1N1/P6p/1P1P2Q1/2P2RPP/5R1K w - - 0 29"]
+[SetUp "1"]
+
+29. Qxh4 Qxg2+ 30. Rxg2 Rxf1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MIUU"]
+[Difficulty "medium"]
+[Rating "1487"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/D8T6HRG1#27"]
+[Solution "b3c4 b8b1 c1b1 e6e3"]
+[SolutionSAN "bxc4 Rxb1 Qxb1 Qxe3"]
+[FEN "1r2kb1r/2p2ppp/p3qn2/8/2pP4/1P2BP2/P3N1PP/1RQ1K2R w Kk - 0 14"]
+[SetUp "1"]
+
+14. bxc4 Rxb1 15. Qxb1 Qxe3 *

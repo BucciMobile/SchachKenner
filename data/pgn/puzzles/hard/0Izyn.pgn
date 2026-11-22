@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Izyn"]
+[Difficulty "hard"]
+[Rating "2053"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/uiJPHVtV/black#68"]
+[Solution "d7c7 g1f1 b6b3 a2b3"]
+[SolutionSAN "Kc7 Rf1 Rxb3 axb3"]
+[FEN "8/3k1p2/pr1p4/2pPp3/2P5/1P5Q/P4q2/2K3R1 b - - 1 34"]
+[SetUp "1"]
+
+34... Kc7 35. Rf1 Rxb3 36. axb3 *

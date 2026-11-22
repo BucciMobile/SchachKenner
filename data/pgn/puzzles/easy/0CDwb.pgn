@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CDwb"]
+[Difficulty "easy"]
+[Rating "1188"]
+[Themes "advantage deflection endgame sacrifice short"]
+[GameUrl "https://lichess.org/game/R842A4yo#61"]
+[Solution "g1f2 f8f4 e3f4 b6d4"]
+[SolutionSAN "Kf2 Rxf4+ exf4 Qxd4+"]
+[FEN "5rk1/6pp/pqp3r1/4R3/QPpP1P2/P3P3/7P/2R3K1 w - - 1 31"]
+[SetUp "1"]
+
+31. Kf2 Rxf4+ 32. exf4 Qxd4+ *

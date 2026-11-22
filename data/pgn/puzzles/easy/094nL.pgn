@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "094nL"]
+[Difficulty "easy"]
+[Rating "977"]
+[Themes "discoveredAttack kingsideAttack mate mateIn2 opening short"]
+[GameUrl "https://lichess.org/game/o78Cn65Q#25"]
+[Solution "d3e2 e5f3 g2f3 c7h2"]
+[SolutionSAN "Be2 Nxf3+ gxf3 Qxh2#"]
+[FEN "r1b1k2r/ppq2ppp/4p3/4n3/1B4n1/P2B1N2/1PP2PPP/R2Q1RK1 w kq - 7 13"]
+[SetUp "1"]
+
+13. Be2 Nxf3+ 14. gxf3 Qxh2# *

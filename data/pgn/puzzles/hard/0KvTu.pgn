@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KvTu"]
+[Difficulty "hard"]
+[Rating "2113"]
+[Themes "advantage exposedKing fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/MBhjSo8T/black#46"]
+[Solution "e5d5 b6d8 g8d8 c4b6 a8b7 b6d5"]
+[SolutionSAN "Qd5 Qxd8+ Rxd8 Nb6+ Kb7 Nxd5"]
+[FEN "k2r2r1/5p1p/pQ1p1p1b/4q3/1PN5/P1P5/5PPP/R6K b - - 4 23"]
+[SetUp "1"]
+
+23... Qd5 24. Qxd8+ Rxd8 25. Nb6+ Kb7 26. Nxd5 *

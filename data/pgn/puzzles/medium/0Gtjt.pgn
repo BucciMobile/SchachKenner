@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gtjt"]
+[Difficulty "medium"]
+[Rating "1428"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/qZwUr4SW#75"]
+[Solution "g4g5 e8e3 h3g4 e3f3"]
+[SolutionSAN "g5 Re3 Kg4 Rxf3"]
+[FEN "4r1k1/6p1/2p5/p1pp3P/P5P1/1P1P1Q1K/2P2R2/4q3 w - - 3 38"]
+[SetUp "1"]
+
+38. g5 Re3 39. Kg4 Rxf3 *

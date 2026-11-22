@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03GkP"]
+[Difficulty "medium"]
+[Rating "1269"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/GBRgHxI3/black#34"]
+[Solution "g5g2 h5h7 h8h7 e2h5"]
+[SolutionSAN "Qxg2 Rxh7+ Kxh7 Qh5#"]
+[FEN "r1b2r1k/1p4pp/p1np4/4p1qR/2B1Pp2/2N5/PPP1QPP1/1K1R4 b - - 1 17"]
+[SetUp "1"]
+
+17... Qxg2 18. Rxh7+ Kxh7 19. Qh5# *

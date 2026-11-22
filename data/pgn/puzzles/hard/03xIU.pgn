@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03xIU"]
+[Difficulty "hard"]
+[Rating "2053"]
+[Themes "crushing defensiveMove endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/nx1nD7ji/black#124"]
+[Solution "a3a4 d4c5 e7f7 c5b6"]
+[SolutionSAN "Ra4+ Kc5 Kf7 Kb6"]
+[FEN "R7/P3k1p1/5p1p/5P2/3K2P1/r7/8/8 b - - 6 62"]
+[SetUp "1"]
+
+62... Ra4+ 63. Kc5 Kf7 64. Kb6 *

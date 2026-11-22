@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03uDG"]
+[Difficulty "hard"]
+[Rating "2095"]
+[Themes "crushing enPassant kingsideAttack opening short"]
+[GameUrl "https://lichess.org/game/8hV8kzas/black#26"]
+[Solution "d7d5 e5d6 g7f6 e4f6"]
+[SolutionSAN "d5 exd6 Bxf6 Nxf6+"]
+[FEN "r2q1rk1/3pnpb1/ppn1pBpp/2p1P3/4N3/3P1N2/PPP2PPP/R2QR1K1 b - - 1 13"]
+[SetUp "1"]
+
+13... d5 14. exd6 Bxf6 15. Nxf6+ *

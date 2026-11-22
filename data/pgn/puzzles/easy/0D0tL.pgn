@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D0tL"]
+[Difficulty "easy"]
+[Rating "661"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/XuksOCEc/black#102"]
+[Solution "g5g4 a6g6"]
+[SolutionSAN "Kg4 Rg6#"]
+[FEN "8/8/R7/5pkp/P7/3r2P1/6K1/8 b - - 2 51"]
+[SetUp "1"]
+
+51... Kg4 52. Rg6# *

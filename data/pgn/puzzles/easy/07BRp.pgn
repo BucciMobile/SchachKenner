@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07BRp"]
+[Difficulty "easy"]
+[Rating "745"]
+[Themes "endgame master mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/D0CCCpv1#61"]
+[Solution "d2d1 a8h8"]
+[SolutionSAN "Rdd1 Rh8#"]
+[FEN "r7/1p3pk1/p7/3p2p1/P4nP1/4b3/BP1R4/5R1K w - - 2 31"]
+[SetUp "1"]
+
+31. Rdd1 Rh8# *

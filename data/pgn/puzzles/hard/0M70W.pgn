@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M70W"]
+[Difficulty "hard"]
+[Rating "2111"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/OnsV7Zy0/black#28"]
+[Solution "d8d2 f7f8 d2d8 f8g7"]
+[SolutionSAN "Rxd2 Qxf8+ Rd8 Qxg7"]
+[FEN "2kr1bnr/pp3Qpp/q3p3/5b2/8/P1N3P1/1P1P1PBP/2N3KR b - - 0 14"]
+[SetUp "1"]
+
+14... Rxd2 15. Qxf8+ Rd8 16. Qxg7 *

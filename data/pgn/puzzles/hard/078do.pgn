@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "078do"]
+[Difficulty "hard"]
+[Rating "2394"]
+[Themes "crushing defensiveMove endgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/kUJzL4PU/black#142"]
+[Solution "a4d4 d3d4 f7e6 c3c4 f4f3 d4e3 f3f2 e3f2 e6f5 c4c5"]
+[SolutionSAN "Rxd4+ Kxd4 Ke6 c4 f3 Ke3 f2 Kxf2 Kf5 c5"]
+[FEN "8/5k2/6p1/6P1/r2R1p2/2PK4/8/8 b - - 2 71"]
+[SetUp "1"]
+
+71... Rxd4+ 72. Kxd4 Ke6 73. c4 f3 74. Ke3 f2 75. Kxf2 Kf5 76. c5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "032KQ"]
+[Difficulty "medium"]
+[Rating "1284"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/ZNFE2oBN/black#88"]
+[Solution "e8e6 d6d8 e6e8 d8c8 e8c8 b5b6"]
+[SolutionSAN "Re6 Qd8+ Re8 Qxc8 Rxc8 b6"]
+[FEN "2q1r1k1/2P3p1/3Q1p2/1P6/8/7P/6PK/8 b - - 0 44"]
+[SetUp "1"]
+
+44... Re6 45. Qd8+ Re8 46. Qxc8 Rxc8 47. b6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00sys"]
+[Difficulty "hard"]
+[Rating "2265"]
+[Themes "crushing discoveredAttack discoveredCheck long master opening"]
+[GameUrl "https://lichess.org/game/oeasr2cR/black#26"]
+[Solution "d8e8 h4g6 h7g8 h1h8 g8f7 d1h5"]
+[SolutionSAN "Qe8 Ng6+ Kg8 Rh8+ Kf7 Qh5"]
+[FEN "r1bq1r2/pp2b1pk/2n1pp2/3p4/2pP3N/2P1P1P1/PP1N1PP1/R2QK2R b KQ - 0 13"]
+[SetUp "1"]
+
+13... Qe8 14. Ng6+ Kg8 15. Rh8+ Kf7 16. Qh5 *

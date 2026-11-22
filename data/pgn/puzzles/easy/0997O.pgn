@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0997O"]
+[Difficulty "easy"]
+[Rating "1172"]
+[Themes "advancedPawn advantage attraction endgame promotion short"]
+[GameUrl "https://lichess.org/game/jJppUYmo#71"]
+[Solution "b5c3 a1f1 f2f1 a2a1q"]
+[SolutionSAN "Nc3 Rf1+ Kxf1 a1=Q+"]
+[FEN "8/1p6/1k6/1N5R/2P5/8/p4KPP/r7 w - - 0 36"]
+[SetUp "1"]
+
+36. Nc3 Rf1+ 37. Kxf1 a1=Q+ *

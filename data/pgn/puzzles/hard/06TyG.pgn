@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06TyG"]
+[Difficulty "hard"]
+[Rating "2116"]
+[Themes "bishopEndgame crushing endgame short"]
+[GameUrl "https://lichess.org/game/z6QQm7bp#99"]
+[Solution "b4b5 b3c2 b5b6 d4d3"]
+[SolutionSAN "b5 Kc2 b6 d3+"]
+[FEN "8/8/6p1/2B2p1p/1P1p1P1P/1kb3P1/4K3/8 w - - 1 50"]
+[SetUp "1"]
+
+50. b5 Kc2 51. b6 d3+ *

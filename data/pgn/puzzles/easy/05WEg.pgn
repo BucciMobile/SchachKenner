@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05WEg"]
+[Difficulty "easy"]
+[Rating "1082"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/RhSqGCrl/black#66"]
+[Solution "f7f6 g4g8"]
+[SolutionSAN "Rxf6 Qg8#"]
+[FEN "r3qk2/5r2/p1NpBR2/1p1Pp3/P1P1PpQp/1P6/5P2/2K5 b - - 0 33"]
+[SetUp "1"]
+
+33... Rxf6 34. Qg8# *

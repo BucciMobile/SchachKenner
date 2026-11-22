@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05StH"]
+[Difficulty "easy"]
+[Rating "1057"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/R0EhpPqI#61"]
+[Solution "c2c3 c5f2 g1h1 c8c3"]
+[SolutionSAN "Qc3 Bxf2+ Kh1 Rxc3"]
+[FEN "2r3k1/p5pp/8/2bq1p2/1r2pB2/1P1p2P1/P1Q2PBP/2RR2K1 w - - 0 31"]
+[SetUp "1"]
+
+31. Qc3 Bxf2+ 32. Kh1 Rxc3 *

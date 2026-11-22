@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CN1G"]
+[Difficulty "medium"]
+[Rating "1306"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/dTYqx50p/black#40"]
+[Solution "d8e8 d5f6 g7f6 e4b7"]
+[SolutionSAN "Re8 Nf6+ Bxf6 Qxb7"]
+[FEN "2rr2k1/1q3pbp/p2pb1p1/1p1N4/4Q3/1BP2P2/PP4PP/3RR2K b - - 0 20"]
+[SetUp "1"]
+
+20... Re8 21. Nf6+ Bxf6 22. Qxb7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CIT3"]
+[Difficulty "easy"]
+[Rating "1114"]
+[Themes "advantage defensiveMove long master middlegame"]
+[GameUrl "https://lichess.org/game/FGTRXeic#41"]
+[Solution "f1f6 e7f6 h6g7 f8g7 h5g4 g7f7"]
+[SolutionSAN "Rxf6+ exf6 Bxg7+ Kxg7 Qg4+ Kf7"]
+[FEN "2r2k1r/pp2p1bp/5n1B/1q1N3Q/1P1p4/8/P6P/R3KR2 w Q - 1 21"]
+[SetUp "1"]
+
+21. Rxf6+ exf6 22. Bxg7+ Kxg7 23. Qg4+ Kf7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AhD0"]
+[Difficulty "hard"]
+[Rating "1983"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/sjXn7FR2/black#24"]
+[Solution "f6e5 e2h5 g7g6 h5e5"]
+[SolutionSAN "fxe5 Qh5+ g6 Qxe5+"]
+[FEN "r2qk1nr/ppp3pp/5p2/2bPB3/2p5/8/PPP1Q1PP/RN3R1K b kq - 0 12"]
+[SetUp "1"]
+
+12... fxe5 13. Qh5+ g6 14. Qxe5+ *

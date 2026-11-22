@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06CQq"]
+[Difficulty "easy"]
+[Rating "1080"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/74rF8Mp5#53"]
+[Solution "e2f2 e7e1 d2e1 e8e1"]
+[SolutionSAN "Rxf2 Rxe1+ Qxe1 Rxe1#"]
+[FEN "4r1k1/1p2rp1p/p5p1/8/5P2/3n3P/PP1QRqPB/4RK2 w - - 2 27"]
+[SetUp "1"]
+
+27. Rxf2 Rxe1+ 28. Qxe1 Rxe1# *

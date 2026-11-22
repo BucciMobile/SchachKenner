@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kqa2"]
+[Difficulty "medium"]
+[Rating "1334"]
+[Themes "advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/eaehTFG5#59"]
+[Solution "f4f5 c2f2 f5f2 e4f2"]
+[SolutionSAN "Qf5 Rxf2+ Qxf2 Nxf2"]
+[FEN "8/1p3k2/5p1p/p2pP1p1/P3nQ1N/1Pr3PP/2r2PK1/R7 w - - 0 30"]
+[SetUp "1"]
+
+30. Qf5 Rxf2+ 31. Qxf2 Nxf2 *

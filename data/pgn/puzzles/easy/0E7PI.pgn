@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E7PI"]
+[Difficulty "easy"]
+[Rating "1102"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/Y3FIuiI4#33"]
+[Solution "d4c5 d6h2 g1h2 d7d3"]
+[SolutionSAN "dxc5 Bh2+ Kxh2 Qxd3"]
+[FEN "4r1k1/pp1qrpp1/3b3p/2p5/2NP4/3QBN1P/PP3PP1/R5K1 w - - 0 17"]
+[SetUp "1"]
+
+17. dxc5 Bh2+ 18. Kxh2 Qxd3 *

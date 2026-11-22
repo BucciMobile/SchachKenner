@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09QQs"]
+[Difficulty "medium"]
+[Rating "1475"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/ZlIeO7oF/black#64"]
+[Solution "g8f8 d5d6 f8g7 c8e8 g2h2 d6d7"]
+[SolutionSAN "Kf8 d6 Kg7 Rxe8 Rxh2 d7"]
+[FEN "2R1b1k1/5p1p/8/2pP1p2/2P1pP2/4K3/6rP/8 b - - 1 32"]
+[SetUp "1"]
+
+32... Kf8 33. d6 Kg7 34. Rxe8 Rxh2 35. d7 *

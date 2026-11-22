@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BDSr"]
+[Difficulty "easy"]
+[Rating "889"]
+[Themes "advantage discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/fSGTJ5RF#31"]
+[Solution "b7d5 e5f3 g2f3 e7e1"]
+[SolutionSAN "Qd5 Nf3+ gxf3 Qxe1+"]
+[FEN "rr4k1/pQp1qppp/3p4/4n3/8/8/PPP2PPP/R1B1R1K1 w - - 0 16"]
+[SetUp "1"]
+
+16. Qd5 Nf3+ 17. gxf3 Qxe1+ *

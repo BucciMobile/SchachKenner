@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MGvA"]
+[Difficulty "hard"]
+[Rating "1770"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/i7nnmxpt/black#54"]
+[Solution "d8d7 f1e1 g4e6 g3h4"]
+[SolutionSAN "Rd7 Re1+ Be6 Bh4+"]
+[FEN "3r4/2p1kppp/2Q5/1p1p4/6b1/5qB1/1PP2P2/2K2R2 b - - 0 27"]
+[SetUp "1"]
+
+27... Rd7 28. Re1+ Be6 29. Bh4+ *

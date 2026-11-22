@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HA7A"]
+[Difficulty "easy"]
+[Rating "1171"]
+[Themes "kingsideAttack mate mateIn2 middlegame operaMate short"]
+[GameUrl "https://lichess.org/game/i7ivQ2ZN#49"]
+[Solution "b1b7 g6g1 f1g1 g8g1"]
+[SolutionSAN "Rb7 Rg1+ Rxg1 Rxg1#"]
+[FEN "3k2r1/p1q2p1p/B1p1pnr1/8/P2P4/2P1NQ1P/3B1P1b/1R3R1K w - - 6 25"]
+[SetUp "1"]
+
+25. Rb7 Rg1+ 26. Rxg1 Rxg1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "003UW"]
+[Difficulty "medium"]
+[Rating "1492"]
+[Themes "advantage endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/cXMga3rb/black#80"]
+[Solution "c4d5 e2e4 d5e4 f3e4"]
+[SolutionSAN "Qd5 Qe4+ Qxe4 fxe4"]
+[FEN "8/6pk/7p/2p5/2qp4/5PP1/P3QK1P/8 b - - 1 40"]
+[SetUp "1"]
+
+40... Qd5 41. Qe4+ Qxe4 42. fxe4 *

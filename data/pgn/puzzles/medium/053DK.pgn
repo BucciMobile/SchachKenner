@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "053DK"]
+[Difficulty "medium"]
+[Rating "1321"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/cPKoUEB4/black#82"]
+[Solution "e6e5 c3e4 e5e4 g1f2"]
+[SolutionSAN "Ke5 Nxe4 Kxe4 Kf2"]
+[FEN "8/1p4pp/1P2kp2/p1p5/P3r3/2N1n3/4R1PP/6K1 b - - 4 41"]
+[SetUp "1"]
+
+41... Ke5 42. Nxe4 Kxe4 43. Kf2 *

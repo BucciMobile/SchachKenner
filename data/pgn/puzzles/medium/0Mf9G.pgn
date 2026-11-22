@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Mf9G"]
+[Difficulty "medium"]
+[Rating "1359"]
+[Themes "advantage discoveredAttack master opening short skewer"]
+[GameUrl "https://lichess.org/game/IHR8npRS#13"]
+[Solution "f5g6 h7g6 h5g6 h8h4"]
+[SolutionSAN "fxg6 hxg6 Qxg6 Rxh4"]
+[FEN "r1bqkb1r/ppp1pn1p/2n3p1/3p1P1Q/7N/2P5/PP1P1PPP/RNB1KB1R w KQkq - 0 7"]
+[SetUp "1"]
+
+7. fxg6 hxg6 8. Qxg6 Rxh4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AxTx"]
+[Difficulty "hard"]
+[Rating "1962"]
+[Themes "crushing exposedKing interference long opening"]
+[GameUrl "https://lichess.org/game/7cEgeXb9#27"]
+[Solution "f7e8 d8h4 e1d2 h4f4 d2e2 f4f2"]
+[SolutionSAN "Bxe8 Qh4+ Kd2 Qxf4+ Ke2 Qf2+"]
+[FEN "r1bqn2k/pp1n1B1p/3p2p1/2p1p3/3b1P2/2N4P/PPP3P1/R1BQK2R w KQ - 0 14"]
+[SetUp "1"]
+
+14. Bxe8 Qh4+ 15. Kd2 Qxf4+ 16. Ke2 Qf2+ *

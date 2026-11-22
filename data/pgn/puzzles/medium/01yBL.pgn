@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01yBL"]
+[Difficulty "medium"]
+[Rating "1322"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/DOyiGLZ8/black#76"]
+[Solution "g8g7 c4c7 g7h8 d5f7 b2a1 g1h2"]
+[SolutionSAN "Kg7 Rc7+ Kh8 Qf7 Qa1+ Kh2"]
+[FEN "1r4k1/7p/p5p1/1b1Q4/2R5/7P/1q3PP1/6K1 b - - 1 38"]
+[SetUp "1"]
+
+38... Kg7 39. Rc7+ Kh8 40. Qf7 Qa1+ 41. Kh2 *

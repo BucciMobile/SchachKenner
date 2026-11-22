@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03y4C"]
+[Difficulty "easy"]
+[Rating "1026"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/STojg9xI#65"]
+[Solution "f3d5 e7e2 d2e2 e1e2 d4f2 e2d3"]
+[SolutionSAN "Bxd5 Re2+ Rxe2 Qxe2+ Qf2 Qxd3"]
+[FEN "2r3k1/pp2rn1p/8/3p1p2/3Q1P2/1P1R1BPP/P2R2K1/4q3 w - - 5 33"]
+[SetUp "1"]
+
+33. Bxd5 Re2+ 34. Rxe2 Qxe2+ 35. Qf2 Qxd3 *

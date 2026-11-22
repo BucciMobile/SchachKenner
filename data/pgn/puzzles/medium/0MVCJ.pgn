@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MVCJ"]
+[Difficulty "medium"]
+[Rating "1231"]
+[Themes "mate mateIn1 middlegame oneMove operaMate"]
+[GameUrl "https://lichess.org/game/faegvGcQ/black#50"]
+[Solution "e2c1 h7h8"]
+[SolutionSAN "Nxc1 Rh8#"]
+[FEN "r5k1/ppp4R/6p1/5bN1/2r5/8/PB2nKPP/2R5 b - - 5 25"]
+[SetUp "1"]
+
+25... Nxc1 26. Rh8# *

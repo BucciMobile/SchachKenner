@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Akln"]
+[Difficulty "easy"]
+[Rating "575"]
+[Themes "endgame kingsideAttack long mate mateIn3"]
+[GameUrl "https://lichess.org/game/dUuP3IGj#51"]
+[Solution "f4e3 g7a1 f3d1 a1d1 e3e1 d1e1"]
+[SolutionSAN "Qe3 Qa1+ Bd1 Qxd1+ Qe1 Qxe1#"]
+[FEN "4b1k1/p1p3qp/1p1p2p1/3P1p2/2P2Q2/1P3B2/P4PPP/6K1 w - - 0 26"]
+[SetUp "1"]
+
+26. Qe3 Qa1+ 27. Bd1 Qxd1+ 28. Qe1 Qxe1# *

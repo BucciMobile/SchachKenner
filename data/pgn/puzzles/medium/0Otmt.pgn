@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Otmt"]
+[Difficulty "medium"]
+[Rating "1650"]
+[Themes "crushing discoveredAttack endgame master pin short"]
+[GameUrl "https://lichess.org/game/4g7KB983#73"]
+[Solution "h6h5 g5e4 g3h4 f5h5"]
+[SolutionSAN "Rh5 Ne4+ Kh4 Rxh5+"]
+[FEN "6r1/3kp3/p2p3R/P4rn1/1B4R1/2P3K1/7P/8 w - - 2 37"]
+[SetUp "1"]
+
+37. Rh5 Ne4+ 38. Kh4 Rxh5+ *

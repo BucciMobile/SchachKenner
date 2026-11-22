@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BrXs"]
+[Difficulty "easy"]
+[Rating "939"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/LH61xzXu#89"]
+[Solution "e1g3 e5f7"]
+[SolutionSAN "Bg3 Nf7#"]
+[FEN "6k1/p6p/4p2K/2N1n3/P3Pn2/7P/8/4B3 w - - 11 45"]
+[SetUp "1"]
+
+45. Bg3 Nf7# *

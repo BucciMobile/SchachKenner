@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Egil"]
+[Difficulty "medium"]
+[Rating "1677"]
+[Themes "advantage endgame fork long sacrifice"]
+[GameUrl "https://lichess.org/game/Uvm4Vln3/black#52"]
+[Solution "e6d5 b4c4 d5c4 c3d5 e7e6 d5b6"]
+[SolutionSAN "exd5 Rxc4 dxc4 Nd5+ Ke6 Nxb6"]
+[FEN "2r5/4kp1p/1r2p3/1P1P1p2/1Rb5/p1N5/P4PPP/3R2K1 b - - 0 26"]
+[SetUp "1"]
+
+26... exd5 27. Rxc4 dxc4 28. Nd5+ Ke6 29. Nxb6 *

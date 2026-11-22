@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03uRJ"]
+[Difficulty "hard"]
+[Rating "2314"]
+[Themes "endgame epauletteMate exposedKing long mate mateIn3 rookEndgame"]
+[GameUrl "https://lichess.org/game/a4P4aO95/black#54"]
+[Solution "f5e4 h6g6 g7f7 h1h7 f7e8 g6e6"]
+[SolutionSAN "fxe4 Rg6+ Kf7 Rh7+ Ke8 Re6#"]
+[FEN "3r1r2/p5k1/2p4R/1pp2pK1/4N3/8/PPP5/7R b - - 1 27"]
+[SetUp "1"]
+
+27... fxe4 28. Rg6+ Kf7 29. Rh7+ Ke8 30. Re6# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09J8i"]
+[Difficulty "hard"]
+[Rating "1749"]
+[Themes "backRankMate clearance long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/XZChpYW2#37"]
+[Solution "f3f6 d4e2 e3e2 d8d1 e2e1 d1e1"]
+[SolutionSAN "Qxf6 Ne2+ Rxe2 Rd1+ Re1 Rxe1#"]
+[FEN "r2r2k1/pp3pp1/5q1p/2P5/1Pbn4/2P1RQ2/P4PPP/RN4K1 w - - 0 19"]
+[SetUp "1"]
+
+19. Qxf6 Ne2+ 20. Rxe2 Rd1+ 21. Re1 Rxe1# *

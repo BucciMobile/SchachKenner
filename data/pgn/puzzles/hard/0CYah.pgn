@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CYah"]
+[Difficulty "hard"]
+[Rating "1929"]
+[Themes "discoveredAttack long mate mateIn3 middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/WW5jMqt1#45"]
+[Solution "h6d2 c3b3 a2b3 c8c2 b1a1 c2a2"]
+[SolutionSAN "Bd2 Rxb3+ axb3 Qxc2+ Ka1 Qa2#"]
+[FEN "2q2rk1/1p2p3/p2pb1pB/8/1n2P1P1/1Nr2P2/P1P4Q/1K1R3R w - - 0 23"]
+[SetUp "1"]
+
+23. Bd2 Rxb3+ 24. axb3 Qxc2+ 25. Ka1 Qa2# *

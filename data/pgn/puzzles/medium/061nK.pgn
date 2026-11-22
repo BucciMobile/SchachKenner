@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "061nK"]
+[Difficulty "medium"]
+[Rating "1335"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/HncLZrnv/black#68"]
+[Solution "g6f7 e7c6 e5c6 a5a8"]
+[SolutionSAN "Kf7 Nxc6 Nxc6 Rxa8"]
+[FEN "r2r4/4N3/2b2nkp/Rpp1n1p1/3pP1P1/1P3P1P/5NB1/R5K1 b - - 9 34"]
+[SetUp "1"]
+
+34... Kf7 35. Nxc6 Nxc6 36. Rxa8 *

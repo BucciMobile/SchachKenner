@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JsjX"]
+[Difficulty "easy"]
+[Rating "873"]
+[Themes "advantage discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/mxbwPtGb/black#22"]
+[Solution "e4d4 d3h7 g8h7 d1d4"]
+[SolutionSAN "Qxd4 Bxh7+ Kxh7 Qxd4"]
+[FEN "rnb2rk1/1pp2ppp/p2p4/8/3Nq3/3B4/PPP2PPP/R2Q1RK1 b - - 1 11"]
+[SetUp "1"]
+
+11... Qxd4 12. Bxh7+ Kxh7 13. Qxd4 *

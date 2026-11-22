@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "095vY"]
+[Difficulty "hard"]
+[Rating "1988"]
+[Themes "advantage defensiveMove long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/8gHCQHwO#41"]
+[Solution "a1c1 c2d4 f1e1 a8a7 g3b8 g8f7"]
+[SolutionSAN "Rac1 Nd4 Rfe1 Rxa7 Qb8+ Kf7"]
+[FEN "r5k1/N2p2pp/1pb1pq2/8/2P5/6Q1/1Pn2PPP/R4RK1 w - - 1 21"]
+[SetUp "1"]
+
+21. Rac1 Nd4 22. Rfe1 Rxa7 23. Qb8+ Kf7 *

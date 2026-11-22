@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KQvL"]
+[Difficulty "hard"]
+[Rating "2163"]
+[Themes "advantage middlegame pin short trappedPiece"]
+[GameUrl "https://lichess.org/game/y81JFmRr/black#48"]
+[Solution "g5h3 c3e4 h3f4 e4g3"]
+[SolutionSAN "Nxh3 Nxe4 Nxf4 Nxg3"]
+[FEN "r4r2/3n1kp1/2p3p1/1pP2pn1/pP1PpR1b/P1N1P1qP/1B1QB1P1/R6K b - - 1 24"]
+[SetUp "1"]
+
+24... Nxh3 25. Nxe4 Nxf4 26. Nxg3 *

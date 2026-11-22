@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LmlS"]
+[Difficulty "medium"]
+[Rating "1469"]
+[Themes "attraction crushing middlegame short"]
+[GameUrl "https://lichess.org/game/ozzkYGnt#33"]
+[Solution "b1c3 g4g3 h2g3 d4f2"]
+[SolutionSAN "Nc3 g3+ Kxg3 Qf2+"]
+[FEN "r1b2rk1/p5p1/2p5/n3p3/1P1qp1p1/8/P1PPB1PK/RNBQ3R w - - 0 17"]
+[SetUp "1"]
+
+17. Nc3 g3+ 18. Kxg3 Qf2+ *

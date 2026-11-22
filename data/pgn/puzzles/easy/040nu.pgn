@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "040nu"]
+[Difficulty "easy"]
+[Rating "1136"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/yh9SjQPu/black#12"]
+[Solution "g7g5 d1h5"]
+[SolutionSAN "g5 Qh5#"]
+[FEN "r1bqkbnr/1pp1p1p1/p1n4p/3pNp2/3P1B2/4P3/PPPN1PPP/R2QKB1R b KQkq - 1 6"]
+[SetUp "1"]
+
+6... g5 7. Qh5# *

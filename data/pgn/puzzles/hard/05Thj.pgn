@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Thj"]
+[Difficulty "hard"]
+[Rating "2142"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/dE1cH6wJ#99"]
+[Solution "d4f3 e4f3 f2f3 d6d5 c1e3 b6a4"]
+[SolutionSAN "Nf3 Bxf3 Kxf3 Kd5 Be3 Na4"]
+[FEN "8/8/pn1k2p1/1p3p1p/1P1NbP1P/P1P3P1/5K2/2B5 w - - 1 50"]
+[SetUp "1"]
+
+50. Nf3 Bxf3 51. Kxf3 Kd5 52. Be3 Na4 *

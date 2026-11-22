@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03MPe"]
+[Difficulty "hard"]
+[Rating "2877"]
+[Themes "crushing endgame pin veryLong"]
+[GameUrl "https://lichess.org/game/rA7KF7Yp#59"]
+[Solution "b6b7 e7e1 b8g8 g7g8 b7b8q g8g7 d3f1 a1a2 f4f7 g7f7"]
+[SolutionSAN "b7 Qe1 Rg8+ Kxg8 b8=Q+ Kg7 Bf1 Ra2 Qxf7+ Kxf7"]
+[FEN "1R6/4qpkp/1P1p2p1/2pP4/1pPb1Q2/1P1B2PP/5P1K/r7 w - - 3 30"]
+[SetUp "1"]
+
+30. b7 Qe1 31. Rg8+ Kxg8 32. b8=Q+ Kg7 33. Bf1 Ra2 34. Qxf7+ Kxf7 *

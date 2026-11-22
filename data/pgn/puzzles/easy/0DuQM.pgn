@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DuQM"]
+[Difficulty "easy"]
+[Rating "1157"]
+[Themes "crushing endgame exposedKing fork long"]
+[GameUrl "https://lichess.org/game/uhwe05Yg#79"]
+[Solution "b2d4 f3e2 d2c3 e2c2 c3b4 c2b1"]
+[SolutionSAN "Qd4 Qe2+ Kc3 Qc2+ Kb4 Qxb1+"]
+[FEN "k1n5/1p3rp1/p5p1/P2P2Pp/2P5/3pBq1P/1Q1K1P2/1R6 w - - 0 40"]
+[SetUp "1"]
+
+40. Qd4 Qe2+ 41. Kc3 Qc2+ 42. Kb4 Qxb1+ *

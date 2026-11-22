@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MRfz"]
+[Difficulty "hard"]
+[Rating "1965"]
+[Themes "advantage intermezzo opening veryLong"]
+[GameUrl "https://lichess.org/game/yoE8sB4E#17"]
+[Solution "b1c3 d5c3 d1d7 b8d7 c4e6 c3e2 g1h1 f7e6"]
+[SolutionSAN "Nc3 Nxc3 Qxd7 Nxd7 Bxe6 Ne2+ Kh1 fxe6"]
+[FEN "rn3rk1/pppq1ppp/4b3/2bnP1B1/2B5/5N2/PPP2PPP/RN1Q1RK1 w - - 7 9"]
+[SetUp "1"]
+
+9. Nc3 Nxc3 10. Qxd7 Nxd7 11. Bxe6 Ne2+ 12. Kh1 fxe6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05i3A"]
+[Difficulty "medium"]
+[Rating "1683"]
+[Themes "advancedPawn bishopEndgame crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/Hh3wBqun#71"]
+[Solution "f4g5 g4g3 g5h5 g3g2 a4a5 b6c6"]
+[SolutionSAN "Kg5 g3 Kxh5 g2 a5+ Kc6"]
+[FEN "5B2/p1p5/1k6/2p4p/P1P2Kp1/8/8/8 w - - 2 36"]
+[SetUp "1"]
+
+36. Kg5 g3 37. Kxh5 g2 38. a5+ Kc6 *

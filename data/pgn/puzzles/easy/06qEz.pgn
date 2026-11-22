@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06qEz"]
+[Difficulty "easy"]
+[Rating "530"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/oyEo6Mt3/black#48"]
+[Solution "e7b7 d3d8"]
+[SolutionSAN "Qb7 Qd8#"]
+[FEN "6k1/p3qppp/1p2p3/1N6/P1r1n3/3QP1P1/5PKP/R7 b - - 1 24"]
+[SetUp "1"]
+
+24... Qb7 25. Qd8# *

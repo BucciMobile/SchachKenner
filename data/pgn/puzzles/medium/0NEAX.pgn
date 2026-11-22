@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NEAX"]
+[Difficulty "medium"]
+[Rating "1352"]
+[Themes "crushing middlegame pin queensideAttack short"]
+[GameUrl "https://lichess.org/game/7A08bWBs/black#62"]
+[Solution "c6d7 c1c5 c8d8 c5d5"]
+[SolutionSAN "Qd7 Rxc5+ Kd8 Rxd5"]
+[FEN "2k2r1r/p6p/2q3p1/2pn4/P2PQ1P1/4P2P/6B1/2R4K b - - 4 31"]
+[SetUp "1"]
+
+31... Qd7 32. Rxc5+ Kd8 33. Rxd5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "011RD"]
+[Difficulty "medium"]
+[Rating "1684"]
+[Themes "crushing exposedKing fork long master middlegame"]
+[GameUrl "https://lichess.org/game/rBgndHmx/black#76"]
+[Solution "e7f7 d4f4 g4f5 e5f5 h5f5 f4f5"]
+[SolutionSAN "Kf7 Qxf4+ Bf5 Rxf5+ Rxf5 Qxf5+"]
+[FEN "7r/2p1k3/1p6/p3R2r/P2Q1pb1/2P5/q1PK1PP1/6R1 b - - 0 38"]
+[SetUp "1"]
+
+38... Kf7 39. Qxf4+ Bf5 40. Rxf5+ Rxf5 41. Qxf5+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GBU2"]
+[Difficulty "easy"]
+[Rating "1098"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/TNDziRp3/black#44"]
+[Solution "e5c3 f7f8 e7f8 f1f8"]
+[SolutionSAN "Qxc3 Qf8+ Bxf8 Rxf8#"]
+[FEN "r3n2k/pp1rbQp1/n1p1p1P1/4q3/1P2P3/P1N1B2P/2P3B1/R4RK1 b - - 0 22"]
+[SetUp "1"]
+
+22... Qxc3 23. Qf8+ Bxf8 24. Rxf8# *

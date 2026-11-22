@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0L34t"]
+[Difficulty "hard"]
+[Rating "1712"]
+[Themes "endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/Tf8vIvHe#75"]
+[Solution "e3f3 a6b7 f3f4 g6g5 h4g5 h6g5"]
+[SolutionSAN "Kf3 Bb7+ Kf4 g5+ hxg5 hxg5#"]
+[FEN "8/7k/b3qppp/8/1P1Q3P/2B1K1P1/5P2/8 w - - 12 38"]
+[SetUp "1"]
+
+38. Kf3 Bb7+ 39. Kf4 g5+ 40. hxg5 hxg5# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02cVl"]
+[Difficulty "hard"]
+[Rating "1744"]
+[Themes "deflection kingsideAttack long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/BcdnvWwf#45"]
+[Solution "g2h1 f6f2 e2f2 e8e1 f2f1 e1f1"]
+[SolutionSAN "Bh1 Qxf2+ Rxf2 Rxe1+ Rf1 Rexf1#"]
+[FEN "2k1rr2/1ppb4/1pnp1q2/3Q2p1/PP1N4/2P3Pp/4RPBP/4R1K1 w - - 0 23"]
+[SetUp "1"]
+
+23. Bh1 Qxf2+ 24. Rxf2 Rxe1+ 25. Rf1 Rexf1# *

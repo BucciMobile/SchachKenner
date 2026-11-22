@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MEpG"]
+[Difficulty "medium"]
+[Rating "1412"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/OACEW85x/black#64"]
+[Solution "c7c5 f7b7"]
+[SolutionSAN "c5 Qxb7#"]
+[FEN "2kr2r1/npp2Q2/1b1p4/pP4q1/P2P4/2P2BPp/5P2/3RR1K1 b - - 0 32"]
+[SetUp "1"]
+
+32... c5 33. Qxb7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JDkk"]
+[Difficulty "hard"]
+[Rating "1992"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/NiWwfQl9/black#44"]
+[Solution "a6b4 c2f5 c4f4 g5f4"]
+[SolutionSAN "Nb4 Qf5 Qf4+ Bxf4"]
+[FEN "r7/pp3k1p/n2p1n2/2pPp1B1/2q4r/2N2B1P/PPQ2P2/2K3R1 b - - 3 22"]
+[SetUp "1"]
+
+22... Nb4 23. Qf5 Qf4+ 24. Bxf4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J4Sw"]
+[Difficulty "easy"]
+[Rating "1159"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/sKLARR13#61"]
+[Solution "d7c7 e8e1 g1f2 b4d3"]
+[SolutionSAN "Rc7 Re1+ Kf2 Nd3+"]
+[FEN "4rbk1/BB1R1ppp/8/N4b2/Pn6/5P2/1P4PP/6K1 w - - 1 31"]
+[SetUp "1"]
+
+31. Rc7 Re1+ 32. Kf2 Nd3+ *

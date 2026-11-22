@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04z8d"]
+[Difficulty "easy"]
+[Rating "726"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/fGG4usrq/black#90"]
+[Solution "d2f2 e5g7"]
+[SolutionSAN "Rdf2 Qg7#"]
+[FEN "5rk1/7p/4p1pK/3bQ3/6P1/1P5P/3r4/8 b - - 9 45"]
+[SetUp "1"]
+
+45... Rdf2 46. Qg7# *

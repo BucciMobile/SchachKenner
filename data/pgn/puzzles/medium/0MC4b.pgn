@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MC4b"]
+[Difficulty "medium"]
+[Rating "1654"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/0PEVRWHW/black#82"]
+[Solution "g5h4 e5f3 h4h3 f3g5 h3g4 g5e4"]
+[SolutionSAN "Kh4 Nf3+ Kxh3 Ng5+ Kg4 Nxe4"]
+[FEN "8/1p6/p1p5/P3N1kp/1PPPbp2/7P/5K2/8 b - - 4 41"]
+[SetUp "1"]
+
+41... Kh4 42. Nf3+ Kxh3 43. Ng5+ Kg4 44. Nxe4 *

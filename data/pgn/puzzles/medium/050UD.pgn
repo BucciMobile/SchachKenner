@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "050UD"]
+[Difficulty "medium"]
+[Rating "1563"]
+[Themes "advantage master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/93wZlejv#37"]
+[Solution "c1a3 c3a3 c6e7 g8h8"]
+[SolutionSAN "Ba3 Rxa3 Nxe7+ Kh8"]
+[FEN "5rk1/pQ2ppbp/2Nq2p1/P2P4/3Pb3/2r5/5PPP/R1B2RK1 w - - 4 19"]
+[SetUp "1"]
+
+19. Ba3 Rxa3 20. Nxe7+ Kh8 *

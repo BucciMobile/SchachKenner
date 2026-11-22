@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06jbk"]
+[Difficulty "hard"]
+[Rating "2045"]
+[Themes "crushing long master middlegame"]
+[GameUrl "https://lichess.org/game/NjG7a5kP#55"]
+[Solution "b1a1 c2c1 a1a2 c1g5 h5g5 f6g5"]
+[SolutionSAN "Ka1 Qc1+ Ka2 Qxg5 Qxg5 fxg5"]
+[FEN "2rk4/3b4/p3pp2/1p2B1RQ/4p3/P7/1Pq5/1K5B w - - 0 28"]
+[SetUp "1"]
+
+28. Ka1 Qc1+ 29. Ka2 Qxg5 30. Qxg5 fxg5 *

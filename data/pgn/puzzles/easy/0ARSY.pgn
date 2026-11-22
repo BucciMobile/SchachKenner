@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ARSY"]
+[Difficulty "easy"]
+[Rating "1049"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/4tAjZ2dC#21"]
+[Solution "e1g1 f6g4 d1g4 h3g4"]
+[SolutionSAN "O-O Ng4 Qxg4 Qxg4"]
+[FEN "rn2k2r/pp2ppbp/2pp1np1/8/2PP4/1PN1P1Pq/P4PNP/R1BQK2R w KQkq - 1 11"]
+[SetUp "1"]
+
+11. O-O Ng4 12. Qxg4 Qxg4 *

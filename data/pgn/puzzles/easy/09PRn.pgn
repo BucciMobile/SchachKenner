@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09PRn"]
+[Difficulty "easy"]
+[Rating "1095"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/r0vZqu7B#43"]
+[Solution "e4h7 h3h7 d3h7 g8h7"]
+[SolutionSAN "Bxh7+ Qxh7 Qxh7+ Kxh7"]
+[FEN "3rr1k1/pp1b1ppp/2p5/8/1P1PBP2/P2Q2Pq/7P/2R2RK1 w - - 3 22"]
+[SetUp "1"]
+
+22. Bxh7+ Qxh7 23. Qxh7+ Kxh7 *

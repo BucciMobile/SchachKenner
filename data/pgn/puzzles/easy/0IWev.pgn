@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IWev"]
+[Difficulty "easy"]
+[Rating "540"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/lepNrRPt/black#32"]
+[Solution "e7d8 a4e8"]
+[SolutionSAN "Bxd8 Qe8#"]
+[FEN "r1qR2k1/pbp1bppp/1p2p3/4P3/QPP1pB2/4P1P1/P4PBP/R5K1 b - - 0 16"]
+[SetUp "1"]
+
+16... Bxd8 17. Qe8# *

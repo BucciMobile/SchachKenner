@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01ws7"]
+[Difficulty "medium"]
+[Rating "1249"]
+[Themes "crushing fork master opening short"]
+[GameUrl "https://lichess.org/game/3bf6R7A4#15"]
+[Solution "d5e6 b6b4 c2c3 b4c4"]
+[SolutionSAN "dxe6 Qb4+ c3 Qxc4"]
+[FEN "rnb1kb1r/pp3ppp/1q2p3/2pPP3/2B1p3/8/PPP2PPP/R1BQK1NR w KQkq - 1 8"]
+[SetUp "1"]
+
+8. dxe6 Qb4+ 9. c3 Qxc4 *

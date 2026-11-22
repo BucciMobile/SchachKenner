@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IfY2"]
+[Difficulty "easy"]
+[Rating "1058"]
+[Themes "endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/LbUbGibR#77"]
+[Solution "e3d4 f3g3 f2g3 h3g3 g1h1 g3g2"]
+[SolutionSAN "Bd4 Rxg3+ fxg3 Qxg3+ Kh1 Qg2#"]
+[FEN "7k/p5r1/1p6/8/1PQ5/P3BrPq/5P2/5RK1 w - - 5 39"]
+[SetUp "1"]
+
+39. Bd4 Rxg3+ 40. fxg3 Qxg3+ 41. Kh1 Qg2# *

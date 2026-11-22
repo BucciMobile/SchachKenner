@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "096SP"]
+[Difficulty "hard"]
+[Rating "2077"]
+[Themes "advantage endgame veryLong xRayAttack"]
+[GameUrl "https://lichess.org/game/9Kaw7j8q#61"]
+[Solution "d6d7 f2f3 h1g1 f7g5 c7g3 g5h3 g3h3 f3h3"]
+[SolutionSAN "d7 Qxf3+ Kg1 Ng5 Qg3 Nh3+ Qxh3 Qxh3"]
+[FEN "5rk1/2Q2npp/p2P4/1p6/4P3/P1N2P2/1P3q1P/3R3K w - - 2 31"]
+[SetUp "1"]
+
+31. d7 Qxf3+ 32. Kg1 Ng5 33. Qg3 Nh3+ 34. Qxh3 Qxh3 *

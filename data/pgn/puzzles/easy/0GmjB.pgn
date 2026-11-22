@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GmjB"]
+[Difficulty "easy"]
+[Rating "992"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/9UCwIz9V/black#94"]
+[Solution "e3e2 d1e1 d3d2 e1e2"]
+[SolutionSAN "e2+ Ke1 d2+ Kxe2"]
+[FEN "7k/2B5/5pPP/p4P2/P1n5/3pp3/8/3K4 b - - 2 47"]
+[SetUp "1"]
+
+47... e2+ 48. Ke1 d2+ 49. Kxe2 *

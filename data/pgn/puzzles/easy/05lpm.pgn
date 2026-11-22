@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05lpm"]
+[Difficulty "easy"]
+[Rating "777"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/3qg7hSQ4/black#64"]
+[Solution "d4f6 f5c8 f6d8 c8d8"]
+[SolutionSAN "Bf6 Qc8+ Bd8 Qxd8#"]
+[FEN "5k2/p5p1/2p4q/2Pp1Q1B/3b4/6P1/P5KP/8 b - - 1 32"]
+[SetUp "1"]
+
+32... Bf6 33. Qc8+ Bd8 34. Qxd8# *

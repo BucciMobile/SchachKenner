@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BBxy"]
+[Difficulty "easy"]
+[Rating "923"]
+[Themes "discoveredAttack endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/KVQ4PutK#63"]
+[Solution "e3f3 e5f3 d5f3 e8e1"]
+[SolutionSAN "Rxf3 Nxf3+ Qxf3 Rxe1#"]
+[FEN "4r2k/ppp3pp/8/3Qn3/2P5/PP2RpPq/5P1P/4R1K1 w - - 8 32"]
+[SetUp "1"]
+
+32. Rxf3 Nxf3+ 33. Qxf3 Rxe1# *

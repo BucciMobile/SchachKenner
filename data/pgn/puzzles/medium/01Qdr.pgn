@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Qdr"]
+[Difficulty "medium"]
+[Rating "1635"]
+[Themes "attraction endgame mate mateIn2 pillsburysMate sacrifice short"]
+[GameUrl "https://lichess.org/game/HyDaLl1q#59"]
+[Solution "d1f3 h4h2 h1h2 g4h4"]
+[SolutionSAN "Qxf3 Qxh2+ Kxh2 Rh4#"]
+[FEN "6k1/pp4p1/7p/1PPp4/P2b2rq/5rN1/6PP/3QR2K w - - 0 30"]
+[SetUp "1"]
+
+30. Qxf3 Qxh2+ 31. Kxh2 Rh4# *

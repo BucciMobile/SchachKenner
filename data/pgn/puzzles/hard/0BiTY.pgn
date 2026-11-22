@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BiTY"]
+[Difficulty "hard"]
+[Rating "2016"]
+[Themes "advantage middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/d52z7Hqn/black#56"]
+[Solution "c2e1 d1e1 e6e1 h4f4"]
+[SolutionSAN "Ne1+ Rxe1 Qxe1 Qf4"]
+[FEN "4rk2/2rp1pp1/1p2q2p/pB6/7Q/5RP1/PPn2PKP/3R4 b - - 2 28"]
+[SetUp "1"]
+
+28... Ne1+ 29. Rxe1 Qxe1 30. Qf4 *

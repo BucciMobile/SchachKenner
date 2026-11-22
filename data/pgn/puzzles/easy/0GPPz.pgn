@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GPPz"]
+[Difficulty "easy"]
+[Rating "792"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/bkMzqjgZ#35"]
+[Solution "f4g2 e5f3"]
+[SolutionSAN "Nxg2 Nf3#"]
+[FEN "r3r1k1/ppp2pbp/3p2p1/4n3/2P2N1q/1P1BB3/P1Q2Pb1/2R2RK1 w - - 0 18"]
+[SetUp "1"]
+
+18. Nxg2 Nf3# *

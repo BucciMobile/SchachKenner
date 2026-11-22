@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AqQo"]
+[Difficulty "hard"]
+[Rating "2441"]
+[Themes "advantage exposedKing master middlegame veryLong"]
+[GameUrl "https://lichess.org/game/04uixOpx#53"]
+[Solution "e6f7 f8f7 f6h8 e8d7 b2f6 d6e6 e1d2 g1f2 d2d3 f2f5"]
+[SolutionSAN "exf7+ Rxf7 Qh8+ Kd7 Bf6 Re6+ Kd2 Qf2+ Kd3 Qf5+"]
+[FEN "4kr2/pp3p1p/2prPQpP/8/2P5/P6R/nBP5/1R2KBq1 w - - 1 27"]
+[SetUp "1"]
+
+27. exf7+ Rxf7 28. Qh8+ Kd7 29. Bf6 Re6+ 30. Kd2 Qf2+ 31. Kd3 Qf5+ *

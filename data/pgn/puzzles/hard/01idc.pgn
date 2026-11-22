@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01idc"]
+[Difficulty "hard"]
+[Rating "1840"]
+[Themes "endgame master"]
+[GameUrl "https://lichess.org/game/f9CR6chP#77"]
+[Solution "d1d5 b6b1 d5f5 f6f5 a4f4 f5g5 f4f3 g4f3"]
+[SolutionSAN "Rd5 Rb1 Rxf5+ Kxf5 Rf4+ Kg5 Rxf3 gxf3+"]
+[FEN "8/8/1r3k2/5p2/R5p1/5nP1/P4PK1/3R4 w - - 1 39"]
+[SetUp "1"]
+
+39. Rd5 Rb1 40. Rxf5+ Kxf5 41. Rf4+ Kg5 42. Rxf3 gxf3+ *

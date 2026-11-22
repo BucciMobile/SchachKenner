@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "069Yu"]
+[Difficulty "medium"]
+[Rating "1214"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/YkxEMfU3/black#26"]
+[Solution "e8f8 d1d8"]
+[SolutionSAN "Kf8 Qxd8#"]
+[FEN "r1bqk2r/p4pp1/5P1p/8/2p5/2b5/PPP3PP/R1BQR1K1 b kq - 1 13"]
+[SetUp "1"]
+
+13... Kf8 14. Qxd8# *

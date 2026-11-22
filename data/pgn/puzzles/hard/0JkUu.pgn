@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JkUu"]
+[Difficulty "hard"]
+[Rating "1716"]
+[Themes "advantage kingsideAttack long middlegame quietMove sacrifice"]
+[GameUrl "https://lichess.org/game/2IgxT3fk/black#26"]
+[Solution "d7c6 f4h5 g6h5 d5f6 d8f6 h6f6"]
+[SolutionSAN "Bxc6 Nh5 gxh5 Nf6+ Qxf6 Qxf6"]
+[FEN "r2q1rk1/1ppb1p1p/p1Bb2pQ/3N1p2/3PpN2/8/PPP2PPP/R4RK1 b - - 0 13"]
+[SetUp "1"]
+
+13... Bxc6 14. Nh5 gxh5 15. Nf6+ Qxf6 16. Qxf6 *

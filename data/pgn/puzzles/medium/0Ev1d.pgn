@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ev1d"]
+[Difficulty "medium"]
+[Rating "1323"]
+[Themes "crushing endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/uBeHC1YJ/black#110"]
+[Solution "g1f3 e3f3 f7e7 f3e3"]
+[SolutionSAN "Nf3+ Rxf3+ Ke7 Re3+"]
+[FEN "8/5k2/8/6Kp/8/4R3/4p3/6n1 b - - 3 55"]
+[SetUp "1"]
+
+55... Nf3+ 56. Rxf3+ Ke7 57. Re3+ *

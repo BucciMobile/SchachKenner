@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DHSf"]
+[Difficulty "hard"]
+[Rating "2433"]
+[Themes "crushing endgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/RFQIaywM#79"]
+[Solution "e3f3 d5d4 f3e2 a5b4 d1a1 a7a5 a1a2 d4c3 a2d2 c3b3"]
+[SolutionSAN "Kf3 Kd4 Ke2 Bb4 Ra1 a5 Ra2 Kc3 Rxd2 Kxb3"]
+[FEN "8/p7/8/b1pk2p1/6P1/1P1PK3/3p4/3R4 w - - 5 40"]
+[SetUp "1"]
+
+40. Kf3 Kd4 41. Ke2 Bb4 42. Ra1 a5 43. Ra2 Kc3 44. Rxd2 Kxb3 *

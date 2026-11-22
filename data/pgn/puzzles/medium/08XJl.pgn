@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08XJl"]
+[Difficulty "medium"]
+[Rating "1312"]
+[Themes "crushing endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/5axaemV7#61"]
+[Solution "d6d3 e4d3 c2d3 f5g4"]
+[SolutionSAN "Qd3 Qxd3+ cxd3 Kg4"]
+[FEN "8/p7/1p1Q4/5k1p/4q2P/8/PPP5/3K4 w - - 1 31"]
+[SetUp "1"]
+
+31. Qd3 Qxd3+ 32. cxd3 Kg4 *

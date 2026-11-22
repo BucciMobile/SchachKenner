@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Ntp"]
+[Difficulty "medium"]
+[Rating "1581"]
+[Themes "advantage defensiveMove endgame hangingPiece long"]
+[GameUrl "https://lichess.org/game/wdWOJdOk/black#54"]
+[Solution "a4h4 h3h4 b1d3 f1e1 f8e8 c1e3"]
+[SolutionSAN "Rh4 Rxh4 Qd3+ Ke1 Re8+ Be3"]
+[FEN "5rk1/1p3p1p/2p3pQ/1p6/r7/P6R/5PPP/1qB2K2 b - - 1 27"]
+[SetUp "1"]
+
+27... Rh4 28. Rxh4 Qd3+ 29. Ke1 Re8+ 30. Be3 *

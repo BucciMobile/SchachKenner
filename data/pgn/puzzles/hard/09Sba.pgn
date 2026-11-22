@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Sba"]
+[Difficulty "hard"]
+[Rating "1871"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/Z1XenqfS/black#76"]
+[Solution "b6b8 h8f8 e7f8 c8e6"]
+[SolutionSAN "Rb8 Rf8+ Qxf8 Qe6#"]
+[FEN "2Q4R/4qkp1/1r6/1r1p1Pp1/2pPp3/2P1B3/1P6/5K2 b - - 4 38"]
+[SetUp "1"]
+
+38... Rb8 39. Rf8+ Qxf8 40. Qe6# *

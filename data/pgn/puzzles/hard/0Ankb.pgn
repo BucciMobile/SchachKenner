@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ankb"]
+[Difficulty "hard"]
+[Rating "1817"]
+[Themes "cornerMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/ARCvRa1I#53"]
+[Solution "e3d4 e4d2"]
+[SolutionSAN "Bd4 Nd2#"]
+[FEN "7r/6p1/3p1k1p/3Qr3/4n3/2P1B2P/PP3PPq/R3RK2 w - - 1 27"]
+[SetUp "1"]
+
+27. Bd4 Nd2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HnDD"]
+[Difficulty "easy"]
+[Rating "872"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+[GameUrl "https://lichess.org/game/CIZlZn1c#73"]
+[Solution "e1b1 a3c2"]
+[SolutionSAN "Rxb1 Nc2#"]
+[FEN "2r5/p1k5/5p1Q/3p2p1/2p5/n4NP1/PP3PP1/Kq2R3 w - - 8 37"]
+[SetUp "1"]
+
+37. Rxb1 Nc2# *

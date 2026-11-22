@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Amuu"]
+[Difficulty "easy"]
+[Rating "969"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/PcDkQuTY/black#40"]
+[Solution "f5h3 h4h7"]
+[SolutionSAN "Bxh3 Qh7#"]
+[FEN "r4rk1/pp3pp1/2n5/2q2bN1/7Q/7R/PP3PPP/R5K1 b - - 1 20"]
+[SetUp "1"]
+
+20... Bxh3 21. Qh7# *

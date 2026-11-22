@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IPsc"]
+[Difficulty "easy"]
+[Rating "870"]
+[Themes "endgame master"]
+[GameUrl "https://lichess.org/game/Uj7gOE51/black#94"]
+[Solution "e6e5 g5g6 f5f4 g3f4 e5f4 h4h5"]
+[SolutionSAN "Ke5 Kxg6 f4 gxf4+ Kxf4 h5"]
+[FEN "8/8/4k1p1/5pK1/7P/6P1/8/8 b - - 8 47"]
+[SetUp "1"]
+
+47... Ke5 48. Kxg6 f4 49. gxf4+ Kxf4 50. h5 *

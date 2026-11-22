@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bf7c"]
+[Difficulty "easy"]
+[Rating "913"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/aNB5tfo3#77"]
+[Solution "e7e6 c8c1 e6e1 c1e1"]
+[SolutionSAN "Rxe6 Rc1+ Re1 Rxe1#"]
+[FEN "1br5/1R2R2p/1P2n1pk/8/N7/7P/5PP1/6K1 w - - 3 39"]
+[SetUp "1"]
+
+39. Rxe6 Rc1+ 40. Re1 Rxe1# *

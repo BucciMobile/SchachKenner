@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HbCl"]
+[Difficulty "easy"]
+[Rating "506"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/4fXrW5BN#45"]
+[Solution "f3g5 f6f1 a1f1 f8f1"]
+[SolutionSAN "Ng5 Qxf1+ Rxf1 Rxf1#"]
+[FEN "r4rk1/7p/p1p1bqpQ/1pbp4/8/2P2NP1/PPB3PP/R4R1K w - - 0 23"]
+[SetUp "1"]
+
+23. Ng5 Qxf1+ 24. Rxf1 Rxf1# *

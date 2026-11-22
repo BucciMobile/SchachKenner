@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Egl"]
+[Difficulty "easy"]
+[Rating "686"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/HRglcTgk/black#122"]
+[Solution "a3a2 e1e8"]
+[SolutionSAN "a2 Re8#"]
+[FEN "2k5/r5p1/2K2p1p/8/7P/p7/8/4R3 b - - 7 61"]
+[SetUp "1"]
+
+61... a2 62. Re8# *

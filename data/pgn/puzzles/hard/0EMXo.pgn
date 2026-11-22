@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EMXo"]
+[Difficulty "hard"]
+[Rating "1902"]
+[Themes "advantage attackingF2F7 fork long opening sacrifice trappedPiece"]
+[GameUrl "https://lichess.org/game/QYkem5bR/black#16"]
+[Solution "c6e5 c4f7 e5f7 g5e6 d7e5 e6d8"]
+[SolutionSAN "Ncxe5 Bxf7+ Nxf7 Ne6 Nde5 Nxd8"]
+[FEN "r1bqk2r/pppnppbp/2n3p1/4P1N1/2B5/8/PPP1QPPP/RNB1K2R b KQkq - 2 8"]
+[SetUp "1"]
+
+8... Ncxe5 9. Bxf7+ Nxf7 10. Ne6 Nde5 11. Nxd8 *

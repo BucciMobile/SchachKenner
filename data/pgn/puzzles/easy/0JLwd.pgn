@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JLwd"]
+[Difficulty "easy"]
+[Rating "1173"]
+[Themes "crushing long middlegame pin"]
+[GameUrl "https://lichess.org/game/r70RVDeh/black#36"]
+[Solution "d7d5 d3c4 d5c4 b3c4 d8d1 a1d1"]
+[SolutionSAN "Qxd5 Bc4 Qxc4 bxc4 Rxd1+ Rxd1"]
+[FEN "3r1rk1/pppq2np/7R/3Ppp2/8/1PPB4/P5PP/R2Q2K1 b - - 0 18"]
+[SetUp "1"]
+
+18... Qxd5 19. Bc4 Qxc4 20. bxc4 Rxd1+ 21. Rxd1 *

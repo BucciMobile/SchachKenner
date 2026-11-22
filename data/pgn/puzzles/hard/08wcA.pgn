@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08wcA"]
+[Difficulty "hard"]
+[Rating "2045"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/feqGD2f9#31"]
+[Solution "b1c3 d4f3 e1f1 e3g1"]
+[SolutionSAN "Nc3 Nf3+ Kf1 Qg1#"]
+[FEN "N6Q/pp1pkppp/5n2/8/3n4/4q1P1/PPP1B2P/RN2K3 w Q - 1 16"]
+[SetUp "1"]
+
+16. Nc3 Nf3+ 17. Kf1 Qg1# *

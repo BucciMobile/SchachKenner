@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EmX1"]
+[Difficulty "medium"]
+[Rating "1601"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/fLafEQiX#65"]
+[Solution "e4a8 c8c7 d6c7 g7c3"]
+[SolutionSAN "Bxa8 Rxc7 dxc7 Qc3"]
+[FEN "r1r2k2/2Q2pq1/3P4/p7/1p2B3/6P1/5P1P/4R1K1 w - - 3 33"]
+[SetUp "1"]
+
+33. Bxa8 Rxc7 34. dxc7 Qc3 *

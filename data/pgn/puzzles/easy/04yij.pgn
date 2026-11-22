@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04yij"]
+[Difficulty "easy"]
+[Rating "970"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/NJRseerf/black#54"]
+[Solution "c5b4 f2f7 g8h8 f7g7"]
+[SolutionSAN "Qb4 Qxf7+ Kh8 Qg7#"]
+[FEN "r2r2k1/5p1p/p5pP/2q1P1b1/8/2p5/PPP1BQ2/1K3R2 b - - 1 27"]
+[SetUp "1"]
+
+27... Qb4 28. Qxf7+ Kh8 29. Qg7# *

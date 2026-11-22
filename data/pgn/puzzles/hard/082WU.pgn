@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "082WU"]
+[Difficulty "hard"]
+[Rating "1857"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/Mu8UZqUK#35"]
+[Solution "d1d2 b2c2 d2h6 f6c3"]
+[SolutionSAN "Qd2 Rxc2 Qxh6 Qxc3+"]
+[FEN "5rk1/p1p5/2pp1qpn/5b2/8/2N3BP/PrP1BPP1/1R1QK2R w K - 0 18"]
+[SetUp "1"]
+
+18. Qd2 Rxc2 19. Qxh6 Qxc3+ *

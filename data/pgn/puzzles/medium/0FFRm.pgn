@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FFRm"]
+[Difficulty "medium"]
+[Rating "1692"]
+[Themes "advancedPawn attraction crushing endgame long queensideAttack"]
+[GameUrl "https://lichess.org/game/XptJyiMP#45"]
+[Solution "d2d6 e6a2 b1c1 a3b2 c1b2 c6c3"]
+[SolutionSAN "Qxd6 Bxa2+ Kc1 axb2+ Kxb2 Qc3+"]
+[FEN "r5k1/5ppp/2qpb3/4p3/1p2P3/p4P2/PPPQ2PP/1K1R3R w - - 0 23"]
+[SetUp "1"]
+
+23. Qxd6 Bxa2+ 24. Kc1 axb2+ 25. Kxb2 Qc3+ *

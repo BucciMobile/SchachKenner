@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Sr1"]
+[Difficulty "hard"]
+[Rating "1790"]
+[Themes "discoveredAttack discoveredCheck long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/mKXjReAm#69"]
+[Solution "a5a7 e3g4 g1h1 d4d1 b5f1 d1f1"]
+[SolutionSAN "Qa7 Ng4+ Kh1 Qd1+ Bf1 Qxf1#"]
+[FEN "1r4k1/6pp/4p3/QBR2p2/3q4/B3nP1P/P5P1/6K1 w - - 0 35"]
+[SetUp "1"]
+
+35. Qa7 Ng4+ 36. Kh1 Qd1+ 37. Bf1 Qxf1# *

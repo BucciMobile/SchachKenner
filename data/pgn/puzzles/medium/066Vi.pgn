@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "066Vi"]
+[Difficulty "medium"]
+[Rating "1615"]
+[Themes "endgame mate mateIn2 pin sacrifice short"]
+[GameUrl "https://lichess.org/game/nOtQsYBm#51"]
+[Solution "c4c5 f5f2 f1f2 e8e1"]
+[SolutionSAN "c5 Qxf2+ Rxf2 Re1#"]
+[FEN "4r1k1/pQ1R1p1p/6p1/5q2/PPPb4/8/5PPP/5RK1 w - - 5 26"]
+[SetUp "1"]
+
+26. c5 Qxf2+ 27. Rxf2 Re1# *

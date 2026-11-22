@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09IHB"]
+[Difficulty "medium"]
+[Rating "1576"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/7EntjUsG#37"]
+[Solution "c2c3 e7c5 d3d4 c5d5"]
+[SolutionSAN "c3 Qc5+ d4 Qxd5"]
+[FEN "r4rk1/1p2qpb1/4b1pp/p2B4/5R2/P2P1QN1/1PP3PP/5RK1 w - - 1 19"]
+[SetUp "1"]
+
+19. c3 Qc5+ 20. d4 Qxd5 *

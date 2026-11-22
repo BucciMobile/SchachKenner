@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HcpH"]
+[Difficulty "hard"]
+[Rating "2103"]
+[Themes "crushing endgame intermezzo short"]
+[GameUrl "https://lichess.org/game/BZp7TjXG/black#56"]
+[Solution "d2a2 g6e6 g8h7 e2a2"]
+[SolutionSAN "Rxa2 Qe6+ Kh7 Rxa2"]
+[FEN "5rk1/pp4p1/2p3Qp/8/1q6/1P6/P2rRPPP/4R1K1 b - - 7 28"]
+[SetUp "1"]
+
+28... Rxa2 29. Qe6+ Kh7 30. Rxa2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ISPE"]
+[Difficulty "easy"]
+[Rating "714"]
+[Themes "fork long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/DmtyggFM/black#36"]
+[Solution "b7c6 f3c6 e8f8 c6a8 e5b8 a8b8"]
+[SolutionSAN "bxc6 Qxc6+ Kf8 Qxa8+ Qb8 Qxb8#"]
+[FEN "r3k2r/pp3ppp/2B1p3/4qbB1/8/P4Q2/1PP2PP1/R6K b kq - 0 18"]
+[SetUp "1"]
+
+18... bxc6 19. Qxc6+ Kf8 20. Qxa8+ Qb8 21. Qxb8# *

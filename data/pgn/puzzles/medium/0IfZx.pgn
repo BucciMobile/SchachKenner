@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IfZx"]
+[Difficulty "medium"]
+[Rating "1686"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/Eq90Diuk/black#58"]
+[Solution "a8c8 c6e7 g8h7 e7c8"]
+[SolutionSAN "Rc8 Ne7+ Kh7 Nxc8"]
+[FEN "r5k1/5pp1/bqN1p2p/p2pP3/8/1PQ5/P4PPP/4R1K1 b - - 4 29"]
+[SetUp "1"]
+
+29... Rc8 30. Ne7+ Kh7 31. Nxc8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06WKQ"]
+[Difficulty "easy"]
+[Rating "791"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/1xKj9WTd/black#84"]
+[Solution "c8a8 h7b7"]
+[SolutionSAN "Ra8 Rb7#"]
+[FEN "2r5/7R/p1p5/1kN5/1Pp3b1/P4n2/1K6/8 b - - 2 42"]
+[SetUp "1"]
+
+42... Ra8 43. Rb7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LvDm"]
+[Difficulty "hard"]
+[Rating "1953"]
+[Themes "bishopEndgame crushing deflection endgame long"]
+[GameUrl "https://lichess.org/game/8pYFiLUo/black#110"]
+[Solution "b7a6 b3b4 a5b6 a4a5 b6c6 e2a6"]
+[SolutionSAN "Ba6 b4+ Kb6 a5+ Kc6 Bxa6"]
+[FEN "8/pb6/8/k2p1p1p/P2PpPpP/1PK3P1/4B3/8 b - - 8 55"]
+[SetUp "1"]
+
+55... Ba6 56. b4+ Kb6 57. a5+ Kc6 58. Bxa6 *

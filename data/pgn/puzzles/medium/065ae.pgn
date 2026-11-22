@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "065ae"]
+[Difficulty "medium"]
+[Rating "1310"]
+[Themes "crushing discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/8EYzp7nI#65"]
+[Solution "g3g4 f5h4 g2g3 f8f4"]
+[SolutionSAN "g4 Nh4+ Kg3 Rxf4"]
+[FEN "5rk1/4n2p/3p2pq/p1pP1nN1/1pP1BQ2/1P4PP/P5K1/5R2 w - - 5 33"]
+[SetUp "1"]
+
+33. g4 Nh4+ 34. Kg3 Rxf4 *

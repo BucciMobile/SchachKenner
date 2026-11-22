@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Nb6M"]
+[Difficulty "medium"]
+[Rating "1355"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/jTyskZIX/black#28"]
+[Solution "d8d1 b8e5 d1a1 f1a1"]
+[SolutionSAN "Rxd1 Bxe5 Rxa1 Rxa1"]
+[FEN "1Bbr2k1/4bppp/p1p1pn2/1p2q3/8/P1N2B2/1PP2PPP/R2Q1RK1 b - - 0 14"]
+[SetUp "1"]
+
+14... Rxd1 15. Bxe5 Rxa1 16. Rxa1 *

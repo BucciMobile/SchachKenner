@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fp8T"]
+[Difficulty "easy"]
+[Rating "1016"]
+[Themes "backRankMate endgame long mate mateIn3 queenRookEndgame"]
+[GameUrl "https://lichess.org/game/8ARAhp6g#91"]
+[Solution "b1b8 a2a1 b8b1 a1b1 f3d1 b1d1"]
+[SolutionSAN "Rxb8 Ra1+ Rb1 Rxb1+ Qd1 Rxd1#"]
+[FEN "1q6/8/8/k7/8/5Q2/r4PPP/1R4K1 w - - 0 46"]
+[SetUp "1"]
+
+46. Rxb8 Ra1+ 47. Rb1 Rxb1+ 48. Qd1 Rxd1# *

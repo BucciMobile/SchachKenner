@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E3IL"]
+[Difficulty "hard"]
+[Rating "1711"]
+[Themes "crushing endgame knightEndgame long quietMove"]
+[GameUrl "https://lichess.org/game/uiM0Ax9m#63"]
+[Solution "c4c5 h5h4 c5c6 b7c6 c1d2 h4h3"]
+[SolutionSAN "c5 h4 c6 bxc6 Kd2 h3"]
+[FEN "2N5/pp6/4pkp1/7p/2P5/P7/P4P2/2K5 w - - 0 32"]
+[SetUp "1"]
+
+32. c5 h4 33. c6 bxc6 34. Kd2 h3 *

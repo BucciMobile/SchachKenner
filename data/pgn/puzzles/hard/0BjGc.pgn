@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BjGc"]
+[Difficulty "hard"]
+[Rating "2304"]
+[Themes "advantage defensiveMove endgame master quietMove short"]
+[GameUrl "https://lichess.org/game/OwWugYzA#85"]
+[Solution "e3d2 c5d4 d2e1 c3b5"]
+[SolutionSAN "Kd2 Bd4 Ke1 Nb5"]
+[FEN "6B1/8/3k1p2/2b1p3/2p4P/p1n1K1P1/2P5/R7 w - - 1 43"]
+[SetUp "1"]
+
+43. Kd2 Bd4 44. Ke1 Nb5 *

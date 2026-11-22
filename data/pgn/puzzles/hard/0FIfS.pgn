@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FIfS"]
+[Difficulty "hard"]
+[Rating "2182"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/UX22bWW1#53"]
+[Solution "h6f5 c6b4 c3b4 e5e4"]
+[SolutionSAN "Nf5 Nb4+ cxb4 e4#"]
+[FEN "1kr4b/pp6/2n4N/3pp2Q/3P4/2PKp1q1/PP2B1P1/5R2 w - - 0 27"]
+[SetUp "1"]
+
+27. Nf5 Nb4+ 28. cxb4 e4# *

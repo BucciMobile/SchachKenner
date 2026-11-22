@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07JLL"]
+[Difficulty "hard"]
+[Rating "1705"]
+[Themes "crushing defensiveMove hangingPiece opening short"]
+[GameUrl "https://lichess.org/game/5CnCxhiz#19"]
+[Solution "f5d6 d8d6 d3b5 e8e7"]
+[SolutionSAN "Nxd6+ Qxd6 Bb5+ Ke7"]
+[FEN "rn1qk2r/pp3pp1/3pbb1p/4pN2/4P3/3B4/PPP2PPP/RN1QK2R w KQkq - 0 10"]
+[SetUp "1"]
+
+10. Nxd6+ Qxd6 11. Bb5+ Ke7 *

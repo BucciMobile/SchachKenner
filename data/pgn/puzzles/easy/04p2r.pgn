@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04p2r"]
+[Difficulty "easy"]
+[Rating "946"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/HFonILFW#95"]
+[Solution "h2h3 g5g4 h3h4 f2h2"]
+[SolutionSAN "Kh3 g4+ Kh4 Rh2#"]
+[FEN "4Q3/8/5p2/5kp1/8/6P1/5r1K/8 w - - 1 48"]
+[SetUp "1"]
+
+48. Kh3 g4+ 49. Kh4 Rh2# *

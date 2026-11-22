@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06S6c"]
+[Difficulty "hard"]
+[Rating "1785"]
+[Themes "crushing long middlegame pin"]
+[GameUrl "https://lichess.org/game/dpXFporf/black#66"]
+[Solution "f2f8 e8f8 g8f8 e1e7 c7e7 g5e7"]
+[SolutionSAN "Rff8 Rxf8 Rxf8 Re7 Qxe7 Qxe7"]
+[FEN "4R1rk/ppq4p/2p5/6Qp/8/6b1/PPP2rB1/4R2K b - - 1 33"]
+[SetUp "1"]
+
+33... Rff8 34. Rxf8 Rxf8 35. Re7 Qxe7 36. Qxe7 *

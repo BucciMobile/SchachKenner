@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Ah4"]
+[Difficulty "hard"]
+[Rating "1899"]
+[Themes "endgame equality long sacrifice"]
+[GameUrl "https://lichess.org/game/ENceVNk4#71"]
+[Solution "d4d5 c8c6 d5c6 d8d3 e2e3 f4e3"]
+[SolutionSAN "d5 Rxc6 dxc6 Rd3+ Re3 fxe3"]
+[FEN "2rr4/6kb/p1B2p1p/1p2p3/1P1PPpP1/2P2K1P/4RP2/R7 w - - 1 36"]
+[SetUp "1"]
+
+36. d5 Rxc6 37. dxc6 Rd3+ 38. Re3 fxe3 *

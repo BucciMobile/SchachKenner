@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GRNc"]
+[Difficulty "easy"]
+[Rating "1086"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/zjecl00I#51"]
+[Solution "e1e5 f5f2 g1h1 f2f1 a1f1 f8f1"]
+[SolutionSAN "Qe5 Qf2+ Kh1 Qf1+ Rxf1 Rxf1#"]
+[FEN "5rk1/p5p1/1p5p/3p1q2/3P4/P1P5/6PP/R3Q1K1 w - - 0 26"]
+[SetUp "1"]
+
+26. Qe5 Qf2+ 27. Kh1 Qf1+ 28. Rxf1 Rxf1# *

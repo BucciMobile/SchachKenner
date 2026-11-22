@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LOtN"]
+[Difficulty "medium"]
+[Rating "1698"]
+[Themes "advancedPawn crushing endgame master quietMove rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/8UynR1aX/black#98"]
+[Solution "e4d4 d2d4 c5d4 c4c5 h6g5 c5c6 g5f6 c6c7"]
+[SolutionSAN "Rd4 Rxd4 cxd4 c5 Kg5 c6 Kxf6 c7"]
+[FEN "8/5p2/5Ppk/2p4p/p1P1r3/Pp5P/1P1R2K1/8 b - - 11 49"]
+[SetUp "1"]
+
+49... Rd4 50. Rxd4 cxd4 51. c5 Kg5 52. c6 Kxf6 53. c7 *

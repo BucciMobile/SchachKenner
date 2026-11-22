@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JoxS"]
+[Difficulty "easy"]
+[Rating "1126"]
+[Themes "crushing deflection middlegame short"]
+[GameUrl "https://lichess.org/game/EY7fiu07/black#42"]
+[Solution "f7f6 d3c5 d7e8 c5e6"]
+[SolutionSAN "f6 Nc5+ Ke8 Nxe6"]
+[FEN "3r1b1r/2pkpppp/p2nb3/1p6/P4B2/3N1N2/4KPPP/2R4R b - - 2 21"]
+[SetUp "1"]
+
+21... f6 22. Nc5+ Ke8 23. Nxe6 *

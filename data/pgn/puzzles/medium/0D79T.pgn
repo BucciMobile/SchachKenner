@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D79T"]
+[Difficulty "medium"]
+[Rating "1346"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/n9XSXOSk#45"]
+[Solution "d3c4 d4e2 c4d5 e7d5"]
+[SolutionSAN "Bc4 Nxe2 Bxd5+ Nxd5"]
+[FEN "r3r1k1/pp2n2p/5Bp1/3q1p2/3n4/P2B3P/1P2QPPK/R3R3 w - - 2 23"]
+[SetUp "1"]
+
+23. Bc4 Nxe2 24. Bxd5+ Nxd5 *

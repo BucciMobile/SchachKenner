@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "036ek"]
+[Difficulty "easy"]
+[Rating "869"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/mZwST8Z5#71"]
+[Solution "c3e4 g4e3 g2g1 e3f1"]
+[SolutionSAN "Nxe4 Ne3+ Kg1 Nxf1"]
+[FEN "5r1r/7k/p2p2p1/1p1P3p/2p1qRnP/P1N3P1/1PP3K1/5R2 w - - 0 36"]
+[SetUp "1"]
+
+36. Nxe4 Ne3+ 37. Kg1 Nxf1 *

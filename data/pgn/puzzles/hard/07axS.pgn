@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07axS"]
+[Difficulty "hard"]
+[Rating "2639"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/CMHAXeNi/black#42"]
+[Solution "e5f6 h5h7 g8f8 h7h4 f6f5 h4e1"]
+[SolutionSAN "Qf6 Qh7+ Kf8 Qh4 Qf5 Qxe1"]
+[FEN "r5k1/2p2pp1/p1np4/1p2q1NQ/5P2/2P4P/P5PK/R1B1r3 b - - 0 21"]
+[SetUp "1"]
+
+21... Qf6 22. Qh7+ Kf8 23. Qh4 Qf5 24. Qxe1 *

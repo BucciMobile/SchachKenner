@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A05m"]
+[Difficulty "hard"]
+[Rating "2666"]
+[Themes "attraction exposedKing mate mateIn5 middlegame veryLong"]
+[GameUrl "https://lichess.org/game/ezBpSX2D#41"]
+[Solution "c3d4 f8c8 d2c4 d3c2 d1c2 c8c4 c2b1 e3d3 b1a2 c4a4"]
+[SolutionSAN "cxd4 Rc8 Nc4 Bc2+ Kxc2 Rxc4+ Kb1 Qd3+ Ka2 Rxa4#"]
+[FEN "5rk1/pp4p1/7p/3pp2Q/P2n4/2Pbq2N/1P1N1bPP/R1BK3R w - - 1 21"]
+[SetUp "1"]
+
+21. cxd4 Rc8 22. Nc4 Bc2+ 23. Kxc2 Rxc4+ 24. Kb1 Qd3+ 25. Ka2 Rxa4# *

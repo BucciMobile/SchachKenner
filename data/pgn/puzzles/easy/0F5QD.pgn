@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F5QD"]
+[Difficulty "easy"]
+[Rating "466"]
+[Themes "backRankMate endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/W3LWPNzs/black#78"]
+[Solution "f8d8 d1d8"]
+[SolutionSAN "Rxd8 Rxd8#"]
+[FEN "3Q1r1k/p5pp/8/8/8/P5PP/7K/3R4 b - - 0 39"]
+[SetUp "1"]
+
+39... Rxd8 40. Rxd8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09YBz"]
+[Difficulty "medium"]
+[Rating "1472"]
+[Themes "crushing defensiveMove long middlegame pin"]
+[GameUrl "https://lichess.org/game/Vm5LOjsL#43"]
+[Solution "d5e6 a3c5 e6f7 c8b8 e3c5 e7c5"]
+[SolutionSAN "dxe6 Bc5 exf7+ Kb8 Qxc5 Qxc5+"]
+[FEN "2kr3r/ppp1qp1p/4n1p1/3P4/2p5/bPN1Q2B/P6P/R3R1K1 w - - 1 22"]
+[SetUp "1"]
+
+22. dxe6 Bc5 23. exf7+ Kb8 24. Qxc5 Qxc5+ *

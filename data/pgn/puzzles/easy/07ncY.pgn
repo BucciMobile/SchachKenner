@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07ncY"]
+[Difficulty "easy"]
+[Rating "977"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/fygx0Cyt/black#34"]
+[Solution "h8f8 f1f8"]
+[SolutionSAN "Rxf8 Rxf8#"]
+[FEN "r1bk1Q1r/pppp3p/8/3N4/2q1P3/8/PPP3PP/R4RK1 b - - 0 17"]
+[SetUp "1"]
+
+17... Rxf8 18. Rxf8# *

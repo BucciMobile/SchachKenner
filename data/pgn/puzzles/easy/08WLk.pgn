@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08WLk"]
+[Difficulty "easy"]
+[Rating "441"]
+[Themes "backRankMate endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/SPwOluet/black#52"]
+[Solution "d8d6 c1c8"]
+[SolutionSAN "Rxd6 Rc8#"]
+[FEN "k2r4/pp3ppp/3Qp3/8/8/8/P4PPP/2R3K1 b - - 0 26"]
+[SetUp "1"]
+
+26... Rxd6 27. Rc8# *

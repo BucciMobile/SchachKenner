@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06gjN"]
+[Difficulty "medium"]
+[Rating "1314"]
+[Themes "crushing discoveredAttack fork middlegame short"]
+[GameUrl "https://lichess.org/game/chL8ELxq/black#60"]
+[Solution "f4h3 g5f7 f8f7 d2h6"]
+[SolutionSAN "Nh3 Nf7+ Rxf7 Qxh6"]
+[FEN "5r1k/r1p4p/p1Pp2pq/4p1N1/1PB1pn2/8/P2Q1P1N/6RK b - - 1 30"]
+[SetUp "1"]
+
+30... Nh3 31. Nf7+ Rxf7 32. Qxh6 *

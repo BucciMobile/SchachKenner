@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04O8q"]
+[Difficulty "medium"]
+[Rating "1210"]
+[Themes "crushing deflection master middlegame short"]
+[GameUrl "https://lichess.org/game/IWH1uBLk/black#54"]
+[Solution "e7f6 h3h7 g7h7 f5f6"]
+[SolutionSAN "Qf6 Rxh7+ Kxh7 Qxf6"]
+[FEN "r3r3/1b2qpkp/p2p2n1/1ppPpQ2/4P1P1/1BP4R/PP3PP1/R5K1 b - - 4 27"]
+[SetUp "1"]
+
+27... Qf6 28. Rxh7+ Kxh7 29. Qxf6 *

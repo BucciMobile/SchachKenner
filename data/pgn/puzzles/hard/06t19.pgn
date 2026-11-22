@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06t19"]
+[Difficulty "hard"]
+[Rating "2192"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/28lKw08v#75"]
+[Solution "a1g1 g4g1 h1g1 d8d1 c3e1 d1e1"]
+[SolutionSAN "Rg1 Qxg1+ Kxg1 Rd1+ Qe1 Rxe1#"]
+[FEN "3r2k1/p7/6p1/8/6q1/1PQ2p2/P4P1P/R6K w - - 0 38"]
+[SetUp "1"]
+
+38. Rg1 Qxg1+ 39. Kxg1 Rd1+ 40. Qe1 Rxe1# *

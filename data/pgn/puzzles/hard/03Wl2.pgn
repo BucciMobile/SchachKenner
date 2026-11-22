@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Wl2"]
+[Difficulty "hard"]
+[Rating "1935"]
+[Themes "crushing deflection long middlegame pin"]
+[GameUrl "https://lichess.org/game/8ZUI9GbT#59"]
+[Solution "d6g3 g7g5 h4g4 f7f5 g4f5 f2g3"]
+[SolutionSAN "Qg3 g5+ Kg4 f5+ Kxf5 Qxg3"]
+[FEN "6k1/pb1p1pp1/1p1Q4/3P4/7K/P1N2B1P/1n3qP1/4R3 w - - 1 30"]
+[SetUp "1"]
+
+30. Qg3 g5+ 31. Kg4 f5+ 32. Kxf5 Qxg3 *

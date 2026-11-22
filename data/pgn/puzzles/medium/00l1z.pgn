@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00l1z"]
+[Difficulty "medium"]
+[Rating "1278"]
+[Themes "advancedPawn advantage endgame master short"]
+[GameUrl "https://lichess.org/game/rxdwGjw0#89"]
+[Solution "h5g5 f3g5 h4g5 g3g2"]
+[SolutionSAN "Rg5 Nxg5 hxg5 g2"]
+[FEN "8/8/2p5/7R/2B4P/KP2knp1/P1P5/8 w - - 0 45"]
+[SetUp "1"]
+
+45. Rg5 Nxg5 46. hxg5 g2 *

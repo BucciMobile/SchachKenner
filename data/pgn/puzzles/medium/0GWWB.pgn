@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GWWB"]
+[Difficulty "medium"]
+[Rating "1293"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/H6VwNHnJ#47"]
+[Solution "e2d3 g4e5"]
+[SolutionSAN "Kd3 Ne5#"]
+[FEN "r4rk1/p4ppp/8/3p4/3N2n1/2P1PRb1/PPQ1K3/RNB1q3 w - - 10 24"]
+[SetUp "1"]
+
+24. Kd3 Ne5# *

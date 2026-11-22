@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "015zy"]
+[Difficulty "hard"]
+[Rating "2157"]
+[Themes "crushing endgame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/yaVqimDk#95"]
+[Solution "f6f7 h7f7 e6f7 e8f7 h5h6 f7g8 g6e5 g8h7"]
+[SolutionSAN "f7+ Rxf7 exf7+ Kxf7 h6 Kg8 Ne5 Kh7"]
+[FEN "4k3/7r/4PPN1/p5KP/8/p1P5/2P4P/8 w - - 0 48"]
+[SetUp "1"]
+
+48. f7+ Rxf7 49. exf7+ Kxf7 50. h6 Kg8 51. Ne5 Kh7 *

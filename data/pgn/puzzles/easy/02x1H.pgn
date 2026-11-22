@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02x1H"]
+[Difficulty "easy"]
+[Rating "841"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/H4ibUvvK#45"]
+[Solution "d3d4 g5g2"]
+[SolutionSAN "d4 Qxg2#"]
+[FEN "3rr1k1/p4ppp/1pp5/3bP1q1/8/2PP3P/PP2QBP1/R4RK1 w - - 2 23"]
+[SetUp "1"]
+
+23. d4 Qxg2# *

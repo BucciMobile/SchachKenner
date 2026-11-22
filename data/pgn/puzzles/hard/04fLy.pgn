@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04fLy"]
+[Difficulty "hard"]
+[Rating "1882"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/Vs1Ui1jI/black#60"]
+[Solution "f1f2 d4f2 h7h6 f2c5"]
+[SolutionSAN "Qxf2 Bxf2 h6 Bc5+"]
+[FEN "2r4r/1p1bkpQp/4p1p1/pP1nP3/P2B3P/5N2/5RPK/5q2 b - - 9 30"]
+[SetUp "1"]
+
+30... Qxf2 31. Bxf2 h6 32. Bc5+ *

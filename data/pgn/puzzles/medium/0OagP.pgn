@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OagP"]
+[Difficulty "medium"]
+[Rating "1431"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/BwfzvgmA/black#76"]
+[Solution "a2e2 e5h8"]
+[SolutionSAN "Re2 Qh8#"]
+[FEN "8/p4p2/1p4pk/2p1Q2p/7P/2P2qP1/r4P2/5RK1 b - - 0 38"]
+[SetUp "1"]
+
+38... Re2 39. Qh8# *

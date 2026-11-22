@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03XMk"]
+[Difficulty "easy"]
+[Rating "550"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/WkGPZ2h1/black#62"]
+[Solution "b7a6 d3a6"]
+[SolutionSAN "bxa6 Qxa6#"]
+[FEN "2kr2r1/Bppq4/R2p3p/4p3/5b2/2PQ3P/2P2PP1/5RK1 b - - 0 31"]
+[SetUp "1"]
+
+31... bxa6 32. Qxa6# *

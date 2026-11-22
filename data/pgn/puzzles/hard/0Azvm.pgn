@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Azvm"]
+[Difficulty "hard"]
+[Rating "1849"]
+[Themes "attraction deflection mate mateIn4 middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/Vi6UCQbN/black#62"]
+[Solution "e8e3 h6h7 g7h7 a2f7 h7h8 g1h1 e3h3 h1h3"]
+[SolutionSAN "Rxe3 Rh7+ Kxh7 Qxf7+ Kh8 Rh1+ Rh3 Rxh3#"]
+[FEN "2r1r3/p4pk1/1n1q2pR/1P4P1/1P3p2/P3P3/Q1b1B3/4K1R1 b - - 1 31"]
+[SetUp "1"]
+
+31... Rxe3 32. Rh7+ Kxh7 33. Qxf7+ Kh8 34. Rh1+ Rh3 35. Rxh3# *

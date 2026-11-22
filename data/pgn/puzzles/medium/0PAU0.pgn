@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0PAU0"]
+[Difficulty "medium"]
+[Rating "1429"]
+[Themes "backRankMate fork long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/UWhALfwN/black#36"]
+[Solution "f8b8 b7b8 c6b8 d1d8 f6e8 d8e8"]
+[SolutionSAN "Rb8 Qxb8+ Nxb8 Rd8+ Ne8 Rxe8#"]
+[FEN "5rk1/pQ3ppp/2n1pn2/8/8/4B3/PPP1NPqP/2KR4 b - - 0 18"]
+[SetUp "1"]
+
+18... Rb8 19. Qxb8+ Nxb8 20. Rd8+ Ne8 21. Rxe8# *

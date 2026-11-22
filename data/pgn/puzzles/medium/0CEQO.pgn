@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CEQO"]
+[Difficulty "medium"]
+[Rating "1611"]
+[Themes "advantage deflection long middlegame"]
+[GameUrl "https://lichess.org/game/QlCFIirZ/black#46"]
+[Solution "c8c3 a4e8 g8h7 g2e4 f7f5 e8e6"]
+[SolutionSAN "Rxc3 Qe8+ Kh7 Be4+ f5 Qxe6"]
+[FEN "2r3k1/p4pp1/4b2p/6q1/Q4R2/2P3P1/Pr3PBP/R5K1 b - - 5 23"]
+[SetUp "1"]
+
+23... Rxc3 24. Qe8+ Kh7 25. Be4+ f5 26. Qxe6 *

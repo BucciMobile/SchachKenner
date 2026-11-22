@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B1aF"]
+[Difficulty "easy"]
+[Rating "867"]
+[Themes "backRankMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/3fpNavJv#35"]
+[Solution "c3d5 a8a1"]
+[SolutionSAN "Nd5 Ra1#"]
+[FEN "r2q1rk1/2pn1ppb/2np3p/4p1PP/1p2P3/2NPPN2/1PPQB3/2K3RR w - - 0 18"]
+[SetUp "1"]
+
+18. Nd5 Ra1# *

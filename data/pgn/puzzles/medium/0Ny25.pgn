@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ny25"]
+[Difficulty "medium"]
+[Rating "1668"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/moCb4IjA/black#70"]
+[Solution "c8d8 e7f6"]
+[SolutionSAN "Rxd8 Qf6#"]
+[FEN "2rR3k/1b2Q2p/p5p1/1p2Pp2/5P1P/P7/BP3qP1/7K b - - 1 35"]
+[SetUp "1"]
+
+35... Rxd8 36. Qf6# *

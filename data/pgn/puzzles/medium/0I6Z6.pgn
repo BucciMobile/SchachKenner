@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I6Z6"]
+[Difficulty "medium"]
+[Rating "1395"]
+[Themes "crushing long middlegame pin sacrifice"]
+[GameUrl "https://lichess.org/game/ITNY5hsQ#61"]
+[Solution "d1f1 e5e3 d2e3 f6g5 e3g5 g3g5"]
+[SolutionSAN "Rdf1 Rxe3 Qxe3 Bg5 Qxg5 Qxg5+"]
+[FEN "6k1/1pp3p1/p2p1b2/3Pr3/P7/1PP1Bbq1/3Q1R2/2KR4 w - - 0 31"]
+[SetUp "1"]
+
+31. Rdf1 Rxe3 32. Qxe3 Bg5 33. Qxg5 Qxg5+ *

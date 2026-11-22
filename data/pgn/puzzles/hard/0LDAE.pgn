@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LDAE"]
+[Difficulty "hard"]
+[Rating "2432"]
+[Themes "bishopEndgame crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/UCCAMhnx#113"]
+[Solution "h3g4 h5g4 d3e2 g4g3 b4b5 d6c7"]
+[SolutionSAN "hxg4 hxg4 Ke2 g3 b5 Bc7"]
+[FEN "8/8/2Pb4/7p/1P3kp1/3K3P/P7/8 w - - 1 57"]
+[SetUp "1"]
+
+57. hxg4 hxg4 58. Ke2 g3 59. b5 Bc7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00EUu"]
+[Difficulty "hard"]
+[Rating "2474"]
+[Themes "crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/u5HjwjcV/black#124"]
+[Solution "h1h6 g6h6 c2c1q g4g5 c1c6 h6g7"]
+[SolutionSAN "Rh6+ Kxh6 c1=Q+ g5 Qc6+ Kg7"]
+[FEN "8/5P1P/1p4K1/8/6P1/8/2p5/k6r b - - 0 62"]
+[SetUp "1"]
+
+62... Rh6+ 63. Kxh6 c1=Q+ 64. g5 Qc6+ 65. Kg7 *

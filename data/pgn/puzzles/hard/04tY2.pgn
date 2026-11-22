@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04tY2"]
+[Difficulty "hard"]
+[Rating "2025"]
+[Themes "crushing defensiveMove endgame long sacrifice"]
+[GameUrl "https://lichess.org/game/MjshIZST#75"]
+[Solution "g4g5 c4f4 f2e3 f4f6 g5f6 c2b1"]
+[SolutionSAN "g5 Rf4+ Ke3 Rxf6 gxf6 Bb1"]
+[FEN "6k1/8/5B2/2p5/2r3P1/7P/p1b2K2/2R5 w - - 0 38"]
+[SetUp "1"]
+
+38. g5 Rf4+ 39. Ke3 Rxf6 40. gxf6 Bb1 *

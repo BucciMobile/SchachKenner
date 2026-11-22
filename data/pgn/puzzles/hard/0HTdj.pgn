@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HTdj"]
+[Difficulty "hard"]
+[Rating "2585"]
+[Themes "crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/uo5fapvI/black#62"]
+[Solution "f8e7 h6h7 c1h1 h2g3 b1b3 g3g4"]
+[SolutionSAN "Ke7 Qh7 Qh1+ Kg3 Rb3+ Kg4"]
+[FEN "5k2/p4p2/4pR1Q/3pP3/5P1P/8/6PK/1rq5 b - - 4 31"]
+[SetUp "1"]
+
+31... Ke7 32. Qh7 Qh1+ 33. Kg3 Rb3+ 34. Kg4 *

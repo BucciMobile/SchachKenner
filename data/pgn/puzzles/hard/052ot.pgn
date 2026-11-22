@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "052ot"]
+[Difficulty "hard"]
+[Rating "2384"]
+[Themes "crushing endgame interference queenEndgame veryLong"]
+[GameUrl "https://lichess.org/game/BXQc98QP/black#80"]
+[Solution "e7d6 g5d8 d6c5 d8a5 b7b5 a5a7 c5d6 a7b8"]
+[SolutionSAN "Kd6 Qd8+ Kc5 Qxa5+ b5 Qa7+ Kd6 Qb8+"]
+[FEN "8/1p2k3/2p1p3/p3qpQ1/P7/2P3P1/1PK3P1/8 b - - 13 40"]
+[SetUp "1"]
+
+40... Kd6 41. Qd8+ Kc5 42. Qxa5+ b5 43. Qa7+ Kd6 44. Qb8+ *

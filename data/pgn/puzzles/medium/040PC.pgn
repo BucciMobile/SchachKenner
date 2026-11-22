@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "040PC"]
+[Difficulty "medium"]
+[Rating "1620"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/9LvQfzHQ/black#54"]
+[Solution "c6c5 g4f5 g6f5 f2e3"]
+[SolutionSAN "c5 gxf5+ Kxf5 Kxe3"]
+[FEN "b7/6p1/2p3kp/p4n2/P5P1/N1P1rN1P/5K2/R7 b - - 0 27"]
+[SetUp "1"]
+
+27... c5 28. gxf5+ Kxf5 29. Kxe3 *

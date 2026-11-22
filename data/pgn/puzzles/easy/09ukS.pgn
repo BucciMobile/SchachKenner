@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09ukS"]
+[Difficulty "easy"]
+[Rating "989"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/x9Mv55mA#67"]
+[Solution "f1f2 c4c1 f2f1 c1f1"]
+[SolutionSAN "Rf2 Qc1+ Rf1 Qxf1#"]
+[FEN "8/p1Q2pkp/2p5/8/2q2N1r/8/PP4PP/5R1K w - - 9 34"]
+[SetUp "1"]
+
+34. Rf2 Qc1+ 35. Rf1 Qxf1# *

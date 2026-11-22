@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01lBL"]
+[Difficulty "medium"]
+[Rating "1209"]
+[Themes "advantage fork opening short"]
+[GameUrl "https://lichess.org/game/wO0acWav#19"]
+[Solution "c3e4 d5e4 d3e4 g6e4"]
+[SolutionSAN "Nxe4 dxe4 Bxe4 Bxe4"]
+[FEN "r3kb1r/ppqn1ppp/2p1p1b1/3p4/2PPn3/1PNBPN2/PB3PPP/R2Q1RK1 w kq - 3 10"]
+[SetUp "1"]
+
+10. Nxe4 dxe4 11. Bxe4 Bxe4 *

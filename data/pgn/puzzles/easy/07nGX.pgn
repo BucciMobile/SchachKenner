@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07nGX"]
+[Difficulty "easy"]
+[Rating "949"]
+[Themes "advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/30vlASA3/black#72"]
+[Solution "a5d5 d7f6 g8g7 f6d5"]
+[SolutionSAN "Rd5 Nf6+ Kg7 Nxd5"]
+[FEN "5bk1/3N1p2/4p3/r3P1pp/2R5/6P1/5P1P/6K1 b - - 2 36"]
+[SetUp "1"]
+
+36... Rd5 37. Nf6+ Kg7 38. Nxd5 *

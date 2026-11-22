@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "016ow"]
+[Difficulty "easy"]
+[Rating "703"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/QZ9ccrd5/black#94"]
+[Solution "c2c1q b8d6"]
+[SolutionSAN "c1=Q Bd6#"]
+[FEN "1B3k2/5P2/5K2/7p/P4P1P/8/2p5/8 b - - 0 47"]
+[SetUp "1"]
+
+47... c1=Q 48. Bd6# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DgvD"]
+[Difficulty "easy"]
+[Rating "902"]
+[Themes "crushing deflection endgame short"]
+[GameUrl "https://lichess.org/game/JrnHBifm/black#52"]
+[Solution "c8d7 b3a4 d7c7 f7e7"]
+[SolutionSAN "Kd7 Ba4+ Kc7 Qxe7+"]
+[FEN "2kr4/pp2bQ2/4p1p1/8/2P2PP1/PB5P/KP6/7q b - - 0 26"]
+[SetUp "1"]
+
+26... Kd7 27. Ba4+ Kc7 28. Qxe7+ *

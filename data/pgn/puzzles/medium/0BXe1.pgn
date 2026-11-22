@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BXe1"]
+[Difficulty "medium"]
+[Rating "1578"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/tftvsSfL#71"]
+[Solution "e4d6 d4d2 e2d2 f4d2"]
+[SolutionSAN "Nxd6 Rd2 Qxd2 Bxd2"]
+[FEN "8/6k1/p2p2p1/3Pp2p/3rNb1r/5P1q/P3Q1RP/4R1K1 w - - 2 36"]
+[SetUp "1"]
+
+36. Nxd6 Rd2 37. Qxd2 Bxd2 *

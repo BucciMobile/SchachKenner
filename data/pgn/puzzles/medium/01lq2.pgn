@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01lq2"]
+[Difficulty "medium"]
+[Rating "1485"]
+[Themes "crushing master middlegame pin short"]
+[GameUrl "https://lichess.org/game/KEjSZUXg/black#38"]
+[Solution "g8f7 c6e5 f7g8 e5g4"]
+[SolutionSAN "Kf7 Nxe5+ Kg8 Nxg4"]
+[FEN "r4rk1/p5pp/1bN2p2/3Rp3/2P3b1/1P6/PB4PP/5R1K b - - 0 19"]
+[SetUp "1"]
+
+19... Kf7 20. Nxe5+ Kg8 21. Nxg4 *

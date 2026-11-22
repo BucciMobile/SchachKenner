@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K2bP"]
+[Difficulty "medium"]
+[Rating "1425"]
+[Themes "endgame long master mate mateIn3 rookEndgame"]
+[GameUrl "https://lichess.org/game/WoSf2FfE/black#84"]
+[Solution "h1f1 f5g6 f1f3 c7c8 f3f8 c8f8"]
+[SolutionSAN "Rf1 Kg6 Rxf3 Rc8+ Rf8 Rxf8#"]
+[FEN "7k/2R3p1/7p/1p3K2/6P1/P4P2/8/7r b - - 2 42"]
+[SetUp "1"]
+
+42... Rf1 43. Kg6 Rxf3 44. Rc8+ Rf8 45. Rxf8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05nFU"]
+[Difficulty "easy"]
+[Rating "1125"]
+[Themes "crushing hangingPiece middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/cccqDAn5/black#52"]
+[Solution "g8g6 f6h8 c7d8 h8d8"]
+[SolutionSAN "Rg6 Qxh8+ Qd8 Qxd8+"]
+[FEN "2k3rr/1pq2p2/p1pbpQ2/P4p1p/2P5/8/1PP2PP1/3RR2K b - - 3 26"]
+[SetUp "1"]
+
+26... Rg6 27. Qxh8+ Qd8 28. Qxd8+ *

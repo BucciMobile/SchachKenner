@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HtMe"]
+[Difficulty "medium"]
+[Rating "1362"]
+[Themes "advancedPawn crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/94THNDyX/black#80"]
+[Solution "e1b4 d5c6 d7f7 d6d7 f7f6 c6c7"]
+[SolutionSAN "Bb4 Kc6 Rf7 d7 Rf6+ Kc7"]
+[FEN "k7/3r2pp/1p1P4/pP1K4/P7/3R2P1/7P/4b3 b - - 1 40"]
+[SetUp "1"]
+
+40... Bb4 41. Kc6 Rf7 42. d7 Rf6+ 43. Kc7 *

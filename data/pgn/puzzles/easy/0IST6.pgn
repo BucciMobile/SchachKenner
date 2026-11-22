@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IST6"]
+[Difficulty "easy"]
+[Rating "1171"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/mF6icuuk/black#110"]
+[Solution "c8c5 a7a6 e6e5 a6f6"]
+[SolutionSAN "Rxc5 Ra6+ Ke5 Rxf6"]
+[FEN "2r5/R5P1/4knK1/2P5/8/8/8/8 b - - 2 55"]
+[SetUp "1"]
+
+55... Rxc5 56. Ra6+ Ke5 57. Rxf6 *

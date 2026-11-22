@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JSmH"]
+[Difficulty "easy"]
+[Rating "952"]
+[Themes "advantage endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/LF5mt0gP/black#70"]
+[Solution "e5e4 f3e4 f5e4 d3e3"]
+[SolutionSAN "e4+ fxe4+ fxe4+ Ke3"]
+[FEN "8/8/p7/2pkpp1p/8/PP1K1PPP/8/8 b - - 0 35"]
+[SetUp "1"]
+
+35... e4+ 36. fxe4+ fxe4+ 37. Ke3 *

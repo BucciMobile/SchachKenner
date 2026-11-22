@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03zaB"]
+[Difficulty "medium"]
+[Rating "1603"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/PZFltXdy#43"]
+[Solution "e4d4 g7d4 g1h1 f5g5"]
+[SolutionSAN "Qxd4 Bxd4+ Kh1 Rxg5"]
+[FEN "rn6/1ppk2b1/p2p2p1/3P1rB1/3qQ2p/P1N5/1PP3PP/R4RK1 w - - 4 22"]
+[SetUp "1"]
+
+22. Qxd4 Bxd4+ 23. Kh1 Rxg5 *

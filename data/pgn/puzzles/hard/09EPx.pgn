@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09EPx"]
+[Difficulty "hard"]
+[Rating "2216"]
+[Themes "advantage opening veryLong"]
+[GameUrl "https://lichess.org/game/jdfKVEt1#19"]
+[Solution "f1c4 f8d6 c4e2 e6d5 c7c8 a8c8 e4d5 c8c2"]
+[SolutionSAN "Bc4 Bd6 Be2 Qxd5 Qxc8+ Rxc8 exd5 Rxc2"]
+[FEN "r1b1kb1r/ppQp1pp1/4q2p/3Nn3/4P3/8/PPP2PPP/R3KBNR w KQkq - 2 10"]
+[SetUp "1"]
+
+10. Bc4 Bd6 11. Be2 Qxd5 12. Qxc8+ Rxc8 13. exd5 Rxc2 *

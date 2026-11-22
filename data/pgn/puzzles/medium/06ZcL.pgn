@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06ZcL"]
+[Difficulty "medium"]
+[Rating "1493"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/E95uSpS1/black#66"]
+[Solution "g8g6 c2e2 g6g3 e2e3 g3g2 h2g2"]
+[SolutionSAN "Rg6 Re2 Rxg3 Rxe3 Rxg2+ Kxg2"]
+[FEN "1k4r1/p1p4p/1p1p1B2/1P5r/P1P2P2/4q1PP/2R3QK/8 b - - 1 33"]
+[SetUp "1"]
+
+33... Rg6 34. Re2 Rxg3 35. Rxe3 Rxg2+ 36. Kxg2 *

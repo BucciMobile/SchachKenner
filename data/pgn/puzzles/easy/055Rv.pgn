@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "055Rv"]
+[Difficulty "easy"]
+[Rating "1090"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/cf56mvI6/black#64"]
+[Solution "e4b1 d4d6 e7d6 d2d6"]
+[SolutionSAN "Qb1 Rd6+ Bxd6 Qxd6#"]
+[FEN "8/4bp2/p3k3/4Ppp1/1PPRqP2/8/3Q1KP1/r7 b - - 0 32"]
+[SetUp "1"]
+
+32... Qb1 33. Rd6+ Bxd6 34. Qxd6# *

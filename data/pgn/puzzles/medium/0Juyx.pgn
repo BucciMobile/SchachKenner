@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Juyx"]
+[Difficulty "medium"]
+[Rating "1549"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/Zk1qo3J4#59"]
+[Solution "c2f2 c4d6 e6d6 e7d6"]
+[SolutionSAN "Rf2 Nd6+ Qxd6 exd6"]
+[FEN "5k2/p3p2p/4Q3/2pP1KP1/1qn5/4P2P/PbR3P1/8 w - - 10 30"]
+[SetUp "1"]
+
+30. Rf2 Nd6+ 31. Qxd6 exd6 *

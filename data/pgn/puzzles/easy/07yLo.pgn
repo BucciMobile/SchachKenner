@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07yLo"]
+[Difficulty "easy"]
+[Rating "1075"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/22RsqJcL#57"]
+[Solution "e1e2 d8d1 e2e1 d1e1"]
+[SolutionSAN "Re2 Rd1+ Re1 Rxe1#"]
+[FEN "3r2k1/4bpp1/4p2p/p7/1p2N3/1P6/P1P2PPP/4R1K1 w - - 0 29"]
+[SetUp "1"]
+
+29. Re2 Rd1+ 30. Re1 Rxe1# *

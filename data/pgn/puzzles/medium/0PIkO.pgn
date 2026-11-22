@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0PIkO"]
+[Difficulty "medium"]
+[Rating "1647"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/rKZdHz16#51"]
+[Solution "g1h1 a8d8 d6d8 f8d8 d1d8 g8g7"]
+[SolutionSAN "Kh1 Rad8 Qxd8 Rxd8 Rxd8+ Kg7"]
+[FEN "r4rk1/1p6/p1pQ1p1R/6p1/2P5/1P2q1P1/P5PP/3R2K1 w - - 1 26"]
+[SetUp "1"]
+
+26. Kh1 Rad8 27. Qxd8 Rxd8 28. Rxd8+ Kg7 *

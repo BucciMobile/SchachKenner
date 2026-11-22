@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03oA5"]
+[Difficulty "easy"]
+[Rating "1058"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/MEZBxnHJ#31"]
+[Solution "b5d6 f8d6 f4d6 f6e4 d2e1 e4d6"]
+[SolutionSAN "Nd6+ Bxd6 Bxd6 Ne4+ Ke1 Nxd6"]
+[FEN "r3kb1r/pp1b1ppp/n3pn2/1N6/2P2B2/4PN2/PP1K1PPP/R4B1R w kq - 0 16"]
+[SetUp "1"]
+
+16. Nd6+ Bxd6 17. Bxd6 Ne4+ 18. Ke1 Nxd6 *

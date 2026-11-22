@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05zkW"]
+[Difficulty "easy"]
+[Rating "960"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/HMA5xzY3#29"]
+[Solution "e3d4 f6d4 g1h1 d4a1"]
+[SolutionSAN "exd4 Bxd4+ Kh1 Bxa1"]
+[FEN "r1b2rk1/pp4pp/1q2pb2/1P1p4/3n4/P2BPN2/6PP/RN1Q1RK1 w - - 0 15"]
+[SetUp "1"]
+
+15. exd4 Bxd4+ 16. Kh1 Bxa1 *

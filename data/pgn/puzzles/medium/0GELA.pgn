@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GELA"]
+[Difficulty "medium"]
+[Rating "1460"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/UpTmyIwj#59"]
+[Solution "e7c7 g6b6 d3d4 b6c7"]
+[SolutionSAN "Rxc7 Qb6+ d4 Qxc7"]
+[FEN "r5k1/2p1Rpr1/p5qp/1p6/4P3/2PP1Q1P/PP4P1/5RK1 w - - 2 30"]
+[SetUp "1"]
+
+30. Rxc7 Qb6+ 31. d4 Qxc7 *

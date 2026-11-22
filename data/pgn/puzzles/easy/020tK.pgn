@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "020tK"]
+[Difficulty "easy"]
+[Rating "1184"]
+[Themes "crushing endgame knightEndgame long"]
+[GameUrl "https://lichess.org/game/IB0VTTpi/black#102"]
+[Solution "f5d4 e4d6 f7f8 e5e6 d4e6 d7e6"]
+[SolutionSAN "Nd4 Nd6+ Kf8 e6 Nxe6 Kxe6"]
+[FEN "8/3K1kp1/7p/4Pn1P/4N3/8/8/8 b - - 4 51"]
+[SetUp "1"]
+
+51... Nd4 52. Nd6+ Kf8 53. e6 Nxe6 54. Kxe6 *

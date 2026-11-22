@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NIVI"]
+[Difficulty "medium"]
+[Rating "1336"]
+[Themes "advantage endgame hangingPiece intermezzo short"]
+[GameUrl "https://lichess.org/game/Ux1OW3Ed/black#36"]
+[Solution "f7b3 d1d8 g8f7 a2b3"]
+[SolutionSAN "Qxb3 Rxd8+ Kf7 axb3"]
+[FEN "r1br2k1/p4qpp/2p5/1p2P3/4pP2/1Q2P2P/PP2K1P1/3R3R b - - 1 18"]
+[SetUp "1"]
+
+18... Qxb3 19. Rxd8+ Kf7 20. axb3 *

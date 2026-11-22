@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fbol"]
+[Difficulty "hard"]
+[Rating "2011"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/O8QADCna#53"]
+[Solution "h2g3 h4h3 g3h3 f2d2 b3b8 g8f7"]
+[SolutionSAN "Kg3 Rxh3+ Kxh3 Rxd2 Qb8+ Kf7"]
+[FEN "6k1/p1p3pp/2p5/3qP3/3P3r/1Q5R/P2N1r1K/R7 w - - 4 27"]
+[SetUp "1"]
+
+27. Kg3 Rxh3+ 28. Kxh3 Rxd2 29. Qb8+ Kf7 *

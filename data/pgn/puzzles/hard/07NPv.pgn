@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07NPv"]
+[Difficulty "hard"]
+[Rating "2286"]
+[Themes "advantage endgame long quietMove"]
+[GameUrl "https://lichess.org/game/GhwKKNjI#73"]
+[Solution "g2h3 h6h5 a7a8 g5g4 f5g4 h5g4"]
+[SolutionSAN "Kh3 h5 Ra8 g4+ Bxg4 hxg4+"]
+[FEN "8/R2Pk3/5p1p/2p2Bp1/2Pb4/6P1/Pr4KP/8 w - - 3 37"]
+[SetUp "1"]
+
+37. Kh3 h5 38. Ra8 g4+ 39. Bxg4 hxg4+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03CZE"]
+[Difficulty "hard"]
+[Rating "1779"]
+[Themes "attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/M6jpbGRG/black#30"]
+[Solution "e5f4 h1h7 h8h7 f3h1 c8h3 h1h3 h7g7 h3h6"]
+[SolutionSAN "exf4 Rxh7+ Kxh7 Qh1+ Bh3 Qxh3+ Kg7 Qh6#"]
+[FEN "r1bq1r1k/2p1b2p/p1np2p1/1p2p1P1/n3PN2/P1PP1Q2/BP3P2/RNB1K2R b KQ - 1 15"]
+[SetUp "1"]
+
+15... exf4 16. Rxh7+ Kxh7 17. Qh1+ Bh3 18. Qxh3+ Kg7 19. Qh6# *

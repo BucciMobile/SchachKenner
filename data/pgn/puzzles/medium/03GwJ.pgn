@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03GwJ"]
+[Difficulty "medium"]
+[Rating "1508"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/dxCZgOjC/black#50"]
+[Solution "e6e5 c1c4 c5c4 e2c4"]
+[SolutionSAN "e5 Rxc4 Qxc4 Qxc4+"]
+[FEN "2kr1r2/p6p/4p1p1/2q5/2pp4/8/P3QPPP/2R2RK1 b - - 1 25"]
+[SetUp "1"]
+
+25... e5 26. Rxc4 Qxc4 27. Qxc4+ *

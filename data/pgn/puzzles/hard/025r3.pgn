@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "025r3"]
+[Difficulty "hard"]
+[Rating "2575"]
+[Themes "advancedPawn advantage clearance endgame promotion quietMove veryLong"]
+[GameUrl "https://lichess.org/game/mdjZ21t2/black#64"]
+[Solution "e3g3 a7c8 e7f8 g4e2 f8g7 c8b6 c5b6 c7c8q g3g1 d1d2 g1a1 c8g4"]
+[SolutionSAN "Rxg3 Nc8+ Kf8 Be2 Kg7 Nxb6 Bxb6 c8=Q Rg1+ Kd2 Rxa1 Qg4+"]
+[FEN "8/N1P1kp2/1p3p2/2b5/4P1B1/P3r1P1/1P3r2/R2K4 b - - 5 32"]
+[SetUp "1"]
+
+32... Rxg3 33. Nc8+ Kf8 34. Be2 Kg7 35. Nxb6 Bxb6 36. c8=Q Rg1+ 37. Kd2 Rxa1 38. Qg4+ *

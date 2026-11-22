@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ykT"]
+[Difficulty "easy"]
+[Rating "1003"]
+[Themes "advantage defensiveMove endgame fork long"]
+[GameUrl "https://lichess.org/game/MChnoidW#59"]
+[Solution "a3c5 e4e1 b1a2 e1d2 c5b5 b8c8"]
+[SolutionSAN "Qc5 Qe1+ Ka2 Qxd2 Qb5+ Kc8"]
+[FEN "1k6/2pr1p2/6p1/p3P2p/P2PqP2/Q5P1/1PPR2P1/1K6 w - - 9 30"]
+[SetUp "1"]
+
+30. Qc5 Qe1+ 31. Ka2 Qxd2 32. Qb5+ Kc8 *

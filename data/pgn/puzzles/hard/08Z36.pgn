@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Z36"]
+[Difficulty "hard"]
+[Rating "2005"]
+[Themes "advancedPawn crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/ze61Rrdc/black#118"]
+[Solution "c3c2 h5h6 g7h6 f5f6 c4c3 f6f7"]
+[SolutionSAN "Kc2 h6 gxh6 f6 c3 f7"]
+[FEN "8/6pp/8/5P1P/2p3P1/2k1K3/8/8 b - - 0 59"]
+[SetUp "1"]
+
+59... Kc2 60. h6 gxh6 61. f6 c3 62. f7 *

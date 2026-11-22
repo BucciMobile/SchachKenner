@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03bxv"]
+[Difficulty "hard"]
+[Rating "1738"]
+[Themes "endgame mate mateIn4 sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/LJqZYXGA/black#62"]
+[Solution "g7h8 e5f7 f5f7 c5d4 e6e5 d4e5 f7f6 e5f6"]
+[SolutionSAN "Kh8 Nxf7+ Qxf7 Bd4+ e5 Bxe5+ Qf6 Bxf6#"]
+[FEN "r1r5/p4pkp/4p3/2BpNq2/1P6/5P2/4K3/6Q1 b - - 1 31"]
+[SetUp "1"]
+
+31... Kh8 32. Nxf7+ Qxf7 33. Bd4+ e5 34. Bxe5+ Qf6 35. Bxf6# *

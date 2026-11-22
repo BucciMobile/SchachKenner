@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08chX"]
+[Difficulty "medium"]
+[Rating "1656"]
+[Themes "advantage middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/RJlF528u/black#30"]
+[Solution "e4c3 d1d3 c3e2 d3e2"]
+[SolutionSAN "Nc3 Qd3 Ne2+ Qxe2"]
+[FEN "r2q1rk1/ppp2ppp/2n5/3pP3/3PnB2/5P2/P1B2P1P/R2Q1RK1 b - - 0 15"]
+[SetUp "1"]
+
+15... Nc3 16. Qd3 Ne2+ 17. Qxe2 *

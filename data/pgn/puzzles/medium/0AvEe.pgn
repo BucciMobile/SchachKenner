@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AvEe"]
+[Difficulty "medium"]
+[Rating "1635"]
+[Themes "advantage master masterVsMaster middlegame short superGM"]
+[GameUrl "https://lichess.org/game/cJ3cFghd#69"]
+[Solution "f3f5 g5f5 d5f4 e4c5"]
+[SolutionSAN "Qxf5 Rxf5 Nf4 Nxc5"]
+[FEN "r7/1p6/2p2p1k/p1RN1qr1/3Pn2p/1P2PQ2/P4PP1/3R1K2 w - - 1 35"]
+[SetUp "1"]
+
+35. Qxf5 Rxf5 36. Nf4 Nxc5 *

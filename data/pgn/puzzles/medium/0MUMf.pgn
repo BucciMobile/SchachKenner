@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MUMf"]
+[Difficulty "medium"]
+[Rating "1366"]
+[Themes "endgame epauletteMate hookMate mate mateIn2 queensideAttack short"]
+[GameUrl "https://lichess.org/game/j7tXR7ky/black#70"]
+[Solution "g8d8 d1d8 c8b7 d8b8"]
+[SolutionSAN "Rxd8 Rxd8+ Kb7 Rb8#"]
+[FEN "2kQ2r1/p1p5/1pN2Bp1/1P3b1p/P7/8/2q2PPP/3R2K1 b - - 5 35"]
+[SetUp "1"]
+
+35... Rxd8 36. Rxd8+ Kb7 37. Rb8# *

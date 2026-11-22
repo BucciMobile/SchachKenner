@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ZTT"]
+[Difficulty "hard"]
+[Rating "2194"]
+[Themes "crushing middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/n4signRu#55"]
+[Solution "g2f1 f6e4 f3e4 b3g3"]
+[SolutionSAN "Kf1 Ne4 fxe4 Qxg3"]
+[FEN "6r1/4nk2/2pb1n2/Pp1p1p2/8/Pq3PPB/1B1QP1K1/R1R5 w - - 1 28"]
+[SetUp "1"]
+
+28. Kf1 Ne4 29. fxe4 Qxg3 *

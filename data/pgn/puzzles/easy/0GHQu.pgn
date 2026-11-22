@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GHQu"]
+[Difficulty "easy"]
+[Rating "876"]
+[Themes "discoveredAttack discoveredCheck kingsideAttack master mate mateIn1 middlegame oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/wgwYYEMx#39"]
+[Solution "h2g3 h4g3"]
+[SolutionSAN "Bxg3 hxg3#"]
+[FEN "r3kn1r/ppqbpp2/2pp4/8/1PPbP2p/2NB1Pn1/P1QN2PB/R4R1K w kq - 2 20"]
+[SetUp "1"]
+
+20. Bxg3 hxg3# *

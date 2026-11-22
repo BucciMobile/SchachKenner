@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FGqW"]
+[Difficulty "easy"]
+[Rating "710"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/pjFGJe00/black#22"]
+[Solution "c7c6 d5f7"]
+[SolutionSAN "c6 Qxf7#"]
+[FEN "r1bqk2r/2ppbppp/p7/1p1QPn2/8/1B6/PPP2PPP/RNB1R1K1 b kq - 2 11"]
+[SetUp "1"]
+
+11... c6 12. Qxf7# *

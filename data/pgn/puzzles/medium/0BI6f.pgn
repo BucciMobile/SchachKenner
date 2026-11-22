@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BI6f"]
+[Difficulty "medium"]
+[Rating "1469"]
+[Themes "advantage attraction endgame short"]
+[GameUrl "https://lichess.org/game/ABqwSt1y#73"]
+[Solution "g3g4 h5g4 h3g4 g6h5"]
+[SolutionSAN "g4 hxg4+ Kxg4 Bh5+"]
+[FEN "8/pp2r1k1/2p2pb1/2Ppr2p/1P1N3P/P1R1PRPK/8/8 w - - 2 37"]
+[SetUp "1"]
+
+37. g4 hxg4+ 38. Kxg4 Bh5+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EHJ3"]
+[Difficulty "easy"]
+[Rating "769"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/h2ueEwLJ#49"]
+[Solution "c3d5 b4b2"]
+[SolutionSAN "Nd5 Qxb2#"]
+[FEN "1r6/3bpPk1/p2p2P1/7r/1qp1P2p/2N2N1P/PPPQ4/1K5R w - - 0 25"]
+[SetUp "1"]
+
+25. Nd5 Qxb2# *

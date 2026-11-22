@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02EV3"]
+[Difficulty "easy"]
+[Rating "1000"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/umPHfOMM#53"]
+[Solution "f6e6 a2e6 e1e6 d7e6"]
+[SolutionSAN "Qxe6+ Qxe6 Rxe6 Kxe6"]
+[FEN "2r3r1/p2k3p/3pbQ2/6p1/8/5B2/q1p2PPP/2R1R1K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Qxe6+ Qxe6 28. Rxe6 Kxe6 *

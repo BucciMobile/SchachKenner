@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03sd0"]
+[Difficulty "easy"]
+[Rating "511"]
+[Themes "bishopEndgame crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/ZVzHBm5J#119"]
+[Solution "h1g2 f4f3 g2f3 e4f3"]
+[SolutionSAN "Bg2 f3+ Bxf3 exf3+"]
+[FEN "8/8/8/3k4/p3pp1p/P1P4P/4K3/7B w - - 0 60"]
+[SetUp "1"]
+
+60. Bg2 f3+ 61. Bxf3 exf3+ *

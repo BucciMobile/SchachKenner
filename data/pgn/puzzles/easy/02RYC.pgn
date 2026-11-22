@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02RYC"]
+[Difficulty "easy"]
+[Rating "1115"]
+[Themes "crushing discoveredCheck doubleCheck kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/2W71P5BQ#37"]
+[Solution "f1f6 d4e2 g1f1 e2g3"]
+[SolutionSAN "Rxf6 Ne2+ Kf1 Nxg3+"]
+[FEN "r4rk1/1p3pp1/p3bn1p/2q1p3/3nP3/P1BB2QP/1PP3PN/R4RK1 w - - 2 19"]
+[SetUp "1"]
+
+19. Rxf6 Ne2+ 20. Kf1 Nxg3+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FwLp"]
+[Difficulty "easy"]
+[Rating "601"]
+[Themes "endgame epauletteMate mate mateIn1 oneMove operaMate"]
+[GameUrl "https://lichess.org/game/ES1k7DBU/black#66"]
+[Solution "g8f7 g3g7"]
+[SolutionSAN "Kf7 Rg7#"]
+[FEN "4rrk1/4p2p/p4p1B/1p3P2/1P6/6R1/6PK/8 b - - 0 33"]
+[SetUp "1"]
+
+33... Kf7 34. Rg7# *

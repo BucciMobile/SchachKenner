@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CxxP"]
+[Difficulty "medium"]
+[Rating "1687"]
+[Themes "crushing defensiveMove endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/jJshTF9O#93"]
+[Solution "g3f3 f2f3 g4f3 f6f5 f3g3 f5g5"]
+[SolutionSAN "Rf3 Rxf3 Kxf3 Kxf5 Kg3 Kg5"]
+[FEN "8/6p1/5k2/5P2/6K1/6R1/5r2/8 w - - 18 47"]
+[SetUp "1"]
+
+47. Rf3 Rxf3 48. Kxf3 Kxf5 49. Kg3 Kg5 *

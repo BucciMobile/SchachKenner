@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03NM5"]
+[Difficulty "easy"]
+[Rating "684"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/ElScR53V/black#58"]
+[Solution "c4d5 g4g7"]
+[SolutionSAN "Qxd5 Qxg7#"]
+[FEN "r6k/ppp3pp/8/3P4/2qn2QP/Pn3P1B/KP6/6R1 b - - 1 29"]
+[SetUp "1"]
+
+29... Qxd5 30. Qxg7# *

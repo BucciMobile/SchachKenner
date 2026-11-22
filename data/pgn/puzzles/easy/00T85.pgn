@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00T85"]
+[Difficulty "easy"]
+[Rating "1038"]
+[Themes "endgame master mate mateIn1 oneMove queenEndgame"]
+[GameUrl "https://lichess.org/game/j3dOR5SJ/black#106"]
+[Solution "b2c1 f2d2"]
+[SolutionSAN "Kc1 Qd2#"]
+[FEN "8/8/8/8/8/4K3/1k3Q2/1q6 b - - 5 53"]
+[SetUp "1"]
+
+53... Kc1 54. Qd2# *

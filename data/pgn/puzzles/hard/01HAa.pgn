@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01HAa"]
+[Difficulty "hard"]
+[Rating "1913"]
+[Themes "fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/duha46pd/black#38"]
+[Solution "e7d7 h4g4 d7e7 g4g7"]
+[SolutionSAN "Kd7 Qg4+ Ke7 Qxg7#"]
+[FEN "r1bq3r/1np1k1b1/pp1p3p/3Pp2B/2P1Pp1Q/2N5/PP1N2PP/R4RK1 b - - 5 19"]
+[SetUp "1"]
+
+19... Kd7 20. Qg4+ Ke7 21. Qxg7# *

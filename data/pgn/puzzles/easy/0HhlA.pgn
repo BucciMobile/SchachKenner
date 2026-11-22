@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HhlA"]
+[Difficulty "easy"]
+[Rating "509"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/rs0o7OiY#61"]
+[Solution "e5f6 d8d1 f3e1 d1e1"]
+[SolutionSAN "exf6 Rd1+ Ne1 Rxe1#"]
+[FEN "1b1r2k1/6pp/ppR1ppn1/4P3/1P6/P4N1P/1B3PP1/6K1 w - - 0 31"]
+[SetUp "1"]
+
+31. exf6 Rd1+ 32. Ne1 Rxe1# *

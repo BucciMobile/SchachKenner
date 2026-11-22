@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09UG3"]
+[Difficulty "easy"]
+[Rating "1141"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/OKur6CSZ#65"]
+[Solution "d4e5 d6d1 b3d1 d8d1"]
+[SolutionSAN "dxe5 Qxd1+ Bxd1 Rxd1#"]
+[FEN "3r1k2/5pp1/3q3p/Q3p3/1p1P1n2/1B6/1P3PPP/3R1K2 w - - 0 33"]
+[SetUp "1"]
+
+33. dxe5 Qxd1+ 34. Bxd1 Rxd1# *

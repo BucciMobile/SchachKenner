@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D7jf"]
+[Difficulty "easy"]
+[Rating "714"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/DpxlyEd8#41"]
+[Solution "f3e1 e8e1 f2f1 e1f1"]
+[SolutionSAN "Nxe1 Rxe1+ Rf1 Rexf1#"]
+[FEN "4r1k1/ppp5/2nb2p1/3p1r1p/3P4/1BP2N1Q/PP3RPP/4q1K1 w - - 0 21"]
+[SetUp "1"]
+
+21. Nxe1 Rxe1+ 22. Rf1 Rexf1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "026Br"]
+[Difficulty "hard"]
+[Rating "1766"]
+[Themes "crushing master middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/5nmXyKwm/black#48"]
+[Solution "d5d2 c1c5 d2d1 c5a5"]
+[SolutionSAN "Rd2 Rc5 Rd1 Rxa5"]
+[FEN "3r2k1/p3pp1p/2Q3pb/q2rP3/N4P2/P5P1/7P/2R2R1K b - - 0 24"]
+[SetUp "1"]
+
+24... Rd2 25. Rc5 Rd1 26. Rxa5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BAWl"]
+[Difficulty "medium"]
+[Rating "1215"]
+[Themes "epauletteMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/dTZ5uMWp/black#50"]
+[Solution "b7c8 f1f7"]
+[SolutionSAN "Bc8 Rxf7#"]
+[FEN "4rkr1/1b3pp1/p1npP2p/4b3/Np2P2P/1P5B/P1PB4/2K2RR1 b - - 2 25"]
+[SetUp "1"]
+
+25... Bc8 26. Rxf7# *

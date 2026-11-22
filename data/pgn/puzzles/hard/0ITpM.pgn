@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ITpM"]
+[Difficulty "hard"]
+[Rating "1918"]
+[Themes "crushing endgame long master pin"]
+[GameUrl "https://lichess.org/game/KpKk0lQe#49"]
+[Solution "f1e1 e8e1 h1h2 c5g1 h2g3 e1e3"]
+[SolutionSAN "Rxe1 Rxe1+ Kh2 Qg1+ Kg3 Re3"]
+[FEN "4r1k1/p6p/6p1/2q2p2/8/1P3Q1P/P2R2P1/4rR1K w - - 3 25"]
+[SetUp "1"]
+
+25. Rxe1 Rxe1+ 26. Kh2 Qg1+ 27. Kg3 Re3 *

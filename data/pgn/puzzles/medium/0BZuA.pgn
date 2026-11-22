@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BZuA"]
+[Difficulty "medium"]
+[Rating "1562"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/hQKcoi30/black#72"]
+[Solution "f7e6 h3h7 e7d6 e1d1"]
+[SolutionSAN "fxe6 Rh7+ Kd6 Rd1+"]
+[FEN "2r1r3/p3kp2/1pp1P3/2q2n2/8/7R/PQ3PP1/4R1K1 b - - 0 36"]
+[SetUp "1"]
+
+36... fxe6 37. Rh7+ Kd6 38. Rd1+ *

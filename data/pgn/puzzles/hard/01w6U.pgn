@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01w6U"]
+[Difficulty "hard"]
+[Rating "1995"]
+[Themes "advantage discoveredAttack endgame fork long"]
+[GameUrl "https://lichess.org/game/BZlnJpsT#65"]
+[Solution "h2g4 e5f3 g1g2 f6d4 d1d4 f3d4"]
+[SolutionSAN "Ng4 Nf3+ Kxg2 Qxd4 Rxd4 Nxd4"]
+[FEN "5rk1/1p5p/p2Ppq2/4n1p1/1P1QP3/P6P/5PpN/3R2K1 w - - 0 33"]
+[SetUp "1"]
+
+33. Ng4 Nf3+ 34. Kxg2 Qxd4 35. Rxd4 Nxd4 *

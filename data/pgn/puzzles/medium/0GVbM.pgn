@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GVbM"]
+[Difficulty "medium"]
+[Rating "1457"]
+[Themes "crushing discoveredAttack long middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/Iil7JTVI#47"]
+[Solution "b2c1 e4c3 b1b2 e7e1 f4g2 e1c1"]
+[SolutionSAN "Bc1 Nc3+ Kb2 Rxe1 Ng2+ Rxc1"]
+[FEN "4r3/1p2rp1p/2p4k/p2p1p2/4nN1P/1P4P1/PBP5/1K2R1R1 w - - 0 24"]
+[SetUp "1"]
+
+24. Bc1 Nc3+ 25. Kb2 Rxe1 26. Ng2+ Rxc1 *

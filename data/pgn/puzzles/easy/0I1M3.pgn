@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I1M3"]
+[Difficulty "easy"]
+[Rating "952"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/AqzfOLcG#87"]
+[Solution "c7e7 h4f5 g3f3 f5e7"]
+[SolutionSAN "Rxe7 Nf5+ Kf3 Nxe7"]
+[FEN "r7/2R1bpk1/6p1/1p5p/1P3P1n/P2RP1KP/5P2/8 w - - 12 44"]
+[SetUp "1"]
+
+44. Rxe7 Nf5+ 45. Kf3 Nxe7 *

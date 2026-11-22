@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FWJk"]
+[Difficulty "hard"]
+[Rating "1787"]
+[Themes "crushing long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/H0E9eqRt/black#62"]
+[Solution "b3c3 a3c2 c5d3 d1d3 c3d3 h5g6"]
+[SolutionSAN "Qxc3+ Nc2 Nd3+ Rxd3 Qxd3 Qg6+"]
+[FEN "r5k1/1p3r2/pP1ppP1B/2n1p2Q/4P3/NqP5/5P2/2KR4 b - - 2 31"]
+[SetUp "1"]
+
+31... Qxc3+ 32. Nc2 Nd3+ 33. Rxd3 Qxd3 34. Qg6+ *

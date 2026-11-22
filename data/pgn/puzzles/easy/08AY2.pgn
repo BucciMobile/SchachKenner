@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08AY2"]
+[Difficulty "easy"]
+[Rating "945"]
+[Themes "fork hangingPiece mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/Rj8ejVbS/black#44"]
+[Solution "h8f6 e3e8 d7f8 e8f8"]
+[SolutionSAN "Bxf6 Qxe8+ Nf8 Qxf8#"]
+[FEN "2b1r1kb/r2n1p1p/p4NpB/2pp4/8/4Q3/PqPK1PPP/3R3R b - - 1 22"]
+[SetUp "1"]
+
+22... Bxf6 23. Qxe8+ Nf8 24. Qxf8# *

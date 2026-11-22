@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BzI2"]
+[Difficulty "hard"]
+[Rating "2372"]
+[Themes "crushing kingsideAttack middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/tfmGtdtN/black#28"]
+[Solution "h6f5 g3h3 f5h6 e1e6 f7e6 h3e6 f8f7 e6g6 c6e5 f3e5"]
+[SolutionSAN "Nf5 Qh3 Nh6 Rxe6 fxe6 Qxe6+ Rf7 Qg6 Ne5 Nxe5"]
+[FEN "r2q1rk1/ppp1bpp1/2npb2n/7R/2B5/2N2NQ1/PPP2PPP/2K1R3 b - - 3 14"]
+[SetUp "1"]
+
+14... Nf5 15. Qh3 Nh6 16. Rxe6 fxe6 17. Qxe6+ Rf7 18. Qg6 Ne5 19. Nxe5 *

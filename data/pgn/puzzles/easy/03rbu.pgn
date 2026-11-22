@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03rbu"]
+[Difficulty "easy"]
+[Rating "591"]
+[Themes "advancedPawn advantage endgame knightEndgame long promotion"]
+[GameUrl "https://lichess.org/game/1daeCbkM#83"]
+[Solution "a5c4 h4h3 c4b2 h3h2 b2d3 h2h1q"]
+[SolutionSAN "Nc4 h3 Nb2 h2 Nd3 h1=Q"]
+[FEN "8/8/4k3/N3P3/1P1K1pPp/5P2/8/8 w - - 1 42"]
+[SetUp "1"]
+
+42. Nc4 h3 43. Nb2 h2 44. Nd3 h1=Q *

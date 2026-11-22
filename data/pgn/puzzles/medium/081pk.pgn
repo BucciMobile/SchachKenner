@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "081pk"]
+[Difficulty "medium"]
+[Rating "1343"]
+[Themes "crushing endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/jarPG79K/black#112"]
+[Solution "h5h4 c6b6 b5b6 c7b6"]
+[SolutionSAN "h4 Rb6 Rxb6 Kxb6"]
+[FEN "8/1PK5/2R1pk2/1r3p1p/8/8/8/8 b - - 2 56"]
+[SetUp "1"]
+
+56... h4 57. Rb6 Rxb6 58. Kxb6 *

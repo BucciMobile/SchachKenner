@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gswr"]
+[Difficulty "easy"]
+[Rating "1062"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/4VJoaniT#57"]
+[Solution "d6e7 e4d2 f1e2 d2c4"]
+[SolutionSAN "Bxe7 Nd2+ Ke2 Nxc4"]
+[FEN "4kb1r/p3n1pp/2pB4/8/2QPn3/8/2p2PPP/5K2 w k - 0 29"]
+[SetUp "1"]
+
+29. Bxe7 Nd2+ 30. Ke2 Nxc4 *

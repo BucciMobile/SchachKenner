@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F6O7"]
+[Difficulty "medium"]
+[Rating "1348"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/LjICip0G/black#68"]
+[Solution "a3a2 g3f3 f4f3 g2f3"]
+[SolutionSAN "Raa2 Rf3 Qxf3+ Kxf3"]
+[FEN "8/5kpp/2p5/1p6/1P3q2/r2p2RP/1r3PK1/3RQ3 b - - 3 34"]
+[SetUp "1"]
+
+34... Raa2 35. Rf3 Qxf3+ 36. Kxf3 *

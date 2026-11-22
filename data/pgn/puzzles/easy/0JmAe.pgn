@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JmAe"]
+[Difficulty "easy"]
+[Rating "716"]
+[Themes "hangingPiece master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/Zwc3Px0c/black#26"]
+[Solution "e8f8 d4h8"]
+[SolutionSAN "Kf8 Qxh8#"]
+[FEN "r2qk2r/1b1ppp1p/p3P1pb/Pp6/3Q4/2N2N2/1PP2PPP/R3K2R b KQkq - 0 13"]
+[SetUp "1"]
+
+13... Kf8 14. Qxh8# *

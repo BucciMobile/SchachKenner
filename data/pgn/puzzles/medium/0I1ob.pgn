@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I1ob"]
+[Difficulty "medium"]
+[Rating "1534"]
+[Themes "deflection endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/qI7aLt33/black#62"]
+[Solution "f6d4 e3e8 g7f8 e8f7 g8h8 f7f8"]
+[SolutionSAN "Qxd4 Qe8+ Bf8 Qxf7+ Kh8 Qxf8#"]
+[FEN "6k1/5pbp/p4qp1/1p6/3R4/1B2Q2P/1P3PP1/6K1 b - - 0 31"]
+[SetUp "1"]
+
+31... Qxd4 32. Qe8+ Bf8 33. Qxf7+ Kh8 34. Qxf8# *

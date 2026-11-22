@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BovX"]
+[Difficulty "easy"]
+[Rating "845"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/zSaB0N0l/black#88"]
+[Solution "g4h4 f6f4 h4g3 f4e4"]
+[SolutionSAN "Kxh4 Rf4+ Kg3 Rxe4"]
+[FEN "1r6/8/5Rp1/K1P4p/3Pb1kP/8/8/8 b - - 8 44"]
+[SetUp "1"]
+
+44... Kxh4 45. Rf4+ Kg3 46. Rxe4 *

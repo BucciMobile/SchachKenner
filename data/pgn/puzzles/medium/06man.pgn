@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06man"]
+[Difficulty "medium"]
+[Rating "1368"]
+[Themes "mate mateIn1 middlegame oneMove pin"]
+[GameUrl "https://lichess.org/game/n9zbvpt2/black#44"]
+[Solution "d3e1 e5g6"]
+[SolutionSAN "Nxe1 Ng6#"]
+[FEN "r1bq1r1k/1n4pp/2p5/1p2N2Q/1P6/PB1n3P/3N1bP1/R3R2K b - - 1 22"]
+[SetUp "1"]
+
+22... Nxe1 23. Ng6# *

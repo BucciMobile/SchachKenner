@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ELSQ"]
+[Difficulty "easy"]
+[Rating "944"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/KFOjfbSC/black#44"]
+[Solution "h8f8 e2e4 e8e4 e1e4"]
+[SolutionSAN "Rhf8 Rxe4 Rxe4 Rxe4"]
+[FEN "2k1r2r/2p3p1/p6p/2bP4/4nB2/2P4P/PPK1R1P1/4R3 b - - 3 22"]
+[SetUp "1"]
+
+22... Rhf8 23. Rxe4 Rxe4 24. Rxe4 *

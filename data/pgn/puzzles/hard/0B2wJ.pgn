@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B2wJ"]
+[Difficulty "hard"]
+[Rating "1992"]
+[Themes "advantage long middlegame trappedPiece"]
+[GameUrl "https://lichess.org/game/T9Ad5yaA#35"]
+[Solution "f4c4 c6a5 c3d5 a5c4 d5e7 c4d2"]
+[SolutionSAN "Qc4 Na5 Nd5 Nxc4 Nxe7 Nxd2"]
+[FEN "r3k2r/pp1bq3/1bn2n1p/5pp1/5Q2/2NP1N2/PP1BBPPP/2R2RK1 w kq - 0 18"]
+[SetUp "1"]
+
+18. Qc4 Na5 19. Nd5 Nxc4 20. Nxe7 Nxd2 *

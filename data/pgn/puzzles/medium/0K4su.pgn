@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K4su"]
+[Difficulty "medium"]
+[Rating "1496"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/vDO1Jsig/black#60"]
+[Solution "f5d4 e2c3"]
+[SolutionSAN "Nd4 Nc3#"]
+[FEN "7r/5p2/1pR2p1b/1P1k1n1p/5P2/6P1/4N2P/6K1 b - - 1 30"]
+[SetUp "1"]
+
+30... Nd4 31. Nc3# *

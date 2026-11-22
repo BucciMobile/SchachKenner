@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M3rz"]
+[Difficulty "medium"]
+[Rating "1607"]
+[Themes "advantage kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/lF9u84Hd#27"]
+[Solution "f5e6 d6h2 g1h1 g4f2"]
+[SolutionSAN "fxe6 Bxh2+ Kh1 Nf2+"]
+[FEN "r4rk1/p4ppp/1qpbb3/3p1P2/3N2n1/2N5/PPP3PP/R1BQR1K1 w - - 1 14"]
+[SetUp "1"]
+
+14. fxe6 Bxh2+ 15. Kh1 Nf2+ *

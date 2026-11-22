@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CaUg"]
+[Difficulty "medium"]
+[Rating "1527"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/gze1ZXhY#83"]
+[Solution "e7f7 d2e1 b5f1 e1g3"]
+[SolutionSAN "Qxf7 Qe1+ Bf1 Qxg3+"]
+[FEN "3r4/4Qp2/1p1p3k/pBpP1Ppn/P7/5PRP/1P1q4/6K1 w - - 14 42"]
+[SetUp "1"]
+
+42. Qxf7 Qe1+ 43. Bf1 Qxg3+ *

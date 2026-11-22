@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DY7h"]
+[Difficulty "hard"]
+[Rating "1896"]
+[Themes "advantage defensiveMove long middlegame"]
+[GameUrl "https://lichess.org/game/dweuwteP#53"]
+[Solution "f3e1 d8d4 d1c2 d4d2 c2c8 g8g7"]
+[SolutionSAN "Ne1 Rxd4 Qc2 Rd2 Qc8+ Kg7"]
+[FEN "3r2k1/pp2rp1p/8/8/3P1qp1/1B3N2/PP3PPP/2RQ2K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Ne1 Rxd4 28. Qc2 Rd2 29. Qc8+ Kg7 *

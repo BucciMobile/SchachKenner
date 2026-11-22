@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06uYP"]
+[Difficulty "easy"]
+[Rating "995"]
+[Themes "discoveredCheck doubleCheck epauletteMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/vjT1K9U4#45"]
+[Solution "g1f2 f6d4"]
+[SolutionSAN "Kxf2 Bxd4#"]
+[FEN "5rk1/6p1/nq2pb1p/3p4/1P1P4/P5P1/4PnBP/1N1QR1K1 w - - 0 23"]
+[SetUp "1"]
+
+23. Kxf2 Bxd4# *

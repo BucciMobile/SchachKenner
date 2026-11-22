@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Vgp"]
+[Difficulty "easy"]
+[Rating "1083"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/y6v6hBaU#41"]
+[Solution "e4c3 b8b2 e1g1 b2c3"]
+[SolutionSAN "Nxc3 Qxb2 O-O Qxc3"]
+[FEN "rqr5/5ppk/p3p2p/8/4N2P/2n1BB2/PP3PP1/R3K2R w KQ - 0 21"]
+[SetUp "1"]
+
+21. Nxc3 Qxb2 22. O-O Qxc3 *

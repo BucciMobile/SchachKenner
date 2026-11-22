@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "051VC"]
+[Difficulty "easy"]
+[Rating "997"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/uAyZaNHh#51"]
+[Solution "a4d4 h5f3 g1g2 e8e1"]
+[SolutionSAN "Qd4 Qxf3+ Rg2 Re1#"]
+[FEN "4r2k/ppp2p1B/5p2/7q/Q7/2P2P2/PP3P1P/6RK w - - 7 26"]
+[SetUp "1"]
+
+26. Qd4 Qxf3+ 27. Rg2 Re1# *

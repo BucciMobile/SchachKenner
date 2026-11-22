@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KYnK"]
+[Difficulty "hard"]
+[Rating "1990"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/jduhVz0V#53"]
+[Solution "d2f4 e5d3 c2d3 e6e2"]
+[SolutionSAN "Qf4 Nxd3 cxd3 Rxe2"]
+[FEN "3qr1k1/6p1/1p2r2p/p3np2/3p4/P2P3P/1PPQR1PN/4R1K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Qf4 Nxd3 28. cxd3 Rxe2 *

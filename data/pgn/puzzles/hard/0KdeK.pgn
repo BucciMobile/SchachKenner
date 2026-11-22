@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KdeK"]
+[Difficulty "hard"]
+[Rating "1939"]
+[Themes "advancedPawn endgame mate mateIn2 promotion rookEndgame short"]
+[GameUrl "https://lichess.org/game/MBNW3LYY/black#120"]
+[Solution "a4a3 g6g7 b2b1q g7g8q"]
+[SolutionSAN "a3 g7 b1=Q g8=Q#"]
+[FEN "4k3/1R6/6P1/4K3/p7/8/rp6/8 b - - 1 60"]
+[SetUp "1"]
+
+60... a3 61. g7 b1=Q 62. g8=Q# *

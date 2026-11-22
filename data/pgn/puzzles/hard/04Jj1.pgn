@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Jj1"]
+[Difficulty "hard"]
+[Rating "2114"]
+[Themes "advantage discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/cZAVUAQI/black#62"]
+[Solution "d5e7 f5h6 g8g7 f1f6"]
+[SolutionSAN "Ne7 Nh6+ Kg7 Rxf6"]
+[FEN "r2q1rk1/1p5p/1npBPb2/3n1Np1/pP1P4/P7/3Q2PP/4RRK1 b - - 4 31"]
+[SetUp "1"]
+
+31... Ne7 32. Nh6+ Kg7 33. Rxf6 *

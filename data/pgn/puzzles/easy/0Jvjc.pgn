@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jvjc"]
+[Difficulty "easy"]
+[Rating "1005"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/XBwyAluy#43"]
+[Solution "f4g3 g4e3 f1e2 e3c2"]
+[SolutionSAN "Bg3 Ne3+ Ke2 Nxc2"]
+[FEN "r2r2k1/p1R3pp/1p3p2/2b1p3/5Bn1/5N2/PPB3PP/R4K2 w - - 0 22"]
+[SetUp "1"]
+
+22. Bg3 Ne3+ 23. Ke2 Nxc2 *

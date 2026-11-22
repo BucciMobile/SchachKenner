@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04aTi"]
+[Difficulty "easy"]
+[Rating "1044"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/Y9aE56bH#47"]
+[Solution "f4e5 f2f1 g2f1 f6f1"]
+[SolutionSAN "fxe5 Rf1+ Bxf1 Qxf1#"]
+[FEN "5rk1/1p3ppp/5q2/4b3/Q4P2/6P1/PP3rBP/R1B4K w - - 0 24"]
+[SetUp "1"]
+
+24. fxe5 Rf1+ 25. Bxf1 Qxf1# *

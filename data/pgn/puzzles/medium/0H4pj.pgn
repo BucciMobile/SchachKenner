@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H4pj"]
+[Difficulty "medium"]
+[Rating "1698"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/317vz4oX/black#42"]
+[Solution "h7g5 c1g5"]
+[SolutionSAN "Ng5 Bxg5#"]
+[FEN "r1qk3r/5Q1n/2p1p3/p2p4/Pp1p4/3P4/1PP3Pb/RNB1R2K b - - 1 21"]
+[SetUp "1"]
+
+21... Ng5 22. Bxg5# *

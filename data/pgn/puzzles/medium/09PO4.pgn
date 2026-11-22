@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09PO4"]
+[Difficulty "medium"]
+[Rating "1676"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/4paizdU9/black#36"]
+[Solution "b6b2 d1b1 b2a3 b1b3 a3c5 g5e3"]
+[SolutionSAN "Qxb2 Rb1 Qa3 Rb3 Qc5 Be3"]
+[FEN "2rr2k1/1p3pb1/pqbp1np1/4p1Bp/P3P2P/2N2P2/1PPQB1P1/3R1R1K b - - 5 18"]
+[SetUp "1"]
+
+18... Qxb2 19. Rb1 Qa3 20. Rb3 Qc5 21. Be3 *

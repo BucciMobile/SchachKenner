@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cppj"]
+[Difficulty "hard"]
+[Rating "2042"]
+[Themes "advantage endgame long master quietMove"]
+[GameUrl "https://lichess.org/game/XeGdmopD#139"]
+[Solution "h4b4 b1b4 a3b4 e2a6 b6b7 a6b7"]
+[SolutionSAN "Rb4 Rxb4+ axb4 Ba6 b7 Bxb7"]
+[FEN "3B4/8/1P2k1p1/3pP1Pp/K6R/P7/4b3/1r6 w - - 7 70"]
+[SetUp "1"]
+
+70. Rb4 Rxb4+ 71. axb4 Ba6 72. b7 Bxb7 *

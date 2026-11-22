@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03ONM"]
+[Difficulty "easy"]
+[Rating "1028"]
+[Themes "advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/IraW06Xs#69"]
+[Solution "c4b3 d1d3 f3e4 d3b3"]
+[SolutionSAN "Bb3 Rd3+ Ke4 Rxb3"]
+[FEN "8/6pk/7p/2p1B3/2B2P2/5K2/7P/3r4 w - - 4 35"]
+[SetUp "1"]
+
+35. Bb3 Rd3+ 36. Ke4 Rxb3 *

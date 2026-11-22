@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CVZ4"]
+[Difficulty "hard"]
+[Rating "2050"]
+[Themes "discoveredAttack discoveredCheck equality middlegame short"]
+[GameUrl "https://lichess.org/game/mAiol1sp/black#72"]
+[Solution "g8h7 h5f6 g6f6 f5e3"]
+[SolutionSAN "Kh7 Nf6+ Rxf6 Nxe3+"]
+[FEN "5rk1/5p2/p5r1/2q2N1N/PpPpQP1p/1P2b3/7P/4R2K b - - 4 36"]
+[SetUp "1"]
+
+36... Kh7 37. Nf6+ Rxf6 38. Nxe3+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FWpU"]
+[Difficulty "hard"]
+[Rating "2003"]
+[Themes "crushing fork long middlegame"]
+[GameUrl "https://lichess.org/game/2mkdY21e#57"]
+[Solution "g3g6 b8b2 c2b2 g7d4 b2d4 f4d4"]
+[SolutionSAN "Rxg6 Rxb2 Qxb2 Bxd4+ Qxd4+ Qxd4+"]
+[FEN "1r3r1k/6b1/p1p3p1/5p2/2PP1q2/P5R1/1BQ3PP/2R3K1 w - - 0 29"]
+[SetUp "1"]
+
+29. Rxg6 Rxb2 30. Qxb2 Bxd4+ 31. Qxd4+ Qxd4+ *

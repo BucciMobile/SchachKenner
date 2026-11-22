@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09i9c"]
+[Difficulty "easy"]
+[Rating "1122"]
+[Themes "crushing fork opening short"]
+[GameUrl "https://lichess.org/game/6UC6VvPI#23"]
+[Solution "e1e2 g3g2 e2d3 g2h1"]
+[SolutionSAN "Ke2 Qg2+ Kd3 Qxh1"]
+[FEN "rn2k2r/pp3ppB/2p1pn1p/3p3P/3P2P1/2N1PPq1/PPP5/R2QK1NR w KQkq - 1 12"]
+[SetUp "1"]
+
+12. Ke2 Qg2+ 13. Kd3 Qxh1 *

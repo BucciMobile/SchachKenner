@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09KHF"]
+[Difficulty "easy"]
+[Rating "922"]
+[Themes "endgame epauletteMate hookMate mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/sTtL0A1l#79"]
+[Solution "b8b7 a2f2"]
+[SolutionSAN "Rbb7 Rxf2#"]
+[FEN "1R6/3R2p1/4p1kp/1P3p2/4n2P/4PKP1/r4P2/8 w - - 0 40"]
+[SetUp "1"]
+
+40. Rbb7 Rxf2# *

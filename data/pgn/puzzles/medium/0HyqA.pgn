@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HyqA"]
+[Difficulty "medium"]
+[Rating "1285"]
+[Themes "advantage endgame intermezzo short"]
+[GameUrl "https://lichess.org/game/Su7I8RLZ#93"]
+[Solution "b7b2 c3c1 g1g2 d3b2"]
+[SolutionSAN "Rxb2 Rc1+ Kg2 Nxb2"]
+[FEN "8/1R6/2k3p1/8/4N3/2rn2P1/1p3P1P/6K1 w - - 6 47"]
+[SetUp "1"]
+
+47. Rxb2 Rc1+ 48. Kg2 Nxb2 *

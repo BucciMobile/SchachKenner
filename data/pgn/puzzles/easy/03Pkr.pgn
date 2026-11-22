@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Pkr"]
+[Difficulty "easy"]
+[Rating "831"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/FyjKsEAg/black#88"]
+[Solution "d8f8 g4d7"]
+[SolutionSAN "Qf8 Qd7#"]
+[FEN "3q4/4kr2/p4N2/1pPpP3/3P2Q1/P7/5K2/8 b - - 10 44"]
+[SetUp "1"]
+
+44... Qf8 45. Qd7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KqWA"]
+[Difficulty "hard"]
+[Rating "2694"]
+[Themes "clearance crushing endgame long sacrifice"]
+[GameUrl "https://lichess.org/game/Javl1Oz2/black#54"]
+[Solution "a5a4 e4d5 b3d5 e1e7 g7h8 g4f6"]
+[SolutionSAN "a4 Bd5 Qxd5 Re7+ Kh8 Nf6"]
+[FEN "8/1p4kp/6p1/p7/3rB1N1/1q6/6PP/4RR1K b - - 3 27"]
+[SetUp "1"]
+
+27... a4 28. Bd5 Qxd5 29. Re7+ Kh8 30. Nf6 *

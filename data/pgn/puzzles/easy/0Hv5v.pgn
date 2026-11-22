@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hv5v"]
+[Difficulty "easy"]
+[Rating "446"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/Wu4Itd7H/black#52"]
+[Solution "f7f2 e1e8 f2f8 e8f8"]
+[SolutionSAN "Rf2 Re8+ Rf8 Rxf8#"]
+[FEN "7k/pp3rpp/8/8/8/2P5/P5PP/4R2K b - - 0 26"]
+[SetUp "1"]
+
+26... Rf2 27. Re8+ Rf8 28. Rxf8# *

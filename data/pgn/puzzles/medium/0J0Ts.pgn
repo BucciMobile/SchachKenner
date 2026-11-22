@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J0Ts"]
+[Difficulty "medium"]
+[Rating "1388"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/IABsFIk4#35"]
+[Solution "a1a7 f6d5"]
+[SolutionSAN "Rxa7 Nd5#"]
+[FEN "3k4/ppp2pp1/5n2/5bNp/4p2P/2b1K1P1/2P1PPB1/R7 w - - 0 18"]
+[SetUp "1"]
+
+18. Rxa7 Nd5# *

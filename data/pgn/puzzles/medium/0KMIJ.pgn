@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KMIJ"]
+[Difficulty "medium"]
+[Rating "1416"]
+[Themes "crushing hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/83cy8hyL/black#38"]
+[Solution "d8d4 c3d4 c6c2 d3c2"]
+[SolutionSAN "Rxd4 cxd4 Qxc2 Bxc2"]
+[FEN "3r2k1/1pp2ppp/2q5/4Pb2/3Bn3/2PB4/P1Q2PPP/R5K1 b - - 2 19"]
+[SetUp "1"]
+
+19... Rxd4 20. cxd4 Qxc2 21. Bxc2 *

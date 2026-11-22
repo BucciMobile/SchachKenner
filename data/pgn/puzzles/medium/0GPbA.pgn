@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GPbA"]
+[Difficulty "medium"]
+[Rating "1336"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/xTbShjTI#41"]
+[Solution "e1e2 h3g4 h5g4 g1g4"]
+[SolutionSAN "Ke2 Bg4+ Qxg4 Rxg4"]
+[FEN "8/p1p2p1k/2q2p1p/7Q/1b6/2NPB2b/PP3P1P/2R1K1r1 w - - 2 21"]
+[SetUp "1"]
+
+21. Ke2 Bg4+ 22. Qxg4 Rxg4 *

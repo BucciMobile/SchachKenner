@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KQZa"]
+[Difficulty "hard"]
+[Rating "1848"]
+[Themes "discoveredCheck doubleCheck mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/1kQG7IBU#35"]
+[Solution "d1f1 f3d4 e2e1 d4c2"]
+[SolutionSAN "Qf1 Nd4+ Ke1 Nxc2#"]
+[FEN "5rk1/p1p1p1b1/3p1pp1/2n5/6q1/1PN1Pn2/PBPPKP2/R2Q3R w - - 8 18"]
+[SetUp "1"]
+
+18. Qf1 Nd4+ 19. Ke1 Nxc2# *

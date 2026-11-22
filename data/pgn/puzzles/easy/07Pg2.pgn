@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Pg2"]
+[Difficulty "easy"]
+[Rating "1183"]
+[Themes "kingsideAttack mate mateIn2 opening short"]
+[GameUrl "https://lichess.org/game/eZAnAglI#23"]
+[Solution "f2g1 d8d4 c1e3 d4e3"]
+[SolutionSAN "Kg1 Qd4+ Be3 Qxe3#"]
+[FEN "rn1q1rk1/ppp3pp/4P3/8/4p1n1/3P2N1/PPP2KPP/R1BQ1B1R w - - 1 12"]
+[SetUp "1"]
+
+12. Kg1 Qd4+ 13. Be3 Qxe3# *

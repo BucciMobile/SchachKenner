@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ffq1"]
+[Difficulty "medium"]
+[Rating "1237"]
+[Themes "advantage hangingPiece master middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/5mnhXl8U/black#38"]
+[Solution "d6e5 d4c5 h5g4 e2g4"]
+[SolutionSAN "dxe5 Qxc5 Bxg4 Bxg4"]
+[FEN "r2q1rk1/1p3p1p/1n1p2p1/2nPN2b/p1PQ2P1/2N5/PP2BP2/R3R1K1 b - - 0 19"]
+[SetUp "1"]
+
+19... dxe5 20. Qxc5 Bxg4 21. Bxg4 *

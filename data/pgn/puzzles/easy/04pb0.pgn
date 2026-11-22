@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04pb0"]
+[Difficulty "easy"]
+[Rating "1064"]
+[Themes "crushing discoveredAttack discoveredCheck endgame exposedKing fork long"]
+[GameUrl "https://lichess.org/game/oOhnsu0j/black#78"]
+[Solution "f8b8 e4f6 g8f8 f6d7 f8e7 d7b8"]
+[SolutionSAN "Rb8 Nf6+ Kf8 Nd7+ Ke7 Nxb8+"]
+[FEN "5rk1/R7/6p1/3P3p/4N2P/2P1KP2/p5r1/8 b - - 0 39"]
+[SetUp "1"]
+
+39... Rb8 40. Nf6+ Kf8 41. Nd7+ Ke7 42. Nxb8+ *

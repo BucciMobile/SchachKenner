@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GbTT"]
+[Difficulty "hard"]
+[Rating "1991"]
+[Themes "endgame long mate mateIn3 vukovicMate"]
+[GameUrl "https://lichess.org/game/SmljsZj5#87"]
+[Solution "g6g7 h4h3 a6a2 c2a2 g7g8q a2g2"]
+[SolutionSAN "g7 Kh3 Ra2 Rxa2 g8=Q Rg2#"]
+[FEN "8/8/R4NP1/1p6/1P5k/6n1/2r5/6K1 w - - 1 44"]
+[SetUp "1"]
+
+44. g7 Kh3 45. Ra2 Rxa2 46. g8=Q Rg2# *

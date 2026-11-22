@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HSSt"]
+[Difficulty "easy"]
+[Rating "922"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/t3J0scMk/black#32"]
+[Solution "e5d5 d3h7 g8h7 d2d5"]
+[SolutionSAN "Qxd5 Bh7+ Kxh7 Qxd5"]
+[FEN "r4rk1/pppb1pp1/7p/3Pq3/8/3B4/PP1Q1PPP/4RRK1 b - - 1 16"]
+[SetUp "1"]
+
+16... Qxd5 17. Bh7+ Kxh7 18. Qxd5 *

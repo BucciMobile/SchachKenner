@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02EvG"]
+[Difficulty "easy"]
+[Rating "1044"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/2DvapBi7#13"]
+[Solution "f7h8 f6f2"]
+[SolutionSAN "Nxh8 Qxf2#"]
+[FEN "r1b1k1nr/pppp1Npp/4nq2/2b5/2B1P3/8/PPP2PPP/RNBQK2R w KQkq - 1 7"]
+[SetUp "1"]
+
+7. Nxh8 Qxf2# *

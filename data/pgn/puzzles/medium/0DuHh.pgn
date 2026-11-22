@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DuHh"]
+[Difficulty "medium"]
+[Rating "1494"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/lrVUs7rP/black#68"]
+[Solution "e8e7 g4g5 h6g5 f4g5 f6g5 b7e7"]
+[SolutionSAN "Re7 g5+ hxg5 fxg5+ Kxg5 Rxe7"]
+[FEN "3br3/1R3p2/1pBKpkpp/2p5/2P2PP1/7P/8/8 b - - 4 34"]
+[SetUp "1"]
+
+34... Re7 35. g5+ hxg5 36. fxg5+ Kxg5 37. Rxe7 *

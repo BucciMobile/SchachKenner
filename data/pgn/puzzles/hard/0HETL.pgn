@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HETL"]
+[Difficulty "hard"]
+[Rating "2092"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/3dx0xHDI/black#94"]
+[Solution "g7f8 g4f3 f8e7 f3b7"]
+[SolutionSAN "Kf8 Qxf3+ Ke7 Qb7+"]
+[FEN "r6r/6k1/1p1p4/4q2B/6Q1/pP3p2/P1P5/1K5R b - - 2 47"]
+[SetUp "1"]
+
+47... Kf8 48. Qxf3+ Ke7 49. Qb7+ *

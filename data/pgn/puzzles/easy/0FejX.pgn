@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FejX"]
+[Difficulty "easy"]
+[Rating "823"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove queenEndgame"]
+[GameUrl "https://lichess.org/game/H75wtZYk#113"]
+[Solution "a7a8q d3d2"]
+[SolutionSAN "a8=Q d2#"]
+[FEN "8/P7/8/2p5/1p6/3pk3/4p3/4K3 w - - 0 57"]
+[SetUp "1"]
+
+57. a8=Q d2# *

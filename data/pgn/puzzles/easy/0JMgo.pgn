@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JMgo"]
+[Difficulty "easy"]
+[Rating "1183"]
+[Themes "bishopEndgame crushing endgame master short"]
+[GameUrl "https://lichess.org/game/rBqqog8i/black#102"]
+[Solution "g7h6 c4d5 a1e5 d5e6"]
+[SolutionSAN "Kh6 Kd5 Be5 Ke6"]
+[FEN "8/6k1/5pP1/5P1P/2K5/8/8/b7 b - - 1 51"]
+[SetUp "1"]
+
+51... Kh6 52. Kd5 Be5 53. Ke6 *

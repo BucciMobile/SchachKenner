@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E9Z9"]
+[Difficulty "easy"]
+[Rating "1195"]
+[Themes "advantage capturingDefender master middlegame short"]
+[GameUrl "https://lichess.org/game/Pp93Tppm/black#50"]
+[Solution "e8c8 f3f6 g7f6 g6f7"]
+[SolutionSAN "O-O-O Qxf6 gxf6 Bxf7"]
+[FEN "r3k2r/1b3np1/pp2pqB1/2pp3P/P7/2P1PQN1/1P3K2/R6R b kq - 3 25"]
+[SetUp "1"]
+
+25... O-O-O 26. Qxf6 gxf6 27. Bxf7 *

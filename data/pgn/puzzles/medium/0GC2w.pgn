@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GC2w"]
+[Difficulty "medium"]
+[Rating "1256"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/Gsf26Rdf#83"]
+[Solution "b6b3 b1b3 c3b3 f5f4 b3c3 f4e3"]
+[SolutionSAN "Rxb3 Rxb3+ Kxb3 Kf4 Kc3 Ke3"]
+[FEN "8/5p1p/1R3p2/5k2/8/1pK2P2/6PP/1r6 w - - 10 42"]
+[SetUp "1"]
+
+42. Rxb3 Rxb3+ 43. Kxb3 Kf4 44. Kc3 Ke3 *

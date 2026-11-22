@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06z05"]
+[Difficulty "medium"]
+[Rating "1683"]
+[Themes "crushing hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/4Eu48oKV/black#38"]
+[Solution "b2c4 f4c4 h5d1 g1f2"]
+[SolutionSAN "Nc4 Rxc4 Qd1+ Kf2"]
+[FEN "r1b1r1k1/ppp2p1p/5Bp1/4P2q/5R2/2P1Q3/Pn4PP/RN4K1 b - - 0 19"]
+[SetUp "1"]
+
+19... Nc4 20. Rxc4 Qd1+ 21. Kf2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09szu"]
+[Difficulty "medium"]
+[Rating "1241"]
+[Themes "advantage attraction endgame fork long sacrifice"]
+[GameUrl "https://lichess.org/game/hCUMVI2a#41"]
+[Solution "h1b1 e8e2 d2e2 d5c3 e2e3 c3b1"]
+[SolutionSAN "Rb1 Rxe2+ Kxe2 Nc3+ Ke3 Nxb1"]
+[FEN "4rk2/ppp4p/6p1/3n4/8/P2P4/2PKBPPP/7R w - - 0 21"]
+[SetUp "1"]
+
+21. Rb1 Rxe2+ 22. Kxe2 Nc3+ 23. Ke3 Nxb1 *

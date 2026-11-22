@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Lsb"]
+[Difficulty "medium"]
+[Rating "1291"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/sqyFadGJ#41"]
+[Solution "e4d6 f5f4 e3e4 f4g3"]
+[SolutionSAN "Nd6 f4 Qe4 fxg3"]
+[FEN "r1b2rk1/p5q1/2p1p1Pp/5p2/2p1N3/4Q1R1/PPP2PP1/2KR4 w - - 0 21"]
+[SetUp "1"]
+
+21. Nd6 f4 22. Qe4 fxg3 *

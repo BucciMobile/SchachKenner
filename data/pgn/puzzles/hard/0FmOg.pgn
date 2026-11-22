@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FmOg"]
+[Difficulty "hard"]
+[Rating "2362"]
+[Themes "advantage discoveredAttack endgame master masterVsMaster quietMove veryLong"]
+[GameUrl "https://lichess.org/game/az4Rfsp0#91"]
+[Solution "e5e8 d7e8 g2g4 f7c7 d6c7 f5e7 b7d6 e8d7"]
+[SolutionSAN "Rxe8 Bxe8 g4 Rxc7 dxc7 Ne7 Nd6 Bd7"]
+[FEN "4r3/1NRb1rk1/3P2pp/1p2Rn2/1P6/2P4P/6PK/8 w - - 13 46"]
+[SetUp "1"]
+
+46. Rxe8 Bxe8 47. g4 Rxc7 48. dxc7 Ne7 49. Nd6 Bd7 *

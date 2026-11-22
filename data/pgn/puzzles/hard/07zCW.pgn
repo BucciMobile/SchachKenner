@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07zCW"]
+[Difficulty "hard"]
+[Rating "1984"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/CpuPpbvS/black#60"]
+[Solution "g7g6 h4c4 b6c4 f3c6"]
+[SolutionSAN "g6 Rxc4 Nxc4 Bxc6"]
+[FEN "3r2k1/1pp2ppp/1nn1p3/4P1Q1/Ppq4R/5BP1/5PKP/8 b - - 1 30"]
+[SetUp "1"]
+
+30... g6 31. Rxc4 Nxc4 32. Bxc6 *

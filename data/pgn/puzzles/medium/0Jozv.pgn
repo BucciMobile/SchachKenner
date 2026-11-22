@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jozv"]
+[Difficulty "medium"]
+[Rating "1455"]
+[Themes "advancedPawn crushing endgame master short"]
+[GameUrl "https://lichess.org/game/rs8YF6ba/black#106"]
+[Solution "f3e3 e6e7 c5a4 f7f8"]
+[SolutionSAN "Re3 e7 Na4 Rf8+"]
+[FEN "2k5/5R2/1pP1P1K1/1Pn5/8/5r2/8/8 b - - 2 53"]
+[SetUp "1"]
+
+53... Re3 54. e7 Na4 55. Rf8+ *

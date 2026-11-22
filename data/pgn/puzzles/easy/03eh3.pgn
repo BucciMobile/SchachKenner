@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03eh3"]
+[Difficulty "easy"]
+[Rating "1156"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/YZ7Q9Bvv/black#48"]
+[Solution "f6e4 h3h6 g7h6 g5h6"]
+[SolutionSAN "Ne4 Rxh6+ gxh6 Qxh6#"]
+[FEN "r5rk/1bq2pp1/p4n1p/2p2BQ1/1p3p2/3p3R/PPP3PP/R5K1 b - - 1 24"]
+[SetUp "1"]
+
+24... Ne4 25. Rxh6+ gxh6 26. Qxh6# *

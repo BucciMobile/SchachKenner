@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GlQt"]
+[Difficulty "easy"]
+[Rating "835"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/Et4dHVHZ#47"]
+[Solution "f3f7 e8f7 c4f7 d2d1"]
+[SolutionSAN "Qf7+ Qxf7+ Bxf7 Rd1+"]
+[FEN "4q3/ppk3pp/2pb4/8/2B3P1/P4Q2/3r2PP/B4K1R w - - 4 24"]
+[SetUp "1"]
+
+24. Qf7+ Qxf7+ 25. Bxf7 Rd1+ *

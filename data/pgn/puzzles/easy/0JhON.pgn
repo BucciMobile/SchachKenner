@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JhON"]
+[Difficulty "easy"]
+[Rating "1128"]
+[Themes "advancedPawn crushing defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/G7luOQ2k#91"]
+[Solution "b7b1 a3a2 b1c1 c3b2"]
+[SolutionSAN "Rb1 a2 Rc1+ Kb2"]
+[FEN "r7/1R6/4p2P/8/8/p1k3P1/5P2/6K1 w - - 5 46"]
+[SetUp "1"]
+
+46. Rb1 a2 47. Rc1+ Kb2 *

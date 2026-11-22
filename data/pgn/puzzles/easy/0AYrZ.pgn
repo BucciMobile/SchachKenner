@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AYrZ"]
+[Difficulty "easy"]
+[Rating "911"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/jvRY6By2/black#26"]
+[Solution "f6d5 b5a7"]
+[SolutionSAN "Nd5 Na7#"]
+[FEN "2kr1b1r/1p1npppp/p4n2/1NP2b2/3P1B2/5N2/1P3PPP/R3KB1R b KQ - 2 13"]
+[SetUp "1"]
+
+13... Nd5 14. Na7# *

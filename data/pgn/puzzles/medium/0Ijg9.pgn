@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ijg9"]
+[Difficulty "medium"]
+[Rating "1416"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/DiJHbUbY#37"]
+[Solution "f1e1 d4d3 a2d2 d3d2"]
+[SolutionSAN "Re1 Rxd3 Rd2 Rxd2"]
+[FEN "r5k1/pp2b1pp/4pn2/4q3/1PPr4/P2B4/R4PPP/1N1Q1RK1 w - - 2 19"]
+[SetUp "1"]
+
+19. Re1 Rxd3 20. Rd2 Rxd2 *

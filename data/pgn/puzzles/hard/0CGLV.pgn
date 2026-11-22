@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CGLV"]
+[Difficulty "hard"]
+[Rating "1722"]
+[Themes "clearance crushing defensiveMove long middlegame"]
+[GameUrl "https://lichess.org/game/PHvt8ylq/black#38"]
+[Solution "e4f4 d3g3 g8f8 f1f4 b6c7 a1f1"]
+[SolutionSAN "Rf4 Qg3+ Kf8 Rxf4 Qc7 Raf1"]
+[FEN "4r1k1/pp3p1p/1qpb1p2/3p4/3Pr3/1PPQ3P/P2N2P1/R4R1K b - - 2 19"]
+[SetUp "1"]
+
+19... Rf4 20. Qg3+ Kf8 21. Rxf4 Qc7 22. Raf1 *

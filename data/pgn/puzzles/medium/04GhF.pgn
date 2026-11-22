@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04GhF"]
+[Difficulty "medium"]
+[Rating "1670"]
+[Themes "crushing enPassant endgame long"]
+[GameUrl "https://lichess.org/game/ZrmhXXXy#83"]
+[Solution "e1c2 d1c2 c3c2 d5c4 f2f4 e4f3"]
+[SolutionSAN "Nc2 Bxc2 Kxc2 Kc4 f4 exf3"]
+[FEN "8/5p2/p6p/3k4/1P2p1PP/2K1P3/5P2/3bN3 w - - 1 42"]
+[SetUp "1"]
+
+42. Nc2 Bxc2 43. Kxc2 Kc4 44. f4 exf3 *

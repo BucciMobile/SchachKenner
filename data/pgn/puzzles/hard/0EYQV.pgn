@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EYQV"]
+[Difficulty "hard"]
+[Rating "2189"]
+[Themes "crushing endgame fork intermezzo long sacrifice"]
+[GameUrl "https://lichess.org/game/vFHVNBfX/black#84"]
+[Solution "e7e6 c4b4 b2b4 c6c7 b8a8 d5b4"]
+[SolutionSAN "Rxe6 Rb4+ Qxb4 Qc7+ Ka8 Nxb4"]
+[FEN "1k2r3/p3r1p1/2Q1P1Pp/3N4/2RP3P/8/Pq6/3K4 b - - 6 42"]
+[SetUp "1"]
+
+42... Rxe6 43. Rb4+ Qxb4 44. Qc7+ Ka8 45. Nxb4 *

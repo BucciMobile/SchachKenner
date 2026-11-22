@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09tf5"]
+[Difficulty "hard"]
+[Rating "1968"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/CLSC68Dw/black#30"]
+[Solution "b6b2 a1b1 b2b1 c3b1"]
+[SolutionSAN "Qxb2 Rb1 Qxb1+ Nxb1"]
+[FEN "r4rk1/5ppp/pqp1pn2/3p2R1/3P4/2N2Q1P/PPP2PP1/R5K1 b - - 2 15"]
+[SetUp "1"]
+
+15... Qxb2 16. Rb1 Qxb1+ 17. Nxb1 *

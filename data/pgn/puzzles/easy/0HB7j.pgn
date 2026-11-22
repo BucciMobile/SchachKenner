@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HB7j"]
+[Difficulty "easy"]
+[Rating "1170"]
+[Themes "advancedPawn crushing endgame long master"]
+[GameUrl "https://lichess.org/game/EGIIBw1d#57"]
+[Solution "c2e2 e3e2 e1e2 c3c2 e2c2 c8c2"]
+[SolutionSAN "Qxe2 Qxe2 Rxe2 c2 Rxc2 Rxc2"]
+[FEN "2r3k1/p5pp/4p3/8/8/2p1q3/P1Q1r1PP/B3R2K w - - 0 29"]
+[SetUp "1"]
+
+29. Qxe2 Qxe2 30. Rxe2 c2 31. Rxc2 Rxc2 *

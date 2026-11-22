@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GF6q"]
+[Difficulty "easy"]
+[Rating "1132"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/PUWBaMk3#41"]
+[Solution "d3e5 f6e5 g4d7 b8d7"]
+[SolutionSAN "Nxe5 Bxe5 Qxd7 Nxd7"]
+[FEN "rn3rk1/p2q2pp/1p3b2/4p3/3p2Q1/3N2P1/PP3P1P/1R1NR1K1 w - - 0 21"]
+[SetUp "1"]
+
+21. Nxe5 Bxe5 22. Qxd7 Nxd7 *

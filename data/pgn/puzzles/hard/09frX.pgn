@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09frX"]
+[Difficulty "hard"]
+[Rating "1916"]
+[Themes "discoveredAttack discoveredCheck hookMate mate mateIn4 middlegame veryLong"]
+[GameUrl "https://lichess.org/game/b8Twjxpo#45"]
+[Solution "e7g7 d8d1 g1g2 c2e1 g2f1 e1f3 f1e2 d1e1"]
+[SolutionSAN "Rxg7 Rd1+ Kg2 Ne1+ Kf1 Nf3+ Ke2 Re1#"]
+[FEN "3r4/4R1b1/1R2Bp2/7k/4P1pN/P1r5/2n2P1P/2B3K1 w - - 2 23"]
+[SetUp "1"]
+
+23. Rxg7 Rd1+ 24. Kg2 Ne1+ 25. Kf1 Nf3+ 26. Ke2 Re1# *

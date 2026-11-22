@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "068h0"]
+[Difficulty "easy"]
+[Rating "658"]
+[Themes "master mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/o48JeSxl#53"]
+[Solution "c1c7 f5b1 c7c1 b1c1"]
+[SolutionSAN "Rcc7 Qb1+ Rc1 Qxc1#"]
+[FEN "1r3r1k/1p4Rp/3Q4/1b1p1qp1/3P4/4PpP1/PP3P1P/2R3KB w - - 0 27"]
+[SetUp "1"]
+
+27. Rcc7 Qb1+ 28. Rc1 Qxc1# *

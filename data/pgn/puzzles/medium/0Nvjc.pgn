@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Nvjc"]
+[Difficulty "medium"]
+[Rating "1554"]
+[Themes "crushing enPassant middlegame pin short"]
+[GameUrl "https://lichess.org/game/cG7gSmrG/black#50"]
+[Solution "c8c7 e3h6 f7f5 e5f6"]
+[SolutionSAN "Rc7 Qxh6 f5 exf6"]
+[FEN "2r2rk1/4qpp1/2n1p2p/p2pP3/P2P4/2P1Q1R1/6PP/5RK1 b - - 2 25"]
+[SetUp "1"]
+
+25... Rc7 26. Qxh6 f5 27. exf6 *

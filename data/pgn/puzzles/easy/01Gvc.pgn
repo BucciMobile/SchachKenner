@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Gvc"]
+[Difficulty "easy"]
+[Rating "1008"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/CTGHtpTC#43"]
+[Solution "h5g6 d6c4 d2c2 c4e5"]
+[SolutionSAN "hxg6 Nc4+ Kc2 Nxe5"]
+[FEN "1k1r3r/ppp4p/3np1p1/Pb1pQ2P/3P4/2P5/1P1K1PP1/R6R w - - 1 22"]
+[SetUp "1"]
+
+22. hxg6 Nc4+ 23. Kc2 Nxe5 *

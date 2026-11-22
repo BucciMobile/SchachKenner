@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BY2g"]
+[Difficulty "hard"]
+[Rating "1724"]
+[Themes "crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/vI5Gl4Di/black#56"]
+[Solution "g7f5 g4f5 g6f5 h6g5"]
+[SolutionSAN "Nf5 gxf5 gxf5 Qg5+"]
+[FEN "4b1k1/6n1/2pq1rpQ/1p1pN2p/pP1P1PP1/P1NB4/2P4P/6K1 b - - 1 28"]
+[SetUp "1"]
+
+28... Nf5 29. gxf5 gxf5 30. Qg5+ *

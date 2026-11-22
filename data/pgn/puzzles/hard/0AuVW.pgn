@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AuVW"]
+[Difficulty "hard"]
+[Rating "2158"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/gO6DMMW8#49"]
+[Solution "c4d5 h6h2 d2e4 e8e4"]
+[SolutionSAN "cxd5 Rh2 Ne4 Rxe4"]
+[FEN "4r1k1/pp4pp/2p4r/3p4/2PP1q2/2Q2P2/P2NB3/R4KR1 w - - 2 25"]
+[SetUp "1"]
+
+25. cxd5 Rh2 26. Ne4 Rxe4 *

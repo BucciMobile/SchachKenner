@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03gIy"]
+[Difficulty "medium"]
+[Rating "1505"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/EOkAPJYH#29"]
+[Solution "c3d5 f6g5 c1b1 e7d7"]
+[SolutionSAN "Nd5 Bg5+ Kb1 Rxd7"]
+[FEN "r5k1/pppRrp1p/2n2bp1/4p3/2P1P3/2N2B1P/PP3PP1/2K4R w - - 2 15"]
+[SetUp "1"]
+
+15. Nd5 Bg5+ 16. Kb1 Rxd7 *

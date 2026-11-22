@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C58k"]
+[Difficulty "easy"]
+[Rating "1101"]
+[Themes "clearance crushing kingsideAttack opening short"]
+[GameUrl "https://lichess.org/game/0hj2PfZc#31"]
+[Solution "d1d2 h4f3 e2f3 d8h4"]
+[SolutionSAN "Qxd2 Nxf3+ Bxf3 Qh4"]
+[FEN "r1bqk2r/pp3pp1/2n1p3/3pP3/3P2Pn/P4N2/1P1bBP2/R1BQ1RK1 w kq - 0 16"]
+[SetUp "1"]
+
+16. Qxd2 Nxf3+ 17. Bxf3 Qh4 *

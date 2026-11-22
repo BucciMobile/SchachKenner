@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08ZuN"]
+[Difficulty "hard"]
+[Rating "2113"]
+[Themes "attackingF2F7 crushing opening short"]
+[GameUrl "https://lichess.org/game/eZJjnsKe/black#14"]
+[Solution "f8e7 g5f7 d8a5 c1d2"]
+[SolutionSAN "Be7 Nxf7 Qa5+ Bd2"]
+[FEN "r1bqkb1r/pp1n1ppp/2p1pn2/6N1/2BP4/8/PPP1QPPP/R1B1K1NR b KQkq - 5 7"]
+[SetUp "1"]
+
+7... Be7 8. Nxf7 Qa5+ 9. Bd2 *

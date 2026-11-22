@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DgEO"]
+[Difficulty "hard"]
+[Rating "1774"]
+[Themes "advantage exposedKing fork intermezzo master middlegame veryLong"]
+[GameUrl "https://lichess.org/game/LgohBbtO#55"]
+[Solution "c1c2 f6f1 g1g2 d3c2 g2f1 c2d3 f1e1 d3b5"]
+[SolutionSAN "Rxc2 Rxf1+ Kg2 Bxc2 Kxf1 Bd3+ Ke1 Bxb5"]
+[FEN "7k/pp4pp/5r2/1N1Bp3/8/3bP1PP/Pnr5/2R2RK1 w - - 6 28"]
+[SetUp "1"]
+
+28. Rxc2 Rxf1+ 29. Kg2 Bxc2 30. Kxf1 Bd3+ 31. Ke1 Bxb5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DogY"]
+[Difficulty "medium"]
+[Rating "1234"]
+[Themes "discoveredCheck doubleCheck endgame long master mate mateIn3"]
+[GameUrl "https://lichess.org/game/MxzanJM1#59"]
+[Solution "c1c8 d3f2 h1g1 f2h3 g1f1 a7f2"]
+[SolutionSAN "Qc8 Nf2+ Kg1 Nh3+ Kf1 Qf2#"]
+[FEN "5Bk1/q4ppp/4p3/3p4/N7/P2n1P2/6PP/2Q4K w - - 0 30"]
+[SetUp "1"]
+
+30. Qc8 Nf2+ 31. Kg1 Nh3+ 32. Kf1 Qf2# *

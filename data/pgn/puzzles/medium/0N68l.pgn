@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0N68l"]
+[Difficulty "medium"]
+[Rating "1291"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/ihttHDVW#47"]
+[Solution "e5d7 b6c7 c2c7 d6c7 d7b8 c7b8"]
+[SolutionSAN "Nd7 Qxc7 Qxc7 Bxc7 Nxb8 Bxb8"]
+[FEN "1r4k1/p1R2p1p/1q1bp1p1/3pN3/3P4/1P2P1P1/P1Q2PP1/6K1 w - - 7 24"]
+[SetUp "1"]
+
+24. Nd7 Qxc7 25. Qxc7 Bxc7 26. Nxb8 Bxb8 *

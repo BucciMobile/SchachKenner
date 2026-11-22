@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F2BK"]
+[Difficulty "hard"]
+[Rating "2063"]
+[Themes "crushing endgame quietMove sacrifice trappedPiece veryLong"]
+[GameUrl "https://lichess.org/game/4v0sccbX#79"]
+[Solution "g8g7 d5f6 e2c4 b4c4 b3c4 e7f8 g7g6 f7g6"]
+[SolutionSAN "Rxg7 Nf6 Bc4 Rxc4 bxc4 Kf8 Rxg6 fxg6"]
+[FEN "6R1/1p2kpp1/p1p3p1/2Pn4/1r6/1P4P1/P3BPKP/8 w - - 13 40"]
+[SetUp "1"]
+
+40. Rxg7 Nf6 41. Bc4 Rxc4 42. bxc4 Kf8 43. Rxg6 fxg6 *

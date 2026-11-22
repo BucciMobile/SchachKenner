@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02TvL"]
+[Difficulty "hard"]
+[Rating "3001"]
+[Themes "crushing endgame exposedKing quietMove veryLong"]
+[GameUrl "https://lichess.org/game/AKOqTJ2s#55"]
+[Solution "a1g1 h8h3 f3e2 g7g6 c4d6 c8d8 a4e8 g6e8 d6e8 d8e8 g1g2 h3c3"]
+[SolutionSAN "Rg1 Rxh3+ Ke2 Qg6 Nd6+ Kd8 Qe8+ Qxe8+ Nxe8 Kxe8 Rxg2 Rxc3"]
+[FEN "2k4r/p1p3q1/P4p2/2p5/Q1NP4/2P2K1P/6p1/R7 w - - 0 28"]
+[SetUp "1"]
+
+28. Rg1 Rxh3+ 29. Ke2 Qg6 30. Nd6+ Kd8 31. Qe8+ Qxe8+ 32. Nxe8 Kxe8 33. Rxg2 Rxc3 *

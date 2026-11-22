@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H8ob"]
+[Difficulty "easy"]
+[Rating "1098"]
+[Themes "cornerMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/SKLsHSmo#91"]
+[Solution "e8e6 c2g2 g3h4 e1f3"]
+[SolutionSAN "Rexe6 Rg2+ Kh4 Nf3#"]
+[FEN "4R3/6k1/R3p1p1/1p5p/4PP2/6KP/P1r5/4n3 w - - 2 46"]
+[SetUp "1"]
+
+46. Rexe6 Rg2+ 47. Kh4 Nf3# *

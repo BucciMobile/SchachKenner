@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LMSd"]
+[Difficulty "medium"]
+[Rating "1663"]
+[Themes "advantage discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/NwmXlHme/black#58"]
+[Solution "a3b4 e4f6 g8f7 e2e8"]
+[SolutionSAN "Bb4 Nxf6+ Kf7 Rxe8"]
+[FEN "3rr1k1/p5pp/5p2/n4b2/2PPN3/bP3N2/4RPPP/4R1K1 b - - 1 29"]
+[SetUp "1"]
+
+29... Bb4 30. Nxf6+ Kf7 31. Rxe8 *

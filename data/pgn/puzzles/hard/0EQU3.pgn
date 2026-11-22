@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EQU3"]
+[Difficulty "hard"]
+[Rating "1840"]
+[Themes "advantage discoveredAttack exposedKing long opening sacrifice"]
+[GameUrl "https://lichess.org/game/4O5X36kD/black#24"]
+[Solution "g4h5 f3e5 h5d1 e5c6 e8f8 c6d8"]
+[SolutionSAN "Bh5 Nxe5 Bxd1 Nxc6+ Kf8 Nxd8"]
+[FEN "r2qk2r/ppp3pp/2n2p2/3pp3/1b4bB/1PNP1N1P/1PP2PP1/R2QR1K1 b kq - 0 12"]
+[SetUp "1"]
+
+12... Bh5 13. Nxe5 Bxd1 14. Nxc6+ Kf8 15. Nxd8 *

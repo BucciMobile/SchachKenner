@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GN0H"]
+[Difficulty "easy"]
+[Rating "682"]
+[Themes "advancedPawn discoveredAttack discoveredCheck endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/zn8Asntr/black#68"]
+[Solution "e7d5 f6f7 d5c3 b2c3"]
+[SolutionSAN "Nxd5 f7+ Nc3 Bxc3#"]
+[FEN "5r1k/p3n2p/1p3Pp1/3B4/7P/5p1K/PB3P2/8 b - - 0 34"]
+[SetUp "1"]
+
+34... Nxd5 35. f7+ Nc3 36. Bxc3# *

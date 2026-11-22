@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07c3o"]
+[Difficulty "easy"]
+[Rating "839"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/hvgPkHsW#61"]
+[Solution "f4f5 e7e1 c1e1 e8e1"]
+[SolutionSAN "Rxf5 Re1+ Rxe1 Rxe1#"]
+[FEN "1k2r3/pqp1r1pp/1p6/1P3n2/5R2/Q7/PB3PPP/2R3K1 w - - 7 31"]
+[SetUp "1"]
+
+31. Rxf5 Re1+ 32. Rxe1 Rxe1# *

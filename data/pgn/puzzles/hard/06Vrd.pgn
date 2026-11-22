@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Vrd"]
+[Difficulty "hard"]
+[Rating "1845"]
+[Themes "endgame epauletteMate long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/STRsN1o4/black#62"]
+[Solution "g7g6 e8g8 g6h5 e1e5 f7f5 e5f5"]
+[SolutionSAN "Kg6 Rg8+ Kxh5 Re5+ f5 Rxf5#"]
+[FEN "4R3/p4pk1/2p4p/7N/7P/1b4P1/r2r4/4R1K1 b - - 1 31"]
+[SetUp "1"]
+
+31... Kg6 32. Rg8+ Kxh5 33. Re5+ f5 34. Rxf5# *

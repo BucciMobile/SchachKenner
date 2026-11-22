@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K2g3"]
+[Difficulty "hard"]
+[Rating "2170"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/zKbjNmed#49"]
+[Solution "f5e3 c4e2 e3d5 e2d1"]
+[SolutionSAN "Nxe3 Bxe2 Nd5 Bxd1"]
+[FEN "1r4k1/pp2r1pp/8/4nN2/2b5/P3p2P/1PP1BKP1/3R3R w - - 0 25"]
+[SetUp "1"]
+
+25. Nxe3 Bxe2 26. Nd5 Bxd1 *

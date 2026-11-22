@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04epP"]
+[Difficulty "hard"]
+[Rating "1789"]
+[Themes "crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/AXehIBWI#71"]
+[Solution "e3e4 d5e4 d3e4 e7d6 e4d3 d6d5"]
+[SolutionSAN "e4 dxe4+ Kxe4 Kd6 Kd3 Kd5"]
+[FEN "8/4k1p1/p3p3/1p1p2p1/3P2P1/P1PKP2P/8/8 w - - 2 36"]
+[SetUp "1"]
+
+36. e4 dxe4+ 37. Kxe4 Kd6 38. Kd3 Kd5 *

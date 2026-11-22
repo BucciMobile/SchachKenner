@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A0HI"]
+[Difficulty "easy"]
+[Rating "1144"]
+[Themes "crushing endgame exposedKing long sacrifice"]
+[GameUrl "https://lichess.org/game/tR2Yvuug#119"]
+[Solution "b7b6 f6g5 g2h3 a1h1 f3h1 a3d3"]
+[SolutionSAN "Rb6+ Kg5 Kh3 Rh1+ Bxh1 Qxd3+"]
+[FEN "8/1R1R4/5k2/4p2P/3pPpP1/q2P1B2/6K1/r7 w - - 1 60"]
+[SetUp "1"]
+
+60. Rb6+ Kg5 61. Kh3 Rh1+ 62. Bxh1 Qxd3+ *

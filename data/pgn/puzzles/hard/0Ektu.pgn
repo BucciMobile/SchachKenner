@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ektu"]
+[Difficulty "hard"]
+[Rating "2052"]
+[Themes "opening"]
+[GameUrl "https://lichess.org/game/j8yAzE5i/black#24"]
+[Solution "a7a6 f3e5 g4d1 b5d7 d8d7 e5d7"]
+[SolutionSAN "a6 Nxe5 Bxd1 Bxd7+ Qxd7 Nxd7"]
+[FEN "r2qkb1r/pp1n1pp1/7p/1Bppn3/6b1/1PP1BN2/P2N1PPP/R2Q1RK1 b kq - 3 12"]
+[SetUp "1"]
+
+12... a6 13. Nxe5 Bxd1 14. Bxd7+ Qxd7 15. Nxd7 *

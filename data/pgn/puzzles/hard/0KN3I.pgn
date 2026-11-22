@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KN3I"]
+[Difficulty "hard"]
+[Rating "2337"]
+[Themes "advancedPawn crushing long middlegame"]
+[GameUrl "https://lichess.org/game/lea6g5DI#33"]
+[Solution "a4a7 g4f3 g2f3 d3d2 d1d2 d5d2"]
+[SolutionSAN "Qxa7 Bxf3 gxf3 d2+ Rxd2 Qxd2+"]
+[FEN "3rk1nr/p4ppp/8/1p1q4/Q4Bb1/2PpPN2/PP3PPP/3RK2R w Kk - 0 17"]
+[SetUp "1"]
+
+17. Qxa7 Bxf3 18. gxf3 d2+ 19. Rxd2 Qxd2+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KCu8"]
+[Difficulty "hard"]
+[Rating "1967"]
+[Themes "advancedPawn advantage clearance endgame short"]
+[GameUrl "https://lichess.org/game/3Y65GldH/black#64"]
+[Solution "f8g8 g6g7 d2h6 f5h7"]
+[SolutionSAN "Rg8 g7 Bh6 Bh7"]
+[FEN "1k3r2/ppp2R2/3p2P1/3P1B2/P3P2n/8/3b4/7K b - - 2 32"]
+[SetUp "1"]
+
+32... Rg8 33. g7 Bh6 34. Bh7 *

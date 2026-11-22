@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00dzs"]
+[Difficulty "easy"]
+[Rating "835"]
+[Themes "mate mateIn1 middlegame oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/zvBG4Lv4/black#38"]
+[Solution "d8c8 e1e8"]
+[SolutionSAN "Kc8 Re8#"]
+[FEN "3k1b1r/1p1n1ppp/1B6/1p6/8/5K2/PPr2PPP/3RR3 b - - 1 19"]
+[SetUp "1"]
+
+19... Kc8 20. Re8# *

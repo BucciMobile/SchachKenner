@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00tMQ"]
+[Difficulty "hard"]
+[Rating "2188"]
+[Themes "advantage middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/wxBmoFIr/black#40"]
+[Solution "f6h5 e2h5 h6g7 c3e4 d6d5 g5g6 h7h6 e4g5"]
+[SolutionSAN "Nxh5 Qxh5 Bg7 Ne4 d5 g6 h6 Ng5"]
+[FEN "r5rk/p2nq2p/2pppn1b/1p2p1PB/7P/1PN5/PBPRQ3/2K3R1 b - - 0 20"]
+[SetUp "1"]
+
+20... Nxh5 21. Qxh5 Bg7 22. Ne4 d5 23. g6 h6 24. Ng5 *

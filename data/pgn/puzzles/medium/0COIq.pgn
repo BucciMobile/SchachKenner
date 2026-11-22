@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0COIq"]
+[Difficulty "medium"]
+[Rating "1644"]
+[Themes "crushing hangingPiece long middlegame"]
+[GameUrl "https://lichess.org/game/yKBc2SxM/black#74"]
+[Solution "c8f5 d6f8 h8h7 f8f5 f4f5 g4f5"]
+[SolutionSAN "Bxf5 Qxf8+ Kh7 Qxf5+ Qxf5 gxf5"]
+[FEN "2b2r1k/6p1/p2Q3p/3PpN2/1P3qP1/7r/6R1/3R2K1 b - - 0 37"]
+[SetUp "1"]
+
+37... Bxf5 38. Qxf8+ Kh7 39. Qxf5+ Qxf5 40. gxf5 *

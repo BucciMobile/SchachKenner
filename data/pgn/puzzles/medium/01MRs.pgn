@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01MRs"]
+[Difficulty "medium"]
+[Rating "1472"]
+[Themes "advantage long master middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/jIGXIyov#27"]
+[Solution "e2e3 d7h3 e3d4 f6g4 d1g4 h3g4"]
+[SolutionSAN "e3 Qxh3 exd4 Ng4 Qxg4 Qxg4"]
+[FEN "r5k1/p2qppbp/1p1p1np1/2p5/2Pn4/P1NP2PP/1P2PP2/1RBQ1RK1 w - - 0 14"]
+[SetUp "1"]
+
+14. e3 Qxh3 15. exd4 Ng4 16. Qxg4 Qxg4 *

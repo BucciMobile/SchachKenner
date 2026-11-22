@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LRNA"]
+[Difficulty "medium"]
+[Rating "1247"]
+[Themes "advantage fork master middlegame short"]
+[GameUrl "https://lichess.org/game/OFbxs6Yl#45"]
+[Solution "e4c5 e5d4 g1h1 d4c5"]
+[SolutionSAN "Nxc5 Bd4+ Kh1 Bxc5"]
+[FEN "r4k1r/1b6/p3p1p1/2p1bnBp/Pp2N3/3B4/1PP3PP/R4RK1 w - - 0 23"]
+[SetUp "1"]
+
+23. Nxc5 Bd4+ 24. Kh1 Bxc5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F08A"]
+[Difficulty "medium"]
+[Rating "1465"]
+[Themes "advantage master middlegame pin short"]
+[GameUrl "https://lichess.org/game/HY956AFt/black#56"]
+[Solution "d8c8 f4e5 c8c7 e5c7"]
+[SolutionSAN "Rc8 Bxe5 Rxc7 Bxc7"]
+[FEN "3r3r/ppRn1k2/5p2/3pn3/5B1P/6P1/PP2KP2/3R4 b - - 5 28"]
+[SetUp "1"]
+
+28... Rc8 29. Bxe5 Rxc7 30. Bxc7 *

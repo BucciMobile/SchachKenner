@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GEnS"]
+[Difficulty "hard"]
+[Rating "2269"]
+[Themes "crushing discoveredAttack long middlegame"]
+[GameUrl "https://lichess.org/game/sgp8NHCX#59"]
+[Solution "a1d1 d8d1 f1d1 f5c2 d1e1 g5e5"]
+[SolutionSAN "Rad1 Rxd1 Rxd1 Bc2 Re1 Qxe5"]
+[FEN "3r2k1/6p1/p1p5/4Bbqp/2P2p2/1P2bP2/P5PQ/R4R1K w - - 1 30"]
+[SetUp "1"]
+
+30. Rad1 Rxd1 31. Rxd1 Bc2 32. Re1 Qxe5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LJCv"]
+[Difficulty "medium"]
+[Rating "1315"]
+[Themes "crushing fork long master middlegame"]
+[GameUrl "https://lichess.org/game/EYnzFxyn#61"]
+[Solution "f4c1 e8e5 h2h1 e2e1 c1e1 e5e1"]
+[SolutionSAN "Qxc1 Qe5+ Kh1 Re1+ Qxe1 Qxe1+"]
+[FEN "4q2k/7n/6R1/2p2P2/5QPN/2n4P/4r1BK/2r5 w - - 0 31"]
+[SetUp "1"]
+
+31. Qxc1 Qe5+ 32. Kh1 Re1+ 33. Qxe1 Qxe1+ *

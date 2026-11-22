@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04RON"]
+[Difficulty "easy"]
+[Rating "741"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/kpiPlQii/black#72"]
+[Solution "c2c3 g3e5 h8g8 e5c3"]
+[SolutionSAN "Rc3 Be5+ Kg8 Bxc3"]
+[FEN "7k/p1p2p1p/1p6/8/1P5P/P5B1/2r3PK/8 b - - 0 36"]
+[SetUp "1"]
+
+36... Rc3 37. Be5+ Kg8 38. Bxc3 *

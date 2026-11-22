@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08FWu"]
+[Difficulty "medium"]
+[Rating "1235"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/rdLcNn60#35"]
+[Solution "b1c3 e5h2"]
+[SolutionSAN "Nc3 Qxh2#"]
+[FEN "1rb2r1k/2pp1p2/p2b1p1p/1p1Bq3/4P1Q1/8/PPP2PPP/RN3RK1 w - - 0 18"]
+[SetUp "1"]
+
+18. Nc3 Qxh2# *

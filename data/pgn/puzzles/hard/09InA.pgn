@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09InA"]
+[Difficulty "hard"]
+[Rating "1981"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/8M7ZHnic/black#30"]
+[Solution "c5d6 c4e6 e7f8 e6f7"]
+[SolutionSAN "Bd6 Qe6+ Kf8 Qf7#"]
+[FEN "r6r/ppp1k1p1/2n3p1/2b1p1N1/2Q5/PP5P/2PP1PP1/q1BK3R b - - 1 15"]
+[SetUp "1"]
+
+15... Bd6 16. Qe6+ Kf8 17. Qf7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IOdS"]
+[Difficulty "easy"]
+[Rating "545"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/sJGslawC/black#76"]
+[Solution "c3d3 b5b8"]
+[SolutionSAN "Rd3 Rb8#"]
+[FEN "5k2/5pp1/3P3p/1R6/2p4P/1pr3P1/5PK1/8 b - - 0 38"]
+[SetUp "1"]
+
+38... Rd3 39. Rb8# *

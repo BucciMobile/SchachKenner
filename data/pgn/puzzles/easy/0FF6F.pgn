@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FF6F"]
+[Difficulty "easy"]
+[Rating "855"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/afCAugat/black#68"]
+[Solution "h7f8 f1f8"]
+[SolutionSAN "Nxf8 Rxf8#"]
+[FEN "5R1k/7n/p2p2Q1/3r4/2p4q/1P4p1/P5PP/5R1K b - - 1 34"]
+[SetUp "1"]
+
+34... Nxf8 35. Rxf8# *

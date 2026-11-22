@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KhWJ"]
+[Difficulty "hard"]
+[Rating "2198"]
+[Themes "advancedPawn attraction crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/VInB6X5N/black#36"]
+[Solution "a8d8 e6f7 g8f7 c1c7"]
+[SolutionSAN "Rad8 exf7+ Kxf7 Rc7+"]
+[FEN "r4rk1/p4pbp/bp1QPnp1/1q4B1/1P2P3/P4N2/5PPP/2R1R1K1 b - - 0 18"]
+[SetUp "1"]
+
+18... Rad8 19. exf7+ Kxf7 20. Rc7+ *

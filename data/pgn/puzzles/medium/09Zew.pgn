@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Zew"]
+[Difficulty "medium"]
+[Rating "1211"]
+[Themes "crushing deflection endgame short"]
+[GameUrl "https://lichess.org/game/9Oq8bB18#87"]
+[Solution "d3f3 c1g1 g2g1 f8f3"]
+[SolutionSAN "Qf3 Rg1+ Kxg1 Qxf3"]
+[FEN "5q1k/p5p1/1p5p/8/4P3/P2Q2P1/1P2R1K1/2r5 w - - 6 44"]
+[SetUp "1"]
+
+44. Qf3 Rg1+ 45. Kxg1 Qxf3 *

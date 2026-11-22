@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Lym"]
+[Difficulty "hard"]
+[Rating "2112"]
+[Themes "crushing endgame long master rookEndgame"]
+[GameUrl "https://lichess.org/game/pAlb0cj4#95"]
+[Solution "d5e6 c8c6 e6d5 c6f6 d3d1 f6f5"]
+[SolutionSAN "Ke6 Rc6+ Kd5 Rf6 Rd1 Rxf5+"]
+[FEN "2r5/8/8/3K1Pp1/6k1/3R4/8/8 w - - 0 48"]
+[SetUp "1"]
+
+48. Ke6 Rc6+ 49. Kd5 Rf6 50. Rd1 Rxf5+ *

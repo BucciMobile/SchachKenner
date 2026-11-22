@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HdmO"]
+[Difficulty "medium"]
+[Rating "1475"]
+[Themes "clearance crushing discoveredAttack long middlegame"]
+[GameUrl "https://lichess.org/game/t0GAEWsv/black#40"]
+[Solution "b7d5 f5e6 d5e6 d3g6 f7g6 d2d4"]
+[SolutionSAN "Bd5 fxe6+ Bxe6 Bg6+ Kxg6 Qxd4"]
+[FEN "2r4r/1b1n1kp1/p3pn1p/1p3P2/3q4/2NB4/PP1Q1NPP/2R2RK1 b - - 0 20"]
+[SetUp "1"]
+
+20... Bd5 21. fxe6+ Bxe6 22. Bg6+ Kxg6 23. Qxd4 *

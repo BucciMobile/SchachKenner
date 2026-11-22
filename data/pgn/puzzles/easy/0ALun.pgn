@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ALun"]
+[Difficulty "easy"]
+[Rating "797"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/sNX17h7n#65"]
+[Solution "e1c1 f4e2 g1f1 e2c1"]
+[SolutionSAN "Rc1 Ne2+ Kf1 Nxc1"]
+[FEN "1r4k1/5pp1/pNpPp2p/P3P3/5n2/8/1P3PPP/4R1K1 w - - 3 33"]
+[SetUp "1"]
+
+33. Rc1 Ne2+ 34. Kf1 Nxc1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JIMb"]
+[Difficulty "hard"]
+[Rating "1724"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/7zrj9hl8#103"]
+[Solution "d5d4 f4e3 d4d8 f5f4"]
+[SolutionSAN "Rd4+ Ke3 Rd8 f4"]
+[FEN "8/8/8/1p1R1p1p/1P3k1K/8/4b3/8 w - - 0 52"]
+[SetUp "1"]
+
+52. Rd4+ Ke3 53. Rd8 f4 *

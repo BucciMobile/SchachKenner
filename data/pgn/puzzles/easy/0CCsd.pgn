@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CCsd"]
+[Difficulty "easy"]
+[Rating "868"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove promotion queenEndgame"]
+[GameUrl "https://lichess.org/game/qtHGh0ki/black#102"]
+[Solution "f2f1q h7h8q"]
+[SolutionSAN "f1=Q h8=Q#"]
+[FEN "2k5/7P/2K5/2P2p2/8/7P/5p2/8 b - - 0 51"]
+[SetUp "1"]
+
+51... f1=Q 52. h8=Q# *

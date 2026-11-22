@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GSpg"]
+[Difficulty "easy"]
+[Rating "1129"]
+[Themes "advantage discoveredAttack middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/qhomEwdI#25"]
+[Solution "e4d2 b4d2 d1d2 f4a4"]
+[SolutionSAN "Nd2 Bxd2+ Rxd2 Qxa4"]
+[FEN "r6r/ppp1kppp/2n5/8/Qb2Nq2/8/PPP2PPP/2KR1B1R w - - 1 13"]
+[SetUp "1"]
+
+13. Nd2 Bxd2+ 14. Rxd2 Qxa4 *

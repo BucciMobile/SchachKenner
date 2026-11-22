@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JIlV"]
+[Difficulty "easy"]
+[Rating "751"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/QXV8EOR7#33"]
+[Solution "f2f4 c6g2"]
+[SolutionSAN "f4 Qg2#"]
+[FEN "rn3rk1/pp3pp1/2qp1n2/2p5/PP1P4/1P4Pp/NB2NP1P/R2Q1RK1 w - - 0 17"]
+[SetUp "1"]
+
+17. f4 Qg2# *

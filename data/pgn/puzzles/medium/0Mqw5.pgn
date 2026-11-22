@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Mqw5"]
+[Difficulty "medium"]
+[Rating "1357"]
+[Themes "advancedPawn crushing endgame long pin"]
+[GameUrl "https://lichess.org/game/Az7NiKg0/black#88"]
+[Solution "d7e5 d6d7 e5d7 c6d7 c8d8 c3c8"]
+[SolutionSAN "Ne5 d7 Nxd7 cxd7 Rd8 Rc8"]
+[FEN "2r2k2/3n3b/2PPr3/6R1/6P1/2R2PK1/8/8 b - - 0 44"]
+[SetUp "1"]
+
+44... Ne5 45. d7 Nxd7 46. cxd7 Rd8 47. Rc8 *

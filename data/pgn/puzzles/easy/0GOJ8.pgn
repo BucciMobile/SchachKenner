@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GOJ8"]
+[Difficulty "easy"]
+[Rating "978"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/lKCatReA#99"]
+[Solution "h5h6 e3c1"]
+[SolutionSAN "h6 Bc1#"]
+[FEN "7k/8/1p1p2Q1/2p4P/P1P1P3/KP1Pb3/4r3/8 w - - 0 50"]
+[SetUp "1"]
+
+50. h6 Bc1# *

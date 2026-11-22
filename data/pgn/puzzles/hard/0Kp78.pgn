@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kp78"]
+[Difficulty "hard"]
+[Rating "2724"]
+[Themes "crushing defensiveMove endgame knightEndgame master short"]
+[GameUrl "https://lichess.org/game/ishTPmRc/black#102"]
+[Solution "d6c7 b7a5 c7b6 a5b3"]
+[SolutionSAN "Kc7 Na5 Kb6 Nb3"]
+[FEN "8/pN6/2pk2p1/4n1Kp/4P2P/6P1/P7/8 b - - 11 51"]
+[SetUp "1"]
+
+51... Kc7 52. Na5 Kb6 53. Nb3 *

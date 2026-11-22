@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02zyr"]
+[Difficulty "hard"]
+[Rating "1716"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/KSzymD5O#35"]
+[Solution "c3e4 d8h4 g2g3 h4h6"]
+[SolutionSAN "Ne4 Qh4+ g3 Qxh6"]
+[FEN "2rq1rk1/1p1b1pbp/pn1p2pB/3P4/2Pp4/PPNB1P2/3Q2PP/2R1K2R w K - 0 18"]
+[SetUp "1"]
+
+18. Ne4 Qh4+ 19. g3 Qxh6 *

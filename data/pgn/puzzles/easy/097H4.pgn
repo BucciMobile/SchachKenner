@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "097H4"]
+[Difficulty "easy"]
+[Rating "996"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/iZ4bNyvF/black#26"]
+[Solution "f6d4 d3h7 g8h7 d1d4"]
+[SolutionSAN "Qxd4 Bxh7+ Kxh7 Qxd4"]
+[FEN "r4rk1/pppb2pp/3bpq2/3p4/3N4/P1NB3P/1PP2PP1/R2Q1RK1 b - - 0 13"]
+[SetUp "1"]
+
+13... Qxd4 14. Bxh7+ Kxh7 15. Qxd4 *

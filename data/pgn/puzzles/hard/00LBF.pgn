@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00LBF"]
+[Difficulty "hard"]
+[Rating "2179"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/HG0KKbWc/black#66"]
+[Solution "e7d7 d4d5 b7d5 c3c4"]
+[SolutionSAN "Qd7 Rxd5 Bxd5 c4"]
+[FEN "3r2k1/1b2qpb1/pp4p1/3rp3/3R2P1/2P2NBP/PP2Q2K/3R4 b - - 0 33"]
+[SetUp "1"]
+
+33... Qd7 34. Rxd5 Bxd5 35. c4 *

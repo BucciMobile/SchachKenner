@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Tfr"]
+[Difficulty "medium"]
+[Rating "1204"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+[GameUrl "https://lichess.org/game/UhmNTl3i/black#50"]
+[Solution "e8g8 h6f7"]
+[SolutionSAN "Rxg8 Nf7#"]
+[FEN "1q2r1Qk/4B1bp/6pN/p1pN4/8/8/P1P2PPP/1r1R2K1 b - - 8 25"]
+[SetUp "1"]
+
+25... Rxg8 26. Nf7# *

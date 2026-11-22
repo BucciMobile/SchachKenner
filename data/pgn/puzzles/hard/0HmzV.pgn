@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HmzV"]
+[Difficulty "hard"]
+[Rating "2426"]
+[Themes "advancedPawn crushing endgame exposedKing knightEndgame promotion veryLong"]
+[GameUrl "https://lichess.org/game/bA4FjiAx/black#120"]
+[Solution "f8f7 g5g6 f7e7 f5f6 e7f6 g6g7 f6f5 g7g8q"]
+[SolutionSAN "Kf7 g6+ Ke7 f6+ Kxf6 g7 Kf5 g8=Q"]
+[FEN "5k2/7K/8/4nPP1/8/8/8/8 b - - 2 60"]
+[SetUp "1"]
+
+60... Kf7 61. g6+ Ke7 62. f6+ Kxf6 63. g7 Kf5 64. g8=Q *

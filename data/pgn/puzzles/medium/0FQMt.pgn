@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FQMt"]
+[Difficulty "medium"]
+[Rating "1409"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/YdsJiKEy#47"]
+[Solution "e2g1 e5g4 h2h3 g4f2"]
+[SolutionSAN "Ng1 Ng4 h3 Nf2+"]
+[FEN "7Q/p3kppp/8/4n3/8/1B2q3/PPP1N1PP/7K w - - 1 24"]
+[SetUp "1"]
+
+24. Ng1 Ng4 25. h3 Nf2+ *

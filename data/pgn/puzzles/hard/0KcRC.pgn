@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KcRC"]
+[Difficulty "hard"]
+[Rating "2550"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/CmkWpi3e/black#54"]
+[Solution "f6c3 d3f5 c3e1 f5d7 e1f2 g1f2"]
+[SolutionSAN "Bc3 Qf5 Bxe1 Qxd7 Bxf2+ Kxf2"]
+[FEN "r5k1/3q1ppp/3p1b2/2pP4/1pP5/rP1QRN1P/5PP1/4R1K1 b - - 4 27"]
+[SetUp "1"]
+
+27... Bc3 28. Qf5 Bxe1 29. Qxd7 Bxf2+ 30. Kxf2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "083C1"]
+[Difficulty "easy"]
+[Rating "1082"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/nxio9BK6/black#60"]
+[Solution "e6e2 f3e2 e8e2 d1d8"]
+[SolutionSAN "Qe2 Qxe2 Rxe2 Rd8+"]
+[FEN "4r2k/p1p3bp/4q1p1/8/2P5/1P3QP1/P4P1P/3R2K1 b - - 0 30"]
+[SetUp "1"]
+
+30... Qe2 31. Qxe2 Rxe2 32. Rd8+ *

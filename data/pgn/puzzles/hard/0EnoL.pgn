@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EnoL"]
+[Difficulty "hard"]
+[Rating "1732"]
+[Themes "advantage capturingDefender middlegame short"]
+[GameUrl "https://lichess.org/game/pdkWKInx#53"]
+[Solution "f1d1 g4e4 e3d3 e5f5"]
+[SolutionSAN "Rd1 Rxe4 Qd3 Qxf5"]
+[FEN "3r4/1Rbk3p/3p1p2/2p1qN2/2P1P1r1/2P1Q3/5PPP/5RK1 w - - 3 27"]
+[SetUp "1"]
+
+27. Rd1 Rxe4 28. Qd3 Qxf5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "093zF"]
+[Difficulty "easy"]
+[Rating "831"]
+[Themes "master mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/ncLeftGm#31"]
+[Solution "f3e5 f6f2"]
+[SolutionSAN "Nxe5 Qxf2#"]
+[FEN "r1b1r1k1/pp1p1ppn/1b1P1q1p/4n3/2B4P/P1NQ1N2/1P3PP1/R1B2K1R w - - 3 16"]
+[SetUp "1"]
+
+16. Nxe5 Qxf2# *

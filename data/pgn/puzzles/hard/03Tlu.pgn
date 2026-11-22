@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Tlu"]
+[Difficulty "hard"]
+[Rating "2792"]
+[Themes "crushing long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/asbu4T5K#41"]
+[Solution "f3d4 d5d4 e3d4 e7e4 f2f3 e4d4"]
+[SolutionSAN "Nd4 Rxd4 exd4 Qe4 f3 Qxd4+"]
+[FEN "7r/2pkqppp/Qpbb4/3r4/1P6/P3PN2/5PPP/R1B2RK1 w - - 1 21"]
+[SetUp "1"]
+
+21. Nd4 Rxd4 22. exd4 Qe4 23. f3 Qxd4+ *

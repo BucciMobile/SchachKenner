@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09F6W"]
+[Difficulty "easy"]
+[Rating "1111"]
+[Themes "crushing discoveredAttack discoveredCheck fork middlegame short"]
+[GameUrl "https://lichess.org/game/rPtmG5Tr#47"]
+[Solution "f3e5 g8g2 g1h1 g2e2"]
+[SolutionSAN "Nxe5 Rxg2+ Kh1 Rxe2+"]
+[FEN "r5rk/pb3p2/1p2p3/4n3/3p4/4PN2/PP2B1P1/R4RK1 w - - 0 24"]
+[SetUp "1"]
+
+24. Nxe5 Rxg2+ 25. Kh1 Rxe2+ *

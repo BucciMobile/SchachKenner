@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04B6d"]
+[Difficulty "medium"]
+[Rating "1392"]
+[Themes "advancedPawn crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/13dKHgH1#83"]
+[Solution "d4d5 a3a2 h5h1 b2b1"]
+[SolutionSAN "d5 a2 Rh1 Rb1"]
+[FEN "8/8/8/7R/3P4/pP1kP1K1/1r6/8 w - - 1 42"]
+[SetUp "1"]
+
+42. d5 a2 43. Rh1 Rb1 *

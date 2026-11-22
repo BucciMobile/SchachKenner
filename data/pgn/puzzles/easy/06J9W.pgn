@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06J9W"]
+[Difficulty "easy"]
+[Rating "557"]
+[Themes "endgame master mate mateIn1 oneMove queenEndgame"]
+[GameUrl "https://lichess.org/game/RJyM6olJ/black#100"]
+[Solution "d5d4 c8h8"]
+[SolutionSAN "d4 Qh8#"]
+[FEN "2Q5/8/6pk/3p3p/4q2P/8/8/5K2 b - - 1 50"]
+[SetUp "1"]
+
+50... d4 51. Qh8# *

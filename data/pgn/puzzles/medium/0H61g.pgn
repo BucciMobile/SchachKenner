@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H61g"]
+[Difficulty "medium"]
+[Rating "1410"]
+[Themes "advantage deflection endgame master queensideAttack short"]
+[GameUrl "https://lichess.org/game/P0A2R5in#53"]
+[Solution "d6c7 g3e2 c1b2 d8d1"]
+[SolutionSAN "Bc7 Ne2+ Kb2 Rxd1"]
+[FEN "3r4/6kp/p1nBBpp1/1p6/5P1P/5Pn1/P1P5/2KR4 w - - 2 27"]
+[SetUp "1"]
+
+27. Bc7 Ne2+ 28. Kb2 Rxd1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AYtT"]
+[Difficulty "medium"]
+[Rating "1476"]
+[Themes "endgame equality rookEndgame short"]
+[GameUrl "https://lichess.org/game/HmcnmkPy#77"]
+[Solution "f2f3 d7d2 g1h1 d2g2"]
+[SolutionSAN "f3 Rdd2 Kh1 Rxg2"]
+[FEN "8/3r2k1/8/4p1p1/R3P1P1/1P6/2r2PP1/5RK1 w - - 0 39"]
+[SetUp "1"]
+
+39. f3 Rdd2 40. Kh1 Rxg2 *

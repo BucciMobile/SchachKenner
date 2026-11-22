@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01xUb"]
+[Difficulty "hard"]
+[Rating "1946"]
+[Themes "advantage opening pin short"]
+[GameUrl "https://lichess.org/game/ApuqVi6k/black#28"]
+[Solution "b7b5 f1b5 e8g8 b5c6"]
+[SolutionSAN "b5 Bxb5 O-O Bxc6"]
+[FEN "r1b1k2r/1p2qpbp/p1n1pnp1/8/Q7/2N2N2/PP1B1PPP/2KR1B1R b kq - 9 14"]
+[SetUp "1"]
+
+14... b5 15. Bxb5 O-O 16. Bxc6 *

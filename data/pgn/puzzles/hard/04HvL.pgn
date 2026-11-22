@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04HvL"]
+[Difficulty "hard"]
+[Rating "1776"]
+[Themes "advantage deflection endgame knightEndgame short"]
+[GameUrl "https://lichess.org/game/nFCkNV0W#97"]
+[Solution "h5h6 e5f7 g5f4 f7h6"]
+[SolutionSAN "h6 Nf7+ Kf4 Nxh6"]
+[FEN "8/p7/1p3N2/4n1KP/1k1p4/1P6/1P6/8 w - - 0 49"]
+[SetUp "1"]
+
+49. h6 Nf7+ 50. Kf4 Nxh6 *

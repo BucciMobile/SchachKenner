@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HCSS"]
+[Difficulty "medium"]
+[Rating "1266"]
+[Themes "advancedPawn advantage endgame master short"]
+[GameUrl "https://lichess.org/game/stq7opPC/black#98"]
+[Solution "g3g6 a5e5 e4d4 e6e7"]
+[SolutionSAN "Rg6 Re5+ Kd4 e7"]
+[FEN "8/p1r5/4P3/R7/2N1k3/1P4r1/1K6/8 b - - 1 49"]
+[SetUp "1"]
+
+49... Rg6 50. Re5+ Kd4 51. e7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01L9G"]
+[Difficulty "easy"]
+[Rating "762"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/w3EHrdLG#61"]
+[Solution "h1e1 f2d3 c1b1 d3e1"]
+[SolutionSAN "Re1 Nd3+ Kb1 Nxe1"]
+[FEN "4k3/1b2bNp1/2p1BpP1/r7/p2P1P1p/P6P/1P3n1B/2K4R w - - 1 31"]
+[SetUp "1"]
+
+31. Re1 Nd3+ 32. Kb1 Nxe1 *

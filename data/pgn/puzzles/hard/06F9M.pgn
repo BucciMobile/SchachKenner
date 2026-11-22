@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06F9M"]
+[Difficulty "hard"]
+[Rating "2524"]
+[Themes "advancedPawn attraction crushing defensiveMove endgame long promotion"]
+[GameUrl "https://lichess.org/game/cnfBMwZL#109"]
+[Solution "b5c5 d1d5 c5d5 h2h1q d5c5 g6g5"]
+[SolutionSAN "Kc5 Rxd5+ Kxd5 h1=Q+ Kc5 g5"]
+[FEN "8/1R6/P5pk/1K1B4/8/8/7p/3r4 w - - 2 55"]
+[SetUp "1"]
+
+55. Kc5 Rxd5+ 56. Kxd5 h1=Q+ 57. Kc5 g5 *

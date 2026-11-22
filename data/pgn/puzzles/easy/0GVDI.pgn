@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GVDI"]
+[Difficulty "easy"]
+[Rating "948"]
+[Themes "mate mateIn2 middlegame operaMate sacrifice short"]
+[GameUrl "https://lichess.org/game/6k92ENan/black#42"]
+[Solution "d8f6 e2e8 b8e8 e1e8"]
+[SolutionSAN "Qf6 Qe8+ Rxe8 Rxe8#"]
+[FEN "1r1q1k1r/p1p2ppp/2Bp4/1PpP3b/2Pb4/5N1P/P3QPP1/4R1K1 b - - 3 21"]
+[SetUp "1"]
+
+21... Qf6 22. Qe8+ Rxe8 23. Rxe8# *

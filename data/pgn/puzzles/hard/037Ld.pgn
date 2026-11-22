@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "037Ld"]
+[Difficulty "hard"]
+[Rating "2026"]
+[Themes "equality middlegame short"]
+[GameUrl "https://lichess.org/game/zX5KCp4X/black#58"]
+[Solution "e4f6 d3f5 e6f5 d5f5"]
+[SolutionSAN "Nf6 Qxf5+ Qxf5 Rxf5"]
+[FEN "8/5ppk/p1r1q2p/3R1b2/2P1n3/N2Q1P2/P5PP/6K1 b - - 0 29"]
+[SetUp "1"]
+
+29... Nf6 30. Qxf5+ Qxf5 31. Rxf5 *

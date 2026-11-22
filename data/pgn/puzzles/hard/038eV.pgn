@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "038eV"]
+[Difficulty "hard"]
+[Rating "1845"]
+[Themes "advantage hangingPiece long opening pin"]
+[GameUrl "https://lichess.org/game/G9eMrQ1I/black#24"]
+[Solution "c6e5 g2d5 a8b8 f1e1 f7f6 f2f4"]
+[SolutionSAN "Nxe5 Bxd5 Rb8 Re1 f6 f4"]
+[FEN "r1b1kb1r/p4ppp/1pn5/2pnN3/8/6P1/PP3PBP/RNB2RK1 b kq - 1 12"]
+[SetUp "1"]
+
+12... Nxe5 13. Bxd5 Rb8 14. Re1 f6 15. f4 *

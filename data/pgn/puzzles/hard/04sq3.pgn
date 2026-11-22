@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04sq3"]
+[Difficulty "hard"]
+[Rating "1908"]
+[Themes "advantage long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/HO0QJkfG#33"]
+[Solution "a4a7 d7e5 a7e7 e5f3 d2f3 d8e7"]
+[SolutionSAN "Qxa7 Nxe5 Qxe7 Nxf3+ Nxf3 Bxe7"]
+[FEN "2rb1rk1/p2nqppp/1pB1pn2/3pB2b/Q2P4/4PN1P/PP1N1PP1/2R2RK1 w - - 10 17"]
+[SetUp "1"]
+
+17. Qxa7 Nxe5 18. Qxe7 Nxf3+ 19. Nxf3 Bxe7 *

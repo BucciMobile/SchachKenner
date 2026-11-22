@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08rjs"]
+[Difficulty "medium"]
+[Rating "1375"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/DwwnzhoJ#55"]
+[Solution "g1f2 g3e4 f2e3 e4d6"]
+[SolutionSAN "Kf2 Ne4+ Kxe3 Nxd6"]
+[FEN "r7/p5k1/3Q3p/6p1/2pP2P1/4r1nP/PP6/R5K1 w - - 2 28"]
+[SetUp "1"]
+
+28. Kf2 Ne4+ 29. Kxe3 Nxd6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KqYJ"]
+[Difficulty "hard"]
+[Rating "2026"]
+[Themes "advantage endgame intermezzo long"]
+[GameUrl "https://lichess.org/game/5T8034WO/black#74"]
+[Solution "d7d4 h2h4 g4f5 d3d4 d8d4 c3d4"]
+[SolutionSAN "Rxd4 Rh4+ Kf5 Rxd4 Rxd4 Kxd4"]
+[FEN "3rb3/3r1p2/4p1p1/Pp2P3/1PnN1Pk1/2KR2P1/2P4R/8 b - - 1 37"]
+[SetUp "1"]
+
+37... Rxd4 38. Rh4+ Kf5 39. Rxd4 Rxd4 40. Kxd4 *

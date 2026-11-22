@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07FdC"]
+[Difficulty "medium"]
+[Rating "1474"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/8CRWj78N#45"]
+[Solution "g1h2 b4b8 g2g3 e1d1"]
+[SolutionSAN "Kh2 Qb8+ g3 Rxd1"]
+[FEN "6k1/p2Q1ppp/8/2p5/Pq1p4/1P5P/2P2PP1/3Rr1K1 w - - 2 23"]
+[SetUp "1"]
+
+23. Kh2 Qb8+ 24. g3 Rxd1 *

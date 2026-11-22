@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M94X"]
+[Difficulty "medium"]
+[Rating "1229"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/SdNasZB9#91"]
+[Solution "f3g2 f8f2 g2g1 f2e2"]
+[SolutionSAN "Kg2 Rf2+ Kg1 Rxe2"]
+[FEN "5r2/8/8/p7/1k6/1P2pK2/P3N3/5N2 w - - 7 46"]
+[SetUp "1"]
+
+46. Kg2 Rf2+ 47. Kg1 Rxe2 *

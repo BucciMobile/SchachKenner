@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Ier"]
+[Difficulty "easy"]
+[Rating "928"]
+[Themes "mate mateIn1 middlegame oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/VdfAwAOE/black#32"]
+[Solution "f6f3 d1d8"]
+[SolutionSAN "Qxf3 Rd8#"]
+[FEN "r1b2k1r/pp2p1bp/5qp1/8/4P3/1B3Q1P/P4PP1/R1BR2K1 b - - 3 16"]
+[SetUp "1"]
+
+16... Qxf3 17. Rd8# *

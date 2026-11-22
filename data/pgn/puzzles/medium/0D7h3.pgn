@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D7h3"]
+[Difficulty "medium"]
+[Rating "1675"]
+[Themes "crushing deflection middlegame short"]
+[GameUrl "https://lichess.org/game/0guQCIL0#71"]
+[Solution "b3b7 d5e5 e2e5 a4d1"]
+[SolutionSAN "Rxb7 Rxe5 Qxe5 Qxd1+"]
+[FEN "3r1k2/1p3pp1/2p1pn1p/2PrN3/q2P2P1/1R5P/P3QP2/3R2K1 w - - 1 36"]
+[SetUp "1"]
+
+36. Rxb7 Rxe5 37. Qxe5 Qxd1+ *

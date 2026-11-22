@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07ldo"]
+[Difficulty "hard"]
+[Rating "1779"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/Nq7bBmli/black#18"]
+[Solution "f6e4 e2h5 e8f8 h4g6"]
+[SolutionSAN "Nxe4 Bh5+ Kf8 Ng6+"]
+[FEN "r1bqk2r/ppp1b1p1/2np1n1p/4p3/4Pp1N/2NP4/PPPBBPPP/R2Q1RK1 b kq - 3 9"]
+[SetUp "1"]
+
+9... Nxe4 10. Bh5+ Kf8 11. Ng6+ *

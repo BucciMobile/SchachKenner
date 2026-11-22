@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Im29"]
+[Difficulty "hard"]
+[Rating "2640"]
+[Themes "advancedPawn crushing endgame promotion veryLong"]
+[GameUrl "https://lichess.org/game/FWyooVuS#101"]
+[Solution "c3c4 g1c1 c4b5 h2h1q h3h1 c1h1 d6g3 f3g3 b5c6 h1c1"]
+[SolutionSAN "Kc4 Rc1+ Kb5 h1=Q Rxh1 Rxh1 Bxg3 Kxg3 Kc6 Rc1+"]
+[FEN "8/8/3B4/8/1P6/2K2kpR/7p/6r1 w - - 2 51"]
+[SetUp "1"]
+
+51. Kc4 Rc1+ 52. Kb5 h1=Q 53. Rxh1 Rxh1 54. Bxg3 Kxg3 55. Kc6 Rc1+ *

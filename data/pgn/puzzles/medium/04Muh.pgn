@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Muh"]
+[Difficulty "medium"]
+[Rating "1280"]
+[Themes "advantage long middlegame pin"]
+[GameUrl "https://lichess.org/game/1XAGdFhE#25"]
+[Solution "e2d3 h5f3 d3g6 f3d1 g6f7 e8f7"]
+[SolutionSAN "Bd3 Bxf3 Bxg6 Bxd1 Bxf7+ Kxf7"]
+[FEN "r3k1nr/1pp1bppp/p1n1p1q1/4P2b/P2P4/2N1BN2/1P2BPPP/R2Q1RK1 w kq - 3 13"]
+[SetUp "1"]
+
+13. Bd3 Bxf3 14. Bxg6 Bxd1 15. Bxf7+ Kxf7 *

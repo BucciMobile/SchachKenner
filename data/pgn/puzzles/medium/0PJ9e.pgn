@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0PJ9e"]
+[Difficulty "medium"]
+[Rating "1457"]
+[Themes "advancedPawn crushing endgame long promotion"]
+[GameUrl "https://lichess.org/game/FQTy5q1U/black#76"]
+[Solution "d4f2 c8f8 g8h7 d7d8q e5f3 h2h3"]
+[SolutionSAN "Qxf2 Qxf8+ Kh7 d8=Q Nf3+ Kh3"]
+[FEN "2Q2rk1/1R1P1pp1/7p/p3n3/3q4/6P1/5PPK/8 b - - 2 38"]
+[SetUp "1"]
+
+38... Qxf2 39. Qxf8+ Kh7 40. d8=Q Nf3+ 41. Kh3 *

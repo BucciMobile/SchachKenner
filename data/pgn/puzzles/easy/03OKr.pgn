@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03OKr"]
+[Difficulty "easy"]
+[Rating "974"]
+[Themes "endgame mate mateIn1 oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/czecIyZe#43"]
+[Solution "e1e4 d4b2"]
+[SolutionSAN "Re4 Qxb2#"]
+[FEN "5rk1/4ppb1/p2p3p/3P1Q2/1p1q1P2/3P4/PP4PP/1K1RR3 w - - 1 22"]
+[SetUp "1"]
+
+22. Re4 Qxb2# *

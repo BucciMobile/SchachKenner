@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09NJG"]
+[Difficulty "easy"]
+[Rating "851"]
+[Themes "endgame mate mateIn2 queensideAttack short"]
+[GameUrl "https://lichess.org/game/z0E6FQO2#59"]
+[Solution "d1d2 f2f1 d2d1 f1d1"]
+[SolutionSAN "Rd2 Rf1+ Rd1 Rxd1#"]
+[FEN "1k6/1p4pQ/p3p3/3pP1P1/q1pP3P/P1P5/1P3r2/2KR4 w - - 0 30"]
+[SetUp "1"]
+
+30. Rd2 Rf1+ 31. Rd1 Rxd1# *

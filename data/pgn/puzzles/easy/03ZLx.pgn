@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03ZLx"]
+[Difficulty "easy"]
+[Rating "669"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/FzMEUUir/black#80"]
+[Solution "f7e7 c7d5 e7e6 d5b4"]
+[SolutionSAN "Ke7 Nd5+ Ke6 Nxb4"]
+[FEN "8/2N2kp1/3p3p/8/1r4P1/5K1P/8/8 b - - 0 40"]
+[SetUp "1"]
+
+40... Ke7 41. Nd5+ Ke6 42. Nxb4 *

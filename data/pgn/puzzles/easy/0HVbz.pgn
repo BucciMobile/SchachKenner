@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HVbz"]
+[Difficulty "easy"]
+[Rating "792"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/1ECTrutB#77"]
+[Solution "g2f1 h3h1"]
+[SolutionSAN "Kf1 Rh1#"]
+[FEN "5k2/p5pp/1p3p2/5Q2/5PP1/6qr/PPR1P1K1/8 w - - 4 39"]
+[SetUp "1"]
+
+39. Kf1 Rh1# *

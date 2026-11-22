@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Nhed"]
+[Difficulty "medium"]
+[Rating "1309"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/lAs9keB1/black#46"]
+[Solution "b7b2 d5e7"]
+[SolutionSAN "Qxb2 Ne7#"]
+[FEN "rr4k1/1q3p1p/4n1pB/3NQ3/P7/7P/1P3PP1/R5K1 b - - 4 23"]
+[SetUp "1"]
+
+23... Qxb2 24. Ne7# *

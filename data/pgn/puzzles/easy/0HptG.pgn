@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HptG"]
+[Difficulty "easy"]
+[Rating "535"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/M574CzPw/black#56"]
+[Solution "c8c1 b3g8"]
+[SolutionSAN "Rxc1 Qg8#"]
+[FEN "2r4k/6p1/p2p1q1p/Pn2pp2/1P1b4/1Q1P2PP/B2B1P1K/2R5 b - - 1 28"]
+[SetUp "1"]
+
+28... Rxc1 29. Qg8# *

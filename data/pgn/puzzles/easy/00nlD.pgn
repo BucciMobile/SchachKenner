@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00nlD"]
+[Difficulty "easy"]
+[Rating "940"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/gFXDvLri#45"]
+[Solution "e4g3 h4h2"]
+[SolutionSAN "Ng3 Qh2#"]
+[FEN "1r2r3/pp3pk1/2pp2p1/1P2p2p/2P1N1nq/3PP3/P2Q1PB1/1R3RK1 w - - 0 23"]
+[SetUp "1"]
+
+23. Ng3 Qh2# *

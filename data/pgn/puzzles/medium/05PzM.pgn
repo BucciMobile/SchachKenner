@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05PzM"]
+[Difficulty "medium"]
+[Rating "1700"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/2ZNzS2hi#77"]
+[Solution "f3g2 a3g3 g2f1 d6d5"]
+[SolutionSAN "Qg2 Rg3 Qf1 Qxd5+"]
+[FEN "6k1/8/2Pq2p1/3P1p2/7p/r4Q1P/8/6RK w - - 6 39"]
+[SetUp "1"]
+
+39. Qg2 Rg3 40. Qf1 Qxd5+ *

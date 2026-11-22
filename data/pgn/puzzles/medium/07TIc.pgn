@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07TIc"]
+[Difficulty "medium"]
+[Rating "1565"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/7yrDHr6C/black#64"]
+[Solution "b7b8 e7c7"]
+[SolutionSAN "Kb8 Qc7#"]
+[FEN "r5r1/1k2Q1p1/Rn1P3p/1P3p2/1qpb4/8/5PPP/R5K1 b - - 1 32"]
+[SetUp "1"]
+
+32... Kb8 33. Qc7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EFQs"]
+[Difficulty "medium"]
+[Rating "1578"]
+[Themes "attraction crushing fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/IxV5TCwM/black#30"]
+[Solution "a8c8 c4c8 d8c8 d5e7 g8h8 e7c8"]
+[SolutionSAN "Rc8 Qxc8 Qxc8 Nxe7+ Kh8 Nxc8"]
+[FEN "r2q1rk1/pp2ppbp/5np1/3N4/P1Q1P3/7P/1P3PP1/R1B2RK1 b - - 0 15"]
+[SetUp "1"]
+
+15... Rc8 16. Qxc8 Qxc8 17. Nxe7+ Kh8 18. Nxc8 *

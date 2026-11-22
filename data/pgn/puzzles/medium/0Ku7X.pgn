@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ku7X"]
+[Difficulty "medium"]
+[Rating "1372"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/SaBy039M/black#54"]
+[Solution "g5g2 e3g2 f6h4 g2h4"]
+[SolutionSAN "Rxg2+ Nxg2 Qxh4+ Nxh4"]
+[FEN "2k4r/1bp5/1p1p1q2/pP1Pp1rp/P4P1Q/4N3/2P3PK/R4R2 b - - 0 27"]
+[SetUp "1"]
+
+27... Rxg2+ 28. Nxg2 Qxh4+ 29. Nxh4 *

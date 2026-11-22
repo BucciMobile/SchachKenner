@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LOaE"]
+[Difficulty "medium"]
+[Rating "1662"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/qqAkwkOd/black#36"]
+[Solution "e3e2 e1e2 e7e2 f1e1 e2e1 f3e1"]
+[SolutionSAN "Re2 Rxe2 Qxe2 Re1 Qxe1+ Nxe1"]
+[FEN "4r2k/ppp1qpp1/2np1b1p/5B2/3P4/2P1rN2/PP1Q2PP/4RRK1 b - - 4 18"]
+[SetUp "1"]
+
+18... Re2 19. Rxe2 Qxe2 20. Re1 Qxe1+ 21. Nxe1 *

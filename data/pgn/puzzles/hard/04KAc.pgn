@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04KAc"]
+[Difficulty "hard"]
+[Rating "2834"]
+[Themes "advancedPawn crushing middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/93oUfehr/black#62"]
+[Solution "d7f6 h3h5 f6g4 f2e2 g6h5 e6e7 d1d2 e2d2"]
+[SolutionSAN "Ndf6 Rxh5 Ng4+ Ke2 gxh5 e7 Rd2+ Kxd2"]
+[FEN "3qr2k/p2n1Q1p/3BP1p1/7n/p1BP4/7R/5KPP/3r4 b - - 0 31"]
+[SetUp "1"]
+
+31... Ndf6 32. Rxh5 Ng4+ 33. Ke2 gxh5 34. e7 Rd2+ 35. Kxd2 *

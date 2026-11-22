@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01luH"]
+[Difficulty "easy"]
+[Rating "1095"]
+[Themes "advantage endgame queenEndgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/or0dJAaA#87"]
+[Solution "f4c4 d3c4 b3c4 a7a5 h3h4 a5a4 h4h5 a4a3"]
+[SolutionSAN "Qc4+ Qxc4 bxc4 a5 Kh4 a4 Kxh5 a3"]
+[FEN "2k5/p7/8/4P2p/5Q2/1PPqP1PK/7P/8 w - - 3 44"]
+[SetUp "1"]
+
+44. Qc4+ Qxc4 45. bxc4 a5 46. Kh4 a4 47. Kxh5 a3 *

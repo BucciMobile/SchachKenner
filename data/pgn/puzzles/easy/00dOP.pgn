@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00dOP"]
+[Difficulty "easy"]
+[Rating "481"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/RvqmzkCr/black#24"]
+[Solution "f6d5 f4f7"]
+[SolutionSAN "Nd5 Qxf7#"]
+[FEN "r2q1k1r/pbp1bppp/1p2pn2/1B2N3/3P1Q2/8/PPP2PPP/R1B2RK1 b - - 5 12"]
+[SetUp "1"]
+
+12... Nd5 13. Qxf7# *

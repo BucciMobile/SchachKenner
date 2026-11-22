@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CePY"]
+[Difficulty "easy"]
+[Rating "985"]
+[Themes "advancedPawn master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/naeqS24f/black#52"]
+[Solution "g8g7 f6g7"]
+[SolutionSAN "Rxg7 fxg7#"]
+[FEN "r5rk/pp2NnQp/5Pp1/8/3B4/8/P1qp2bP/R4RK1 b - - 3 26"]
+[SetUp "1"]
+
+26... Rxg7 27. fxg7# *

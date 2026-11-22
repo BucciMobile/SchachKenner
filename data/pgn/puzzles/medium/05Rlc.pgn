@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Rlc"]
+[Difficulty "medium"]
+[Rating "1219"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/a4p47Dgt#39"]
+[Solution "e3g3 f4h3 g3h3 g5d2"]
+[SolutionSAN "Rg3 Nxh3+ Rxh3 Qxd2"]
+[FEN "r3r1k1/ppp2ppp/8/4N1q1/3P1n2/2P1R2P/P2Q1PP1/4R1K1 w - - 7 20"]
+[SetUp "1"]
+
+20. Rg3 Nxh3+ 21. Rxh3 Qxd2 *

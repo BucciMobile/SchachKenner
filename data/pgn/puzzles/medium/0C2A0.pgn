@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C2A0"]
+[Difficulty "medium"]
+[Rating "1222"]
+[Themes "master mate mateIn1 middlegame oneMove pin"]
+[GameUrl "https://lichess.org/game/bpJiOjD6/black#36"]
+[Solution "f8f7 d1d8"]
+[SolutionSAN "Rxf7 Rd8#"]
+[FEN "1rb2rk1/2p2Rpp/2p5/4b3/p1B1P3/2P1B3/PP4PP/2KR4 b - - 0 18"]
+[SetUp "1"]
+
+18... Rxf7 19. Rd8# *

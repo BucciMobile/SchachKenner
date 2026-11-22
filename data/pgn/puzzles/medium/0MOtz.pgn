@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MOtz"]
+[Difficulty "medium"]
+[Rating "1578"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/u2n1XVJg/black#70"]
+[Solution "h3f3 d2d8"]
+[SolutionSAN "Rxf3 Qd8#"]
+[FEN "8/p3kp2/Pp2p3/2p5/2P1PpPq/2P2B1r/3Q1P1r/3R1KR1 b - - 2 35"]
+[SetUp "1"]
+
+35... Rxf3 36. Qd8# *

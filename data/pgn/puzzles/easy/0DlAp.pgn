@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DlAp"]
+[Difficulty "easy"]
+[Rating "976"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/u1oaKGBJ#51"]
+[Solution "d3f5 g7g5 f5g5 g8g5"]
+[SolutionSAN "Qxf5 Qxg5+ Qxg5 Rxg5"]
+[FEN "r5rk/3np1q1/p2p4/1p3pNP/3P4/3Q4/PPP5/2KR3R w - - 0 26"]
+[SetUp "1"]
+
+26. Qxf5 Qxg5+ 27. Qxg5 Rxg5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03hC9"]
+[Difficulty "medium"]
+[Rating "1347"]
+[Themes "advancedPawn crushing endgame long promotion"]
+[GameUrl "https://lichess.org/game/Rmm83IlX#83"]
+[Solution "h7c7 d4d3 f2f4 d3d2 f4e5 d2d1q"]
+[SolutionSAN "Rc7 d3 f4 d2 fxe5 d1=Q"]
+[FEN "8/7R/5p2/4n3/2pp2P1/2k3K1/P4P1P/8 w - - 1 42"]
+[SetUp "1"]
+
+42. Rc7 d3 43. f4 d2 44. fxe5 d1=Q *

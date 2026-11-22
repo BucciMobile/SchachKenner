@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07nXE"]
+[Difficulty "medium"]
+[Rating "1265"]
+[Themes "advancedPawn advantage endgame promotion short"]
+[GameUrl "https://lichess.org/game/pohy6EyV#91"]
+[Solution "c1g1 a2a1 g1a1 b2a1q"]
+[SolutionSAN "Rg1 Ra1 Rxa1 bxa1=Q"]
+[FEN "8/R7/P1k4P/2Pp4/3Pb3/4P1K1/rp3P2/2R5 w - - 0 46"]
+[SetUp "1"]
+
+46. Rg1 Ra1 47. Rxa1 bxa1=Q *

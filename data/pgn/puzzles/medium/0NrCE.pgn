@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NrCE"]
+[Difficulty "medium"]
+[Rating "1422"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/DVmSCHGt#41"]
+[Solution "f3f2 g5e3 f2e3 e8e3"]
+[SolutionSAN "Qf2 Be3 Qxe3 Rxe3"]
+[FEN "r1b1r1k1/pp3ppp/5n2/3B2b1/3n4/P1NP1Q1P/1P4P1/1R4KR w - - 2 21"]
+[SetUp "1"]
+
+21. Qf2 Be3 22. Qxe3 Rxe3 *

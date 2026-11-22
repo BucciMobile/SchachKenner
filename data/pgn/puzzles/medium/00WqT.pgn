@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00WqT"]
+[Difficulty "medium"]
+[Rating "1635"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/HcfiWViE/black#52"]
+[Solution "h6h5 d3e2 h5h4 e3g5"]
+[SolutionSAN "Kh5 Be2+ Kh4 Bg5#"]
+[FEN "r4r2/1ppb1p2/p2p2pk/5P2/4P3/2PBB1R1/PKP2P1q/8 b - - 4 26"]
+[SetUp "1"]
+
+26... Kh5 27. Be2+ Kh4 28. Bg5# *

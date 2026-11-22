@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01x7T"]
+[Difficulty "hard"]
+[Rating "2519"]
+[Themes "crushing endgame master veryLong"]
+[GameUrl "https://lichess.org/game/IU4Qd45l/black#84"]
+[Solution "g8g7 a5a7 g7h6 b3g8 f8g7 a7g7 d8g8 a2g8"]
+[SolutionSAN "Kg7 Ra7+ Kh6 Bg8 Bg7 Rxg7 Rxg8 Qxg8"]
+[FEN "3r1bk1/7p/3P2p1/RP3p2/1q2pP1P/1B1p2P1/Q6K/8 b - - 0 42"]
+[SetUp "1"]
+
+42... Kg7 43. Ra7+ Kh6 44. Bg8 Bg7 45. Rxg7 Rxg8 46. Qxg8 *

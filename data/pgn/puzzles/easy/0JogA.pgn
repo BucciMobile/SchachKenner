@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JogA"]
+[Difficulty "easy"]
+[Rating "1074"]
+[Themes "advantage clearance endgame pin short"]
+[GameUrl "https://lichess.org/game/i3VszZAd/black#52"]
+[Solution "g6h6 h1h3 d7h3 g1h1"]
+[SolutionSAN "Kh6 Rxh3+ Bxh3 Rh1"]
+[FEN "r7/pppb4/3p2k1/4p3/3PPp2/2P4r/P1PKB3/6RR b - - 1 26"]
+[SetUp "1"]
+
+26... Kh6 27. Rxh3+ Bxh3 28. Rh1 *

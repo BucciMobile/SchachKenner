@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dlum"]
+[Difficulty "hard"]
+[Rating "2262"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/wfHjnDTX/black#60"]
+[Solution "c7e6 g5f7 e8f7 c1c8"]
+[SolutionSAN "Ne6 Nf7+ Qxf7 Rxc8+"]
+[FEN "2rkq3/p1n1p1Q1/1p1p4/5bN1/8/5P2/PP4P1/K1R2B2 b - - 3 30"]
+[SetUp "1"]
+
+30... Ne6 31. Nf7+ Qxf7 32. Rxc8+ *

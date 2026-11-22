@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FAGY"]
+[Difficulty "easy"]
+[Rating "688"]
+[Themes "doubleBishopMate endgame kingsideAttack master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/Kbdujsfl#63"]
+[Solution "f4e4 b7e4"]
+[SolutionSAN "Rxe4 Bxe4#"]
+[FEN "4r1k1/pb3p1p/1p3PpB/2b1p1Q1/2p1qRP1/2P5/PP5P/7K w - - 0 32"]
+[SetUp "1"]
+
+32. Rxe4 Bxe4# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07JGi"]
+[Difficulty "medium"]
+[Rating "1619"]
+[Themes "advancedPawn advantage middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/lwe6M8LE#31"]
+[Solution "f3e4 g4g3 d1h5 g3g2"]
+[SolutionSAN "fxe4 g3 Qxh5 g2+"]
+[FEN "r2qk1r1/p1p2p1p/8/2Pp3b/4p1p1/5P1P/PPP4N/RN1Q1R1K w q - 0 16"]
+[SetUp "1"]
+
+16. fxe4 g3 17. Qxh5 g2+ *

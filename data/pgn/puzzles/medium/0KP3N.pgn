@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KP3N"]
+[Difficulty "medium"]
+[Rating "1363"]
+[Themes "discoveredAttack discoveredCheck mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/0joAyxoH#51"]
+[Solution "a1g1 h3g4 h2g2 h4h3"]
+[SolutionSAN "Rg1+ Bg4+ Kg2 Qh3#"]
+[FEN "8/ppp2pkp/5n2/2P5/3Q1P1q/7b/PPB2R1K/R7 w - - 5 26"]
+[SetUp "1"]
+
+26. Rg1+ Bg4+ 27. Kg2 Qh3# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03dz8"]
+[Difficulty "medium"]
+[Rating "1589"]
+[Themes "advancedPawn crushing deflection endgame knightEndgame long promotion"]
+[GameUrl "https://lichess.org/game/TvVhLX6f/black#88"]
+[Solution "a4b3 g6g7 f5e5 c7c8q e7c8 g7g8q"]
+[SolutionSAN "axb3 g7 Ke5 c8=Q Nxc8 g8=Q"]
+[FEN "8/2P1n3/6PK/3p1k2/p7/1P6/8/8 b - - 0 44"]
+[SetUp "1"]
+
+44... axb3 45. g7 Ke5 46. c8=Q Nxc8 47. g8=Q *

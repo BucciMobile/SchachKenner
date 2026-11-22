@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06RPl"]
+[Difficulty "easy"]
+[Rating "424"]
+[Themes "advancedPawn crushing endgame long master pawnEndgame promotion"]
+[GameUrl "https://lichess.org/game/vKCARRxP/black#116"]
+[Solution "b3b2 h5h6 b2c2 h6h7 b4b3 h7h8q"]
+[SolutionSAN "Kb2 h6 Kc2 h7 b3 h8=Q"]
+[FEN "8/8/6K1/7P/1p6/1k6/8/8 b - - 0 58"]
+[SetUp "1"]
+
+58... Kb2 59. h6 Kc2 60. h7 b3 61. h8=Q *

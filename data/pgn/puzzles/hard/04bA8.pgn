@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04bA8"]
+[Difficulty "hard"]
+[Rating "2176"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/XTVsooCx#69"]
+[Solution "b1b4 c4c3 f1e1 e4d3 b4b8 c3c2"]
+[SolutionSAN "Rb4 c3 Ke1 Kd3 Rb8 c2"]
+[FEN "8/p5pp/P5p1/8/2pnk3/6P1/5P1P/1R3K2 w - - 2 35"]
+[SetUp "1"]
+
+35. Rb4 c3 36. Ke1 Kd3 37. Rb8 c2 *

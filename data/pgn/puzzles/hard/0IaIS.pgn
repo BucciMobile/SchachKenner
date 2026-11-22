@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IaIS"]
+[Difficulty "hard"]
+[Rating "1766"]
+[Themes "attraction crushing endgame fork long rookEndgame sacrifice"]
+[GameUrl "https://lichess.org/game/6DbuIfub/black#82"]
+[Solution "g2b2 b6b5 b2b5 c3c4 d5c6 c4b5"]
+[SolutionSAN "Rxb2 Rxb5+ Rxb5 c4+ Kc6 cxb5+"]
+[FEN "8/8/1R6/pp1kp3/8/2PK4/PP4rP/8 b - - 1 41"]
+[SetUp "1"]
+
+41... Rxb2 42. Rxb5+ Rxb5 43. c4+ Kc6 44. cxb5+ *

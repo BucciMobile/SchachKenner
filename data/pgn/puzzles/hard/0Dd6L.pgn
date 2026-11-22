@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dd6L"]
+[Difficulty "hard"]
+[Rating "2003"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/n5DaXVMN#23"]
+[Solution "c3d5 e7e5 d5f6 f8f6 f5h7 g8h7"]
+[SolutionSAN "Nd5 Qe5 Nxf6+ Rxf6 Bxh7+ Kxh7"]
+[FEN "r4rk1/ppp1q1pp/3b1n2/5B2/2n5/2N1P3/PPP2PPP/R1BQ1RK1 w - - 1 12"]
+[SetUp "1"]
+
+12. Nd5 Qe5 13. Nxf6+ Rxf6 14. Bxh7+ Kxh7 *

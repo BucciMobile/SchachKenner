@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EST7"]
+[Difficulty "easy"]
+[Rating "754"]
+[Themes "endgame kingsideAttack master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/ndJEwbTV/black#56"]
+[Solution "f8d8 h6g7"]
+[SolutionSAN "Qxd8 Qxg7#"]
+[FEN "3R1q1k/pp2rpnp/5BpQ/4pb2/6P1/1P3P2/P1P4P/1K6 b - - 1 28"]
+[SetUp "1"]
+
+28... Qxd8 29. Qxg7# *

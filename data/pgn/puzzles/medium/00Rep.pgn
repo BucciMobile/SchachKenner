@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Rep"]
+[Difficulty "medium"]
+[Rating "1409"]
+[Themes "advancedPawn crushing endgame knightEndgame short"]
+[GameUrl "https://lichess.org/game/jXFjUSJk#101"]
+[Solution "c5a6 c4c3 b3b4 c3c2"]
+[SolutionSAN "Nxa6 c3 b4 c2"]
+[FEN "8/8/b1k5/p1N5/2p5/1P4P1/P6P/6K1 w - - 1 51"]
+[SetUp "1"]
+
+51. Nxa6 c3 52. b4 c2 *

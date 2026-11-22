@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NNDI"]
+[Difficulty "medium"]
+[Rating "1524"]
+[Themes "discoveredCheck doubleCheck mate mateIn4 middlegame sacrifice smotheredMate veryLong"]
+[GameUrl "https://lichess.org/game/SiihZcaP#45"]
+[Solution "b1a1 e3c2 a1b1 c2a3 b1a1 g6b1 d1b1 a3c2"]
+[SolutionSAN "Ka1 Nc2+ Kb1 Na3+ Ka1 Qb1+ Rxb1 Nc2#"]
+[FEN "r1r5/3Q1ppk/p5q1/3Pp3/8/1NP1nP2/PP5P/1K1R3R w - - 5 23"]
+[SetUp "1"]
+
+23. Ka1 Nc2+ 24. Kb1 Na3+ 25. Ka1 Qb1+ 26. Rxb1 Nc2# *

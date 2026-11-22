@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02uPB"]
+[Difficulty "medium"]
+[Rating "1257"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/f2gHfNiu#83"]
+[Solution "e4f5 e8e3 f3f2 e3c3"]
+[SolutionSAN "Bxf5 Re3+ Kf2 Rxc3"]
+[FEN "4r1k1/8/p6p/2p2ppP/4Bb2/1PB2K2/P2p4/3R4 w - - 0 42"]
+[SetUp "1"]
+
+42. Bxf5 Re3+ 43. Kf2 Rxc3 *

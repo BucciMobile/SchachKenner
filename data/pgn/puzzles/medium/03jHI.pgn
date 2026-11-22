@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03jHI"]
+[Difficulty "medium"]
+[Rating "1676"]
+[Themes "crushing fork long middlegame xRayAttack"]
+[GameUrl "https://lichess.org/game/nhXVIvRv#47"]
+[Solution "e1f2 e5d4 c5d4 b6d4 d2e3 d4f6"]
+[SolutionSAN "Kf2 Bd4+ Qxd4 Qxd4+ Be3 Qf6+"]
+[FEN "6k1/5ppp/1q2p3/2Q1b2b/P3P3/3P4/P1RBP2P/1r2K2R w K - 1 24"]
+[SetUp "1"]
+
+24. Kf2 Bd4+ 25. Qxd4 Qxd4+ 26. Be3 Qf6+ *

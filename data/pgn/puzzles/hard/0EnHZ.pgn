@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EnHZ"]
+[Difficulty "hard"]
+[Rating "1810"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/z7KR3QaO#57"]
+[Solution "c6c7 e8e2 b2a1 g6c2 c7c8q c2c8"]
+[SolutionSAN "c7 Re2+ Ka1 Qc2 c8=Q+ Qxc8"]
+[FEN "4r1k1/5pp1/ppP3q1/3P3p/1P5P/5RB1/PK3PP1/7R w - - 0 29"]
+[SetUp "1"]
+
+29. c7 Re2+ 30. Ka1 Qc2 31. c8=Q+ Qxc8 *

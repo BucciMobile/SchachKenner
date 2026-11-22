@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BRML"]
+[Difficulty "hard"]
+[Rating "2232"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/zL0fPsoq/black#38"]
+[Solution "c6d4 h6g7 f6g4 f3g4 e6g4 g3g4"]
+[SolutionSAN "Nd4 Bxg7 Ng4 Qxg4 Qxg4 Rxg4"]
+[FEN "r4rk1/pp3ppp/1bn1qn1B/4p3/1P6/P1NP1QR1/2P2P2/2KR4 b - - 2 19"]
+[SetUp "1"]
+
+19... Nd4 20. Bxg7 Ng4 21. Qxg4 Qxg4 22. Rxg4 *

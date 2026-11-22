@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ezm4"]
+[Difficulty "medium"]
+[Rating "1312"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/3509OeDJ#55"]
+[Solution "g3f4 d8d4 f4g5 h7h6 g5g6 f5h4"]
+[SolutionSAN "Kf4 Rd4+ Kg5 h6+ Kg6 Nh4+"]
+[FEN "3r2k1/p1R3pp/4p3/4Pn2/8/5PKP/P4P2/R7 w - - 3 28"]
+[SetUp "1"]
+
+28. Kf4 Rd4+ 29. Kg5 h6+ 30. Kg6 Nh4+ *

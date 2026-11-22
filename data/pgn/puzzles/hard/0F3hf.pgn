@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F3hf"]
+[Difficulty "hard"]
+[Rating "1962"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/z8Z8FTzd#59"]
+[Solution "e1e4 h7h1 g3h1 e5h2"]
+[SolutionSAN "Rxe4 Rh1+ Nxh1 Bh2#"]
+[FEN "7r/1ppk2pr/3p4/1P1Pb3/1P2p1P1/6N1/5PP1/4RRK1 w - - 1 30"]
+[SetUp "1"]
+
+30. Rxe4 Rh1+ 31. Nxh1 Bh2# *

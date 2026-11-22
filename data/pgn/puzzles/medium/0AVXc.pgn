@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AVXc"]
+[Difficulty "medium"]
+[Rating "1700"]
+[Themes "middlegame"]
+[GameUrl "https://lichess.org/game/vT5rZOzA#49"]
+[Solution "e1e3 d5d4 c3d4 e4c6"]
+[SolutionSAN "Re3 d4 Qxd4 Bxc6"]
+[FEN "4r1k1/p3rpp1/2R4p/3p2q1/4b3/2Q4P/PP3PP1/4RBK1 w - - 3 25"]
+[SetUp "1"]
+
+25. Re3 d4 26. Qxd4 Bxc6 *

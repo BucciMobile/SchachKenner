@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J5hj"]
+[Difficulty "hard"]
+[Rating "2413"]
+[Themes "crushing defensiveMove endgame long queenEndgame"]
+[GameUrl "https://lichess.org/game/pJQYqgC5/black#96"]
+[Solution "g7f8 e5e6 g6g5 f4g5 d2b4 h4h5"]
+[SolutionSAN "Kf8 e6 g5+ fxg5 Qb4+ Kh5"]
+[FEN "8/5pkp/5Qp1/4P3/5P1K/6PP/2pq4/8 b - - 1 48"]
+[SetUp "1"]
+
+48... Kf8 49. e6 g5+ 50. fxg5 Qb4+ 51. Kh5 *

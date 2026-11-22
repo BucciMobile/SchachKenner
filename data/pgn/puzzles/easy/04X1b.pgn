@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04X1b"]
+[Difficulty "easy"]
+[Rating "996"]
+[Themes "crushing deflection endgame short skewer"]
+[GameUrl "https://lichess.org/game/N9pnAPR4/black#130"]
+[Solution "e7f6 b5b8 f8e7 b8g8"]
+[SolutionSAN "Bf6 Rb8+ Ke7 Rxg8"]
+[FEN "5kr1/p3b3/6PK/1R6/8/1P6/8/8 b - - 4 65"]
+[SetUp "1"]
+
+65... Bf6 66. Rb8+ Ke7 67. Rxg8 *

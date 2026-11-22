@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LIa7"]
+[Difficulty "medium"]
+[Rating "1313"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/yUg1CTDN/black#54"]
+[Solution "c5c4 d7f6 g8g7 f6d5"]
+[SolutionSAN "c4 Nf6+ Kg7 Nxd5"]
+[FEN "1r3rk1/3N1p1p/6p1/p1pq4/Q2p4/P1bN1PP1/4P1KP/5R2 b - - 0 27"]
+[SetUp "1"]
+
+27... c4 28. Nf6+ Kg7 29. Nxd5 *

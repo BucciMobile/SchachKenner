@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KGFf"]
+[Difficulty "medium"]
+[Rating "1506"]
+[Themes "crushing master masterVsMaster middlegame short xRayAttack"]
+[GameUrl "https://lichess.org/game/aOJ9IonA/black#48"]
+[Solution "a8c8 b7c8 c6c8 c1c8"]
+[SolutionSAN "Rac8 Qxc8+ Rxc8 Rxc8+"]
+[FEN "r5k1/1Q3ppp/2rqp3/p2p4/3P4/P3P3/NP2BPPP/2R2nK1 b - - 0 24"]
+[SetUp "1"]
+
+24... Rac8 25. Qxc8+ Rxc8 26. Rxc8+ *

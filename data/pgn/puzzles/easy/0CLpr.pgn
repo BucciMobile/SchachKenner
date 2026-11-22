@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CLpr"]
+[Difficulty "easy"]
+[Rating "845"]
+[Themes "kingsideAttack mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/MeW5H98m#35"]
+[Solution "e4d5 c7h2"]
+[SolutionSAN "exd5 Qxh2#"]
+[FEN "r1b1k1nr/ppq1ppb1/2p5/2Pp4/3PP3/2N1BB2/P4PPP/2RQ1RK1 w kq - 0 18"]
+[SetUp "1"]
+
+18. exd5 Qxh2# *

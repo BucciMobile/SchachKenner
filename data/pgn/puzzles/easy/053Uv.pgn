@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "053Uv"]
+[Difficulty "easy"]
+[Rating "1165"]
+[Themes "crushing deflection endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/QlWav3eu/black#88"]
+[Solution "f4e3 d6e6 e3f4 c3d2"]
+[SolutionSAN "Ke3 Re6+ Kf4 Kxd2"]
+[FEN "8/p5pp/1p1R4/1P1P4/1P3k2/2K5/3r4/8 b - - 2 44"]
+[SetUp "1"]
+
+44... Ke3 45. Re6+ Kf4 46. Kxd2 *

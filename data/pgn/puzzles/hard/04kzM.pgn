@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04kzM"]
+[Difficulty "hard"]
+[Rating "2672"]
+[Themes "crushing enPassant long middlegame"]
+[GameUrl "https://lichess.org/game/ZFz03vea#69"]
+[Solution "c3e4 b6e3 c2c4 b4c3 b2f2 e3d3"]
+[SolutionSAN "Ne4 Qe3 c4 bxc3 Qf2 Qd3+"]
+[FEN "3r2k1/6pp/pq2pp2/8/Pp3n2/2N2P2/1QP4P/R4KR1 w - - 0 35"]
+[SetUp "1"]
+
+35. Ne4 Qe3 36. c4 bxc3 37. Qf2 Qd3+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E6Jz"]
+[Difficulty "hard"]
+[Rating "1994"]
+[Themes "advantage kingsideAttack long middlegame pin"]
+[GameUrl "https://lichess.org/game/e53GPNHn#53"]
+[Solution "h4g4 e6g4 e3g4 f3g3 g1h2 g3g4"]
+[SolutionSAN "Qg4 Qxg4 Nxg4 Rxg3+ Kh2 Rxg4"]
+[FEN "4r1k1/1pp3p1/4q1p1/p1b1p1B1/4P2Q/P3NrP1/1PP2P2/R4RK1 w - - 1 27"]
+[SetUp "1"]
+
+27. Qg4 Qxg4 28. Nxg4 Rxg3+ 29. Kh2 Rxg4 *

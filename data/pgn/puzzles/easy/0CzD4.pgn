@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CzD4"]
+[Difficulty "easy"]
+[Rating "995"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/GdiGzi26#87"]
+[Solution "d5e4 e3b3 a2a1 b3b2"]
+[SolutionSAN "Be4 Qxb3+ Ka1 Qxb2#"]
+[FEN "1r5k/4b2p/5p2/p2B1Q2/2P4P/1P2q3/KP2P3/6R1 w - - 4 44"]
+[SetUp "1"]
+
+44. Be4 Qxb3+ 45. Ka1 Qxb2# *

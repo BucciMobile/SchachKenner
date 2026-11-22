@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0InsP"]
+[Difficulty "easy"]
+[Rating "1025"]
+[Themes "mate mateIn2 opening short"]
+[GameUrl "https://lichess.org/game/H5bEn8h7/black#12"]
+[Solution "g5f4 e2h5 f6h5 d1h5"]
+[SolutionSAN "gxf4 Bh5+ Nxh5 Qxh5#"]
+[FEN "rnbqkb1r/pp1pp3/2p2n1p/4Npp1/3P1B2/4P3/PPP1BPPP/RN1QK2R b KQkq - 1 6"]
+[SetUp "1"]
+
+6... gxf4 7. Bh5+ Nxh5 8. Qxh5# *

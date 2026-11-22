@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fmve"]
+[Difficulty "hard"]
+[Rating "2356"]
+[Themes "advancedPawn crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/J1P6quQL#131"]
+[Solution "e5e2 f2f3 c2b3 g3g2 e2g2 f3g2"]
+[SolutionSAN "Re2+ Kf3 Bb3 g2 Rxg2 Kxg2"]
+[FEN "8/8/8/4R3/3r4/6p1/2Bp1k2/3K4 w - - 2 66"]
+[SetUp "1"]
+
+66. Re2+ Kf3 67. Bb3 g2 68. Rxg2 Kxg2 *

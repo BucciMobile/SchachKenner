@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JgPa"]
+[Difficulty "hard"]
+[Rating "2590"]
+[Themes "advantage middlegame pin sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/Xcm8rTSm#45"]
+[Solution "f3f4 a5c4 d2c3 e6h3 f4e5 h3f3 d1e1 f3e3"]
+[SolutionSAN "f4 Nc4 Qc3 Qh3 fxe5 Qf3+ Ke1 Qxe3+"]
+[FEN "3r2k1/p4pp1/2p1q2p/n3r3/8/3BPP2/PPPQ3P/R2K2R1 w - - 1 23"]
+[SetUp "1"]
+
+23. f4 Nc4 24. Qc3 Qh3 25. fxe5 Qf3+ 26. Ke1 Qxe3+ *

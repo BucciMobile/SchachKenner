@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A1Di"]
+[Difficulty "hard"]
+[Rating "1776"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/gtFms6cu#35"]
+[Solution "d7c7 e7d8 c7c6 f4e4"]
+[SolutionSAN "Rxc7 Bd8 Rxc6 Rxe4"]
+[FEN "r5k1/p1pRb1pp/2p1p3/4p3/4Nr2/8/PPP2PPP/5R1K w - - 4 18"]
+[SetUp "1"]
+
+18. Rxc7 Bd8 19. Rxc6 Rxe4 *

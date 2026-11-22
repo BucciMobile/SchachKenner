@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "096Jz"]
+[Difficulty "medium"]
+[Rating "1218"]
+[Themes "bishopEndgame crushing deflection endgame master short"]
+[GameUrl "https://lichess.org/game/PawRYMII/black#72"]
+[Solution "f2c5 a4a5 b6a6 c4c5"]
+[SolutionSAN "Bc5 a5+ Ka6 Kxc5"]
+[FEN "4B3/8/1kp2p1p/4p1p1/P1K1P1P1/5P1P/5b2/8 b - - 2 36"]
+[SetUp "1"]
+
+36... Bc5 37. a5+ Ka6 38. Kxc5 *

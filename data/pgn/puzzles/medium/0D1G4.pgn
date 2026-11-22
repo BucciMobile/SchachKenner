@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D1G4"]
+[Difficulty "medium"]
+[Rating "1479"]
+[Themes "advancedPawn advantage clearance endgame long pin"]
+[GameUrl "https://lichess.org/game/mS7CuYxa/black#58"]
+[Solution "g6h6 e6e7 c8e8 e1e6 h6g7 e6f6"]
+[SolutionSAN "Kxh6 e7 Re8 Re6 Kg7 Rxf6"]
+[FEN "2r5/p1p5/bp2PqkP/3Q2p1/3P4/P7/5PP1/4R1K1 b - - 0 29"]
+[SetUp "1"]
+
+29... Kxh6 30. e7 Re8 31. Re6 Kg7 32. Rxf6 *

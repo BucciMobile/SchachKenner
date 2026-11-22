@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CVL1"]
+[Difficulty "medium"]
+[Rating "1635"]
+[Themes "endgame master mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/6uozzFpA#117"]
+[Solution "e1e3 h2h1"]
+[SolutionSAN "Re3 Rh1#"]
+[FEN "8/8/3P4/5k2/2R5/2P2bpP/7r/4RK2 w - - 3 59"]
+[SetUp "1"]
+
+59. Re3 Rh1# *

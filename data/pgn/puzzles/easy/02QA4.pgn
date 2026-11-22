@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02QA4"]
+[Difficulty "easy"]
+[Rating "1183"]
+[Themes "blindSwineMate endgame mate mateIn1 oneMove queenRookEndgame"]
+[GameUrl "https://lichess.org/game/0BCLJYQg/black#84"]
+[Solution "e8d8 b7d7"]
+[SolutionSAN "Kd8 Rbd7#"]
+[FEN "2r1k3/pR2R3/6pp/1p4r1/1Pp1P3/5P2/P4K2/2q5 b - - 5 42"]
+[SetUp "1"]
+
+42... Kd8 43. Rbd7# *

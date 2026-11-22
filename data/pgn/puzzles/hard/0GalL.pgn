@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GalL"]
+[Difficulty "hard"]
+[Rating "2445"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/YrqHjsJI#55"]
+[Solution "g1g2 h7h6 g5d2 c3d2 c1c8 h8h7"]
+[SolutionSAN "Kg2 h6 Qd2 cxd2 Rxc8+ Kh7"]
+[FEN "2r4k/6pp/pq6/4p1Q1/P3P3/2p2NPP/8/2R3K1 w - - 2 28"]
+[SetUp "1"]
+
+28. Kg2 h6 29. Qd2 cxd2 30. Rxc8+ Kh7 *

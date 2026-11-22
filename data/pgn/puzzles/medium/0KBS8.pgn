@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KBS8"]
+[Difficulty "medium"]
+[Rating "1500"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/5HQDwnqf/black#72"]
+[Solution "e3d4 g3f5 g7g6 f5d4"]
+[SolutionSAN "Qxd4 Nf5+ Kg6 Nxd4"]
+[FEN "8/pp4k1/2p4p/3p2b1/3P4/P3q1N1/KPP4Q/8 b - - 9 36"]
+[SetUp "1"]
+
+36... Qxd4 37. Nf5+ Kg6 38. Nxd4 *

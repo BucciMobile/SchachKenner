@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0895G"]
+[Difficulty "hard"]
+[Rating "1916"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/6UbK6wUY#89"]
+[Solution "e4d3 c5b4 d3c2 b4a3"]
+[SolutionSAN "Kd3 Kb4 Kc2 Ka3"]
+[FEN "8/8/pp6/2k4p/P3K3/1P4P1/8/8 w - - 1 45"]
+[SetUp "1"]
+
+45. Kd3 Kb4 46. Kc2 Ka3 *

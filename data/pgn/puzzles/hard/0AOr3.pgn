@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AOr3"]
+[Difficulty "hard"]
+[Rating "1720"]
+[Themes "advantage long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/SHURhqn7#43"]
+[Solution "c2c7 b7a6 c7c4 b5c4 c1c4 a6c4"]
+[SolutionSAN "Qc7 Ba6 Qc4 Qxc4 Rxc4 Bxc4"]
+[FEN "5rk1/pb2b1p1/1p1p1nBp/1q1Pp3/8/7P/PPQB1PP1/2R1K2R w K - 0 22"]
+[SetUp "1"]
+
+22. Qc7 Ba6 23. Qc4 Qxc4 24. Rxc4 Bxc4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BxDN"]
+[Difficulty "medium"]
+[Rating "1363"]
+[Themes "endgame epauletteMate mate mateIn1 oneMove operaMate"]
+[GameUrl "https://lichess.org/game/ve0PnwKQ#89"]
+[Solution "f2e3 d4e4"]
+[SolutionSAN "Ke3 Re4#"]
+[FEN "6k1/6p1/1p5p/p4b2/2Pr1P2/1P1N1R2/P2R1K1r/8 w - - 3 45"]
+[SetUp "1"]
+
+45. Ke3 Re4# *

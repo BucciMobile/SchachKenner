@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FJ9d"]
+[Difficulty "easy"]
+[Rating "1147"]
+[Themes "crushing deflection endgame exposedKing long"]
+[GameUrl "https://lichess.org/game/mBNoaPMv#53"]
+[Solution "f3g2 f8f5 c1f4 f5f4 f2e3 h2g2"]
+[SolutionSAN "Qg2 Rxf5+ Bf4 Rxf4+ Ke3 Qxg2"]
+[FEN "5rk1/2p3pp/p7/5P2/3P4/2P2Q1P/PP3K1q/R1B5 w - - 3 27"]
+[SetUp "1"]
+
+27. Qg2 Rxf5+ 28. Bf4 Rxf4+ 29. Ke3 Qxg2 *

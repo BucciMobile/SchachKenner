@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0847q"]
+[Difficulty "medium"]
+[Rating "1560"]
+[Themes "mate mateIn1 middlegame morphysMate oneMove"]
+[GameUrl "https://lichess.org/game/hyIS6Cb8/black#62"]
+[Solution "e7f8 b2f6"]
+[SolutionSAN "Bxf8 Bf6#"]
+[FEN "r1b2Q2/p3b3/3N3p/2R5/1P3p1k/P2q3P/1B3PP1/5RK1 b - - 0 31"]
+[SetUp "1"]
+
+31... Bxf8 32. Bf6# *

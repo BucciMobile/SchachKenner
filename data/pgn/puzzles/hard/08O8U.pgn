@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08O8U"]
+[Difficulty "hard"]
+[Rating "2206"]
+[Themes "advantage endgame long pin"]
+[GameUrl "https://lichess.org/game/HpTxr99g/black#80"]
+[Solution "f8h8 f6h5 h8h5 g4h5 b4b1 h5h6"]
+[SolutionSAN "Rh8+ Nh5+ Rxh5+ gxh5 Qb1 h6+"]
+[FEN "5r2/3R1pk1/p3pNp1/1p2P3/1qn3P1/6QK/5P2/8 b - - 1 40"]
+[SetUp "1"]
+
+40... Rh8+ 41. Nh5+ Rxh5+ 42. gxh5 Qb1 43. h6+ *

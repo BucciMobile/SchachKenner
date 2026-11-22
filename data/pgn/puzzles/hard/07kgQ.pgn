@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07kgQ"]
+[Difficulty "hard"]
+[Rating "1889"]
+[Themes "advantage discoveredAttack long master middlegame"]
+[GameUrl "https://lichess.org/game/xEvruKLW#53"]
+[Solution "a1c1 f6e5 e1e5 c3e2 f1e2 c8c1"]
+[SolutionSAN "Rac1 Bxe5 Rxe5 Ne2+ Bxe2 Rxc1+"]
+[FEN "2r3k1/1b3p1p/p3pb2/1p2N1p1/1P6/P1n4P/5PP1/R3RBK1 w - - 0 27"]
+[SetUp "1"]
+
+27. Rac1 Bxe5 28. Rxe5 Ne2+ 29. Bxe2 Rxc1+ *

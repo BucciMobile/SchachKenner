@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NS8l"]
+[Difficulty "medium"]
+[Rating "1634"]
+[Themes "attraction crushing fork middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/16VX2gO3#57"]
+[Solution "b1c1 d8d2 c1d2 c7f4 d2c3 e8e3 h3e3 f4e3"]
+[SolutionSAN "Kc1 Rxd2 Kxd2 Qf4+ Kc3 Re3+ Qxe3 Qxe3+"]
+[FEN "3rr2k/ppq3pp/2p2p2/5P2/2B5/7Q/PPPB3P/1K1R4 w - - 4 29"]
+[SetUp "1"]
+
+29. Kc1 Rxd2 30. Kxd2 Qf4+ 31. Kc3 Re3+ 32. Qxe3 Qxe3+ *

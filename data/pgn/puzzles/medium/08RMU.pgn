@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08RMU"]
+[Difficulty "medium"]
+[Rating "1262"]
+[Themes "advancedPawn crushing endgame hangingPiece promotion veryLong"]
+[GameUrl "https://lichess.org/game/N97rr8cj/black#90"]
+[Solution "f4e4 b6a6 e4d3 a6b5 d3c3 a5a6 c3d3 a6a7 c4c3 a7a8q"]
+[SolutionSAN "Ke4 Kxa6 Kd3 Kb5 Kxc3 a6 Kd3 a7 c3 a8=Q"]
+[FEN "8/8/bK6/P7/2p2k2/2P5/8/8 b - - 1 45"]
+[SetUp "1"]
+
+45... Ke4 46. Kxa6 Kd3 47. Kb5 Kxc3 48. a6 Kd3 49. a7 c3 50. a8=Q *

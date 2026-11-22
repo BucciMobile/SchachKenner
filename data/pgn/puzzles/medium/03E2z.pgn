@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03E2z"]
+[Difficulty "medium"]
+[Rating "1523"]
+[Themes "crushing defensiveMove endgame long pawnEndgame zugzwang"]
+[GameUrl "https://lichess.org/game/sgLUTubC#111"]
+[Solution "d3e3 d5e5 e3f3 e5f5 f3g3 f5g5"]
+[SolutionSAN "Ke3 Kxe5 Kf3 Kf5 Kg3 Kg5"]
+[FEN "8/8/6p1/3kP3/8/3K4/8/8 w - - 1 56"]
+[SetUp "1"]
+
+56. Ke3 Kxe5 57. Kf3 Kf5 58. Kg3 Kg5 *

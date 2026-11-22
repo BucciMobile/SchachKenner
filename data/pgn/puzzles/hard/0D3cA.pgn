@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D3cA"]
+[Difficulty "hard"]
+[Rating "2470"]
+[Themes "fork mate mateIn4 middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/p3AHhA6e/black#22"]
+[Solution "f6e4 e2b5 c7c6 b5c6 b8c6 e6d7 e8d8 g5e6"]
+[SolutionSAN "Ne4 Qb5+ c6 Qxc6+ Nxc6 Bd7+ Kd8 Ne6#"]
+[FEN "rn2kb1r/p1p1p1pp/1p2Bn2/4N1N1/3P4/8/PPP1QPqP/R1B1K2b b Qkq - 5 11"]
+[SetUp "1"]
+
+11... Ne4 12. Qb5+ c6 13. Qxc6+ Nxc6 14. Bd7+ Kd8 15. Ne6# *

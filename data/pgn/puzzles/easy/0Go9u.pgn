@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Go9u"]
+[Difficulty "easy"]
+[Rating "1194"]
+[Themes "advantage deflection endgame short"]
+[GameUrl "https://lichess.org/game/8dA0lPdI/black#70"]
+[Solution "b4c4 d7d8 c8d8 c2c4"]
+[SolutionSAN "Qxc4 Rd8+ Rxd8 Qxc4"]
+[FEN "2r3k1/3R1pp1/7p/p7/1qP5/4P1P1/2Q2PKP/8 b - - 0 35"]
+[SetUp "1"]
+
+35... Qxc4 36. Rd8+ Rxd8 37. Qxc4 *

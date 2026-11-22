@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Obcy"]
+[Difficulty "medium"]
+[Rating "1508"]
+[Themes "mate mateIn1 middlegame oneMove pin"]
+[GameUrl "https://lichess.org/game/wSveGHYv#41"]
+[Solution "f1e2 h5f4"]
+[SolutionSAN "Ke2 Nf4#"]
+[FEN "r3r1k1/pp3pp1/2pb3p/3p1B1n/3P4/2NQP3/PP1N1P2/1RR2K1q w - - 6 21"]
+[SetUp "1"]
+
+21. Ke2 Nf4# *

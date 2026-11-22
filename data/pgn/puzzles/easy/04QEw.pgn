@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04QEw"]
+[Difficulty "easy"]
+[Rating "851"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/u1D9YAJA/black#44"]
+[Solution "a5b4 a3a8 c6c8 a8c8"]
+[SolutionSAN "axb4 Ra8+ Rc8 Rxc8#"]
+[FEN "6k1/5ppp/1pr1p3/p7/1P2P3/R3P2P/5PK1/8 b - - 0 22"]
+[SetUp "1"]
+
+22... axb4 23. Ra8+ Rc8 24. Rxc8# *

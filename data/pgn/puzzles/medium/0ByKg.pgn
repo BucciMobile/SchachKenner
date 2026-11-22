@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ByKg"]
+[Difficulty "medium"]
+[Rating "1320"]
+[Themes "crushing master middlegame pin short"]
+[GameUrl "https://lichess.org/game/h0ohHvK5#61"]
+[Solution "g1h1 g3h3 e2h2 g6c2"]
+[SolutionSAN "Kh1 Rh3+ Rh2 Qxc2"]
+[FEN "7k/bp4p1/p2p2qp/4p3/1P1P3P/P5r1/1BQ1R3/R5K1 w - - 0 31"]
+[SetUp "1"]
+
+31. Kh1 Rh3+ 32. Rh2 Qxc2 *

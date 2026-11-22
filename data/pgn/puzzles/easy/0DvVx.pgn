@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DvVx"]
+[Difficulty "easy"]
+[Rating "1076"]
+[Themes "crushing endgame master pin queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/XqFxQufN#101"]
+[Solution "e5d6 g4g6 f6g6 h7g6"]
+[SolutionSAN "Kd6 Rg6 Qxg6+ Kxg6"]
+[FEN "8/7k/5Q1p/4K2p/2p3r1/2P5/8/8 w - - 9 51"]
+[SetUp "1"]
+
+51. Kd6 Rg6 52. Qxg6+ Kxg6 *

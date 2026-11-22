@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GSpF"]
+[Difficulty "easy"]
+[Rating "708"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/EYQ0jPEo/black#16"]
+[Solution "h7g6 d3g6"]
+[SolutionSAN "hxg6 Bxg6#"]
+[FEN "r2qkb1r/pppbp2p/2np1nN1/8/8/2NB4/PPPP1PPP/R1BQK2R b KQkq - 0 8"]
+[SetUp "1"]
+
+8... hxg6 9. Bxg6# *

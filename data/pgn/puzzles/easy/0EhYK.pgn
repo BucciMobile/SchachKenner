@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EhYK"]
+[Difficulty "easy"]
+[Rating "1108"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/sINPoGlw#23"]
+[Solution "d4e5 d7e5 f3f5 e5d3"]
+[SolutionSAN "dxe5 Nxe5 Qf5 Nxd3+"]
+[FEN "r2qk2r/pp1n1ppp/2p2n2/4p3/3P4/3BPQ1P/PP1N1PP1/R3K2R w KQkq - 0 12"]
+[SetUp "1"]
+
+12. dxe5 Nxe5 13. Qf5 Nxd3+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BcKA"]
+[Difficulty "hard"]
+[Rating "1856"]
+[Themes "advantage endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/7TnLCUz9#77"]
+[Solution "g2f3 d8d3 f3g4 g7g6 c6f6 g6f6"]
+[SolutionSAN "Kf3 R8d3+ Kg4 Kg6 Rxf6+ Kxf6"]
+[FEN "3r4/p5k1/2R2p1p/6p1/4P3/1P4PP/P1Rr2K1/8 w - - 1 39"]
+[SetUp "1"]
+
+39. Kf3 R8d3+ 40. Kg4 Kg6 41. Rxf6+ Kxf6 *

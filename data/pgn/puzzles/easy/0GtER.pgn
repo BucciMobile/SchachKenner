@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GtER"]
+[Difficulty "easy"]
+[Rating "1113"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/KxW7kkfl/black#102"]
+[Solution "b5b4 g5g6 h7h6 a8h8"]
+[SolutionSAN "b4 g6+ Kh6 Rh8#"]
+[FEN "R7/6pk/8/1p3PP1/6K1/8/pr6/8 b - - 1 51"]
+[SetUp "1"]
+
+51... b4 52. g6+ Kh6 53. Rh8# *

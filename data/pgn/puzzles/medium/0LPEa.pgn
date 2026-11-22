@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LPEa"]
+[Difficulty "medium"]
+[Rating "1329"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/ROgIn1EU#45"]
+[Solution "f2e3 b3c2 b1a2 c8a8"]
+[SolutionSAN "Qe3 Qc2+ Ka2 Ra8+"]
+[FEN "2r4k/5pbp/3p1np1/8/3BP2P/1q3P2/1P3QP1/1K1R3R w - - 0 23"]
+[SetUp "1"]
+
+23. Qe3 Qc2+ 24. Ka2 Ra8+ *

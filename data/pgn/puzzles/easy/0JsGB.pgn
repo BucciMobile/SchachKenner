@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JsGB"]
+[Difficulty "easy"]
+[Rating "789"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/fa6ZbuA8/black#30"]
+[Solution "f7e6 c4e6"]
+[SolutionSAN "fxe6 Bxe6#"]
+[FEN "r1k2bnr/pp3pp1/2p1N2p/8/2B2B2/2K2P2/PP3PPP/n2R4 b - - 0 15"]
+[SetUp "1"]
+
+15... fxe6 16. Bxe6# *

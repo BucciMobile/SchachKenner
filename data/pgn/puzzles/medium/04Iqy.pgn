@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Iqy"]
+[Difficulty "medium"]
+[Rating "1475"]
+[Themes "advantage intermezzo opening short"]
+[GameUrl "https://lichess.org/game/G3COeYfi#23"]
+[Solution "c4d5 g7c3 b2c3 d8d5"]
+[SolutionSAN "Bxd5 Bxc3+ bxc3 Qxd5"]
+[FEN "r1bqk1r1/pp3pbp/2n3p1/2pp4/2B5/2NP2B1/PPP2PPP/R2QK2R w KQq - 0 12"]
+[SetUp "1"]
+
+12. Bxd5 Bxc3+ 13. bxc3 Qxd5 *

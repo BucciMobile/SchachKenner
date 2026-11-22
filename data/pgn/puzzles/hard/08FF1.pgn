@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08FF1"]
+[Difficulty "hard"]
+[Rating "2086"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/UkAl1d56/black#62"]
+[Solution "a7a5 d7d8 h8h7 g3d3 g7g6 d8d7"]
+[SolutionSAN "a5 Rd8+ Kh7 Qd3+ g6 Rd7+"]
+[FEN "7k/pp1R2p1/7p/8/8/6QP/Pq3rPK/8 b - - 5 31"]
+[SetUp "1"]
+
+31... a5 32. Rd8+ Kh7 33. Qd3+ g6 34. Rd7+ *

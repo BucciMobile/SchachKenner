@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kqn1"]
+[Difficulty "medium"]
+[Rating "1209"]
+[Themes "advantage discoveredAttack fork middlegame short"]
+[GameUrl "https://lichess.org/game/MWCQKTOa/black#48"]
+[Solution "c8b7 d5c6 b7c6 d1d7"]
+[SolutionSAN "Bb7 dxc6 Bxc6 Rxd7"]
+[FEN "r1b1kb1r/p2q3p/2p1ppp1/3P4/4P3/2R2PB1/P1P1Q1PP/3R2K1 b kq - 0 24"]
+[SetUp "1"]
+
+24... Bb7 25. dxc6 Bxc6 26. Rxd7 *

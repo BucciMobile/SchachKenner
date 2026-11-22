@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01LIu"]
+[Difficulty "hard"]
+[Rating "1905"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/cwoKYsfh#63"]
+[Solution "c5c6 b3b6 c3d4 e5d4"]
+[SolutionSAN "c6 Qb6+ Bd4 exd4"]
+[FEN "7k/p5p1/8/2P1p2p/6n1/PqBQ2P1/7P/6K1 w - - 3 32"]
+[SetUp "1"]
+
+32. c6 Qb6+ 33. Bd4 exd4 *

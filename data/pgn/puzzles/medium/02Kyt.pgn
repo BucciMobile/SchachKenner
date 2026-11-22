@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Kyt"]
+[Difficulty "medium"]
+[Rating "1251"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/Xuz0DCZZ#53"]
+[Solution "d1e1 e8e1 g1h2 e1h1"]
+[SolutionSAN "Rxe1 Rxe1+ Kh2 Rh1#"]
+[FEN "4r3/pp3k2/5p2/3b4/2pQ2Pp/7P/PPP2P2/3Rq1K1 w - - 1 27"]
+[SetUp "1"]
+
+27. Rxe1 Rxe1+ 28. Kh2 Rh1# *

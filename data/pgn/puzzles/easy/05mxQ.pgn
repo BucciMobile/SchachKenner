@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05mxQ"]
+[Difficulty "easy"]
+[Rating "1007"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/2WBIbcFZ#109"]
+[Solution "e2f2 f4g4 f2e3 g4h4"]
+[SolutionSAN "Kf2 Kg4 Ke3 Kxh4"]
+[FEN "8/8/8/1p5p/2p2k1P/P1P5/1P2K3/8 w - - 0 55"]
+[SetUp "1"]
+
+55. Kf2 Kg4 56. Ke3 Kxh4 *

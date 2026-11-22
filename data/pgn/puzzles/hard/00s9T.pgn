@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00s9T"]
+[Difficulty "hard"]
+[Rating "2090"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/7CRQFCUf#81"]
+[Solution "g2g4 g6g5 h4g5 h6g5"]
+[SolutionSAN "g4 g5 hxg5 hxg5"]
+[FEN "8/8/p5pp/2k5/2p4P/2K2P2/P5P1/8 w - - 0 41"]
+[SetUp "1"]
+
+41. g4 g5 42. hxg5 hxg5 *

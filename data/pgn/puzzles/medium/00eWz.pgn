@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00eWz"]
+[Difficulty "medium"]
+[Rating "1631"]
+[Themes "advantage clearance master middlegame pin sacrifice short"]
+[GameUrl "https://lichess.org/game/T1YYoy2O#49"]
+[Solution "f4e6 e5e6 d5e6 g7d4"]
+[SolutionSAN "Ne6 R5xe6 dxe6 Bd4"]
+[FEN "4r1k1/p5bp/1q4p1/2pPrp2/1pP2N2/6PP/P4QB1/1R3RK1 w - - 2 25"]
+[SetUp "1"]
+
+25. Ne6 R5xe6 26. dxe6 Bd4 *

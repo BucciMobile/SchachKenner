@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AbaT"]
+[Difficulty "easy"]
+[Rating "561"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/KUgDb86O/black#64"]
+[Solution "e5f4 e3e8"]
+[SolutionSAN "exf4 Qe8#"]
+[FEN "6k1/p4p1p/1pp2bpP/2Pqp3/5BP1/2P1Q3/P1B2P2/1K6 b - - 0 32"]
+[SetUp "1"]
+
+32... exf4 33. Qe8# *

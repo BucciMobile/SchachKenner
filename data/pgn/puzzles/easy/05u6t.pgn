@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05u6t"]
+[Difficulty "easy"]
+[Rating "782"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/rvDIDyAp#69"]
+[Solution "d1c1 b3c2"]
+[SolutionSAN "Kxc1 Qc2#"]
+[FEN "6k1/p4ppp/1p6/3pP3/3n4/Pq2R3/3B4/R1rK1Q2 w - - 4 35"]
+[SetUp "1"]
+
+35. Kxc1 Qc2# *

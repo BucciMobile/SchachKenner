@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MsCR"]
+[Difficulty "medium"]
+[Rating "1207"]
+[Themes "crushing deflection endgame veryLong"]
+[GameUrl "https://lichess.org/game/ylLehOnt/black#72"]
+[Solution "d4e3 h6h8 f8e7 h8d8 e6d8 f5d7 e7f8 d7d8"]
+[SolutionSAN "Qe3 Rh8+ Ke7 Rxd8 Nxd8 Qd7+ Kf8 Qxd8+"]
+[FEN "3r1k2/6p1/1pB1np1R/pP3Q2/3q4/6P1/4P1KP/8 b - - 4 36"]
+[SetUp "1"]
+
+36... Qe3 37. Rh8+ Ke7 38. Rxd8 Nxd8 39. Qd7+ Kf8 40. Qxd8+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E9F4"]
+[Difficulty "easy"]
+[Rating "1071"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/MytjeTCZ/black#76"]
+[Solution "g8h6 h7h6"]
+[SolutionSAN "Nh6 Rxh6#"]
+[FEN "6n1/p6R/6p1/2pB2Pk/5K2/2P1PP1r/P1P2r2/8 b - - 2 38"]
+[SetUp "1"]
+
+38... Nh6 39. Rxh6# *

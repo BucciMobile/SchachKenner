@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02NcP"]
+[Difficulty "hard"]
+[Rating "1946"]
+[Themes "advantage endgame hangingPiece master short"]
+[GameUrl "https://lichess.org/game/GpLcIRyx/black#56"]
+[Solution "e1f2 a4d1 h6h5 f4g3"]
+[SolutionSAN "Qxf2 Qxd1 h5 Bg3"]
+[FEN "r5k1/p4pp1/2p4p/2p5/QPP2BR1/7P/P4RPK/3rq3 b - - 0 28"]
+[SetUp "1"]
+
+28... Qxf2 29. Qxd1 h5 30. Bg3 *

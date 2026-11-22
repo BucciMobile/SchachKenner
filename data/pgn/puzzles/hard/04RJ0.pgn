@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04RJ0"]
+[Difficulty "hard"]
+[Rating "1937"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/nlLq7ywP#65"]
+[Solution "d3b5 h6d2 e1b1 d2c2 b5d3 c2d3"]
+[SolutionSAN "Bxb5 Qd2 Rb1 Qc2 Bd3 Qxd3"]
+[FEN "2r5/3bkp2/1Q2p1pq/1p1p4/p2P4/P1PB4/1P3PPP/4R1K1 w - - 2 33"]
+[SetUp "1"]
+
+33. Bxb5 Qd2 34. Rb1 Qc2 35. Bd3 Qxd3 *

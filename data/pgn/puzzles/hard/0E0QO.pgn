@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E0QO"]
+[Difficulty "hard"]
+[Rating "1753"]
+[Themes "advancedPawn crushing endgame master pin rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/yS5T11cr/black#122"]
+[Solution "c3b4 e3e4 c4e4 f3e4 h4h3 e4f3 h3h2 f3g2 h2h1q g2h1 b4c5 c6c7"]
+[SolutionSAN "Kb4 Re4 Rxe4 Kxe4 h3 Kf3 h2 Kg2 h1=Q+ Kxh1 Kc5 c7"]
+[FEN "8/8/2P5/8/2r4p/2k1RK2/8/8 b - - 3 61"]
+[SetUp "1"]
+
+61... Kb4 62. Re4 Rxe4 63. Kxe4 h3 64. Kf3 h2 65. Kg2 h1=Q+ 66. Kxh1 Kc5 67. c7 *

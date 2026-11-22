@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JHIK"]
+[Difficulty "hard"]
+[Rating "2585"]
+[Themes "crushing defensiveMove hangingPiece long middlegame"]
+[GameUrl "https://lichess.org/game/Z0XQeLII#39"]
+[Solution "g5h7 g8h7 e2h5 h7g7 h5g5 d5e7"]
+[SolutionSAN "Nxh7 Kxh7 Qh5+ Kg7 Qg5 Ne7"]
+[FEN "r4rk1/1bq2p1p/4pRp1/pppnP1N1/2pPB3/4P1P1/PP2Q2P/R5K1 w - - 0 20"]
+[SetUp "1"]
+
+20. Nxh7 Kxh7 21. Qh5+ Kg7 22. Qg5 Ne7 *

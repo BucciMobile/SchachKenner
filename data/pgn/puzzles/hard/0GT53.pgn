@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GT53"]
+[Difficulty "hard"]
+[Rating "1997"]
+[Themes "crushing deflection endgame long"]
+[GameUrl "https://lichess.org/game/TGo7INkJ#55"]
+[Solution "g1f1 g3g2 f1e1 g2g1 b5f1 b6a5"]
+[SolutionSAN "Kf1 Qxg2+ Ke1 Qg1+ Qf1 Bxa5+"]
+[FEN "1k4r1/pp3p2/1b3p2/PQ1P3p/4p2P/6q1/2R2PP1/1R4K1 w - - 0 28"]
+[SetUp "1"]
+
+28. Kf1 Qxg2+ 29. Ke1 Qg1+ 30. Qf1 Bxa5+ *

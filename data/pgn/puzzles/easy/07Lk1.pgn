@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Lk1"]
+[Difficulty "easy"]
+[Rating "621"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/RygHYXny#69"]
+[Solution "b4b6 c2g2"]
+[SolutionSAN "Qxb6 Qxg2#"]
+[FEN "6k1/7p/pp2p1p1/3b1p2/PQ6/8/2q3PP/5R1K w - - 0 35"]
+[SetUp "1"]
+
+35. Qxb6 Qxg2# *

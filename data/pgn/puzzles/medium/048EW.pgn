@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "048EW"]
+[Difficulty "medium"]
+[Rating "1634"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/TvLXOY0j#41"]
+[Solution "c3d4 h8h1 g1h1 b6h6 h1g1 h6h2"]
+[SolutionSAN "cxd4 Rh1+ Kxh1 Qh6+ Kg1 Qh2#"]
+[FEN "2r1k2r/pp3p2/1q6/3p4/2pb4/2P3p1/PPQ2PP1/RN3RK1 w k - 0 21"]
+[SetUp "1"]
+
+21. cxd4 Rh1+ 22. Kxh1 Qh6+ 23. Kg1 Qh2# *

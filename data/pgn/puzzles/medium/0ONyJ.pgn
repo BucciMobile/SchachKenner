@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ONyJ"]
+[Difficulty "medium"]
+[Rating "1319"]
+[Themes "backRankMate long mate mateIn3 middlegame xRayAttack"]
+[GameUrl "https://lichess.org/game/tOEe1ZkO#53"]
+[Solution "g1h1 e3e1 d3f1 e1f1 f6f1 f8f1"]
+[SolutionSAN "Kh1 Qe1+ Bf1 Qxf1+ Rxf1 Rxf1#"]
+[FEN "r4r1k/1QR5/pp3Rpp/8/1P1P4/Pb1Bq3/6PP/6K1 w - - 1 27"]
+[SetUp "1"]
+
+27. Kh1 Qe1+ 28. Bf1 Qxf1+ 29. Rxf1 Rxf1# *

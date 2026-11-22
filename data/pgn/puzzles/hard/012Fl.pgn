@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "012Fl"]
+[Difficulty "hard"]
+[Rating "2537"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/A5XXEOaT/black#48"]
+[Solution "h8h6 f3e3 h6h2 h1h2"]
+[SolutionSAN "Rxh6 Qe3 Rxh2+ Kxh2"]
+[FEN "2b2k1r/2q2p2/p1p2PpP/4p3/2r1B3/5Q2/P1P4P/R2R3K b - - 0 24"]
+[SetUp "1"]
+
+24... Rxh6 25. Qe3 Rxh2+ 26. Kxh2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00niA"]
+[Difficulty "hard"]
+[Rating "2283"]
+[Themes "advancedPawn crushing endgame knightEndgame long"]
+[GameUrl "https://lichess.org/game/sMnyoWHK#115"]
+[Solution "h3h4 b3c3 h4h5 b4b3 g6e5 b3b2"]
+[SolutionSAN "h4 Kc3 h5 b3 Ne5 b2"]
+[FEN "6n1/6P1/6N1/8/1p6/1k5P/5K2/8 w - - 3 58"]
+[SetUp "1"]
+
+58. h4 Kc3 59. h5 b3 60. Ne5 b2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "071OY"]
+[Difficulty "medium"]
+[Rating "1201"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/HP8mLYU4/black#34"]
+[Solution "e8d8 f7d7"]
+[SolutionSAN "Kd8 Qxd7#"]
+[FEN "r3k2r/pbpp1Q2/1pn5/2b1q1N1/8/2N5/PPP2PPP/3R1RK1 b - - 3 17"]
+[SetUp "1"]
+
+17... Kd8 18. Qxd7# *

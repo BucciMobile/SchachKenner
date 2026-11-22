@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NiZs"]
+[Difficulty "medium"]
+[Rating "1396"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/dunUyovL/black#58"]
+[Solution "d4f3 h2c2 c3c2 b1c2"]
+[SolutionSAN "Nxf3 Rxc2 Rxc2 Kxc2"]
+[FEN "4Nb2/p7/2k3p1/1p2p2p/1P1nPP1P/P1r2NP1/2r4R/1K1R4 b - - 4 29"]
+[SetUp "1"]
+
+29... Nxf3 30. Rxc2 Rxc2 31. Kxc2 *

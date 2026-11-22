@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BEC8"]
+[Difficulty "easy"]
+[Rating "842"]
+[Themes "discoveredAttack kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/sbrKPhb4#31"]
+[Solution "f4h2 e5f3 g2f3 c7h2"]
+[SolutionSAN "Bh2 Nf3+ gxf3 Qxh2#"]
+[FEN "rb2r1k1/ppq2p1p/2p2p2/4n1p1/5B2/2PP3P/PP1QBPP1/R4RK1 w - - 0 16"]
+[SetUp "1"]
+
+16. Bh2 Nf3+ 17. gxf3 Qxh2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07KlL"]
+[Difficulty "easy"]
+[Rating "1118"]
+[Themes "advantage defensiveMove long middlegame pin"]
+[GameUrl "https://lichess.org/game/Hd2vooLs/black#66"]
+[Solution "a8d5 c1c8 b3b1 g1h2 d8c8 a6c8"]
+[SolutionSAN "Bd5 Rc8 Rb1+ Kh2 Qxc8 Bxc8"]
+[FEN "b2q2k1/3r1pb1/B3p2p/4P3/R2P2Qp/1r5P/5PP1/2R3K1 b - - 2 33"]
+[SetUp "1"]
+
+33... Bd5 34. Rc8 Rb1+ 35. Kh2 Qxc8 36. Bxc8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00H9n"]
+[Difficulty "easy"]
+[Rating "860"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/MaGCLflH#89"]
+[Solution "d2d4 h3g2"]
+[SolutionSAN "Qxd4 Qxg2#"]
+[FEN "7k/6p1/8/4p3/Pp1b4/1P3b1q/3Q2P1/5RK1 w - - 0 45"]
+[SetUp "1"]
+
+45. Qxd4 Qxg2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06hgj"]
+[Difficulty "easy"]
+[Rating "1190"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/FNEB6kaw#53"]
+[Solution "h5c5 h3g2"]
+[SolutionSAN "Qxc5 Qg2#"]
+[FEN "8/pp5k/7n/2b4Q/7P/6Pq/PPP2r2/R4NK1 w - - 4 27"]
+[SetUp "1"]
+
+27. Qxc5 Qg2# *

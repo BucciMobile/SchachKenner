@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EAAx"]
+[Difficulty "medium"]
+[Rating "1252"]
+[Themes "hangingPiece mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/6LslusBz#55"]
+[Solution "e1e6 b2a1 e6e1 a1e1"]
+[SolutionSAN "Rxe6 Qxa1+ Re1 Qxe1#"]
+[FEN "4r1k1/2pN1ppp/r3n3/p4N2/8/2P3Q1/1q3PPP/R3R1K1 w - - 4 28"]
+[SetUp "1"]
+
+28. Rxe6 Qxa1+ 29. Re1 Qxe1# *

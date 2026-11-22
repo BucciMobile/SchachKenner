@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Cm1"]
+[Difficulty "easy"]
+[Rating "903"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/aZIQltWe/black#48"]
+[Solution "e5g3 g5g3 h2g3 f2g3"]
+[SolutionSAN "Bxg3+ Qxg3 Qxg3+ Kxg3"]
+[FEN "r1b4k/pp5p/6p1/3Bb1Q1/3p4/1P1P2P1/P1P2KNq/R7 b - - 1 24"]
+[SetUp "1"]
+
+24... Bxg3+ 25. Qxg3 Qxg3+ 26. Kxg3 *

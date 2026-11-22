@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DRuy"]
+[Difficulty "easy"]
+[Rating "942"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/DoBqJNoZ#53"]
+[Solution "g5f6 d4d1 f1d1 d8d1"]
+[SolutionSAN "Bxf6 Rd1+ Rxd1 Qxd1#"]
+[FEN "3q3k/1p4pp/1np1BnP1/4pPB1/3rP1P1/2b5/PpP4Q/1K3R2 w - - 2 27"]
+[SetUp "1"]
+
+27. Bxf6 Rd1+ 28. Rxd1 Qxd1# *

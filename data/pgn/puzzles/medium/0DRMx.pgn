@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DRMx"]
+[Difficulty "medium"]
+[Rating "1223"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/1AJQUSxE#63"]
+[Solution "g2h3 d3f2 h3h4 f3g4"]
+[SolutionSAN "Kh3 Nf2+ Kh4 Qg4#"]
+[FEN "2Q4Q/kp6/p3N3/5p2/4pP2/1P1n1qP1/P5KP/R7 w - - 2 32"]
+[SetUp "1"]
+
+32. Kh3 Nf2+ 33. Kh4 Qg4# *

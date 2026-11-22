@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04ccX"]
+[Difficulty "medium"]
+[Rating "1465"]
+[Themes "endgame long mate mateIn3 pin sacrifice"]
+[GameUrl "https://lichess.org/game/i87Dk8OS#57"]
+[Solution "f1g1 d5g2 g1g2 e3e1 d3f1 e1f1"]
+[SolutionSAN "Rg1 Qxg2+ Rxg2 Re1+ Bf1 Rxf1#"]
+[FEN "6k1/pb3p2/6pQ/3q4/8/3Br3/PPP3PP/5R1K w - - 1 29"]
+[SetUp "1"]
+
+29. Rg1 Qxg2+ 30. Rxg2 Re1+ 31. Bf1 Rxf1# *

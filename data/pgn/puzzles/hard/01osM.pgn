@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01osM"]
+[Difficulty "hard"]
+[Rating "2373"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/CILNHJGV#111"]
+[Solution "b4c3 h2g2 a4a5 g2h3"]
+[SolutionSAN "Kc3 Kxg2 a5 Kh3"]
+[FEN "8/8/8/8/PK6/6p1/2R2rPk/8 w - - 4 56"]
+[SetUp "1"]
+
+56. Kc3 Kxg2 57. a5 Kh3 *

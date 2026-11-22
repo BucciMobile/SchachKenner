@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DALS"]
+[Difficulty "medium"]
+[Rating "1267"]
+[Themes "advantage middlegame veryLong"]
+[GameUrl "https://lichess.org/game/a5JIjW15/black#48"]
+[Solution "e5e4 e2e4 d5e4 d1d8 e7d8 c3g7 g8a2 b1a2"]
+[SolutionSAN "Qxe4 Qxe4 dxe4 Rxd8+ Bxd8 Bxg7 Bxa2+ Kxa2"]
+[FEN "k2r2br/pp2b1p1/2p3Pp/3pq2P/4N3/2B5/PPP1Q3/1K1R3R b - - 1 24"]
+[SetUp "1"]
+
+24... Qxe4 25. Qxe4 dxe4 26. Rxd8+ Bxd8 27. Bxg7 Bxa2+ 28. Kxa2 *

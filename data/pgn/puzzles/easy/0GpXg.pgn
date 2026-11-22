@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GpXg"]
+[Difficulty "easy"]
+[Rating "994"]
+[Themes "bishopEndgame crushing discoveredAttack discoveredCheck endgame short"]
+[GameUrl "https://lichess.org/game/TCEJOA76#93"]
+[Solution "d6d7 c6c5 d7d6 c5d4"]
+[SolutionSAN "Kd7 c5+ Kd6 cxd4"]
+[FEN "8/5k2/2pK4/1b1p1P2/pP1Bp3/P7/1P6/8 w - - 10 47"]
+[SetUp "1"]
+
+47. Kd7 c5+ 48. Kd6 cxd4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Chne"]
+[Difficulty "easy"]
+[Rating "1106"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/ShTyj15x#61"]
+[Solution "c4h4 d2g2"]
+[SolutionSAN "Qh4 Qg2#"]
+[FEN "5kr1/3p4/2p5/4pP2/2Q5/P1P2P2/3q4/4R2K w - - 1 31"]
+[SetUp "1"]
+
+31. Qh4 Qg2# *

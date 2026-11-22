@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jq35"]
+[Difficulty "medium"]
+[Rating "1634"]
+[Themes "advantage defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/Lquaom2h#59"]
+[Solution "f5c8 c5f8 c4c5 b6c5"]
+[SolutionSAN "Qc8+ Bf8 c5 Qxc5"]
+[FEN "6k1/6p1/pqp4p/1pb1PQ2/2P2P2/1P6/PB3r1P/1R4K1 w - - 4 30"]
+[SetUp "1"]
+
+30. Qc8+ Bf8 31. c5 Qxc5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MIDu"]
+[Difficulty "hard"]
+[Rating "2031"]
+[Themes "crushing deflection endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/IWT0tQH2/black#86"]
+[Solution "f6g5 d5d6 e7d6 f1f8"]
+[SolutionSAN "fxg5 d6+ Kxd6 Rxf8"]
+[FEN "5r2/p3k2p/1p3pp1/2pP2P1/4P3/1P2K2P/P7/5R2 b - - 0 43"]
+[SetUp "1"]
+
+43... fxg5 44. d6+ Kxd6 45. Rxf8 *

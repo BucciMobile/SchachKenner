@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M15A"]
+[Difficulty "medium"]
+[Rating "1297"]
+[Themes "advancedPawn crushing discoveredAttack endgame master short"]
+[GameUrl "https://lichess.org/game/AZaKfGqk/black#90"]
+[Solution "h7g8 f6f7 g8g7 e7g5"]
+[SolutionSAN "Kg8 f7+ Kg7 Qxg5+"]
+[FEN "5r2/1p2Q2k/2p2P2/p1Pp2q1/P2P4/8/1P4P1/6K1 b - - 1 45"]
+[SetUp "1"]
+
+45... Kg8 46. f7+ Kg7 47. Qxg5+ *

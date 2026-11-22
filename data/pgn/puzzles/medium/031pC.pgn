@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "031pC"]
+[Difficulty "medium"]
+[Rating "1353"]
+[Themes "capturingDefender crushing opening short"]
+[GameUrl "https://lichess.org/game/yW0Xt7CQ/black#24"]
+[Solution "e8g8 e5f6 d8f6 d1d7"]
+[SolutionSAN "O-O Bxf6 Qxf6 Rxd7"]
+[FEN "r2qk2r/pppb1ppp/1b3n2/4B3/2Q5/2N5/PPP3PP/2KR1B1R b kq - 0 12"]
+[SetUp "1"]
+
+12... O-O 13. Bxf6 Qxf6 14. Rxd7 *

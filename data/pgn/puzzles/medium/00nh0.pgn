@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00nh0"]
+[Difficulty "medium"]
+[Rating "1583"]
+[Themes "crushing deflection endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/N8kLeymk/black#100"]
+[Solution "g5h4 g2g3 e3g3 e5e4 h4g5 h2g3"]
+[SolutionSAN "Kh4 g3+ Rxg3 Rxe4+ Kg5 Kxg3"]
+[FEN "8/8/8/4R1kp/4p3/4r2P/6PK/8 b - - 1 50"]
+[SetUp "1"]
+
+50... Kh4 51. g3+ Rxg3 52. Rxe4+ Kg5 53. Kxg3 *

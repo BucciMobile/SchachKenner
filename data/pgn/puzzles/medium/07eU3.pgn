@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07eU3"]
+[Difficulty "medium"]
+[Rating "1423"]
+[Themes "crushing endgame master short trappedPiece"]
+[GameUrl "https://lichess.org/game/XLHLxmmc#71"]
+[Solution "h7h6 b2g7 h6g6 g7g6"]
+[SolutionSAN "Rh6 Qg7 Rxg6 Qxg6"]
+[FEN "8/7R/6p1/2k2p2/2B1p2P/1P2P1P1/1q3PK1/8 w - - 1 36"]
+[SetUp "1"]
+
+36. Rh6 Qg7 37. Rxg6 Qxg6 *

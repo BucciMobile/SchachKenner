@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AW5z"]
+[Difficulty "easy"]
+[Rating "1113"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/eOA7UsyF#53"]
+[Solution "e3d4 e8e2 f2f3 e2d2"]
+[SolutionSAN "Bd4 Re2+ Kf3 Rxd2"]
+[FEN "1r2r2k/6pp/p1p5/5p2/8/1PPpB3/P2N1KPP/R7 w - - 0 27"]
+[SetUp "1"]
+
+27. Bd4 Re2+ 28. Kf3 Rxd2 *

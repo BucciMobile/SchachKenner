@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H3Ha"]
+[Difficulty "medium"]
+[Rating "1219"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/KLZgl089#61"]
+[Solution "g3h2 e8h8"]
+[SolutionSAN "Kxh2 Rh8#"]
+[FEN "2k1r3/1pp3p1/p1b3p1/4Pn2/1PP2P2/P2N2K1/R5Pr/6R1 w - - 4 31"]
+[SetUp "1"]
+
+31. Kxh2 Rh8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D68N"]
+[Difficulty "easy"]
+[Rating "1047"]
+[Themes "advantage endgame hangingPiece intermezzo short"]
+[GameUrl "https://lichess.org/game/FudCfM0H/black#60"]
+[Solution "d8d1 b7c8 g8h7 h1d1"]
+[SolutionSAN "Rxd1 Qxc8+ Kh7 Rxd1"]
+[FEN "2rr2k1/1Q3pb1/p5pp/2p1P3/2q2P2/5K1P/1PP3P1/3R3R b - - 5 30"]
+[SetUp "1"]
+
+30... Rxd1 31. Qxc8+ Kh7 32. Rxd1 *

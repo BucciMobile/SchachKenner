@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cyei"]
+[Difficulty "hard"]
+[Rating "2275"]
+[Themes "crushing interference middlegame pin quietMove short"]
+[GameUrl "https://lichess.org/game/sTusF8L1#33"]
+[Solution "g1h1 f6g4 g2g3 e5h5"]
+[SolutionSAN "Kh1 Ng4 g3 Rxh5"]
+[FEN "r1bq2k1/pp3pp1/1b3n1p/3pr2P/5P1B/P1NB4/1PP3P1/R2Q1RK1 w - - 1 17"]
+[SetUp "1"]
+
+17. Kh1 Ng4 18. g3 Rxh5 *

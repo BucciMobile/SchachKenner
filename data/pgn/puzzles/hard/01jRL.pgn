@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01jRL"]
+[Difficulty "hard"]
+[Rating "2196"]
+[Themes "advantage discoveredAttack fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/Al6dfD6O/black#60"]
+[Solution "g7e5 c3e4 d6b6 e4f2 b6f2 e1e5 f2d2 a3e3"]
+[SolutionSAN "Be5 Ne4 Qb6 Nxf2 Qxf2 Rxe5 Qd2 Qe3"]
+[FEN "r5k1/4p1b1/p2qN1p1/1p1P3p/1Pp3b1/Q1N3P1/P4rBP/4R2K b - - 3 30"]
+[SetUp "1"]
+
+30... Be5 31. Ne4 Qb6 32. Nxf2 Qxf2 33. Rxe5 Qd2 34. Qe3 *

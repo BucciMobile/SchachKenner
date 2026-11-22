@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0P7s4"]
+[Difficulty "medium"]
+[Rating "1444"]
+[Themes "deflection endgame mate mateIn2 queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/N6ljaoB1#77"]
+[Solution "c2c1 d2b2 b1a1 e1c1"]
+[SolutionSAN "Rc1 Rb2+ Ka1 Rxc1#"]
+[FEN "6k1/Q4p1p/5R2/3p2P1/Pp6/1Pp2P2/2Rr4/1K2r3 w - - 1 39"]
+[SetUp "1"]
+
+39. Rc1 Rb2+ 40. Ka1 Rxc1# *

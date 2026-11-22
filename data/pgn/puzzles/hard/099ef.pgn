@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "099ef"]
+[Difficulty "hard"]
+[Rating "2024"]
+[Themes "advantage endgame exposedKing veryLong"]
+[GameUrl "https://lichess.org/game/91YKjCIz#67"]
+[Solution "f5f2 e7e3 f2e2 c2e2 a6e2 g2f3 e1d2 e3e2"]
+[SolutionSAN "Rf2 Rxe3+ Re2 Rcxe2+ Bxe2 Bf3 Kd2 Rxe2+"]
+[FEN "8/4r1k1/BR6/5R1p/P5p1/4P1P1/1Pr3bP/4K3 w - - 2 34"]
+[SetUp "1"]
+
+34. Rf2 Rxe3+ 35. Re2 Rcxe2+ 36. Bxe2 Bf3 37. Kd2 Rxe2+ *

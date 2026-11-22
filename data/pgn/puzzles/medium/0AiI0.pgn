@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AiI0"]
+[Difficulty "medium"]
+[Rating "1506"]
+[Themes "crushing defensiveMove endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/cTWEGRdE#123"]
+[Solution "c5c6 d3b5 d6e5 b5d3"]
+[SolutionSAN "c6 Bxb5 Ke5 Bd3"]
+[FEN "2k5/8/3K4/1NP2p2/8/3b4/8/8 w - - 13 62"]
+[SetUp "1"]
+
+62. c6 Bxb5 63. Ke5 Bd3 *

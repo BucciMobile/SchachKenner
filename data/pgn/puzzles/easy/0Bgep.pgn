@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bgep"]
+[Difficulty "easy"]
+[Rating "1088"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/2DOwNVIV#65"]
+[Solution "c3e5 d7d2 d1d2 e8e5"]
+[SolutionSAN "Qxe5 Rxd2+ Rxd2 Rxe5"]
+[FEN "4r3/kb1r2p1/7p/1pP1qp2/pP2p3/P1Q1P1P1/1K1R1PP1/3R4 w - - 0 33"]
+[SetUp "1"]
+
+33. Qxe5 Rxd2+ 34. Rxd2 Rxe5 *

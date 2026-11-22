@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IxFs"]
+[Difficulty "easy"]
+[Rating "617"]
+[Themes "backRankMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/NpJQnHjc#53"]
+[Solution "c1e1 a1e1"]
+[SolutionSAN "Rxe1 Rxe1#"]
+[FEN "r5k1/1Q3pp1/4p2p/3pP3/2nP4/1N3P2/1PR3PP/r1R1q2K w - - 16 27"]
+[SetUp "1"]
+
+27. Rxe1 Rxe1# *

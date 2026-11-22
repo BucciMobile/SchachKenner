@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07GTL"]
+[Difficulty "easy"]
+[Rating "663"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/yKJAx05M#57"]
+[Solution "g1h1 e3e1 d1e1 e8e1"]
+[SolutionSAN "Kh1 Qe1+ Rxe1 Rxe1#"]
+[FEN "4r1k1/pQ1R1ppp/8/8/8/2P1q3/PP4PP/3R2K1 w - - 0 29"]
+[SetUp "1"]
+
+29. Kh1 Qe1+ 30. Rxe1 Rxe1# *

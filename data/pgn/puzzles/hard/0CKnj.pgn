@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CKnj"]
+[Difficulty "hard"]
+[Rating "2080"]
+[Themes "crushing endgame long pawnEndgame quietMove"]
+[GameUrl "https://lichess.org/game/LJvWlfX4/black#88"]
+[Solution "f5g4 f3g4 g7g6 f2f4 h6h5 f4f5"]
+[SolutionSAN "fxg4 fxg4 g6 f4 h5 f5"]
+[FEN "8/6p1/1k5p/1P3p2/1K4P1/5P2/5P2/8 b - - 0 44"]
+[SetUp "1"]
+
+44... fxg4 45. fxg4 g6 46. f4 h5 47. f5 *

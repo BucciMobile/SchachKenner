@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "067Qo"]
+[Difficulty "easy"]
+[Rating "433"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/eHFGYa4U#61"]
+[Solution "e4f6 g7g1 e1g1 g8g1"]
+[SolutionSAN "Nf6 Rg1+ Rxg1 Rxg1#"]
+[FEN "6rk/bp1P2r1/8/p2P4/2p1N3/PBP2P2/1P5P/4R2K w - - 0 31"]
+[SetUp "1"]
+
+31. Nf6 Rg1+ 32. Rxg1 Rxg1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "008qL"]
+[Difficulty "hard"]
+[Rating "1837"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/TUrSVmLC#49"]
+[Solution "d3d6 a8d8 d6d8 g5d8"]
+[SolutionSAN "Qxd6 Rd8 Qxd8 Qxd8"]
+[FEN "r7/6pk/p2p4/2p1p1qp/1pP1PrP1/1P1Q1P1P/1P4K1/R4R2 w - - 0 25"]
+[SetUp "1"]
+
+25. Qxd6 Rd8 26. Qxd8 Qxd8 *

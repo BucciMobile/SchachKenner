@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08FHm"]
+[Difficulty "hard"]
+[Rating "1708"]
+[Themes "endgame master mate mateIn2 queenEndgame short"]
+[GameUrl "https://lichess.org/game/08C3ZLOU/black#92"]
+[Solution "e3g3 c6h1 g3h2 h1h2"]
+[SolutionSAN "Qg3 Qh1+ Qh2 Qxh2#"]
+[FEN "8/5Kpk/p1Q5/1p3P2/8/2p1q3/P7/8 b - - 3 46"]
+[SetUp "1"]
+
+46... Qg3 47. Qh1+ Qh2 48. Qxh2# *

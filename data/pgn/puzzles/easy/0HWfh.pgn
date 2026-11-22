@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HWfh"]
+[Difficulty "easy"]
+[Rating "1164"]
+[Themes "advantage fork opening short"]
+[GameUrl "https://lichess.org/game/4nyuCC3w#27"]
+[Solution "h2f1 h4g2 e1e2 g2f4"]
+[SolutionSAN "Nhf1 Ng2+ Ke2 Nxf4+"]
+[FEN "r2qkn1r/pbb2pp1/1pp1p2p/3pP2P/3P1BPn/2PB4/PPQN1P1N/R3K2R w KQkq - 1 14"]
+[SetUp "1"]
+
+14. Nhf1 Ng2+ 15. Ke2 Nxf4+ *

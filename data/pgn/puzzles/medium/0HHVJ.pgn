@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HHVJ"]
+[Difficulty "medium"]
+[Rating "1512"]
+[Themes "advantage attraction fork middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/nZaLJQx4#29"]
+[Solution "d1d5 a8a1 e1d2 a1d1 d2d1 b5c3 d1e1 c3d5"]
+[SolutionSAN "Qd5 Ra1+ Kd2 Rd1+ Kxd1 Nc3+ Ke1 Nxd5"]
+[FEN "r4bnr/1pp1k1pp/3p1p2/1n2pB2/8/1P2B3/2P1PP1P/3QK1NR w K - 1 15"]
+[SetUp "1"]
+
+15. Qd5 Ra1+ 16. Kd2 Rd1+ 17. Kxd1 Nc3+ 18. Ke1 Nxd5 *

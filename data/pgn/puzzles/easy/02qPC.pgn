@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02qPC"]
+[Difficulty "easy"]
+[Rating "793"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/5XcscxSA#57"]
+[Solution "e4e6 f5e5 e6e5 d6e5"]
+[SolutionSAN "Qxe6 Re5+ Qxe5+ Bxe5"]
+[FEN "r7/6kp/pp1bp3/2p2r2/2P1Q3/1P3P2/P3KP2/7R w - - 1 29"]
+[SetUp "1"]
+
+29. Qxe6 Re5+ 30. Qxe5+ Bxe5 *

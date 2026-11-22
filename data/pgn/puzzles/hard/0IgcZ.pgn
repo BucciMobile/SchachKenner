@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IgcZ"]
+[Difficulty "hard"]
+[Rating "1932"]
+[Themes "advantage long opening pin"]
+[GameUrl "https://lichess.org/game/jdb1FkpQ/black#24"]
+[Solution "c8b7 d7f6 g7f6 f1e1 e8c8 e1e4"]
+[SolutionSAN "Bb7 Nxf6+ gxf6 Re1 O-O-O Rxe4"]
+[FEN "r1b1kb1r/p1pN1ppp/5n2/8/P3q3/1P6/3P1PPP/R1BQ1RK1 b kq - 0 12"]
+[SetUp "1"]
+
+12... Bb7 13. Nxf6+ gxf6 14. Re1 O-O-O 15. Rxe4 *

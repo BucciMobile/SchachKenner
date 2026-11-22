@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08jo9"]
+[Difficulty "medium"]
+[Rating "1556"]
+[Themes "crushing endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/fjfCYYoG/black#62"]
+[Solution "e4g3 c7g3 e6e3 g3e3"]
+[SolutionSAN "Ng3 Qxg3 Qe3+ Qxe3"]
+[FEN "4r1k1/2Q5/4qp2/p2p2p1/1p1Pn3/3N3P/PP4P1/2R3K1 b - - 1 31"]
+[SetUp "1"]
+
+31... Ng3 32. Qxg3 Qe3+ 33. Qxe3 *

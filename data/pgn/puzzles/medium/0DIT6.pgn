@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DIT6"]
+[Difficulty "medium"]
+[Rating "1434"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/ffP6Pykj#27"]
+[Solution "f3g4 h5g4 e2f1 g4f4"]
+[SolutionSAN "fxg4 Qxg4+ Kf1 Qxf4+"]
+[FEN "r3k2r/1pp2p1p/p7/3pP1pq/1b1PnBb1/3B1P2/PPP1K2P/R2Q2NR w kq - 0 14"]
+[SetUp "1"]
+
+14. fxg4 Qxg4+ 15. Kf1 Qxf4+ *

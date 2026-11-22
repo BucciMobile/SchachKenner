@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I4PM"]
+[Difficulty "hard"]
+[Rating "1798"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/HMQKIVY8/black#32"]
+[Solution "d4c2 g4c4 f8f7 c4c2"]
+[SolutionSAN "Nxc2 Qc4+ Rf7 Qxc2"]
+[FEN "r2q1rk1/ppp3b1/3p3p/4p1pP/3n2Q1/3P2N1/PPP2PP1/R1B2RK1 b - - 7 16"]
+[SetUp "1"]
+
+16... Nxc2 17. Qc4+ Rf7 18. Qxc2 *

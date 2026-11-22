@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Dpr"]
+[Difficulty "medium"]
+[Rating "1232"]
+[Themes "attackingF2F7 crushing endgame fork veryLong"]
+[GameUrl "https://lichess.org/game/sdr0kg4T/black#46"]
+[Solution "b2d2 f3f6 e7e8 f6f7 e8d8 f7g8 d8c7 f1f7"]
+[SolutionSAN "Rxd2 Qxf6+ Ke8 Qxf7+ Kd8 Qxg8+ Kc7 Rf7+"]
+[FEN "6r1/4kp1p/p1qp1p2/4p3/2PbP3/3P1QP1/Pr1B3P/5R1K b - - 3 23"]
+[SetUp "1"]
+
+23... Rxd2 24. Qxf6+ Ke8 25. Qxf7+ Kd8 26. Qxg8+ Kc7 27. Rf7+ *

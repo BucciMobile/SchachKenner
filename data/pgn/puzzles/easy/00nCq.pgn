@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00nCq"]
+[Difficulty "easy"]
+[Rating "990"]
+[Themes "doubleBishopMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/Y1Y1rJPD#27"]
+[Solution "b2b3 d6a3"]
+[SolutionSAN "b3 Ba3#"]
+[FEN "r3k2r/ppp2p1p/3b1p2/4p3/8/2PB4/bPPQ1PPP/2KR3R w kq - 0 14"]
+[SetUp "1"]
+
+14. b3 Ba3# *

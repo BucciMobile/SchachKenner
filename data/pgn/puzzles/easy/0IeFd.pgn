@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IeFd"]
+[Difficulty "easy"]
+[Rating "968"]
+[Themes "advantage endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/1BblHEhn/black#72"]
+[Solution "b4a3 d2c3 a3a2 c3b2"]
+[SolutionSAN "bxa3 Kxc3 a2 Kb2"]
+[FEN "8/7p/5pp1/3kp3/1p6/RPrP4/2PK1PPP/8 b - - 0 36"]
+[SetUp "1"]
+
+36... bxa3 37. Kxc3 a2 38. Kb2 *

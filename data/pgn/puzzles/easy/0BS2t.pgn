@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BS2t"]
+[Difficulty "easy"]
+[Rating "902"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/65exKfxr#91"]
+[Solution "f6g5 b2g2 h2h1 g2g5"]
+[SolutionSAN "Bg5 Rxg2+ Kh1 Rxg5"]
+[FEN "8/5R2/1p2pB2/pPp1P3/5n2/1P2kP2/1r4PK/8 w - - 5 46"]
+[SetUp "1"]
+
+46. Bg5 Rxg2+ 47. Kh1 Rxg5 *

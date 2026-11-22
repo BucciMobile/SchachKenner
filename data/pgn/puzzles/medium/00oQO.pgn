@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00oQO"]
+[Difficulty "medium"]
+[Rating "1564"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/Gv6O3qzw#67"]
+[Solution "d5d4 f4e2 c2e2 e4e2"]
+[SolutionSAN "Rd4 Ne2+ Rxe2 Rxe2"]
+[FEN "5rk1/1p4pp/p7/3R1N2/4rn2/6KP/PPR2PP1/8 w - - 1 34"]
+[SetUp "1"]
+
+34. Rd4 Ne2+ 35. Rxe2 Rxe2 *

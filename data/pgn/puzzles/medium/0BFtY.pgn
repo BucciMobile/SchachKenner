@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BFtY"]
+[Difficulty "medium"]
+[Rating "1330"]
+[Themes "advantage clearance middlegame short"]
+[GameUrl "https://lichess.org/game/smzNCQtR/black#40"]
+[Solution "c5f8 f3g3 f8g7 d1g4"]
+[SolutionSAN "Bf8 Rg3+ Bg7 Qg4"]
+[FEN "r3r1k1/5p2/p1p1pp1p/1qbp4/1P1P1P2/P4R2/2P3PP/1R1Q2K1 b - - 1 20"]
+[SetUp "1"]
+
+20... Bf8 21. Rg3+ Bg7 22. Qg4 *

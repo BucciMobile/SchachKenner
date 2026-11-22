@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02X7P"]
+[Difficulty "easy"]
+[Rating "903"]
+[Themes "advantage intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/OhP83a1u/black#18"]
+[Solution "b4c3 b5c6 b8c6 d2c3"]
+[SolutionSAN "Bxc3 Bxc6+ Nxc6 Qxc3"]
+[FEN "rn2k2r/ppp2ppp/2q1bp2/1B1p4/1b1P4/1PN1PN2/P1PQ1PPP/R3K2R b KQkq - 4 9"]
+[SetUp "1"]
+
+9... Bxc3 10. Bxc6+ Nxc6 11. Qxc3 *

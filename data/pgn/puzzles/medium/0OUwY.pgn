@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OUwY"]
+[Difficulty "medium"]
+[Rating "1370"]
+[Themes "advantage endgame exposedKing long sacrifice skewer"]
+[GameUrl "https://lichess.org/game/DSX9XmhS#49"]
+[Solution "g1f2 h8h2 f3h2 c7h2 f2f1 h2c2"]
+[SolutionSAN "Kxf2 Rh2+ Nxh2 Qxh2+ Kf1 Qxc2"]
+[FEN "7r/ppq2pk1/2p2pP1/3p4/3P2B1/2P2N2/PPQ2b2/4R1K1 w - - 0 25"]
+[SetUp "1"]
+
+25. Kxf2 Rh2+ 26. Nxh2 Qxh2+ 27. Kf1 Qxc2 *

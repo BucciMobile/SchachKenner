@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08MTm"]
+[Difficulty "medium"]
+[Rating "1587"]
+[Themes "advantage attraction fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/kODNxX9A#35"]
+[Solution "e2d3 f6f3 g2f3 c6d4 f3g2 d4b5"]
+[SolutionSAN "exd3 Qxf3+ Kxf3 Nd4+ Kg2 Nxb5"]
+[FEN "3r1rk1/ppp2ppp/2n2q2/1QP5/8/P2p1NP1/1P2PPKP/3R1R2 w - - 0 18"]
+[SetUp "1"]
+
+18. exd3 Qxf3+ 19. Kxf3 Nd4+ 20. Kg2 Nxb5 *

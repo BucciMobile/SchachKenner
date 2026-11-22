@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FmjK"]
+[Difficulty "easy"]
+[Rating "978"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/vwzYt0Nx#61"]
+[Solution "f1e1 e8e1 g1f2 b4d2"]
+[SolutionSAN "Rxe1 Rxe1+ Kf2 Bxd2"]
+[FEN "4r1k1/5p2/2p2P1p/6p1/Nb1B4/nP5P/P2R2P1/4rRK1 w - - 9 31"]
+[SetUp "1"]
+
+31. Rxe1 Rxe1+ 32. Kf2 Bxd2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H6cM"]
+[Difficulty "easy"]
+[Rating "751"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/wviXPXaE#31"]
+[Solution "d1e2 h5g3 h1h2 g3e2"]
+[SolutionSAN "Qe2 Ng3+ Kh2 Nxe2"]
+[FEN "r2q1rk1/1p1n1pp1/pb1p3p/3P3n/B3P3/2N2N1P/PPP5/R1BQ1R1K w - - 1 16"]
+[SetUp "1"]
+
+16. Qe2 Ng3+ 17. Kh2 Nxe2 *

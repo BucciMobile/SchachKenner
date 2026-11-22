@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03t1T"]
+[Difficulty "easy"]
+[Rating "936"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/VH1cpyby#59"]
+[Solution "c2d4 f8f2 g2g1 f2d2"]
+[SolutionSAN "Nd4 Rf2+ Kg1 Rxd2"]
+[FEN "5rk1/1b5p/8/3p4/pP4p1/P2nP1P1/2NN2K1/1R6 w - - 0 30"]
+[SetUp "1"]
+
+30. Nd4 Rf2+ 31. Kg1 Rxd2 *

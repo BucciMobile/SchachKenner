@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GPnI"]
+[Difficulty "medium"]
+[Rating "1543"]
+[Themes "advantage middlegame short skewer"]
+[GameUrl "https://lichess.org/game/FK2NLCud#81"]
+[Solution "b3b4 c7g7 g4h3 g7g1"]
+[SolutionSAN "b4 Rg7+ Kh3 Rxg1"]
+[FEN "7k/2r4b/5p1b/1pB1pP2/4N1K1/1P1P4/r1P2R2/6R1 w - - 1 41"]
+[SetUp "1"]
+
+41. b4 Rg7+ 42. Kh3 Rxg1 *

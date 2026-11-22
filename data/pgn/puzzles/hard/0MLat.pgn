@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MLat"]
+[Difficulty "hard"]
+[Rating "2451"]
+[Themes "advantage attraction deflection kingsideAttack middlegame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/9DCvmNdd/black#42"]
+[Solution "e5d4 d1h1 f7f5 h5h8 g8f7 e2h5 f7f6 e4e5 f6e5 h1e1 e5d6 d2d4"]
+[SolutionSAN "exd4 Rdh1 f5 Rh8+ Kf7 Bh5+ Kf6 e5+ Kxe5 Re1+ Kd6 Qxd4+"]
+[FEN "2rr2k1/1bq1bpp1/p3p3/1p2p2R/3NP3/P1N5/1PPQB3/1K1R4 b - - 0 21"]
+[SetUp "1"]
+
+21... exd4 22. Rdh1 f5 23. Rh8+ Kf7 24. Bh5+ Kf6 25. e5+ Kxe5 26. Re1+ Kd6 27. Qxd4+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "096YO"]
+[Difficulty "hard"]
+[Rating "1971"]
+[Themes "crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/gz9us7Lj#79"]
+[Solution "f5e3 d2e3 f2e3 d5c4 e2d1 c4b3 d1c1 b3a3"]
+[SolutionSAN "Ne3+ Bxe3 fxe3 Kc4 Kd1 Kb3 Kc1 Kxa3"]
+[FEN "8/8/8/1p1k1Np1/8/P1p5/3bKPPP/8 w - - 0 40"]
+[SetUp "1"]
+
+40. Ne3+ Bxe3 41. fxe3 Kc4 42. Kd1 Kb3 43. Kc1 Kxa3 *

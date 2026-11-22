@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "051Lk"]
+[Difficulty "medium"]
+[Rating "1287"]
+[Themes "advantage attraction middlegame short"]
+[GameUrl "https://lichess.org/game/GDngXDwX/black#80"]
+[Solution "e6e7 c7e7 f7e7 b4c6"]
+[SolutionSAN "Re7 Rxe7+ Kxe7 Nc6+"]
+[FEN "1r6/2R2k1p/1p2rnp1/3p1pq1/PN1Pp3/6P1/6B1/4QK1R b - - 1 40"]
+[SetUp "1"]
+
+40... Re7 41. Rxe7+ Kxe7 42. Nc6+ *

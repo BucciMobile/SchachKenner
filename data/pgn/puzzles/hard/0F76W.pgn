@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F76W"]
+[Difficulty "hard"]
+[Rating "2207"]
+[Themes "middlegame"]
+[GameUrl "https://lichess.org/game/tCP9c4GV/black#80"]
+[Solution "g8f8 h4f4 c4f7 f4d6 b7e7 d6b8"]
+[SolutionSAN "Kf8 Qf4+ Qf7 Qd6+ Re7 Qxb8+"]
+[FEN "1r4kb/1r5p/6R1/8/P1qp3Q/8/1P6/K6R b - - 0 40"]
+[SetUp "1"]
+
+40... Kf8 41. Qf4+ Qf7 42. Qd6+ Re7 43. Qxb8+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BIFY"]
+[Difficulty "medium"]
+[Rating "1256"]
+[Themes "crushing discoveredAttack discoveredCheck opening short"]
+[GameUrl "https://lichess.org/game/Cq33M02M/black#22"]
+[Solution "g8f6 e3b6 c8e6 b6a5"]
+[SolutionSAN "Nf6 Bb6+ Be6 Bxa5"]
+[FEN "r1b1k1nr/pp3ppp/2n5/q2p4/2p5/2P1BN2/PP2QPPP/R3KB1R b KQkq - 3 11"]
+[SetUp "1"]
+
+11... Nf6 12. Bb6+ Be6 13. Bxa5 *

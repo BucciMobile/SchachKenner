@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09VQK"]
+[Difficulty "hard"]
+[Rating "1971"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/MDCa6oQM#23"]
+[Solution "g5e7 a6b5 a1a8 c6d4"]
+[SolutionSAN "Bxe7 axb5 Rxa8 Nxd4"]
+[FEN "r1b1k2r/1pq1np1p/p1n1p1p1/1B1pP1B1/1P1Q4/2P5/2P2PPP/R3K1NR w KQkq - 0 12"]
+[SetUp "1"]
+
+12. Bxe7 axb5 13. Rxa8 Nxd4 *

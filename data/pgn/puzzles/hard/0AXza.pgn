@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AXza"]
+[Difficulty "hard"]
+[Rating "2080"]
+[Themes "endgame master mate mateIn2 morphysMate short"]
+[GameUrl "https://lichess.org/game/H8dfqWu6#105"]
+[Solution "e3f3 g5g4 h3g4 f5e4"]
+[SolutionSAN "Kf3 g4+ hxg4 Be4#"]
+[FEN "8/5k2/p7/3N1bp1/1P1B1P1p/P3K1bP/3R2P1/4r3 w - - 1 53"]
+[SetUp "1"]
+
+53. Kf3 g4+ 54. hxg4 Be4# *

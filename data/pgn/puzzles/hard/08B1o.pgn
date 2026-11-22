@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08B1o"]
+[Difficulty "hard"]
+[Rating "1915"]
+[Themes "crushing exposedKing long middlegame"]
+[GameUrl "https://lichess.org/game/vgeud69s#53"]
+[Solution "g1f2 d6h2 f2e3 g8g3 h4g3 h2g3"]
+[SolutionSAN "Kf2 Qh2+ Ke3 Rg3+ Qxg3 Qxg3+"]
+[FEN "6rk/8/p2qpR1p/1pp2P2/7Q/P1NP3b/BPP5/6K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Kf2 Qh2+ 28. Ke3 Rg3+ 29. Qxg3 Qxg3+ *

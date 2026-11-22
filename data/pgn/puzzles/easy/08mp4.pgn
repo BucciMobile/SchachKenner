@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08mp4"]
+[Difficulty "easy"]
+[Rating "1009"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/EQMcILIl/black#114"]
+[Solution "f5e4 f3d2 e4f5 d2b3"]
+[SolutionSAN "Ke4 Nd2+ Kf5 Nxb3"]
+[FEN "8/8/8/5k2/5p2/1r3N2/5PK1/8 b - - 3 57"]
+[SetUp "1"]
+
+57... Ke4 58. Nd2+ Kf5 59. Nxb3 *

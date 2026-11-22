@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Jl5"]
+[Difficulty "easy"]
+[Rating "1086"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/NJRP9mVu#69"]
+[Solution "c2c3 h4h2 g1f1 h2f2"]
+[SolutionSAN "Rxc3 Qh2+ Kf1 Qf2#"]
+[FEN "6k1/2p2p2/7p/3Q4/P2P3q/2r3p1/2R5/6K1 w - - 0 35"]
+[SetUp "1"]
+
+35. Rxc3 Qh2+ 36. Kf1 Qf2# *

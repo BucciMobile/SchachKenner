@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00CFp"]
+[Difficulty "easy"]
+[Rating "477"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/6VajuPk6#31"]
+[Solution "f1f4 d8d1 f4f1 d1f1"]
+[SolutionSAN "Qxf4 Qd1+ Qf1 Qxf1#"]
+[FEN "rn1q3k/pp4pp/1b2B3/4N3/5r2/2p5/PP4PP/RN3Q1K w - - 0 16"]
+[SetUp "1"]
+
+16. Qxf4 Qd1+ 17. Qf1 Qxf1# *

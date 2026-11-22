@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cri9"]
+[Difficulty "easy"]
+[Rating "473"]
+[Themes "endgame mate mateIn2 queensideAttack short"]
+[GameUrl "https://lichess.org/game/mrJxVGN0/black#52"]
+[Solution "e1e4 b3g8 c6d8 g8d8"]
+[SolutionSAN "Qxe4 Qg8+ Nd8 Qxd8#"]
+[FEN "1k6/ppp4B/2np2p1/4p2b/1P2P3/1QP4P/PN4PK/4q3 b - - 1 26"]
+[SetUp "1"]
+
+26... Qxe4 27. Qg8+ Nd8 28. Qxd8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DOoD"]
+[Difficulty "hard"]
+[Rating "1989"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/gzlgRzwe#53"]
+[Solution "a1e1 e8e1 d3e1 g6e6"]
+[SolutionSAN "Re1 Rxe1+ Nxe1 Qe6"]
+[FEN "4r1k1/pQ3p2/6qp/6p1/3p2P1/P2N4/1PPn1P1P/R5K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Re1 Rxe1+ 28. Nxe1 Qe6 *

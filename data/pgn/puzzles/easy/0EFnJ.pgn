@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EFnJ"]
+[Difficulty "easy"]
+[Rating "883"]
+[Themes "advancedPawn bishopEndgame crushing endgame master promotion short"]
+[GameUrl "https://lichess.org/game/FoJR0RnJ/black#106"]
+[Solution "g4f3 c6c7 f3f2 c7c8q"]
+[SolutionSAN "gxf3 c7 f2 c8=Q+"]
+[FEN "8/8/1KP1k2p/1p1p4/2b2pp1/B4P2/8/8 b - - 1 53"]
+[SetUp "1"]
+
+53... gxf3 54. c7 f2 55. c8=Q+ *

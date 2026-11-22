@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E8gG"]
+[Difficulty "hard"]
+[Rating "1796"]
+[Themes "crushing defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/HuLJ0QwR#69"]
+[Solution "a5c7 c3c7 b7b8 h8h7"]
+[SolutionSAN "Bc7 Rxc7 Qb8+ Kh7"]
+[FEN "7k/1Q4b1/5n2/B2pq3/1P4p1/2r2B2/P4PP1/3R2K1 w - - 0 35"]
+[SetUp "1"]
+
+35. Bc7 Rxc7 36. Qb8+ Kh7 *

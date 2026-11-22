@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IIo7"]
+[Difficulty "easy"]
+[Rating "509"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/DVeZZpow/black#48"]
+[Solution "g8f8 c1c8 b6d8 c8d8"]
+[SolutionSAN "Kxf8 Rc8+ Qd8 Rxd8#"]
+[FEN "5Qk1/5ppp/pq6/1p3N2/4p3/4P3/bP3PPP/2R3K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Kxf8 25. Rc8+ Qd8 26. Rxd8# *

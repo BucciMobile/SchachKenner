@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02woL"]
+[Difficulty "medium"]
+[Rating "1649"]
+[Themes "crushing defensiveMove endgame long sacrifice"]
+[GameUrl "https://lichess.org/game/RNcHAb9H#49"]
+[Solution "a7b8 g8h7 b8d6 e6h3 d6d5 f3d5"]
+[SolutionSAN "Qb8+ Kh7 Qxd6 Bh3 Qd5 Qxd5"]
+[FEN "6k1/Q5p1/3rb2p/8/8/2P2qN1/PP3P1P/5RK1 w - - 0 25"]
+[SetUp "1"]
+
+25. Qb8+ Kh7 26. Qxd6 Bh3 27. Qd5 Qxd5 *

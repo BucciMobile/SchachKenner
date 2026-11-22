@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IMuN"]
+[Difficulty "hard"]
+[Rating "2360"]
+[Themes "advantage exposedKing fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/7C5596kI#67"]
+[Solution "e7f8 d4f4 f8f4 g3f4 e6g8 h2g3 f3e2 f4e3"]
+[SolutionSAN "Qf8 Rf4+ Qxf4 Bxf4 Bxg8 Qg3+ Ke2 Bxe3"]
+[FEN "6bk/pp2Q1p1/2p1B2p/2P5/1P1r4/4RKbP/P5Pq/2B2R2 w - - 7 34"]
+[SetUp "1"]
+
+34. Qf8 Rf4+ 35. Qxf4 Bxf4 36. Bxg8 Qg3+ 37. Ke2 Bxe3 *

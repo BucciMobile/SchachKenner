@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01AU0"]
+[Difficulty "hard"]
+[Rating "2819"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/oDCrsFl8#91"]
+[Solution "e2d3 h1d1 d3c4 e6d6"]
+[SolutionSAN "Kd3 Qd1+ Kc4 Rd6"]
+[FEN "8/7k/4r3/pB6/P7/2Q3P1/4KP2/7q w - - 5 46"]
+[SetUp "1"]
+
+46. Kd3 Qd1+ 47. Kc4 Rd6 *

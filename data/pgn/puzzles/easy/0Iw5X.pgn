@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Iw5X"]
+[Difficulty "easy"]
+[Rating "988"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/ue6nly5f/black#94"]
+[Solution "b8c8 h2c7"]
+[SolutionSAN "Kc8 Qc7#"]
+[FEN "1k1r4/1p6/pPp2b2/2Pq1Pp1/1P1PR1Bp/2K5/7Q/8 b - - 6 47"]
+[SetUp "1"]
+
+47... Kc8 48. Qc7# *

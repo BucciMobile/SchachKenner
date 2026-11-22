@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Eonx"]
+[Difficulty "hard"]
+[Rating "1793"]
+[Themes "advantage endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/FHsXCBSE#63"]
+[Solution "d7f7 g8f7 b5d6 g6d6"]
+[SolutionSAN "Rxf7 Kxf7 Nd6+ Rxd6"]
+[FEN "6k1/3R1pp1/6r1/pN2P2p/Ppr2P1n/7P/1P1R2PK/8 w - - 2 32"]
+[SetUp "1"]
+
+32. Rxf7 Kxf7 33. Nd6+ Rxd6 *

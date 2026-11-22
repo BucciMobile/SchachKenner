@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dxwa"]
+[Difficulty "medium"]
+[Rating "1387"]
+[Themes "discoveredAttack discoveredCheck endgame fork long mate mateIn3"]
+[GameUrl "https://lichess.org/game/b1M223gF#61"]
+[Solution "d4b2 f4e2 g1h1 e4e3 f2f3 b7f3"]
+[SolutionSAN "Bxb2 Ne2+ Kh1 e3+ f3 Bxf3#"]
+[FEN "2k5/1bp5/p7/1p5p/2PBpn2/1P5p/Pr3P1P/R1R2NK1 w - - 1 31"]
+[SetUp "1"]
+
+31. Bxb2 Ne2+ 32. Kh1 e3+ 33. f3 Bxf3# *

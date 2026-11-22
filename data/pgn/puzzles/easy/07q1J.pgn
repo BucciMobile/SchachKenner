@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07q1J"]
+[Difficulty "easy"]
+[Rating "978"]
+[Themes "cornerMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/ih2qhdaG/black#72"]
+[Solution "f7e7 b3e6 e7f8 c5d7"]
+[SolutionSAN "Ke7 Qe6+ Kf8 Nd7#"]
+[FEN "4r3/5kb1/p5p1/1pN2p1p/5P2/1QP3P1/PP3KNq/8 b - - 1 36"]
+[SetUp "1"]
+
+36... Ke7 37. Qe6+ Kf8 38. Nd7# *

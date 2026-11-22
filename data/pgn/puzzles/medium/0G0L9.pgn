@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G0L9"]
+[Difficulty "medium"]
+[Rating "1507"]
+[Themes "advantage fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/g5nRoxuc#37"]
+[Solution "e1f1 f2f1 c4f1 e4f2 h1g1 f2g4"]
+[SolutionSAN "Rf1 Qxf1+ Bxf1 Nf2+ Kg1 Nxg4"]
+[FEN "1k1n1b1r/ppp5/3p3p/8/2B1n1Q1/4P3/PPP2qPP/R1B1R2K w - - 2 19"]
+[SetUp "1"]
+
+19. Rf1 Qxf1+ 20. Bxf1 Nf2+ 21. Kg1 Nxg4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03bHo"]
+[Difficulty "medium"]
+[Rating "1391"]
+[Themes "advantage fork opening short"]
+[GameUrl "https://lichess.org/game/XeCEtEr4/black#20"]
+[Solution "d7d6 d1a4 c8d7 a4b4"]
+[SolutionSAN "d6 Qa4+ Bd7 Qxb4"]
+[FEN "r1bqk2r/ppppnppp/8/3P4/1bB5/5N2/PP1N1PPP/R2Q1RK1 b kq - 2 10"]
+[SetUp "1"]
+
+10... d6 11. Qa4+ Bd7 12. Qxb4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EMws"]
+[Difficulty "easy"]
+[Rating "862"]
+[Themes "backRankMate endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/k3TJRara/black#64"]
+[Solution "d2e2 b1b8 e6c8 b8c8 e2e8 c8e8"]
+[SolutionSAN "Rxe2 Rb8+ Bc8 Rxc8+ Re8 Rxe8#"]
+[FEN "6k1/5ppp/4b3/3p4/p5P1/K6P/3rP1B1/1R6 b - - 3 32"]
+[SetUp "1"]
+
+32... Rxe2 33. Rb8+ Bc8 34. Rxc8+ Re8 35. Rxe8# *

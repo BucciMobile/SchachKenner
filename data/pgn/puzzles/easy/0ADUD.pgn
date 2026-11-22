@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ADUD"]
+[Difficulty "easy"]
+[Rating "565"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/X8ZdSLLX#59"]
+[Solution "a1c1 d2c1"]
+[SolutionSAN "Rxc1 Qxc1#"]
+[FEN "5rk1/pR3ppp/1p1Q1n2/3p4/8/4P3/3q1PPP/R1r3K1 w - - 6 30"]
+[SetUp "1"]
+
+30. Rxc1 Qxc1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IgLj"]
+[Difficulty "hard"]
+[Rating "1919"]
+[Themes "crushing endgame long pin"]
+[GameUrl "https://lichess.org/game/PfqVvFDA/black#44"]
+[Solution "b5b2 d1d8 g7f8 e3h6 b2c1 h6c1"]
+[SolutionSAN "Qxb2 Qd8+ Bf8 Bh6 Qc1+ Bxc1"]
+[FEN "6k1/p3ppbp/1p4p1/1q6/8/2P1B2P/PP3PP1/3Q2K1 b - - 0 22"]
+[SetUp "1"]
+
+22... Qxb2 23. Qd8+ Bf8 24. Bh6 Qc1+ 25. Bxc1 *

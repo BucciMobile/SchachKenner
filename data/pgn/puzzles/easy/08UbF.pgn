@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08UbF"]
+[Difficulty "easy"]
+[Rating "1134"]
+[Themes "advantage discoveredAttack discoveredCheck long master middlegame"]
+[GameUrl "https://lichess.org/game/seDZqqbD#49"]
+[Solution "e3d3 c5c4 e5d4 c4d3 c1c8 b7c8"]
+[SolutionSAN "Qd3 c4+ Bd4 cxd3 Rxc8+ Bxc8"]
+[FEN "2r3k1/pb2b2p/1q2p3/1Pp1B1p1/P3np2/4QP1P/4B1P1/R1R3K1 w - - 0 25"]
+[SetUp "1"]
+
+25. Qd3 c4+ 26. Bd4 cxd3 27. Rxc8+ Bxc8 *

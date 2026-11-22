@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DsKW"]
+[Difficulty "easy"]
+[Rating "1123"]
+[Themes "backRankMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/fHBCAXHC#39"]
+[Solution "d1d3 e8e1"]
+[SolutionSAN "Rxd3 Re1#"]
+[FEN "r3r1k1/pp3p2/n1p3p1/7p/3B4/2Nb1B2/PP3PPP/3R2K1 w - - 2 20"]
+[SetUp "1"]
+
+20. Rxd3 Re1# *

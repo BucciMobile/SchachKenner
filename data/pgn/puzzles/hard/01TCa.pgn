@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01TCa"]
+[Difficulty "hard"]
+[Rating "2417"]
+[Themes "crushing defensiveMove endgame fork veryLong"]
+[GameUrl "https://lichess.org/game/lh0rjLFL#91"]
+[Solution "e4f5 c8d6 f5g6 d6c4 g6h6 c7d6 h6g5 d6e5"]
+[SolutionSAN "Kf5 Nd6+ Kg6 Nxc4 Kxh6 Kd6 Kxg5 Ke5"]
+[FEN "2n5/p1k5/7p/6p1/P1B1KpP1/5P2/7P/8 w - - 0 46"]
+[SetUp "1"]
+
+46. Kf5 Nd6+ 47. Kg6 Nxc4 48. Kxh6 Kd6 49. Kxg5 Ke5 *

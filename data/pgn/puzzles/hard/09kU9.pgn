@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09kU9"]
+[Difficulty "hard"]
+[Rating "2180"]
+[Themes "crushing endgame master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/F3lfzeYH#69"]
+[Solution "d2e3 h8h2 f2e2 h2g3"]
+[SolutionSAN "Qxe3 Qh2 Ke2 Qxg3"]
+[FEN "7q/5pk1/4p1n1/p1N1P1p1/P7/4pPR1/1P1Q1KP1/7r w - - 0 35"]
+[SetUp "1"]
+
+35. Qxe3 Qh2 36. Ke2 Qxg3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "078Y9"]
+[Difficulty "easy"]
+[Rating "930"]
+[Themes "crushing endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/YuOqmd0m/black#90"]
+[Solution "e5h2 c3c2 h2c2 b2c2"]
+[SolutionSAN "Qxh2+ Qc2+ Qxc2+ Kxc2"]
+[FEN "8/5p1p/4p1p1/P3qk2/8/2Q5/1K5P/8 b - - 0 45"]
+[SetUp "1"]
+
+45... Qxh2+ 46. Qc2+ Qxc2+ 47. Kxc2 *

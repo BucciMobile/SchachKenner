@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09gCc"]
+[Difficulty "medium"]
+[Rating "1698"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/ZvW4pnBZ/black#80"]
+[Solution "a4a3 c7e5 d4d3 e2e3 d3c4 e5a1"]
+[SolutionSAN "a3 Be5+ Kd3 Re3+ Kc4 Bxa1"]
+[FEN "8/2B4p/6b1/8/p2k4/8/4RPKP/r7 b - - 0 40"]
+[SetUp "1"]
+
+40... a3 41. Be5+ Kd3 42. Re3+ Kc4 43. Bxa1 *

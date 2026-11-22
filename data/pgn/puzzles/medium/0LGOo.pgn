@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LGOo"]
+[Difficulty "medium"]
+[Rating "1283"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/SJXJ3gZF/black#28"]
+[Solution "g4g3 d5e6 g3f2 g1f2"]
+[SolutionSAN "g3 dxe6 gxf2+ Kxf2"]
+[FEN "r2qk2r/pppn1pb1/4p3/3P1b2/2B3pp/B1P5/P1PN1PPP/R2QR1K1 b kq - 0 14"]
+[SetUp "1"]
+
+14... g3 15. dxe6 gxf2+ 16. Kxf2 *

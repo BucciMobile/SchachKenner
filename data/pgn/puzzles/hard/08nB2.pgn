@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08nB2"]
+[Difficulty "hard"]
+[Rating "2749"]
+[Themes "advancedPawn crushing endgame long quietMove"]
+[GameUrl "https://lichess.org/game/gPWo497a#65"]
+[Solution "c4c5 a3b2 c5b6 e8c8 e5c7 c8c7"]
+[SolutionSAN "c5 axb2 cxb6 Rc8 Qc7+ Rxc7"]
+[FEN "4r3/5k1p/1nq1p1p1/4QpP1/2PP1P2/p2K3P/PNP5/4R3 w - - 0 33"]
+[SetUp "1"]
+
+33. c5 axb2 34. cxb6 Rc8 35. Qc7+ Rxc7 *

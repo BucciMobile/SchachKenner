@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cx8K"]
+[Difficulty "medium"]
+[Rating "1516"]
+[Themes "crushing endgame master quietMove short"]
+[GameUrl "https://lichess.org/game/TDajwE8R#69"]
+[Solution "e3d1 d8e8 g1f2 e8e1"]
+[SolutionSAN "Nd1 Re8 Kf2 Re1"]
+[FEN "3r2k1/R6p/8/8/8/1n2N3/3p2PP/6K1 w - - 0 35"]
+[SetUp "1"]
+
+35. Nd1 Re8 36. Kf2 Re1 *

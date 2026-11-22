@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07T01"]
+[Difficulty "easy"]
+[Rating "905"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/zZNQVy24/black#34"]
+[Solution "f8f7 e5f7"]
+[SolutionSAN "Rxf7 Nxf7#"]
+[FEN "2rq1r1k/1b2bNpB/p1n1pn1p/4N3/1p1P3P/P3B3/1PQ2PP1/R3K2R b KQ - 0 17"]
+[SetUp "1"]
+
+17... Rxf7 18. Nxf7# *

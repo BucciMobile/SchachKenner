@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Pik"]
+[Difficulty "hard"]
+[Rating "2213"]
+[Themes "advantage long middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/rjoedeSG#63"]
+[Solution "c7c5 a8e4 b1a1 e4c2 b4b1 c2d1"]
+[SolutionSAN "Rc5 Qe4+ Ka1 Qc2 Qb1 Qxd1"]
+[FEN "q4rk1/2R2bpp/5p2/5P2/1Q1p2PN/P1p5/7P/1KBR4 w - - 2 32"]
+[SetUp "1"]
+
+32. Rc5 Qe4+ 33. Ka1 Qc2 34. Qb1 Qxd1 *

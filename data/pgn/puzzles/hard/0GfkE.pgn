@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GfkE"]
+[Difficulty "hard"]
+[Rating "2006"]
+[Themes "crushing defensiveMove endgame long quietMove"]
+[GameUrl "https://lichess.org/game/1IE0uODt#75"]
+[Solution "h2h3 a8a1 h1h2 d4e2 f7b3 e2g3"]
+[SolutionSAN "h3 Ra1+ Kh2 Ne2 Bb3 Ng3"]
+[FEN "r7/4RB2/2k5/4pp2/1P1n3p/5P2/6PP/7K w - - 3 38"]
+[SetUp "1"]
+
+38. h3 Ra1+ 39. Kh2 Ne2 40. Bb3 Ng3 *

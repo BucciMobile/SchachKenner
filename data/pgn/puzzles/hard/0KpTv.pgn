@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KpTv"]
+[Difficulty "hard"]
+[Rating "1915"]
+[Themes "crushing defensiveMove endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/ocMl5lIp#63"]
+[Solution "b4c5 e5f4 e1d1 d8d7"]
+[SolutionSAN "bxc5 exf4 Rd1 Rd7"]
+[FEN "3r2k1/1p5p/p5p1/2bbp3/1P3B2/P1P4P/5PP1/4R1K1 w - - 0 32"]
+[SetUp "1"]
+
+32. bxc5 exf4 33. Rd1 Rd7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CN5u"]
+[Difficulty "hard"]
+[Rating "1962"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/j9VSasDs/black#52"]
+[Solution "b6b5 f7f3 a8g8 f3c3"]
+[SolutionSAN "Qb5 Qf3 Rg8 Qxc3"]
+[FEN "r6k/p4Qpp/1q4n1/2B5/1P6/2b4P/P4PP1/R5K1 b - - 0 26"]
+[SetUp "1"]
+
+26... Qb5 27. Qf3 Rg8 28. Qxc3 *

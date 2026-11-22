@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ChRE"]
+[Difficulty "easy"]
+[Rating "902"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/G6brmRAJ/black#62"]
+[Solution "h5f7 g4e6 g8h8 e6f7"]
+[SolutionSAN "Qf7 Be6 Kh8 Bxf7"]
+[FEN "r4rk1/1p4p1/3p3p/p2Pp2q/Pn2p1B1/1Q4R1/1P3PPP/3R2K1 b - - 1 31"]
+[SetUp "1"]
+
+31... Qf7 32. Be6 Kh8 33. Bxf7 *

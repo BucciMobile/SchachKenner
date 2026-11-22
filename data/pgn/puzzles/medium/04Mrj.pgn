@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Mrj"]
+[Difficulty "medium"]
+[Rating "1663"]
+[Themes "crushing deflection endgame knightEndgame long"]
+[GameUrl "https://lichess.org/game/DMPaSIkV/black#84"]
+[Solution "d5f4 c4e3 f5e6 f3f4 g6g5 h4g5"]
+[SolutionSAN "Nxf4 Ne3+ Ke6 Kxf4 g5+ hxg5"]
+[FEN "8/p5p1/5pp1/3n1k2/PpNP1P1P/5K2/5P2/8 b - - 3 42"]
+[SetUp "1"]
+
+42... Nxf4 43. Ne3+ Ke6 44. Kxf4 g5+ 45. hxg5 *

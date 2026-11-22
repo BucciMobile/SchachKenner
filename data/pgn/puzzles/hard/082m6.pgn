@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "082m6"]
+[Difficulty "hard"]
+[Rating "1818"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/UsuiNdm3/black#58"]
+[Solution "e6d7 a1d1 d2c4 e3c4"]
+[SolutionSAN "Bd7 Rd1 Nxc4 Nxc4"]
+[FEN "5rk1/5ppp/p3b3/8/p1P2P2/2P1N2P/3n2BK/R7 b - - 2 29"]
+[SetUp "1"]
+
+29... Bd7 30. Rd1 Nxc4 31. Nxc4 *

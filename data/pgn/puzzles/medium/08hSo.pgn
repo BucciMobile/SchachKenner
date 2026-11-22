@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08hSo"]
+[Difficulty "medium"]
+[Rating "1480"]
+[Themes "crushing deflection endgame exposedKing rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/Zd5WnYer#125"]
+[Solution "f4g3 h5g5 g3h3 f1f3 h3h4 g5g2 e2g2 h1g2"]
+[SolutionSAN "Kg3 Rg5+ Kh3 Rf3+ Kh4 Rxg2 Rxg2 Kxg2"]
+[FEN "8/8/8/7r/5K2/8/4R1R1/5r1k w - - 44 63"]
+[SetUp "1"]
+
+63. Kg3 Rg5+ 64. Kh3 Rf3+ 65. Kh4 Rxg2 66. Rxg2 Kxg2 *

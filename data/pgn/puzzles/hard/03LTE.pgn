@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03LTE"]
+[Difficulty "hard"]
+[Rating "2389"]
+[Themes "crushing middlegame quietMove short"]
+[GameUrl "https://lichess.org/game/SEcuUnbb/black#52"]
+[Solution "g8h8 h6c1 d8e8 d1e1"]
+[SolutionSAN "Rh8 Qc1 Ke8 Re1"]
+[FEN "3k1nr1/p3b3/3p3Q/4q3/2R5/6P1/5PP1/3R2K1 b - - 0 26"]
+[SetUp "1"]
+
+26... Rh8 27. Qc1 Ke8 28. Re1 *

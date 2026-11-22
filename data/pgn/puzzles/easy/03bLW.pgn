@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03bLW"]
+[Difficulty "easy"]
+[Rating "822"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/14Yk1fS5#59"]
+[Solution "e1e3 c8c1 e3e1 c1e1"]
+[SolutionSAN "Re3 Rc1+ Re1 Rxe1#"]
+[FEN "1qr1k3/5p2/p3pP2/1p1p2Q1/8/8/PP3PP1/4R1K1 w - - 1 30"]
+[SetUp "1"]
+
+30. Re3 Rc1+ 31. Re1 Rxe1# *

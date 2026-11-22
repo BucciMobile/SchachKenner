@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FR91"]
+[Difficulty "easy"]
+[Rating "966"]
+[Themes "advancedPawn crushing endgame promotion quietMove veryLong"]
+[GameUrl "https://lichess.org/game/jxMaslN6/black#108"]
+[Solution "a7a4 b4a4 h4h3 b2b4 h3g4 b4b5 g4h3 b5b6 g5g4 b6b7 g4g3 b7b8q"]
+[SolutionSAN "Rxa4+ Kxa4 Kxh3 b4 Kxg4 b5 Kh3 b6 g4 b7 g3 b8=Q"]
+[FEN "8/r7/8/6p1/RK4Pk/7P/1P6/8 b - - 0 54"]
+[SetUp "1"]
+
+54... Rxa4+ 55. Kxa4 Kxh3 56. b4 Kxg4 57. b5 Kh3 58. b6 g4 59. b7 g3 60. b8=Q *

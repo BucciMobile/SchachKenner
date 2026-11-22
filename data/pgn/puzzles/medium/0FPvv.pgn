@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FPvv"]
+[Difficulty "medium"]
+[Rating "1484"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/yfnpSOAQ#33"]
+[Solution "f3e5 d6e5 d1d7 g4d7"]
+[SolutionSAN "Ne5 Bxe5 Qxd7 Bxd7"]
+[FEN "r4rk1/1npq1ppp/p1pb4/8/1P4b1/P1N1PN2/5PPP/R1BQ1RK1 w - - 1 17"]
+[SetUp "1"]
+
+17. Ne5 Bxe5 18. Qxd7 Bxd7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07TJ3"]
+[Difficulty "hard"]
+[Rating "1889"]
+[Themes "exposedKing fork long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/Q7QjpssO/black#40"]
+[Solution "d8h4 d1a4 b7b5 a4b5 e8d8 b5d7"]
+[SolutionSAN "Qh4 Qa4+ b5 Qxb5+ Kd8 Qd7#"]
+[FEN "r2qkb1r/pp4p1/n2pP3/4p3/2P1Np2/8/PP3PKB/R2Q1R2 b kq - 0 20"]
+[SetUp "1"]
+
+20... Qh4 21. Qa4+ b5 22. Qxb5+ Kd8 23. Qd7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BCoD"]
+[Difficulty "easy"]
+[Rating "968"]
+[Themes "capturingDefender crushing middlegame short"]
+[GameUrl "https://lichess.org/game/nsU8V5G8/black#60"]
+[Solution "h8h5 h1h5 g6h5 e4f5"]
+[SolutionSAN "Rxh5 Rxh5 gxh5 Qxf5"]
+[FEN "2r2k1r/2q2p2/3p2p1/4pn1P/1p2Q3/1N3P2/PPPR4/2K4R b - - 0 30"]
+[SetUp "1"]
+
+30... Rxh5 31. Rxh5 gxh5 32. Qxf5 *

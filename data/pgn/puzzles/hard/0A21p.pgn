@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A21p"]
+[Difficulty "hard"]
+[Rating "2456"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/DRYdgrxC#47"]
+[Solution "e4d6 d8b6 g1h1 d7c6 d6f7 g7f7"]
+[SolutionSAN "Nxd6 Qb6+ Kh1 Bc6 Nf7+ Rxf7"]
+[FEN "3q3k/p2b2rp/3p1p2/3Q1P2/2B1N3/8/P1r3PP/R4RK1 w - - 0 24"]
+[SetUp "1"]
+
+24. Nxd6 Qb6+ 25. Kh1 Bc6 26. Nf7+ Rxf7 *

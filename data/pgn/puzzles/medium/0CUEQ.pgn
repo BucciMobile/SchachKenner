@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CUEQ"]
+[Difficulty "medium"]
+[Rating "1324"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/cBRn3MoG/black#42"]
+[Solution "e7f8 e4f6 g8h8 f6d5"]
+[SolutionSAN "Bf8 Nf6+ Kh8 Nxd5"]
+[FEN "r3r1k1/1b2bppp/1p2p3/p2qP3/3PN3/3P2Q1/RB3PPP/R5K1 b - - 1 21"]
+[SetUp "1"]
+
+21... Bf8 22. Nf6+ Kh8 23. Nxd5 *

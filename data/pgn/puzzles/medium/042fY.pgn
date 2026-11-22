@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "042fY"]
+[Difficulty "medium"]
+[Rating "1264"]
+[Themes "backRankMate deflection endgame mate mateIn4 sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/mNvYqaC8#43"]
+[Solution "b1b7 d4e2 g1h1 d3f2 f1f2 c8c1 f2f1 c1f1"]
+[SolutionSAN "Rb7 Ne2+ Kh1 Nxf2+ Rxf2 Rc1+ Rf1 Rxf1#"]
+[FEN "2r3k1/5ppp/8/4p1N1/3n4/3n4/P4PPP/1R3RK1 w - - 0 22"]
+[SetUp "1"]
+
+22. Rb7 Ne2+ 23. Kh1 Nxf2+ 24. Rxf2 Rc1+ 25. Rf1 Rxf1# *

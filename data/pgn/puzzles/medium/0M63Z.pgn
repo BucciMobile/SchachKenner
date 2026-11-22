@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M63Z"]
+[Difficulty "medium"]
+[Rating "1401"]
+[Themes "crushing kingsideAttack opening short"]
+[GameUrl "https://lichess.org/game/w6b4NZZE/black#28"]
+[Solution "e7d6 e1e8 d8e8 g3d6"]
+[SolutionSAN "Bd6 Rxe8+ Qxe8 Qxd6"]
+[FEN "r1bqr1k1/pp2bppp/8/2p5/2B3n1/6Q1/PPPB1PPP/RN2R1K1 b - - 9 14"]
+[SetUp "1"]
+
+14... Bd6 15. Rxe8+ Qxe8 16. Qxd6 *

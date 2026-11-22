@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06LZ3"]
+[Difficulty "hard"]
+[Rating "1749"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/fDnSYAdW#23"]
+[Solution "d3e4 e5d3 e1f1 d3f4"]
+[SolutionSAN "Be4 Nd3+ Kf1 Nxf4"]
+[FEN "2kr2nr/ppp1qppp/8/4n3/Q1Pp1B2/P2B1P2/1P3PPP/R3K2R w KQ - 0 12"]
+[SetUp "1"]
+
+12. Be4 Nd3+ 13. Kf1 Nxf4 *

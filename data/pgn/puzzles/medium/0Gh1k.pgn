@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gh1k"]
+[Difficulty "medium"]
+[Rating "1539"]
+[Themes "crushing fork long middlegame"]
+[GameUrl "https://lichess.org/game/5sMuPdhZ#41"]
+[Solution "f3h4 d8d4 b2a2 e2c3 b3c3 d4c3"]
+[SolutionSAN "Nh4 Qxd4+ Ka2 Nc3+ Qxc3 Qxc3"]
+[FEN "r2q1rk1/pp2pp1p/6p1/1PP2b2/2BP4/PQ3N2/1K1NnPPP/3R3R w - - 9 21"]
+[SetUp "1"]
+
+21. Nh4 Qxd4+ 22. Ka2 Nc3+ 23. Qxc3 Qxc3 *

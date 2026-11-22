@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cac0"]
+[Difficulty "easy"]
+[Rating "927"]
+[Themes "mate mateIn1 oneMove opening operaMate"]
+[GameUrl "https://lichess.org/game/bWmP5qhf#17"]
+[Solution "f3e5 d8d1"]
+[SolutionSAN "Nxe5 Rd1#"]
+[FEN "3rkb1r/ppp2ppp/2n2n2/1B2p3/6b1/5N2/PPP2PPP/RNB1K2R w KQk - 0 9"]
+[SetUp "1"]
+
+9. Nxe5 Rd1# *

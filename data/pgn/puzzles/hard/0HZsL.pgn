@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HZsL"]
+[Difficulty "hard"]
+[Rating "2248"]
+[Themes "advantage fork opening veryLong"]
+[GameUrl "https://lichess.org/game/meChcVDe#29"]
+[Solution "d1h5 f6f2 g1h2 d5f6 g5e4 f6h5 e4f2 f8f2"]
+[SolutionSAN "Qh5 Qxf2+ Kh2 Nf6 Ne4 Nxh5 Nxf2 Rxf2"]
+[FEN "r1b2rk1/ppp4p/2n1pq2/3n2N1/2BP3P/8/PP3PP1/R1BQR1K1 w - - 1 15"]
+[SetUp "1"]
+
+15. Qh5 Qxf2+ 16. Kh2 Nf6 17. Ne4 Nxh5 18. Nxf2 Rxf2 *

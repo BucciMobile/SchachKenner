@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hl7k"]
+[Difficulty "easy"]
+[Rating "1104"]
+[Themes "crushing endgame master pawnEndgame short"]
+[GameUrl "https://lichess.org/game/S16Vur5J#103"]
+[Solution "g4g5 h4h3 f4g3 g6g5"]
+[SolutionSAN "g5 h3 Kg3 Kxg5"]
+[FEN "8/1p6/6k1/p1p5/P1P2KPp/8/2P5/8 w - - 0 52"]
+[SetUp "1"]
+
+52. g5 h3 53. Kg3 Kxg5 *

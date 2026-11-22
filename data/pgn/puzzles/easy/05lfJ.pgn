@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05lfJ"]
+[Difficulty "easy"]
+[Rating "631"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/vzgC2nVL#99"]
+[Solution "c6a8 b4b8"]
+[SolutionSAN "Ba8 Rb8#"]
+[FEN "3K4/8/2Bkpp2/p5p1/1r4P1/5P2/8/7R w - - 6 50"]
+[SetUp "1"]
+
+50. Ba8 Rb8# *

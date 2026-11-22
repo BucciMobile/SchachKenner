@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fq3v"]
+[Difficulty "medium"]
+[Rating "1598"]
+[Themes "advantage deflection middlegame pin short"]
+[GameUrl "https://lichess.org/game/I1QFqJd9#29"]
+[Solution "g1h2 d8h4 h2g1 d6g3"]
+[SolutionSAN "Kxh2 Qh4+ Kg1 Bxg3"]
+[FEN "r2q1rk1/p2n2pp/1ppb2p1/3p4/3P4/2Q2PP1/PP1NP1Bn/R1B1R1K1 w - - 0 15"]
+[SetUp "1"]
+
+15. Kxh2 Qh4+ 16. Kg1 Bxg3 *

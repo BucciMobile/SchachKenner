@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GIhN"]
+[Difficulty "hard"]
+[Rating "1962"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/jg8KYWoi/black#38"]
+[Solution "d2e4 c3e4 e8e4 h4h6"]
+[SolutionSAN "Ne4 Nxe4 Rxe4 Qxh6"]
+[FEN "r3r1k1/1p1n1ppb/p1p4p/3p1P2/3N3Q/qPN1P1R1/P2nB1PP/3R2K1 b - - 1 19"]
+[SetUp "1"]
+
+19... Ne4 20. Nxe4 Rxe4 21. Qxh6 *

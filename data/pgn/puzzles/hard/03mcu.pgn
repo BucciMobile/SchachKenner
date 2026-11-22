@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03mcu"]
+[Difficulty "hard"]
+[Rating "2428"]
+[Themes "advancedPawn crushing deflection endgame exposedKing long master promotion rookEndgame sacrifice"]
+[GameUrl "https://lichess.org/game/QuuwSCam#121"]
+[Solution "h2g1 a8a7 f7a7 f3f2 g1h2 f2f1q"]
+[SolutionSAN "Kg1 Rxa7 Rxa7 f2+ Kh2 f1=Q"]
+[FEN "r7/P4R2/3p4/8/2P5/5p2/P3k2K/8 w - - 0 61"]
+[SetUp "1"]
+
+61. Kg1 Rxa7 62. Rxa7 f2+ 63. Kh2 f1=Q *

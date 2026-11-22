@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0COZ0"]
+[Difficulty "hard"]
+[Rating "2510"]
+[Themes "crushing deflection long middlegame pin"]
+[GameUrl "https://lichess.org/game/mTsQHt8e#53"]
+[Solution "g3g4 f1h2 g4f4 h8h4 f4g3 d7f5"]
+[SolutionSAN "Kg4 Nh2+ Kf4 Rh4+ Kg3 Qxf5"]
+[FEN "Rnk4r/1p1q4/1Pp2p2/3p1Q2/3P4/1NP3K1/3BB3/5n2 w - - 0 27"]
+[SetUp "1"]
+
+27. Kg4 Nh2+ 28. Kf4 Rh4+ 29. Kg3 Qxf5 *

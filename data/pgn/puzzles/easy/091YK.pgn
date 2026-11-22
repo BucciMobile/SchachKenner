@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "091YK"]
+[Difficulty "easy"]
+[Rating "1150"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/WEgzfi0X/black#42"]
+[Solution "b8d7 c4c8 a8c8 d3b5"]
+[SolutionSAN "Nxd7 Rc8+ Rxc8 Qxb5"]
+[FEN "rn2k2r/3Nnpp1/7p/pq2P3/1pR1P3/3Q1N2/PPP3PP/2K4R b kq - 0 21"]
+[SetUp "1"]
+
+21... Nxd7 22. Rc8+ Rxc8 23. Qxb5 *

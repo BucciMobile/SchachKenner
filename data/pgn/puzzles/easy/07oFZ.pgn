@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07oFZ"]
+[Difficulty "easy"]
+[Rating "922"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/TMNPq2Rq/black#14"]
+[Solution "c8d7 d1h5"]
+[SolutionSAN "Bd7 Qh5#"]
+[FEN "r1bqkb1r/ppp1p2p/1n3p2/1B1p1p2/3P4/4P3/PPPN1PPP/RN1QK2R b KQkq - 4 7"]
+[SetUp "1"]
+
+7... Bd7 8. Qh5# *

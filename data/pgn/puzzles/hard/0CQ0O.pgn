@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CQ0O"]
+[Difficulty "hard"]
+[Rating "2336"]
+[Themes "advantage defensiveMove deflection exposedKing fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/XuXXm8jC#63"]
+[Solution "h3e6 f8f6 e6h3 e4f2 f1f2 f4c1 h3f1 c1f1"]
+[SolutionSAN "Qe6+ Rf6 Qh3 Nxf2+ Rxf2 Qxc1+ Qf1 Qxf1+"]
+[FEN "r4r2/2p5/1p1p3k/p2Pp2p/4nq2/2N4Q/PPP2P1N/2R2R1K w - - 0 32"]
+[SetUp "1"]
+
+32. Qe6+ Rf6 33. Qh3 Nxf2+ 34. Rxf2 Qxc1+ 35. Qf1 Qxf1+ *

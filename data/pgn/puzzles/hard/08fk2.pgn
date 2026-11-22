@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08fk2"]
+[Difficulty "hard"]
+[Rating "1873"]
+[Themes "crushing endgame rookEndgame short trappedPiece"]
+[GameUrl "https://lichess.org/game/DCwXeVU2#49"]
+[Solution "g2g3 g8f7 e6d6 c7d6"]
+[SolutionSAN "g3 Kf7 Rd6 cxd6"]
+[FEN "r4rk1/1pp3p1/4R2p/1p2P3/8/7P/PP3PP1/R5K1 w - - 1 25"]
+[SetUp "1"]
+
+25. g3 Kf7 26. Rd6 cxd6 *

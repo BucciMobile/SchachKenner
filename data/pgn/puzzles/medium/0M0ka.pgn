@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M0ka"]
+[Difficulty "medium"]
+[Rating "1328"]
+[Themes "advantage middlegame short skewer"]
+[GameUrl "https://lichess.org/game/D4DwPVwB#35"]
+[Solution "d1d3 d7b5 d3b1 b5f1"]
+[SolutionSAN "Qd3 Bb5 Qb1 Bxf1"]
+[FEN "1r4k1/2qb1ppp/n3p3/3pP3/8/2P1BN2/1P3PPP/3Q1RK1 w - - 1 18"]
+[SetUp "1"]
+
+18. Qd3 Bb5 19. Qb1 Bxf1 *

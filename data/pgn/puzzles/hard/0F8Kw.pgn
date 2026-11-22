@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F8Kw"]
+[Difficulty "hard"]
+[Rating "1896"]
+[Themes "crushing deflection opening short"]
+[GameUrl "https://lichess.org/game/qBtdBPQa/black#12"]
+[Solution "d6c4 f1e1 f8e7 d4g7"]
+[SolutionSAN "Nxc4 Re1+ Be7 Qxg7"]
+[FEN "rnbqkb1r/pppp1ppp/3n4/8/2BQ4/5N2/PPP2PPP/RNB2RK1 b kq - 2 6"]
+[SetUp "1"]
+
+6... Nxc4 7. Re1+ Be7 8. Qxg7 *

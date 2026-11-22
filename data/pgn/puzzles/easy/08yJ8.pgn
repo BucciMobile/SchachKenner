@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08yJ8"]
+[Difficulty "easy"]
+[Rating "840"]
+[Themes "kingsideAttack mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/TsH5AoC3/black#22"]
+[Solution "c6e5 h5h7"]
+[SolutionSAN "Nxe5 Qxh7#"]
+[FEN "r1bq1rk1/bpppnppp/p1n5/P3P1NQ/1PB1P3/2P5/5PPP/RNB1K2R b KQ - 6 11"]
+[SetUp "1"]
+
+11... Nxe5 12. Qxh7# *

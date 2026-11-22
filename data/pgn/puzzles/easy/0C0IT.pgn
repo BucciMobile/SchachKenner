@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C0IT"]
+[Difficulty "easy"]
+[Rating "989"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/2VzeXoJb#43"]
+[Solution "c7e6 f8f2 g1h1 f2g2"]
+[SolutionSAN "Ne6 Qxf2+ Kh1 Qxg2#"]
+[FEN "2r2q1k/p1NQ2bp/6p1/8/8/8/P1r2PPP/3RR1K1 w - - 0 22"]
+[SetUp "1"]
+
+22. Ne6 Qxf2+ 23. Kh1 Qxg2# *

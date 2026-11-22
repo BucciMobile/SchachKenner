@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09xVh"]
+[Difficulty "medium"]
+[Rating "1378"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/Xj5PJZVB#63"]
+[Solution "b2b1 c1a3"]
+[SolutionSAN "Rb1 Qxa3#"]
+[FEN "8/3k1pNp/p7/3p2P1/7P/P4P2/1R1p4/K1q3R1 w - - 1 32"]
+[SetUp "1"]
+
+32. Rb1 Qxa3# *

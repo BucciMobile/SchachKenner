@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Ajs"]
+[Difficulty "hard"]
+[Rating "1795"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/rfOtxzET#23"]
+[Solution "h1h2 g3f1 d1f1 e5c4"]
+[SolutionSAN "Rh2 Nxf1 Rxf1 Nc4"]
+[FEN "r2q1rk1/ppp2pbp/3pb1pB/4n3/4P1PP/2N2Pn1/PPPQ4/2KR1BNR w - - 1 12"]
+[SetUp "1"]
+
+12. Rh2 Nxf1 13. Rxf1 Nc4 *

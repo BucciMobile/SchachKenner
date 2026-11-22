@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Mnd"]
+[Difficulty "hard"]
+[Rating "2348"]
+[Themes "middlegame"]
+[GameUrl "https://lichess.org/game/wn9q3bzN#71"]
+[Solution "d7d5 g8g5 d5g5 f6g5"]
+[SolutionSAN "Qxd5 Rg5 Qxg5 Qxg5"]
+[FEN "6rk/3Q3p/p1r2q2/2Np4/3P4/P1K1P3/1P6/R1B5 w - - 15 36"]
+[SetUp "1"]
+
+36. Qxd5 Rg5 37. Qxg5 Qxg5 *

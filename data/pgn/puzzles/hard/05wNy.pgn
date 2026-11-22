@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05wNy"]
+[Difficulty "hard"]
+[Rating "2775"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame veryLong"]
+[GameUrl "https://lichess.org/game/8jrLsH8U/black#58"]
+[Solution "f6e5 f4e5 f7e5 e4f4 e5f7 e2e7 d6f4 e7e8 g8h7 e8e4"]
+[SolutionSAN "Bxe5 fxe5 Nxe5 Qf4 Nf7 Rxe7 Qxf4 Rxe8+ Kh7 R8e4"]
+[FEN "4r1k1/p3rnp1/1p1q1bpp/2pPN3/P1P1QPP1/2B4P/4R1K1/4R3 b - - 6 29"]
+[SetUp "1"]
+
+29... Bxe5 30. fxe5 Nxe5 31. Qf4 Nf7 32. Rxe7 Qxf4 33. Rxe8+ Kh7 34. R8e4 *

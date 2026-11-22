@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09wi7"]
+[Difficulty "hard"]
+[Rating "2788"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/Yl6QCVxT#85"]
+[Solution "c5c7 d6c7 d4c5 g6g5"]
+[SolutionSAN "Rxc7 Kxc7 Kc5 g5"]
+[FEN "8/2r2p2/3k2p1/p1R5/P2K4/8/6P1/8 w - - 0 43"]
+[SetUp "1"]
+
+43. Rxc7 Kxc7 44. Kc5 g5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "049tF"]
+[Difficulty "easy"]
+[Rating "1186"]
+[Themes "advantage capturingDefender master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/KNq1or20/black#64"]
+[Solution "d1b3 b4b3 c4b3 a2a3"]
+[SolutionSAN "Qb3 Rxb3 cxb3 Rxa3"]
+[FEN "2rr2k1/5ppp/8/4Pb2/1Rp2P2/p1P1QBP1/R4K1P/3q4 b - - 2 32"]
+[SetUp "1"]
+
+32... Qb3 33. Rxb3 cxb3 34. Rxa3 *

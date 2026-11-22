@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C6Em"]
+[Difficulty "easy"]
+[Rating "1137"]
+[Themes "crushing endgame long master pin"]
+[GameUrl "https://lichess.org/game/H1y1Y6tu#61"]
+[Solution "c2e4 d8d1 g1g2 f7d5 e4d5 d1d5"]
+[SolutionSAN "Qxe4 Rd1+ Kg2 Bd5 Qxd5+ Rxd5"]
+[FEN "3r2k1/1pb2bp1/p6p/2P1p3/1P2n3/P3B1PP/2Q2P2/6K1 w - - 0 31"]
+[SetUp "1"]
+
+31. Qxe4 Rd1+ 32. Kg2 Bd5 33. Qxd5+ Rxd5 *

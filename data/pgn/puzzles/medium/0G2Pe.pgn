@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G2Pe"]
+[Difficulty "medium"]
+[Rating "1417"]
+[Themes "crushing endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/nQu0Te22#91"]
+[Solution "h8h4 g6g5 h4h5 e4f4"]
+[SolutionSAN "Rxh4 g5 Rh5 Rxf4+"]
+[FEN "7R/6k1/6p1/4Pp2/4rP1p/5K2/8/8 w - - 9 46"]
+[SetUp "1"]
+
+46. Rxh4 g5 47. Rh5 Rxf4+ *

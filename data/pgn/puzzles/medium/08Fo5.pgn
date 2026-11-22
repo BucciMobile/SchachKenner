@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Fo5"]
+[Difficulty "medium"]
+[Rating "1405"]
+[Themes "bishopEndgame crushing deflection endgame short skewer"]
+[GameUrl "https://lichess.org/game/ujHprFlB/black#80"]
+[Solution "g6f6 e3d4 f6e7 d4g7"]
+[SolutionSAN "Kf6 Bd4+ Ke7 Bxg7"]
+[FEN "8/5bp1/6kp/5P2/6PK/4B3/8/8 b - - 0 40"]
+[SetUp "1"]
+
+40... Kf6 41. Bd4+ Ke7 42. Bxg7 *

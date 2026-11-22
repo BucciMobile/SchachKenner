@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ep7A"]
+[Difficulty "hard"]
+[Rating "2043"]
+[Themes "advantage long master opening trappedPiece"]
+[GameUrl "https://lichess.org/game/mHxDIyow/black#28"]
+[Solution "e8g8 c1a1 a3b4 a1a4 b4d4 a4d4"]
+[SolutionSAN "O-O Ra1 Qb4 Ra4 Qxd4 Rxd4"]
+[FEN "r1b1k2r/pp1nbppp/4p3/3pP3/3B4/q7/3NBPPP/2RQ1RK1 b kq - 0 14"]
+[SetUp "1"]
+
+14... O-O 15. Ra1 Qb4 16. Ra4 Qxd4 17. Rxd4 *

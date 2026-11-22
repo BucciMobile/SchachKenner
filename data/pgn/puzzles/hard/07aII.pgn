@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07aII"]
+[Difficulty "hard"]
+[Rating "1756"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/2lKehlL3/black#36"]
+[Solution "c6e5 f2f4 e5d3 h7d3"]
+[SolutionSAN "Ne5 f4 Nd3+ Qxd3"]
+[FEN "r1bq1r2/pp4bQ/2n1pk1p/3p3B/8/2N5/PP3PPP/R3K2R b KQ - 7 18"]
+[SetUp "1"]
+
+18... Ne5 19. f4 Nd3+ 20. Qxd3 *

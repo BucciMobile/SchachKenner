@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02wQo"]
+[Difficulty "hard"]
+[Rating "1839"]
+[Themes "crushing endgame kingsideAttack short"]
+[GameUrl "https://lichess.org/game/cFks0KPU#39"]
+[Solution "e2e3 d3e3 f2e3 f4e3"]
+[SolutionSAN "Rxe3 Rdxe3 fxe3 Qxe3+"]
+[FEN "2k1r3/1pp2pQp/p1p2P2/8/5q2/2Prb3/PP2RPPP/R5K1 w - - 0 20"]
+[SetUp "1"]
+
+20. Rxe3 Rdxe3 21. fxe3 Qxe3+ *

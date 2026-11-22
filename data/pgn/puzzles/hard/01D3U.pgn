@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01D3U"]
+[Difficulty "hard"]
+[Rating "2281"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/KWPh6yLP/black#66"]
+[Solution "d8d3 c2d3 e6c4 d3d4"]
+[SolutionSAN "Rd3 Kxd3 Bxc4+ Kd4"]
+[FEN "3r2k1/4qp1n/2p1b1rR/p3Q1P1/2P1P2P/P3P3/1PK5/6R1 b - - 4 33"]
+[SetUp "1"]
+
+33... Rd3 34. Kxd3 Bxc4+ 35. Kd4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Didw"]
+[Difficulty "hard"]
+[Rating "2306"]
+[Themes "crushing defensiveMove endgame long pawnEndgame quietMove"]
+[GameUrl "https://lichess.org/game/Tefe3V0h#99"]
+[Solution "h3g4 h5h4 g4g5 h4h3 g5g6 d5e6"]
+[SolutionSAN "hxg4 h4 g5 h3 g6 Ke6"]
+[FEN "8/8/8/3k3p/4pPp1/pP2K2P/P7/8 w - - 0 50"]
+[SetUp "1"]
+
+50. hxg4 h4 51. g5 h3 52. g6 Ke6 *

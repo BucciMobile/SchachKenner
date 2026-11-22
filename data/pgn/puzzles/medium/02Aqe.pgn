@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Aqe"]
+[Difficulty "medium"]
+[Rating "1330"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/DMric9BU/black#14"]
+[Solution "b4c3 d2c3 b2c3 b1c3"]
+[SolutionSAN "Bxc3 Qxc3 Qxc3+ Nxc3"]
+[FEN "r1b1k1nr/pppp1ppp/2n5/4P1N1/1b3B2/2P5/Pq1QPPPP/RN2KB1R b KQkq - 0 7"]
+[SetUp "1"]
+
+7... Bxc3 8. Qxc3 Qxc3+ 9. Nxc3 *

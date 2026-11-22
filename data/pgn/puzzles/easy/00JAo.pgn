@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00JAo"]
+[Difficulty "easy"]
+[Rating "1167"]
+[Themes "crushing deflection endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/mIuVoEMA/black#116"]
+[Solution "g6g5 a2a6 h6g7 h4g5"]
+[SolutionSAN "g5 Ra6+ Kg7 hxg5"]
+[FEN "8/5r2/6pk/7p/7P/5PK1/R7/8 b - - 2 58"]
+[SetUp "1"]
+
+58... g5 59. Ra6+ Kg7 60. hxg5 *

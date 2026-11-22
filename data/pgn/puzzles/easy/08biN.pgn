@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08biN"]
+[Difficulty "easy"]
+[Rating "768"]
+[Themes "kingsideAttack master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/UEVXwNWp#23"]
+[Solution "f3g4 h4h2"]
+[SolutionSAN "fxg4 Qxh2#"]
+[FEN "r3k2r/ppp2ppp/3b4/3p4/6nq/3BPP2/PPP1QP1P/R1B2RK1 w kq - 1 12"]
+[SetUp "1"]
+
+12. fxg4 Qxh2# *

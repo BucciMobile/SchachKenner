@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CSH7"]
+[Difficulty "medium"]
+[Rating "1269"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+[GameUrl "https://lichess.org/game/MYX77Rxy/black#86"]
+[Solution "f5g4 f3g4 e6f7 g4f5 f7g7 f5e6"]
+[SolutionSAN "fxg4+ Kxg4 Kf7 Kf5 Kg7 Ke6"]
+[FEN "8/8/2p1kp2/p1p2p2/P1P2PP1/1P3K2/8/8 b - - 0 43"]
+[SetUp "1"]
+
+43... fxg4+ 44. Kxg4 Kf7 45. Kf5 Kg7 46. Ke6 *

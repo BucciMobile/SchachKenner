@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J9rx"]
+[Difficulty "easy"]
+[Rating "1127"]
+[Themes "arabianMate master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/lsr6AQWU/black#64"]
+[Solution "c8g8 g1g8"]
+[SolutionSAN "Rxg8 Rxg8#"]
+[FEN "2r3Qk/1p3r2/3p1N1P/2q1np2/p7/P7/1PP5/1K1R2R1 b - - 9 32"]
+[SetUp "1"]
+
+32... Rxg8 33. Rxg8# *

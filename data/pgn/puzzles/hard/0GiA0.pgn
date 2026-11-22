@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GiA0"]
+[Difficulty "hard"]
+[Rating "2320"]
+[Themes "crushing deflection middlegame short"]
+[GameUrl "https://lichess.org/game/iOgLXX45/black#54"]
+[Solution "e8a8 h4f6 f8f6 a7a8"]
+[SolutionSAN "Ra8 Bf6 Rxf6 Rxa8+"]
+[FEN "4rr1k/R5p1/3Q3p/4pb2/7B/P3P3/1q3PPP/5BK1 b - - 0 27"]
+[SetUp "1"]
+
+27... Ra8 28. Bf6 Rxf6 29. Rxa8+ *

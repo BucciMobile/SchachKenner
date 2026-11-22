@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BWTq"]
+[Difficulty "hard"]
+[Rating "2515"]
+[Themes "advantage attraction discoveredAttack endgame veryLong"]
+[GameUrl "https://lichess.org/game/SrdEJ2Y3/black#60"]
+[Solution "a2f2 d7d8 g8g7 h5h6 g7h6 d8h4 h6g7 g3h5 g6h5 h4f2"]
+[SolutionSAN "Qxf2 Qd8+ Kg7 h6+ Kxh6 Qh4+ Kg7 Nh5+ gxh5 Qxf2"]
+[FEN "6k1/p2Q1p1p/2p3p1/7P/2P5/1P4N1/q4PPK/4r3 b - - 0 30"]
+[SetUp "1"]
+
+30... Qxf2 31. Qd8+ Kg7 32. h6+ Kxh6 33. Qh4+ Kg7 34. Nh5+ gxh5 35. Qxf2 *

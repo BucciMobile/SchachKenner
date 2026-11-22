@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NFlN"]
+[Difficulty "medium"]
+[Rating "1436"]
+[Themes "crushing discoveredAttack endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/JWviznol#107"]
+[Solution "d4e4 f6f5 e4f5 c6h6"]
+[SolutionSAN "Ke4 f5+ Kxf5 Rxh6"]
+[FEN "8/2k5/2r2p1R/6p1/3K2P1/8/7P/8 w - - 0 54"]
+[SetUp "1"]
+
+54. Ke4 f5+ 55. Kxf5 Rxh6 *

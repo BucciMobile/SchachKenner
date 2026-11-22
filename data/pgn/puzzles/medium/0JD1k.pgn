@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JD1k"]
+[Difficulty "medium"]
+[Rating "1671"]
+[Themes "advancedPawn crushing endgame long master queenEndgame"]
+[GameUrl "https://lichess.org/game/WuEnb9tA/black#106"]
+[Solution "f4e5 f3e3 e5e3 f2e3 h6g5 d6d7"]
+[SolutionSAN "Qxe5 Qe3+ Qxe3+ Kxe3 Kg5 d7"]
+[FEN "8/8/3P3k/4P3/5q1p/5Q2/5K2/8 b - - 2 53"]
+[SetUp "1"]
+
+53... Qxe5 54. Qe3+ Qxe3+ 55. Kxe3 Kg5 56. d7 *

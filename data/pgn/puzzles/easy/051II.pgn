@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "051II"]
+[Difficulty "easy"]
+[Rating "504"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/ANOv28Db#53"]
+[Solution "c1e1 e5e1"]
+[SolutionSAN "Re1 Qxe1#"]
+[FEN "1r4k1/pp1b2pp/8/2PNq3/1P3p2/P4Q2/5PPP/2R3K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Re1 Qxe1# *

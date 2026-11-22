@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CNML"]
+[Difficulty "medium"]
+[Rating "1492"]
+[Themes "crushing endgame quietMove short"]
+[GameUrl "https://lichess.org/game/FVK8z2lF/black#74"]
+[Solution "b7d7 h6g7 d7d2 e3d2"]
+[SolutionSAN "Qd7 Bg7 Qd2 Qxd2"]
+[FEN "2r1r3/1q3p1k/2p2PpB/7p/4p3/1P2Q2P/P4PP1/5RK1 b - - 1 37"]
+[SetUp "1"]
+
+37... Qd7 38. Bg7 Qd2 39. Qxd2 *

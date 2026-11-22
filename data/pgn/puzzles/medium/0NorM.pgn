@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NorM"]
+[Difficulty "medium"]
+[Rating "1510"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/kxFPYvIb/black#86"]
+[Solution "e7e6 a5d5 e6d5 c4d5"]
+[SolutionSAN "Qe6+ Qd5 Qxd5+ Kxd5"]
+[FEN "6k1/4q1p1/7p/Q7/2KP4/P7/8/8 b - - 0 43"]
+[SetUp "1"]
+
+43... Qe6+ 44. Qd5 Qxd5+ 45. Kxd5 *

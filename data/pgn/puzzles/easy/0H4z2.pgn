@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H4z2"]
+[Difficulty "easy"]
+[Rating "618"]
+[Themes "endgame master mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/A8AXspNE#69"]
+[Solution "d6d2 f8f1"]
+[SolutionSAN "Rxd2 Rf1#"]
+[FEN "5rk1/1p6/2pRp2p/p3R1p1/P7/6Pb/1PPr3P/7K w - - 0 35"]
+[SetUp "1"]
+
+35. Rxd2 Rf1# *

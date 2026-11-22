@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Kl6"]
+[Difficulty "easy"]
+[Rating "1056"]
+[Themes "arabianMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/SBJjnnTY#65"]
+[Solution "g2f3 e5f3 h2h1 g3g1"]
+[SolutionSAN "gxf3 Nxf3+ Kh1 Rg1#"]
+[FEN "6r1/3pk3/P3p3/1Np1np2/2P4p/1P3brP/2R3PK/R4B2 w - - 0 33"]
+[SetUp "1"]
+
+33. gxf3 Nxf3+ 34. Kh1 Rg1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02ypC"]
+[Difficulty "easy"]
+[Rating "922"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/wrFb7wqI#85"]
+[Solution "f3e3 e1c2 e3d3 c2a3"]
+[SolutionSAN "Ke3 Nc2+ Kd3 Nxa3"]
+[FEN "6k1/6p1/8/5p2/p4P2/B1P2K2/P7/4n3 w - - 2 43"]
+[SetUp "1"]
+
+43. Ke3 Nc2+ 44. Kd3 Nxa3 *

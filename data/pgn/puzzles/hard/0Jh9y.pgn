@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jh9y"]
+[Difficulty "hard"]
+[Rating "2154"]
+[Themes "attraction capturingDefender crushing kingsideAttack long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/hJAfkAW8/black#40"]
+[Solution "b5b4 f3f7 f8f7 f1f7 g8f7 h3h7"]
+[SolutionSAN "b4 Rxf7 Rxf7 Rxf7 Kxf7 Qxh7+"]
+[FEN "r2q1rk1/5p1p/b3p1p1/pp1pP3/3P4/P1P2R1Q/1PBb2PP/5RK1 b - - 1 20"]
+[SetUp "1"]
+
+20... b4 21. Rxf7 Rxf7 22. Rxf7 Kxf7 23. Qxh7+ *

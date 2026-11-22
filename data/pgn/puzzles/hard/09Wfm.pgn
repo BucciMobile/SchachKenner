@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Wfm"]
+[Difficulty "hard"]
+[Rating "1834"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/VTlXE0WR#55"]
+[Solution "h5g6 e4h4 h1g1 c7h2 g1f2 h4f4"]
+[SolutionSAN "hxg6 Rh4+ Kg1 Qh2+ Kf2 Rf4+"]
+[FEN "r7/2qk1p1p/5Qb1/p2p2RP/P3r3/8/1PP3P1/5R1K w - - 5 28"]
+[SetUp "1"]
+
+28. hxg6 Rh4+ 29. Kg1 Qh2+ 30. Kf2 Rf4+ *

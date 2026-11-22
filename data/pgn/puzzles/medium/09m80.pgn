@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09m80"]
+[Difficulty "medium"]
+[Rating "1523"]
+[Themes "crushing deflection endgame long skewer"]
+[GameUrl "https://lichess.org/game/PZuuwibs#85"]
+[Solution "e6f5 a8f8 f6g7 f8f5 a1a2 b1a2"]
+[SolutionSAN "Bxf5 Rf8+ Kg7 Rxf5 Rxa2 Bxa2"]
+[FEN "r7/8/1pkPBK2/5p2/1RP2P2/6P1/p7/Rb2r3 w - - 0 43"]
+[SetUp "1"]
+
+43. Bxf5 Rf8+ 44. Kg7 Rxf5 45. Rxa2 Bxa2 *

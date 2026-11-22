@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BFfq"]
+[Difficulty "medium"]
+[Rating "1349"]
+[Themes "advantage endgame fork long sacrifice"]
+[GameUrl "https://lichess.org/game/UgOe9lUZ/black#50"]
+[Solution "g8f7 c1c5 b6c5 f5d6 f7e6 d6c8"]
+[SolutionSAN "Kf7 Rxc5 bxc5 Nd6+ Ke6 Nxc8"]
+[FEN "2r3k1/p5pp/1pP2p2/2bnpN2/8/P3P2P/1B3PP1/2R3K1 b - - 1 25"]
+[SetUp "1"]
+
+25... Kf7 26. Rxc5 bxc5 27. Nd6+ Ke6 28. Nxc8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06cRU"]
+[Difficulty "easy"]
+[Rating "1097"]
+[Themes "advantage defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/s9HTHpqn/black#66"]
+[Solution "a5a1 g1g2 c3c1 e6e8"]
+[SolutionSAN "Qa1+ Kg2 Rc1 Re8+"]
+[FEN "6k1/6p1/2p1Rp1p/q1Pp1Q2/3P4/2r3PP/5P2/6K1 b - - 1 33"]
+[SetUp "1"]
+
+33... Qa1+ 34. Kg2 Rc1 35. Re8+ *

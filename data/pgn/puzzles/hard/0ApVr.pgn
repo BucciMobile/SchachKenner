@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ApVr"]
+[Difficulty "hard"]
+[Rating "2271"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/zAVodyjL/black#18"]
+[Solution "e8d7 h5g4 d7e8 g4g7"]
+[SolutionSAN "Kd7 Qg4+ Ke8 Qxg7"]
+[FEN "r1bqk1nr/ppb3pp/2np1p2/2p1p2Q/2P4P/2NBP3/PP3PP1/R1B1K1NR b KQkq - 3 9"]
+[SetUp "1"]
+
+9... Kd7 10. Qg4+ Ke8 11. Qxg7 *

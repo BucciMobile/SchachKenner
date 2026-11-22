@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gd4k"]
+[Difficulty "easy"]
+[Rating "780"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+[GameUrl "https://lichess.org/game/S1DB4cuK#53"]
+[Solution "f1g1 h3f2"]
+[SolutionSAN "Rxg1 Nf2#"]
+[FEN "2r2rk1/5ppp/p7/1p1pPp1Q/5P2/2P4n/PPB3PP/R4RqK w - - 6 27"]
+[SetUp "1"]
+
+27. Rxg1 Nf2# *

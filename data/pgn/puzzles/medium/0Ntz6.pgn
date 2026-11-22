@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ntz6"]
+[Difficulty "medium"]
+[Rating "1621"]
+[Themes "arabianMate deflection endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/5aC7VJh4/black#84"]
+[Solution "b2b1q d1d7 f7g8 e4f6 g8h8 d7h7"]
+[SolutionSAN "b1=Q Rd7+ Kg8 Nxf6+ Kh8 Rh7#"]
+[FEN "1r6/p4k2/4Np1p/P4P2/4N3/5K1P/1pr3P1/3R4 b - - 1 42"]
+[SetUp "1"]
+
+42... b1=Q 43. Rd7+ Kg8 44. Nxf6+ Kh8 45. Rh7# *

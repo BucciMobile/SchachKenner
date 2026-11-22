@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06lia"]
+[Difficulty "easy"]
+[Rating "953"]
+[Themes "endgame kingsideAttack mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/GayjVzzo#39"]
+[Solution "d1f3 f4h2 g1f1 h2h1"]
+[SolutionSAN "Qxf3 Qh2+ Kf1 Qh1#"]
+[FEN "4r1k1/ppp2pp1/3b3p/8/3P1q2/2PB1b1P/P4PP1/1R1Q2K1 w - - 0 20"]
+[SetUp "1"]
+
+20. Qxf3 Qh2+ 21. Kf1 Qh1# *

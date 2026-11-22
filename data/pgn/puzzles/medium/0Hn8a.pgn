@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hn8a"]
+[Difficulty "medium"]
+[Rating "1662"]
+[Themes "advantage kingsideAttack opening short"]
+[GameUrl "https://lichess.org/game/bfpoE8MD/black#24"]
+[Solution "d6e5 c3d5 h6g5 d5e7"]
+[SolutionSAN "dxe5 Nd5 hxg5 Nxe7+"]
+[FEN "r1b2rk1/ppp1qpp1/3p1n1p/2b1P1N1/2Bn4/2NQ4/PP3PPP/R1B2RK1 b - - 0 12"]
+[SetUp "1"]
+
+12... dxe5 13. Nd5 hxg5 14. Nxe7+ *

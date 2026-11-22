@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HSFs"]
+[Difficulty "easy"]
+[Rating "1194"]
+[Themes "advancedPawn crushing endgame short"]
+[GameUrl "https://lichess.org/game/oKpnV536#83"]
+[Solution "e4c4 b4b3 c4e4 b3b2"]
+[SolutionSAN "Rc4 b3 Re4 b2"]
+[FEN "8/8/2k5/2P2K2/1p2R3/8/n5P1/8 w - - 1 42"]
+[SetUp "1"]
+
+42. Rc4 b3 43. Re4 b2 *

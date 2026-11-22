@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MKCx"]
+[Difficulty "hard"]
+[Rating "2224"]
+[Themes "advantage deflection kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/4rh2mRej#45"]
+[Solution "a8e4 f7f5 e4f5 c3e1"]
+[SolutionSAN "Qe4 f5 Qxf5 Qxe1+"]
+[FEN "Q4bk1/p3rp2/3pn2p/6p1/8/2qB1PB1/P1P2P1P/4R1K1 w - - 1 23"]
+[SetUp "1"]
+
+23. Qe4 f5 24. Qxf5 Qxe1+ *

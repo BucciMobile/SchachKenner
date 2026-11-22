@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01e0H"]
+[Difficulty "easy"]
+[Rating "600"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/dGF4iXPN/black#46"]
+[Solution "c3b2 c1c8"]
+[SolutionSAN "cxb2 Rc8#"]
+[FEN "6k1/5ppp/1r2p3/3p4/rN2n3/P1p1P3/1P3PPP/2RR2K1 b - - 1 23"]
+[SetUp "1"]
+
+23... cxb2 24. Rc8# *

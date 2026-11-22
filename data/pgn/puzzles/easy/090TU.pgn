@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "090TU"]
+[Difficulty "easy"]
+[Rating "965"]
+[Themes "bishopEndgame endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/d2dP0EJC#77"]
+[Solution "e3f4 a5d2"]
+[SolutionSAN "Kf4 Bd2#"]
+[FEN "8/2B5/1p3kp1/b1p2p1p/2P4P/1P2KPP1/8/8 w - - 0 39"]
+[SetUp "1"]
+
+39. Kf4 Bd2# *

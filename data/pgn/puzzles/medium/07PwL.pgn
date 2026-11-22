@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07PwL"]
+[Difficulty "medium"]
+[Rating "1514"]
+[Themes "advancedPawn advantage endgame long"]
+[GameUrl "https://lichess.org/game/0kByKPmj/black#62"]
+[Solution "c5c4 h4e7 g7g8 e7h7 g8f8 g6g7"]
+[SolutionSAN "Qxc4 Qe7+ Kg8 Qh7+ Kf8 g7+"]
+[FEN "r7/ppp3k1/6Pp/2q2r1P/2R1pp1Q/4nP2/P7/6RK b - - 0 31"]
+[SetUp "1"]
+
+31... Qxc4 32. Qe7+ Kg8 33. Qh7+ Kf8 34. g7+ *

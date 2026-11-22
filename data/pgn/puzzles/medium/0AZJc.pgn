@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AZJc"]
+[Difficulty "medium"]
+[Rating "1535"]
+[Themes "endgame master mate mateIn1 oneMove operaMate"]
+[GameUrl "https://lichess.org/game/PvXQ3UQQ#83"]
+[Solution "g2f3 e2f2"]
+[SolutionSAN "Kf3 Rf2#"]
+[FEN "6k1/3R4/6B1/4pp2/3b4/6P1/4r1KP/8 w - - 2 42"]
+[SetUp "1"]
+
+42. Kf3 Rf2# *

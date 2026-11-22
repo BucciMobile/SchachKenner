@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LU3v"]
+[Difficulty "hard"]
+[Rating "1927"]
+[Themes "crushing endgame long master masterVsMaster rookEndgame zugzwang"]
+[GameUrl "https://lichess.org/game/w2CxA7Th/black#114"]
+[Solution "f5g4 a5g5 h6g5 f4g4 f6e5 g4g5"]
+[SolutionSAN "fxg4 Rxg5 hxg5+ Kxg4 Ke5 Kxg5"]
+[FEN "8/6p1/5k1p/R4prP/5KP1/5P2/8/8 b - - 13 57"]
+[SetUp "1"]
+
+57... fxg4 58. Rxg5 hxg5+ 59. Kxg4 Ke5 60. Kxg5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07qFC"]
+[Difficulty "medium"]
+[Rating "1316"]
+[Themes "advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/U8YrMoSR#57"]
+[Solution "e8e3 d2c1 h1g2 c1c4"]
+[SolutionSAN "Re3 Qc1+ Kg2 Qxc4"]
+[FEN "4R3/p2r1pkp/6p1/2p5/2B5/5Q2/P2q1P1P/7K w - - 4 29"]
+[SetUp "1"]
+
+29. Re3 Qc1+ 30. Kg2 Qxc4 *

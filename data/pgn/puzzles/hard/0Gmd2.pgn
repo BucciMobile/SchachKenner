@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gmd2"]
+[Difficulty "hard"]
+[Rating "2470"]
+[Themes "advantage clearance long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/M8pFGxRy#49"]
+[Solution "g2g4 g8g4 f3g4 d8h8 g1f2 a8g8"]
+[SolutionSAN "Rxg4 Rxg4+ Qxg4 Qh8 Kf2 Rg8"]
+[FEN "r2q2r1/p3bk2/2p2p2/2p1p3/3pP1p1/1P1P1Q2/PBPN2R1/R5K1 w - - 0 25"]
+[SetUp "1"]
+
+25. Rxg4 Rxg4+ 26. Qxg4 Qh8 27. Kf2 Rg8 *

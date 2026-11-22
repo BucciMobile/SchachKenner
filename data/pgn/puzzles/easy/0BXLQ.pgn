@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BXLQ"]
+[Difficulty "easy"]
+[Rating "400"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/O2ScHqsa#61"]
+[Solution "d1d7 a4a1 d7d1 a1d1"]
+[SolutionSAN "Rxd7 Ra1+ Rd1 Rxd1#"]
+[FEN "8/3r1Npk/7p/p7/r7/8/5PPP/3R2K1 w - - 0 31"]
+[SetUp "1"]
+
+31. Rxd7 Ra1+ 32. Rd1 Rxd1# *

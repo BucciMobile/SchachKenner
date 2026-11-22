@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ejde"]
+[Difficulty "easy"]
+[Rating "489"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/472nPNUv#49"]
+[Solution "f1g1 d7h3"]
+[SolutionSAN "Rg1 Qxh3#"]
+[FEN "r5k1/pp1q4/2pp1r2/4p1np/2P1Qp2/3P1B1P/PP2N2K/R4R2 w - - 4 25"]
+[SetUp "1"]
+
+25. Rg1 Qxh3# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IoSr"]
+[Difficulty "hard"]
+[Rating "1855"]
+[Themes "crushing endgame queenEndgame veryLong"]
+[GameUrl "https://lichess.org/game/AfXaQ8IH/black#86"]
+[Solution "f6f4 g3f4 g5f4 b5c4 f4f3 c4d3 f3f2 d3e2"]
+[SolutionSAN "Qf4 Qxf4 gxf4 Kc4 f3 Kd3 f2 Ke2"]
+[FEN "8/5pk1/5q2/1K4p1/P7/6Q1/8/8 b - - 1 43"]
+[SetUp "1"]
+
+43... Qf4 44. Qxf4 gxf4 45. Kc4 f3 46. Kd3 f2 47. Ke2 *

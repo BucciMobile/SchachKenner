@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IKGM"]
+[Difficulty "hard"]
+[Rating "1794"]
+[Themes "crushing fork middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/pr1d5Awe/black#50"]
+[Solution "g7b2 a3b2 b6b2 d5f6 g8h8 f6e8 b2g2 g1g2"]
+[SolutionSAN "Bxb2 Qxb2 Rxb2 Nf6+ Kh8 Nxe8 Rxg2+ Kxg2"]
+[FEN "4q1k1/5pbp/prnP2p1/3N1b2/5B2/Q5P1/1P4BP/R5K1 b - - 1 25"]
+[SetUp "1"]
+
+25... Bxb2 26. Qxb2 Rxb2 27. Nf6+ Kh8 28. Nxe8 Rxg2+ 29. Kxg2 *

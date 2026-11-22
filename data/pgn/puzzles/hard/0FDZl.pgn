@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FDZl"]
+[Difficulty "hard"]
+[Rating "2746"]
+[Themes "advantage deflection middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/JZmXhjFK/black#56"]
+[Solution "f8g8 b1f1 f5e5 h6h5 e5d6 f1f6 e7f6 e3f4"]
+[SolutionSAN "Rg8 Rf1+ Ke5 Rh5+ Kd6 Rxf6+ exf6 Bf4+"]
+[FEN "3r1r2/p3p2p/1p3b1R/2nP1k2/2B1p3/4B3/P3K1P1/1R6 b - - 3 28"]
+[SetUp "1"]
+
+28... Rg8 29. Rf1+ Ke5 30. Rh5+ Kd6 31. Rxf6+ exf6 32. Bf4+ *

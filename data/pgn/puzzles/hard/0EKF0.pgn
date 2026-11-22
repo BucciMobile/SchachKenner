@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EKF0"]
+[Difficulty "hard"]
+[Rating "2174"]
+[Themes "attraction doubleCheck kingsideAttack mate mateIn4 middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/pqhrq12e/black#38"]
+[Solution "a6b5 g1g7 g8h8 g7g8 h8g8 a1g1 e7g5 g1g5"]
+[SolutionSAN "axb5 Rxg7+ Kh8 Rg8+ Kxg8 Rg1+ Qg5 Rxg5#"]
+[FEN "2r2rk1/4qppp/pp2p3/1Qnn4/3B4/P3PP2/1P2BP1P/R5RK b - - 1 19"]
+[SetUp "1"]
+
+19... axb5 20. Rxg7+ Kh8 21. Rg8+ Kxg8 22. Rg1+ Qg5 23. Rxg5# *

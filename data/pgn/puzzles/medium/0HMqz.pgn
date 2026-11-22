@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HMqz"]
+[Difficulty "medium"]
+[Rating "1568"]
+[Themes "advancedPawn crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/XLvOPxAk#87"]
+[Solution "b2c3 b4b3 a2b3 a4a3 c3c4 a3a2"]
+[SolutionSAN "bxc3 b3 axb3 a3 c4 a2"]
+[FEN "8/8/5kP1/7P/pp1K4/2p5/PP6/8 w - - 0 44"]
+[SetUp "1"]
+
+44. bxc3 b3 45. axb3 a3 46. c4 a2 *

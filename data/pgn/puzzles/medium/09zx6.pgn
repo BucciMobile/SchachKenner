@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09zx6"]
+[Difficulty "medium"]
+[Rating "1327"]
+[Themes "master mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/KehRw0sn/black#18"]
+[Solution "g8e7 d5f6"]
+[SolutionSAN "Ne7 Nf6#"]
+[FEN "r1bqkbnr/pp3p1p/3p2p1/3Np3/2PpP3/3B2PP/PP1P1P2/R1BQK2R b KQkq - 1 9"]
+[SetUp "1"]
+
+9... Ne7 10. Nf6# *

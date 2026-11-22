@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IWjx"]
+[Difficulty "hard"]
+[Rating "2203"]
+[Themes "advantage defensiveMove deflection endgame exposedKing veryLong"]
+[GameUrl "https://lichess.org/game/mFS4eOMv/black#70"]
+[Solution "f4d3 e1f1 d4f2 f5f2 d3f2 d7b7 f2e4 b7b8 e8f7 e5e6 f7e7 b8g8"]
+[SolutionSAN "Nd3+ Kf1 Qxf2+ Qxf2 Nxf2 Rxb7 Ne4 Rb8+ Kf7 e6+ Ke7 Rxg8"]
+[FEN "4k1r1/1p1R2p1/p7/3pPQ2/3q1n2/P7/1P3P1P/4K3 b - - 0 35"]
+[SetUp "1"]
+
+35... Nd3+ 36. Kf1 Qxf2+ 37. Qxf2 Nxf2 38. Rxb7 Ne4 39. Rb8+ Kf7 40. e6+ Ke7 41. Rxg8 *

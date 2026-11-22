@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03DMs"]
+[Difficulty "hard"]
+[Rating "2427"]
+[Themes "crushing kingsideAttack middlegame pin short"]
+[GameUrl "https://lichess.org/game/P3UpyKfh/black#66"]
+[Solution "d7c6 d5f6 g7f6 g2g6"]
+[SolutionSAN "Qc6 Nf6+ gxf6 Rxg6+"]
+[FEN "1r4k1/3q1pp1/p2b2n1/Bp1Nr3/8/PQ6/1PP3RP/2K2R2 b - - 0 33"]
+[SetUp "1"]
+
+33... Qc6 34. Nf6+ gxf6 35. Rxg6+ *

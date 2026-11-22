@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02bgm"]
+[Difficulty "medium"]
+[Rating "1309"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/J5GeJaVc/black#54"]
+[Solution "e7f6 d7f7 f6g5 f7f2 b2f2 e3f2"]
+[SolutionSAN "Kf6 Rf7+ Kg5 Rxf2 Rxf2 Kxf2"]
+[FEN "8/pppRk1p1/4n1Pp/4p2P/4P3/2P1K3/Pr3rP1/3R4 b - - 3 27"]
+[SetUp "1"]
+
+27... Kf6 28. Rf7+ Kg5 29. Rxf2 Rxf2 30. Kxf2 *

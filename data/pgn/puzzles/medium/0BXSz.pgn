@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BXSz"]
+[Difficulty "medium"]
+[Rating "1307"]
+[Themes "backRankMate deflection discoveredAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/J9VOMWsk#51"]
+[Solution "d6f5 d4e2 c1b1 d8d1"]
+[SolutionSAN "Nf5 Ne2+ Kb1 Rxd1#"]
+[FEN "3r1rk1/pp5b/3N1p1Q/4p1pP/3n2P1/8/PPP2P2/2KR4 w - - 7 26"]
+[SetUp "1"]
+
+26. Nf5 Ne2+ 27. Kb1 Rxd1# *

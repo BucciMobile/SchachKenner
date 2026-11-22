@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IL8N"]
+[Difficulty "easy"]
+[Rating "991"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/NXS90V66/black#26"]
+[Solution "b6c4 c2a4 d8d7 a4c4"]
+[SolutionSAN "Nxc4 Qa4+ Qd7 Qxc4"]
+[FEN "r2qk2r/pp2ppbp/1n1p2p1/3P2B1/2P5/2N2P2/PPQ2P1P/R3K2R b KQkq - 2 13"]
+[SetUp "1"]
+
+13... Nxc4 14. Qa4+ Qd7 15. Qxc4 *

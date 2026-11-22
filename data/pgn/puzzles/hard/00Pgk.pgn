@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Pgk"]
+[Difficulty "hard"]
+[Rating "2364"]
+[Themes "advantage intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/pe4L6fzJ#33"]
+[Solution "d3f5 d8d4 g1h1 e6f5"]
+[SolutionSAN "Bxf5 Qd4+ Kh1 exf5"]
+[FEN "r2q1rk1/pbp1bp2/1p2pn1Q/5nN1/8/P1NB4/1PP3PP/R4RK1 w - - 2 17"]
+[SetUp "1"]
+
+17. Bxf5 Qd4+ 18. Kh1 exf5 *

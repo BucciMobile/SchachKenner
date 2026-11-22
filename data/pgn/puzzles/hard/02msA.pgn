@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02msA"]
+[Difficulty "hard"]
+[Rating "2144"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/JmWnzWi3#69"]
+[Solution "b3b4 e8e2 e1e2 g8g3"]
+[SolutionSAN "b4 Rxe2+ Rxe2 Rxg3"]
+[FEN "1k2r1r1/p2q4/2pb4/8/P1Q4P/1P4P1/2P1N2K/4RR2 w - - 5 35"]
+[SetUp "1"]
+
+35. b4 Rxe2+ 36. Rxe2 Rxg3 *

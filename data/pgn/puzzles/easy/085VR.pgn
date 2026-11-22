@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "085VR"]
+[Difficulty "easy"]
+[Rating "1086"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/1lvlzEiT#39"]
+[Solution "d3d4 f6e4 g3g7 e7g7 e5g7 h8g7"]
+[SolutionSAN "d4 Ne4 Qxg7+ Qxg7 Bxg7+ Kxg7"]
+[FEN "r4r1k/nb2q1pp/p1p2n2/1p1pB3/8/P1PP2QP/BP3PP1/RN2K2R w KQ - 1 20"]
+[SetUp "1"]
+
+20. d4 Ne4 21. Qxg7+ Qxg7 22. Bxg7+ Kxg7 *

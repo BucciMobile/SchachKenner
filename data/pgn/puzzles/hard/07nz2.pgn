@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07nz2"]
+[Difficulty "hard"]
+[Rating "2556"]
+[Themes "advantage exposedKing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/GCwzn9qY/black#50"]
+[Solution "g6h5 e2h5 d8h8 h5g5 g7f7 g2f3 c5c3 f3h5 h8h5 g5h5"]
+[SolutionSAN "gxh5 Qxh5 Rh8 Qg5+ Kf7 Bf3 Qc3 Bh5+ Rxh5 Qxh5+"]
+[FEN "r2r4/pp4k1/2p1b1p1/2q2p1P/4pB2/1P4P1/P1P1QPB1/4R1K1 b - - 0 25"]
+[SetUp "1"]
+
+25... gxh5 26. Qxh5 Rh8 27. Qg5+ Kf7 28. Bf3 Qc3 29. Bh5+ Rxh5 30. Qxh5+ *

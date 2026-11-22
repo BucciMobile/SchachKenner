@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "050Qa"]
+[Difficulty "medium"]
+[Rating "1459"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/YIKPG9hG#55"]
+[Solution "d2d3 h3g2"]
+[SolutionSAN "Qxd3 Qg2#"]
+[FEN "6k1/pp3pp1/2p5/6Pp/3p1P1b/PB1b3q/1P1QK3/3R4 w - - 0 28"]
+[SetUp "1"]
+
+28. Qxd3 Qg2# *

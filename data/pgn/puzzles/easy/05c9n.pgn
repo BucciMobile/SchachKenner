@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05c9n"]
+[Difficulty "easy"]
+[Rating "1155"]
+[Themes "advancedPawn crushing discoveredAttack endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/T9yzEA8n/black#54"]
+[Solution "h8b8 b6a7 b7a7 b2b8"]
+[SolutionSAN "Rhb8 bxa7 Rxa7 Rxb8"]
+[FEN "7r/pr4pp/1Ppkp3/3p4/p2P4/5P2/PR4PP/1R4K1 b - - 0 27"]
+[SetUp "1"]
+
+27... Rhb8 28. bxa7 Rxa7 29. Rxb8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06AZL"]
+[Difficulty "easy"]
+[Rating "824"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+[GameUrl "https://lichess.org/game/qR9fe3mE#103"]
+[Solution "d5d6 f5f4 d6c7 f4f3 c7b6 f3f2"]
+[SolutionSAN "Kxd6 f4 Kc7 f3 Kxb6 f2"]
+[FEN "8/5k2/1p1p2pP/p2K1pP1/P1P5/1P6/8/8 w - - 1 52"]
+[SetUp "1"]
+
+52. Kxd6 f4 53. Kc7 f3 54. Kxb6 f2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02gtK"]
+[Difficulty "hard"]
+[Rating "1747"]
+[Themes "advantage defensiveMove long middlegame trappedPiece"]
+[GameUrl "https://lichess.org/game/Jwn3DneJ/black#62"]
+[Solution "e4e3 d4d1 e1d1 b3d1 h7g8 c3c4"]
+[SolutionSAN "e3 Rd1 Qxd1 Qxd1 Bg8 c4"]
+[FEN "3r1r2/p3p1kb/1p3p2/3B1Pp1/3Rp1Pp/1QP5/PP4RK/4q3 b - - 5 31"]
+[SetUp "1"]
+
+31... e3 32. Rd1 Qxd1 33. Qxd1 Bg8 34. c4 *

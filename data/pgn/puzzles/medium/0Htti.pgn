@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Htti"]
+[Difficulty "medium"]
+[Rating "1280"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/nAzoeM6I/black#28"]
+[Solution "g8e7 e2b5 e8f8 e5d7"]
+[SolutionSAN "Ne7 Qb5+ Kf8 Nd7+"]
+[FEN "r3k1nr/pp3ppp/n3pq2/4Nb2/8/b1N2B2/P1PPQP1P/R3K2R b KQkq - 3 14"]
+[SetUp "1"]
+
+14... Ne7 15. Qb5+ Kf8 16. Nd7+ *

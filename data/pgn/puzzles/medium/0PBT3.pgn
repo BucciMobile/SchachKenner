@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0PBT3"]
+[Difficulty "medium"]
+[Rating "1412"]
+[Themes "advancedPawn kingsideAttack mate mateIn2 opening short xRayAttack"]
+[GameUrl "https://lichess.org/game/A6MKgUyF/black#28"]
+[Solution "f5e4 g6h7 e4h7 d3h7"]
+[SolutionSAN "Bxe4 gxh7+ Bxh7 Bxh7#"]
+[FEN "rn3rk1/pp3p1p/2pq2P1/5b2/1b2Q3/3B4/PB3PP1/RN3KNR b - - 0 14"]
+[SetUp "1"]
+
+14... Bxe4 15. gxh7+ Bxh7 16. Bxh7# *

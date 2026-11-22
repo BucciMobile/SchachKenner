@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02rP5"]
+[Difficulty "easy"]
+[Rating "913"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/rkUaQvfR#53"]
+[Solution "b7d6 c4c3 c1c3 d4c3"]
+[SolutionSAN "Nd6 Rxc3+ Rxc3 dxc3"]
+[FEN "5k2/pN3ppp/4p3/8/1Prp4/2P3KP/P5P1/2R5 w - - 0 27"]
+[SetUp "1"]
+
+27. Nd6 Rxc3+ 28. Rxc3 dxc3 *

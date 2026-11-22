@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LAWT"]
+[Difficulty "hard"]
+[Rating "2070"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/zVUJSgJq#39"]
+[Solution "b2f6 e6f6 d5f6 g7f6"]
+[SolutionSAN "Bxf6 Rxf6 Nxf6 Bxf6"]
+[FEN "2k1r3/ppp2pbp/3prp2/1P1N4/2P5/5P1P/PB1PnKP1/R3R3 w - - 5 20"]
+[SetUp "1"]
+
+20. Bxf6 Rxf6 21. Nxf6 Bxf6 *

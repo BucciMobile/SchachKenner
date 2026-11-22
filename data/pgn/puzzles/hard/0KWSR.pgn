@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KWSR"]
+[Difficulty "hard"]
+[Rating "2755"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove sacrifice veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/rqsbxjJF#77"]
+[Solution "d2e2 d4c4 e2d2 c4b3 d2c1 h6h5 c1b1 b5b4 a3b4 g5g4 h3g4 f5f4 g3f4 h5h4"]
+[SolutionSAN "Ke2 Kc4 Kd2 Kb3 Kc1 h5 Kb1 b4 axb4 g4 hxg4 f4 gxf4 h4"]
+[FEN "8/8/7p/1p3pp1/p2k4/P4PPP/1P1K4/8 w - - 0 39"]
+[SetUp "1"]
+
+39. Ke2 Kc4 40. Kd2 Kb3 41. Kc1 h5 42. Kb1 b4 43. axb4 g4 44. hxg4 f4 45. gxf4 h4 *

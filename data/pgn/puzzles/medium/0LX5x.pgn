@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LX5x"]
+[Difficulty "medium"]
+[Rating "1549"]
+[Themes "advantage capturingDefender intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/s0GNklhM#23"]
+[Solution "c1h6 d8h4 f3h4 g7h6"]
+[SolutionSAN "Bxh6 Qxh4 Nxh4 Bxh6"]
+[FEN "r2q1rk1/pp1b1pbp/3pp1pn/2p2P2/2B1P2Q/2NP1N2/PPn3PP/1RB2RK1 w - - 0 12"]
+[SetUp "1"]
+
+12. Bxh6 Qxh4 13. Nxh4 Bxh6 *

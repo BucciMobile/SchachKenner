@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KXFA"]
+[Difficulty "hard"]
+[Rating "2499"]
+[Themes "crushing defensiveMove long middlegame"]
+[GameUrl "https://lichess.org/game/FcsamAlX#63"]
+[Solution "e6e7 h4h3 e7e6 f4f5 g1g3 h3g3"]
+[SolutionSAN "Qe7+ Kh3 Qe6+ Rf5 Rg3+ Kxg3"]
+[FEN "8/pR6/3pQ1pp/3Pp3/4Pr1k/4qP2/P1r4N/6RK w - - 5 32"]
+[SetUp "1"]
+
+32. Qe7+ Kh3 33. Qe6+ Rf5 34. Rg3+ Kxg3 *

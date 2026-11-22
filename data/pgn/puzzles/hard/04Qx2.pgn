@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Qx2"]
+[Difficulty "hard"]
+[Rating "2080"]
+[Themes "advantage discoveredAttack discoveredCheck kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/1VAO7hQy/black#44"]
+[Solution "d8e7 g6e8 e7g7 g4g7 g8g7 c1c8"]
+[SolutionSAN "Qe7 Be8+ Qg7 Qxg7+ Kxg7 Rxc8"]
+[FEN "2rq1rk1/3p3p/pb2p1B1/1p2P3/6Q1/P5P1/1n3PP1/2R2RK1 b - - 0 22"]
+[SetUp "1"]
+
+22... Qe7 23. Be8+ Qg7 24. Qxg7+ Kxg7 25. Rxc8 *

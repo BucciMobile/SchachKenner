@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02ujN"]
+[Difficulty "easy"]
+[Rating "494"]
+[Themes "master mate mateIn1 middlegame oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/4hrqMMJl#47"]
+[Solution "g6f4 d3d1"]
+[SolutionSAN "Nf4 Rd1#"]
+[FEN "8/pp2p2k/2n2bN1/8/4p1bP/3r4/5PP1/1RB2K1R w - - 3 24"]
+[SetUp "1"]
+
+24. Nf4 Rd1# *

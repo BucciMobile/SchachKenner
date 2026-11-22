@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NEDW"]
+[Difficulty "medium"]
+[Rating "1311"]
+[Themes "crushing fork long middlegame trappedPiece"]
+[GameUrl "https://lichess.org/game/PFdorZeA/black#64"]
+[Solution "g6f6 c6e5 d7c8 e5g4 h2g2 g1g2"]
+[SolutionSAN "Rf6 Ne5+ Kc8 Nxg4 Rxg2+ Rxg2"]
+[FEN "8/p1pk4/2N1p1r1/1P1p4/P5pb/4P3/4K1Br/2B3R1 b - - 0 32"]
+[SetUp "1"]
+
+32... Rf6 33. Ne5+ Kc8 34. Nxg4 Rxg2+ 35. Rxg2 *

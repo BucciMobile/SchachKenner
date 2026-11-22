@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02uKZ"]
+[Difficulty "hard"]
+[Rating "2615"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/g7WxI8b4#33"]
+[Solution "d4c5 d5c5 c4e3 e4f2"]
+[SolutionSAN "dxc5 Qxc5 Ne3 Nxf2"]
+[FEN "r1b1r1k1/pp3ppp/8/2pq4/1nNPn3/1P3N1P/P3BPP1/RQ2R1K1 w - - 0 17"]
+[SetUp "1"]
+
+17. dxc5 Qxc5 18. Ne3 Nxf2 *

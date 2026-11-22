@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A8gG"]
+[Difficulty "medium"]
+[Rating "1487"]
+[Themes "advancedPawn crushing endgame long quietMove"]
+[GameUrl "https://lichess.org/game/lyqzpFz5#115"]
+[Solution "a6b7 b6d5 c6d5 c5d5 b5b6 g3g2"]
+[SolutionSAN "Kb7 Nd5 Bxd5 Kxd5 b6 g2"]
+[FEN "8/8/KnB5/1Pk5/8/6p1/8/8 w - - 16 58"]
+[SetUp "1"]
+
+58. Kb7 Nd5 59. Bxd5 Kxd5 60. b6 g2 *

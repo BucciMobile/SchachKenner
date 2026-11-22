@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Giup"]
+[Difficulty "medium"]
+[Rating "1362"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/xFiA3x5z#61"]
+[Solution "e2e5 e7d6 e5d6 e6d6"]
+[SolutionSAN "Qxe5 Bd6 Qxd6 Qxd6+"]
+[FEN "6k1/4bpp1/p3q2p/1p1pn3/3P2PP/PN3PK1/1P2Q3/8 w - - 0 31"]
+[SetUp "1"]
+
+31. Qxe5 Bd6 32. Qxd6 Qxd6+ *

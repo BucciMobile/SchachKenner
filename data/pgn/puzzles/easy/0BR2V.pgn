@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BR2V"]
+[Difficulty "easy"]
+[Rating "927"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/0FpmPgs9/black#28"]
+[Solution "d5c3 c2h7"]
+[SolutionSAN "Nxc3 Qxh7#"]
+[FEN "rn1q1rk1/p4ppp/1pp1b3/2bnP1N1/8/2N3P1/PPQ2PBP/R1B2RK1 b - - 2 14"]
+[SetUp "1"]
+
+14... Nxc3 15. Qxh7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Plp"]
+[Difficulty "medium"]
+[Rating "1606"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/KKaqMRfq#65"]
+[Solution "c5e6 h3e3 e2d2 e3e6"]
+[SolutionSAN "Nxe6 Re3+ Kd2 Rxe6"]
+[FEN "2k5/pp6/2p1pb2/2Np1np1/1P1P4/P1P4r/4K3/1R4R1 w - - 0 33"]
+[SetUp "1"]
+
+33. Nxe6 Re3+ 34. Kd2 Rxe6 *

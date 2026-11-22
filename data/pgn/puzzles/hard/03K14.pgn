@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03K14"]
+[Difficulty "hard"]
+[Rating "2511"]
+[Themes "advancedPawn crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/vBgyFox8/black#106"]
+[Solution "h3h8 g6g7 h8a8 c1a1 c2c1b a1c1"]
+[SolutionSAN "Rh8 g7 Ra8 Ra1 c1=B+ Rxc1+"]
+[FEN "8/8/6P1/5P2/2k5/1p5r/1Kp5/2R5 b - - 0 53"]
+[SetUp "1"]
+
+53... Rh8 54. g7 Ra8 55. Ra1 c1=B+ 56. Rxc1+ *

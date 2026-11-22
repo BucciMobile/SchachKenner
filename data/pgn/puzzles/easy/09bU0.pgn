@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09bU0"]
+[Difficulty "easy"]
+[Rating "1181"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/p1EsRETz/black#38"]
+[Solution "d8f6 h4h7"]
+[SolutionSAN "Qxf6 Qh7#"]
+[FEN "r2q1rk1/pp3pb1/5Bp1/2P5/7Q/1P1B4/P1P2PP1/2Kb2NR b - - 0 19"]
+[SetUp "1"]
+
+19... Qxf6 20. Qh7# *

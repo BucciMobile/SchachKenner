@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08ceI"]
+[Difficulty "medium"]
+[Rating "1693"]
+[Themes "advantage long middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/OQzRpaNQ#53"]
+[Solution "d1d2 a4a3 c1b1 a3b4 b1c1 b4a3"]
+[SolutionSAN "Rd2 Qxa3+ Kb1 Qxb4+ Kc1 Qa3+"]
+[FEN "2kr4/p1p5/1p6/7p/qP1p4/P2P2B1/2P3rP/2KRQ2R w - - 2 27"]
+[SetUp "1"]
+
+27. Rd2 Qxa3+ 28. Kb1 Qxb4+ 29. Kc1 Qa3+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03xxB"]
+[Difficulty "easy"]
+[Rating "740"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/PcSmUL25/black#46"]
+[Solution "c5f2 f1f2 c2f2 g1f2"]
+[SolutionSAN "Bxf2+ Rxf2 Rxf2 Kxf2"]
+[FEN "5rk1/1Qp4p/6pB/2bp4/7P/3q1N2/PPr2PP1/5RK1 b - - 1 23"]
+[SetUp "1"]
+
+23... Bxf2+ 24. Rxf2 Rxf2 25. Kxf2 *

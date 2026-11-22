@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08h8H"]
+[Difficulty "medium"]
+[Rating "1325"]
+[Themes "crushing long opening queensideAttack"]
+[GameUrl "https://lichess.org/game/17YrBTyK#17"]
+[Solution "c1b1 f6e4 d2e1 e4c3 e1c3 a5a2"]
+[SolutionSAN "Kb1 Nxe4 Qe1 Nxc3+ Qxc3 Qxa2+"]
+[FEN "r1b1k2r/pp1pppbp/5np1/q7/1n1NP3/2N1B3/PPPQ1PPP/2KR1B1R w kq - 9 9"]
+[SetUp "1"]
+
+9. Kb1 Nxe4 10. Qe1 Nxc3+ 11. Qxc3 Qxa2+ *

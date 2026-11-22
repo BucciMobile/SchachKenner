@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05WvQ"]
+[Difficulty "hard"]
+[Rating "1838"]
+[Themes "crushing endgame exposedKing long rookEndgame"]
+[GameUrl "https://lichess.org/game/VgSnqZaf#81"]
+[Solution "e2f3 g5g4 f3g3 f5f4 g3g4 f4e3"]
+[SolutionSAN "Kf3 g4+ Kg3 f4+ Kxg4 fxe3"]
+[FEN "8/8/3p4/3P1pp1/2Pk4/4R3/1r2KPPP/8 w - - 6 41"]
+[SetUp "1"]
+
+41. Kf3 g4+ 42. Kg3 f4+ 43. Kxg4 fxe3 *

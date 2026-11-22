@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00luA"]
+[Difficulty "easy"]
+[Rating "745"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/hCM9r8D2/black#40"]
+[Solution "d5f4 d3h7"]
+[SolutionSAN "Nxf4 Qh7#"]
+[FEN "r2q1rk1/1b3pp1/p3p3/3n2b1/1pnN1P2/3Q4/PPP1NB2/1K1R1B1R b - - 2 20"]
+[SetUp "1"]
+
+20... Nxf4 21. Qh7# *

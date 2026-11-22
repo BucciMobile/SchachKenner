@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01kfz"]
+[Difficulty "medium"]
+[Rating "1627"]
+[Themes "advantage long middlegame skewer"]
+[GameUrl "https://lichess.org/game/TMQtyOve#53"]
+[Solution "a2a3 b7c7 c2c7 b8c8 c7d6 c8c1"]
+[SolutionSAN "a3 Rxc7 Qxc7 Rc8 Qxd6 Rxc1+"]
+[FEN "1r2q1k1/1rR2pp1/1p1np2p/3pN3/3P4/4P2P/PPQ2PP1/2R3K1 w - - 3 27"]
+[SetUp "1"]
+
+27. a3 Rxc7 28. Qxc7 Rc8 29. Qxd6 Rxc1+ *

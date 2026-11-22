@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HeRL"]
+[Difficulty "hard"]
+[Rating "2098"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/UO2vGocM#35"]
+[Solution "c1b1 d8d5 d1d5 c8c3"]
+[SolutionSAN "Kb1 Rxd5 Rxd5 Rxc3"]
+[FEN "2rrk3/p3bpp1/5pbp/3R4/4P3/2N2N2/PP3PPP/2KR4 w - - 3 18"]
+[SetUp "1"]
+
+18. Kb1 Rxd5 19. Rxd5 Rxc3 *

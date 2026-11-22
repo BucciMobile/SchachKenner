@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jq8K"]
+[Difficulty "easy"]
+[Rating "975"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/HzEUPEcm#71"]
+[Solution "c2c3 d8d1"]
+[SolutionSAN "Rxc3 Rd1#"]
+[FEN "3r4/6k1/7p/4q1p1/1Q6/2p5/2R2PP1/6K1 w - - 0 36"]
+[SetUp "1"]
+
+36. Rxc3 Rd1# *

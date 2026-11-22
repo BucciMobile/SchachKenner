@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Aq58"]
+[Difficulty "medium"]
+[Rating "1507"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/Vze7PnAq#55"]
+[Solution "a4a5 d5f4 f1f4 g4f4"]
+[SolutionSAN "a5 Nf4 Rxf4 Qxf4"]
+[FEN "4r1k1/QNp2pp1/4p1p1/3nP3/P5q1/1P6/6PP/5RK1 w - - 5 28"]
+[SetUp "1"]
+
+28. a5 Nf4 29. Rxf4 Qxf4 *

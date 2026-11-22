@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01aGP"]
+[Difficulty "hard"]
+[Rating "2206"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/xcIyOKTR#23"]
+[Solution "f3d4 e7e5 g2g3 h5e2 d4e2 e5b2"]
+[SolutionSAN "Nd4 Qe5 g3 Bxe2 Nxe2 Qxb2"]
+[FEN "r3r1k1/1pp1qppp/p1nb1n2/3p3b/8/1P1PPN1P/PBPNBPP1/R2Q1RK1 w - - 5 12"]
+[SetUp "1"]
+
+12. Nd4 Qe5 13. g3 Bxe2 14. Nxe2 Qxb2 *

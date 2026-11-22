@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BmRF"]
+[Difficulty "medium"]
+[Rating "1516"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/f4LKyWDf/black#76"]
+[Solution "e8h5 g3g8 f8g8 g2g8"]
+[SolutionSAN "Bxh5 Qg8+ Rxg8 Rxg8#"]
+[FEN "4br1k/2r4p/1q3p2/5P1N/p1p1P2P/3n2Q1/PP2B1RK/6R1 b - - 5 38"]
+[SetUp "1"]
+
+38... Bxh5 39. Qg8+ Rxg8 40. Rxg8# *

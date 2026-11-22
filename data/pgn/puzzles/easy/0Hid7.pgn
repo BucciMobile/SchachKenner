@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hid7"]
+[Difficulty "easy"]
+[Rating "1187"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/chzQhARf#59"]
+[Solution "g2g6 h7g6 c2g6 d7g7"]
+[SolutionSAN "Rxg6+ hxg6 Qxg6+ Qg7"]
+[FEN "1r4k1/3q3p/6p1/p6r/P2P1p2/1P2P3/2Q2PR1/2R3K1 w - - 0 30"]
+[SetUp "1"]
+
+30. Rxg6+ hxg6 31. Qxg6+ Qg7 *

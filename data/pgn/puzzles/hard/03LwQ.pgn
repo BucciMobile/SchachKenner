@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03LwQ"]
+[Difficulty "hard"]
+[Rating "2470"]
+[Themes "crushing endgame long quietMove rookEndgame"]
+[GameUrl "https://lichess.org/game/UYS2cWHz#89"]
+[Solution "c5c6 b8b2 c6c7 g4g3 a1a3 b2b1"]
+[SolutionSAN "c6 Rb2 c7 Kxg3 Ra3 Rb1+"]
+[FEN "1r6/7p/3P2p1/2P5/6k1/4p1P1/5pP1/R4K2 w - - 4 45"]
+[SetUp "1"]
+
+45. c6 Rb2 46. c7 Kxg3 47. Ra3 Rb1+ *

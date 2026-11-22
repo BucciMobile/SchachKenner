@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ly0C"]
+[Difficulty "medium"]
+[Rating "1555"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/hpvzUlLa#29"]
+[Solution "f3c6 f6e5 c6c7 e5c7"]
+[SolutionSAN "Qxc6 Bxe5 Qxc7 Bxc7"]
+[FEN "r1b2rk1/2qn1ppp/p1p1pb2/2p1N3/N1P2P2/1P2PQ2/PB4PP/R4RK1 w - - 3 15"]
+[SetUp "1"]
+
+15. Qxc6 Bxe5 16. Qxc7 Bxc7 *

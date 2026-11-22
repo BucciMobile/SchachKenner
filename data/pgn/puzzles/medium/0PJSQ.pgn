@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0PJSQ"]
+[Difficulty "medium"]
+[Rating "1220"]
+[Themes "advantage deflection endgame master short"]
+[GameUrl "https://lichess.org/game/JHpSM48C#61"]
+[Solution "d8d3 e8e1 d1e1 f3d3"]
+[SolutionSAN "Qd3 Re1+ Rxe1 Qxd3"]
+[FEN "3Qr1k1/5pp1/5n2/8/8/2P2qNP/PP3P2/3R2K1 w - - 5 31"]
+[SetUp "1"]
+
+31. Qd3 Re1+ 32. Rxe1 Qxd3 *

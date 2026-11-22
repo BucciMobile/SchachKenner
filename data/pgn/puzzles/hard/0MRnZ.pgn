@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MRnZ"]
+[Difficulty "hard"]
+[Rating "2240"]
+[Themes "attraction crushing defensiveMove long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/rw04hmla/black#54"]
+[Solution "f7f5 h3h6 h7h6 g4h3 h6g5 g2g3"]
+[SolutionSAN "f5 Rxh6+ Kxh6 Qh3+ Kg5 g3"]
+[FEN "r4r2/ppq1bp1k/4n1pp/8/6Q1/PP5R/1B3PPP/R5K1 b - - 2 27"]
+[SetUp "1"]
+
+27... f5 28. Rxh6+ Kxh6 29. Qh3+ Kg5 30. g3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OvvE"]
+[Difficulty "medium"]
+[Rating "1390"]
+[Themes "kingsideAttack mate mateIn2 middlegame short xRayAttack"]
+[GameUrl "https://lichess.org/game/MZLv94xb/black#48"]
+[Solution "b8e8 a4e8 e7e8 e1e8"]
+[SolutionSAN "Rbe8 Qxe8+ Rxe8 Rxe8#"]
+[FEN "1r4k1/p3rppp/8/2pb4/Q2q4/3B1P2/P1P3PP/R3R2K b - - 8 24"]
+[SetUp "1"]
+
+24... Rbe8 25. Qxe8+ Rxe8 26. Rxe8# *

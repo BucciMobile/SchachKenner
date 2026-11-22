@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D57U"]
+[Difficulty "easy"]
+[Rating "943"]
+[Themes "endgame mate mateIn1 oneMove operaMate"]
+[GameUrl "https://lichess.org/game/44IaAlEM#65"]
+[Solution "g2g3 f1h1"]
+[SolutionSAN "g3 Rh1#"]
+[FEN "6k1/pbq5/1p2p3/7R/8/P6P/1P1QR1PK/5r2 w - - 5 33"]
+[SetUp "1"]
+
+33. g3 Rh1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0128O"]
+[Difficulty "hard"]
+[Rating "1748"]
+[Themes "advantage attraction fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/FF3AWxWW/black#42"]
+[Solution "c6g2 d1d7 b7d7 b3e6 g8h8 e6d7"]
+[SolutionSAN "Bxg2 Rxd7 Qxd7 Bxe6+ Kh8 Bxd7"]
+[FEN "r4rk1/1q1p2pp/p1b1p3/2p1Q3/8/1B6/PPP2PPP/3RR1K1 b - - 0 21"]
+[SetUp "1"]
+
+21... Bxg2 22. Rxd7 Qxd7 23. Bxe6+ Kh8 24. Bxd7 *

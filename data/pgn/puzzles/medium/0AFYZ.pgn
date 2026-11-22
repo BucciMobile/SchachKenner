@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AFYZ"]
+[Difficulty "medium"]
+[Rating "1306"]
+[Themes "attraction crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/f51v1x2E#79"]
+[Solution "b6b8 c5c1 b1c1 g3f4 c1c2 f4b8"]
+[SolutionSAN "Rb8 Rxc1+ Kxc1 Bxf4+ Kc2 Bxb8"]
+[FEN "8/8/1Rp2kp1/p1r5/5P2/6b1/PP6/1KB5 w - - 0 40"]
+[SetUp "1"]
+
+40. Rb8 Rxc1+ 41. Kxc1 Bxf4+ 42. Kc2 Bxb8 *

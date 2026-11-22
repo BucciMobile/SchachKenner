@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E43M"]
+[Difficulty "hard"]
+[Rating "2238"]
+[Themes "advantage clearance long middlegame trappedPiece"]
+[GameUrl "https://lichess.org/game/S4cvJqhW/black#44"]
+[Solution "e4e2 e1e2 e7e2 d1e1 e2e1 g3e1"]
+[SolutionSAN "Rxe2 Rxe2 Qxe2 Re1 Qxe1+ Qxe1"]
+[FEN "2kr4/1p2qppp/ppnp2b1/5P2/2PPr1P1/1P4QP/PB2N3/2KRR3 b - - 0 22"]
+[SetUp "1"]
+
+22... Rxe2 23. Rxe2 Qxe2 24. Re1 Qxe1+ 25. Qxe1 *

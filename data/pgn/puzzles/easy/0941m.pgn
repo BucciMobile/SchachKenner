@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0941m"]
+[Difficulty "easy"]
+[Rating "761"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/TKO1e7H5/black#28"]
+[Solution "e6d5 e4h7"]
+[SolutionSAN "Bxd5 Qxh7#"]
+[FEN "r2q1rk1/pp3p1p/2pbbp2/3N4/4Q3/3B4/PPP2PPP/3RK2R b K - 1 14"]
+[SetUp "1"]
+
+14... Bxd5 15. Qxh7# *

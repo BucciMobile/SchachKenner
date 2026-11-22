@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "013U2"]
+[Difficulty "hard"]
+[Rating "2199"]
+[Themes "attraction crushing exposedKing long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/5k5xgjEM/black#46"]
+[Solution "c6d8 e1e7 f8e7 c3b4 d7d6 b4d6"]
+[SolutionSAN "Nd8 Rxe7 Kxe7 Bb4+ d6 Bxd6+"]
+[FEN "r1b2k2/p2pbP2/1pn3pr/1P5p/2B5/P1B3N1/2P3PP/1K2R3 b - - 0 23"]
+[SetUp "1"]
+
+23... Nd8 24. Rxe7 Kxe7 25. Bb4+ d6 26. Bxd6+ *

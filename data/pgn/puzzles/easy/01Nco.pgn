@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Nco"]
+[Difficulty "easy"]
+[Rating "774"]
+[Themes "crushing endgame short skewer"]
+[GameUrl "https://lichess.org/game/6NJSBbsI#77"]
+[Solution "h2h4 e2d2 d4c3 d2d7"]
+[SolutionSAN "h4 Rd2+ Kc3 Rxd7"]
+[FEN "8/3R2p1/2p2pkp/1bB5/pP1K2P1/P4P2/4r2P/8 w - - 7 39"]
+[SetUp "1"]
+
+39. h4 Rd2+ 40. Kc3 Rxd7 *

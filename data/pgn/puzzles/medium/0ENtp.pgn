@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ENtp"]
+[Difficulty "medium"]
+[Rating "1598"]
+[Themes "advancedPawn kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/aWUdymqm/black#52"]
+[Solution "e4h4 h6g7 e6g7 f6g7"]
+[SolutionSAN "Rh4 Qg7+ Nxg7 fxg7#"]
+[FEN "r6k/pp2Np1p/2ppnPpQ/6P1/4r3/1PB5/1PP2q1P/R6K b - - 5 26"]
+[SetUp "1"]
+
+26... Rh4 27. Qg7+ Nxg7 28. fxg7# *

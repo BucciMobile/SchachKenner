@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kdji"]
+[Difficulty "medium"]
+[Rating "1513"]
+[Themes "advantage fork opening short"]
+[GameUrl "https://lichess.org/game/1RSWOWst#15"]
+[Solution "e1g1 d8d4 g1h1 d4c4"]
+[SolutionSAN "O-O Qd4+ Kh1 Qxc4"]
+[FEN "r2qkb1r/ppp2ppp/2n2n2/4p3/2B1P3/5Q1P/PPPP2P1/RNB1K2R w KQkq - 3 8"]
+[SetUp "1"]
+
+8. O-O Qd4+ 9. Kh1 Qxc4 *

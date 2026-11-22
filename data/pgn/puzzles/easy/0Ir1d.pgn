@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ir1d"]
+[Difficulty "easy"]
+[Rating "933"]
+[Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/Rg28djUS#119"]
+[Solution "e3e4 d5d4 g4f5 d4e4"]
+[SolutionSAN "Qe4+ Rd4 Kf5 Rxe4"]
+[FEN "8/8/8/3r4/2k3K1/2p1Q3/8/8 w - - 2 60"]
+[SetUp "1"]
+
+60. Qe4+ Rd4 61. Kf5 Rxe4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HvAk"]
+[Difficulty "hard"]
+[Rating "2460"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/ZyHVWHoC/black#38"]
+[Solution "a8e8 d5f6 g8h8 f5h5 g6h5 f6h5"]
+[SolutionSAN "Rae8 Nf6+ Kh8 Rh5 Qxh5 Nxh5"]
+[FEN "r4rk1/ppp2p1p/1bnp2q1/3NPR2/2BP4/3QP2P/PP4P1/6K1 b - - 2 19"]
+[SetUp "1"]
+
+19... Rae8 20. Nf6+ Kh8 21. Rh5 Qxh5 22. Nxh5 *

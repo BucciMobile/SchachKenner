@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IzG9"]
+[Difficulty "hard"]
+[Rating "2000"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/8BlQEwDs#29"]
+[Solution "d2d4 c6d4 e4d4 c5d4"]
+[SolutionSAN "d4 Nxd4 Qxd4 cxd4"]
+[FEN "r3k2r/1b3ppp/p1n1pq2/2p5/1p2Q3/PP2PN2/3PBPPP/R3K2R w KQkq - 0 15"]
+[SetUp "1"]
+
+15. d4 Nxd4 16. Qxd4 cxd4 *

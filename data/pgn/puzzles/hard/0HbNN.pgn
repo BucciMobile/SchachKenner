@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HbNN"]
+[Difficulty "hard"]
+[Rating "2199"]
+[Themes "endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/TOvh41fK/black#72"]
+[Solution "f6d5 e1e8 g8h7 c6g6 f7g6 f5g6"]
+[SolutionSAN "Nxd5 Re8+ Kh7 Qg6+ fxg6 fxg6#"]
+[FEN "6k1/p4pp1/2Q2n2/3B1PPP/8/2P5/Pq1r4/4R1K1 b - - 0 36"]
+[SetUp "1"]
+
+36... Nxd5 37. Re8+ Kh7 38. Qg6+ fxg6 39. fxg6# *

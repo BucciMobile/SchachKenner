@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lh8i"]
+[Difficulty "hard"]
+[Rating "1749"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/YRcwhW9s/black#52"]
+[Solution "c3g3 f2g3 g5g4 h3g4"]
+[SolutionSAN "Rg3 fxg3 Qxg4 hxg4"]
+[FEN "6k1/p5pp/4p3/3p2q1/1N1P1nQ1/2r4P/P4PP1/R5K1 b - - 1 26"]
+[SetUp "1"]
+
+26... Rg3 27. fxg3 Qxg4 28. hxg4 *

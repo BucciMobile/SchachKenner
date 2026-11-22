@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DCfz"]
+[Difficulty "medium"]
+[Rating "1380"]
+[Themes "advancedPawn bishopEndgame crushing endgame master promotion short"]
+[GameUrl "https://lichess.org/game/5rfjq4Go#93"]
+[Solution "b5c6 e3e2 c6a8 e2e1q"]
+[SolutionSAN "Bc6 e2 Bxa8 e1=Q"]
+[FEN "b7/P7/8/1BK5/5k2/4p3/8/8 w - - 2 47"]
+[SetUp "1"]
+
+47. Bc6 e2 48. Bxa8 e1=Q *

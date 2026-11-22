@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CPij"]
+[Difficulty "medium"]
+[Rating "1470"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/RnkfcSpN#65"]
+[Solution "f1f2 c2f2 e3f2 a2f2"]
+[SolutionSAN "Rf2 Rxf2 Qxf2 Rxf2"]
+[FEN "6k1/4q1p1/4p2p/1pPb1p1B/1P1PpP2/4Q1RP/r1r3P1/2B2RK1 w - - 9 33"]
+[SetUp "1"]
+
+33. Rf2 Rxf2 34. Qxf2 Rxf2 *

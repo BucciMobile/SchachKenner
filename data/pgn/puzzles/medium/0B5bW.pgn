@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B5bW"]
+[Difficulty "medium"]
+[Rating "1407"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/SBNalAEn/black#66"]
+[Solution "c3c1 b1c1 c8c1 h6c1"]
+[SolutionSAN "Rc1+ Rxc1 Rxc1+ Qxc1"]
+[FEN "2r3k1/1b3p1p/4p1pQ/q2p4/P7/1PrB3R/5PPP/1R4K1 b - - 5 33"]
+[SetUp "1"]
+
+33... Rc1+ 34. Rxc1 Rxc1+ 35. Qxc1 *

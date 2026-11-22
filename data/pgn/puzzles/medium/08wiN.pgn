@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08wiN"]
+[Difficulty "medium"]
+[Rating "1310"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/a9gcsGKY/black#78"]
+[Solution "b5b4 d5c4 f6e6 c4b4 e6d5 b4c3"]
+[SolutionSAN "b4 Kc4 Ke6 Kxb4 Kd5 Kc3"]
+[FEN "8/8/3p1k2/1p1K2p1/3P2P1/7P/8/8 b - - 1 39"]
+[SetUp "1"]
+
+39... b4 40. Kc4 Ke6 41. Kxb4 Kd5 42. Kc3 *

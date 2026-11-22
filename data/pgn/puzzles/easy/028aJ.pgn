@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "028aJ"]
+[Difficulty "easy"]
+[Rating "569"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/sxIqdesz/black#70"]
+[Solution "d8d4 a6a8 d4d8 a8d8"]
+[SolutionSAN "Rd4 Ra8+ Rd8 Rxd8#"]
+[FEN "3r2k1/5ppp/Rp2p3/1P6/2n2PP1/8/5K1P/8 b - - 1 35"]
+[SetUp "1"]
+
+35... Rd4 36. Ra8+ Rd8 37. Rxd8# *

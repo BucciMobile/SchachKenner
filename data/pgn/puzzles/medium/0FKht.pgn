@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FKht"]
+[Difficulty "medium"]
+[Rating "1579"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/LHmnMMBS/black#104"]
+[Solution "b6a5 a7h7 h4g4 h7h3 g4h3 b5b6"]
+[SolutionSAN "bxa5 Rh7+ Kg4 Rxh3 Kxh3 b6"]
+[FEN "8/R7/1p6/PP4p1/7k/7r/5K2/8 b - - 0 52"]
+[SetUp "1"]
+
+52... bxa5 53. Rh7+ Kg4 54. Rxh3 Kxh3 55. b6 *

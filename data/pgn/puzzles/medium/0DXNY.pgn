@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DXNY"]
+[Difficulty "medium"]
+[Rating "1593"]
+[Themes "advancedPawn advantage discoveredCheck doubleCheck long middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/Wwg5pVcw/black#60"]
+[Solution "e2d3 a5b6 c7g7 b6a7 b8a8 b5c6"]
+[SolutionSAN "Bxd3 axb6 Rg7 bxa7+ Ka8 Qc6+"]
+[FEN "1k5r/p1r4p/Bp1p1p1p/PQp5/2PqP3/3P3P/1P2bRP1/4R1K1 b - - 2 30"]
+[SetUp "1"]
+
+30... Bxd3 31. axb6 Rg7 32. bxa7+ Ka8 33. Qc6+ *

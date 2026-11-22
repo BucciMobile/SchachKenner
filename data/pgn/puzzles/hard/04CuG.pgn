@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04CuG"]
+[Difficulty "hard"]
+[Rating "2679"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/4m5SXFrL#131"]
+[Solution "h1h2 d2e3 h2h3 e3f4 h3h1 b2b5"]
+[SolutionSAN "Rh2 Ke3 Rh3+ Kf4 Rh1 Rb5+"]
+[FEN "8/8/8/7K/6P1/8/1r1kp3/7R w - - 0 66"]
+[SetUp "1"]
+
+66. Rh2 Ke3 67. Rh3+ Kf4 68. Rh1 Rb5+ *

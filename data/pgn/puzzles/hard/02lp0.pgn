@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02lp0"]
+[Difficulty "hard"]
+[Rating "1947"]
+[Themes "advantage capturingDefender endgame long"]
+[GameUrl "https://lichess.org/game/VTO3ZiUj#45"]
+[Solution "a1e1 g7g5 e1e8 g5h4 e8a8 a6c4"]
+[SolutionSAN "Re1 g5 Rxe8 gxh4 Ra8 Bxc4+"]
+[FEN "4r3/5kp1/b2b1n2/2pP3p/p1P4Q/P7/1P3PPP/R4K2 w - - 2 23"]
+[SetUp "1"]
+
+23. Re1 g5 24. Rxe8 gxh4 25. Ra8 Bxc4+ *

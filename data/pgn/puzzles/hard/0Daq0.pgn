@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Daq0"]
+[Difficulty "hard"]
+[Rating "1897"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/JM8NfORl/black#70"]
+[Solution "a2b1 f5f6 g7h6 e5e6"]
+[SolutionSAN "Bb1 f6+ Kh6 e6"]
+[FEN "3R4/1p3pkp/2p5/4PP2/4B3/7P/br6/6K1 b - - 1 35"]
+[SetUp "1"]
+
+35... Bb1 36. f6+ Kh6 37. e6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "077W0"]
+[Difficulty "easy"]
+[Rating "908"]
+[Themes "endgame mate mateIn2 morphysMate short"]
+[GameUrl "https://lichess.org/game/1qTBEUTZ/black#84"]
+[Solution "e4h4 d6e5 f7f6 e5f6"]
+[SolutionSAN "Rxh4 Be5+ f6 Bxf6#"]
+[FEN "7k/5p1p/3B4/2p5/1bP1r2P/p5R1/P6P/6K1 b - - 0 42"]
+[SetUp "1"]
+
+42... Rxh4 43. Be5+ f6 44. Bxf6# *

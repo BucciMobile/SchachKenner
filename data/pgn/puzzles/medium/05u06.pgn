@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05u06"]
+[Difficulty "medium"]
+[Rating "1623"]
+[Themes "crushing interference kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/1PPZKYx0/black#62"]
+[Solution "e7e3 c2h7 g8f8 h7h8 f8e7 e1e3"]
+[SolutionSAN "Rxe3 Qh7+ Kf8 Qh8+ Ke7 Rxe3+"]
+[FEN "4r1k1/4rpp1/2pq3p/ppNp4/3P4/P1P1R2b/1PQ2P2/1B2R1K1 b - - 1 31"]
+[SetUp "1"]
+
+31... Rxe3 32. Qh7+ Kf8 33. Qh8+ Ke7 34. Rxe3+ *

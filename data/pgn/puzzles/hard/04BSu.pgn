@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04BSu"]
+[Difficulty "hard"]
+[Rating "2135"]
+[Themes "clearance crushing endgame pin quietMove rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/0qSDoE0E#69"]
+[Solution "e4d4 d7d4 e3d4 f7c7 b1d1 c7c1 g1f2 c1d1"]
+[SolutionSAN "Rd4 Rxd4 exd4 Rc7 Rd1 Rc1 Kf2 Rxd1"]
+[FEN "8/3r1r1k/8/PP4pp/4R3/4P3/3p2PP/1R4K1 w - - 0 35"]
+[SetUp "1"]
+
+35. Rd4 Rxd4 36. exd4 Rc7 37. Rd1 Rc1 38. Kf2 Rxd1 *

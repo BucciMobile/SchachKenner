@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09REh"]
+[Difficulty "easy"]
+[Rating "1067"]
+[Themes "endgame long mate mateIn3 rookEndgame"]
+[GameUrl "https://lichess.org/game/BgaKJiqI/black#66"]
+[Solution "b5b4 g2g4 f5g4 h3g4 h5h4 a6h6"]
+[SolutionSAN "b4 g4+ fxg4+ hxg4+ Kh4 Rxh6#"]
+[FEN "1r6/8/R6p/1p3ppk/8/5K1P/PP4P1/8 b - - 0 33"]
+[SetUp "1"]
+
+33... b4 34. g4+ fxg4+ 35. hxg4+ Kh4 36. Rxh6# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JmGo"]
+[Difficulty "easy"]
+[Rating "966"]
+[Themes "advantage endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/o1J7xt9T/black#50"]
+[Solution "a6e2 d2e2 b8b1 e2f1"]
+[SolutionSAN "Qxe2 Qxe2 Rb1+ Qf1"]
+[FEN "1r4k1/5ppp/q3p3/8/p7/P1P5/3QRPPP/6K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Qxe2 26. Qxe2 Rb1+ 27. Qf1 *

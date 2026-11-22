@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JCQA"]
+[Difficulty "medium"]
+[Rating "1673"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/mfkKzpea/black#52"]
+[Solution "e5f4 g3d3 b7e4 d3e4"]
+[SolutionSAN "Bxf4 Qd3 Be4 Qxe4"]
+[FEN "r4r1k/1b1R3p/p3pp2/1p2b1p1/5N2/1P4QP/P4PP1/6K1 b - - 1 26"]
+[SetUp "1"]
+
+26... Bxf4 27. Qd3 Be4 28. Qxe4 *

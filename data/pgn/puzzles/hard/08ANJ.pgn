@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08ANJ"]
+[Difficulty "hard"]
+[Rating "1865"]
+[Themes "crushing deflection long middlegame pin"]
+[GameUrl "https://lichess.org/game/HXFkSzMo/black#52"]
+[Solution "f8a8 d5c6 e7c6 b1b5 b7c7 a1a8"]
+[SolutionSAN "Ra8 dxc6+ Nxc6 Rxb5+ Kc7 Rxa8"]
+[FEN "5r2/1k1rn1pp/2p5/1p1P1PBn/2P1P3/7P/5P2/RR4K1 b - - 0 26"]
+[SetUp "1"]
+
+26... Ra8 27. dxc6+ Nxc6 28. Rxb5+ Kc7 29. Rxa8 *

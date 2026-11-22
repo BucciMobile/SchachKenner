@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04l13"]
+[Difficulty "easy"]
+[Rating "941"]
+[Themes "endgame master mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/bKa20T7H/black#106"]
+[Solution "a3a2 a7a8"]
+[SolutionSAN "a2 Ra8#"]
+[FEN "5k2/R7/5K2/7p/7P/p4P2/8/r7 b - - 1 53"]
+[SetUp "1"]
+
+53... a2 54. Ra8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DHuf"]
+[Difficulty "easy"]
+[Rating "644"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/vrjjPAAT#95"]
+[Solution "h1h5 g6f4 e2d2 f4h5"]
+[SolutionSAN "Rh5 Nf4+ Kd2 Nxh5"]
+[FEN "8/6k1/1p4n1/p1p1Pp2/P1Pp4/3P4/1P2K3/7R w - - 0 48"]
+[SetUp "1"]
+
+48. Rh5 Nf4+ 49. Kd2 Nxh5 *

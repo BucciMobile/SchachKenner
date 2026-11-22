@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0O8aa"]
+[Difficulty "medium"]
+[Rating "1356"]
+[Themes "attraction crushing deflection endgame short"]
+[GameUrl "https://lichess.org/game/K0g6CAGk#47"]
+[Solution "h2g3 f2f3 g3f3 d7h3"]
+[SolutionSAN "Kg3 Rxf3+ Kxf3 Qxh3+"]
+[FEN "4k2r/2pq1pRp/3p4/3Pp3/4P3/2P2P1Q/P4r1K/R7 w k - 0 24"]
+[SetUp "1"]
+
+24. Kg3 Rxf3+ 25. Kxf3 Qxh3+ *

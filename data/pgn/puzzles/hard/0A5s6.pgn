@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A5s6"]
+[Difficulty "hard"]
+[Rating "2221"]
+[Themes "clearance intermezzo kingsideAttack long mate mateIn3 middlegame morphysMate sacrifice"]
+[GameUrl "https://lichess.org/game/7AyYWJxD#33"]
+[Solution "c6a4 f6f3 g2f3 b6g6 g1h1 e4f3"]
+[SolutionSAN "Ba4 Qf3 gxf3 Rg6+ Kh1 Bxf3#"]
+[FEN "5rk1/p1p2ppp/1rB2q2/3p4/3Pb3/2Q1P3/PP3PPP/R4RK1 w - - 1 17"]
+[SetUp "1"]
+
+17. Ba4 Qf3 18. gxf3 Rg6+ 19. Kh1 Bxf3# *

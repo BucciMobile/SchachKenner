@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06kh0"]
+[Difficulty "easy"]
+[Rating "599"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/VyIhPCwm#59"]
+[Solution "d1d2 c8c1 d2d1 c1d1"]
+[SolutionSAN "Rd2 Rc1+ Rd1 Rxd1#"]
+[FEN "2r5/p5pk/1p2p3/3bN3/8/P5P1/1P3P1P/3R2K1 w - - 2 30"]
+[SetUp "1"]
+
+30. Rd2 Rc1+ 31. Rd1 Rxd1# *

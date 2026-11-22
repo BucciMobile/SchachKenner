@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IpxP"]
+[Difficulty "medium"]
+[Rating "1505"]
+[Themes "advantage endgame intermezzo short"]
+[GameUrl "https://lichess.org/game/Oc1y2SYD/black#54"]
+[Solution "e8e1 d4f5 g7f6 f1e1"]
+[SolutionSAN "Rxe1 Nxf5+ Kf6 Rxe1"]
+[FEN "4r3/ppp3kp/2bp2p1/5r2/2PN1P2/1P5P/P5P1/4RRK1 b - - 1 27"]
+[SetUp "1"]
+
+27... Rxe1 28. Nxf5+ Kf6 29. Rxe1 *

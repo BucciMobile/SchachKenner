@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GCqK"]
+[Difficulty "easy"]
+[Rating "1146"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/ZNiSoGoB#41"]
+[Solution "c5b7 g5g2"]
+[SolutionSAN "Nxb7 Qxg2#"]
+[FEN "r4rk1/1bp3p1/p1n4p/1pN1ppq1/5n2/2PPQ2P/PPB2PPN/3R1RK1 w - - 2 21"]
+[SetUp "1"]
+
+21. Nxb7 Qxg2# *

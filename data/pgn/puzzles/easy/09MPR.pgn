@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09MPR"]
+[Difficulty "easy"]
+[Rating "990"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/cMGAzbMA/black#52"]
+[Solution "a6b7 f7b7"]
+[SolutionSAN "Bxb7 Rxb7#"]
+[FEN "rk4r1/pR3Rp1/bppNn2p/4P3/7P/4B3/PPP3P1/6K1 b - - 4 26"]
+[SetUp "1"]
+
+26... Bxb7 27. Rxb7# *

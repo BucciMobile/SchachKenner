@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Atht"]
+[Difficulty "hard"]
+[Rating "1823"]
+[Themes "advancedPawn advantage defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/T1rDdxwk/black#54"]
+[Solution "f8c8 d1d7 e5a1 g1g2 a1f6 c6c7"]
+[SolutionSAN "Rc8 Rd7 Qa1+ Kg2 Qf6 c7"]
+[FEN "5rk1/p4pp1/1pP4p/4q3/2Q3P1/7P/P4P2/3R2K1 b - - 1 27"]
+[SetUp "1"]
+
+27... Rc8 28. Rd7 Qa1+ 29. Kg2 Qf6 30. c7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07xPc"]
+[Difficulty "easy"]
+[Rating "707"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/Ks60Ttll#111"]
+[Solution "f2f4 h2c2 c5d5 c2c6"]
+[SolutionSAN "f4 Rc2+ Kd5 Rxc6"]
+[FEN "8/1k6/2N5/2K2p2/3P4/4P3/5P1r/8 w - - 0 56"]
+[SetUp "1"]
+
+56. f4 Rc2+ 57. Kd5 Rxc6 *

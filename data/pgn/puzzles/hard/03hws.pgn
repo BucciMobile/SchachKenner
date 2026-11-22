@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03hws"]
+[Difficulty "hard"]
+[Rating "1807"]
+[Themes "advancedPawn crushing endgame quietMove short"]
+[GameUrl "https://lichess.org/game/W4qfpbie#71"]
+[Solution "g2h3 e1d3 h3g3 e3e2"]
+[SolutionSAN "Kxh3 Nd3 Kg3 e2"]
+[FEN "5k2/p5p1/2p3P1/7p/3P3P/2P1p2r/P5K1/1R2n3 w - - 0 36"]
+[SetUp "1"]
+
+36. Kxh3 Nd3 37. Kg3 e2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kkla"]
+[Difficulty "hard"]
+[Rating "1756"]
+[Themes "clearance kingsideAttack master mate mateIn2 middlegame pin short"]
+[GameUrl "https://lichess.org/game/jwfCHSXN#43"]
+[Solution "g1g2 g5h5 g2h2 g6g2"]
+[SolutionSAN "Rxg2 Rh5+ Rh2 Qg2#"]
+[FEN "2k3r1/ppp2p2/2p2pqp/4P1r1/5Q2/3B4/PPP2Pb1/R5RK w - - 0 22"]
+[SetUp "1"]
+
+22. Rxg2 Rh5+ 23. Rh2 Qg2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AecI"]
+[Difficulty "hard"]
+[Rating "2743"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/2Wm0cE3z#39"]
+[Solution "f3a3 f8h6 b6e3 h6e3 f2e3 a2c4"]
+[SolutionSAN "Qa3 Bh6+ Be3 Bxe3+ fxe3 Qc4"]
+[FEN "5b1r/2N1k2p/1B1p1np1/P3pp2/4n3/5Q2/qPP2PPP/2KR3R w - - 3 20"]
+[SetUp "1"]
+
+20. Qa3 Bh6+ 21. Be3 Bxe3+ 22. fxe3 Qc4 *

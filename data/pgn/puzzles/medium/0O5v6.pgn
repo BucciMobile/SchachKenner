@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0O5v6"]
+[Difficulty "medium"]
+[Rating "1563"]
+[Themes "advantage discoveredAttack middlegame pin short"]
+[GameUrl "https://lichess.org/game/EAFAHkMP#39"]
+[Solution "f3e5 c6d4 e3d4 b6e6"]
+[SolutionSAN "Ne5 Nd4+ exd4 Qxe6"]
+[FEN "r5k1/5r2/pqn1Q2p/1pb3p1/8/4PNB1/PP2KPPP/R6R w - - 1 20"]
+[SetUp "1"]
+
+20. Ne5 Nd4+ 21. exd4 Qxe6 *

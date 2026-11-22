@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IMfq"]
+[Difficulty "easy"]
+[Rating "1065"]
+[Themes "advancedPawn crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/Lgj1M4C3#69"]
+[Solution "f5g5 d5d4 e3d4 e4e3 g5f4 e3e2"]
+[SolutionSAN "Kxg5 d4 exd4 e3 Kf4 e2"]
+[FEN "8/6k1/2p5/1pPp1KpP/pP2p3/P3P3/6P1/8 w - - 0 35"]
+[SetUp "1"]
+
+35. Kxg5 d4 36. exd4 e3 37. Kf4 e2 *

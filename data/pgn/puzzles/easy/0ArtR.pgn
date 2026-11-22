@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ArtR"]
+[Difficulty "easy"]
+[Rating "595"]
+[Themes "hangingPiece mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/zSYa0qvs/black#18"]
+[Solution "f6e4 c3c8"]
+[SolutionSAN "Ne4 Qxc8#"]
+[FEN "rnb1kb1r/pp1ppp1p/5np1/3qP3/8/2Q5/PP1B1PPP/RN2KBNR b KQkq - 1 9"]
+[SetUp "1"]
+
+9... Ne4 10. Qxc8# *

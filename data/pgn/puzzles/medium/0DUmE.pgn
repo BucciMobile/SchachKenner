@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DUmE"]
+[Difficulty "medium"]
+[Rating "1663"]
+[Themes "crushing endgame master masterVsMaster pawnEndgame short"]
+[GameUrl "https://lichess.org/game/tueK2GYT#85"]
+[Solution "e3f3 e6d5 f3e3 c5c4"]
+[SolutionSAN "Kf3 Kd5 Ke3 c4"]
+[FEN "8/8/4k1p1/p1p1pp2/P6P/2PPK1P1/8/8 w - - 0 43"]
+[SetUp "1"]
+
+43. Kf3 Kd5 44. Ke3 c4 *

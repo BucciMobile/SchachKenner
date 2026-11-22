@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FE9n"]
+[Difficulty "hard"]
+[Rating "1900"]
+[Themes "advantage capturingDefender castling defensiveMove long middlegame"]
+[GameUrl "https://lichess.org/game/gUNzABvw#27"]
+[Solution "c1g5 c6f3 e2f3 d8g5 f3b7 e8g8"]
+[SolutionSAN "Bg5 Bxf3 Qxf3 Qxg5 Qxb7 O-O"]
+[FEN "r2qk2r/1pp2ppp/p1b5/2b1P3/8/2P2N2/PP2QPPP/R1B2RK1 w kq - 2 14"]
+[SetUp "1"]
+
+14. Bg5 Bxf3 15. Qxf3 Qxg5 16. Qxb7 O-O *

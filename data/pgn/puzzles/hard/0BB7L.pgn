@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BB7L"]
+[Difficulty "hard"]
+[Rating "1773"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/r4kojjbh#59"]
+[Solution "e2f4 e7c5 g1h1 e4f2"]
+[SolutionSAN "Nxf4 Bc5+ Kh1 Nf2+"]
+[FEN "8/4b1pk/2p1P2p/1p3q2/4nr2/1B5P/1PP1N1P1/3QR1K1 w - - 3 30"]
+[SetUp "1"]
+
+30. Nxf4 Bc5+ 31. Kh1 Nf2+ *

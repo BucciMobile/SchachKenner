@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0218S"]
+[Difficulty "hard"]
+[Rating "2249"]
+[Themes "advancedPawn bishopEndgame crushing endgame exposedKing veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/t4k1RSvL#109"]
+[Solution "d5e6 f4f3 g2h1 h4h3 e6d5 g3g2 h1g1 h3g3 d5f3 g3f3"]
+[SolutionSAN "Be6 f3+ Kh1 Kh3 Bd5 g2+ Kg1 Kg3 Bxf3 Kxf3"]
+[FEN "8/8/8/3B4/5ppk/6p1/6K1/8 w - - 2 55"]
+[SetUp "1"]
+
+55. Be6 f3+ 56. Kh1 Kh3 57. Bd5 g2+ 58. Kg1 Kg3 59. Bxf3 Kxf3 *

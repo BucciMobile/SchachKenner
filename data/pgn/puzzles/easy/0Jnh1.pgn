@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jnh1"]
+[Difficulty "easy"]
+[Rating "1042"]
+[Themes "crushing endgame exposedKing long master"]
+[GameUrl "https://lichess.org/game/dxfUsDor#75"]
+[Solution "e2d4 b5b4 a3b4 a5b4 c3b4 e5d4"]
+[SolutionSAN "Nd4 b4+ axb4 axb4+ Kxb4 Kxd4"]
+[FEN "8/8/4b2p/pp2k3/2p2p2/P1K2P2/1P2N1PP/8 w - - 4 38"]
+[SetUp "1"]
+
+38. Nd4 b4+ 39. axb4 axb4+ 40. Kxb4 Kxd4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DXRX"]
+[Difficulty "medium"]
+[Rating "1690"]
+[Themes "crushing opening short trappedPiece"]
+[GameUrl "https://lichess.org/game/MyP3Kr1L#27"]
+[Solution "g6h5 f6g5 h6g5 e7g5"]
+[SolutionSAN "Bh5 Bg5 Qxg5 Qxg5"]
+[FEN "rn1k3r/pp1bq2p/2p1pbBQ/8/8/2N5/PPP2PPP/R3K1NR w KQ - 1 14"]
+[SetUp "1"]
+
+14. Bh5 Bg5 15. Qxg5 Qxg5 *

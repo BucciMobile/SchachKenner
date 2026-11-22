@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Srr"]
+[Difficulty "easy"]
+[Rating "1021"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/7R5kcTvN#105"]
+[Solution "e7d5 a2a1"]
+[SolutionSAN "Nd5 Ra1#"]
+[FEN "8/R3Np2/p5p1/7p/1P5P/5k2/r7/5K2 w - - 20 53"]
+[SetUp "1"]
+
+53. Nd5 Ra1# *

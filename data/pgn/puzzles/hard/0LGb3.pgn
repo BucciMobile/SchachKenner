@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LGb3"]
+[Difficulty "hard"]
+[Rating "2045"]
+[Themes "crushing defensiveMove endgame pawnEndgame veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/8nO9u2BT/black#112"]
+[Solution "a5b6 c3b4 b6a6 b4c5 b5b4 c5b4 a6b6 b4c4"]
+[SolutionSAN "Kb6 Kb4 Ka6 Kc5 b4 Kxb4 Kb6 Kc4"]
+[FEN "8/8/6p1/kp1Pp3/7P/2K2P2/8/8 b - - 0 56"]
+[SetUp "1"]
+
+56... Kb6 57. Kb4 Ka6 58. Kc5 b4 59. Kxb4 Kb6 60. Kc4 *

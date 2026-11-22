@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CeVc"]
+[Difficulty "easy"]
+[Rating "790"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/AtFpTrO7/black#30"]
+[Solution "a4a3 g3g7"]
+[SolutionSAN "a3 Qxg7#"]
+[FEN "r2qrnk1/1p3ppp/2p1bn2/3p1N2/pb1P4/2NB2Q1/PPPB1PPP/4RRK1 b - - 1 15"]
+[SetUp "1"]
+
+15... a3 16. Qxg7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dgqx"]
+[Difficulty "hard"]
+[Rating "2651"]
+[Themes "advantage defensiveMove long opening sacrifice"]
+[GameUrl "https://lichess.org/game/Xis5mai5/black#20"]
+[Solution "d7d6 d5f6 g7f6 b2f6 d8d7 h2h3"]
+[SolutionSAN "d6 Nf6+ gxf6 Bxf6 Qd7 h3"]
+[FEN "r1bq1rk1/ppppnppp/2n5/b2N4/2B1P3/P4N2/1B3PPP/R2Q1RK1 b - - 4 10"]
+[SetUp "1"]
+
+10... d6 11. Nf6+ gxf6 12. Bxf6 Qd7 13. h3 *

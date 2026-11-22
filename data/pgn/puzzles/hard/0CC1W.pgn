@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CC1W"]
+[Difficulty "hard"]
+[Rating "1914"]
+[Themes "advantage discoveredAttack discoveredCheck fork master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/1xNijYwl/black#70"]
+[Solution "b2g2 f4f5 g6g7 f5e6"]
+[SolutionSAN "Rg2 f5 Rg7 fxe6+"]
+[FEN "8/1q3p1k/p1R1n1rp/4P3/3pQP2/P2P3P/1r6/2R4K b - - 2 35"]
+[SetUp "1"]
+
+35... Rg2 36. f5 Rg7 37. fxe6+ *

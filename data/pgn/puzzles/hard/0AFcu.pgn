@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AFcu"]
+[Difficulty "hard"]
+[Rating "2317"]
+[Themes "crushing endgame long quietMove"]
+[GameUrl "https://lichess.org/game/qpIf62Uv#81"]
+[Solution "h7g7 a5a4 h2h4 a4a3 h4h5 b4b3"]
+[SolutionSAN "Kg7 a4 h4 a3 h5 b3"]
+[FEN "8/5p1K/2p1k3/p3P3/1pn2P2/8/P6P/2B5 w - - 1 41"]
+[SetUp "1"]
+
+41. Kg7 a4 42. h4 a3 43. h5 b3 *

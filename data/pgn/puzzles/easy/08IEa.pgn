@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08IEa"]
+[Difficulty "easy"]
+[Rating "1130"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/nhbHTkb5/black#52"]
+[Solution "d7f5 f3f5 g6f5 f1f5"]
+[SolutionSAN "Bf5 Rxf5 gxf5 Rxf5"]
+[FEN "5rk1/pp1b1p1p/5np1/4q3/3p4/3Q1R1P/PPB3P1/5RK1 b - - 1 26"]
+[SetUp "1"]
+
+26... Bf5 27. Rxf5 gxf5 28. Rxf5 *

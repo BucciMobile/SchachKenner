@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GzPa"]
+[Difficulty "medium"]
+[Rating "1446"]
+[Themes "mate mateIn4 middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/4EkDR7v7#59"]
+[Solution "f2f5 h6h2 g2h2 h8h2 h1g1 a8g8 f5g6 g8g6"]
+[SolutionSAN "Qf5 Qxh2+ Rxh2 Rxh2+ Kg1 Rg8+ Qg6 Rxg6#"]
+[FEN "r6r/1p2k3/p2p1p1q/3Pb3/4P3/3B4/PP3QRP/5R1K w - - 0 30"]
+[SetUp "1"]
+
+30. Qf5 Qxh2+ 31. Rxh2 Rxh2+ 32. Kg1 Rg8+ 33. Qg6 Rxg6# *

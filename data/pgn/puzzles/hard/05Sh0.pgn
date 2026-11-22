@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Sh0"]
+[Difficulty "hard"]
+[Rating "1798"]
+[Themes "crushing endgame master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/i6YKF7FZ#99"]
+[Solution "h5h6 c6f3 e2f3 f4h6"]
+[SolutionSAN "h6 Bxf3+ Kxf3 Bxh6"]
+[FEN "8/8/p1b2k2/2p1pp1P/P1N2b1P/1P3N2/4K3/8 w - - 0 50"]
+[SetUp "1"]
+
+50. h6 Bxf3+ 51. Kxf3 Bxh6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BxQ2"]
+[Difficulty "medium"]
+[Rating "1284"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/jXyWUKa1/black#58"]
+[Solution "g8g2 e3f4 b8a8 e6c7"]
+[SolutionSAN "Rxg2 Bf4+ Ka8 Nc7+"]
+[FEN "1k4r1/pb6/1p2Np2/8/1b5p/1P2B2P/P4PP1/2R4K b - - 2 29"]
+[SetUp "1"]
+
+29... Rxg2 30. Bf4+ Ka8 31. Nc7+ *

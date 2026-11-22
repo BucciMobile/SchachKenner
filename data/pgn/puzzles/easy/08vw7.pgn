@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08vw7"]
+[Difficulty "easy"]
+[Rating "895"]
+[Themes "crushing endgame hangingPiece master masterVsMaster rookEndgame short"]
+[GameUrl "https://lichess.org/game/VzY5zBUL#107"]
+[Solution "e7e6 f6e6 a7a8q a3a8"]
+[SolutionSAN "Rxe6+ Kxe6 a8=Q Rxa8"]
+[FEN "8/P3R3/4pk1p/5p1P/8/r5P1/5K2/8 w - - 5 54"]
+[SetUp "1"]
+
+54. Rxe6+ Kxe6 55. a8=Q Rxa8 *

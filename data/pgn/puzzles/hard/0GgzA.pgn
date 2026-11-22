@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GgzA"]
+[Difficulty "hard"]
+[Rating "1980"]
+[Themes "advantage attraction kingsideAttack middlegame veryLong"]
+[GameUrl "https://lichess.org/game/8Ubr46o0/black#30"]
+[Solution "f6e4 d5e7 d7e7 h4f5 e4d2 f5e7 g8h7 e3d2"]
+[SolutionSAN "Nxe4 Nxe7+ Qxe7 Nf5 Nxd2 Nxe7+ Kh7 Bxd2"]
+[FEN "r4rk1/2pqbpp1/p2pnn1p/1p1Np3/1PP1P2N/P2PB2P/3Q1PP1/R4RK1 b - - 1 15"]
+[SetUp "1"]
+
+15... Nxe4 16. Nxe7+ Qxe7 17. Nf5 Nxd2 18. Nxe7+ Kh7 19. Bxd2 *

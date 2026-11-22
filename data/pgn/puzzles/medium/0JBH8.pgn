@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JBH8"]
+[Difficulty "medium"]
+[Rating "1601"]
+[Themes "crushing hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/Fyk3Z9y9#53"]
+[Solution "f2d4 g5f4 g2g3 f4g5"]
+[SolutionSAN "Qxd4 Qxf4+ g3 Qg5"]
+[FEN "1r2r1k1/pp3pp1/4b2p/4P1q1/2ppBR2/P6P/1PP2QPK/4R3 w - - 2 27"]
+[SetUp "1"]
+
+27. Qxd4 Qxf4+ 28. g3 Qg5 *

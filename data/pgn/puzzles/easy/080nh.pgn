@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "080nh"]
+[Difficulty "easy"]
+[Rating "1157"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/hbPfvVIi#23"]
+[Solution "e1f1 g4d1"]
+[SolutionSAN "Kf1 Qd1#"]
+[FEN "r1b2kn1/pppp1p1p/1b6/3NQ3/2B1P1q1/7N/PPnP2PP/R1B1K2R w - - 0 12"]
+[SetUp "1"]
+
+12. Kf1 Qd1# *

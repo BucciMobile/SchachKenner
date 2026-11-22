@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09IUV"]
+[Difficulty "hard"]
+[Rating "1777"]
+[Themes "advantage endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/nVrviv7j/black#102"]
+[Solution "g2h2 g8h8 e7g7 h8h2"]
+[SolutionSAN "Rh2 Rh8 Rxg7 Rxh2"]
+[FEN "6R1/4r1P1/8/5p2/6k1/1P3p2/6r1/2R2K2 b - - 3 51"]
+[SetUp "1"]
+
+51... Rh2 52. Rh8 Rxg7 53. Rxh2 *

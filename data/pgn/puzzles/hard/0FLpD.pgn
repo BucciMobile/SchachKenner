@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FLpD"]
+[Difficulty "hard"]
+[Rating "2040"]
+[Themes "mate mateIn2 middlegame pin short"]
+[GameUrl "https://lichess.org/game/n3Gm2JOV#29"]
+[Solution "b5b8 d4e4 e1d1 d3c2"]
+[SolutionSAN "Qb8 Qe4+ Kd1 Bc2#"]
+[FEN "2B2knr/p4pp1/4p3/1Q2P2p/1b1q4/3b4/PP1N1PPP/R1B1K1NR w KQ - 1 15"]
+[SetUp "1"]
+
+15. Qb8 Qe4+ 16. Kd1 Bc2# *

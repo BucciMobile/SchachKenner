@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bky5"]
+[Difficulty "medium"]
+[Rating "1256"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/okSgmWL9/black#46"]
+[Solution "c6c5 a1d1 d7e6 d1d2"]
+[SolutionSAN "c5 Rd1 Ke6 Rxd2"]
+[FEN "4r3/2pk3p/p1p3p1/4Pp2/2P5/PP4P1/1B1b3P/R5K1 b - - 0 23"]
+[SetUp "1"]
+
+23... c5 24. Rd1 Ke6 25. Rxd2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08tQg"]
+[Difficulty "easy"]
+[Rating "962"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/nK59GUEW#77"]
+[Solution "c7c2 d3e1 g2f1 e1c2"]
+[SolutionSAN "Rxc2 Ne1+ Kf1 Nxc2"]
+[FEN "8/2R2pk1/p2rpb1p/1p5P/1P2BP2/P2nP3/2p1N1K1/8 w - - 0 39"]
+[SetUp "1"]
+
+39. Rxc2 Ne1+ 40. Kf1 Nxc2 *

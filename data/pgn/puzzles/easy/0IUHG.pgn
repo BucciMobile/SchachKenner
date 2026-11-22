@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IUHG"]
+[Difficulty "easy"]
+[Rating "1164"]
+[Themes "crushing endgame interference master masterVsMaster rookEndgame short"]
+[GameUrl "https://lichess.org/game/1jm1574b#89"]
+[Solution "a7a3 b2b3 a3a1 b3c3"]
+[SolutionSAN "Ra3 Rb3 Ra1 Rxc3+"]
+[FEN "8/R4pk1/4p1p1/3pP1P1/2pP4/2P2KP1/1r6/8 w - - 6 45"]
+[SetUp "1"]
+
+45. Ra3 Rb3 46. Ra1 Rxc3+ *

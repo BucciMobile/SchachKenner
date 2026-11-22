@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Goyw"]
+[Difficulty "hard"]
+[Rating "2713"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/HPgERLra/black#46"]
+[Solution "g7g5 c2b3 g8h8 e1e8 b7e4 e8e4"]
+[SolutionSAN "g5 Qb3+ Kh8 Re8 Qe4 Rxe4"]
+[FEN "rn3rk1/1qp3pp/3b1p1P/1p6/5p1B/8/1PQ2PP1/3RR1K1 b - - 1 23"]
+[SetUp "1"]
+
+23... g5 24. Qb3+ Kh8 25. Re8 Qe4 26. Rxe4 *

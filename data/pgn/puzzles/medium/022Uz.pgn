@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "022Uz"]
+[Difficulty "medium"]
+[Rating "1639"]
+[Themes "crushing discoveredAttack discoveredCheck endgame short"]
+[GameUrl "https://lichess.org/game/apnCE3CT#71"]
+[Solution "c4c5 d2d5 c5a5 d5a5"]
+[SolutionSAN "Rc5 Rd5+ Rxa5 Rxa5"]
+[FEN "8/p7/5kpp/b4p2/2R5/1B4P1/P2r1P1P/4K3 w - - 6 36"]
+[SetUp "1"]
+
+36. Rc5 Rd5+ 37. Rxa5 Rxa5 *

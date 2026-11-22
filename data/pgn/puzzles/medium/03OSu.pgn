@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03OSu"]
+[Difficulty "medium"]
+[Rating "1655"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/RwRswRMm#49"]
+[Solution "g7g1 f6h6 c1c2 c8f5"]
+[SolutionSAN "Rg1 Qh6+ Kc2 Bf5+"]
+[FEN "1nbk3r/5pRp/1Np2q2/p7/1b1p4/8/PP2N2P/R1KQ4 w - - 2 25"]
+[SetUp "1"]
+
+25. Rg1 Qh6+ 26. Kc2 Bf5+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HsBF"]
+[Difficulty "easy"]
+[Rating "1003"]
+[Themes "crushing endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/NSYYCaCH#75"]
+[Solution "d3f3 c6c1 h1h2 c1f4"]
+[SolutionSAN "Qf3 Qc1+ Kh2 Qf4+"]
+[FEN "8/6p1/p1q4p/4k3/4P3/3Q3P/6P1/7K w - - 11 38"]
+[SetUp "1"]
+
+38. Qf3 Qc1+ 39. Kh2 Qf4+ *

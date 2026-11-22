@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07ybB"]
+[Difficulty "medium"]
+[Rating "1621"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/bP3rQZ4C/black#62"]
+[Solution "f6d4 f2d4 f7f6 a3h3"]
+[SolutionSAN "Bd4 Qxd4+ f6 Rxh3"]
+[FEN "1r5r/1q3pkp/5bp1/1B6/P7/R6b/5Q1P/1R4K1 b - - 0 31"]
+[SetUp "1"]
+
+31... Bd4 32. Qxd4+ f6 33. Rxh3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EAR2"]
+[Difficulty "easy"]
+[Rating "799"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/Ct3kwGLX/black#100"]
+[Solution "h8g6 e8a8"]
+[SolutionSAN "Ng6 Ra8#"]
+[FEN "4R2n/8/kpK5/2p5/p7/7P/r5r1/8 b - - 1 50"]
+[SetUp "1"]
+
+50... Ng6 51. Ra8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lxt8"]
+[Difficulty "medium"]
+[Rating "1473"]
+[Themes "advantage fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/rk1RSfGC/black#48"]
+[Solution "h7h6 f1f5 g6f5 g5e6 g7f6 e6d4"]
+[SolutionSAN "h6 Qxf5 gxf5 Ne6+ Kf6 Nxd4"]
+[FEN "2r2b2/1p4kp/1p4p1/5bN1/3q4/1B6/P1P3PP/1R3Q1K b - - 5 24"]
+[SetUp "1"]
+
+24... h6 25. Qxf5 gxf5 26. Ne6+ Kf6 27. Nxd4 *

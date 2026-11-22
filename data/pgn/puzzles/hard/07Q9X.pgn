@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Q9X"]
+[Difficulty "hard"]
+[Rating "2435"]
+[Themes "crushing endgame long quietMove rookEndgame"]
+[GameUrl "https://lichess.org/game/vFrZ5Zk9#73"]
+[Solution "d7d4 d2d4 e3d4 h7h6 f4f5 e6f5"]
+[SolutionSAN "Rxd4 Rxd4 exd4 h6 f5+ exf5"]
+[FEN "8/3R1p1p/4p1k1/8/3b1PP1/4P1K1/3r4/8 w - - 0 37"]
+[SetUp "1"]
+
+37. Rxd4 Rxd4 38. exd4 h6 39. f5+ exf5 *

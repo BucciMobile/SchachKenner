@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03mv2"]
+[Difficulty "easy"]
+[Rating "787"]
+[Themes "crushing defensiveMove endgame pawnEndgame short zugzwang"]
+[GameUrl "https://lichess.org/game/MGKIFNov/black#160"]
+[Solution "g6g5 f4f5 h4h3 f5g5"]
+[SolutionSAN "g5+ Kf5 Kh3 Kxg5"]
+[FEN "8/8/6p1/8/5KPk/8/8/8 b - - 5 80"]
+[SetUp "1"]
+
+80... g5+ 81. Kf5 Kh3 82. Kxg5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06PHz"]
+[Difficulty "medium"]
+[Rating "1457"]
+[Themes "advancedPawn endgame mate mateIn2 pawnEndgame short"]
+[GameUrl "https://lichess.org/game/TRKE6TxS#85"]
+[Solution "a6a7 f4g3 e4e5 h3h2"]
+[SolutionSAN "a7 Kg3 e5 h2#"]
+[FEN "8/8/P1p5/2P5/2P1Pk1p/7p/6p1/6K1 w - - 1 43"]
+[SetUp "1"]
+
+43. a7 Kg3 44. e5 h2# *

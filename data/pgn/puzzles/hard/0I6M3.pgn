@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I6M3"]
+[Difficulty "hard"]
+[Rating "2713"]
+[Themes "advantage master middlegame veryLong"]
+[GameUrl "https://lichess.org/game/ShsOBJje#51"]
+[Solution "f5g6 a4b3 f6f7 f8f7 g6h7 g8h8 e2e5 f7g7 c2b3 c5c4"]
+[SolutionSAN "fxg6 axb3 f7+ Rxf7 gxh7+ Kh8 Qe5+ Rg7 cxb3 c4"]
+[FEN "r4rk1/3b3p/5Pp1/q1pp1P2/p7/1PN5/2PPQ2P/1K1R3R w - - 0 26"]
+[SetUp "1"]
+
+26. fxg6 axb3 27. f7+ Rxf7 28. gxh7+ Kh8 29. Qe5+ Rg7 30. cxb3 c4 *

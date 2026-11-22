@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04qhU"]
+[Difficulty "easy"]
+[Rating "884"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/TuLu71RB/black#70"]
+[Solution "h3h2 f1h2 h8h2 f2g1"]
+[SolutionSAN "Rh2+ Nxh2 Rxh2+ Kg1"]
+[FEN "7r/3q1k2/Q1R3p1/P2p4/2nPpPp1/6Pr/5K2/R4N2 b - - 0 35"]
+[SetUp "1"]
+
+35... Rh2+ 36. Nxh2 Rxh2+ 37. Kg1 *

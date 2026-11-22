@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Ypw"]
+[Difficulty "hard"]
+[Rating "2488"]
+[Themes "crushing deflection endgame veryLong"]
+[GameUrl "https://lichess.org/game/pCiargw6/black#64"]
+[Solution "g8f8 h3h8 f8e7 h8f6 e7d7 f6f7 e8e7 h1d1"]
+[SolutionSAN "Kf8 Qh8+ Ke7 Qf6+ Kd7 Qxf7+ Re7 Rd1+"]
+[FEN "r3r1k1/pp3p2/2p1p1p1/2P1P3/4q3/1P2B2Q/P5PK/7R b - - 5 32"]
+[SetUp "1"]
+
+32... Kf8 33. Qh8+ Ke7 34. Qf6+ Kd7 35. Qxf7+ Re7 36. Rd1+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MLeh"]
+[Difficulty "hard"]
+[Rating "1990"]
+[Themes "crushing discoveredAttack exposedKing fork long middlegame"]
+[GameUrl "https://lichess.org/game/rrlRTq0b/black#34"]
+[Solution "f7f5 e4d6 e7d6 e2e6 e8f8 g3d6"]
+[SolutionSAN "f5 Nxd6+ Bxd6 Qxe6+ Kf8 Bxd6+"]
+[FEN "2rqk2r/1p2bp2/p1bpp2p/6pn/3PN3/5NB1/PP2QPPP/2R2RK1 b k - 3 17"]
+[SetUp "1"]
+
+17... f5 18. Nxd6+ Bxd6 19. Qxe6+ Kf8 20. Bxd6+ *

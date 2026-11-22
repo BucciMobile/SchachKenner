@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07igg"]
+[Difficulty "easy"]
+[Rating "1034"]
+[Themes "clearance mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/A4sKXo6G#83"]
+[Solution "d4b2 h5g3 h2g3 g5h5"]
+[SolutionSAN "Qxb2 Ng3+ hxg3 Qh5#"]
+[FEN "5r2/p6k/8/3N1pqn/3Q4/5P2/1r4PP/3R2RK w - - 13 42"]
+[SetUp "1"]
+
+42. Qxb2 Ng3+ 43. hxg3 Qh5# *

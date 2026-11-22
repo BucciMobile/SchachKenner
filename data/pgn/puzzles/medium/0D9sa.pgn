@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D9sa"]
+[Difficulty "medium"]
+[Rating "1656"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/eTnO0vDa/black#56"]
+[Solution "d7e8 c5f5 b5f1 g1f1"]
+[SolutionSAN "Qe8 Qxf5 Bxf1 Kxf1"]
+[FEN "7k/2pq2p1/p5rp/1bQ2r2/3Bp3/P4P1P/3R2P1/5RK1 b - - 6 28"]
+[SetUp "1"]
+
+28... Qe8 29. Qxf5 Bxf1 30. Kxf1 *

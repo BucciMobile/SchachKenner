@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LJdV"]
+[Difficulty "hard"]
+[Rating "2008"]
+[Themes "crushing endgame master quietMove rookEndgame short"]
+[GameUrl "https://lichess.org/game/nxkMhT0O#133"]
+[Solution "g6f5 h5h4 a3a6 e4e3"]
+[SolutionSAN "Kxf5 h4 Ra6 Rxe3"]
+[FEN "8/8/6K1/5p1p/4r3/R3Pk2/8/8 w - - 1 67"]
+[SetUp "1"]
+
+67. Kxf5 h4 68. Ra6 Rxe3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FsRX"]
+[Difficulty "medium"]
+[Rating "1531"]
+[Themes "advantage long middlegame xRayAttack"]
+[GameUrl "https://lichess.org/game/ZnnfkNGg#47"]
+[Solution "c4d3 b6b2 c5c2 b2c2 d3c2 e4c2"]
+[SolutionSAN "Bd3 Rb2+ Rc2 Rxc2+ Bxc2 Bxc2"]
+[FEN "2k3r1/ppp1n3/1r2P2p/2R5/2BPb1pN/P3P3/4KPPP/R7 w - - 8 24"]
+[SetUp "1"]
+
+24. Bd3 Rb2+ 25. Rc2 Rxc2+ 26. Bxc2 Bxc2 *

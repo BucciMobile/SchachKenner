@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GbRm"]
+[Difficulty "easy"]
+[Rating "1124"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/6Pg1KipO#65"]
+[Solution "d2d3 d4g1"]
+[SolutionSAN "Rxd3 Qg1#"]
+[FEN "2r3k1/p4p2/3p2p1/1p1P3p/2Pq1P2/3n2rP/P1QR3K/2R2B2 w - - 0 33"]
+[SetUp "1"]
+
+33. Rxd3 Qg1# *

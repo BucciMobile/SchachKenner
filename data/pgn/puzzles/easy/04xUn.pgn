@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04xUn"]
+[Difficulty "easy"]
+[Rating "870"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/oPW3gWau#71"]
+[Solution "f5f7 d5f7 f3f7 g7f7"]
+[SolutionSAN "Qxf7+ Qxf7 Rxf7+ Kxf7"]
+[FEN "8/p4pk1/2p4r/3qPQ1P/P7/1P3RP1/5PK1/8 w - - 3 36"]
+[SetUp "1"]
+
+36. Qxf7+ Qxf7 37. Rxf7+ Kxf7 *

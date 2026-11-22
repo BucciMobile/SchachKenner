@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0581A"]
+[Difficulty "hard"]
+[Rating "1711"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/UeYLag25/black#62"]
+[Solution "h7h6 d2f4 b5b8 f4f7"]
+[SolutionSAN "h6 Qf4 Qb8 Qf7+"]
+[FEN "5bk1/3p2pp/p1n1p1P1/1q1pP3/3P4/PrB2N2/1P1Q1P2/2R3K1 b - - 0 31"]
+[SetUp "1"]
+
+31... h6 32. Qf4 Qb8 33. Qf7+ *

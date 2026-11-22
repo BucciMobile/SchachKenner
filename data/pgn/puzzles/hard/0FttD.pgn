@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FttD"]
+[Difficulty "hard"]
+[Rating "2155"]
+[Themes "advancedPawn advantage endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/O7jEc2zt#99"]
+[Solution "h3g4 f3g2 a4a3 e3f4"]
+[SolutionSAN "hxg4 fxg2 Ra3+ Kf4"]
+[FEN "8/5p2/2K5/7p/R5p1/4kp1P/6P1/8 w - - 0 50"]
+[SetUp "1"]
+
+50. hxg4 fxg2 51. Ra3+ Kf4 *

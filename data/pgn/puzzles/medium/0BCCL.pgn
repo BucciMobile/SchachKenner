@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BCCL"]
+[Difficulty "medium"]
+[Rating "1588"]
+[Themes "advantage exposedKing fork long middlegame"]
+[GameUrl "https://lichess.org/game/ysySrOLz#25"]
+[Solution "h1h7 c4d4 g1g2 d4e4 d1f3 e4h7"]
+[SolutionSAN "Rxh7 Qd4+ Kg2 Qe4+ Qf3 Qxh7"]
+[FEN "r1b1k2N/ppp3pp/2np4/4p3/2q5/8/PPPP4/RNBQ2KR w q - 0 13"]
+[SetUp "1"]
+
+13. Rxh7 Qd4+ 14. Kg2 Qe4+ 15. Qf3 Qxh7 *

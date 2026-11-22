@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00sco"]
+[Difficulty "easy"]
+[Rating "1154"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/4HkYGyHF/black#40"]
+[Solution "e7g5 h6g7"]
+[SolutionSAN "Bg5 Qg7#"]
+[FEN "r2q1rk1/pp2bp1b/2p1p2Q/3nP2N/2B5/2P5/PP3PPP/R3R1K1 b - - 2 20"]
+[SetUp "1"]
+
+20... Bg5 21. Qg7# *

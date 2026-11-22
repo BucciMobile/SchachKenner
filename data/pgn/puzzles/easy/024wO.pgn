@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "024wO"]
+[Difficulty "easy"]
+[Rating "577"]
+[Themes "mate mateIn2 middlegame pillsburysMate short"]
+[GameUrl "https://lichess.org/game/SkYpgfkS/black#42"]
+[Solution "h8h7 f3h3 e8h5 h3h5"]
+[SolutionSAN "Kxh7 Rh3+ Qh5 Rxh5#"]
+[FEN "3rqr1k/1p1b2pQ/p1p2p2/4pP2/4n3/1B2BR2/PPP3PP/R5K1 b - - 0 21"]
+[SetUp "1"]
+
+21... Kxh7 22. Rh3+ Qh5 23. Rxh5# *

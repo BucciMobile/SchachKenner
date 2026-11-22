@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03PtH"]
+[Difficulty "easy"]
+[Rating "1136"]
+[Themes "crushing discoveredAttack discoveredCheck endgame fork short"]
+[GameUrl "https://lichess.org/game/tf5rmdro#135"]
+[Solution "c6c4 d5b6 a8b7 b6c4"]
+[SolutionSAN "Qc4 Nb6+ Kb7 Nxc4+"]
+[FEN "K7/8/P1Q5/3nk3/8/1r6/8/8 w - - 5 68"]
+[SetUp "1"]
+
+68. Qc4 Nb6+ 69. Kb7 Nxc4+ *

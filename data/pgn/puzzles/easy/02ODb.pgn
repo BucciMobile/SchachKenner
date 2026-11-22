@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02ODb"]
+[Difficulty "easy"]
+[Rating "871"]
+[Themes "advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/lnNupAfo/black#70"]
+[Solution "f8g7 d6e8 g7g6 e8c7"]
+[SolutionSAN "Kg7 Ne8+ Kxg6 Nxc7"]
+[FEN "2b2k2/2r5/1p1Np1Np/p4p2/P7/2P5/1P3PPP/6K1 b - - 2 35"]
+[SetUp "1"]
+
+35... Kg7 36. Ne8+ Kxg6 37. Nxc7 *

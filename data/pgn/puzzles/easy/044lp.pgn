@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "044lp"]
+[Difficulty "easy"]
+[Rating "946"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/CiUi6ksC#41"]
+[Solution "d1d4 f4e2 g1g2 e2d4"]
+[SolutionSAN "Qd4 Ne2+ Kg2 Nxd4"]
+[FEN "r2q1r2/pp4kp/5pp1/3B4/2P2nP1/1P5P/P4P2/R2Q1RK1 w - - 0 21"]
+[SetUp "1"]
+
+21. Qd4 Ne2+ 22. Kg2 Nxd4 *

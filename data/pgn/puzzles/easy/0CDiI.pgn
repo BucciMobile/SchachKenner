@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CDiI"]
+[Difficulty "easy"]
+[Rating "645"]
+[Themes "advantage endgame fork master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/h9zEo1e3/black#82"]
+[Solution "c5b4 c3d5 e7d6 d5b4"]
+[SolutionSAN "Bb4 Nd5+ Kd6 Nxb4"]
+[FEN "8/4kp2/2B3p1/2b4p/P4P1P/1nN3K1/8/8 b - - 2 41"]
+[SetUp "1"]
+
+41... Bb4 42. Nd5+ Kd6 43. Nxb4 *

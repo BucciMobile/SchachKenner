@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I5MK"]
+[Difficulty "medium"]
+[Rating "1521"]
+[Themes "advantage fork opening short"]
+[GameUrl "https://lichess.org/game/jWad0JfS/black#28"]
+[Solution "e8g8 e2e6 f8f7 e6d5"]
+[SolutionSAN "O-O Qe6+ Rf7 Qxd5"]
+[FEN "r2qk2r/pppnb1pp/3p1p2/3n4/7B/5N1P/PP2QPP1/RN2R1K1 b kq - 1 14"]
+[SetUp "1"]
+
+14... O-O 15. Qe6+ Rf7 16. Qxd5 *

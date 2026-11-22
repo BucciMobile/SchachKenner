@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B3ST"]
+[Difficulty "medium"]
+[Rating "1655"]
+[Themes "fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/074MA3Na/black#40"]
+[Solution "c5e4 f5e7 g8h8 d4g7"]
+[SolutionSAN "Nxe4 Ne7+ Kh8 Bxg7#"]
+[FEN "r1q2rk1/pbp2ppp/1p6/2n2N2/3BBP2/P1Q3PP/1PP5/2KR3R b - - 0 20"]
+[SetUp "1"]
+
+20... Nxe4 21. Ne7+ Kh8 22. Bxg7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CPpc"]
+[Difficulty "medium"]
+[Rating "1228"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/Svu90E5G#47"]
+[Solution "f1a1 a7a1 b2a1 e7e1"]
+[SolutionSAN "Rxa1 Qxa1+ Bxa1 Re1#"]
+[FEN "5nk1/q1b1rppp/2p2p2/2P2B2/1P6/1Q5P/1B3PP1/r4RK1 w - - 0 24"]
+[SetUp "1"]
+
+24. Rxa1 Qxa1+ 25. Bxa1 Re1# *

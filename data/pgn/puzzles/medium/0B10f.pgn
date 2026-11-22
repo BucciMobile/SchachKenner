@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B10f"]
+[Difficulty "medium"]
+[Rating "1386"]
+[Themes "crushing fork long middlegame"]
+[GameUrl "https://lichess.org/game/jfh10IGO#43"]
+[Solution "d1f1 f6f1 g2f1 e5f3 h2g2 f3d2"]
+[SolutionSAN "Rf1 Rxf1 Bxf1 Nf3+ Kg2 Nxd2"]
+[FEN "6k1/pp1q2bp/2pp1rp1/4n3/2P3P1/3PB2P/PP1Q2BK/3R4 w - - 0 22"]
+[SetUp "1"]
+
+22. Rf1 Rxf1 23. Bxf1 Nf3+ 24. Kg2 Nxd2 *

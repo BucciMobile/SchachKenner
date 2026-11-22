@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0376x"]
+[Difficulty "easy"]
+[Rating "986"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/Nu9OmtGx#39"]
+[Solution "g7e5 d6e5 h8e5 g5e5"]
+[SolutionSAN "Be5+ Bxe5 Qxe5+ Qxe5"]
+[FEN "r1b4Q/p1pp2B1/1p1b3R/6q1/3nP3/3P2kP/PPP3P1/RN4K1 w - - 1 20"]
+[SetUp "1"]
+
+20. Be5+ Bxe5 21. Qxe5+ Qxe5 *

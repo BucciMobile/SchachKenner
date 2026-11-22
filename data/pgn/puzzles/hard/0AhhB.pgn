@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AhhB"]
+[Difficulty "hard"]
+[Rating "2307"]
+[Themes "crushing endgame master quietMove veryLong"]
+[GameUrl "https://lichess.org/game/lIfOA7qU#109"]
+[Solution "f7e6 d3e2 e6g4 e3g4 h3g4 e2e3 g4g5 e3f3 g3g4 e5e4 g5f5 e4e3"]
+[SolutionSAN "Be6 Ke2 Bg4 Nxg4 Kxg4 Ke3 Kxg5 Kxf3 g4 e4 Kf5 e3"]
+[FEN "8/5B2/1p6/p3p1p1/P7/1P1knPPK/8/8 w - - 24 55"]
+[SetUp "1"]
+
+55. Be6 Ke2 56. Bg4 Nxg4 57. Kxg4 Ke3 58. Kxg5 Kxf3 59. g4 e4 60. Kf5 e3 *

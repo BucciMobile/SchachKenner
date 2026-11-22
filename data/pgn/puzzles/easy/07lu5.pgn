@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07lu5"]
+[Difficulty "easy"]
+[Rating "564"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/SZKcLRIn/black#80"]
+[Solution "b2b5 e4e8 b5e8 e1e8"]
+[SolutionSAN "Qb5 Re8+ Qxe8 Qxe8+"]
+[FEN "6k1/p4r2/1p6/8/4RpP1/8/Pq5P/4Q1K1 b - - 0 40"]
+[SetUp "1"]
+
+40... Qb5 41. Re8+ Qxe8 42. Qxe8+ *

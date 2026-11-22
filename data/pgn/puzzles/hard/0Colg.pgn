@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Colg"]
+[Difficulty "hard"]
+[Rating "2441"]
+[Themes "crushing defensiveMove endgame knightEndgame long quietMove"]
+[GameUrl "https://lichess.org/game/tcsmBOkh#101"]
+[Solution "c4b5 f5f4 a2a3 d4d3 f1h2 d3e2"]
+[SolutionSAN "cxb5 f4 Ka3 Kd3 Nh2 Ke2"]
+[FEN "8/p7/8/1p3p2/2Pk3p/1P5P/K4pP1/5N2 w - - 2 51"]
+[SetUp "1"]
+
+51. cxb5 f4 52. Ka3 Kd3 53. Nh2 Ke2 *

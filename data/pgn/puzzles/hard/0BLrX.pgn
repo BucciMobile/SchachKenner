@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BLrX"]
+[Difficulty "hard"]
+[Rating "2612"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/uKLcUrxS#51"]
+[Solution "e4b7 f8g8 a4d1 c7c6"]
+[SolutionSAN "Bxb7 Rg8 Qd1 c6"]
+[FEN "5r1k/ppp1n3/1b3q1p/1P2p3/Q3B3/2PP1p1b/P2B1P1P/5RRK w - - 4 26"]
+[SetUp "1"]
+
+26. Bxb7 Rg8 27. Qd1 c6 *

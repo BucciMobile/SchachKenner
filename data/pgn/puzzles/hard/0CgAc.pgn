@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CgAc"]
+[Difficulty "hard"]
+[Rating "2385"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/fSrlbTSt#49"]
+[Solution "f3f7 d5b4 a2a3 c4a2"]
+[SolutionSAN "Qxf7 Nb4 a3 Qa2+"]
+[FEN "2kr2r1/pp3p2/2p1p2p/3n4/2qB3P/5QP1/PPP5/1K1R1R2 w - - 7 25"]
+[SetUp "1"]
+
+25. Qxf7 Nb4 26. a3 Qa2+ *

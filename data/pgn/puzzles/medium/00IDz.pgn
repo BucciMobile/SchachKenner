@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00IDz"]
+[Difficulty "medium"]
+[Rating "1621"]
+[Themes "crushing endgame long master quietMove"]
+[GameUrl "https://lichess.org/game/saSpYsAv#125"]
+[Solution "f6f7 d5f7 a5b6 f7d5 b6c5 c3b3"]
+[SolutionSAN "f7 Bxf7 Kb6 Bd5 Kc5 Kb3"]
+[FEN "8/8/2p2P2/K2b3p/7N/P1k5/8/8 w - - 0 63"]
+[SetUp "1"]
+
+63. f7 Bxf7 64. Kb6 Bd5 65. Kc5 Kb3 *

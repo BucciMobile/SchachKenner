@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ch44"]
+[Difficulty "easy"]
+[Rating "876"]
+[Themes "backRankMate mate mateIn2 middlegame short xRayAttack"]
+[GameUrl "https://lichess.org/game/9ZDbilKR#51"]
+[Solution "b1e1 d2e1 e6e1 e8e1"]
+[SolutionSAN "Rbe1 Qxe1+ Rxe1 Rxe1#"]
+[FEN "3rr3/p5pk/1ppBR2p/2P2p2/1P1P4/1Q6/3q1PPP/1R4K1 w - - 1 26"]
+[SetUp "1"]
+
+26. Rbe1 Qxe1+ 27. Rxe1 Rxe1# *

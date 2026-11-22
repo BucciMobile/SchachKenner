@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01QcQ"]
+[Difficulty "easy"]
+[Rating "632"]
+[Themes "endgame kingsideAttack mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/h6N2W0kY#65"]
+[Solution "a1e1 e7e1 d2e1 e8e1"]
+[SolutionSAN "Rxe1 Qxe1+ Bxe1 Rxe1#"]
+[FEN "4r1k1/2p1qpp1/3b3p/pP1p4/P2P4/7P/2QB1PP1/R3r1K1 w - - 0 33"]
+[SetUp "1"]
+
+33. Rxe1 Qxe1+ 34. Bxe1 Rxe1# *

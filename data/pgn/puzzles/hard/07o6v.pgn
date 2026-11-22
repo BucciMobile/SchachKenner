@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07o6v"]
+[Difficulty "hard"]
+[Rating "2264"]
+[Themes "crushing deflection endgame exposedKing long pawnEndgame"]
+[GameUrl "https://lichess.org/game/JwHI8mWx/black#72"]
+[Solution "e6e7 g6f5 e7d6 c4c5 d6c5 f5e5"]
+[SolutionSAN "Ke7 Kf5 Kd6 c5+ Kxc5 Kxe5"]
+[FEN "8/pp6/2p1k1K1/4p3/2P1P3/5P2/P7/8 b - - 2 36"]
+[SetUp "1"]
+
+36... Ke7 37. Kf5 Kd6 38. c5+ Kxc5 39. Kxe5 *

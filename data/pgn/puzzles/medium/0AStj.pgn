@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AStj"]
+[Difficulty "medium"]
+[Rating "1289"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/5R7cdixN#59"]
+[Solution "g2g3 h4f5 g3g2 h7h1"]
+[SolutionSAN "Kg3 Nf5+ Kg2 Rxh1"]
+[FEN "1k5r/p6r/Pp1pq3/2pNp3/2P1Q1pn/3P4/1P4K1/R1B4R w - - 0 30"]
+[SetUp "1"]
+
+30. Kg3 Nf5+ 31. Kg2 Rxh1 *

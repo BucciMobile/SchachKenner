@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DuvK"]
+[Difficulty "hard"]
+[Rating "1827"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/QUfLCUEA#45"]
+[Solution "c2c5 d6g6 f2f3 e4b1"]
+[SolutionSAN "Qc5 Qg6 f3 Bxb1"]
+[FEN "r5k1/1p3pp1/p1pq3p/3p4/PP1Pb3/4P3/2Q2PPP/1R3RK1 w - - 0 23"]
+[SetUp "1"]
+
+23. Qc5 Qg6 24. f3 Bxb1 *

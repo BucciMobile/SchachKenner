@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E41n"]
+[Difficulty "medium"]
+[Rating "1565"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/BUx3tLRL#17"]
+[Solution "g5f7 d6d5 f7d8 d5c4"]
+[SolutionSAN "Nxf7 d5 Nxd8 dxc4"]
+[FEN "r1bqk2r/pp2bppp/3p1n2/4p1N1/2Q5/8/PPPP1PPP/RNB1K2R w KQkq - 0 9"]
+[SetUp "1"]
+
+9. Nxf7 d5 10. Nxd8 dxc4 *

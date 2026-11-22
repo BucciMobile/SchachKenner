@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02lib"]
+[Difficulty "medium"]
+[Rating "1482"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/70rNAPPO/black#92"]
+[Solution "d7e5 f4f8 g8g7 f8b8"]
+[SolutionSAN "Ne5 Rf8+ Kxg7 Rxb8"]
+[FEN "1r4k1/3nP1P1/8/3p4/pp1PbR2/8/PP6/6K1 b - - 1 46"]
+[SetUp "1"]
+
+46... Ne5 47. Rf8+ Kxg7 48. Rxb8 *

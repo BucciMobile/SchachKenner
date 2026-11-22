@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06ujk"]
+[Difficulty "hard"]
+[Rating "2525"]
+[Themes "crushing middlegame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/Yv3zeSP5/black#38"]
+[Solution "f6d5 c2h7 g8h8 e3h3 d5f4 d2f4 d8d1 a1d1"]
+[SolutionSAN "Nd5 Bxh7+ Kh8 Rh3 Nf4 Bxf4 Qxd1+ Rxd1"]
+[FEN "r2q1rk1/1pp2ppp/p1b2n2/4P3/8/4R3/PPBB1P2/R2Q2K1 b - - 0 19"]
+[SetUp "1"]
+
+19... Nd5 20. Bxh7+ Kh8 21. Rh3 Nf4 22. Bxf4 Qxd1+ 23. Rxd1 *

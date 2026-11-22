@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KwXX"]
+[Difficulty "hard"]
+[Rating "1719"]
+[Themes "endgame mate mateIn2 morphysMate short"]
+[GameUrl "https://lichess.org/game/ezsMoM0g/black#86"]
+[Solution "a4c6 b7b8 d8d7 g6e8"]
+[SolutionSAN "Bc6 Rb8+ Kd7 Be8#"]
+[FEN "3k4/1R6/3Bp1B1/p2pP1K1/b1n5/2P5/P7/5r2 b - - 4 43"]
+[SetUp "1"]
+
+43... Bc6 44. Rb8+ Kd7 45. Be8# *

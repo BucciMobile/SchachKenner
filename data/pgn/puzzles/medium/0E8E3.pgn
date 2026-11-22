@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E8E3"]
+[Difficulty "medium"]
+[Rating "1363"]
+[Themes "endgame master mate mateIn1 oneMove queenEndgame"]
+[GameUrl "https://lichess.org/game/jPsGzc86/black#80"]
+[Solution "g7h6 d4h8"]
+[SolutionSAN "Kh6 Qh8#"]
+[FEN "8/1p3pk1/p3p1p1/P6p/3Q3P/2P2qP1/1P6/6K1 b - - 1 40"]
+[SetUp "1"]
+
+40... Kh6 41. Qh8# *

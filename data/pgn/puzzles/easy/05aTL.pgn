@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05aTL"]
+[Difficulty "easy"]
+[Rating "770"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/SBAMPtqb/black#14"]
+[Solution "a5b4 c4f7"]
+[SolutionSAN "axb4 Bxf7#"]
+[FEN "rn1qkbnr/3ppppp/2p5/p7/1PB5/1Q3P2/PB1P1PPP/RN2K2R b KQkq - 1 7"]
+[SetUp "1"]
+
+7... axb4 8. Bxf7# *

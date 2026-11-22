@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Fin"]
+[Difficulty "easy"]
+[Rating "1016"]
+[Themes "crushing endgame oneMove"]
+[GameUrl "https://lichess.org/game/nlrKE8UE/black#70"]
+[Solution "d1d5 e1e7"]
+[SolutionSAN "Qxd5 Qe7+"]
+[FEN "8/7k/5r2/1PPP1b2/8/5N1P/5PP1/3qQ1K1 b - - 2 35"]
+[SetUp "1"]
+
+35... Qxd5 36. Qe7+ *

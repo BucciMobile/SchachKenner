@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JLSE"]
+[Difficulty "medium"]
+[Rating "1444"]
+[Themes "crushing endgame knightEndgame short"]
+[GameUrl "https://lichess.org/game/CZm2oJrt#85"]
+[Solution "g6f5 f4f3 c5d3 b4b3"]
+[SolutionSAN "Kf5 f3 Nd3 b3"]
+[FEN "5k2/8/p3P1K1/2Np4/1p3p2/8/8/8 w - - 1 43"]
+[SetUp "1"]
+
+43. Kf5 f3 44. Nd3 b3 *

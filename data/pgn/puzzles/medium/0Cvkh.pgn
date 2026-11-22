@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cvkh"]
+[Difficulty "medium"]
+[Rating "1317"]
+[Themes "crushing endgame fork long master"]
+[GameUrl "https://lichess.org/game/Wp032A0h#77"]
+[Solution "d6f5 g4f2 d1c2 f2e4 f5g3 e4g3"]
+[SolutionSAN "Nf5 Nf2+ Kc2 Nxe4 Nxg3 Nxg3"]
+[FEN "5rk1/1p3p2/2pN4/p3P1p1/3PQ1n1/P5q1/1P4P1/3KR3 w - - 4 39"]
+[SetUp "1"]
+
+39. Nf5 Nf2+ 40. Kc2 Nxe4 41. Nxg3 Nxg3 *

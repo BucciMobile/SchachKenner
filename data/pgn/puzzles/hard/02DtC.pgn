@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02DtC"]
+[Difficulty "hard"]
+[Rating "2068"]
+[Themes "advancedPawn crushing defensiveMove endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/tvxglP3C/black#132"]
+[Solution "f1e1 e6d6 e1f1 f6f7 c4b4 d6c6"]
+[SolutionSAN "Re1+ Kd6 Rf1 f7 Kxb4 Kxc6"]
+[FEN "8/3R4/p1p1KP2/1pP5/1Pk5/8/8/5r2 b - - 4 66"]
+[SetUp "1"]
+
+66... Re1+ 67. Kd6 Rf1 68. f7 Kxb4 69. Kxc6 *

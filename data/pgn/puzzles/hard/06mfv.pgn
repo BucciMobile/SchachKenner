@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06mfv"]
+[Difficulty "hard"]
+[Rating "2378"]
+[Themes "crushing endgame master pawnEndgame quietMove short"]
+[GameUrl "https://lichess.org/game/RmgurHRG/black#90"]
+[Solution "d6e7 a3a4 h6h5 g4h5"]
+[SolutionSAN "Ke7 a4 h5 gxh5"]
+[FEN "8/8/3k1p1p/p3pP2/2p1P1PP/P2p4/1P1K4/8 b - - 1 45"]
+[SetUp "1"]
+
+45... Ke7 46. a4 h5 47. gxh5 *

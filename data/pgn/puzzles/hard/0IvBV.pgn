@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IvBV"]
+[Difficulty "hard"]
+[Rating "2178"]
+[Themes "advancedPawn advantage discoveredAttack discoveredCheck kingsideAttack long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/7vOFccRx/black#66"]
+[Solution "f7f6 g6h7 g8h7 f5e6 g7g6 e6d7"]
+[SolutionSAN "Rf6 Qh7+ Kxh7 fxe6+ g6 exd7"]
+[FEN "5rk1/p2q1rp1/1p2b1Qp/2p1pP2/4B3/P2PN3/1P2PP1P/R5K1 b - - 0 33"]
+[SetUp "1"]
+
+33... Rf6 34. Qh7+ Kxh7 35. fxe6+ g6 36. exd7 *

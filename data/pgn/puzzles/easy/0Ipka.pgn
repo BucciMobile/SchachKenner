@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ipka"]
+[Difficulty "easy"]
+[Rating "1147"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/Y1Duwbtv/black#76"]
+[Solution "d2d1q c7g7"]
+[SolutionSAN "d1=Q Qxg7#"]
+[FEN "4r2k/1PQ3p1/2P2n1p/3p1N2/8/1q6/3p1PPP/5RK1 b - - 3 38"]
+[SetUp "1"]
+
+38... d1=Q 39. Qxg7# *

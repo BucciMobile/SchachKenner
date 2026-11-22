@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03TYP"]
+[Difficulty "easy"]
+[Rating "1019"]
+[Themes "advancedPawn crushing endgame short"]
+[GameUrl "https://lichess.org/game/mSUTP2hg/black#84"]
+[Solution "e7b7 c6c7 b7c7 d6c7"]
+[SolutionSAN "Rb7 Rc7+ Rxc7 dxc7"]
+[FEN "8/p3r1k1/2RP4/3KP3/r5P1/1p2PR2/6nP/8 b - - 2 42"]
+[SetUp "1"]
+
+42... Rb7 43. Rc7+ Rxc7 44. dxc7 *

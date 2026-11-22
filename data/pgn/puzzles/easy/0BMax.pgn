@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BMax"]
+[Difficulty "easy"]
+[Rating "471"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/Xkpe5Y3s#39"]
+[Solution "e8a4 c2c1 a4d1 c1d1"]
+[SolutionSAN "Ba4 Rc1+ Bd1 Rxd1#"]
+[FEN "4B1k1/5ppp/p2B4/8/8/8/P1r2PPP/RN4K1 w - - 0 20"]
+[SetUp "1"]
+
+20. Ba4 Rc1+ 21. Bd1 Rxd1# *

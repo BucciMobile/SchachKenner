@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07HMI"]
+[Difficulty "easy"]
+[Rating "1188"]
+[Themes "crushing defensiveMove endgame knightEndgame short trappedPiece"]
+[GameUrl "https://lichess.org/game/zSauv0wF/black#90"]
+[Solution "c3d1 e3d2 d1e3 d2e3"]
+[SolutionSAN "Nd1+ Kd2 Ne3 Kxe3"]
+[FEN "8/7p/p1k2p2/1p2pP2/1P2P2P/2nNK3/8/8 b - - 3 45"]
+[SetUp "1"]
+
+45... Nd1+ 46. Kd2 Ne3 47. Kxe3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FQVu"]
+[Difficulty "medium"]
+[Rating "1482"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/pIRikPh4#43"]
+[Solution "f3c6 d7c6 b5c6 b8b2"]
+[SolutionSAN "Bc6 Qxc6 bxc6 Rxb2"]
+[FEN "1r3rk1/p2q1ppp/4n3/BPb5/R2p4/4PB2/1Q3PPP/3R2K1 w - - 3 22"]
+[SetUp "1"]
+
+22. Bc6 Qxc6 23. bxc6 Rxb2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MLxJ"]
+[Difficulty "hard"]
+[Rating "1726"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/8HicdYLI#35"]
+[Solution "g2c6 f6g4 h2h4 h6c6"]
+[SolutionSAN "Bxc6 Ng4 h4 Qxc6"]
+[FEN "3rr1k1/p1p2ppp/2p2n1q/5b2/2PP4/6P1/PB3PBP/R2Q1RK1 w - - 0 18"]
+[SetUp "1"]
+
+18. Bxc6 Ng4 19. h4 Qxc6 *

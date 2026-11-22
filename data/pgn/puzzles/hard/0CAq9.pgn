@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CAq9"]
+[Difficulty "hard"]
+[Rating "2795"]
+[Themes "advantage middlegame quietMove trappedPiece veryLong"]
+[GameUrl "https://lichess.org/game/5fwAX9OJ/black#24"]
+[Solution "c8e6 e3e4 f7f5 f1e2 f5e4 f3e1 c2e2 c3e2 e6c4 e2c3"]
+[SolutionSAN "Be6 e4 f5 Be2 fxe4 Ne1 Qxe2 Nxe2 Bxc4 Nc3"]
+[FEN "r1b2rk1/ppp2ppp/2n5/8/2P5/2N1PNKP/PPq3P1/R1B2B1R b - - 0 12"]
+[SetUp "1"]
+
+12... Be6 13. e4 f5 14. Be2 fxe4 15. Ne1 Qxe2 16. Nxe2 Bxc4 17. Nc3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EeRn"]
+[Difficulty "hard"]
+[Rating "1792"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/XXRRPmiY/black#30"]
+[Solution "f8g7 f3c3 d4c3 b5c6"]
+[SolutionSAN "Bg7 Qxc3 dxc3 Bxc6+"]
+[FEN "1r2kb1r/pp3p1p/2n1p1p1/1B1pP3/3p1P2/2q2Q1P/P1P2BP1/1R3RK1 b k - 3 15"]
+[SetUp "1"]
+
+15... Bg7 16. Qxc3 dxc3 17. Bxc6+ *

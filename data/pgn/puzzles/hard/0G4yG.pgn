@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G4yG"]
+[Difficulty "hard"]
+[Rating "1977"]
+[Themes "advancedPawn crushing defensiveMove endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/MfkuM54s/black#74"]
+[Solution "d4d8 h5h6 a6a5 h6h7 d8h8 g3h4"]
+[SolutionSAN "Rd8 h6 a5 h7 Rh8 Kh4"]
+[FEN "8/6R1/p4p2/4pk1P/3r4/5PK1/6P1/8 b - - 0 37"]
+[SetUp "1"]
+
+37... Rd8 38. h6 a5 39. h7 Rh8 40. Kh4 *

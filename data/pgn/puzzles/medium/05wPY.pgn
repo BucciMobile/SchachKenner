@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05wPY"]
+[Difficulty "medium"]
+[Rating "1660"]
+[Themes "advancedPawn bishopEndgame crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/eYQqS7kI/black#130"]
+[Solution "e5f4 h5h6 d8c7 h6h7 c7e5 g6h6 f4f5 g5g6 f5e4 g6g7"]
+[SolutionSAN "Kf4 h6 Bc7 h7 Be5 Kh6 Kf5 g6 Ke4 g7"]
+[FEN "3b4/8/6K1/4k1PP/8/8/8/8 b - - 0 65"]
+[SetUp "1"]
+
+65... Kf4 66. h6 Bc7 67. h7 Be5 68. Kh6 Kf5 69. g6 Ke4 70. g7 *

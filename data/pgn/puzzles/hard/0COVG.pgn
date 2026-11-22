@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0COVG"]
+[Difficulty "hard"]
+[Rating "1729"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/HCmi1zZJ/black#26"]
+[Solution "c6d4 b5c5 d4e2 d3e2"]
+[SolutionSAN "Nxd4 Qc5 Ne2+ Bxe2"]
+[FEN "r1bq1rk1/ppp3pp/2n1p3/1Q1pPpN1/3P4/2bB4/P1P2PPP/1RB2RK1 b - - 3 13"]
+[SetUp "1"]
+
+13... Nxd4 14. Qc5 Ne2+ 15. Bxe2 *

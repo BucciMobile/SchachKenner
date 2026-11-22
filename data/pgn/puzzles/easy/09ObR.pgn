@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09ObR"]
+[Difficulty "easy"]
+[Rating "751"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/b5hw266o/black#36"]
+[Solution "c7f4 d1d8"]
+[SolutionSAN "Qxf4 Rxd8#"]
+[FEN "3r1k1r/pbq2pp1/1p2BP1p/2p5/5Q2/2N2N2/PPP2PPP/3RR1K1 b - - 0 18"]
+[SetUp "1"]
+
+18... Qxf4 19. Rxd8# *

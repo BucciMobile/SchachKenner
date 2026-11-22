@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hww3"]
+[Difficulty "easy"]
+[Rating "884"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/uiTCRqz3#43"]
+[Solution "c4c7 c8h3 f1g1 e8e1"]
+[SolutionSAN "Rxc7 Bh3+ Kg1 Re1#"]
+[FEN "r1b1r1k1/1pp2ppp/8/p2p4/2R5/PQ3P2/1PB2P1P/5K2 w - - 0 22"]
+[SetUp "1"]
+
+22. Rxc7 Bh3+ 23. Kg1 Re1# *

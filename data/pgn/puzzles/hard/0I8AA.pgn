@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I8AA"]
+[Difficulty "hard"]
+[Rating "2745"]
+[Themes "clearance crushing middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/SqAa5wza/black#54"]
+[Solution "f7g6 h5g6 f6g7 d4f5 f8f5 d1d7 a5b6 g6b6"]
+[SolutionSAN "fxg6 Qxg6+ Bg7 Nf5 Rxf5 Rd7 Qb6+ Qxb6"]
+[FEN "4rrk1/1b3p2/p4bBp/qp5Q/3N4/2P4R/1P4P1/3R2K1 b - - 0 27"]
+[SetUp "1"]
+
+27... fxg6 28. Qxg6+ Bg7 29. Nf5 Rxf5 30. Rd7 Qb6+ 31. Qxb6 *

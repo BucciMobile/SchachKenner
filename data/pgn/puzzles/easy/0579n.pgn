@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0579n"]
+[Difficulty "easy"]
+[Rating "936"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/pMpydjaj/black#76"]
+[Solution "e2e1 h3h8 f8g7 b3g8"]
+[SolutionSAN "Re1 Rh8+ Kg7 Qg8#"]
+[FEN "5k2/p3q3/1p1p1p2/2p2Pp1/4r3/1Q5R/P1P1r1PP/5RK1 b - - 5 38"]
+[SetUp "1"]
+
+38... Re1 39. Rh8+ Kg7 40. Qg8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MVPi"]
+[Difficulty "medium"]
+[Rating "1208"]
+[Themes "advantage kingsideAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/TeYTlPOV#47"]
+[Solution "d3d5 d7d5 d1d5 e8e1"]
+[SolutionSAN "Qxd5+ Qxd5 Rxd5 Rxe1+"]
+[FEN "2r1r3/1p1q1k2/p4p1p/3p1bpP/8/3Q2B1/PP3PP1/3RR1K1 w - - 5 24"]
+[SetUp "1"]
+
+24. Qxd5+ Qxd5 25. Rxd5 Rxe1+ *

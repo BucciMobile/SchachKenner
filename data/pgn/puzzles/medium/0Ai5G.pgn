@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ai5G"]
+[Difficulty "medium"]
+[Rating "1365"]
+[Themes "crushing kingsideAttack long middlegame pin"]
+[GameUrl "https://lichess.org/game/THoYbcF9#41"]
+[Solution "d5c5 e6e1 g1g2 f5e4 b3d5 e4f3"]
+[SolutionSAN "Rxc5 Qe1+ Kg2 Be4 Bd5 Bxf3+"]
+[FEN "r4rk1/2p2p1p/p3q1p1/1ppR1b2/8/1B3Q2/PP3P1P/RN4K1 w - - 2 21"]
+[SetUp "1"]
+
+21. Rxc5 Qe1+ 22. Kg2 Be4 23. Bd5 Bxf3+ *

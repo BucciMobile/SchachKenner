@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B8WH"]
+[Difficulty "hard"]
+[Rating "1831"]
+[Themes "advantage deflection exposedKing fork long opening"]
+[GameUrl "https://lichess.org/game/LCMNryaJ/black#36"]
+[Solution "f6e4 e5c6 e8c6 g3g8 d8d7 g8h7"]
+[SolutionSAN "Ne4 Nxc6+ Qxc6 Qxg8+ Kd7 Qxh7"]
+[FEN "r1bkq1n1/pp2b2r/2p1pn2/3pN3/3P4/4P1Q1/PPP2PPB/RN3RK1 b - - 10 18"]
+[SetUp "1"]
+
+18... Ne4 19. Nxc6+ Qxc6 20. Qxg8+ Kd7 21. Qxh7 *

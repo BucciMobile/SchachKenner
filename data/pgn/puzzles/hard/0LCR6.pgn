@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LCR6"]
+[Difficulty "hard"]
+[Rating "2155"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/YrfMciRB/black#18"]
+[Solution "c6a5 f3g5 f7e8 d5c7"]
+[SolutionSAN "Na5 Ng5+ Ke8 Nc7+"]
+[FEN "r2q3r/pp2pkbp/2npbnp1/3N4/2Q1P3/5N2/PPPP1PPP/R1B1K2R b KQ - 3 9"]
+[SetUp "1"]
+
+9... Na5 10. Ng5+ Ke8 11. Nc7+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05nVL"]
+[Difficulty "easy"]
+[Rating "449"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/UGPMYhts/black#48"]
+[Solution "b8b5 g3g8 h8g8 g2g8"]
+[SolutionSAN "Rxb5 Rg8+ Rxg8 Qxg8#"]
+[FEN "1r1q1k1r/3npp2/4bb2/1B1p3p/P2P4/2B1PPR1/1P4Q1/2K3R1 b - - 4 24"]
+[SetUp "1"]
+
+24... Rxb5 25. Rg8+ Rxg8 26. Qxg8# *

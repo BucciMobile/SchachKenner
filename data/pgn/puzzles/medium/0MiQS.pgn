@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MiQS"]
+[Difficulty "medium"]
+[Rating "1626"]
+[Themes "crushing endgame kingsideAttack long pin"]
+[GameUrl "https://lichess.org/game/QGotnaq7#77"]
+[Solution "a5a6 c8g4 f2f3 h4f3 g1h1 f3d2"]
+[SolutionSAN "a6 Qg4 f3 Nxf3+ Kh1 Nxd2"]
+[FEN "r1q5/6k1/1R6/P2pP1pp/2pP1p1n/1p6/1P1Q1PPP/R5K1 w - - 8 39"]
+[SetUp "1"]
+
+39. a6 Qg4 40. f3 Nxf3+ 41. Kh1 Nxd2 *

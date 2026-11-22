@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07vUv"]
+[Difficulty "medium"]
+[Rating "1233"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/HOwhPlG1#21"]
+[Solution "f3e5 d6e5 b2e5 h3g2"]
+[SolutionSAN "Nxe5 Bxe5 Bxe5 Bxg2"]
+[FEN "rn3rk1/pp1q1ppp/2pb1n2/4p3/8/1P1P1NPb/PB2PPBP/RN1Q1RK1 w - - 0 11"]
+[SetUp "1"]
+
+11. Nxe5 Bxe5 12. Bxe5 Bxg2 *

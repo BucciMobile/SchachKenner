@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IshG"]
+[Difficulty "easy"]
+[Rating "1191"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/vcXGrhxI#21"]
+[Solution "g1e2 d4f3"]
+[SolutionSAN "Nge2 Nf3#"]
+[FEN "r1bqk1n1/pp3pb1/4p3/2pp2P1/3nP3/2NP2P1/PPP2P2/R1BQKBN1 w Qq - 0 11"]
+[SetUp "1"]
+
+11. Nge2 Nf3# *

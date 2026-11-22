@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CToT"]
+[Difficulty "easy"]
+[Rating "755"]
+[Themes "crushing endgame short skewer"]
+[GameUrl "https://lichess.org/game/yTicmbR8/black#92"]
+[Solution "e2a2 f7a7 a5b5 a7a2"]
+[SolutionSAN "Ra2 Ra7+ Kb5 Rxa2"]
+[FEN "8/5R2/5p2/k3p3/5nP1/5K2/4r3/8 b - - 1 46"]
+[SetUp "1"]
+
+46... Ra2 47. Ra7+ Kb5 48. Rxa2 *

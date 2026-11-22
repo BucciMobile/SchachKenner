@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DR4k"]
+[Difficulty "hard"]
+[Rating "1930"]
+[Themes "crushing defensiveMove endgame master pawnEndgame short"]
+[GameUrl "https://lichess.org/game/xPZPKZ0Y#61"]
+[Solution "g4g5 h7h6 g5h4 e5e4"]
+[SolutionSAN "Kg5 h6+ Kh4 e4"]
+[FEN "8/7p/1p2k3/4pp2/1PP2pK1/8/5PPP/8 w - - 0 31"]
+[SetUp "1"]
+
+31. Kg5 h6+ 32. Kh4 e4 *

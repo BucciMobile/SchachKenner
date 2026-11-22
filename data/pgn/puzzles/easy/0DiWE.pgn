@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DiWE"]
+[Difficulty "easy"]
+[Rating "400"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/EUPs52j5/black#46"]
+[Solution "f4d6 e2e8 d6f8 e8f8"]
+[SolutionSAN "Bxd6 Qe8+ Bf8 Qxf8#"]
+[FEN "7k/ppq2pp1/2pN3p/8/5b2/2PB1P1P/PP2QP2/6K1 b - - 0 23"]
+[SetUp "1"]
+
+23... Bxd6 24. Qe8+ Bf8 25. Qxf8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Mde1"]
+[Difficulty "medium"]
+[Rating "1383"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/81RZNGnr#21"]
+[Solution "d1e2 c6d4 e3d4 b7f3"]
+[SolutionSAN "Qe2 Nxd4 Bxd4 Bxf3"]
+[FEN "2kr1b1r/1bq1pppp/p1n5/1p6/3P2n1/1BN1BN2/PPP2PPP/R2Q1RK1 w - - 3 11"]
+[SetUp "1"]
+
+11. Qe2 Nxd4 12. Bxd4 Bxf3 *

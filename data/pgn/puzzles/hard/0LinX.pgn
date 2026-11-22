@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LinX"]
+[Difficulty "hard"]
+[Rating "2881"]
+[Themes "advantage endgame pawnEndgame veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/JLqtvCC9#83"]
+[Solution "d4c4 d6e5 d5d6 e5d6 c4b4 d6d5 c3c4 d5d4"]
+[SolutionSAN "Kc4 Ke5 d6 Kxd6 Kb4 Kd5 c4+ Kd4"]
+[FEN "8/8/3k1p1p/3P2p1/p2K2P1/2P5/6P1/8 w - - 0 42"]
+[SetUp "1"]
+
+42. Kc4 Ke5 43. d6 Kxd6 44. Kb4 Kd5 45. c4+ Kd4 *

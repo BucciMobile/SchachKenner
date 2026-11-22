@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08OhY"]
+[Difficulty "hard"]
+[Rating "2297"]
+[Themes "advantage defensiveMove endgame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/5FM8fZNV/black#64"]
+[Solution "h5h4 a4a5 h4g3 a5a6 h6f4 c1c2 h3g2 c6g2"]
+[SolutionSAN "h4 a5 hxg3 a6 Qxf4+ Kc2 Bg2 Qxg2"]
+[FEN "1kr5/p1p1R3/1pQp1p1q/1P5p/P1PB1P2/6Pb/8/2K5 b - - 0 32"]
+[SetUp "1"]
+
+32... h4 33. a5 hxg3 34. a6 Qxf4+ 35. Kc2 Bg2 36. Qxg2 *

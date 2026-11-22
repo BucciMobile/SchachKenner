@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MPik"]
+[Difficulty "medium"]
+[Rating "1317"]
+[Themes "dovetailMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/XvWqFqtF/black#34"]
+[Solution "e7f6 c7e5"]
+[SolutionSAN "Kf6 Qe5#"]
+[FEN "5bnr/2Qpkp2/p5pp/3p4/2q5/2N5/PP1K1P1P/4R3 b - - 1 17"]
+[SetUp "1"]
+
+17... Kf6 18. Qe5# *

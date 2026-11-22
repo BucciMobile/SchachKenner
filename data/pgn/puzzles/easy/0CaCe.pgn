@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CaCe"]
+[Difficulty "easy"]
+[Rating "1077"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/RJ8mifDY/black#64"]
+[Solution "f1d3 e3d3 e5f4 d3d4"]
+[SolutionSAN "Bxd3 Kxd3 Kf4 Kd4"]
+[FEN "8/8/2p2p1p/1p2kPp1/1P2P1P1/3NK2P/8/5b2 b - - 1 32"]
+[SetUp "1"]
+
+32... Bxd3 33. Kxd3 Kf4 34. Kd4 *

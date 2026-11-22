@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EloO"]
+[Difficulty "medium"]
+[Rating "1419"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/p4kxmtPh/black#50"]
+[Solution "h1a1 d2c3 a1c1 c3f6"]
+[SolutionSAN "Qa1 Bc3 Qc1 Bxf6"]
+[FEN "3r1rk1/5ppp/p4n2/1p1p4/1P5R/PB1Q1P2/3B1KPP/7q b - - 1 25"]
+[SetUp "1"]
+
+25... Qa1 26. Bc3 Qc1 27. Bxf6 *

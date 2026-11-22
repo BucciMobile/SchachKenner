@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09TdF"]
+[Difficulty "hard"]
+[Rating "2191"]
+[Themes "advantage defensiveMove endgame long quietMove"]
+[GameUrl "https://lichess.org/game/lGAZsj7Z/black#78"]
+[Solution "c2a1 c4e2 d2e2 h2h4 e2e4 h4h5"]
+[SolutionSAN "Nxa1 Qxe2 Rxe2 h4 Rxe4 h5"]
+[FEN "1k6/1p3B2/p1p4P/4p3/2Q1P3/P7/KPnrq2P/R7 b - - 3 39"]
+[SetUp "1"]
+
+39... Nxa1 40. Qxe2 Rxe2 41. h4 Rxe4 42. h5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03935"]
+[Difficulty "easy"]
+[Rating "504"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/nrKykyPi/black#46"]
+[Solution "h7h6 d3h7"]
+[SolutionSAN "h6 Qh7#"]
+[FEN "2r2rk1/6pp/1q2p3/p1ppP1N1/3P1p1P/2PQ2n1/PP4P1/R1B3K1 b - - 3 23"]
+[SetUp "1"]
+
+23... h6 24. Qh7# *

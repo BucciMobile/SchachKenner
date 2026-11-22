@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IPxl"]
+[Difficulty "medium"]
+[Rating "1511"]
+[Themes "crushing defensiveMove endgame pawnEndgame short zugzwang"]
+[GameUrl "https://lichess.org/game/Utl7QRql#71"]
+[Solution "f2f4 e5e4 a2a3 a5a4"]
+[SolutionSAN "f4+ Ke4 a3 a4"]
+[FEN "8/8/8/pp2kpK1/8/8/PP3P2/8 w - - 2 36"]
+[SetUp "1"]
+
+36. f4+ Ke4 37. a3 a4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fw3W"]
+[Difficulty "hard"]
+[Rating "1824"]
+[Themes "bishopEndgame crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/gFAIaCzH/black#98"]
+[Solution "d6c6 c2a4 b5a4 b4a4 c6b6 a4b4"]
+[SolutionSAN "Kc6 Bxa4 Bxa4 Kxa4 Kb6 Kb4"]
+[FEN "8/8/3k4/1b6/pK6/8/1PB5/8 b - - 7 49"]
+[SetUp "1"]
+
+49... Kc6 50. Bxa4 Bxa4 51. Kxa4 Kb6 52. Kb4 *

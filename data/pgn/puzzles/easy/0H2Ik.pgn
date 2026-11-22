@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H2Ik"]
+[Difficulty "easy"]
+[Rating "1147"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/d4hceFLQ/black#58"]
+[Solution "f8e8 f4h4"]
+[SolutionSAN "Rfe8 Rh4#"]
+[FEN "r4r1k/1pp1Npp1/p7/8/1P3R2/P7/6PP/7K b - - 0 29"]
+[SetUp "1"]
+
+29... Rfe8 30. Rh4# *

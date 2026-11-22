@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KXWt"]
+[Difficulty "medium"]
+[Rating "1354"]
+[Themes "advantage middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/l5nDBWly/black#30"]
+[Solution "a5b5 f3e2 f6e4 e2b5"]
+[SolutionSAN "Qb5 Be2 Nxe4 Bxb5"]
+[FEN "r4rk1/1p2ppbp/p1np1np1/q7/N3PP2/1P3B2/1P1B2PP/R2QK2R b KQ - 5 15"]
+[SetUp "1"]
+
+15... Qb5 16. Be2 Nxe4 17. Bxb5 *

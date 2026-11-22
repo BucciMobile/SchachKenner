@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08HTe"]
+[Difficulty "medium"]
+[Rating "1211"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/5XDsrxMQ#79"]
+[Solution "h2h1 e5a1 h1h2 a1g1"]
+[SolutionSAN "Kh1 Qa1+ Kh2 Qg1#"]
+[FEN "8/pp2NQpk/7p/4q3/8/1P5P/P3nPPK/8 w - - 7 40"]
+[SetUp "1"]
+
+40. Kh1 Qa1+ 41. Kh2 Qg1# *

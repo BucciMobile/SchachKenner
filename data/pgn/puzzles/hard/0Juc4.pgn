@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Juc4"]
+[Difficulty "hard"]
+[Rating "1822"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/aiE9Omsj#71"]
+[Solution "c5c6 d3d4 g3f2 c4e3"]
+[SolutionSAN "c6 Qxd4+ Bf2 Ne3"]
+[FEN "4r1k1/R4pp1/7p/2Pp4/2nP4/P2q1PB1/6PP/2Q3K1 w - - 2 36"]
+[SetUp "1"]
+
+36. c6 Qxd4+ 37. Bf2 Ne3 *

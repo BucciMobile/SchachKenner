@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MS0Q"]
+[Difficulty "medium"]
+[Rating "1226"]
+[Themes "crushing endgame master pin short"]
+[GameUrl "https://lichess.org/game/neBKSwCf#79"]
+[Solution "e2g2 g6h4 f3f2 h4g2"]
+[SolutionSAN "Rg2 Nh4+ Kf2 Nxg2"]
+[FEN "6r1/3p4/p3p1n1/P1k2p2/Rp3P2/1B1P1KPr/1PP1R3/8 w - - 5 40"]
+[SetUp "1"]
+
+40. Rg2 Nh4+ 41. Kf2 Nxg2 *

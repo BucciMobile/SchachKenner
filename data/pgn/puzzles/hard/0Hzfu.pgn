@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hzfu"]
+[Difficulty "hard"]
+[Rating "1780"]
+[Themes "clearance crushing endgame long pin"]
+[GameUrl "https://lichess.org/game/hGT48si0#71"]
+[Solution "d5d6 f4f1 e6e1 f1d3 b1c1 f8f1"]
+[SolutionSAN "d6 Qf1+ Qe1 Qd3+ Kc1 Rf1"]
+[FEN "5r2/4R2p/4Q1pk/p2P4/1p3q2/1P6/PP5P/1K6 w - - 4 36"]
+[SetUp "1"]
+
+36. d6 Qf1+ 37. Qe1 Qd3+ 38. Kc1 Rf1 *

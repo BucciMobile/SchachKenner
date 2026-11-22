@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01f3b"]
+[Difficulty "easy"]
+[Rating "1140"]
+[Themes "advancedPawn advantage endgame promotion short"]
+[GameUrl "https://lichess.org/game/VVE6zStV/black#70"]
+[Solution "e6e5 c6c7 e5d4 c7c8q"]
+[SolutionSAN "e5 c7 exd4 c8=Q+"]
+[FEN "6k1/8/2P1p1rp/1p1p4/1P1N4/2P2Pn1/1P4P1/1K3n2 b - - 0 35"]
+[SetUp "1"]
+
+35... e5 36. c7 exd4 37. c8=Q+ *

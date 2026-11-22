@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CukS"]
+[Difficulty "medium"]
+[Rating "1364"]
+[Themes "advantage long opening"]
+[GameUrl "https://lichess.org/game/8kUCJTEl/black#30"]
+[Solution "g5e3 f2e3 e5g3 e1e2 e8e3 e2e3"]
+[SolutionSAN "Qxe3+ Qxe3 Bxg3+ Ke2 Rxe3+ Kxe3"]
+[FEN "rn2r1k1/ppp2p2/3p3p/4b1q1/6b1/4PNP1/PPPN1QP1/R3KB1R b KQ - 3 15"]
+[SetUp "1"]
+
+15... Qxe3+ 16. Qxe3 Bxg3+ 17. Ke2 Rxe3+ 18. Kxe3 *

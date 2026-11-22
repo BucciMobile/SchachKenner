@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CqFj"]
+[Difficulty "easy"]
+[Rating "566"]
+[Themes "kingsideAttack mate mateIn2 middlegame pillsburysMate sacrifice short"]
+[GameUrl "https://lichess.org/game/2aEWExqX#43"]
+[Solution "h4f5 e6e1 a1e1 e8e1"]
+[SolutionSAN "Nf5 Qe1+ Rxe1 Rxe1#"]
+[FEN "4rnk1/ppb2ppp/2p1qp2/2P5/3P3N/PP3Q1P/1B3PP1/R5K1 w - - 3 22"]
+[SetUp "1"]
+
+22. Nf5 Qe1+ 23. Rxe1 Rxe1# *

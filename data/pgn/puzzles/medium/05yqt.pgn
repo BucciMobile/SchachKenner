@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05yqt"]
+[Difficulty "medium"]
+[Rating "1674"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/YzWHQPAh/black#48"]
+[Solution "f6e7 e6e7 e8e7 e1e7"]
+[SolutionSAN "Bxe7 Rxe7 Rxe7 Rxe7"]
+[FEN "4r2k/rq1nP2p/p2QRbp1/1pp3p1/8/1P1P3P/P1P2PP1/4R2K b - - 6 24"]
+[SetUp "1"]
+
+24... Bxe7 25. Rxe7 Rxe7 26. Rxe7 *

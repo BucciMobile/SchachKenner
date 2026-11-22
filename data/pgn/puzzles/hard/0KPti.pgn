@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KPti"]
+[Difficulty "hard"]
+[Rating "2067"]
+[Themes "advancedPawn crushing endgame master promotion veryLong"]
+[GameUrl "https://lichess.org/game/yAy1pxxo#99"]
+[Solution "f3g2 e8e7 a7e7 c4c3 e7e3 c3c2 e3b3 c2c1q"]
+[SolutionSAN "Kg2 Rxe7 Qxe7 c3 Qe3 c2 Qxb3 c1=Q"]
+[FEN "4r3/Q3R3/p1kn1p2/8/P1p5/1r3KP1/8/8 w - - 3 50"]
+[SetUp "1"]
+
+50. Kg2 Rxe7 51. Qxe7 c3 52. Qe3 c2 53. Qxb3 c1=Q *

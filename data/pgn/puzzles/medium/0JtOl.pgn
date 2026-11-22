@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JtOl"]
+[Difficulty "medium"]
+[Rating "1623"]
+[Themes "advantage deflection endgame long master quietMove superGM"]
+[GameUrl "https://lichess.org/game/gUeSnhzD#77"]
+[Solution "d6f7 b4b1 f3h3 b1g1 g2g1 h4h3"]
+[SolutionSAN "Nxf7 Rb1 Qh3 Rg1+ Kxg1 Qxh3"]
+[FEN "8/p4p1k/2pN2pb/7p/1r1P1P1q/4PQ2/P1R2PK1/8 w - - 0 39"]
+[SetUp "1"]
+
+39. Nxf7 Rb1 40. Qh3 Rg1+ 41. Kxg1 Qxh3 *

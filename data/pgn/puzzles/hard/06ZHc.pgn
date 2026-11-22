@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06ZHc"]
+[Difficulty "hard"]
+[Rating "1708"]
+[Themes "crushing endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/INdd59AJ/black#62"]
+[Solution "h7h5 d8d7 f8a3 b2a3"]
+[SolutionSAN "h5 Qxd7 Bxa3 bxa3"]
+[FEN "3Q1bk1/3n1ppp/1p4q1/8/8/B4B1P/1P3PP1/6K1 b - - 5 31"]
+[SetUp "1"]
+
+31... h5 32. Qxd7 Bxa3 33. bxa3 *

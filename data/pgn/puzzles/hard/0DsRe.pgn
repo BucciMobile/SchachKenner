@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DsRe"]
+[Difficulty "hard"]
+[Rating "2446"]
+[Themes "crushing defensiveMove endgame knightEndgame short"]
+[GameUrl "https://lichess.org/game/QfMHHJsu/black#108"]
+[Solution "c5d7 b6d7 e7d7 h4h5"]
+[SolutionSAN "Nd7 Nxd7 Kxd7 h5"]
+[FEN "8/4kpp1/1N5p/2n1PP2/7P/4K3/8/8 b - - 0 54"]
+[SetUp "1"]
+
+54... Nd7 55. Nxd7 Kxd7 56. h5 *

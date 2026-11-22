@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06com"]
+[Difficulty "hard"]
+[Rating "1948"]
+[Themes "crushing long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/1xuI4Oqy/black#46"]
+[Solution "a7a5 d3c3 f6c3 e3d4 c3d4 g4d4"]
+[SolutionSAN "a5 Rxc3 Qxc3 Bd4 Qxd4 Qxd4"]
+[FEN "r4rk1/pp3pp1/2p2q1p/8/6Q1/1PbRB2P/P4PP1/5RK1 b - - 7 23"]
+[SetUp "1"]
+
+23... a5 24. Rxc3 Qxc3 25. Bd4 Qxd4 26. Qxd4 *

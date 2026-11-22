@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00nAo"]
+[Difficulty "hard"]
+[Rating "1909"]
+[Themes "advancedPawn crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/r4wGrlgZ#79"]
+[Solution "d2d3 f2e2 d3d4 f3f2 a4a7 d7e6"]
+[SolutionSAN "Kd3 Qe2+ Kd4 f2 Qxa7+ Ke6"]
+[FEN "8/p2k4/2p5/8/Q7/2B2p2/PP1K1q2/8 w - - 0 40"]
+[SetUp "1"]
+
+40. Kd3 Qe2+ 41. Kd4 f2 42. Qxa7+ Ke6 *

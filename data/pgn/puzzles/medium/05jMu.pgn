@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05jMu"]
+[Difficulty "medium"]
+[Rating "1337"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/ig2Mk5oE/black#48"]
+[Solution "f8b8 b4b8 c7b8 a7d7"]
+[SolutionSAN "Rb8 Qxb8+ Bxb8 Rxd7"]
+[FEN "5rk1/R1bq2pp/2p1pp2/2Pp1n2/1QbP1P2/4PNP1/1B3KBP/8 b - - 5 24"]
+[SetUp "1"]
+
+24... Rb8 25. Qxb8+ Bxb8 26. Rxd7 *

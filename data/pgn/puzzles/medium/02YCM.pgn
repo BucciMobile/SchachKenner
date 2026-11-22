@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02YCM"]
+[Difficulty "medium"]
+[Rating "1315"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/7FnrYevz#45"]
+[Solution "g3f5 d4a1 c1c2 a1b2"]
+[SolutionSAN "Nxf5 Qa1+ Kc2 Qb2#"]
+[FEN "4rrk1/2p2pbp/1p6/4PbNp/3q1P2/pP1P2NP/P2Q4/2KR3R w - - 0 23"]
+[SetUp "1"]
+
+23. Nxf5 Qa1+ 24. Kc2 Qb2# *

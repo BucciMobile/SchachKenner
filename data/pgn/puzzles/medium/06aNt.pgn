@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06aNt"]
+[Difficulty "medium"]
+[Rating "1540"]
+[Themes "crushing hangingPiece middlegame pin short"]
+[GameUrl "https://lichess.org/game/f1mUupG6/black#66"]
+[Solution "b6c8 e7d7 c1f4 b8f4"]
+[SolutionSAN "Nc8 Rxd7 Qf4+ Qxf4"]
+[FEN "1Q4k1/3bR3/1np4r/pp1p2p1/8/PB3P1P/2P3PK/2q5 b - - 1 33"]
+[SetUp "1"]
+
+33... Nc8 34. Rxd7 Qf4+ 35. Qxf4 *

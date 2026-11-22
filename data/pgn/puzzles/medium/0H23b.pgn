@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H23b"]
+[Difficulty "medium"]
+[Rating "1316"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/NoNWBPWo/black#38"]
+[Solution "e8e7 e4h4 e7h7 g6h7"]
+[SolutionSAN "Re7 Rh4+ Rh7 Qxh7#"]
+[FEN "4rr1k/pp1n4/2pqbpQ1/8/3PR3/2P3P1/PP3P1P/R5K1 b - - 2 19"]
+[SetUp "1"]
+
+19... Re7 20. Rh4+ Rh7 21. Qxh7# *

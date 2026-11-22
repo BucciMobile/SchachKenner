@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Dut"]
+[Difficulty "medium"]
+[Rating "1499"]
+[Themes "bishopEndgame crushing discoveredAttack endgame master short"]
+[GameUrl "https://lichess.org/game/HlKnMqQU#73"]
+[Solution "a7c5 d4d3 e2d3 e3c5"]
+[SolutionSAN "Bxc5 d3+ Kxd3 Bxc5"]
+[FEN "8/B7/p1p5/2p1k2p/3p1p2/1P2b2P/P1P1K1P1/8 w - - 0 37"]
+[SetUp "1"]
+
+37. Bxc5 d3+ 38. Kxd3 Bxc5 *

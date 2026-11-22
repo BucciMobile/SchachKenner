@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08zVR"]
+[Difficulty "hard"]
+[Rating "2567"]
+[Themes "advantage kingsideAttack middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/bxEh9HLE/black#36"]
+[Solution "c4d5 e4g4 d5g5 f3f6 d6e5 g4g5 e6g5 f6g5"]
+[SolutionSAN "Qd5 Rg4+ Qg5 Qxf6 Be5 Rxg5+ Nxg5 Qxg5+"]
+[FEN "r1b2rk1/ppp2p1p/2nbnp2/8/2q1R3/5Q2/PB4PP/R6K b - - 1 18"]
+[SetUp "1"]
+
+18... Qd5 19. Rg4+ Qg5 20. Qxf6 Be5 21. Rxg5+ Nxg5 22. Qxg5+ *

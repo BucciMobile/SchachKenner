@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LbiG"]
+[Difficulty "hard"]
+[Rating "2309"]
+[Themes "crushing defensiveMove endgame long master pawnEndgame"]
+[GameUrl "https://lichess.org/game/QsQUELN0/black#90"]
+[Solution "f7e7 f5e5 e7d7 e5d5 h7h6 d5c5"]
+[SolutionSAN "Ke7 Ke5 Kd7 Kd5 h6 Kc5"]
+[FEN "8/5k1p/8/p4K1P/P7/8/8/8 b - - 4 45"]
+[SetUp "1"]
+
+45... Ke7 46. Ke5 Kd7 47. Kd5 h6 48. Kc5 *

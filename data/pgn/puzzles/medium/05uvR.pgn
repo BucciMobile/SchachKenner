@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05uvR"]
+[Difficulty "medium"]
+[Rating "1700"]
+[Themes "advantage interference middlegame short"]
+[GameUrl "https://lichess.org/game/JAqzaXpX/black#40"]
+[Solution "c5d5 f1f5 d5e6 f5h5"]
+[SolutionSAN "Qxd5 Rf5 Qe6 Rxh5"]
+[FEN "2r2rk1/1p1n1ppp/p2p4/2qP3n/P7/1P1B3P/2P1N1PB/Q4R1K b - - 2 20"]
+[SetUp "1"]
+
+20... Qxd5 21. Rf5 Qe6 22. Rxh5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DBtA"]
+[Difficulty "medium"]
+[Rating "1439"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/cwRWmK9r/black#50"]
+[Solution "e2a6 b1a1 e4e2 d2d1 e2c2 a1a2"]
+[SolutionSAN "Ba6 Ra1 Re2+ Kd1 Rxc2 Rxa2"]
+[FEN "5k1r/5p2/7p/p5p1/3pr3/1P6/q1PKbPPP/1RQ4R b - - 3 25"]
+[SetUp "1"]
+
+25... Ba6 26. Ra1 Re2+ 27. Kd1 Rxc2 28. Rxa2 *

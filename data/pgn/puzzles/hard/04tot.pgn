@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04tot"]
+[Difficulty "hard"]
+[Rating "1950"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/auWg13GF/black#72"]
+[Solution "e6f7 c7c3 g7g8 c3d2"]
+[SolutionSAN "Qf7 Qc3+ Kg8 Qxd2"]
+[FEN "8/2Q3k1/p3q1p1/3N3p/P3p3/4P1PP/3n2K1/8 b - - 1 36"]
+[SetUp "1"]
+
+36... Qf7 37. Qc3+ Kg8 38. Qxd2 *

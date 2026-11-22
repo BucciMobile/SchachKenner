@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DKob"]
+[Difficulty "medium"]
+[Rating "1450"]
+[Themes "advantage discoveredAttack discoveredCheck endgame short"]
+[GameUrl "https://lichess.org/game/5WSGASqv/black#120"]
+[Solution "d5d8 d4d5 b6c7 d5d6"]
+[SolutionSAN "Rd8 d5+ Kc7 d6+"]
+[FEN "R7/1n6/1kp1p1p1/1p1rPpPp/1PpP1P1P/2P1B3/1K6/8 b - - 27 60"]
+[SetUp "1"]
+
+60... Rd8 61. d5+ Kc7 62. d6+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FtKC"]
+[Difficulty "easy"]
+[Rating "945"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/d3W7rzD1#73"]
+[Solution "c3f3 f5e4 g2g3 e4f3"]
+[SolutionSAN "Qxf3 Be4 Kg3 Bxf3"]
+[FEN "8/2p2pk1/5n1p/5b2/6P1/2Q2q1P/1P3PK1/8 w - - 0 37"]
+[SetUp "1"]
+
+37. Qxf3 Be4 38. Kg3 Bxf3 *

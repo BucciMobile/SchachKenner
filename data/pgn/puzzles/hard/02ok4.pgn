@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02ok4"]
+[Difficulty "hard"]
+[Rating "2094"]
+[Themes "advantage master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/M58WN9bO#45"]
+[Solution "g3h2 f8f4 b4f4 g5f4"]
+[SolutionSAN "Kh2 Rxf4 Rxf4 Qxf4+"]
+[FEN "5r1k/Q1pb3p/6p1/2PPb1q1/1R3B2/2N3KP/PP4B1/R7 w - - 3 23"]
+[SetUp "1"]
+
+23. Kh2 Rxf4 24. Rxf4 Qxf4+ *

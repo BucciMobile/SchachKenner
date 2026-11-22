@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B5bM"]
+[Difficulty "easy"]
+[Rating "694"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/haEKYokQ/black#62"]
+[Solution "e8e3 d5d8 e3e8 d8e8"]
+[SolutionSAN "Rxe3 Rd8+ Re8 Rxe8#"]
+[FEN "4r1k1/p1r2pp1/B6p/1PNR2nq/8/4PpPb/P1Q5/1R4K1 b - - 1 31"]
+[SetUp "1"]
+
+31... Rxe3 32. Rd8+ Re8 33. Rxe8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F6AH"]
+[Difficulty "easy"]
+[Rating "1091"]
+[Themes "advancedPawn crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/gyQipvxk/black#42"]
+[Solution "b5b4 f5f6 g7h6 f6e7"]
+[SolutionSAN "b4 f6+ Kh6 fxe7"]
+[FEN "r4r2/4npk1/2pp2p1/pp2pP1p/3nP2P/P1NP4/BPPR3P/2K2R2 b - - 0 21"]
+[SetUp "1"]
+
+21... b4 22. f6+ Kh6 23. fxe7 *

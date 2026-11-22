@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IpRi"]
+[Difficulty "medium"]
+[Rating "1544"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/JqRVxA3o#103"]
+[Solution "f1f8 c6g2 g3f4 g2f3"]
+[SolutionSAN "Rxf8 Qg2+ Kf4 Qf3#"]
+[FEN "5r2/1b5k/p1q3pp/1p2B3/3Q2PP/1B4K1/P7/5R2 w - - 3 52"]
+[SetUp "1"]
+
+52. Rxf8 Qg2+ 53. Kf4 Qf3# *

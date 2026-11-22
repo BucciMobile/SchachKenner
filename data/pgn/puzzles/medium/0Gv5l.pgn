@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gv5l"]
+[Difficulty "medium"]
+[Rating "1402"]
+[Themes "fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/uAJijpA5/black#30"]
+[Solution "d5c4 b5d7 c7d7 a4d7"]
+[SolutionSAN "Bxc4 Bxd7+ Qxd7 Qxd7#"]
+[FEN "2r1kb1r/2qp1p1p/1p2p1p1/pB1bP1B1/Q1P4P/8/PP3PP1/2KR3R b k - 0 15"]
+[SetUp "1"]
+
+15... Bxc4 16. Bxd7+ Qxd7 17. Qxd7# *

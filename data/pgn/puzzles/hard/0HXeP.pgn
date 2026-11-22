@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HXeP"]
+[Difficulty "hard"]
+[Rating "1825"]
+[Themes "crushing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/gMhQbqR1#23"]
+[Solution "h5g6 b6b2 a1b1 b2c3 g6h7 g8h8 d2c3 g7c3"]
+[SolutionSAN "hxg6 Qxb2 Rb1 Qxc3 gxh7+ Kh8 Qxc3 Bxc3+"]
+[FEN "r1b2rk1/pp2ppbp/1qnp2p1/2p3BP/2P1P3/P1N2N2/1PPQ1PP1/R3K2R w KQ - 1 12"]
+[SetUp "1"]
+
+12. hxg6 Qxb2 13. Rb1 Qxc3 14. gxh7+ Kh8 15. Qxc3 Bxc3+ *

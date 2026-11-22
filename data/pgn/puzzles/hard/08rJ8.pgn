@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08rJ8"]
+[Difficulty "hard"]
+[Rating "2135"]
+[Themes "advantage defensiveMove long opening trappedPiece"]
+[GameUrl "https://lichess.org/game/FYx2WT9o#23"]
+[Solution "c3g7 e7f6 e2b5 e8e7 g7f6 e7f6"]
+[SolutionSAN "Qxg7 Bf6 Bb5+ Ke7 Qxf6+ Kxf6"]
+[FEN "r1bqk2r/pn2bpp1/1p1p2np/8/4P3/2Q2N2/PPP1BPPP/RNB2RK1 w kq - 4 12"]
+[SetUp "1"]
+
+12. Qxg7 Bf6 13. Bb5+ Ke7 14. Qxf6+ Kxf6 *

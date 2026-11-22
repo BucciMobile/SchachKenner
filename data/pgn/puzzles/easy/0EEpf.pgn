@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EEpf"]
+[Difficulty "easy"]
+[Rating "1036"]
+[Themes "advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/j70ojw7M#61"]
+[Solution "c5c3 b4a2 c1a1 a2c3"]
+[SolutionSAN "R5c3 Na2 Ra1 Nxc3+"]
+[FEN "r3r3/1p4pp/2pk1p2/p1Rp4/Pn1P4/4P1P1/1P1NKP1P/2R5 w - - 0 31"]
+[SetUp "1"]
+
+31. R5c3 Na2 32. Ra1 Nxc3+ *

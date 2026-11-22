@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Of9z"]
+[Difficulty "medium"]
+[Rating "1580"]
+[Themes "crushing long opening"]
+[GameUrl "https://lichess.org/game/ImcZBXHb/black#16"]
+[Solution "c5e3 c6e7 e3f2 e2f2 f6f2 e1f2"]
+[SolutionSAN "Bxe3 Nxe7 Bxf2+ Qxf2 Qxf2+ Kxf2"]
+[FEN "r1b1k2r/p1ppnppp/1pN2q2/2b5/4P3/2P1B3/PP2QPPP/RN2KB1R b KQkq - 0 8"]
+[SetUp "1"]
+
+8... Bxe3 9. Nxe7 Bxf2+ 10. Qxf2 Qxf2+ 11. Kxf2 *

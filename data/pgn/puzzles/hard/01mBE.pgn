@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01mBE"]
+[Difficulty "hard"]
+[Rating "2726"]
+[Themes "crushing defensiveMove endgame pawnEndgame veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/HwU6hxlJ#83"]
+[Solution "f1g2 e6e5 d4e5 f4e5 g2f1 e5f5 f1e1 g5g4 h3h4 f5g6"]
+[SolutionSAN "Kg2 e5 dxe5 Kxe5 Kf1 Kf5 Ke1 g4 h4 Kg6"]
+[FEN "8/8/p3p3/3p2p1/1P1Ppk2/2P4P/5P2/5K2 w - - 3 42"]
+[SetUp "1"]
+
+42. Kg2 e5 43. dxe5 Kxe5 44. Kf1 Kf5 45. Ke1 g4 46. h4 Kg6 *

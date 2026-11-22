@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08FkA"]
+[Difficulty "medium"]
+[Rating "1679"]
+[Themes "advantage kingsideAttack master middlegame pin short"]
+[GameUrl "https://lichess.org/game/XbC8ZQ3V/black#32"]
+[Solution "c6e7 g6h7 g8f7 h1h6"]
+[SolutionSAN "Ne7 Qh7+ Kf7 Rxh6"]
+[FEN "r1bq1rk1/pp4b1/2n1p1Qp/2ppP1p1/3P2p1/2PB2P1/PP1N1PP1/R3K2R b KQ - 1 16"]
+[SetUp "1"]
+
+16... Ne7 17. Qh7+ Kf7 18. Rxh6 *

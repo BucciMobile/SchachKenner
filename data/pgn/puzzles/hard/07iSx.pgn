@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07iSx"]
+[Difficulty "hard"]
+[Rating "1890"]
+[Themes "crushing discoveredAttack discoveredCheck fork intermezzo middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/jGyNXGlk#35"]
+[Solution "e4c5 b7g2 h1g1 d6c5 f1f2 g2f3 g1f1 f3d1"]
+[SolutionSAN "Nxc5 Bxg2+ Kg1 Bxc5+ Rf2 Bf3+ Kf1 Bxd1"]
+[FEN "1n2k3/1bpp2rB/1p1bp2p/2q5/p3NP2/8/PPP3PP/R2Q1R1K w - - 5 18"]
+[SetUp "1"]
+
+18. Nxc5 Bxg2+ 19. Kg1 Bxc5+ 20. Rf2 Bf3+ 21. Kf1 Bxd1 *

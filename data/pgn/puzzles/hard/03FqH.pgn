@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03FqH"]
+[Difficulty "hard"]
+[Rating "1712"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/AqpLfsu3/black#52"]
+[Solution "g6g5 d4g4 f8f6 g4g5"]
+[SolutionSAN "g5 Rg4 Rf6 Rxg5+"]
+[FEN "2r2rk1/3p3p/4p1pP/1p1b1q2/3R3Q/6B1/1P3PP1/4R1K1 b - - 1 26"]
+[SetUp "1"]
+
+26... g5 27. Rg4 Rf6 28. Rxg5+ *

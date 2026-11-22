@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F44W"]
+[Difficulty "medium"]
+[Rating "1423"]
+[Themes "advancedPawn advantage defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/ohUO47yj#79"]
+[Solution "h7h8 e8d7 h8h7 d7c6 h7f7 b3b2"]
+[SolutionSAN "Rh8+ Kd7 Rh7+ Kc6 Rf7 b2"]
+[FEN "2r1k3/7R/5p2/5P2/4PB2/1p3K1P/n5P1/8 w - - 0 40"]
+[SetUp "1"]
+
+40. Rh8+ Kd7 41. Rh7+ Kc6 42. Rf7 b2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F2Tu"]
+[Difficulty "medium"]
+[Rating "1527"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/hmSrRHdW/black#40"]
+[Solution "g5c1 d7e8 e4e8 f1c1"]
+[SolutionSAN "Qc1 Qxe8+ Rxe8 Rxc1"]
+[FEN "4r1k1/p1pQ1pp1/7p/2pR2q1/4r3/2P5/PP3PPP/5RK1 b - - 2 20"]
+[SetUp "1"]
+
+20... Qc1 21. Qxe8+ Rxe8 22. Rxc1 *

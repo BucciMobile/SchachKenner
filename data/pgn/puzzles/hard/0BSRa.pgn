@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BSRa"]
+[Difficulty "hard"]
+[Rating "2081"]
+[Themes "advantage attraction master middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/4riBoYiV/black#50"]
+[Solution "d7f6 g4g6 h7g6 f3e5"]
+[SolutionSAN "Nf6 Qxg6+ Kxg6 Nxe5+"]
+[FEN "1r3r2/3np1bk/ppq3np/2p1p3/4N1Q1/2P2NPP/PP6/R1B1R1K1 b - - 1 25"]
+[SetUp "1"]
+
+25... Nf6 26. Qxg6+ Kxg6 27. Nxe5+ *

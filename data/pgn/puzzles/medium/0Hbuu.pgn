@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hbuu"]
+[Difficulty "medium"]
+[Rating "1417"]
+[Themes "discoveredAttack discoveredCheck endgame mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/tKh7wgg8/black#64"]
+[Solution "c8e8 h6f8"]
+[SolutionSAN "Rce8 Bf8#"]
+[FEN "2r4r/1p1nN2k/p2p2pB/8/2PpP3/1P4P1/P5K1/7R b - - 0 32"]
+[SetUp "1"]
+
+32... Rce8 33. Bf8# *

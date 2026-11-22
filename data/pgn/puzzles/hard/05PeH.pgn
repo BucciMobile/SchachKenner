@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05PeH"]
+[Difficulty "hard"]
+[Rating "1719"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/ZLe2GBhE/black#64"]
+[Solution "d7f8 c2c8 d8c8 c1c8"]
+[SolutionSAN "Nf8 Rc8 Qxc8 Qxc8"]
+[FEN "3q4/pp1n1pk1/6p1/3pPp2/3P3p/BP4rP/P1R3P1/2Q3K1 b - - 4 32"]
+[SetUp "1"]
+
+32... Nf8 33. Rc8 Qxc8 34. Qxc8 *

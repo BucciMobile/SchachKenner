@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0INyX"]
+[Difficulty "hard"]
+[Rating "1978"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/FSVnzrsT/black#132"]
+[Solution "e6d7 c5b6 a6a5 b6a5 d7c6 a5a6"]
+[SolutionSAN "Kd7 Kb6 a5 Kxa5 Kc6 Ka6"]
+[FEN "8/8/p3k3/2K5/1P6/8/8/8 b - - 4 66"]
+[SetUp "1"]
+
+66... Kd7 67. Kb6 a5 68. Kxa5 Kc6 69. Ka6 *

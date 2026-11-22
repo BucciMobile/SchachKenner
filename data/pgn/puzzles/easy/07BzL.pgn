@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07BzL"]
+[Difficulty "easy"]
+[Rating "654"]
+[Themes "kingsideAttack master mate mateIn2 middlegame pillsburysMate short"]
+[GameUrl "https://lichess.org/game/IBErGUdr/black#36"]
+[Solution "f6e8 e2e8 d8e8 e1e8"]
+[SolutionSAN "Nxe8 Qxe8+ Qxe8 Rxe8#"]
+[FEN "r1bqR1k1/1pp2pp1/p1np1n1p/1N6/8/3B4/PPP1QPPP/4R1K1 b - - 1 18"]
+[SetUp "1"]
+
+18... Nxe8 19. Qxe8+ Qxe8 20. Rxe8# *

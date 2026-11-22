@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "016sC"]
+[Difficulty "easy"]
+[Rating "768"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/52CuEb9p/black#52"]
+[Solution "f4d3 c6c8 b8c8 c1c8"]
+[SolutionSAN "Nd3 Rc8+ Rxc8 Rxc8+"]
+[FEN "1r2k2r/4bp2/2R1p1p1/pp2PnN1/1p1P1n1p/5N1P/PP3BP1/1KR5 b k - 1 26"]
+[SetUp "1"]
+
+26... Nd3 27. Rc8+ Rxc8 28. Rxc8+ *

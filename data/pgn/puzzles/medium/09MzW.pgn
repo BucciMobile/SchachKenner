@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09MzW"]
+[Difficulty "medium"]
+[Rating "1384"]
+[Themes "crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/kWkCK2BW#91"]
+[Solution "f3g4 h5g4 c6b5 f4f3 g2f3 g4f3"]
+[SolutionSAN "fxg4 hxg4 Kb5 f3 gxf3 gxf3"]
+[FEN "3k4/p2P4/2K5/p6p/P4pp1/5P2/6PP/8 w - - 0 46"]
+[SetUp "1"]
+
+46. fxg4 hxg4 47. Kb5 f3 48. gxf3 gxf3 *

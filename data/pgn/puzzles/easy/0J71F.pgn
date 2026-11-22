@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J71F"]
+[Difficulty "easy"]
+[Rating "1139"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/hukotPZD#49"]
+[Solution "f6g7 b6f2 g1h1 f2f1 e1f1 f8f1"]
+[SolutionSAN "Qg7 Qxf2+ Kh1 Qf1+ Rxf1 Rxf1#"]
+[FEN "r4r2/kp2R3/pqp2Q2/7p/2B5/2NP4/PPP2PPP/4R1K1 w - - 6 25"]
+[SetUp "1"]
+
+25. Qg7 Qxf2+ 26. Kh1 Qf1+ 27. Rxf1 Rxf1# *

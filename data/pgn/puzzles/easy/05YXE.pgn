@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05YXE"]
+[Difficulty "easy"]
+[Rating "1189"]
+[Themes "crushing endgame long master queenRookEndgame"]
+[GameUrl "https://lichess.org/game/DyDHisLQ#87"]
+[Solution "f3f2 g2e4 e2d2 e4f5 f2f5 e6f5"]
+[SolutionSAN "Rf2 Qe4+ Kd2 Qxf5 Rxf5 Kxf5"]
+[FEN "8/p6p/1p2k3/5R2/8/2P2R2/PP2K1q1/8 w - - 1 44"]
+[SetUp "1"]
+
+44. Rf2 Qe4+ 45. Kd2 Qxf5 46. Rxf5 Kxf5 *

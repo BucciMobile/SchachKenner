@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dqyn"]
+[Difficulty "hard"]
+[Rating "2287"]
+[Themes "advantage endgame exposedKing fork long"]
+[GameUrl "https://lichess.org/game/PB330Dtu/black#96"]
+[Solution "f7g6 e4e6 g6g5 f1g1 g5f4 e6d6"]
+[SolutionSAN "Kg6 Re6+ Kg5 Rg1+ Kf4 Rxd6"]
+[FEN "8/1r3k1p/p2b3P/Kbp5/4R3/P1P5/8/5R2 b - - 8 48"]
+[SetUp "1"]
+
+48... Kg6 49. Re6+ Kg5 50. Rg1+ Kf4 51. Rxd6 *

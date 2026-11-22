@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03SX5"]
+[Difficulty "easy"]
+[Rating "1073"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/TKAsvSlh#51"]
+[Solution "f8e6 g5e3 g1h1 e4g3 h1h2 g3f1"]
+[SolutionSAN "Nxe6 Bxe3+ Kh1 Ng3+ Kh2 Nxf1+"]
+[FEN "r2q1N1k/pp3Qp1/2p1p2p/3p2b1/3Pn3/3BP2P/PPP3P1/5RK1 w - - 7 26"]
+[SetUp "1"]
+
+26. Nxe6 Bxe3+ 27. Kh1 Ng3+ 28. Kh2 Nxf1+ *

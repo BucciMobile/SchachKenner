@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GtEf"]
+[Difficulty "hard"]
+[Rating "2011"]
+[Themes "advancedPawn crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/oqbFTQrq/black#84"]
+[Solution "f6f3 e5e6 f7f8 e6e7 f8e8 g2f3"]
+[SolutionSAN "Rf3 e6 Rf8 e7 Re8 Kxf3"]
+[FEN "6k1/2p2rp1/1p3r1p/p3P3/P1R5/3P2P1/1R4K1/8 b - - 0 42"]
+[SetUp "1"]
+
+42... Rf3 43. e6 Rf8 44. e7 Re8 45. Kxf3 *

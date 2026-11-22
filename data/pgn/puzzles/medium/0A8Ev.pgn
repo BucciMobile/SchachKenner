@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A8Ev"]
+[Difficulty "medium"]
+[Rating "1675"]
+[Themes "middlegame"]
+[GameUrl "https://lichess.org/game/NCB3uelT#47"]
+[Solution "g5e4 h5d5 d1d5 c5e4"]
+[SolutionSAN "Nxe4 Qxd5 Rxd5 Nxe4"]
+[FEN "5rk1/5pp1/pp4rp/2nQ2Nq/4pP2/2P1P3/PP4PP/3R1RK1 w - - 0 24"]
+[SetUp "1"]
+
+24. Nxe4 Qxd5 25. Rxd5 Nxe4 *

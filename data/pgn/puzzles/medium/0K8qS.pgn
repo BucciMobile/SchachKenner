@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K8qS"]
+[Difficulty "medium"]
+[Rating "1499"]
+[Themes "attraction backRankMate long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/78RyMSyV#67"]
+[Solution "d7f7 c4f1 g1f1 e4d2 f1g1 e8e1"]
+[SolutionSAN "Rxf7 Qxf1+ Kxf1 Nd2+ Kg1 Re1#"]
+[FEN "4r2k/pppR1r2/6Q1/P5p1/2q1n3/7P/1P3PPB/5RK1 w - - 9 34"]
+[SetUp "1"]
+
+34. Rxf7 Qxf1+ 35. Kxf1 Nd2+ 36. Kg1 Re1# *

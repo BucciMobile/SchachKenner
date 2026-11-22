@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FknH"]
+[Difficulty "medium"]
+[Rating "1469"]
+[Themes "blindSwineMate discoveredCheck doubleCheck master mate mateIn1 middlegame oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/P5IM4r1T#69"]
+[Solution "h5f5 g3g2"]
+[SolutionSAN "Qxf5 R3g2#"]
+[FEN "8/1p4k1/3p4/1NpP1p1Q/PnP1pb2/6rP/1P5K/4RBr1 w - - 2 35"]
+[SetUp "1"]
+
+35. Qxf5 R3g2# *

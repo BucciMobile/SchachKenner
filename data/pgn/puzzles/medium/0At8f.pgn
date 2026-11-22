@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0At8f"]
+[Difficulty "medium"]
+[Rating "1531"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/p4JAkEuk#15"]
+[Solution "e1g1 d4e2 g1h1 e2c3"]
+[SolutionSAN "O-O Ne2+ Kh1 Nxc3"]
+[FEN "r2qkbnr/pp3ppp/3p4/4p3/2pnP1b1/2Q2NP1/PPPP1PBP/RNB1K2R w KQkq - 0 8"]
+[SetUp "1"]
+
+8. O-O Ne2+ 9. Kh1 Nxc3 *

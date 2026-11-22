@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06XGQ"]
+[Difficulty "medium"]
+[Rating "1429"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/nd2AIWez#59"]
+[Solution "e5e6 c6e6 h5g5 e6g6"]
+[SolutionSAN "Rxe6 Qxe6 Qg5+ Qg6"]
+[FEN "2r2r2/6kp/p1q1b3/1p2R2Q/8/P7/1P3PPP/4R1K1 w - - 9 30"]
+[SetUp "1"]
+
+30. Rxe6 Qxe6 31. Qg5+ Qg6 *

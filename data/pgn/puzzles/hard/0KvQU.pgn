@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KvQU"]
+[Difficulty "hard"]
+[Rating "2756"]
+[Themes "bishopEndgame crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/Mhg7ZySw#85"]
+[Solution "e1g3 d4d3 b4b5 h6f8 b5c6 f7e8"]
+[SolutionSAN "Bg3 d3 b5 Bf8 bxc6 Ke8"]
+[FEN "8/5k2/p1p4b/P1P5/1PPp1P2/4p3/8/4BK2 w - - 2 43"]
+[SetUp "1"]
+
+43. Bg3 d3 44. b5 Bf8 45. bxc6 Ke8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CUIj"]
+[Difficulty "medium"]
+[Rating "1665"]
+[Themes "advantage kingsideAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/I7jCJalY#25"]
+[Solution "f2f3 e4g3 e2g2 h3g2"]
+[SolutionSAN "f3 Nxg3 Qg2 Qxg2+"]
+[FEN "rnb3k1/pp4pp/2p1pr2/3p1p2/2PPnP2/2NB2Pq/PP1NQP1P/R4RK1 w - - 3 13"]
+[SetUp "1"]
+
+13. f3 Nxg3 14. Qg2 Qxg2+ *

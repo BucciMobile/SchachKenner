@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04ds7"]
+[Difficulty "easy"]
+[Rating "924"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/GAgixegm/black#56"]
+[Solution "c8e8 h6g7"]
+[SolutionSAN "Rce8 Qg7#"]
+[FEN "2r2r1k/7p/p6Q/2q4N/1n6/2pPR1P1/1PP4P/6K1 b - - 4 28"]
+[SetUp "1"]
+
+28... Rce8 29. Qg7# *

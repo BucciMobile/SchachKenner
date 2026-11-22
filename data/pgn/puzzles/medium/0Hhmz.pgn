@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hhmz"]
+[Difficulty "medium"]
+[Rating "1451"]
+[Themes "attraction crushing endgame fork long sacrifice"]
+[GameUrl "https://lichess.org/game/cgtepZUK#77"]
+[Solution "g7g5 c1g1 g2g1 d4f3 g1g2 f3g5"]
+[SolutionSAN "Qxg5 Rg1+ Kxg1 Nf3+ Kg2 Nxg5"]
+[FEN "8/6Q1/4p3/5pp1/3nk3/6PP/5PK1/2r5 w - - 3 39"]
+[SetUp "1"]
+
+39. Qxg5 Rg1+ 40. Kxg1 Nf3+ 41. Kg2 Nxg5 *

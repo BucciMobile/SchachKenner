@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "093eW"]
+[Difficulty "hard"]
+[Rating "2576"]
+[Themes "advancedPawn crushing fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/T4v80D5B#71"]
+[Solution "e3e2 h6h2 g1f2 f4f3 e2e5 h7g7 f2e3 f3g2"]
+[SolutionSAN "Qxe2 Qh2+ Kf2 f3 Qe5+ Rg7 Ke3 fxg2"]
+[FEN "5r1k/p6r/2p4q/2P3p1/1P1R1p2/N3Q1P1/P3b1B1/4B1K1 w - - 0 36"]
+[SetUp "1"]
+
+36. Qxe2 Qh2+ 37. Kf2 f3 38. Qe5+ Rg7 39. Ke3 fxg2 *

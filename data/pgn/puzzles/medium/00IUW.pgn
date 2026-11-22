@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00IUW"]
+[Difficulty "medium"]
+[Rating "1684"]
+[Themes "clearance kingsideAttack mate mateIn2 middlegame operaMate sacrifice short"]
+[GameUrl "https://lichess.org/game/83tyhOfz#45"]
+[Solution "a7e3 h3g3 h2g3 h5h1"]
+[SolutionSAN "Qe3 Qxg3+ hxg3 Rh1#"]
+[FEN "8/Q1p1r1kp/5pp1/3P3r/4P3/2N2bPq/PPP2R1P/5RK1 w - - 3 23"]
+[SetUp "1"]
+
+23. Qe3 Qxg3+ 24. hxg3 Rh1# *

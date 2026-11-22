@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LRt6"]
+[Difficulty "hard"]
+[Rating "2068"]
+[Themes "advantage master middlegame quietMove short"]
+[GameUrl "https://lichess.org/game/UDOKJuNs/black#48"]
+[Solution "c4a2 d1h1 g6g5 h4h8"]
+[SolutionSAN "Qxa2 Rdh1 g5 Rh8+"]
+[FEN "4r1k1/pQ2p3/4p1p1/4P3/2qB1rnR/2P5/P1P5/2KR4 b - - 2 24"]
+[SetUp "1"]
+
+24... Qxa2 25. Rdh1 g5 26. Rh8+ *

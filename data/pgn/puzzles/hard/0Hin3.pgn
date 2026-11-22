@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hin3"]
+[Difficulty "hard"]
+[Rating "1974"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/kjxyfSHY#59"]
+[Solution "d1c1 f5e4 f2f3 h2a2"]
+[SolutionSAN "Qc1 Be4 f3 Rxa2"]
+[FEN "6k1/1p2qp1p/3p4/3B1bP1/1BP3n1/PP4P1/R4P1r/3Q2K1 w - - 3 30"]
+[SetUp "1"]
+
+30. Qc1 Be4 31. f3 Rxa2 *

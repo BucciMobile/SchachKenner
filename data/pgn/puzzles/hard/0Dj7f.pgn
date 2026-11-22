@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dj7f"]
+[Difficulty "hard"]
+[Rating "2106"]
+[Themes "attraction crushing middlegame queensideAttack skewer veryLong"]
+[GameUrl "https://lichess.org/game/u9FCjM5O/black#46"]
+[Solution "d7d5 b3b7 b8c8 b7b8 c8d7 b1b7 d7d6 b7b6 d6e5 b6e6 e5e6 g2d5"]
+[SolutionSAN "Rxd5 Rxb7+ Kc8 Rb8+ Kd7 R1b7+ Kd6 Rb6+ Ke5 Rxe6+ Kxe6 Bxd5+"]
+[FEN "1k4r1/1p1rb2p/p3qp2/P1pN1p2/7P/1R2P1P1/4P1B1/1R2K3 b - - 0 23"]
+[SetUp "1"]
+
+23... Rxd5 24. Rxb7+ Kc8 25. Rb8+ Kd7 26. R1b7+ Kd6 27. Rb6+ Ke5 28. Rxe6+ Kxe6 29. Bxd5+ *

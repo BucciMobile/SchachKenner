@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Z0P"]
+[Difficulty "medium"]
+[Rating "1551"]
+[Themes "advantage long master middlegame pin"]
+[GameUrl "https://lichess.org/game/Q1fUYAK1/black#56"]
+[Solution "e4c3 f3d5 c3d5 c2b3 g8h8 b3d5"]
+[SolutionSAN "Nc3 Qxd5+ Nxd5 Bb3 Kh8 Bxd5"]
+[FEN "2r2rk1/1p4bp/6p1/pP1qpp2/4n1PP/P3BQ2/2B2R2/5RK1 b - - 0 28"]
+[SetUp "1"]
+
+28... Nc3 29. Qxd5+ Nxd5 30. Bb3 Kh8 31. Bxd5 *

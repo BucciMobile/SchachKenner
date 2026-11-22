@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E6Wc"]
+[Difficulty "medium"]
+[Rating "1222"]
+[Themes "clearance kingsideAttack long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/LynAisPj/black#38"]
+[Solution "h5f4 e5f7 f8f7 e1e8 f7f8 e8f8"]
+[SolutionSAN "Nf4 Nxf7+ Rxf7 Re8+ Rf8 Rxf8#"]
+[FEN "r1b2r1k/1p3ppB/2p4p/p3N1qn/P2P4/8/1PQ2PPP/R3R1K1 b - - 4 19"]
+[SetUp "1"]
+
+19... Nf4 20. Nxf7+ Rxf7 21. Re8+ Rf8 22. Rxf8# *

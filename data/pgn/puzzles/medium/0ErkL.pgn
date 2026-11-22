@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ErkL"]
+[Difficulty "medium"]
+[Rating "1680"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/FBhL38kM/black#74"]
+[Solution "b5d5 e6e7 f7g8 g5g7"]
+[SolutionSAN "Qxd5 Re7+ Kg8 Qxg7#"]
+[FEN "2r2r2/2p2kpp/1p1pR3/1q1PpPQ1/6P1/7P/8/2R3K1 b - - 3 37"]
+[SetUp "1"]
+
+37... Qxd5 38. Re7+ Kg8 39. Qxg7# *

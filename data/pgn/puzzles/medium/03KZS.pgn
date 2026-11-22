@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03KZS"]
+[Difficulty "medium"]
+[Rating "1663"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/aj35eEnA#97"]
+[Solution "h7g7 g6g5 h4g5 f5g5"]
+[SolutionSAN "Kg7 g5 hxg5 Kxg5"]
+[FEN "8/7K/1p4p1/p4k1p/P6P/6P1/1P6/8 w - - 6 49"]
+[SetUp "1"]
+
+49. Kg7 g5 50. hxg5 Kxg5 *

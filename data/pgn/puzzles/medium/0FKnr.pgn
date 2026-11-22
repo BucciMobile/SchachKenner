@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FKnr"]
+[Difficulty "medium"]
+[Rating "1649"]
+[Themes "advantage endgame fork long sacrifice"]
+[GameUrl "https://lichess.org/game/XbhFLrar#43"]
+[Solution "c3d4 c5d4 d3d4 d5c3 b1b2 c3e2"]
+[SolutionSAN "Bd4 Qxd4 Rxd4 Nc3+ Kb2 Nxe2"]
+[FEN "2kr4/pp3ppp/4p3/2qnP3/8/1PBR3P/P1P1Q1P1/1K6 w - - 1 22"]
+[SetUp "1"]
+
+22. Bd4 Qxd4 23. Rxd4 Nc3+ 24. Kb2 Nxe2 *

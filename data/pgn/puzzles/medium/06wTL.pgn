@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06wTL"]
+[Difficulty "medium"]
+[Rating "1457"]
+[Themes "discoveredAttack discoveredCheck endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/OcJaX1tD#75"]
+[Solution "a1a2 e4b1 a2a1 b1c2 a1a2 c2b3"]
+[SolutionSAN "Ka2 Bb1+ Ka1 Bc2+ Ka2 Bb3#"]
+[FEN "8/p4pk1/8/3P3p/2p1bP1P/P3N3/1P1R4/K1r5 w - - 4 38"]
+[SetUp "1"]
+
+38. Ka2 Bb1+ 39. Ka1 Bc2+ 40. Ka2 Bb3# *

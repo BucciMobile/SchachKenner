@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BIZW"]
+[Difficulty "hard"]
+[Rating "2937"]
+[Themes "advantage middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/bxyCmUKb/black#50"]
+[Solution "f8h8 h2h3 g4g3 h7g6 g3f4 e5f5 e6f5 a1f1 f4e3 g6g5"]
+[SolutionSAN "Rh8 h3+ Kxg3 Qxg6+ Kxf4 Rxf5+ Bxf5 Rf1+ Ke3 Qg5+"]
+[FEN "4rr2/p6Q/2p1b1p1/4Rp2/1q3Pk1/6P1/PPP4P/R5K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Rh8 26. h3+ Kxg3 27. Qxg6+ Kxf4 28. Rxf5+ Bxf5 29. Rf1+ Ke3 30. Qg5+ *

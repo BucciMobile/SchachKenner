@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06s4Z"]
+[Difficulty "hard"]
+[Rating "1973"]
+[Themes "clearance crushing middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/ezUb6G4V#41"]
+[Solution "d2e4 e8e4 d3e4 a8e8"]
+[SolutionSAN "Ne4 Rxe4 Qxe4 Re8"]
+[FEN "r3r1k1/3q1pp1/p2p1bnp/2pP4/1p3P2/1P1QB2P/P1PN2P1/1R3RK1 w - - 4 21"]
+[SetUp "1"]
+
+21. Ne4 Rxe4 22. Qxe4 Re8 *

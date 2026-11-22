@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BDtO"]
+[Difficulty "hard"]
+[Rating "2210"]
+[Themes "advancedPawn crushing defensiveMove endgame master pawnEndgame veryLong"]
+[GameUrl "https://lichess.org/game/W7xCTWIC#117"]
+[Solution "g2g3 f4f3 g3g4 g5f4 g4g5 f4e3 g5g6 f3f2 h3g2 e3e2"]
+[SolutionSAN "g3 f3 g4 Kf4 g5 Ke3 g6 f2 Kg2 Ke2"]
+[FEN "8/8/8/p5k1/P4p2/7K/6P1/8 w - - 2 59"]
+[SetUp "1"]
+
+59. g3 f3 60. g4 Kf4 61. g5 Ke3 62. g6 f2 63. Kg2 Ke2 *

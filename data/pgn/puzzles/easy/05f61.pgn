@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05f61"]
+[Difficulty "easy"]
+[Rating "762"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/GKCE5kyo#29"]
+[Solution "b5d6 a5e1"]
+[SolutionSAN "Nxd6 Qxe1#"]
+[FEN "r1b2k1r/pp1pn3/3bpp1p/qN4pQ/B2pP3/3P4/PPP2PPP/1RB1R1K1 w - - 4 15"]
+[SetUp "1"]
+
+15. Nxd6 Qxe1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07aT5"]
+[Difficulty "hard"]
+[Rating "1789"]
+[Themes "advantage exposedKing long middlegame"]
+[GameUrl "https://lichess.org/game/Lczoc6lj/black#50"]
+[Solution "e3f4 g4e6 e7d8 g5f7 f4f7 e6f7"]
+[SolutionSAN "Qxf4 Qe6+ Kd8 Nf7+ Qxf7 Qxf7"]
+[FEN "r3rb2/1ppnk1pB/8/p3p1N1/PnPp1PQ1/1P2q3/1B6/RK4R1 b - - 2 25"]
+[SetUp "1"]
+
+25... Qxf4 26. Qe6+ Kd8 27. Nf7+ Qxf7 28. Qxf7 *

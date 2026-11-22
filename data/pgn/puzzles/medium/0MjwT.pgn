@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MjwT"]
+[Difficulty "medium"]
+[Rating "1647"]
+[Themes "endgame equality hangingPiece intermezzo short"]
+[GameUrl "https://lichess.org/game/J4Wgsy5C#71"]
+[Solution "g8d8 e5f5 f2e3 e7d8"]
+[SolutionSAN "Rxd8 Rxf5+ Ke3 Kxd8"]
+[FEN "3r2R1/pp2kp2/8/4rB2/8/6R1/P4KP1/8 w - - 2 36"]
+[SetUp "1"]
+
+36. Rxd8 Rxf5+ 37. Ke3 Kxd8 *

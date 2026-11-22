@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IlVT"]
+[Difficulty "medium"]
+[Rating "1251"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/YoJu6aol#23"]
+[Solution "e1f1 h4f2"]
+[SolutionSAN "Kf1 Qf2#"]
+[FEN "1n3rk1/p1pp1ppp/1p2p3/2b1Pn2/4QPPq/N2B4/PPP4P/R1B1K2R w KQ - 1 12"]
+[SetUp "1"]
+
+12. Kf1 Qf2# *

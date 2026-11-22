@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GG1g"]
+[Difficulty "easy"]
+[Rating "815"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion veryLong"]
+[GameUrl "https://lichess.org/game/afo822R4/black#116"]
+[Solution "b3a4 a6b6 b5b4 a5a6 b4b3 a6a7 b3b2 a7a8q"]
+[SolutionSAN "Ka4 Kb6 b4 a6 b3 a7 b2 a8=Q+"]
+[FEN "8/8/K7/Pp6/8/1k6/8/8 b - - 0 58"]
+[SetUp "1"]
+
+58... Ka4 59. Kb6 b4 60. a6 b3 61. a7 b2 62. a8=Q+ *

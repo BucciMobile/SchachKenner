@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KRFX"]
+[Difficulty "hard"]
+[Rating "2760"]
+[Themes "advantage discoveredAttack discoveredCheck middlegame short"]
+[GameUrl "https://lichess.org/game/MN8DNM5E/black#60"]
+[Solution "d7e6 h5h4 f6e7 g5f7"]
+[SolutionSAN "Be6 Qh4 Ke7 Nxf7+"]
+[FEN "3r1r2/1p1b1p1R/p4k2/4qpNQ/3p4/2b5/5PPP/1R4K1 b - - 1 30"]
+[SetUp "1"]
+
+30... Be6 31. Qh4 Ke7 32. Nxf7+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AfFM"]
+[Difficulty "easy"]
+[Rating "818"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/RYmnZg3m/black#22"]
+[Solution "d7a4 c2a4 a5a4 c3a4"]
+[SolutionSAN "Ba4 Qxa4+ Qxa4 Nxa4"]
+[FEN "rn2kb1r/p2b1ppp/4p3/q2p4/2PPn3/2NB1N2/PBQ2PPP/R3K2R b KQkq - 6 11"]
+[SetUp "1"]
+
+11... Ba4 12. Qxa4+ Qxa4 13. Nxa4 *

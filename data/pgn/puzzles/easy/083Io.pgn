@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "083Io"]
+[Difficulty "easy"]
+[Rating "1023"]
+[Themes "crushing discoveredAttack discoveredCheck endgame short"]
+[GameUrl "https://lichess.org/game/MHnbZmZv/black#74"]
+[Solution "d6e7 f5f7 h7g8 f7e7"]
+[SolutionSAN "Qe7 Rf7+ Kg8 Rxe7"]
+[FEN "8/pp4pk/2pqn2p/4PR2/7P/2P3P1/PPB3K1/8 b - - 0 37"]
+[SetUp "1"]
+
+37... Qe7 38. Rf7+ Kg8 39. Rxe7 *

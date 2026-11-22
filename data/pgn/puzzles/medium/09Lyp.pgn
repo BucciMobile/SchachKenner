@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Lyp"]
+[Difficulty "medium"]
+[Rating "1366"]
+[Themes "backRankMate endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/W6qfjshI#61"]
+[Solution "c1c4 d4a1 c4c1 a1c1 f3d1 c1d1"]
+[SolutionSAN "Rxc4 Qa1+ Rc1 Qxc1+ Qd1 Qxd1#"]
+[FEN "6k1/5p1p/4p1p1/8/2rq4/5Q2/5PPP/2R4K w - - 0 31"]
+[SetUp "1"]
+
+31. Rxc4 Qa1+ 32. Rc1 Qxc1+ 33. Qd1 Qxd1# *

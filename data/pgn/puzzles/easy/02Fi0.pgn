@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Fi0"]
+[Difficulty "easy"]
+[Rating "1066"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/Bs2R5kfG#23"]
+[Solution "c3d5 f6d5 c4d5 e7h4"]
+[SolutionSAN "Nd5 Nxd5 Bxd5 Bxh4"]
+[FEN "r2q1rk1/pp1bbpp1/3p1n1p/2p5/2B1P2B/2NQ4/PPP2PPP/R4RK1 w - - 2 12"]
+[SetUp "1"]
+
+12. Nd5 Nxd5 13. Bxd5 Bxh4 *

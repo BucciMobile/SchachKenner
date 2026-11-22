@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Nrrb"]
+[Difficulty "medium"]
+[Rating "1272"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/aaOLUEEZ/black#70"]
+[Solution "d7f8 f5h6"]
+[SolutionSAN "Nf8 Nh6#"]
+[FEN "6k1/3n3p/8/3p1N2/2bBp1P1/r7/7P/4R1K1 b - - 1 35"]
+[SetUp "1"]
+
+35... Nf8 36. Nh6# *

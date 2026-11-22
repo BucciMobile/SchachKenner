@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05FVS"]
+[Difficulty "hard"]
+[Rating "2222"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/3NQGvXJ9/black#62"]
+[Solution "b8e8 a3b3 g8h8 b3f7"]
+[SolutionSAN "Re8 Qb3+ Kh8 Qf7"]
+[FEN "1r4k1/pp1RP1bp/6p1/4qp2/8/Q5PP/P4P1K/8 b - - 0 31"]
+[SetUp "1"]
+
+31... Re8 32. Qb3+ Kh8 33. Qf7 *

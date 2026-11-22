@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CVgg"]
+[Difficulty "easy"]
+[Rating "1056"]
+[Themes "crushing opening pin short"]
+[GameUrl "https://lichess.org/game/HGhSJqP5#11"]
+[Solution "c5c3 f8b4 a2a3 b4c3"]
+[SolutionSAN "Qc3 Bb4 a3 Bxc3+"]
+[FEN "r1bqkbnr/p2p1ppp/2n1p3/2Q5/4P3/8/PPP2PPP/RNB1KBNR w KQkq - 0 6"]
+[SetUp "1"]
+
+6. Qc3 Bb4 7. a3 Bxc3+ *

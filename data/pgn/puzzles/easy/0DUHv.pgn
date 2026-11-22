@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DUHv"]
+[Difficulty "easy"]
+[Rating "997"]
+[Themes "kingsideAttack mate mateIn2 middlegame operaMate sacrifice short"]
+[GameUrl "https://lichess.org/game/gSxe7tMY#37"]
+[Solution "d6d4 f7f1 a1f1 f8f1"]
+[SolutionSAN "Qd4 Qf1+ Rxf1 Rxf1#"]
+[FEN "5rk1/pp3qpp/2pQ4/4P3/4B3/1P4Pb/PBP4P/R5K1 w - - 1 19"]
+[SetUp "1"]
+
+19. Qd4 Qf1+ 20. Rxf1 Rxf1# *

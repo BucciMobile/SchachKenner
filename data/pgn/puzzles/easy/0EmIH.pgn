@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EmIH"]
+[Difficulty "easy"]
+[Rating "882"]
+[Themes "advantage endgame exposedKing long queensideAttack"]
+[GameUrl "https://lichess.org/game/nMcO1yEc/black#62"]
+[Solution "d7a4 g1g8 b8c7 f2f7 a4d7 f7d7"]
+[SolutionSAN "Qxa4 Rg8+ Kc7 Rxf7+ Qd7 Rxd7+"]
+[FEN "1k6/3q1p2/pp1p3b/2pPp3/P1P1P2p/8/1P3R2/3N1KR1 b - - 1 31"]
+[SetUp "1"]
+
+31... Qxa4 32. Rg8+ Kc7 33. Rxf7+ Qd7 34. Rxd7+ *

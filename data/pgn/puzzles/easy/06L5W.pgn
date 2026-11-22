@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06L5W"]
+[Difficulty "easy"]
+[Rating "1134"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/cSfI7L6K#13"]
+[Solution "f6e7 d8e7 f4e3 h6e3"]
+[SolutionSAN "fxe7 Qxe7+ Qe3 Bxe3"]
+[FEN "rnbqk2r/1ppppp2/5P1b/p6p/2B2Qp1/8/PPPP1PPP/RNB1K1NR w KQkq - 2 7"]
+[SetUp "1"]
+
+7. fxe7 Qxe7+ 8. Qe3 Bxe3 *

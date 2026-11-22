@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03nTL"]
+[Difficulty "hard"]
+[Rating "2407"]
+[Themes "crushing defensiveMove endgame master short"]
+[GameUrl "https://lichess.org/game/XfZqYfdZ#149"]
+[Solution "f3f4 d2b3 a1b1 b3d4"]
+[SolutionSAN "Kf4 Nb3 Rb1 Nd4"]
+[FEN "8/8/8/5p2/8/3k1K2/3np3/R7 w - - 2 75"]
+[SetUp "1"]
+
+75. Kf4 Nb3 76. Rb1 Nd4 *

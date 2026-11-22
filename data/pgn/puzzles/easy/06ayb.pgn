@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06ayb"]
+[Difficulty "easy"]
+[Rating "921"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/pLmHridC/black#46"]
+[Solution "h8g8 h1h7 g8f8 h7h8"]
+[SolutionSAN "Kg8 Qh7+ Kf8 Qh8#"]
+[FEN "r3q2k/pp2rpp1/1n6/6p1/3P4/2PB4/PP6/2KR3Q b - - 1 23"]
+[SetUp "1"]
+
+23... Kg8 24. Qh7+ Kf8 25. Qh8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lbzo"]
+[Difficulty "medium"]
+[Rating "1410"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/cYsdiQmQ#53"]
+[Solution "h2g1 f6e4 c3e1 e2b2"]
+[SolutionSAN "Kg1 Ne4 Qe1 Qxb2"]
+[FEN "3r2k1/p4pp1/5n2/3pNb1p/8/1PQ1P2P/PB2qPPK/R7 w - - 2 27"]
+[SetUp "1"]
+
+27. Kg1 Ne4 28. Qe1 Qxb2 *

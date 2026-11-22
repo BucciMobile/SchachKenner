@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AgCb"]
+[Difficulty "hard"]
+[Rating "1733"]
+[Themes "advantage attraction deflection fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/SgRunKjT/black#40"]
+[Solution "h5g4 h3h8 g8h8 e5f7 h8g8 f7d6"]
+[SolutionSAN "hxg4 Rh8+ Kxh8 Nxf7+ Kg8 Nxd6"]
+[FEN "1rr3k1/5pp1/3qpn2/p2pNn1p/1p1P1PP1/2PB3R/PP3Q1P/2R3K1 b - - 0 20"]
+[SetUp "1"]
+
+20... hxg4 21. Rh8+ Kxh8 22. Nxf7+ Kg8 23. Nxd6 *

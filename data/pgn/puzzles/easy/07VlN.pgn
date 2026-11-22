@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07VlN"]
+[Difficulty "easy"]
+[Rating "901"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+[GameUrl "https://lichess.org/game/VuKu74GZ/black#36"]
+[Solution "e8g8 g5f7"]
+[SolutionSAN "Rxg8 Nf7#"]
+[FEN "r3r1Qk/1bp3pp/pbq2N2/np2p1N1/8/1BPP3P/PP3PP1/R1B1R1K1 b - - 2 18"]
+[SetUp "1"]
+
+18... Rxg8 19. Nf7# *

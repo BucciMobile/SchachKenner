@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kycy"]
+[Difficulty "hard"]
+[Rating "2721"]
+[Themes "advancedPawn crushing discoveredAttack kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/CSebgjVG/black#46"]
+[Solution "f2e1 g6h7 g8h8 g3g7 h8g7 f3d4"]
+[SolutionSAN "Bxe1 gxh7+ Kh8 Rxg7 Kxg7 Nd4"]
+[FEN "r2q2k1/3n2rp/1p2p1P1/p2pPp1Q/8/PP3NR1/1BP2bPP/4R2K b - - 0 23"]
+[SetUp "1"]
+
+23... Bxe1 24. gxh7+ Kh8 25. Rxg7 Kxg7 26. Nd4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K2Wk"]
+[Difficulty "medium"]
+[Rating "1576"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/PxGEDEQF/black#48"]
+[Solution "f7g7 f4h6 h7g8 h6g7"]
+[SolutionSAN "Rxg7 Qxh6+ Kg8 Qxg7#"]
+[FEN "r3q3/p3brRk/2bpNp1p/2pN1P2/5Q2/8/PPP4P/R1B4K b - - 0 24"]
+[SetUp "1"]
+
+24... Rxg7 25. Qxh6+ Kg8 26. Qxg7# *

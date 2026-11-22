@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0INxZ"]
+[Difficulty "medium"]
+[Rating "1685"]
+[Themes "attraction crushing exposedKing fork long middlegame"]
+[GameUrl "https://lichess.org/game/q2QfXILg#55"]
+[Solution "d3e3 f4e3 d2e3 d4f5 e3f2 f5d6"]
+[SolutionSAN "Qe3 Qxe3+ Kxe3 Nf5+ Kf2 Nxd6"]
+[FEN "5k1r/4nppp/p2B4/3pp3/3n1q2/3Q1P2/PP1K3P/2R2R2 w - - 3 28"]
+[SetUp "1"]
+
+28. Qe3 Qxe3+ 29. Kxe3 Nf5+ 30. Kf2 Nxd6 *

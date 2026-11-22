@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BARd"]
+[Difficulty "hard"]
+[Rating "2716"]
+[Themes "advantage middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/y4DbAl0m#63"]
+[Solution "f1f7 e8h8 h7g7 e5g7 f7g7 c8h3 g7g8 h8g8"]
+[SolutionSAN "Rxf7 Rh8 Qg7 Qxg7 Rxg7 Bxh3 Rg8+ Rxg8"]
+[FEN "2bkr3/5p1Q/3p4/2pPq3/1pP1P3/1P4PP/r5BK/1R3R2 w - - 0 32"]
+[SetUp "1"]
+
+32. Rxf7 Rh8 33. Qg7 Qxg7 34. Rxg7 Bxh3 35. Rg8+ Rxg8 *

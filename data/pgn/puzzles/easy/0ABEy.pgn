@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ABEy"]
+[Difficulty "easy"]
+[Rating "512"]
+[Themes "crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/NbXSTLQk/black#42"]
+[Solution "f8d8 d4d8 c8d8 d1d8"]
+[SolutionSAN "Rfd8 Qxd8+ Rxd8 Rxd8+"]
+[FEN "2r2rk1/p4pp1/1p2pn1p/4N2P/3Q1PP1/8/PPq2P2/K2R3R b - - 2 21"]
+[SetUp "1"]
+
+21... Rfd8 22. Qxd8+ Rxd8 23. Rxd8+ *

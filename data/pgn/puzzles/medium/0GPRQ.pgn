@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GPRQ"]
+[Difficulty "medium"]
+[Rating "1395"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/JWHiixE1/black#92"]
+[Solution "g7f6 d6e4 f6e7 d3b1"]
+[SolutionSAN "Kf6 Ne4+ Ke7 Qxb1"]
+[FEN "8/3q2k1/3N3p/1p2p3/5p1p/1P1Q1P1P/6PK/1r6 b - - 3 46"]
+[SetUp "1"]
+
+46... Kf6 47. Ne4+ Ke7 48. Qxb1 *

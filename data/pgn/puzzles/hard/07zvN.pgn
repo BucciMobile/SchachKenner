@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07zvN"]
+[Difficulty "hard"]
+[Rating "2005"]
+[Themes "crushing endgame exposedKing long"]
+[GameUrl "https://lichess.org/game/z5CYtLgn/black#78"]
+[Solution "b1c1 f8h8 h7g6 c8e7 g6g5 g7h6"]
+[SolutionSAN "Qc1 Rh8+ Kg6 Ne7+ Kg5 Bh6+"]
+[FEN "2N2R2/5pBk/5P2/1p6/8/2r4P/6PK/1q6 b - - 1 39"]
+[SetUp "1"]
+
+39... Qc1 40. Rh8+ Kg6 41. Ne7+ Kg5 42. Bh6+ *

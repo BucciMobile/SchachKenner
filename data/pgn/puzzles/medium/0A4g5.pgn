@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A4g5"]
+[Difficulty "medium"]
+[Rating "1240"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/ZB1pislj/black#26"]
+[Solution "c6b8 a3e7 a8a1 e7d8"]
+[SolutionSAN "Nb8 Bxe7 Rxa1 Bxd8"]
+[FEN "r2q1rk1/1pp1bpp1/2n1bn1p/1P1pp3/7N/B1PP2P1/2Q1PPBP/RN2K2R b KQ - 0 13"]
+[SetUp "1"]
+
+13... Nb8 14. Bxe7 Rxa1 15. Bxd8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "071XQ"]
+[Difficulty "medium"]
+[Rating "1288"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/GlswNIIU#65"]
+[Solution "h5h7 g8h7 e1e7 e8e7"]
+[SolutionSAN "Qxh7+ Kxh7 Rxe7+ Rxe7"]
+[FEN "4r1k1/p3r2q/1p6/2p4Q/3B4/7P/PPP3P1/4R1K1 w - - 5 33"]
+[SetUp "1"]
+
+33. Qxh7+ Kxh7 34. Rxe7+ Rxe7 *

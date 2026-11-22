@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04p5R"]
+[Difficulty "medium"]
+[Rating "1313"]
+[Themes "deflection endgame epauletteMate mate mateIn4 veryLong"]
+[GameUrl "https://lichess.org/game/9vFqJ15K#59"]
+[Solution "g1f1 g2g1 f1e2 g7g4 f2f3 g4g2 e2d3 g1d1"]
+[SolutionSAN "Kf1 Rg1+ Ke2 Qg4+ f3 Qg2+ Kd3 Rxd1#"]
+[FEN "2r5/1k4q1/2pRp3/ppQ1Pp1p/8/2P1P3/PP3PrP/3R2K1 w - - 0 30"]
+[SetUp "1"]
+
+30. Kf1 Rg1+ 31. Ke2 Qg4+ 32. f3 Qg2+ 33. Kd3 Rxd1# *

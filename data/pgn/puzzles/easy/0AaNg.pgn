@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AaNg"]
+[Difficulty "easy"]
+[Rating "544"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/KBlgHFmU#63"]
+[Solution "b1f1 h3f1"]
+[SolutionSAN "Qxf1 Qxf1#"]
+[FEN "7k/pp4p1/2pN3p/8/2P5/PP5q/7R/1Q3r1K w - - 4 32"]
+[SetUp "1"]
+
+32. Qxf1 Qxf1# *

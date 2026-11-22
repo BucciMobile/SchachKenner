@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03yzm"]
+[Difficulty "easy"]
+[Rating "1074"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/sAQkqiqy#31"]
+[Solution "e2g1 f3f2"]
+[SolutionSAN "Ng1 Qxf2#"]
+[FEN "r1b1k2r/1pp2pp1/p4n1p/4p2P/P1Pp2nR/1P2PqP1/3PNP2/RN1QKB2 w Qkq - 4 16"]
+[SetUp "1"]
+
+16. Ng1 Qxf2# *

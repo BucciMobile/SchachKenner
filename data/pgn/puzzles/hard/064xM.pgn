@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "064xM"]
+[Difficulty "hard"]
+[Rating "2160"]
+[Themes "crushing endgame long master"]
+[GameUrl "https://lichess.org/game/zl7OhslP/black#88"]
+[Solution "e8e5 f3c3 e5e6 c3c8 e6e8 c8e8"]
+[SolutionSAN "Re5 Qc3 Re6 Qc8+ Re8 Qxe8+"]
+[FEN "4r1k1/5p2/5q2/3R1Ppp/8/5Q1P/6PK/8 b - - 1 44"]
+[SetUp "1"]
+
+44... Re5 45. Qc3 Re6 46. Qc8+ Re8 47. Qxe8+ *

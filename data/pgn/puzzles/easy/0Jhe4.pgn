@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jhe4"]
+[Difficulty "easy"]
+[Rating "1045"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/s6eWEcLU/black#60"]
+[Solution "g6h5 h4h5 g4h6 h5h6"]
+[SolutionSAN "gxh5 Qxh5+ Nh6 Qxh6#"]
+[FEN "6rk/pp3p2/4rPp1/7R/6nQ/P4B1P/1P2PP1q/3R1K2 b - - 0 30"]
+[SetUp "1"]
+
+30... gxh5 31. Qxh5+ Nh6 32. Qxh6# *

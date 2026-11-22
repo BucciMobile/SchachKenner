@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LdoT"]
+[Difficulty "hard"]
+[Rating "1932"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/AjoUonBF#25"]
+[Solution "f4d5 e7h4 g2g3 h4g3"]
+[SolutionSAN "Nxd5 Qh4+ g3 Qxg3#"]
+[FEN "2kr3r/pp2qppp/1pp5/3n4/2b1PN2/5P1P/PPPP2P1/R1BQK2R w KQ - 2 13"]
+[SetUp "1"]
+
+13. Nxd5 Qh4+ 14. g3 Qxg3# *

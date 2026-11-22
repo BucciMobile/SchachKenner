@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03NHo"]
+[Difficulty "easy"]
+[Rating "1024"]
+[Themes "advantage endgame fork long"]
+[GameUrl "https://lichess.org/game/L9JW25Vd#85"]
+[Solution "b3e3 e5c4 d2e2 c4e3 e2e3 g4g3"]
+[SolutionSAN "Re3 Nc4+ Ke2 Nxe3 Kxe3 Kxg3"]
+[FEN "8/6p1/5p1p/4n3/6kP/1R4P1/2PK4/8 w - - 5 43"]
+[SetUp "1"]
+
+43. Re3 Nc4+ 44. Ke2 Nxe3 45. Kxe3 Kxg3 *

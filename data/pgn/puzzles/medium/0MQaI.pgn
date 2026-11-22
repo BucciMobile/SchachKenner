@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MQaI"]
+[Difficulty "medium"]
+[Rating "1669"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/IK2bpCKJ/black#64"]
+[Solution "a6b5 b1a1 a4a2 a1a2"]
+[SolutionSAN "axb5 Ra1 Qa2+ Rxa2"]
+[FEN "r5k1/1p5p/p3p3/1PPpP1r1/q2B1p1n/3Q1P2/5KP1/1R4R1 b - - 2 32"]
+[SetUp "1"]
+
+32... axb5 33. Ra1 Qa2+ 34. Rxa2 *

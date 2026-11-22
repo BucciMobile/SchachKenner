@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MIOr"]
+[Difficulty "medium"]
+[Rating "1420"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/2ME0Gejd/black#74"]
+[Solution "c1f1 b3c4 f1f3 c4e2"]
+[SolutionSAN "Rf1 Bc4 Rxf3 Bxe2"]
+[FEN "8/8/6pk/1R2p2p/4P3/1B3P2/P3r1PK/2r5 b - - 2 37"]
+[SetUp "1"]
+
+37... Rf1 38. Bc4 Rxf3 39. Bxe2 *

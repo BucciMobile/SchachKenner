@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JI69"]
+[Difficulty "easy"]
+[Rating "1145"]
+[Themes "crushing hangingPiece master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/lR2wThZ1/black#60"]
+[Solution "b6d4 e6d4 e8e1 h4e1"]
+[SolutionSAN "Qd4 Nxd4 Rxe1+ Qxe1"]
+[FEN "2r1r3/1p3k2/1q1bNpp1/1p1P3p/6PQ/P7/7P/4R2K b - - 0 30"]
+[SetUp "1"]
+
+30... Qd4 31. Nxd4 Rxe1+ 32. Qxe1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AQ4f"]
+[Difficulty "medium"]
+[Rating "1667"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+[GameUrl "https://lichess.org/game/8D51wFfU/black#116"]
+[Solution "f6e6 f4g5 e6f7 g5h6"]
+[SolutionSAN "Ke6 Kg5 Kf7 Kh6"]
+[FEN "8/8/5kp1/5p1p/5K1P/5PP1/8/8 b - - 4 58"]
+[SetUp "1"]
+
+58... Ke6 59. Kg5 Kf7 60. Kh6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AuRM"]
+[Difficulty "medium"]
+[Rating "1393"]
+[Themes "mate mateIn2 middlegame queensideAttack sacrifice short smotheredMate"]
+[GameUrl "https://lichess.org/game/XYcMFZ52/black#40"]
+[Solution "h1a1 c7b8 c6b8 b5c7"]
+[SolutionSAN "Qa1 Qb8+ Nxb8 Nc7#"]
+[FEN "k3r2r/ppQ1n1pp/2n2p2/1N1p4/3P4/2PB2B1/PPK2P1P/7q b - - 2 20"]
+[SetUp "1"]
+
+20... Qa1 21. Qb8+ Nxb8 22. Nc7# *

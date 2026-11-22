@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DIXH"]
+[Difficulty "easy"]
+[Rating "1166"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/wHHZUB0r/black#90"]
+[Solution "d2g2 a7a8"]
+[SolutionSAN "Rxg2 Ra8#"]
+[FEN "5k2/R7/5K1p/p7/1p6/5P1P/2Pr2P1/8 b - - 7 45"]
+[SetUp "1"]
+
+45... Rxg2 46. Ra8# *

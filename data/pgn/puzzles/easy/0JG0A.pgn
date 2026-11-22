@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JG0A"]
+[Difficulty "easy"]
+[Rating "1193"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/Dy7cGrJj#71"]
+[Solution "d7a7 c3e2 g1f2 e2f4"]
+[SolutionSAN "Ra7 Ne2+ Kf2 Nxf4"]
+[FEN "8/3R4/1p2r1kp/8/5R2/2n5/P5PP/6K1 w - - 5 36"]
+[SetUp "1"]
+
+36. Ra7 Ne2+ 37. Kf2 Nxf4 *

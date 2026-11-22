@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03dw0"]
+[Difficulty "easy"]
+[Rating "695"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/KKRAXB0D#119"]
+[Solution "b4b3 a2a1 b3b1 a1b1"]
+[SolutionSAN "Rb3 Ra1+ Rb1 Rxb1#"]
+[FEN "8/8/P7/6k1/1R6/6p1/r5P1/6K1 w - - 2 60"]
+[SetUp "1"]
+
+60. Rb3 Ra1+ 61. Rb1 Rxb1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07MUp"]
+[Difficulty "easy"]
+[Rating "660"]
+[Themes "endgame kingsideAttack mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/SMYcF8TQ/black#56"]
+[Solution "c7g3 e6e8 b8e8 e1e8"]
+[SolutionSAN "Qxg3 Re8+ Rxe8 Rxe8#"]
+[FEN "1r4k1/2q2pp1/4R2p/p2p4/2pP4/2P3QP/Pr3PP1/1B2R1K1 b - - 0 28"]
+[SetUp "1"]
+
+28... Qxg3 29. Re8+ Rxe8 30. Rxe8# *

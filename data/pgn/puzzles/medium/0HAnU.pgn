@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HAnU"]
+[Difficulty "medium"]
+[Rating "1265"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/nBW9arEg/black#60"]
+[Solution "e1e2 a7a8 e2e8 a8e8"]
+[SolutionSAN "Re2 Ra8+ Re8 Rxe8#"]
+[FEN "6k1/R1p2p1p/6p1/8/3Q1P2/7P/2q3PK/4r3 b - - 2 30"]
+[SetUp "1"]
+
+30... Re2 31. Ra8+ Re8 32. Rxe8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MMzd"]
+[Difficulty "hard"]
+[Rating "2228"]
+[Themes "mate mateIn4 middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/ZNLGh4V6#61"]
+[Solution "c4d5 h3g3 h2g3 g4g3 g1f1 g3h3 f2g2 h3g2"]
+[SolutionSAN "cxd5 Rxg3+ hxg3 Qxg3+ Kf1 Qh3+ Rg2 Qxg2#"]
+[FEN "8/p3rk2/6p1/3p4/2PBpPq1/1Q3bPr/P4R1P/4R1K1 w - - 1 31"]
+[SetUp "1"]
+
+31. cxd5 Rxg3+ 32. hxg3 Qxg3+ 33. Kf1 Qh3+ 34. Rg2 Qxg2# *

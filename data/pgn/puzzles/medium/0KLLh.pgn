@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KLLh"]
+[Difficulty "medium"]
+[Rating "1545"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/4tLQbfTi#37"]
+[Solution "g2h2 f6e5 f2f4 g8g3 e3g3 h4g3"]
+[SolutionSAN "Kh2 Be5+ f4 Rg3 Qxg3 hxg3+"]
+[FEN "1k4r1/p1pqnp2/1p1p1b2/1N6/P1P1P2p/4Q2P/1P1B1PK1/R4R2 w - - 1 19"]
+[SetUp "1"]
+
+19. Kh2 Be5+ 20. f4 Rg3 21. Qxg3 hxg3+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00vl5"]
+[Difficulty "easy"]
+[Rating "1002"]
+[Themes "mate mateIn2 middlegame operaMate sacrifice short"]
+[GameUrl "https://lichess.org/game/FkJvHJjC#47"]
+[Solution "b2b3 f7f1 e1f1 f8f1"]
+[SolutionSAN "b3 Qf1+ Rxf1 Rxf1#"]
+[FEN "5r2/p1k2qpp/2n5/2N1p3/2b5/2P1B3/PP1Q2PP/4R1K1 w - - 5 24"]
+[SetUp "1"]
+
+24. b3 Qf1+ 25. Rxf1 Rxf1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dxn3"]
+[Difficulty "medium"]
+[Rating "1391"]
+[Themes "advancedPawn crushing defensiveMove endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/pUTAx5k7/black#86"]
+[Solution "c8c6 b6b7 c6b6 d4d7"]
+[SolutionSAN "Rc6 b7 Rb6 Rd7"]
+[FEN "2r5/8/1P2p1k1/5pp1/2PR3p/3KP3/6P1/8 b - - 0 43"]
+[SetUp "1"]
+
+43... Rc6 44. b7 Rb6 45. Rd7 *

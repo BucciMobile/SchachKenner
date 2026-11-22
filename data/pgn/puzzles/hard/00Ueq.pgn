@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Ueq"]
+[Difficulty "hard"]
+[Rating "1725"]
+[Themes "attraction kingsideAttack master mate mateIn2 middlegame pin sacrifice short"]
+[GameUrl "https://lichess.org/game/CWZLKGkj/black#38"]
+[Solution "f8f6 h1h8 g8h8 g6h7"]
+[SolutionSAN "Rf6 Rh8+ Kxh8 Qh7#"]
+[FEN "r1b2rk1/pp4b1/n1pqp1Q1/4p3/2P2PP1/P2B4/1P6/R1B1K2R b KQ - 1 19"]
+[SetUp "1"]
+
+19... Rf6 20. Rh8+ Kxh8 21. Qh7# *

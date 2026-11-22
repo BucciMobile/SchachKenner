@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HYIM"]
+[Difficulty "medium"]
+[Rating "1402"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/hcz4885k/black#70"]
+[Solution "h8h7 g3h3 e5h5 h3h5"]
+[SolutionSAN "Kxh7 Rh3+ Rh5 Rxh5#"]
+[FEN "3r3k/7P/8/1p2r3/pPpp4/6R1/1PP4P/6RK b - - 1 35"]
+[SetUp "1"]
+
+35... Kxh7 36. Rh3+ Rh5 37. Rxh5# *

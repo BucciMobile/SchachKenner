@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KU8E"]
+[Difficulty "medium"]
+[Rating "1319"]
+[Themes "blindSwineMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/4n1U3btz#69"]
+[Solution "d5c3 e5e3"]
+[SolutionSAN "Nc3 R5e3#"]
+[FEN "8/5pk1/p7/1p1NrBp1/6P1/5K2/PP2r3/1R6 w - - 7 35"]
+[SetUp "1"]
+
+35. Nc3 R5e3# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06DmU"]
+[Difficulty "hard"]
+[Rating "2179"]
+[Themes "crushing endgame fork veryLong"]
+[GameUrl "https://lichess.org/game/waUTta5k#71"]
+[Solution "a8a5 d7d4 g1f1 d4d3 f1f2 g7d4 f2e1 d4c3 a5c3 d3c3"]
+[SolutionSAN "Qxa5 Qd4+ Kf1 Qxd3+ Kf2 Bd4+ Ke1 Bc3+ Qxc3 Qxc3+"]
+[FEN "Q7/3q2bk/7p/p7/8/1P1P4/P5PP/6K1 w - - 3 36"]
+[SetUp "1"]
+
+36. Qxa5 Qd4+ 37. Kf1 Qxd3+ 38. Kf2 Bd4+ 39. Ke1 Bc3+ 40. Qxc3 Qxc3+ *

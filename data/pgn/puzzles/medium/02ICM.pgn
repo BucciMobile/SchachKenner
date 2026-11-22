@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02ICM"]
+[Difficulty "medium"]
+[Rating "1673"]
+[Themes "advancedPawn crushing endgame knightEndgame long promotion sacrifice"]
+[GameUrl "https://lichess.org/game/lUhC65Pm#101"]
+[Solution "b3c2 b4b3 c2d2 a3a2 d2c3 a2a1q"]
+[SolutionSAN "Kc2 b3+ Kxd2 a2 Kc3 a1=Q+"]
+[FEN "4k3/8/8/4N3/1pPP4/pK5P/3n2P1/8 w - - 2 51"]
+[SetUp "1"]
+
+51. Kc2 b3+ 52. Kxd2 a2 53. Kc3 a1=Q+ *

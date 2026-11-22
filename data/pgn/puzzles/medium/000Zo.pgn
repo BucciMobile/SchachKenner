@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "000Zo"]
+[Difficulty "medium"]
+[Rating "1363"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/n8Ff742v#69"]
+[Solution "e5f6 e8e1 g1f2 e1f1"]
+[SolutionSAN "exf6 Re1+ Kf2 Rf1#"]
+[FEN "4r3/1k6/pp3r2/1b2P2p/3R1p2/P1R2P2/1P4PP/6K1 w - - 0 35"]
+[SetUp "1"]
+
+35. exf6 Re1+ 36. Kf2 Rf1# *

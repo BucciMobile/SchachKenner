@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "041aI"]
+[Difficulty "hard"]
+[Rating "1833"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/0aK66JtO#79"]
+[Solution "b2b3 b5b4 c3b4 a5b4"]
+[SolutionSAN "b3 b4 cxb4 axb4"]
+[FEN "8/3k4/4p3/pp1pK3/3P4/2P5/PP6/8 w - - 5 40"]
+[SetUp "1"]
+
+40. b3 b4 41. cxb4 axb4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Jel"]
+[Difficulty "easy"]
+[Rating "796"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/EcYXmYmo/black#54"]
+[Solution "e2e7 h6f8"]
+[SolutionSAN "Rxe7 Qxf8#"]
+[FEN "5r1k/p3R2p/1p5Q/5p2/8/1P4P1/Pq2rPBP/5RK1 b - - 0 27"]
+[SetUp "1"]
+
+27... Rxe7 28. Qxf8# *

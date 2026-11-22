@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CpJS"]
+[Difficulty "hard"]
+[Rating "2430"]
+[Themes "advantage defensiveMove endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/cfZvwSiR/black#82"]
+[Solution "b4a5 g4g5 h6g5 f4g5 a5b6 h2h4"]
+[SolutionSAN "Kxa5 g5 hxg5 fxg5 Kb6 h4"]
+[FEN "8/1p4p1/p1p4p/P7/1k3PP1/3K4/7P/8 b - - 1 41"]
+[SetUp "1"]
+
+41... Kxa5 42. g5 hxg5 43. fxg5 Kb6 44. h4 *

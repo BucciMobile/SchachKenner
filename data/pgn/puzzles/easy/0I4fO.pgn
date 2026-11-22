@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I4fO"]
+[Difficulty "easy"]
+[Rating "965"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/XwBbYqLQ#95"]
+[Solution "h1g1 h7h2"]
+[SolutionSAN "Kg1 Qh2#"]
+[FEN "k4r2/p6q/PpN5/3Q4/3P4/2P3p1/6P1/R3R2K w - - 1 48"]
+[SetUp "1"]
+
+48. Kg1 Qh2# *

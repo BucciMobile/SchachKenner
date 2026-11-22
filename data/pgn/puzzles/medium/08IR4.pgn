@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08IR4"]
+[Difficulty "medium"]
+[Rating "1585"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/2cmJtrP4/black#62"]
+[Solution "c8c4 g4e6 g8h8 e6c4"]
+[SolutionSAN "Rxc4 Qe6+ Kh8 Qxc4"]
+[FEN "r1r3k1/4p1nq/p2p4/8/2P1P1Q1/Pp6/8/1K3RR1 b - - 1 31"]
+[SetUp "1"]
+
+31... Rxc4 32. Qe6+ Kh8 33. Qxc4 *

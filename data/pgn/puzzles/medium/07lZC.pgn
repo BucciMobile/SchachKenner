@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07lZC"]
+[Difficulty "medium"]
+[Rating "1220"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/LDGaqeJl/black#82"]
+[Solution "g4g5 f2g2 g5g2 f1g2"]
+[SolutionSAN "Qxg5 Rg2 Qxg2+ Kxg2"]
+[FEN "6k1/5p2/8/1B4P1/P5q1/8/5R2/5K2 b - - 2 41"]
+[SetUp "1"]
+
+41... Qxg5 42. Rg2 Qxg2+ 43. Kxg2 *

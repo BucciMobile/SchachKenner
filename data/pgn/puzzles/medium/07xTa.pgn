@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07xTa"]
+[Difficulty "medium"]
+[Rating "1652"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/PdpAg5zv#59"]
+[Solution "d1g1 c5e4 f2f1 e4d2"]
+[SolutionSAN "Qg1 Ne4+ Kf1 Nd2+"]
+[FEN "6k1/5r1p/2p1b1p1/2n5/1pP3q1/1P3N2/PN2PKB1/1R1Q4 w - - 1 30"]
+[SetUp "1"]
+
+30. Qg1 Ne4+ 31. Kf1 Nd2+ *

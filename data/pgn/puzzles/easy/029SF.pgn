@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "029SF"]
+[Difficulty "easy"]
+[Rating "965"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/CVuRSpp6/black#48"]
+[Solution "c7d6 f4d6"]
+[SolutionSAN "Bxd6 Bxd6#"]
+[FEN "rk2q3/ppb4p/2nN1p2/5Q2/1P1P1B2/5N2/P4PPP/6K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Bxd6 25. Bxd6# *

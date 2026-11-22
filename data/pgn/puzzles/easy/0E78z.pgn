@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E78z"]
+[Difficulty "easy"]
+[Rating "1036"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/OGrC2b5f#61"]
+[Solution "c1e1 f2f1 e1f1 f7f1"]
+[SolutionSAN "Rxe1 Qf1+ Rxf1 Rxf1#"]
+[FEN "6k1/5rp1/3p3p/8/1Q6/8/P4qPP/2R1r2K w - - 0 31"]
+[SetUp "1"]
+
+31. Rxe1 Qf1+ 32. Rxf1 Rxf1# *

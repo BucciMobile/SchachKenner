@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09CkV"]
+[Difficulty "medium"]
+[Rating "1485"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/jEbKfvLq#41"]
+[Solution "d2f3 h4g4 g3g4 h5g4"]
+[SolutionSAN "Nf3 Rg4 Qxg4 Qxg4"]
+[FEN "r7/pp3pk1/1b3pn1/2p1p2q/4B2r/2PP2Q1/PP1N1PPP/R3R1K1 w - - 2 21"]
+[SetUp "1"]
+
+21. Nf3 Rg4 22. Qxg4 Qxg4 *

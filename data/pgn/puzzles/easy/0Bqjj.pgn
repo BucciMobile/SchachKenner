@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bqjj"]
+[Difficulty "easy"]
+[Rating "1088"]
+[Themes "crushing deflection endgame short"]
+[GameUrl "https://lichess.org/game/mISg4fUU/black#86"]
+[Solution "d4e3 h4h2 d2c3 f3e3"]
+[SolutionSAN "Be3 Rh2+ Kc3 Kxe3"]
+[FEN "8/pp3p2/4pp1r/7P/P2bP2R/1P1B1K2/2Pk4/8 b - - 2 43"]
+[SetUp "1"]
+
+43... Be3 44. Rh2+ Kc3 45. Kxe3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03NrK"]
+[Difficulty "hard"]
+[Rating "1974"]
+[Themes "advantage endgame kingsideAttack long"]
+[GameUrl "https://lichess.org/game/MySnBumQ/black#60"]
+[Solution "g7g8 h6f6 g8g7 g3g7 f8g7 f6d8"]
+[SolutionSAN "Rg8 Qf6+ Rg7 Rxg7 Qxg7 Qd8+"]
+[FEN "5q1k/1p3prp/p2np2Q/3p1p2/3P4/1PP2NRP/P3KP2/8 b - - 2 30"]
+[SetUp "1"]
+
+30... Rg8 31. Qf6+ Rg7 32. Rxg7 Qxg7 33. Qd8+ *

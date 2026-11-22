@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "086VW"]
+[Difficulty "easy"]
+[Rating "937"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/QsevajDi#35"]
+[Solution "c1e3 f2f1 a1f1 f5f1"]
+[SolutionSAN "Be3 Rxf1+ Rxf1 Qxf1#"]
+[FEN "5rk1/p5pp/3Qb3/4pq2/3P4/8/PP3rPP/R1B2RK1 w - - 0 18"]
+[SetUp "1"]
+
+18. Be3 Rxf1+ 19. Rxf1 Qxf1# *

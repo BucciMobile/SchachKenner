@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Fju"]
+[Difficulty "easy"]
+[Rating "919"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/wTyRyhWX#63"]
+[Solution "c2d1 h1h2"]
+[SolutionSAN "Qxd1 Qxh2#"]
+[FEN "6k1/5p1p/4p3/5p2/7R/6PK/2Q1PP1P/3r1n1q w - - 4 32"]
+[SetUp "1"]
+
+32. Qxd1 Qxh2# *

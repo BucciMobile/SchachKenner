@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Aqq3"]
+[Difficulty "easy"]
+[Rating "1056"]
+[Themes "crushing endgame knightEndgame master short trappedPiece"]
+[GameUrl "https://lichess.org/game/tftFOzxT/black#110"]
+[Solution "c6c5 d6c5 g8h7 c5b4"]
+[SolutionSAN "c5 Kxc5 Kh7 Kxb4"]
+[FEN "6k1/6p1/p1pK4/P6P/1n6/8/2p5/2N5 b - - 3 55"]
+[SetUp "1"]
+
+55... c5 56. Kxc5 Kh7 57. Kxb4 *

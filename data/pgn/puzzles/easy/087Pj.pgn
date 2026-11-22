@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "087Pj"]
+[Difficulty "easy"]
+[Rating "1059"]
+[Themes "crushing discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/XKZtpHET#53"]
+[Solution "b2d4 f7f1 a1f1 e8g6"]
+[SolutionSAN "Bd4 Rf1+ Rxf1 Qxg6"]
+[FEN "4q1k1/2p2rpn/pp4Qp/3P4/2P1p3/1P2P2P/PB4P1/R5K1 w - - 2 27"]
+[SetUp "1"]
+
+27. Bd4 Rf1+ 28. Rxf1 Qxg6 *

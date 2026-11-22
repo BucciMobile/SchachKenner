@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09p0V"]
+[Difficulty "easy"]
+[Rating "1111"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/koyMUHhi/black#78"]
+[Solution "f7f6 e5d7 e8d7 d5d7"]
+[SolutionSAN "f6 Nd7+ Qxd7 Qxd7"]
+[FEN "4qk2/4bppp/8/3QN3/1p6/2p3P1/5P1P/6K1 b - - 7 39"]
+[SetUp "1"]
+
+39... f6 40. Nd7+ Qxd7 41. Qxd7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E22G"]
+[Difficulty "hard"]
+[Rating "1850"]
+[Themes "crushing endgame long quietMove rookEndgame"]
+[GameUrl "https://lichess.org/game/ERvEZBsR/black#74"]
+[Solution "h6h5 e8g8 e2f2 f1f2 c2f2 g2f2"]
+[SolutionSAN "Kxh5 Rg8 Rxf2+ Rxf2 Rxf2+ Kxf2"]
+[FEN "4R3/8/4p2k/5p1P/8/6P1/2r1rPK1/5R2 b - - 10 37"]
+[SetUp "1"]
+
+37... Kxh5 38. Rg8 Rxf2+ 39. Rxf2 Rxf2+ 40. Kxf2 *

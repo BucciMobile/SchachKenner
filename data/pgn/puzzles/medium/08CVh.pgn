@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08CVh"]
+[Difficulty "medium"]
+[Rating "1276"]
+[Themes "bishopEndgame crushing endgame short"]
+[GameUrl "https://lichess.org/game/ChmTEiQO/black#74"]
+[Solution "c2d3 c5d6 e7d8 d5e5"]
+[SolutionSAN "Bxd3 cxd6+ Kd8 Kxe5"]
+[FEN "B7/4k3/3p2pp/2PKpp2/3p4/3P2P1/2b2P1P/8 b - - 0 37"]
+[SetUp "1"]
+
+37... Bxd3 38. cxd6+ Kd8 39. Kxe5 *

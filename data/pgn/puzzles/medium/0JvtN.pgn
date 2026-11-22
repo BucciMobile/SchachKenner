@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JvtN"]
+[Difficulty "medium"]
+[Rating "1302"]
+[Themes "advantage middlegame veryLong"]
+[GameUrl "https://lichess.org/game/Iru2EQf6#65"]
+[Solution "g2g3 f8e8 e6a2 e8e3 g3h2 e3c3 c1c3 c6c3"]
+[SolutionSAN "Kg3 Re8 Qa2 Re3+ Kh2 Rxc3 Rxc3 Qxc3"]
+[FEN "5rk1/1p3rp1/2qpQp1p/8/5PP1/2B4P/6K1/2R2R2 w - - 0 33"]
+[SetUp "1"]
+
+33. Kg3 Re8 34. Qa2 Re3+ 35. Kh2 Rxc3 36. Rxc3 Qxc3 *

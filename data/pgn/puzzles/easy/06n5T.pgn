@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06n5T"]
+[Difficulty "easy"]
+[Rating "667"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/rhE2lTDb#27"]
+[Solution "f3g5 f6f2"]
+[SolutionSAN "Nxg5 Qxf2#"]
+[FEN "r1b1r1k1/ppp2pp1/3p1q1p/2b1p1n1/4P1P1/2PP1N1P/PP1N1P2/R1BQK2R w KQ - 7 14"]
+[SetUp "1"]
+
+14. Nxg5 Qxf2# *

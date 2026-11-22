@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04xE4"]
+[Difficulty "medium"]
+[Rating "1652"]
+[Themes "endgame mate mateIn2 queensideAttack short"]
+[GameUrl "https://lichess.org/game/XfD3yYYd#47"]
+[Solution "d1d3 a2a1 c1d2 a1e1"]
+[SolutionSAN "Rxd3 Qa1+ Kd2 Qe1#"]
+[FEN "4r1k1/1p3pp1/pN1p3p/5P2/6P1/P2b3P/qPP3Q1/2KR4 w - - 0 24"]
+[SetUp "1"]
+
+24. Rxd3 Qa1+ 25. Kd2 Qe1# *

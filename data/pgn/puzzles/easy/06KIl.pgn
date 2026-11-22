@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06KIl"]
+[Difficulty "easy"]
+[Rating "969"]
+[Themes "kingsideAttack master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/XmAVCxBf/black#38"]
+[Solution "b7f3 g2g7"]
+[SolutionSAN "Bxf3 Qxg7#"]
+[FEN "r2q1rk1/pb3ppp/4pP2/2p1P3/2p2P2/1P1p1R2/P2P2QP/R1B3K1 b - - 0 19"]
+[SetUp "1"]
+
+19... Bxf3 20. Qxg7# *

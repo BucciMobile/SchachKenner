@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Q6b"]
+[Difficulty "medium"]
+[Rating "1502"]
+[Themes "mate mateIn2 middlegame pillsburysMate short"]
+[GameUrl "https://lichess.org/game/KyoqPCST/black#56"]
+[Solution "f7f6 g2g6 f6e5 h7h5"]
+[SolutionSAN "Kxf6 Rg6+ Ke5 Rh5#"]
+[FEN "r7/5k1R/2p2P2/3p4/pp6/qP1Br3/P1P1N1R1/1K6 b - - 1 28"]
+[SetUp "1"]
+
+28... Kxf6 29. Rg6+ Ke5 30. Rh5# *

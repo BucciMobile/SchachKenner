@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LQSI"]
+[Difficulty "medium"]
+[Rating "1283"]
+[Themes "advantage fork long middlegame skewer"]
+[GameUrl "https://lichess.org/game/eCJMeEDB/black#56"]
+[Solution "b6d5 b3b8 d6b8 c1c8 f8e7 c8h8"]
+[SolutionSAN "Nd5 Qxb8+ Bxb8 Rc8+ Ke7 Rxh8"]
+[FEN "1q3k1r/6pp/pn1bpp2/8/8/1Q3P1P/P2B1P2/2R3K1 b - - 0 28"]
+[SetUp "1"]
+
+28... Nd5 29. Qxb8+ Bxb8 30. Rc8+ Ke7 31. Rxh8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04bHj"]
+[Difficulty "medium"]
+[Rating "1373"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/JwSJwoqc/black#26"]
+[Solution "f5c2 d2c4 d5c4 e2c2"]
+[SolutionSAN "Bxc2 Nxc4 dxc4 Qxc2"]
+[FEN "r2q1rk1/ppp1bppp/4p3/n2pPb2/2nP1B2/P1N4P/BPPNQPP1/R3K2R b KQ - 1 13"]
+[SetUp "1"]
+
+13... Bxc2 14. Nxc4 dxc4 15. Qxc2 *

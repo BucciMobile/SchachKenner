@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09AHO"]
+[Difficulty "hard"]
+[Rating "1906"]
+[Themes "crushing defensiveMove endgame long zugzwang"]
+[GameUrl "https://lichess.org/game/MPBLnI3V#105"]
+[Solution "c4e5 e6e5 g2f1 e5d4 f1e2 d4e4"]
+[SolutionSAN "Nxe5 Kxe5 Kf1 Kd4 Ke2 Ke4"]
+[FEN "8/8/4k3/4b2p/2N3pP/6P1/6K1/8 w - - 0 53"]
+[SetUp "1"]
+
+53. Nxe5 Kxe5 54. Kf1 Kd4 55. Ke2 Ke4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0744V"]
+[Difficulty "easy"]
+[Rating "1160"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/M9f8UkCu/black#92"]
+[Solution "f4f3 c6f3"]
+[SolutionSAN "f3+ Qxf3#"]
+[FEN "8/p7/1pQ5/6b1/3P1pkr/2P5/PP4K1/5N1r b - - 1 46"]
+[SetUp "1"]
+
+46... f3+ 47. Qxf3# *

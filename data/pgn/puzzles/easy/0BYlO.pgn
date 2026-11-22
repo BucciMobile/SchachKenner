@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BYlO"]
+[Difficulty "easy"]
+[Rating "894"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+[GameUrl "https://lichess.org/game/txtksrKT/black#92"]
+[Solution "g6h7 f3h3"]
+[SolutionSAN "Kh7 Rh3#"]
+[FEN "8/8/2p3k1/2pp4/5K2/2P2R2/2q5/6R1 b - - 5 46"]
+[SetUp "1"]
+
+46... Kh7 47. Rh3# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GspW"]
+[Difficulty "hard"]
+[Rating "1819"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/GDQmfT6L/black#68"]
+[Solution "h4e1 h5f6 c6c5 f6e8 d6c6 g7c7"]
+[SolutionSAN "Be1 Nf6 c5 Ne8+ Kc6 Rxc7+"]
+[FEN "8/2p3R1/2pkp3/p2p3N/P2P1PKb/1rP5/8/8 b - - 4 34"]
+[SetUp "1"]
+
+34... Be1 35. Nf6 c5 36. Ne8+ Kc6 37. Rxc7+ *

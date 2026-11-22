@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G615"]
+[Difficulty "medium"]
+[Rating "1516"]
+[Themes "deflection endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/jxiDc2eh#71"]
+[Solution "g3g4 e6e3 h3h4 c2h2"]
+[SolutionSAN "g4 Re3+ Kh4 Rxh2#"]
+[FEN "8/R6R/1p2rk2/2p5/8/2P3PK/2r4P/8 w - - 1 36"]
+[SetUp "1"]
+
+36. g4 Re3+ 37. Kh4 Rxh2# *

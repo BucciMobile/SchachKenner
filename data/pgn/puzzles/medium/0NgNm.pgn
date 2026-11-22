@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NgNm"]
+[Difficulty "medium"]
+[Rating "1297"]
+[Themes "advantage hangingPiece intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/HR7VQRYK#43"]
+[Solution "c1c7 f6d4 g1h1 b7c7"]
+[SolutionSAN "Rxc7 Bxd4+ Kh1 Qxc7"]
+[FEN "5rk1/1qrn1ppp/p2pbb2/1p6/1P1BPP2/P6P/3N2P1/1BRQ1RK1 w - - 3 22"]
+[SetUp "1"]
+
+22. Rxc7 Bxd4+ 23. Kh1 Qxc7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FN1G"]
+[Difficulty "easy"]
+[Rating "564"]
+[Themes "master masterVsMaster mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/PMmf5kVd#43"]
+[Solution "b2c3 d6a3"]
+[SolutionSAN "bxc3 Ba3#"]
+[FEN "r2r2k1/1pp2p2/3b2nQ/p3pbN1/8/2q3P1/PP2BP2/2KR3R w - - 0 22"]
+[SetUp "1"]
+
+22. bxc3 Ba3# *

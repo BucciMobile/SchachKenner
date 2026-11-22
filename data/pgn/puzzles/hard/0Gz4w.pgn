@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gz4w"]
+[Difficulty "hard"]
+[Rating "1776"]
+[Themes "advantage defensiveMove endgame pawnEndgame quietMove short zugzwang"]
+[GameUrl "https://lichess.org/game/ICzuorTN#89"]
+[Solution "e3f3 c6c5 f3e3 f5e5"]
+[SolutionSAN "Kf3 c5 Ke3 Ke5"]
+[FEN "8/8/1pp5/p4k2/P1P4p/1P2K2P/8/8 w - - 0 45"]
+[SetUp "1"]
+
+45. Kf3 c5 46. Ke3 Ke5 *

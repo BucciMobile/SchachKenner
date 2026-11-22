@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HEN5"]
+[Difficulty "medium"]
+[Rating "1436"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/2iovU6iL#83"]
+[Solution "f3f4 c4a5 b3b4 a5b7"]
+[SolutionSAN "f4 Na5+ Kb4 Nxb7"]
+[FEN "8/1R4p1/2p2pk1/3p2n1/2nP2P1/PKP2P2/2N5/4N2r w - - 1 42"]
+[SetUp "1"]
+
+42. f4 Na5+ 43. Kb4 Nxb7 *

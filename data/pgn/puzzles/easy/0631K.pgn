@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0631K"]
+[Difficulty "easy"]
+[Rating "665"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/owljRdtL#25"]
+[Solution "e1f1 d5d1"]
+[SolutionSAN "Kf1 Qd1#"]
+[FEN "r1b1k1r1/pp3p1p/2n2Qp1/3qp1N1/1b4P1/8/PP2PPBP/R1B1K2R w KQq - 6 13"]
+[SetUp "1"]
+
+13. Kf1 Qd1# *

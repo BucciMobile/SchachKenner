@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00jNk"]
+[Difficulty "easy"]
+[Rating "1061"]
+[Themes "fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/aOJ6ffu5#57"]
+[Solution "c7d6 e2f2 g1h2 f2g2"]
+[SolutionSAN "Qxd6 Qxf2+ Kh2 Qxg2#"]
+[FEN "7r/2Q2pb1/3ppk1p/5Bp1/3P4/1N2P1P1/Pr2qPP1/R5KR w - - 6 29"]
+[SetUp "1"]
+
+29. Qxd6 Qxf2+ 30. Kh2 Qxg2# *

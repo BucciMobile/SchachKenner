@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MTXZ"]
+[Difficulty "medium"]
+[Rating "1320"]
+[Themes "advantage capturingDefender endgame short"]
+[GameUrl "https://lichess.org/game/c2QokUOr/black#54"]
+[Solution "d3c3 a2a5 d5a5 c4c3"]
+[SolutionSAN "Rc3 Rxa5 Rxa5 Rxc3"]
+[FEN "2k5/1pp4p/p7/b2r1p2/2R4N/3rP1P1/R4PKP/8 b - - 1 27"]
+[SetUp "1"]
+
+27... Rc3 28. Rxa5 Rxa5 29. Rxc3 *

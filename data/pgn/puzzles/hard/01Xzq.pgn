@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Xzq"]
+[Difficulty "hard"]
+[Rating "1746"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/fZJPnCLr/black#106"]
+[Solution "c6f3 e5e7 f3f6 e7f6"]
+[SolutionSAN "Qf3 Qe7+ Qf6 Qxf6#"]
+[FEN "8/8/2q3bp/4Q3/6Pk/7P/5P1K/8 b - - 7 53"]
+[SetUp "1"]
+
+53... Qf3 54. Qe7+ Qf6 55. Qxf6# *

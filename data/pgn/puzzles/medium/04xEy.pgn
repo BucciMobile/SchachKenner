@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04xEy"]
+[Difficulty "medium"]
+[Rating "1306"]
+[Themes "crushing endgame master queenEndgame short"]
+[GameUrl "https://lichess.org/game/urdAlAnX#61"]
+[Solution "f2f4 f6f5 g4f5 g6f5"]
+[SolutionSAN "f4 Qf5+ Qxf5 gxf5"]
+[FEN "1k6/1p6/p4qp1/8/PP4Qp/2P5/2K2P2/8 w - - 2 31"]
+[SetUp "1"]
+
+31. f4 Qf5+ 32. Qxf5 gxf5 *

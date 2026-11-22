@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KFHa"]
+[Difficulty "medium"]
+[Rating "1269"]
+[Themes "crushing discoveredAttack endgame master short"]
+[GameUrl "https://lichess.org/game/jCim8uBH/black#62"]
+[Solution "f8d7 g3f5 e6f5 f2h4"]
+[SolutionSAN "Nd7 Nf5+ Bxf5 Qxh4"]
+[FEN "5n2/6kp/2p1b1p1/p1PpP3/Pp1P3q/3B2NP/5QP1/6K1 b - - 2 31"]
+[SetUp "1"]
+
+31... Nd7 32. Nf5+ Bxf5 33. Qxh4 *

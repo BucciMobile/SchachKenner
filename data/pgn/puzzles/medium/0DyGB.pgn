@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DyGB"]
+[Difficulty "medium"]
+[Rating "1340"]
+[Themes "advantage defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/hAfcjJFQ/black#58"]
+[Solution "d4b2 f1f2 b2f2 f5f2"]
+[SolutionSAN "Qxb2+ R1f2 Qxf2+ Rxf2"]
+[FEN "2k4r/ppp5/8/2p1NR2/3q4/P2P3P/1P5K/5R2 b - - 4 29"]
+[SetUp "1"]
+
+29... Qxb2+ 30. R1f2 Qxf2+ 31. Rxf2 *

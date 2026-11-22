@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07duz"]
+[Difficulty "easy"]
+[Rating "980"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/fQEGTHeh#43"]
+[Solution "c1e1 d5f3 c3f3 f6f3 g2f3 f8f3"]
+[SolutionSAN "Re1 Bxf3 Qxf3 Qxf3 Bxf3 Rxf3"]
+[FEN "2r2rk1/2p3pp/2n1pq2/p2b4/3P4/P1Q2NP1/3R1PBP/2R3K1 w - - 2 22"]
+[SetUp "1"]
+
+22. Re1 Bxf3 23. Qxf3 Qxf3 24. Bxf3 Rxf3 *

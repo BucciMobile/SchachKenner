@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HXFS"]
+[Difficulty "hard"]
+[Rating "1900"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/JF80DuxV#41"]
+[Solution "e2f4 b6h6 f4h3 g4h3 d1c1 c5e3"]
+[SolutionSAN "Nxf4 Qh6+ Nh3 Bxh3 Qc1 Be3"]
+[FEN "r5k1/pp4pp/1q6/2bpP3/5rb1/P2B1P2/1P2N1P1/R2Q1R1K w - - 0 21"]
+[SetUp "1"]
+
+21. Nxf4 Qh6+ 22. Nh3 Bxh3 23. Qc1 Be3 *

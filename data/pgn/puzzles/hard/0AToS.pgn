@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AToS"]
+[Difficulty "hard"]
+[Rating "1742"]
+[Themes "endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/eQFEGzoG/black#78"]
+[Solution "a5a6 c7c6 a6a5 b2b4 a5a4 c6a6"]
+[SolutionSAN "Ka6 Qc6+ Ka5 b4+ Ka4 Qa6#"]
+[FEN "8/p1Q5/3p4/kp6/3P1K2/2P2Rr1/PP4r1/4q3 b - - 3 39"]
+[SetUp "1"]
+
+39... Ka6 40. Qc6+ Ka5 41. b4+ Ka4 42. Qa6# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Y8z"]
+[Difficulty "easy"]
+[Rating "585"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/N2P0vPuP/black#24"]
+[Solution "f6d7 d3h7"]
+[SolutionSAN "Nfd7 Qh7#"]
+[FEN "rn1q1rk1/ppp2pp1/4pn2/3p2P1/3P1P2/2NQ1P2/PPP5/R3K1NR b KQ - 0 12"]
+[SetUp "1"]
+
+12... Nfd7 13. Qh7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02aAS"]
+[Difficulty "medium"]
+[Rating "1375"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/Ji6gBnpa#51"]
+[Solution "d2c3 d8d1 c2d1 g7c3"]
+[SolutionSAN "Bc3 Rxd1+ Qxd1 Bxc3"]
+[FEN "3r2k1/p1q3bp/1p2b1p1/5p2/P1P1p2P/1P4P1/2QB1PB1/3R2K1 w - - 0 26"]
+[SetUp "1"]
+
+26. Bc3 Rxd1+ 27. Qxd1 Bxc3 *

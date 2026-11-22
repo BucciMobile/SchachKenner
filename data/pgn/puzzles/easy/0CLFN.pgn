@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CLFN"]
+[Difficulty "easy"]
+[Rating "704"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/jChuB2id/black#30"]
+[Solution "h7h6 d3h7"]
+[SolutionSAN "h6 Qh7#"]
+[FEN "r2q1rk1/1b1n1ppp/p3p3/1p1pP1N1/1b1P1PPn/1PNQ4/PB2B2P/2R2RK1 b - - 2 15"]
+[SetUp "1"]
+
+15... h6 16. Qh7# *

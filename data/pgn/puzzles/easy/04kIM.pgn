@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04kIM"]
+[Difficulty "easy"]
+[Rating "1163"]
+[Themes "attraction endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/pk4iXnrq#65"]
+[Solution "f5f7 d1f1 g1f1 a4d1"]
+[SolutionSAN "Qxf7 Rxf1+ Kxf1 Qd1#"]
+[FEN "7k/5pp1/7p/5Q2/q6P/8/5PP1/3r1RK1 w - - 5 33"]
+[SetUp "1"]
+
+33. Qxf7 Rxf1+ 34. Kxf1 Qd1# *

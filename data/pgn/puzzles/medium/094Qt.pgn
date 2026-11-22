@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "094Qt"]
+[Difficulty "medium"]
+[Rating "1412"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/AyTk8aO2/black#26"]
+[Solution "g6f7 e6c8"]
+[SolutionSAN "Qf7 Qc8#"]
+[FEN "rn2k2r/pp2b1pp/2p1Qnq1/8/8/6N1/PPPP1PPP/R1B1R1K1 b kq - 2 13"]
+[SetUp "1"]
+
+13... Qf7 14. Qc8# *

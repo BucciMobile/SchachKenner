@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ixcp"]
+[Difficulty "hard"]
+[Rating "1867"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/3ATy9Hzk/black#32"]
+[Solution "c6d4 g1f3 h1g2 f3d4"]
+[SolutionSAN "Nd4 Nf3 Qg2 Nxd4"]
+[FEN "3r1rk1/ppp2ppp/2n5/1B2P3/8/4Q3/PPP4P/2K2RNq b - - 4 16"]
+[SetUp "1"]
+
+16... Nd4 17. Nf3 Qg2 18. Nxd4 *

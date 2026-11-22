@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Bzk"]
+[Difficulty "hard"]
+[Rating "1897"]
+[Themes "advancedPawn crushing deflection endgame knightEndgame promotion short"]
+[GameUrl "https://lichess.org/game/XytHN4nr#125"]
+[Solution "h4h5 c4e3 c2e3 a2a1q"]
+[SolutionSAN "h5 Ne3 Nxe3 a1=Q+"]
+[FEN "8/8/8/8/2n4P/2K3P1/p1N5/1k6 w - - 1 63"]
+[SetUp "1"]
+
+63. h5 Ne3 64. Nxe3 a1=Q+ *

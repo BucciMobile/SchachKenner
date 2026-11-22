@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H3Pa"]
+[Difficulty "medium"]
+[Rating "1663"]
+[Themes "advantage kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/Nfyk89XK#37"]
+[Solution "e8d8 e7e5 d8f6 e5e1"]
+[SolutionSAN "Qd8 Rxe5 Qxf6 Rxe1+"]
+[FEN "r1b1Qnk1/pp2r1p1/5q1p/2p1Np2/5P2/8/PPP3PP/R1B1R1K1 w - - 2 19"]
+[SetUp "1"]
+
+19. Qd8 Rxe5 20. Qxf6 Rxe1+ *

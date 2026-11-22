@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Imhd"]
+[Difficulty "easy"]
+[Rating "880"]
+[Themes "advantage fork hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/faM1917h#67"]
+[Solution "e6d7 e8e1 f3f1 e1f1"]
+[SolutionSAN "exd7 Rxe1+ Rf1 Rxf1+"]
+[FEN "2r1r2k/3n1Q2/pq2P1pp/8/1p6/5R2/P5PP/3NR2K w - - 0 34"]
+[SetUp "1"]
+
+34. exd7 Rxe1+ 35. Rf1 Rxf1+ *

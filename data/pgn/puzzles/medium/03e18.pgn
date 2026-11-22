@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03e18"]
+[Difficulty "medium"]
+[Rating "1296"]
+[Themes "crushing endgame intermezzo short"]
+[GameUrl "https://lichess.org/game/XFBCm0mA#61"]
+[Solution "d1d4 a3a1 g1h2 c5d4"]
+[SolutionSAN "Rxd4 Ra1+ Kh2 cxd4"]
+[FEN "4r1k1/R5pp/p2B1p2/2p5/2Pb4/r6P/5PP1/3R2K1 w - - 0 31"]
+[SetUp "1"]
+
+31. Rxd4 Ra1+ 32. Kh2 cxd4 *

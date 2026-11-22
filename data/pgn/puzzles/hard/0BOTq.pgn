@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BOTq"]
+[Difficulty "hard"]
+[Rating "2348"]
+[Themes "crushing long master middlegame"]
+[GameUrl "https://lichess.org/game/NCwMZqcu/black#90"]
+[Solution "g5g4 e6g6 g4h4 g6g5 h4h3 g5g2"]
+[SolutionSAN "Kg4 Qg6+ Kh4 Qg5+ Kh3 Qg2+"]
+[FEN "7r/1b4b1/2p1Q3/p2q1nk1/4RP2/1P6/P7/2R3K1 b - - 0 45"]
+[SetUp "1"]
+
+45... Kg4 46. Qg6+ Kh4 47. Qg5+ Kh3 48. Qg2+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EGbH"]
+[Difficulty "medium"]
+[Rating "1550"]
+[Themes "crushing hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/11L0ep3C#45"]
+[Solution "c4e6 g7e6 d7g7 e6g7"]
+[SolutionSAN "Bxe6+ Nxe6 Rg7+ Nxg7"]
+[FEN "r5kr/pppR2n1/4p1pp/2Q1P3/1BB1q3/4n3/PP4PP/5RK1 w - - 4 23"]
+[SetUp "1"]
+
+23. Bxe6+ Nxe6 24. Rg7+ Nxg7 *

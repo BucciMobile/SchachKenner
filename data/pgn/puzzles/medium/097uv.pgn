@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "097uv"]
+[Difficulty "medium"]
+[Rating "1496"]
+[Themes "advantage exposedKing fork long middlegame"]
+[GameUrl "https://lichess.org/game/WG6LxxSJ#71"]
+[Solution "e2d2 c4h4 f3h3 h4f4 g1g3 f4d2"]
+[SolutionSAN "Rd2 Qxh4+ Qh3 Qf4+ Rg3 Qxd2"]
+[FEN "5r1k/7p/1pp1n3/p3Pp2/2q4P/3p1Q2/P3RP1K/3N2R1 w - - 0 36"]
+[SetUp "1"]
+
+36. Rd2 Qxh4+ 37. Qh3 Qf4+ 38. Rg3 Qxd2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JVZ5"]
+[Difficulty "medium"]
+[Rating "1235"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/wbOC6aw2#69"]
+[Solution "c5b6 e4e1 g1h2 e1e5 f2f4 e5b2"]
+[SolutionSAN "Qb6 Qe1+ Kh2 Qe5+ f4 Qxb2"]
+[FEN "4r1k1/5p1p/p5p1/2Q5/PP2q3/7P/1R3PP1/6K1 w - - 5 35"]
+[SetUp "1"]
+
+35. Qb6 Qe1+ 36. Kh2 Qe5+ 37. f4 Qxb2 *

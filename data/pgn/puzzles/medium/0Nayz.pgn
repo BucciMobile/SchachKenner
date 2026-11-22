@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Nayz"]
+[Difficulty "medium"]
+[Rating "1491"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/OKNNYqoW/black#56"]
+[Solution "g8h8 d5c7 a6b6 b3b6"]
+[SolutionSAN "Kh8 Nc7 Qb6 Qxb6"]
+[FEN "4rrk1/p5bp/q5p1/3Npp2/8/1Q1P1PN1/3B2PP/4R2K b - - 0 28"]
+[SetUp "1"]
+
+28... Kh8 29. Nc7 Qb6 30. Qxb6 *

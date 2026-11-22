@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07uf4"]
+[Difficulty "medium"]
+[Rating "1374"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/sNhdA3s5#71"]
+[Solution "b4d3 f2f5 g3g4 f5g4"]
+[SolutionSAN "Nbd3 Qf5+ g4 Qxg4#"]
+[FEN "3r2k1/5p2/2R3p1/1pN1P1bp/1N1P4/1Q4PK/5qBP/8 w - - 0 36"]
+[SetUp "1"]
+
+36. Nbd3 Qf5+ 37. g4 Qxg4# *

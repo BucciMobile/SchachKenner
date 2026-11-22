@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Wx4"]
+[Difficulty "medium"]
+[Rating "1318"]
+[Themes "attraction crushing endgame fork long sacrifice"]
+[GameUrl "https://lichess.org/game/O37ht06c#59"]
+[Solution "e3b6 b8b6 a6b6 c3d4 g1f1 d4b6"]
+[SolutionSAN "Bb6 Rxb6 Rxb6 Bd4+ Kf1 Bxb6"]
+[FEN "1r4k1/5p1p/R5p1/p7/4P3/2b1BP2/P5PP/6K1 w - - 2 30"]
+[SetUp "1"]
+
+30. Bb6 Rxb6 31. Rxb6 Bd4+ 32. Kf1 Bxb6 *

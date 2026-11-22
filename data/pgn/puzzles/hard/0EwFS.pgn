@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EwFS"]
+[Difficulty "hard"]
+[Rating "1854"]
+[Themes "advantage attraction middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/4uMQ6AOL#51"]
+[Solution "c7a8 f2g2 g1g2 g4e3"]
+[SolutionSAN "Nxa8 Rxg2+ Kxg2 Ne3+"]
+[FEN "r4k2/ppN5/8/3Qn2q/4P1n1/6B1/PPP2rPP/R5K1 w - - 3 26"]
+[SetUp "1"]
+
+26. Nxa8 Rxg2+ 27. Kxg2 Ne3+ *

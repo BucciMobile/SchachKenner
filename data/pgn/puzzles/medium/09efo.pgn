@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09efo"]
+[Difficulty "medium"]
+[Rating "1245"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/h1OhX5TN/black#46"]
+[Solution "e3g3 b5a7 c8b8 a7c6"]
+[SolutionSAN "Rg3 Na7+ Kb8 Nxc6+"]
+[FEN "2k1r3/1pp3pp/1nq2p2/QN6/8/4r3/PPP3P1/R4RK1 b - - 6 23"]
+[SetUp "1"]
+
+23... Rg3 24. Na7+ Kb8 25. Nxc6+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "067Th"]
+[Difficulty "easy"]
+[Rating "657"]
+[Themes "endgame mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/SqcHKf5i#69"]
+[Solution "c1c3 d4d1"]
+[SolutionSAN "Rc3 Rd1#"]
+[FEN "8/p2k2p1/2p2p2/8/1B1r4/P4b1P/5P1P/2R3K1 w - - 1 35"]
+[SetUp "1"]
+
+35. Rc3 Rd1# *

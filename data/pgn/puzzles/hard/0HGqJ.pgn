@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HGqJ"]
+[Difficulty "hard"]
+[Rating "1857"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/cnFQqqm8#75"]
+[Solution "d8d2 b2d2 e1d2 h4h3"]
+[SolutionSAN "Rd2 Rxd2 Kxd2 h3"]
+[FEN "3R4/8/6p1/R4bk1/7p/1P6/Pr6/4K3 w - - 0 38"]
+[SetUp "1"]
+
+38. Rd2 Rxd2 39. Kxd2 h3 *

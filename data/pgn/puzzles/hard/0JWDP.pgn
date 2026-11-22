@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JWDP"]
+[Difficulty "hard"]
+[Rating "2216"]
+[Themes "crushing long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/lyuBHlp3#75"]
+[Solution "g1h2 g5h4 g2h3 c5f2 f1f2 h4f2"]
+[SolutionSAN "Kh2 Qh4+ Bh3 Bf2 Rxf2 Qxf2+"]
+[FEN "1r4k1/5p1p/Q3R1pP/2b1p1q1/4P1P1/3P4/2P3B1/5RK1 w - - 1 38"]
+[SetUp "1"]
+
+38. Kh2 Qh4+ 39. Bh3 Bf2 40. Rxf2 Qxf2+ *

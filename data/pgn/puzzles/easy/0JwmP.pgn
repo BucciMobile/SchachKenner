@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JwmP"]
+[Difficulty "easy"]
+[Rating "1008"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/eGLT2eGy/black#100"]
+[Solution "b3f7 b7b8 f7e8 b8e8"]
+[SolutionSAN "Bf7 Rb8+ Be8 Rxe8+"]
+[FEN "6k1/1R5p/5P2/6PP/p4K2/1b6/r7/8 b - - 0 50"]
+[SetUp "1"]
+
+50... Bf7 51. Rb8+ Be8 52. Rxe8+ *

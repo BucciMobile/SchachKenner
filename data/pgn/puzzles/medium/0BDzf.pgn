@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BDzf"]
+[Difficulty "medium"]
+[Rating "1449"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/oMpiFe1o/black#86"]
+[Solution "e7f8 e3c5 f8g8 c5d6"]
+[SolutionSAN "Kf8 Qc5 Kg8 Qxd6"]
+[FEN "r7/4kppp/2br4/5P2/8/p3Q1P1/3p1P1P/3R2K1 b - - 3 43"]
+[SetUp "1"]
+
+43... Kf8 44. Qc5 Kg8 45. Qxd6 *

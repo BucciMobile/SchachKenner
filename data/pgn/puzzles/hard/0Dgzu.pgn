@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dgzu"]
+[Difficulty "hard"]
+[Rating "1955"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/pQdLaWEI/black#36"]
+[Solution "d8d5 f5f6 g7g6 g4g5 d5e5 g5e5"]
+[SolutionSAN "Qd5 f6 g6 Qg5 Qxe5 Qxe5"]
+[FEN "2rq1rk1/p4ppp/8/2p1PP2/3p2Q1/8/PP4PP/R4RK1 b - - 0 18"]
+[SetUp "1"]
+
+18... Qd5 19. f6 g6 20. Qg5 Qxe5 21. Qxe5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DBEB"]
+[Difficulty "medium"]
+[Rating "1589"]
+[Themes "endgame master mate mateIn4 veryLong"]
+[GameUrl "https://lichess.org/game/Lp8dqKbr#83"]
+[Solution "g2g3 f4f2 a8g2 h4g3 h2h1 f2e1 g2f1 e1f1"]
+[SolutionSAN "g3 Qxf2+ Qg2 hxg3+ Kh1 Qe1+ Qf1+ Qxf1#"]
+[FEN "Q2R4/8/5pp1/8/3b1q1p/3k3P/5PPK/8 w - - 2 42"]
+[SetUp "1"]
+
+42. g3 Qxf2+ 43. Qg2 hxg3+ 44. Kh1 Qe1+ 45. Qf1+ Qxf1# *

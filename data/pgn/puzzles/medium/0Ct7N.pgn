@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ct7N"]
+[Difficulty "medium"]
+[Rating "1248"]
+[Themes "endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/hfX21Zsn#81"]
+[Solution "h6h7 a5c5 c2b1 d5d1 b1a2 c5a5"]
+[SolutionSAN "h7 Rac5+ Kb1 Rd1+ Ka2 Ra5#"]
+[FEN "5k2/1p3b2/p4R1P/r2rP1R1/8/1P4P1/1PK5/8 w - - 5 41"]
+[SetUp "1"]
+
+41. h7 Rac5+ 42. Kb1 Rd1+ 43. Ka2 Ra5# *

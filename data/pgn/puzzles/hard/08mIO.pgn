@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08mIO"]
+[Difficulty "hard"]
+[Rating "1784"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/QoVgsFCN/black#46"]
+[Solution "d5e4 e1c1 c2c1 b2c1"]
+[SolutionSAN "dxe4 Rc1 Qxc1+ Bxc1"]
+[FEN "r3r1k1/pp3pbp/2p2n2/2Pp1p2/3QP3/R4PP1/1Bq3BP/4R1K1 b - - 0 23"]
+[SetUp "1"]
+
+23... dxe4 24. Rc1 Qxc1+ 25. Bxc1 *

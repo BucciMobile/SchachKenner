@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01D3S"]
+[Difficulty "hard"]
+[Rating "2605"]
+[Themes "advancedPawn advantage defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/XNZkP9zx/black#64"]
+[Solution "h3g2 d6d7 a6e6 e3d2 f5a5 d2c2"]
+[SolutionSAN "Bg2 d7 Re6+ Kd2 Qa5+ Kc2"]
+[FEN "6k1/pp4pp/r2P4/5q2/2PR4/B2RK1Pb/P6P/8 b - - 3 32"]
+[SetUp "1"]
+
+32... Bg2 33. d7 Re6+ 34. Kd2 Qa5+ 35. Kc2 *

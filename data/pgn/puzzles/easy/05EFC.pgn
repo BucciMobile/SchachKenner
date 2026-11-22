@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05EFC"]
+[Difficulty "easy"]
+[Rating "995"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/TAVWwy1B/black#46"]
+[Solution "c5e5 d7f7 g8h8 f7f8 a8f8 f2f8"]
+[SolutionSAN "Qxe5 Qf7+ Kh8 Qf8+ Rxf8 Rxf8#"]
+[FEN "r5k1/2pQ2pp/pp2p3/2q1P2n/2P5/1P4PP/P3NRK1/8 b - - 0 23"]
+[SetUp "1"]
+
+23... Qxe5 24. Qf7+ Kh8 25. Qf8+ Rxf8 26. Rxf8# *

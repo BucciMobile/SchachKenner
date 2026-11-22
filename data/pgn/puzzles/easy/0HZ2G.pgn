@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HZ2G"]
+[Difficulty "easy"]
+[Rating "1140"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/QurrssUe#107"]
+[Solution "g2g3 f4h5 g3h4 h5f6"]
+[SolutionSAN "Kg3 Nh5+ Kh4 Nxf6"]
+[FEN "8/8/5B2/5p2/4kn2/8/5PK1/8 w - - 2 54"]
+[SetUp "1"]
+
+54. Kg3 Nh5+ 55. Kh4 Nxf6 *

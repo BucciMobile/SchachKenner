@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cnx5"]
+[Difficulty "hard"]
+[Rating "2291"]
+[Themes "advantage endgame knightEndgame master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/3WP9F9NB/black#100"]
+[Solution "f6g4 f7d6 g4f6 h5h6"]
+[SolutionSAN "Nxg4 Nxd6 Nf6 h6"]
+[FEN "8/5N2/1k1p1n2/3Pp1pP/2P3P1/1p6/8/2K5 b - - 2 50"]
+[SetUp "1"]
+
+50... Nxg4 51. Nxd6 Nf6 52. h6 *

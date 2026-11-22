@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02c59"]
+[Difficulty "easy"]
+[Rating "440"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/pQWoN6N0/black#160"]
+[Solution "e7e5 a6a7"]
+[SolutionSAN "Rxe5 a7#"]
+[FEN "1k6/1P2r3/PK6/2N1B3/8/8/8/8 b - - 4 80"]
+[SetUp "1"]
+
+80... Rxe5 81. a7# *

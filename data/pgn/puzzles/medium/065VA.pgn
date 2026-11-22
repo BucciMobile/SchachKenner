@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "065VA"]
+[Difficulty "medium"]
+[Rating "1404"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/v8VWW8W2#97"]
+[Solution "b4b5 g6d3"]
+[SolutionSAN "Kb5 Bd3#"]
+[FEN "8/2kp4/3Rp1b1/p1P5/1K1N1PP1/8/r7/8 w - - 0 49"]
+[SetUp "1"]
+
+49. Kb5 Bd3# *

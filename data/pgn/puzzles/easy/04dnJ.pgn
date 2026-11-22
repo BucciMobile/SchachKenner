@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04dnJ"]
+[Difficulty "easy"]
+[Rating "1055"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/1aWZeEAE#27"]
+[Solution "d2c4 a5b3"]
+[SolutionSAN "Nc4 Nb3#"]
+[FEN "3rkb1r/1p2npp1/p6p/n1p1Pb2/P4B1P/2P2N2/1P1N1PP1/R1K2B1R w k - 1 14"]
+[SetUp "1"]
+
+14. Nc4 Nb3# *

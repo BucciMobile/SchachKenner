@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Xtt"]
+[Difficulty "medium"]
+[Rating "1504"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short smotheredMate"]
+[GameUrl "https://lichess.org/game/bOdzQzve/black#30"]
+[Solution "c6d4 e6g8 f8g8 g5f7"]
+[SolutionSAN "Nxd4 Qg8+ Rxg8 Nf7#"]
+[FEN "r2q1r1k/1b1np1bp/p1npQ1p1/1p4N1/3P4/1B5P/PP3PP1/RNBR2K1 b - - 2 15"]
+[SetUp "1"]
+
+15... Nxd4 16. Qg8+ Rxg8 17. Nf7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JH6w"]
+[Difficulty "medium"]
+[Rating "1354"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/IovtShQb/black#120"]
+[Solution "d7e7 e6f4 e5f4 g6g7"]
+[SolutionSAN "Ke7 Nxf4 exf4 Kg7"]
+[FEN "8/3k1P2/3pN1K1/2bPp1p1/4Pq2/5P2/n7/8 b - - 2 60"]
+[SetUp "1"]
+
+60... Ke7 61. Nxf4 exf4 62. Kg7 *

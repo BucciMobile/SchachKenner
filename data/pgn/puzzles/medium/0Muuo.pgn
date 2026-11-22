@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Muuo"]
+[Difficulty "medium"]
+[Rating "1231"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/KsJtJ7A5#81"]
+[Solution "a1e1 h5c5 b3b4 a5b4 a3b3 b4c3"]
+[SolutionSAN "Re1 Qc5+ b4 axb4+ Kb3 bxc3"]
+[FEN "6k1/1p3rpp/2p5/p6q/2P5/KPQ5/PB6/R7 w - - 2 41"]
+[SetUp "1"]
+
+41. Re1 Qc5+ 42. b4 axb4+ 43. Kb3 bxc3 *

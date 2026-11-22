@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AjqL"]
+[Difficulty "medium"]
+[Rating "1402"]
+[Themes "advantage discoveredAttack long middlegame"]
+[GameUrl "https://lichess.org/game/KelWtoNT/black#42"]
+[Solution "c8c2 d2c2 d4c2 d1d8 f8d8 c1c2"]
+[SolutionSAN "Rxc2+ Qxc2 Nxc2 Rxd8 Rxd8 Kxc2"]
+[FEN "2rq1rk1/1p3pp1/p3p2p/4N3/3np1PP/8/PPPQ1P2/2KR3R b - - 1 21"]
+[SetUp "1"]
+
+21... Rxc2+ 22. Qxc2 Nxc2 23. Rxd8 Rxd8 24. Kxc2 *

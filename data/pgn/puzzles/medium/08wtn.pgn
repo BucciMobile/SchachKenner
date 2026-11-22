@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08wtn"]
+[Difficulty "medium"]
+[Rating "1639"]
+[Themes "exposedKing long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/FKjOlvgS#63"]
+[Solution "e4d3 g5c1 e1e2 f5g3 e2f3 c1f4"]
+[SolutionSAN "Bxd3 Qc1+ Ke2 Ng3+ Kf3 Qf4#"]
+[FEN "Q2n2k1/2p2pp1/7p/2B1pnq1/1P2B3/2Pr3P/1P3RP1/4K3 w - - 10 32"]
+[SetUp "1"]
+
+32. Bxd3 Qc1+ 33. Ke2 Ng3+ 34. Kf3 Qf4# *

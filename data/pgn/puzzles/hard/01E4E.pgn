@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01E4E"]
+[Difficulty "hard"]
+[Rating "1830"]
+[Themes "advantage defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/mwgyWvSQ/black#24"]
+[Solution "e4c3 g7c3 f8e8 e1f1"]
+[SolutionSAN "Nxc3 Bxc3 Re8+ Kf1"]
+[FEN "r1bq1rk1/pp3pBp/2pp2p1/8/B3n3/P1N4P/1PP2PP1/R2QK2R b KQ - 0 12"]
+[SetUp "1"]
+
+12... Nxc3 13. Bxc3 Re8+ 14. Kf1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CMgi"]
+[Difficulty "easy"]
+[Rating "792"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/kDq7ZNln/black#60"]
+[Solution "c8c4 c2e3 f5e4 e3c4"]
+[SolutionSAN "Rxc4 Ne3+ Ke4 Nxc4"]
+[FEN "2r5/5ppp/8/5k2/2P5/P7/2N2PPP/6K1 b - - 2 30"]
+[SetUp "1"]
+
+30... Rxc4 31. Ne3+ Ke4 32. Nxc4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D7wm"]
+[Difficulty "medium"]
+[Rating "1458"]
+[Themes "endgame mate mateIn4 rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/elD56xOR#81"]
+[Solution "c1b2 d6b6 b2a3 c4c3 a3a4 b6b4 a4a5 c3a3"]
+[SolutionSAN "Kb2 Rb6+ Ka3 Rc3+ Ka4 Rb4+ Ka5 Ra3#"]
+[FEN "4k3/R5R1/3r1p2/2pP1p2/2r5/6P1/P3PP2/2K5 w - - 0 41"]
+[SetUp "1"]
+
+41. Kb2 Rb6+ 42. Ka3 Rc3+ 43. Ka4 Rb4+ 44. Ka5 Ra3# *

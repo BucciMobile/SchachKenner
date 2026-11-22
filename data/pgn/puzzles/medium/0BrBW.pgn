@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BrBW"]
+[Difficulty "medium"]
+[Rating "1556"]
+[Themes "advancedPawn advantage attraction kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/bj6JE4em#51"]
+[Solution "g1h1 f3g2 h1g2 e2f4"]
+[SolutionSAN "Kh1 fxg2+ Kxg2 Nf4+"]
+[FEN "r4rk1/1R2Rbp1/p2p2B1/3P4/1pP4p/5p1P/PP1NnPP1/6K1 w - - 2 26"]
+[SetUp "1"]
+
+26. Kh1 fxg2+ 27. Kxg2 Nf4+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I7ME"]
+[Difficulty "hard"]
+[Rating "1815"]
+[Themes "clearance crushing kingsideAttack middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/hSOrcUgu#35"]
+[Solution "b2e5 g5h3 g2h3 d8g5"]
+[SolutionSAN "Bxe5 Nxh3+ gxh3 Qg5+"]
+[FEN "1rbq2k1/6bp/2p3p1/2Ppp1n1/pP3r2/P2B3P/1BPN1PP1/1R1QR1K1 w - - 0 18"]
+[SetUp "1"]
+
+18. Bxe5 Nxh3+ 19. gxh3 Qg5+ *

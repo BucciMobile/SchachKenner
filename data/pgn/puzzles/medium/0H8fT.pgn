@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H8fT"]
+[Difficulty "medium"]
+[Rating "1285"]
+[Themes "advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/notmbzm8#83"]
+[Solution "f2e2 f3e3 e2d2 e3e5"]
+[SolutionSAN "Ke2 Re3+ Kd2 Rxe5"]
+[FEN "6k1/6p1/2b1P3/4BPR1/1P1p4/5r2/5K2/8 w - - 1 42"]
+[SetUp "1"]
+
+42. Ke2 Re3+ 43. Kd2 Rxe5 *

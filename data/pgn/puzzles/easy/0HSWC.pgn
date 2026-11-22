@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HSWC"]
+[Difficulty "easy"]
+[Rating "831"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/MM5SpudN#53"]
+[Solution "f3e5 d5g2"]
+[SolutionSAN "Nxe5 Qxg2#"]
+[FEN "1k1r3r/1b6/7p/p2qn1p1/Pp1p2Q1/3P1NP1/4BPP1/1RR3K1 w - - 12 27"]
+[SetUp "1"]
+
+27. Nxe5 Qxg2# *

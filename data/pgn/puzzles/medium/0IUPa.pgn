@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IUPa"]
+[Difficulty "medium"]
+[Rating "1514"]
+[Themes "crushing endgame master pin short"]
+[GameUrl "https://lichess.org/game/wszc3lg8#69"]
+[Solution "d2g5 a3g3 g1f1 b6b5"]
+[SolutionSAN "Qxg5 Rg3+ Kf1 Qb5+"]
+[FEN "5bk1/1pR2pp1/1q2p3/3pP1pP/1P4P1/r7/3Q1P2/2R3K1 w - - 0 35"]
+[SetUp "1"]
+
+35. Qxg5 Rg3+ 36. Kf1 Qb5+ *

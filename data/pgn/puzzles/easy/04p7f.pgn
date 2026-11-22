@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04p7f"]
+[Difficulty "easy"]
+[Rating "564"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/pvpLhsag#31"]
+[Solution "d1f3 e7e1"]
+[SolutionSAN "Qxf3 Qxe1#"]
+[FEN "3rr1k1/ppp1qppp/3b4/3P4/8/P4n1P/1PP2PP1/R1BQR1K1 w - - 0 16"]
+[SetUp "1"]
+
+16. Qxf3 Qxe1# *

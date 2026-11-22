@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ArkG"]
+[Difficulty "easy"]
+[Rating "1158"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/Cm0qyTN2#39"]
+[Solution "f3g4 h3h1"]
+[SolutionSAN "Bxg4 Qh1#"]
+[FEN "rn2kn1r/pp3p2/2p1p3/3pP3/3P2b1/2N2BPq/PPP2P2/R2QR1K1 w kq - 0 20"]
+[SetUp "1"]
+
+20. Bxg4 Qh1# *

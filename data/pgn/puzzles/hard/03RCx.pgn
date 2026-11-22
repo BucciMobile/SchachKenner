@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03RCx"]
+[Difficulty "hard"]
+[Rating "2793"]
+[Themes "advancedPawn clearance crushing defensiveMove endgame exposedKing promotion rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/3FjGiprZ/black#104"]
+[Solution "c5c6 d7d8 g3g1 b1a2 g1g2 f2g2 f3g2 d8e8 g2g1q e8c8 c6d6 e7e8q"]
+[SolutionSAN "Kc6 Rd8 Rg1+ Ka2 Rg2 Rxg2 fxg2 Rxe8 g1=Q Rc8+ Kxd6 e8=Q"]
+[FEN "4r3/p2RP3/3P4/2k4p/8/5pr1/5R2/1K6 b - - 0 52"]
+[SetUp "1"]
+
+52... Kc6 53. Rd8 Rg1+ 54. Ka2 Rg2 55. Rxg2 fxg2 56. Rxe8 g1=Q 57. Rc8+ Kxd6 58. e8=Q *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HXoL"]
+[Difficulty "hard"]
+[Rating "1758"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/kJtUFFdC/black#22"]
+[Solution "c6d4 d3g6 h7g6 d1d4"]
+[SolutionSAN "Nxd4 Bxg6+ hxg6 Qxd4"]
+[FEN "r2qkb1r/1pp3pp/p1n2pn1/3pP3/P2P1pb1/2NB1N2/1PP3PP/R1BQ1RK1 b kq - 1 11"]
+[SetUp "1"]
+
+11... Nxd4 12. Bxg6+ hxg6 13. Qxd4 *

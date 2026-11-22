@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AWn0"]
+[Difficulty "medium"]
+[Rating "1261"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/5ZFMe2xr/black#64"]
+[Solution "f2e2 g4g5"]
+[SolutionSAN "Rfe2 g5#"]
+[FEN "8/1p1R4/p3pkp1/2R5/6P1/P3P2P/1r3r2/6K1 b - - 0 32"]
+[SetUp "1"]
+
+32... Rfe2 33. g5# *

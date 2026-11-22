@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01rKq"]
+[Difficulty "hard"]
+[Rating "2120"]
+[Themes "advantage endgame long pin"]
+[GameUrl "https://lichess.org/game/aPzcOO6V#45"]
+[Solution "f4g5 d8c7 g5f4 b8b1 f1e2 f8f7"]
+[SolutionSAN "Bxg5+ Kc7 Bf4 Rb1+ Ke2 Rxf7"]
+[FEN "1r1k1r2/p2n1Q1p/2pN4/6p1/5B2/8/P1P3PP/5K2 w - - 1 23"]
+[SetUp "1"]
+
+23. Bxg5+ Kc7 24. Bf4 Rb1+ 25. Ke2 Rxf7 *

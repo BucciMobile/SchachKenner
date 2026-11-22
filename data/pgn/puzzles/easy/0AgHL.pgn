@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AgHL"]
+[Difficulty "easy"]
+[Rating "1111"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/FIpfpsdX#61"]
+[Solution "f2e1 c3e1 c2d1 e1d1"]
+[SolutionSAN "Bxe1 Qxe1+ Bd1 Qxd1#"]
+[FEN "8/1b4kp/p4pn1/1p1p1Q2/2n2PP1/P1q4N/R1B2B1P/1K2r3 w - - 2 31"]
+[SetUp "1"]
+
+31. Bxe1 Qxe1+ 32. Bd1 Qxd1# *

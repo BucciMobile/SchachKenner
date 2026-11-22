@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03iPO"]
+[Difficulty "medium"]
+[Rating "1306"]
+[Themes "endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/ggXYtbM0/black#64"]
+[Solution "e2c2 d1h5 h7g8 h5f7 g8h8 f7g7"]
+[SolutionSAN "Rc2 Qxh5+ Kg8 Qf7+ Kh8 Qxg7#"]
+[FEN "2q5/R5pk/p4p2/1p2pb1p/1P6/P6P/4rPP1/3Q2K1 b - - 5 32"]
+[SetUp "1"]
+
+32... Rc2 33. Qxh5+ Kg8 34. Qf7+ Kh8 35. Qxg7# *

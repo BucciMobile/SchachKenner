@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LRY3"]
+[Difficulty "hard"]
+[Rating "2295"]
+[Themes "advancedPawn crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/tv7Cb6ID/black#100"]
+[Solution "c6d8 h5h6 a5a4 h6h7 d8f7 g3h4 a4a3 b2a3"]
+[SolutionSAN "Nd8 h6 a4 h7 Nf7 Kh4 a3 Bxa3"]
+[FEN "8/8/2n1k3/p4p1P/5P2/1p4K1/1B6/8 b - - 1 50"]
+[SetUp "1"]
+
+50... Nd8 51. h6 a4 52. h7 Nf7 53. Kh4 a3 54. Bxa3 *

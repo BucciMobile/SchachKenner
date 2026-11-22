@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08SOm"]
+[Difficulty "easy"]
+[Rating "956"]
+[Themes "crushing endgame interference short"]
+[GameUrl "https://lichess.org/game/2nhOyFhS/black#72"]
+[Solution "g6g4 e5h5 h8g7 h3g4"]
+[SolutionSAN "Rxg4 Rh5+ Kg7 Kxg4"]
+[FEN "6rk/5p2/4p1r1/p2pR3/1pP3P1/nP5K/P5B1/2R5 b - - 0 36"]
+[SetUp "1"]
+
+36... Rxg4 37. Rh5+ Kg7 38. Kxg4 *

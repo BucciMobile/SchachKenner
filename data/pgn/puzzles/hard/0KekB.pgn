@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KekB"]
+[Difficulty "hard"]
+[Rating "2307"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/tyuvQ44S#87"]
+[Solution "h6h7 a3a8 g2g1 f8g7"]
+[SolutionSAN "h7 Qa8+ Kg1 Kg7"]
+[FEN "5k2/5p2/5p1P/8/3P2P1/q1P5/p1Bn1PK1/Q7 w - - 1 44"]
+[SetUp "1"]
+
+44. h7 Qa8+ 45. Kg1 Kg7 *

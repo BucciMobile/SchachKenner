@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0997s"]
+[Difficulty "medium"]
+[Rating "1673"]
+[Themes "crushing endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/lTIX0xBk#61"]
+[Solution "h3e6 f7e6 d7g7 b2g7"]
+[SolutionSAN "Be6 fxe6 Rxg7+ Qxg7"]
+[FEN "5rk1/1Q1R1pbp/6p1/1pp5/8/P3P1PB/1q3PKP/8 w - - 4 31"]
+[SetUp "1"]
+
+31. Be6 fxe6 32. Rxg7+ Qxg7 *

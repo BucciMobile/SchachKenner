@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07goT"]
+[Difficulty "hard"]
+[Rating "1944"]
+[Themes "attraction crushing endgame fork long sacrifice skewer"]
+[GameUrl "https://lichess.org/game/k6qLRyrE/black#92"]
+[Solution "g7f7 e6f6 f7f6 e3f4 f6e6 f4f8"]
+[SolutionSAN "Kf7 Rxf6+ Kxf6 Qf4+ Ke6 Qxf8"]
+[FEN "5q2/2r3k1/4Rppp/P1p5/8/4Q2P/6P1/6K1 b - - 0 46"]
+[SetUp "1"]
+
+46... Kf7 47. Rxf6+ Kxf6 48. Qf4+ Ke6 49. Qxf8 *

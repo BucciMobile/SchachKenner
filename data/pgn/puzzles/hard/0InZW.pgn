@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0InZW"]
+[Difficulty "hard"]
+[Rating "2248"]
+[Themes "crushing master middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/UpcscQyu#37"]
+[Solution "e4f5 e5e4 d2e4 b7e4 c1e3 d4e3 e2e3 c5e3"]
+[SolutionSAN "exf5 e4 Nxe4 Bxe4 Be3 Qxe3 Qxe3 Bxe3"]
+[FEN "3r1rk1/1bp3pp/p7/P1b1pp2/1p1qP3/3B4/1PPNQRPP/R1B3K1 w - - 0 19"]
+[SetUp "1"]
+
+19. exf5 e4 20. Nxe4 Bxe4 21. Be3 Qxe3 22. Qxe3 Bxe3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ldks"]
+[Difficulty "medium"]
+[Rating "1318"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/PeR7bbXP/black#48"]
+[Solution "a8f8 e3f3 f7f3 d3g6"]
+[SolutionSAN "Rf8 Rxf3 Qxf3 Qxg6"]
+[FEN "r5k1/pp3qp1/2p1p1np/2PpP3/8/PP1QRrP1/1B3P1P/5RK1 b - - 2 24"]
+[SetUp "1"]
+
+24... Rf8 25. Rxf3 Qxf3 26. Qxg6 *

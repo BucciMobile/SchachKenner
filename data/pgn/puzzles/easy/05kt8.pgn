@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05kt8"]
+[Difficulty "easy"]
+[Rating "1192"]
+[Themes "endgame long mate mateIn3 queenRookEndgame"]
+[GameUrl "https://lichess.org/game/8S6RX72U#57"]
+[Solution "a5b6 h4g4 g1h1 d8h8 f7h5 h8h5"]
+[SolutionSAN "axb6 Rg4+ Kh1 Rh8+ Qh5 Rxh5#"]
+[FEN "3r4/Pkp2Q2/1p6/P2p2p1/7r/4P3/5P2/R4RK1 w - - 0 29"]
+[SetUp "1"]
+
+29. axb6 Rg4+ 30. Kh1 Rh8+ 31. Qh5 Rxh5# *

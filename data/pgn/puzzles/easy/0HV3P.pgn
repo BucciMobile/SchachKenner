@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HV3P"]
+[Difficulty "easy"]
+[Rating "1089"]
+[Themes "endgame master mate mateIn2 queenEndgame short"]
+[GameUrl "https://lichess.org/game/6LdplLGK/black#86"]
+[Solution "f5g5 f2f4 g5h6 c8h8"]
+[SolutionSAN "Kg5 f4+ Kh6 Qh8#"]
+[FEN "2Q5/8/2p2pp1/2Pp1k2/8/6P1/5P1K/1q6 b - - 5 43"]
+[SetUp "1"]
+
+43... Kg5 44. f4+ Kh6 45. Qh8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09L17"]
+[Difficulty "hard"]
+[Rating "2555"]
+[Themes "advancedPawn crushing deflection endgame exposedKing master pawnEndgame promotion skewer veryLong"]
+[GameUrl "https://lichess.org/game/L2znas7R/black#110"]
+[Solution "a5b4 e4d5 b4b3 d6d7 f6e7 d5c6 b3b2 f5f6 e7f7 d7d8q b2b1q d8e7 f7g6 e7g7 g6f5 g7h7 f5f6 h7b1"]
+[SolutionSAN "axb4 Kd5 b3 d7 Ke7 Kc6 b2 f6+ Kf7 d8=Q b1=Q Qe7+ Kg6 Qg7+ Kf5 Qh7+ Kxf6 Qxb1"]
+[FEN "8/8/1p1P1k2/p4P1p/1P2K3/8/8/8 b - - 0 55"]
+[SetUp "1"]
+
+55... axb4 56. Kd5 b3 57. d7 Ke7 58. Kc6 b2 59. f6+ Kf7 60. d8=Q b1=Q 61. Qe7+ Kg6 62. Qg7+ Kf5 63. Qh7+ Kxf6 64. Qxb1 *

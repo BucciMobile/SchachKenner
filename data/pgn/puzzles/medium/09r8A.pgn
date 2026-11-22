@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09r8A"]
+[Difficulty "medium"]
+[Rating "1453"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/JCmyp0SD#39"]
+[Solution "c4d5 e5h2"]
+[SolutionSAN "cxd5 Qxh2#"]
+[FEN "7r/3k1ppp/1p1bp3/r2pq3/2P5/P3P3/2Q1BPPP/R4RK1 w - - 0 20"]
+[SetUp "1"]
+
+20. cxd5 Qxh2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JDDi"]
+[Difficulty "easy"]
+[Rating "1193"]
+[Themes "crushing opening short trappedPiece"]
+[GameUrl "https://lichess.org/game/c34BT8lk/black#34"]
+[Solution "c7e6 d3f5 h3f5 f3f5"]
+[SolutionSAN "Ne6 Bf5 Qxf5 Qxf5"]
+[FEN "2kr2nr/ppn2pp1/2pb1P2/3p3p/3P4/3BBQPq/PPP4P/RN2R1K1 b - - 0 17"]
+[SetUp "1"]
+
+17... Ne6 18. Bf5 Qxf5 19. Qxf5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CKaK"]
+[Difficulty "easy"]
+[Rating "960"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/AHetDQ1p#47"]
+[Solution "d1d2 e5f3 g2f3 e8e1"]
+[SolutionSAN "Rd2 Nf3+ gxf3 Rxe1+"]
+[FEN "r3r1k1/pp3p2/2p3pQ/4n3/8/1P5P/PqB2PP1/3RR1K1 w - - 2 24"]
+[SetUp "1"]
+
+24. Rd2 Nf3+ 25. gxf3 Rxe1+ *

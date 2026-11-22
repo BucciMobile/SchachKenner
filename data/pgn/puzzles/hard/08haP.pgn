@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08haP"]
+[Difficulty "hard"]
+[Rating "2117"]
+[Themes "crushing exposedKing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/WPC6Ajdv/black#62"]
+[Solution "f7f6 e5f6 h7f6 h5h8 g8f7 f3g5 f7g6 h8h6"]
+[SolutionSAN "f6 exf6 Nxf6 Qh8+ Kf7 Ng5+ Kg6 Qh6+"]
+[FEN "3r2k1/2p1qp1n/p7/1p2P2Q/7R/5N1P/1P3PP1/3b2K1 b - - 4 31"]
+[SetUp "1"]
+
+31... f6 32. exf6 Nxf6 33. Qh8+ Kf7 34. Ng5+ Kg6 35. Qh6+ *

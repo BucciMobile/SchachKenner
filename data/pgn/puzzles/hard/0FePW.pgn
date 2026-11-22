@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FePW"]
+[Difficulty "hard"]
+[Rating "2345"]
+[Themes "crushing deflection long middlegame pin"]
+[GameUrl "https://lichess.org/game/GKG2655h#45"]
+[Solution "h3f4 b6d4 f4d3 d4a4 a2b1 e6b3"]
+[SolutionSAN "Nf4 Qd4 Nd3 Qxa4+ Kb1 Bxb3"]
+[FEN "2r3k1/1p3pp1/1q2bb1p/p7/P7/1B5N/KPP1QPPP/4R3 w - - 5 23"]
+[SetUp "1"]
+
+23. Nf4 Qd4 24. Nd3 Qxa4+ 25. Kb1 Bxb3 *

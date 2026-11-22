@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BTnP"]
+[Difficulty "hard"]
+[Rating "2311"]
+[Themes "attraction crushing middlegame quietMove sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/VROMhVk8/black#42"]
+[Solution "f8h8 f1f7 g7f7 g4g6 f7f8 d1f1 e5f6 e2f4 e3e4 g6e4"]
+[SolutionSAN "Rh8 Rxf7+ Kxf7 Qxg6+ Kf8 Rf1+ Bf6 Nf4 Qxe4+ Qxe4"]
+[FEN "r4r2/pp2ppk1/3p2p1/2pPb2P/2P1P1Q1/4q3/P3N3/3R1R1K b - - 0 21"]
+[SetUp "1"]
+
+21... Rh8 22. Rxf7+ Kxf7 23. Qxg6+ Kf8 24. Rf1+ Bf6 25. Nf4 Qxe4+ 26. Qxe4 *

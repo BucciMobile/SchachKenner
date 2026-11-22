@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05bmO"]
+[Difficulty "easy"]
+[Rating "1141"]
+[Themes "advantage discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/sxZgg7gL#51"]
+[Solution "a2a3 b4d3 e1d2 b5b3"]
+[SolutionSAN "a3 Nd3+ Kd2 Qxb3"]
+[FEN "2n5/4k3/4p3/pq1p2p1/1n6/1QB1P3/PP3PPP/4K2R w K - 0 26"]
+[SetUp "1"]
+
+26. a3 Nd3+ 27. Kd2 Qxb3 *

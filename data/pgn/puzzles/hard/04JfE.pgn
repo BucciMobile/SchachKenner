@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04JfE"]
+[Difficulty "hard"]
+[Rating "2409"]
+[Themes "crushing middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/92uvPtYe#45"]
+[Solution "h4h5 f6h5 g5d8 g7d4"]
+[SolutionSAN "Rxh5 Nxh5 Bxd8 Bd4+"]
+[FEN "r2qr1k1/5pb1/1p1p1n2/p2P1QBp/7R/P1N4P/1PP3PN/6K1 w - - 1 23"]
+[SetUp "1"]
+
+23. Rxh5 Nxh5 24. Bxd8 Bd4+ *

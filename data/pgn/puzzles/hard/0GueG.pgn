@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GueG"]
+[Difficulty "hard"]
+[Rating "2278"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/uaMfS8rf/black#74"]
+[Solution "d6d5 f4f5 e6f5 g4f5 d5c6 b3c4"]
+[SolutionSAN "Kxd5 f5 exf5 gxf5 Kc6 Kc4"]
+[FEN "8/6pp/1p1kp3/p2P4/P2PpPP1/1K2P2P/8/8 b - - 0 37"]
+[SetUp "1"]
+
+37... Kxd5 38. f5 exf5 39. gxf5 Kc6 40. Kc4 *

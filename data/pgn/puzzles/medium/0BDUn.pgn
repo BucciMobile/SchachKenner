@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BDUn"]
+[Difficulty "medium"]
+[Rating "1460"]
+[Themes "bishopEndgame crushing endgame master short"]
+[GameUrl "https://lichess.org/game/hu7jK2To#103"]
+[Solution "a4d1 b4b3 e2e3 d4e3"]
+[SolutionSAN "Bd1 b3 e3+ dxe3+"]
+[FEN "8/8/8/p7/Bp1p1k2/3P4/bP2PK2/8 w - - 6 52"]
+[SetUp "1"]
+
+52. Bd1 b3 53. e3+ dxe3+ *

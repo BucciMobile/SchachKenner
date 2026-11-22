@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LrLR"]
+[Difficulty "hard"]
+[Rating "1744"]
+[Themes "endgame hookMate mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/AMYpZR0M/black#76"]
+[Solution "g5f4 g3g8 f8e7 g8e8"]
+[SolutionSAN "gxf4 Rg8+ Ke7 Re8#"]
+[FEN "1b3k2/5p2/5N1p/p1P1P1p1/5Q2/1P4R1/P4K2/7q b - - 0 38"]
+[SetUp "1"]
+
+38... gxf4 39. Rg8+ Ke7 40. Re8# *

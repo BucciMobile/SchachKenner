@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "022dd"]
+[Difficulty "easy"]
+[Rating "484"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/ELYdfeVO#65"]
+[Solution "h4c4 d7d1"]
+[SolutionSAN "Rc4 Rd1#"]
+[FEN "r7/3r1kp1/8/4B2R/7R/p6P/5PP1/2n2K2 w - - 8 33"]
+[SetUp "1"]
+
+33. Rc4 Rd1# *

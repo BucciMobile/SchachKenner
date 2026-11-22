@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I0ry"]
+[Difficulty "hard"]
+[Rating "1725"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/VMVbQAnN#29"]
+[Solution "e5d7 d6f4 d7f8 f4d2"]
+[SolutionSAN "Nxd7 Bxf4 Nxf8 Bxd2"]
+[FEN "2r2rk1/p1qn1ppp/2pbp3/3pNb2/Q2P1B2/2P4P/PP1N1PP1/R3R1K1 w - - 5 15"]
+[SetUp "1"]
+
+15. Nxd7 Bxf4 16. Nxf8 Bxd2 *

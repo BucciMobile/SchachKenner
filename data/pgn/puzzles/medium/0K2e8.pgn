@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K2e8"]
+[Difficulty "medium"]
+[Rating "1338"]
+[Themes "mate mateIn2 middlegame operaMate sacrifice short"]
+[GameUrl "https://lichess.org/game/y1vPEbCV/black#44"]
+[Solution "e7f6 e5e8 a8e8 e1e8"]
+[SolutionSAN "Bxf6 Qe8+ Rxe8 Rxe8#"]
+[FEN "r4k1r/4b1p1/pp3BBp/2qbQ3/8/2p2P2/PP4PP/3RR2K b - - 2 22"]
+[SetUp "1"]
+
+22... Bxf6 23. Qe8+ Rxe8 24. Rxe8# *

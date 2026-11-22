@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09qk6"]
+[Difficulty "hard"]
+[Rating "1753"]
+[Themes "crushing master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/ERoMFtOH/black#46"]
+[Solution "c3d3 c1c5 d3b5 c5b5"]
+[SolutionSAN "Qd3 Rxc5 Qxb5 Rxb5"]
+[FEN "2r2rk1/p3pp1p/1p4p1/1Qn5/4PB2/2q2P2/P5PP/2R2R1K b - - 3 23"]
+[SetUp "1"]
+
+23... Qd3 24. Rxc5 Qxb5 25. Rxb5 *

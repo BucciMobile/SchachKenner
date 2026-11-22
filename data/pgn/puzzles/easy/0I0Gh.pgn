@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I0Gh"]
+[Difficulty "easy"]
+[Rating "762"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/RFKGtVGC/black#28"]
+[Solution "f6e4 h4h7"]
+[SolutionSAN "Nxe4 Qxh7#"]
+[FEN "r1bq1rk1/pp3p1p/4pnp1/6N1/2ppN1nQ/6P1/PP2PPBP/R4RK1 b - - 5 14"]
+[SetUp "1"]
+
+14... Nxe4 15. Qxh7# *

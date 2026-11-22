@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Akyl"]
+[Difficulty "easy"]
+[Rating "1051"]
+[Themes "advantage endgame exposedKing fork long"]
+[GameUrl "https://lichess.org/game/RjqPajTe#95"]
+[Solution "e2c2 b4b1 g1g2 g4e3 g2f3 e3c2"]
+[SolutionSAN "Rc2 Rb1+ Kg2 Ne3+ Kf3 Nxc2"]
+[FEN "6k1/5p2/RP2p1p1/p7/Pr3Pn1/8/4R3/6K1 w - - 1 48"]
+[SetUp "1"]
+
+48. Rc2 Rb1+ 49. Kg2 Ne3+ 50. Kf3 Nxc2 *

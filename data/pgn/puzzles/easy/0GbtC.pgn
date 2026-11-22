@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GbtC"]
+[Difficulty "easy"]
+[Rating "1021"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/QwjKokHl#67"]
+[Solution "d2f3 h2f2"]
+[SolutionSAN "Nf3 Qf2#"]
+[FEN "8/5ppk/6p1/3Q4/6P1/2P1b2P/PP1N3q/5K2 w - - 0 34"]
+[SetUp "1"]
+
+34. Nf3 Qf2# *

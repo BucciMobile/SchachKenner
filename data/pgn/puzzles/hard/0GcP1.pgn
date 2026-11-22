@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GcP1"]
+[Difficulty "hard"]
+[Rating "2157"]
+[Themes "clearance crushing long middlegame sacrifice skewer"]
+[GameUrl "https://lichess.org/game/IOEWBjod#51"]
+[Solution "f3f4 a2c3 b2c3 a5a2 d2e3 a2g2"]
+[SolutionSAN "f4 Nxc3 bxc3 Qa2+ Ke3 Qxg2"]
+[FEN "5r1k/p4r1p/3Q1p1P/q1p5/6P1/1pPP1P2/nP1K2B1/3R2NR w - - 1 26"]
+[SetUp "1"]
+
+26. f4 Nxc3 27. bxc3 Qa2+ 28. Ke3 Qxg2 *

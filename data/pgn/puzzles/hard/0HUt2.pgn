@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HUt2"]
+[Difficulty "hard"]
+[Rating "1829"]
+[Themes "advantage defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/mFXyIghT#91"]
+[Solution "g5g7 f6f7 g7g5 e7d7"]
+[SolutionSAN "Qxg7+ Rf7 Qg5+ Kd7"]
+[FEN "8/4k1p1/1p1p1r2/pPp3Q1/P3PPK1/8/3q4/7R w - - 9 46"]
+[SetUp "1"]
+
+46. Qxg7+ Rf7 47. Qg5+ Kd7 *

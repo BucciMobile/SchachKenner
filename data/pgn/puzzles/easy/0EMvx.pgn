@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EMvx"]
+[Difficulty "easy"]
+[Rating "996"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/nVQ2ERFc#95"]
+[Solution "f3f4 g6g5"]
+[SolutionSAN "Kf4 g5#"]
+[FEN "8/1p2R3/4p1p1/3pP2k/3P4/1r3K1P/5PP1/8 w - - 8 48"]
+[SetUp "1"]
+
+48. Kf4 g5# *

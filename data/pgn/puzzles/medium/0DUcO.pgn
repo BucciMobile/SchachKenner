@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DUcO"]
+[Difficulty "medium"]
+[Rating "1521"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/GrbIq1ke#109"]
+[Solution "g4h5 f8f5 h6g7 h8g8"]
+[SolutionSAN "Kh5 Rf5 hxg7+ Kg8"]
+[FEN "5r1k/6p1/4b2P/6Q1/4p1K1/r7/7R/8 w - - 1 55"]
+[SetUp "1"]
+
+55. Kh5 Rf5 56. hxg7+ Kg8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IUiu"]
+[Difficulty "easy"]
+[Rating "1135"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/sq1T0HCs/black#88"]
+[Solution "d6g6 g4c8 g8h7 g1g6"]
+[SolutionSAN "Qg6 Qc8+ Kh7 Rxg6"]
+[FEN "6k1/1p2rpp1/2pq4/3p4/r2P1pQ1/P1n1P2P/8/R1B3RK b - - 1 44"]
+[SetUp "1"]
+
+44... Qg6 45. Qc8+ Kh7 46. Rxg6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02vhQ"]
+[Difficulty "hard"]
+[Rating "2315"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/dy8rumVV/black#70"]
+[Solution "a6e2 g5g7 f8b8 g7e7"]
+[SolutionSAN "Qe2 Qg7 Rb8 Qxe7"]
+[FEN "k4r2/1p2b3/q4n2/6Q1/3Bp2p/1P6/P4PPP/2R3K1 b - - 0 35"]
+[SetUp "1"]
+
+35... Qe2 36. Qg7 Rb8 37. Qxe7 *

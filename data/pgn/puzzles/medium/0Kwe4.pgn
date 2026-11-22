@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kwe4"]
+[Difficulty "medium"]
+[Rating "1375"]
+[Themes "exposedKing long mate mateIn3 middlegame operaMate pin"]
+[GameUrl "https://lichess.org/game/EPeSDccM/black#60"]
+[Solution "f8f7 e7e8 a8e8 e1e8 f7f8 e8f8"]
+[SolutionSAN "Rf7 Re8+ Rxe8 Rxe8+ Rf8 Rxf8#"]
+[FEN "r4rk1/4R1b1/p5Qp/1pBb4/3P4/8/qP3PPP/4R1K1 b - - 0 30"]
+[SetUp "1"]
+
+30... Rf7 31. Re8+ Rxe8 32. Rxe8+ Rf8 33. Rxf8# *

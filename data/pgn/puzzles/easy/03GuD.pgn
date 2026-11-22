@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03GuD"]
+[Difficulty "easy"]
+[Rating "1111"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/afGRBFzO/black#48"]
+[Solution "c4d3 c2d3 e2d2 d3d2"]
+[SolutionSAN "Bd3 Qxd3 Rxd2 Qxd2"]
+[FEN "r5k1/2p2p1p/1pB3p1/8/2b3P1/qP6/P1QRr2P/1K5R b - - 3 24"]
+[SetUp "1"]
+
+24... Bd3 25. Qxd3 Rxd2 26. Qxd2 *

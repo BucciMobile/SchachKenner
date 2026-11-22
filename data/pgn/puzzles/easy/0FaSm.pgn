@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FaSm"]
+[Difficulty "easy"]
+[Rating "857"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/SuCWsUEA#35"]
+[Solution "g1f1 b6f2"]
+[SolutionSAN "Kf1 Qf2#"]
+[FEN "r1k4r/pbp3pp/1q6/1p2N1B1/4nP2/3Q4/PPP3PP/R3R1K1 w - - 2 18"]
+[SetUp "1"]
+
+18. Kf1 Qf2# *

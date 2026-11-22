@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BsZ8"]
+[Difficulty "easy"]
+[Rating "1080"]
+[Themes "advantage discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/g6sF8U0K#47"]
+[Solution "d2g5 d6h2 g1h2 b6e6"]
+[SolutionSAN "Bg5 Bxh2+ Kxh2 Rxe6"]
+[FEN "6k1/p5pp/1r1bRn2/2p5/3p4/1P3B2/P1PB1PPP/6K1 w - - 1 24"]
+[SetUp "1"]
+
+24. Bg5 Bxh2+ 25. Kxh2 Rxe6 *

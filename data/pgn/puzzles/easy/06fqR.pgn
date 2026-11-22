@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06fqR"]
+[Difficulty "easy"]
+[Rating "1033"]
+[Themes "endgame mate mateIn2 pin short"]
+[GameUrl "https://lichess.org/game/FtOFFbdd/black#60"]
+[Solution "g7f6 b2f6 g8g7 c1c8"]
+[SolutionSAN "gxf6 Bxf6+ Rg7 Rc8#"]
+[FEN "6rk/pp4pp/5Q2/1P6/8/4PPPK/PB3q2/2R5 b - - 1 30"]
+[SetUp "1"]
+
+30... gxf6 31. Bxf6+ Rg7 32. Rc8# *

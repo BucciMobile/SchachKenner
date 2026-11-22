@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DPex"]
+[Difficulty "easy"]
+[Rating "1131"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/ZWBoNtPg#69"]
+[Solution "e2c2 e7c5 g1f1 e8e6"]
+[SolutionSAN "Qxc2 Bc5+ Kf1 Rxe6"]
+[FEN "4r1k1/p2qbrpp/4R3/5p2/2p2P2/P1B3P1/1Pp1Q2P/4R1K1 w - - 0 35"]
+[SetUp "1"]
+
+35. Qxc2 Bc5+ 36. Kf1 Rxe6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HzSp"]
+[Difficulty "medium"]
+[Rating "1468"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/9nJPTyHJ#41"]
+[Solution "d3d4 e7h4"]
+[SolutionSAN "d4 Bh4#"]
+[FEN "2k4r/pp1rb1p1/2n1N1p1/1qppP3/Nn4P1/1P1P3P/P1PB4/R2QKB1R w KQ - 3 21"]
+[SetUp "1"]
+
+21. d4 Bh4# *

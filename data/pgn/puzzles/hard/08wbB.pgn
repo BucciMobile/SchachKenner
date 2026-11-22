@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08wbB"]
+[Difficulty "hard"]
+[Rating "2587"]
+[Themes "crushing endgame pawnEndgame quietMove veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/nALRbmHG/black#76"]
+[Solution "c6d5 e4d5 c7d7 a4a5 d7e7 a5a6 b7a6 d5c6"]
+[SolutionSAN "cxd5+ Kxd5 Kd7 a5 Ke7 a6 bxa6 Kc6"]
+[FEN "8/ppk4p/2pp2p1/3P2P1/PPP1K1P1/8/8/8 b - - 0 38"]
+[SetUp "1"]
+
+38... cxd5+ 39. Kxd5 Kd7 40. a5 Ke7 41. a6 bxa6 42. Kc6 *

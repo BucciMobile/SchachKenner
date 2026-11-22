@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hobt"]
+[Difficulty "hard"]
+[Rating "2450"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/9QsEKKoH#103"]
+[Solution "h1d1 h8h5 d1g1 g7h6"]
+[SolutionSAN "Rd1 Rh5 Rg1+ Kh6"]
+[FEN "7r/6k1/2p2r2/2P2B2/P1P2K2/8/8/7R w - - 5 52"]
+[SetUp "1"]
+
+52. Rd1 Rh5 53. Rg1+ Kh6 *

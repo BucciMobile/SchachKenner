@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ArPz"]
+[Difficulty "easy"]
+[Rating "948"]
+[Themes "crushing endgame long queensideAttack"]
+[GameUrl "https://lichess.org/game/lEqOmdGd#45"]
+[Solution "f3f4 e3e1 f2e1 e5e1 h1e1 e8e1"]
+[SolutionSAN "f4 Rxe1+ Qxe1 Qxe1+ Rxe1 Rxe1+"]
+[FEN "4r1k1/ppp3pp/8/4q3/3p3P/P2PrP2/1PP2QP1/1K2R2R w - - 1 23"]
+[SetUp "1"]
+
+23. f4 Rxe1+ 24. Qxe1 Qxe1+ 25. Rxe1 Rxe1+ *

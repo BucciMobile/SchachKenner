@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03eXE"]
+[Difficulty "hard"]
+[Rating "2300"]
+[Themes "crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/lAB29sx9/black#88"]
+[Solution "c3d4 f2f7 d4a7 f7a7 g5g4 h3h4 h7g6 a7g7"]
+[SolutionSAN "Qd4 Qf7 Qxa7 Qxa7 g4+ Kh4 Kg6 Qxg7+"]
+[FEN "8/R5bk/2Pp4/3Pp1pp/4P3/2q1n1PK/5Q1P/8 b - - 1 44"]
+[SetUp "1"]
+
+44... Qd4 45. Qf7 Qxa7 46. Qxa7 g4+ 47. Kh4 Kg6 48. Qxg7+ *

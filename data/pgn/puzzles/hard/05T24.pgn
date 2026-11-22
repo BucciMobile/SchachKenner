@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05T24"]
+[Difficulty "hard"]
+[Rating "1835"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/9HFQEiH7/black#64"]
+[Solution "f3e4 g3f4 e4f4 h4f4"]
+[SolutionSAN "Qe4 Bf4 Qxf4 Qxf4"]
+[FEN "r4r2/p4p1k/1p5p/2b1Pp2/7Q/3R1qBP/P4Pb1/3R2K1 b - - 5 32"]
+[SetUp "1"]
+
+32... Qe4 33. Bf4 Qxf4 34. Qxf4 *

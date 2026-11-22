@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DClB"]
+[Difficulty "medium"]
+[Rating "1520"]
+[Themes "advantage endgame fork queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/XjAMe5Is#65"]
+[Solution "e2d3 g2g6 d3d2 g6h7"]
+[SolutionSAN "Kd3 Qg6+ Kd2 Qxh7"]
+[FEN "k7/p1p4R/3p4/2p5/5R2/1PP1P3/P1P1K1q1/8 w - - 1 33"]
+[SetUp "1"]
+
+33. Kd3 Qg6+ 34. Kd2 Qxh7 *

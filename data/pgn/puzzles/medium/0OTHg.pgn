@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OTHg"]
+[Difficulty "medium"]
+[Rating "1525"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/D8MCKcn8#63"]
+[Solution "h1g2 f8f2 g2g1 h4h2"]
+[SolutionSAN "Kg2 Rf2+ Kg1 Qh2#"]
+[FEN "r1k2r2/3n2R1/p2Q4/3Pp2p/4P2q/2N5/PP6/R6K w - - 0 32"]
+[SetUp "1"]
+
+32. Kg2 Rf2+ 33. Kg1 Qh2# *

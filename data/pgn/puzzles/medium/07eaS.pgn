@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07eaS"]
+[Difficulty "medium"]
+[Rating "1629"]
+[Themes "advantage endgame quietMove short"]
+[GameUrl "https://lichess.org/game/6plE37N3#71"]
+[Solution "f2e2 a5a4 e7c5 b6c5"]
+[SolutionSAN "Ke2 a4 Bxc5 bxc5"]
+[FEN "8/4B1pk/1p3p2/p1p5/2n3N1/2P4P/5KP1/8 w - - 0 36"]
+[SetUp "1"]
+
+36. Ke2 a4 37. Bxc5 bxc5 *

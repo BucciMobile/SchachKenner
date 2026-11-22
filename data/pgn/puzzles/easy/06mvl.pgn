@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06mvl"]
+[Difficulty "easy"]
+[Rating "1028"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/sVuHTtzl/black#58"]
+[Solution "d7f6 e6e7 e8e7 e1e7"]
+[SolutionSAN "Nf6 Rxe7 Rxe7 Rxe7"]
+[FEN "3rr1k1/1p1nb1p1/p3R2p/2pP4/8/1PN2N1P/P5P1/4R1K1 b - - 2 29"]
+[SetUp "1"]
+
+29... Nf6 30. Rxe7 Rxe7 31. Rxe7 *

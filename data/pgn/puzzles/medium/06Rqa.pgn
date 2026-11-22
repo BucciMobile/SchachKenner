@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Rqa"]
+[Difficulty "medium"]
+[Rating "1256"]
+[Themes "advantage fork master middlegame short"]
+[GameUrl "https://lichess.org/game/QUr294e5/black#58"]
+[Solution "e7e5 g4f6 g8g7 f6e8"]
+[SolutionSAN "Rxe5 Nf6+ Kg7 Nxe8+"]
+[FEN "r3q1k1/pp2r3/3n4/3PR1pp/5pN1/3B1P1P/PP4PK/3Q4 b - - 0 29"]
+[SetUp "1"]
+
+29... Rxe5 30. Nf6+ Kg7 31. Nxe8+ *

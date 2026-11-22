@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04xSr"]
+[Difficulty "easy"]
+[Rating "892"]
+[Themes "crushing deflection endgame exposedKing long rookEndgame skewer"]
+[GameUrl "https://lichess.org/game/wxWVQA0E/black#128"]
+[Solution "f7e7 h1h7 e7f6 h7h6 f6g5 h6e6"]
+[SolutionSAN "Ke7 Rh7+ Kf6 Rh6+ Kg5 Rxe6"]
+[FEN "8/5k2/4r3/3K4/8/8/8/7R b - - 20 64"]
+[SetUp "1"]
+
+64... Ke7 65. Rh7+ Kf6 66. Rh6+ Kg5 67. Rxe6 *

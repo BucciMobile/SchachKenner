@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GHzc"]
+[Difficulty "hard"]
+[Rating "1933"]
+[Themes "advantage hangingPiece master middlegame short"]
+[GameUrl "https://lichess.org/game/CGQPyfec#65"]
+[Solution "e5e6 g3d6 e6f7 g8f7"]
+[SolutionSAN "e6 Qxd6 exf7+ Kxf7"]
+[FEN "4r1k1/5pp1/3R1n2/2r1P2p/8/4QBqP/6P1/4R2K w - - 1 33"]
+[SetUp "1"]
+
+33. e6 Qxd6 34. exf7+ Kxf7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Nwm"]
+[Difficulty "easy"]
+[Rating "1145"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/Ea6iHahX/black#36"]
+[Solution "a8a1 d3h7"]
+[SolutionSAN "Rxa1 Qxh7#"]
+[FEN "r1b1nrk1/2qn1ppp/2p1p3/2ppP3/1P3B2/2NQ4/2B2PPP/R3R1K1 b - - 1 18"]
+[SetUp "1"]
+
+18... Rxa1 19. Qxh7# *

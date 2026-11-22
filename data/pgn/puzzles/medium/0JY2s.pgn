@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JY2s"]
+[Difficulty "medium"]
+[Rating "1515"]
+[Themes "advantage endgame fork pin short"]
+[GameUrl "https://lichess.org/game/0i1Vg3hL#53"]
+[Solution "c4c5 a4d1 d3f1 b7a6"]
+[SolutionSAN "Qxc5 Qd1+ Bf1 Ba6"]
+[FEN "6k1/1b3p1p/4p3/p1p1Pp2/qpQ5/3BPP1P/1P4P1/6K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Qxc5 Qd1+ 28. Bf1 Ba6 *

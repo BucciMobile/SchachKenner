@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08rdF"]
+[Difficulty "medium"]
+[Rating "1413"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/o2s2Tk4Z/black#78"]
+[Solution "b7f7 a1a8 g8h7 a8c6"]
+[SolutionSAN "Rf7 Qa8+ Kh7 Qxc6"]
+[FEN "6k1/1r4b1/2p3np/1pBp1p2/3Pp3/2N1PpPq/2P2P1P/Q5RK b - - 3 39"]
+[SetUp "1"]
+
+39... Rf7 40. Qa8+ Kh7 41. Qxc6 *

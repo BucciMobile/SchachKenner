@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KLZG"]
+[Difficulty "medium"]
+[Rating "1684"]
+[Themes "advantage endgame long skewer"]
+[GameUrl "https://lichess.org/game/lv4SLYPH/black#46"]
+[Solution "g8f8 c1c8 e8c8 e5h8 f8e7 h8c8"]
+[SolutionSAN "Kxf8 Rxc8 Rxc8 Qh8+ Ke7 Qxc8"]
+[FEN "2r1rBk1/p4p1p/4p1p1/3pQ3/3P4/5P1P/Pq3P2/2R3RK b - - 0 23"]
+[SetUp "1"]
+
+23... Kxf8 24. Rxc8 Rxc8 25. Qh8+ Ke7 26. Qxc8 *

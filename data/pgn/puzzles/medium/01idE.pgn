@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01idE"]
+[Difficulty "medium"]
+[Rating "1351"]
+[Themes "crushing endgame knightEndgame master short"]
+[GameUrl "https://lichess.org/game/Z4Yo3Lht/black#120"]
+[Solution "h5h4 f6d5 g3g2 f3g2"]
+[SolutionSAN "Kh4 Nxd5 g2 Kxg2"]
+[FEN "8/1n6/1P3N2/3p3k/pP3p2/P4Kp1/8/8 b - - 1 60"]
+[SetUp "1"]
+
+60... Kh4 61. Nxd5 g2 62. Kxg2 *

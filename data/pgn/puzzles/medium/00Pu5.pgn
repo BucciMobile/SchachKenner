@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Pu5"]
+[Difficulty "medium"]
+[Rating "1383"]
+[Themes "master mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/x04vixVv/black#54"]
+[Solution "c5c1 e1e8 g7f8 b4f8"]
+[SolutionSAN "Rc1 Re8+ Bf8 Qxf8#"]
+[FEN "6k1/1b3pbp/6p1/1Nr3q1/1Q1p4/P7/5PPP/4RBK1 b - - 0 27"]
+[SetUp "1"]
+
+27... Rc1 28. Re8+ Bf8 29. Qxf8# *

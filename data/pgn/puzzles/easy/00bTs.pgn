@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00bTs"]
+[Difficulty "easy"]
+[Rating "1114"]
+[Themes "advantage fork master middlegame short"]
+[GameUrl "https://lichess.org/game/PDAfQk7l#69"]
+[Solution "g2g7 e4d2 b1a1 d2f3"]
+[SolutionSAN "Rxg7 Nd2+ Ka1 Nxf3"]
+[FEN "2r4k/6bP/8/3p4/pp1qn3/3N1Q2/PPP3R1/1K5R w - - 5 35"]
+[SetUp "1"]
+
+35. Rxg7 Nd2+ 36. Ka1 Nxf3 *

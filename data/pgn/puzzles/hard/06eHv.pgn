@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06eHv"]
+[Difficulty "hard"]
+[Rating "2321"]
+[Themes "advantage middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/VYDMIyqk/black#44"]
+[Solution "f8b8 b7d7 f6d7 f5f6"]
+[SolutionSAN "Rfb8 Rxd7 Nxd7 f6"]
+[FEN "r4rk1/1R1bbpp1/p2p1n1p/4pP2/4P2q/P2BBRNP/1P1Q2P1/6K1 b - - 0 22"]
+[SetUp "1"]
+
+22... Rfb8 23. Rxd7 Nxd7 24. f6 *

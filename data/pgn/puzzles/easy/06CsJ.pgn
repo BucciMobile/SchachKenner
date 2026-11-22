@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06CsJ"]
+[Difficulty "easy"]
+[Rating "877"]
+[Themes "kingsideAttack mate mateIn2 middlegame pillsburysMate short"]
+[GameUrl "https://lichess.org/game/XDIU0d39/black#52"]
+[Solution "g7h6 h4h6 h8g7 h6h7"]
+[SolutionSAN "gxh6 Rxh6+ Kg7 Rh7#"]
+[FEN "3q1r1k/4b1p1/p2p1pPQ/2rBpP2/2p4R/7P/PP3P2/5RK1 b - - 0 26"]
+[SetUp "1"]
+
+26... gxh6 27. Rxh6+ Kg7 28. Rh7# *

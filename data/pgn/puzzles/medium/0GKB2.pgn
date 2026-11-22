@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GKB2"]
+[Difficulty "medium"]
+[Rating "1448"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/tN2Q3m8P#65"]
+[Solution "e1e7 c2f2 g1h1 f2h2"]
+[SolutionSAN "Rexe7 Qxf2+ Kh1 Qh2#"]
+[FEN "1k3r2/ppp1n1R1/3b4/3p4/3P2Q1/1PP4B/P1q2N2/4R1K1 w - - 7 33"]
+[SetUp "1"]
+
+33. Rexe7 Qxf2+ 34. Kh1 Qh2# *

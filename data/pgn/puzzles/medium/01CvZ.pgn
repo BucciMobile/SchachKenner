@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01CvZ"]
+[Difficulty "medium"]
+[Rating "1232"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/kmi7b3M1#107"]
+[Solution "d1e2 c8a6 e2d2 a6b5"]
+[SolutionSAN "Ke2 Ba6 Kd2 Bxb5"]
+[FEN "2b5/8/6p1/1R6/3kP3/5PPn/8/3K4 w - - 1 54"]
+[SetUp "1"]
+
+54. Ke2 Ba6 55. Kd2 Bxb5 *

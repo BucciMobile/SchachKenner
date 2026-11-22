@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AwQH"]
+[Difficulty "easy"]
+[Rating "928"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/xvptKKAL/black#74"]
+[Solution "h8g7 h1h6"]
+[SolutionSAN "Kg7 Qh6#"]
+[FEN "1b2r2k/3n4/3q1p2/p7/PpBP4/3KB3/1P3P2/7Q b - - 13 37"]
+[SetUp "1"]
+
+37... Kg7 38. Qh6# *

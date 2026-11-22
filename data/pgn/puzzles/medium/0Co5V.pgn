@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Co5V"]
+[Difficulty "medium"]
+[Rating "1586"]
+[Themes "endgame mate mateIn4 veryLong"]
+[GameUrl "https://lichess.org/game/P2EOM1r4/black#52"]
+[Solution "b5e2 f3g3 e2g4 g3g4 g8f7 g4g7 f7e8 g7e7"]
+[SolutionSAN "Bxe2 Qg3+ Bg4 Qxg4+ Kf7 Qg7+ Ke8 Qe7#"]
+[FEN "5rk1/pp5p/1q2pP2/1b1p4/1P6/P4Q1B/4N1KP/8 b - - 0 26"]
+[SetUp "1"]
+
+26... Bxe2 27. Qg3+ Bg4 28. Qxg4+ Kf7 29. Qg7+ Ke8 30. Qe7# *

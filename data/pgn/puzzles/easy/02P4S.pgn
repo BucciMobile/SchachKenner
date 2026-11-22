@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02P4S"]
+[Difficulty "easy"]
+[Rating "1071"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/se6nqS8X#29"]
+[Solution "d4e5 d8d3"]
+[SolutionSAN "dxe5 Qd3#"]
+[FEN "r1bq1rk1/ppp3p1/7p/4pp1Q/2PPp3/P3P1P1/1PnNKPP1/3R1B1R w - - 0 15"]
+[SetUp "1"]
+
+15. dxe5 Qd3# *

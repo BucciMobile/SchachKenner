@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DTea"]
+[Difficulty "easy"]
+[Rating "1136"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/AkQDmfsg/black#106"]
+[Solution "f1a1 c5b3 d4e5 b3a1"]
+[SolutionSAN "Qa1 Nb3+ Ke5 Nxa1"]
+[FEN "8/P7/3np3/2N3p1/1K1k4/7P/8/5q2 b - - 0 53"]
+[SetUp "1"]
+
+53... Qa1 54. Nb3+ Ke5 55. Nxa1 *

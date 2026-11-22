@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AVXk"]
+[Difficulty "easy"]
+[Rating "1081"]
+[Themes "crushing discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/nttQV4B5/black#64"]
+[Solution "f4g6 f3g5 h6g5 f5f2"]
+[SolutionSAN "Ng6 Ng5+ hxg5 Qxf2"]
+[FEN "8/p4ppk/1p5p/2p2Q2/2P2n2/1P3N2/P4qPK/8 b - - 7 32"]
+[SetUp "1"]
+
+32... Ng6 33. Ng5+ hxg5 34. Qxf2 *

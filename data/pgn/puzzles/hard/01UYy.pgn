@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01UYy"]
+[Difficulty "hard"]
+[Rating "2236"]
+[Themes "crushing defensiveMove endgame long master"]
+[GameUrl "https://lichess.org/game/Cr2bsbhv#101"]
+[Solution "a4d7 f4d3 d7b5 d3c5 b7c6 c5e4"]
+[SolutionSAN "Bxd7 Nd3 Bb5 Nxc5+ Kc6 Ne4"]
+[FEN "3k4/1K1p4/4p2p/2P1Pp2/B4n2/8/7P/8 w - - 0 51"]
+[SetUp "1"]
+
+51. Bxd7 Nd3 52. Bb5 Nxc5+ 53. Kc6 Ne4 *

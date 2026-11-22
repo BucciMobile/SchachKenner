@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IOBG"]
+[Difficulty "medium"]
+[Rating "1492"]
+[Themes "defensiveMove endgame long mate mateIn3 rookEndgame"]
+[GameUrl "https://lichess.org/game/LVZDtPCX/black#88"]
+[Solution "d3f3 f5g6 f3e3 d7d8 e3e8 d8e8"]
+[SolutionSAN "Rf3+ Kg6 Re3 Rd8+ Re8 Rxe8#"]
+[FEN "7k/3R2p1/5p1p/5K2/3p2PP/3r4/8/8 b - - 0 44"]
+[SetUp "1"]
+
+44... Rf3+ 45. Kg6 Re3 46. Rd8+ Re8 47. Rxe8# *

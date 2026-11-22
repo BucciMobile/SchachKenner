@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04ZdZ"]
+[Difficulty "medium"]
+[Rating "1294"]
+[Themes "crushing defensiveMove deflection endgame long"]
+[GameUrl "https://lichess.org/game/Ecnt6i0c/black#60"]
+[Solution "h7h6 c1c8 g8h7 f4f7 a4a1 g1h2"]
+[SolutionSAN "h6 Rc8+ Kh7 Qxf7 Ra1+ Kh2"]
+[FEN "6k1/p4ppp/1q2p3/1P1pP3/r2PbQ2/7P/5BP1/2R3K1 b - - 1 30"]
+[SetUp "1"]
+
+30... h6 31. Rc8+ Kh7 32. Qxf7 Ra1+ 33. Kh2 *

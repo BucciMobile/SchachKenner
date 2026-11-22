@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CaoC"]
+[Difficulty "easy"]
+[Rating "1053"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/KQytze2C#31"]
+[Solution "g5f4 e5f3 g1g2 f3d4"]
+[SolutionSAN "Bf4 Nxf3+ Kg2 Nxd4"]
+[FEN "r2q1r2/pp2p1kp/3p1pp1/3Bn1B1/3QP2P/5P2/PPP2P2/R3R1K1 w - - 0 16"]
+[SetUp "1"]
+
+16. Bf4 Nxf3+ 17. Kg2 Nxd4 *

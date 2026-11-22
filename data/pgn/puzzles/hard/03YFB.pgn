@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03YFB"]
+[Difficulty "hard"]
+[Rating "1746"]
+[Themes "crushing fork middlegame sacrifice skewer veryLong"]
+[GameUrl "https://lichess.org/game/d5Ni5zER/black#44"]
+[Solution "c7b6 b1b6 a7b6 a6a8 b8c7 a1a7 c6a7 a8a7 c7c6 a7e7"]
+[SolutionSAN "cxb6 Rxb6+ axb6 Qa8+ Kc7 Ra7+ Nxa7 Qxa7+ Kc6 Qxe7"]
+[FEN "1k1r3r/p1p1q3/QPn1p3/4P1pp/3Ppp2/2P5/2PK1PPP/RR6 b - - 0 22"]
+[SetUp "1"]
+
+22... cxb6 23. Rxb6+ axb6 24. Qa8+ Kc7 25. Ra7+ Nxa7 26. Qxa7+ Kc6 27. Qxe7 *

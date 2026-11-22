@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04nnf"]
+[Difficulty "hard"]
+[Rating "2652"]
+[Themes "bishopEndgame crushing defensiveMove endgame skewer veryLong"]
+[GameUrl "https://lichess.org/game/CrTzrWdM/black#96"]
+[Solution "e5d4 h4f2 d4c3 f2b6 c6c5 f3e3 c3b3 e3d3"]
+[SolutionSAN "Kd4 Bf2+ Kc3 Bxb6 c5 Ke3 Kxb3 Kd3"]
+[FEN "8/8/pbp5/4kp2/P1P4B/1P3K2/8/8 b - - 0 48"]
+[SetUp "1"]
+
+48... Kd4 49. Bf2+ Kc3 50. Bxb6 c5 51. Ke3 Kxb3 52. Kd3 *

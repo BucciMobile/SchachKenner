@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "009wR"]
+[Difficulty "medium"]
+[Rating "1250"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/tBBaKL5q#81"]
+[Solution "g2h1 f2f1 h1g2 f1g1"]
+[SolutionSAN "Kh1 Rf1+ Kg2 Rg1#"]
+[FEN "1R2R3/p7/1p1k3p/1Pb5/P5p1/6P1/5rKP/8 w - - 6 41"]
+[SetUp "1"]
+
+41. Kh1 Rf1+ 42. Kg2 Rg1# *

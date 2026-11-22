@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06SuH"]
+[Difficulty "medium"]
+[Rating "1461"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/wad22aGu/black#76"]
+[Solution "g6g5 d8g8 g7h6 f4g5"]
+[SolutionSAN "g5 Rg8+ Kh6 fxg5#"]
+[FEN "3R4/5pk1/1p2pNp1/2b1P2p/5P2/1P5P/1r3P2/6K1 b - - 6 38"]
+[SetUp "1"]
+
+38... g5 39. Rg8+ Kh6 40. fxg5# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cnug"]
+[Difficulty "easy"]
+[Rating "640"]
+[Themes "endgame epauletteMate mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/PYTajfWR#87"]
+[Solution "f3e4 h2h4"]
+[SolutionSAN "Ke4 Rh4#"]
+[FEN "8/8/4k3/1R2n2p/P7/1PP1PK2/7r/8 w - - 1 44"]
+[SetUp "1"]
+
+44. Ke4 Rh4# *

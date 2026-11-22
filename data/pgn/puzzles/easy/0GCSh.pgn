@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GCSh"]
+[Difficulty "easy"]
+[Rating "822"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/nJ7WKhrL#71"]
+[Solution "d8b6 f5e3 b6e3 e1e3"]
+[SolutionSAN "Qb6 Ne3+ Qxe3 Qxe3"]
+[FEN "3Q4/6pk/6p1/5n2/8/5PP1/5RKP/4q3 w - - 7 36"]
+[SetUp "1"]
+
+36. Qb6 Ne3+ 37. Qxe3 Qxe3 *

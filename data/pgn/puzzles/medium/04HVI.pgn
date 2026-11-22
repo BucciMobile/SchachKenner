@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04HVI"]
+[Difficulty "medium"]
+[Rating "1294"]
+[Themes "advantage endgame long rookEndgame skewer"]
+[GameUrl "https://lichess.org/game/Vyc76Cnd/black#78"]
+[Solution "h6g6 f4f7 e7d6 f8d8 d6c6 d8d2"]
+[SolutionSAN "Rg6 R4f7+ Kd6 Rd8+ Kc6 Rxd2"]
+[FEN "5R2/4k3/p3p2r/1pp3P1/5R2/8/PP1r4/6K1 b - - 1 39"]
+[SetUp "1"]
+
+39... Rg6 40. R4f7+ Kd6 41. Rd8+ Kc6 42. Rxd2 *

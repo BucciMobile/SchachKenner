@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01VwE"]
+[Difficulty "easy"]
+[Rating "720"]
+[Themes "endgame master"]
+[GameUrl "https://lichess.org/game/LlEVixNK/black#120"]
+[Solution "c3d3 e2e3 d3c4 e3a3"]
+[SolutionSAN "Kd3 Re3+ Kc4 Rxa3"]
+[FEN "8/8/5p2/4p1p1/6Pp/r1k2P1P/P3RK2/8 b - - 19 60"]
+[SetUp "1"]
+
+60... Kd3 61. Re3+ Kc4 62. Rxa3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07MTp"]
+[Difficulty "easy"]
+[Rating "1043"]
+[Themes "backRankMate fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/HHYJx9lo#45"]
+[Solution "f5d5 b2f2 g1h1 f2e1"]
+[SolutionSAN "Rxd5 Qf2+ Kh1 Qxe1#"]
+[FEN "5rk1/ppp2p1p/6n1/3r1RQ1/8/4p2B/Pq4PP/4R1K1 w - - 0 23"]
+[SetUp "1"]
+
+23. Rxd5 Qf2+ 24. Kh1 Qxe1# *

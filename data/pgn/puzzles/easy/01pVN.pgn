@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01pVN"]
+[Difficulty "easy"]
+[Rating "1073"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/dRQrAylR/black#82"]
+[Solution "f8f3 g2h4 g6f6 h4f3"]
+[SolutionSAN "Rf3 Nxh4+ Kf6 Nxf3"]
+[FEN "5r2/3b4/2p3k1/2p3r1/4p2p/PPP5/4RPNK/4R3 b - - 2 41"]
+[SetUp "1"]
+
+41... Rf3 42. Nxh4+ Kf6 43. Nxf3 *

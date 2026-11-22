@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09wjF"]
+[Difficulty "easy"]
+[Rating "1040"]
+[Themes "advancedPawn advantage endgame master promotion rookEndgame short"]
+[GameUrl "https://lichess.org/game/RoBaWIwe/black#86"]
+[Solution "g8h7 b3b8 e8e7 a7a8q"]
+[SolutionSAN "Kh7 Rb8 Re7 a8=Q"]
+[FEN "4r1k1/P5p1/7p/4p1r1/7K/1RP5/8/8 b - - 8 43"]
+[SetUp "1"]
+
+43... Kh7 44. Rb8 Re7 45. a8=Q *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GOZi"]
+[Difficulty "medium"]
+[Rating "1249"]
+[Themes "advancedPawn crushing endgame knightEndgame long master promotion sacrifice"]
+[GameUrl "https://lichess.org/game/t6YAL8eY#97"]
+[Solution "g6f5 f4f3 f5e6 f3f2 h5h6 f2f1q"]
+[SolutionSAN "Kf5 f3 Kxe6 f2 h6 f1=Q"]
+[FEN "8/1Pk5/4n1K1/4P2P/2P2p2/8/8/8 w - - 2 49"]
+[SetUp "1"]
+
+49. Kf5 f3 50. Kxe6 f2 51. h6 f1=Q *

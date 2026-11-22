@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CZKQ"]
+[Difficulty "hard"]
+[Rating "1854"]
+[Themes "kingsideAttack long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/lsCf1XRT#39"]
+[Solution "d2f3 e8e1 f3e1 f4h2 g1f1 h2h1"]
+[SolutionSAN "Nxf3 Rxe1+ Nxe1 Qxh2+ Kf1 Qh1#"]
+[FEN "4r1k1/pQ3ppp/3b4/2p5/2Bp1qb1/2PP1n2/PP1N1PPP/4R1K1 w - - 0 20"]
+[SetUp "1"]
+
+20. Nxf3 Rxe1+ 21. Nxe1 Qxh2+ 22. Kf1 Qh1# *

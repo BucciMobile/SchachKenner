@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0APYD"]
+[Difficulty "hard"]
+[Rating "1744"]
+[Themes "endgame mate mateIn4 queenEndgame veryLong"]
+[GameUrl "https://lichess.org/game/yf0vRUlk/black#104"]
+[Solution "a5a4 g2g4 h5h4 d7e7 g6g5 e7e1 b3g3 e1g3"]
+[SolutionSAN "a4 g4+ Kh4 Qe7+ g5 Qe1+ Qg3+ Qxg3#"]
+[FEN "8/3Q4/6pp/p4p1k/5P2/1q5P/6PK/8 b - - 1 52"]
+[SetUp "1"]
+
+52... a4 53. g4+ Kh4 54. Qe7+ g5 55. Qe1+ Qg3+ 56. Qxg3# *

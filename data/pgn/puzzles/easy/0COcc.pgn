@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0COcc"]
+[Difficulty "easy"]
+[Rating "1189"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/Npn3WtAw/black#14"]
+[Solution "g7g5 f3g5 h6g5 h4h8"]
+[SolutionSAN "g5 Nxg5 hxg5 Qxh8"]
+[FEN "r1bk1b1r/ppppqpp1/2n2n1p/1N2p3/2B1P2Q/5N2/PPPP1PPP/R1B1K2R b KQ - 3 7"]
+[SetUp "1"]
+
+7... g5 8. Nxg5 hxg5 9. Qxh8 *

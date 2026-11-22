@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09IkH"]
+[Difficulty "hard"]
+[Rating "1912"]
+[Themes "attraction long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/3dtPG6Nc#61"]
+[Solution "h1f1 b2a2 a1a2 f5c2 a2a1 c2b2"]
+[SolutionSAN "Rhf1 Rxa2+ Kxa2 Qc2+ Ka1 Qb2#"]
+[FEN "7r/5pkB/2p3p1/4Pq2/p1PP3Q/2p4P/Pr6/K2R3R w - - 0 31"]
+[SetUp "1"]
+
+31. Rhf1 Rxa2+ 32. Kxa2 Qc2+ 33. Ka1 Qb2# *

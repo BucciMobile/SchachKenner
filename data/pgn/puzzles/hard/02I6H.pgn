@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02I6H"]
+[Difficulty "hard"]
+[Rating "1766"]
+[Themes "long mate mateIn3 middlegame queensideAttack sacrifice"]
+[GameUrl "https://lichess.org/game/e71xtyYm/black#30"]
+[Solution "e8c8 d5b6 a7b6 a4a8 c6b8 a8b8"]
+[SolutionSAN "O-O-O Nb6+ axb6 Qa8+ Nb8 Qxb8#"]
+[FEN "r3k1nr/pp1b1ppp/2nB4/1B1N4/Q2P4/7P/Pq1NKP2/8 b kq - 1 15"]
+[SetUp "1"]
+
+15... O-O-O 16. Nb6+ axb6 17. Qa8+ Nb8 18. Qxb8# *

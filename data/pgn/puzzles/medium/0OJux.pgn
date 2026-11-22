@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OJux"]
+[Difficulty "medium"]
+[Rating "1608"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/7au0uRDT#49"]
+[Solution "d1e2 e4c3 e2d3 c3b5"]
+[SolutionSAN "Ke2 Nc3+ Kd3 Nxb5"]
+[FEN "2r2k1r/p4ppp/8/1B2N3/1b1Pnp2/1P6/5PPP/R2K3R w - - 1 25"]
+[SetUp "1"]
+
+25. Ke2 Nc3+ 26. Kd3 Nxb5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Sfz"]
+[Difficulty "medium"]
+[Rating "1412"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/OpzBE0bH#53"]
+[Solution "a3g3 f4c1 b2c1 e8e1"]
+[SolutionSAN "Qg3 Qxc1+ Bxc1 Re1#"]
+[FEN "4r1k1/pR3pb1/3p2pp/1P6/3p1qPn/Q7/1B3P1P/2R3KB w - - 3 27"]
+[SetUp "1"]
+
+27. Qg3 Qxc1+ 28. Bxc1 Re1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M70f"]
+[Difficulty "hard"]
+[Rating "2348"]
+[Themes "advantage capturingDefender fork long middlegame"]
+[GameUrl "https://lichess.org/game/jjNYadb9/black#30"]
+[Solution "f6d5 e4d5 c6a5 d5e6 a5c4 g5e7"]
+[SolutionSAN "Nxd5 exd5 Na5 dxe6 Nxc4 Bxe7"]
+[FEN "1k1r3r/pp2bppp/2npqn2/3Np1B1/2Q1P3/1R3N2/PP3PPP/2K4R b - - 8 15"]
+[SetUp "1"]
+
+15... Nxd5 16. exd5 Na5 17. dxe6 Nxc4 18. Bxe7 *

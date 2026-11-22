@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fm92"]
+[Difficulty "hard"]
+[Rating "2283"]
+[Themes "crushing long master middlegame quietMove"]
+[GameUrl "https://lichess.org/game/NdmxnLQA#43"]
+[Solution "e6d5 a8c8 d3c3 f6c3 h7f7 d8f7"]
+[SolutionSAN "Qd5 Rc8 Rc3 Bxc3 Rxf7 Nxf7"]
+[FEN "r2n2k1/2q1pr1R/3pQbp1/p7/5B2/1N1R4/PPP2PP1/1K6 w - - 1 22"]
+[SetUp "1"]
+
+22. Qd5 Rc8 23. Rc3 Bxc3 24. Rxf7 Nxf7 *

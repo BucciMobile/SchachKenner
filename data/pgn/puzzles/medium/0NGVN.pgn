@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NGVN"]
+[Difficulty "medium"]
+[Rating "1453"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/tx4GNec2/black#74"]
+[Solution "f7f6 d8f6 g7g8 f6g7"]
+[SolutionSAN "f6 Qxf6+ Kg8 Qg7#"]
+[FEN "3Q4/1p3pkp/p5p1/3p1P2/3B2P1/1P5P/P2p4/3qrNK1 b - - 5 37"]
+[SetUp "1"]
+
+37... f6 38. Qxf6+ Kg8 39. Qg7# *

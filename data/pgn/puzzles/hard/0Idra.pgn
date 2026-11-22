@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Idra"]
+[Difficulty "hard"]
+[Rating "2289"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/salFljqC/black#58"]
+[Solution "g7g5 c3c7 f8f7 h3h5"]
+[SolutionSAN "g5 Rc7 Rf7 Qh5"]
+[FEN "4qr1k/1b4pp/pp6/3pP3/P2n1N2/1PR3PQ/6BP/6K1 b - - 0 29"]
+[SetUp "1"]
+
+29... g5 30. Rc7 Rf7 31. Qh5 *

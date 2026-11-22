@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G37K"]
+[Difficulty "hard"]
+[Rating "1807"]
+[Themes "advantage middlegame veryLong"]
+[GameUrl "https://lichess.org/game/t87t4EMm/black#46"]
+[Solution "f5e4 e1e4 e8e4 f4e4 d6d5 e4e5 h5e5 c4e5"]
+[SolutionSAN "Bxe4 Rxe4 Rxe4 Qxe4 d5 Qe5 Qxe5 Nxe5"]
+[FEN "r3r1k1/ppp2ppp/3p4/5b1q/2N1PQ2/8/P1P2PPP/R3R1K1 b - - 1 23"]
+[SetUp "1"]
+
+23... Bxe4 24. Rxe4 Rxe4 25. Qxe4 d5 26. Qe5 Qxe5 27. Nxe5 *

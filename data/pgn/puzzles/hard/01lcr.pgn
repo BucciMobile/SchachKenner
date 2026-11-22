@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01lcr"]
+[Difficulty "hard"]
+[Rating "1765"]
+[Themes "deflection mate mateIn2 middlegame pin short"]
+[GameUrl "https://lichess.org/game/lGCauifF#49"]
+[Solution "h4f6 a3d3 d2e1 d3e3"]
+[SolutionSAN "Qxf6 Qxd3+ Ke1 Qxe3#"]
+[FEN "2r3k1/5p1p/4pnpP/Bb1p4/p2P3Q/q2BPP2/1rPK2P1/3R3R w - - 5 25"]
+[SetUp "1"]
+
+25. Qxf6 Qxd3+ 26. Ke1 Qxe3# *

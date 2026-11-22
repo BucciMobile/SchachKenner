@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JND5"]
+[Difficulty "easy"]
+[Rating "1005"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/j8OpProm#73"]
+[Solution "e4d2 h6d2 d3d2 f5e4"]
+[SolutionSAN "Nd2 Bxd2 Kxd2 Ke4"]
+[FEN "8/p1p5/1p1p3b/5k2/3PN1p1/2PK2P1/PP6/8 w - - 0 37"]
+[SetUp "1"]
+
+37. Nd2 Bxd2 38. Kxd2 Ke4 *

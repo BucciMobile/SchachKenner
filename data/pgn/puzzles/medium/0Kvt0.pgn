@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kvt0"]
+[Difficulty "medium"]
+[Rating "1224"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/nwgr1ghv#85"]
+[Solution "h1g1 a5a4"]
+[SolutionSAN "Rg1 a4#"]
+[FEN "4R3/kp6/2p5/pq5P/1P2Qp2/PKP3p1/5rP1/7R w - - 3 43"]
+[SetUp "1"]
+
+43. Rg1 a4# *

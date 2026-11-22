@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Oukr"]
+[Difficulty "medium"]
+[Rating "1531"]
+[Themes "discoveredAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/ucTf7nq4#63"]
+[Solution "d4e6 g3h3 g2h3 g7g1"]
+[SolutionSAN "Nxe6 Rxh3+ Bxh3 Qxg1#"]
+[FEN "6rk/1p4qn/p1n1p2p/3pP3/2pN1P2/P1P3rP/1P1RQ1BK/6R1 w - - 9 32"]
+[SetUp "1"]
+
+32. Nxe6 Rxh3+ 33. Bxh3 Qxg1# *

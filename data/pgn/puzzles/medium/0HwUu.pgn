@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HwUu"]
+[Difficulty "medium"]
+[Rating "1330"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/DfxvjSoy#21"]
+[Solution "c4e6 f2f1"]
+[SolutionSAN "Bxe6 Qf1#"]
+[FEN "r1b2kn1/pp1p1p1p/1p2n3/4Q3/2B1P3/8/PPPP1qPP/R1BK2NR w - - 0 11"]
+[SetUp "1"]
+
+11. Bxe6 Qf1# *

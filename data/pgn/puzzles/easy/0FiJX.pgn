@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FiJX"]
+[Difficulty "easy"]
+[Rating "1160"]
+[Themes "hangingPiece mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/KOWCn7fN#49"]
+[Solution "f1f6 d4a1 f6f1 a1f1"]
+[SolutionSAN "Rxf6 Qxa1+ Rf1 Qxf1#"]
+[FEN "r6k/1p2N1p1/p2pQr1p/4b3/P2qP3/8/2P3PP/R4R1K w - - 5 25"]
+[SetUp "1"]
+
+25. Rxf6 Qxa1+ 26. Rf1 Qxf1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Xjf"]
+[Difficulty "medium"]
+[Rating "1510"]
+[Themes "crushing endgame quietMove veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/u4KmjuJP/black#84"]
+[Solution "d7b8 d6b8 b7b8 b4c5 b8c7 b3b4 c7b7 c5d6"]
+[SolutionSAN "Nb8 Bxb8 Kxb8 Kc5 Kc7 b4 Kb7 Kd6"]
+[FEN "8/1k1n1p1p/p2Bp1p1/Pp1pP1P1/1K1P1P1P/1P6/8/8 b - - 4 42"]
+[SetUp "1"]
+
+42... Nb8 43. Bxb8 Kxb8 44. Kc5 Kc7 45. b4 Kb7 46. Kd6 *

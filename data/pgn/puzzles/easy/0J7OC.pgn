@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J7OC"]
+[Difficulty "easy"]
+[Rating "902"]
+[Themes "crushing exposedKing fork long middlegame"]
+[GameUrl "https://lichess.org/game/zjTpqlli/black#54"]
+[Solution "f6g6 h2h5 g7h6 h5h6 g6h6 h1h6"]
+[SolutionSAN "Qxg6 Rxh5+ Bh6 Rxh6+ Qxh6 Rxh6+"]
+[FEN "1r3r1k/3b2b1/2n2qB1/p1p4p/Pp2Pp2/1Q6/1PP1N1PR/2K4R b - - 0 27"]
+[SetUp "1"]
+
+27... Qxg6 28. Rxh5+ Bh6 29. Rxh6+ Qxh6 30. Rxh6+ *

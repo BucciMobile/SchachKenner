@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EPNR"]
+[Difficulty "medium"]
+[Rating "1359"]
+[Themes "long mate mateIn3 middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/7ORk6kle#33"]
+[Solution "c2b3 a4a1 c1c2 a1b2 c2d3 d7b5"]
+[SolutionSAN "cxb3 Qa1+ Kc2 Qxb2+ Kd3 Bb5#"]
+[FEN "4k2r/pp1bppbp/3p4/6Pp/qP2PP2/1r2B3/1PPQ3P/2KR3R w k - 0 17"]
+[SetUp "1"]
+
+17. cxb3 Qa1+ 18. Kc2 Qxb2+ 19. Kd3 Bb5# *

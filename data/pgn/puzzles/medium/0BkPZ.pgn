@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BkPZ"]
+[Difficulty "medium"]
+[Rating "1355"]
+[Themes "advantage defensiveMove master middlegame short"]
+[GameUrl "https://lichess.org/game/UzdVWcke#45"]
+[Solution "f4e5 f7f6 e5d4 b7e4"]
+[SolutionSAN "Be5+ f6 Bxd4 Bxe4"]
+[FEN "2r2r2/pb2bpk1/1p4p1/8/3pNB2/P4Q2/1Pq2PPP/R2R2K1 w - - 1 23"]
+[SetUp "1"]
+
+23. Be5+ f6 24. Bxd4 Bxe4 *

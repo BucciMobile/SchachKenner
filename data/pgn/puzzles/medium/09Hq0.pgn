@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Hq0"]
+[Difficulty "medium"]
+[Rating "1554"]
+[Themes "crushing fork long middlegame"]
+[GameUrl "https://lichess.org/game/r5BKToAF#49"]
+[Solution "h6d2 h4f3 g1h1 f3d2 h7g6 f7f8"]
+[SolutionSAN "Bd2 Nf3+ Kh1 Nxd2 Qg6+ Kf8"]
+[FEN "r2q2r1/5kpQ/p1p1p2B/1p1nP3/6Pn/PP5P/2B2P2/R4RK1 w - - 1 25"]
+[SetUp "1"]
+
+25. Bd2 Nf3+ 26. Kh1 Nxd2 27. Qg6+ Kf8 *

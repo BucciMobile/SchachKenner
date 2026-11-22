@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08mJ2"]
+[Difficulty "medium"]
+[Rating "1388"]
+[Themes "advancedPawn advantage endgame long"]
+[GameUrl "https://lichess.org/game/bJe9srI9#59"]
+[Solution "d1c2 b8b2 c2h7 g8h7 e2b2 c3b2"]
+[SolutionSAN "Bc2 Rb2 Bh7+ Kxh7 Rxb2 cxb2+"]
+[FEN "1r4k1/5pp1/4p3/3p2pP/3P4/r1p5/P3RP2/K2B3R w - - 0 30"]
+[SetUp "1"]
+
+30. Bc2 Rb2 31. Bh7+ Kxh7 32. Rxb2 cxb2+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JdTG"]
+[Difficulty "easy"]
+[Rating "1134"]
+[Themes "bishopEndgame crushing deflection endgame long skewer"]
+[GameUrl "https://lichess.org/game/Yhk22iql/black#108"]
+[Solution "f4e4 e8g6 e4d5 g6d3 e2e1q f2e1"]
+[SolutionSAN "Ke4 Bg6+ Kd5 Bxd3 e1=Q+ Kxe1"]
+[FEN "4B3/8/8/1p6/1P3k2/2Pb4/4pK2/8 b - - 3 54"]
+[SetUp "1"]
+
+54... Ke4 55. Bg6+ Kd5 56. Bxd3 e1=Q+ 57. Kxe1 *

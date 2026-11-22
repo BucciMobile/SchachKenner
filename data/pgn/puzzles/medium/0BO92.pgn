@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BO92"]
+[Difficulty "medium"]
+[Rating "1553"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/rRGSd7jV#49"]
+[Solution "a1f1 f3g3 g1h1 g3h3"]
+[SolutionSAN "Rf1 Qg3+ Kh1 Qxh3+"]
+[FEN "r6k/ppp1R1pp/1b6/8/8/2P2q1P/PP1Q1P2/R5K1 w - - 0 25"]
+[SetUp "1"]
+
+25. Rf1 Qg3+ 26. Kh1 Qxh3+ *

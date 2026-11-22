@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ofmr"]
+[Difficulty "medium"]
+[Rating "1212"]
+[Themes "advancedPawn advantage deflection endgame exposedKing long promotion sacrifice"]
+[GameUrl "https://lichess.org/game/HgJ1ili0#115"]
+[Solution "d1e1 d4d5 e5d5 f3f2 e1d2 f2f1q"]
+[SolutionSAN "Ke1 Rxd5 Rxd5 f2+ Kd2 f1=Q"]
+[FEN "8/8/8/3BR3/3r4/5p2/6k1/3K4 w - - 14 58"]
+[SetUp "1"]
+
+58. Ke1 Rxd5 59. Rxd5 f2+ 60. Kd2 f1=Q *

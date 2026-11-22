@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0042j"]
+[Difficulty "easy"]
+[Rating "550"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/DuM2FZjg/black#48"]
+[Solution "d6e5 d2d8 b6d8 d1d8"]
+[SolutionSAN "dxe5 Qxd8+ Qxd8 Rxd8#"]
+[FEN "3r2k1/4nppp/pq1p1b2/1p2P3/2r2P2/2P1NR2/PP1Q2BP/3R2K1 b - - 0 24"]
+[SetUp "1"]
+
+24... dxe5 25. Qxd8+ Qxd8 26. Rxd8# *

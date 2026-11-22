@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HURr"]
+[Difficulty "medium"]
+[Rating "1374"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/Cb7Aps7J#21"]
+[Solution "f3e5 c6e5 a4d7 e5d7"]
+[SolutionSAN "Ne5 Nxe5 Qxd7+ Nxd7"]
+[FEN "r3k1nr/pbpq1ppp/1pn5/8/Q2P4/2P2N2/P4PPP/R1B1KB1R w KQkq - 1 11"]
+[SetUp "1"]
+
+11. Ne5 Nxe5 12. Qxd7+ Nxd7 *

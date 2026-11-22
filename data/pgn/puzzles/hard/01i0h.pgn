@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01i0h"]
+[Difficulty "hard"]
+[Rating "2231"]
+[Themes "crushing deflection kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/YLdDEAwS/black#56"]
+[Solution "e7e4 g7h5 g3e5 d2g5 e4g6 g5e5"]
+[SolutionSAN "Qxe4 Nh5 Be5 Qg5+ Qg6 Qxe5"]
+[FEN "r4rk1/1ppbqpNp/7P/3P4/2PBP1p1/6b1/3Q2P1/2R2K1R b - - 6 28"]
+[SetUp "1"]
+
+28... Qxe4 29. Nh5 Be5 30. Qg5+ Qg6 31. Qxe5 *

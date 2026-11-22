@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02gjP"]
+[Difficulty "hard"]
+[Rating "1850"]
+[Themes "advancedPawn crushing endgame exposedKing long master"]
+[GameUrl "https://lichess.org/game/xEs9hoha/black#90"]
+[Solution "g2g5 f4g5 d2b1 g5g6 h7g6 h6h7"]
+[SolutionSAN "Rxg5 fxg5 Nxb1 g6+ Kxg6 h7"]
+[FEN "8/7k/1p2p2P/3p1pN1/p4P2/P1P5/1P1nr1r1/KR5R b - - 2 45"]
+[SetUp "1"]
+
+45... Rxg5 46. fxg5 Nxb1 47. g6+ Kxg6 48. h7 *

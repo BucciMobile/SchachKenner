@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IGyd"]
+[Difficulty "medium"]
+[Rating "1242"]
+[Themes "crushing endgame intermezzo short"]
+[GameUrl "https://lichess.org/game/SmzaOe4S/black#56"]
+[Solution "f2a2 g6e8 h8h7 a1a2"]
+[SolutionSAN "Rxa2 Qe8+ Kh7 Rxa2"]
+[FEN "7k/p5p1/2p3Qp/8/1P5q/2P5/P4rPP/R6K b - - 1 28"]
+[SetUp "1"]
+
+28... Rxa2 29. Qe8+ Kh7 30. Rxa2 *

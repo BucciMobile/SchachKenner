@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EdP7"]
+[Difficulty "medium"]
+[Rating "1688"]
+[Themes "advantage clearance long master masterVsMaster middlegame"]
+[GameUrl "https://lichess.org/game/1KByWBdr#25"]
+[Solution "c3b5 c6b5 g3c7 e7b4 e1e2 d8e7"]
+[SolutionSAN "Nxb5 cxb5 Bc7 Bb4+ Ke2 Qe7"]
+[FEN "r1bqr1k1/3nbpp1/2p2n1p/pp1p4/3P4/2NBPNBP/PPQ2PP1/R3K2R w KQ - 0 13"]
+[SetUp "1"]
+
+13. Nxb5 cxb5 14. Bc7 Bb4+ 15. Ke2 Qe7 *

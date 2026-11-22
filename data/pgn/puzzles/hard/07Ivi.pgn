@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Ivi"]
+[Difficulty "hard"]
+[Rating "1791"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/81bq8ZRj#53"]
+[Solution "e7c6 a7a5 d8a8 a5b4"]
+[SolutionSAN "Nexc6 a5 Ra8 axb4"]
+[FEN "3Rb1r1/p1k1N1p1/1pp2p1p/8/1N2P3/P4Pb1/1PP3P1/1K6 w - - 2 27"]
+[SetUp "1"]
+
+27. Nexc6 a5 28. Ra8 axb4 *

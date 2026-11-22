@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BTlF"]
+[Difficulty "easy"]
+[Rating "1102"]
+[Themes "crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/OUenUzZ3#29"]
+[Solution "g4g5 e5f3 e2f3 e7g5"]
+[SolutionSAN "Qg5 Nxf3+ Bxf3 Qxg5"]
+[FEN "r4rk1/pp2qppp/8/2ppn3/6Q1/5N2/PPP1BPPP/R3R1K1 w - - 0 15"]
+[SetUp "1"]
+
+15. Qg5 Nxf3+ 16. Bxf3 Qxg5 *

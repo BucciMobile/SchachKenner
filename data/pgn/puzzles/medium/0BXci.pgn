@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BXci"]
+[Difficulty "medium"]
+[Rating "1320"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/C50OZSTG/black#40"]
+[Solution "f8d8 d5f6 g8h8 f3a8"]
+[SolutionSAN "Rd8 Nf6+ Kh8 Bxa8"]
+[FEN "r1n2rk1/p4p2/6pB/2pNpb1p/3b4/P4B1P/1P3PP1/R4RK1 b - - 1 20"]
+[SetUp "1"]
+
+20... Rd8 21. Nf6+ Kh8 22. Bxa8 *

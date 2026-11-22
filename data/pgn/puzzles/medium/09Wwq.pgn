@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Wwq"]
+[Difficulty "medium"]
+[Rating "1400"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/d3qgjVQ8/black#50"]
+[Solution "b7b2 d2b2 g7b2 e2b2"]
+[SolutionSAN "Qxb2 Qxb2 Bxb2 Rxb2"]
+[FEN "r4rk1/1q4bp/3pp1p1/2p2p2/4PP2/P2P2P1/NP1QR1KP/2R5 b - - 2 25"]
+[SetUp "1"]
+
+25... Qxb2 26. Qxb2 Bxb2 27. Rxb2 *

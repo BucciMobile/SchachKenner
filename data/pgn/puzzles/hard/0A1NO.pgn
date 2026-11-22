@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A1NO"]
+[Difficulty "hard"]
+[Rating "1776"]
+[Themes "crushing discoveredAttack endgame master short"]
+[GameUrl "https://lichess.org/game/BuF0ilco#85"]
+[Solution "a1g1 g3g4 h3g4 h2e5"]
+[SolutionSAN "Rxg1 Rg4+ hxg4 Qxe5"]
+[FEN "8/7p/4p2k/p3Q3/P1K5/2P3rP/1P4Pq/R5q1 w - - 2 43"]
+[SetUp "1"]
+
+43. Rxg1 Rg4+ 44. hxg4 Qxe5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09LDE"]
+[Difficulty "hard"]
+[Rating "2177"]
+[Themes "crushing fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/RO64DYcx#43"]
+[Solution "h4h5 e4c3 h5g6 c3e2 g1h2 e2f4"]
+[SolutionSAN "h5 Nxc3 hxg6 Ne2+ Kh2 Nxf4"]
+[FEN "3r2k1/ppp3pp/2q3r1/8/4nQ1P/P1B1P3/1P3PP1/R4RK1 w - - 1 22"]
+[SetUp "1"]
+
+22. h5 Nxc3 23. hxg6 Ne2+ 24. Kh2 Nxf4 *

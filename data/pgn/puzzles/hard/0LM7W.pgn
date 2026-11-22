@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LM7W"]
+[Difficulty "hard"]
+[Rating "2091"]
+[Themes "crushing defensiveMove endgame master short"]
+[GameUrl "https://lichess.org/game/12gFwB3R#87"]
+[Solution "e3h3 h4f2 g1h1 d6f8"]
+[SolutionSAN "Qh3 Qxf2+ Kh1 Bf8"]
+[FEN "4R3/5pk1/p2b1rp1/3P4/7q/1P2Q3/P4PB1/6K1 w - - 0 44"]
+[SetUp "1"]
+
+44. Qh3 Qxf2+ 45. Kh1 Bf8 *

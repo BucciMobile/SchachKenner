@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02AV7"]
+[Difficulty "hard"]
+[Rating "2457"]
+[Themes "crushing defensiveMove endgame knightEndgame veryLong"]
+[GameUrl "https://lichess.org/game/bNPjDmkL/black#86"]
+[Solution "f5f4 d5d6 c5d7 d4e4 f4f3 g2f3 g4g3 e4e3 d7e5 e3e2"]
+[SolutionSAN "f4 d6 Nd7 Ke4 f3 gxf3 g3 Ke3 Ne5 Ke2"]
+[FEN "8/8/Pk6/1pnP1p1p/1N1K2pP/8/6P1/8 b - - 2 43"]
+[SetUp "1"]
+
+43... f4 44. d6 Nd7 45. Ke4 f3 46. gxf3 g3 47. Ke3 Ne5 48. Ke2 *

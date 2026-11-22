@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Fs3"]
+[Difficulty "medium"]
+[Rating "1588"]
+[Themes "advantage long middlegame pin sacrifice"]
+[GameUrl "https://lichess.org/game/N1MoqKFM#33"]
+[Solution "e4c3 d5d4 d1d4 e7c5 d4c5 d7c5"]
+[SolutionSAN "Nc3 Rxd4 Qxd4 Bc5 Qxc5 Nxc5"]
+[FEN "3qk2r/3nbppp/p3p3/1p1r4/3BNP2/8/PPP3PP/R2Q1RK1 w k - 2 17"]
+[SetUp "1"]
+
+17. Nc3 Rxd4 18. Qxd4 Bc5 19. Qxc5 Nxc5 *

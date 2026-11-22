@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07ifq"]
+[Difficulty "medium"]
+[Rating "1356"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/VmcfKYz8/black#72"]
+[Solution "d2g2 e1h1 g2h2 h1h2"]
+[SolutionSAN "Rxg2 Rh1+ Rh2 Rxh2#"]
+[FEN "8/p3rp2/6p1/4P2k/P4P2/5K2/3r2R1/4R3 b - - 3 36"]
+[SetUp "1"]
+
+36... Rxg2 37. Rh1+ Rh2 38. Rxh2# *

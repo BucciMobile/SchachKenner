@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BixS"]
+[Difficulty "hard"]
+[Rating "2235"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/ul1g9TTN#99"]
+[Solution "d3e4 b5c4 h3h1 d7e7 e4f5 d4d3"]
+[SolutionSAN "Ke4 Kc4 Rh1 Re7+ Kf5 d3"]
+[FEN "8/3r4/8/1k6/1P1p4/P2K3R/8/8 w - - 6 50"]
+[SetUp "1"]
+
+50. Ke4 Kc4 51. Rh1 Re7+ 52. Kf5 d3 *

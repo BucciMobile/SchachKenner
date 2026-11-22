@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KZxa"]
+[Difficulty "medium"]
+[Rating "1685"]
+[Themes "attraction discoveredAttack endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/ZbUnWSZZ#65"]
+[Solution "c7b7 d3f1 g1f1 d8d1"]
+[SolutionSAN "Qxb7 Qxf1+ Kxf1 Rxd1#"]
+[FEN "3r2k1/ppQ2ppp/8/8/PPP3Pb/3q1p1P/5P2/3B1RK1 w - - 5 33"]
+[SetUp "1"]
+
+33. Qxb7 Qxf1+ 34. Kxf1 Rxd1# *

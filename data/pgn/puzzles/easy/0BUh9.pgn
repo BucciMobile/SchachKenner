@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BUh9"]
+[Difficulty "easy"]
+[Rating "487"]
+[Themes "backRankMate endgame long mate mateIn3 rookEndgame"]
+[GameUrl "https://lichess.org/game/tyGKvGL4#55"]
+[Solution "b2b3 a8a1 b3b1 a1b1 c3c1 b1c1"]
+[SolutionSAN "Rbb3 Ra1+ Rb1 Rxb1+ Rc1 Rxc1#"]
+[FEN "r5k1/1p6/4p2p/1p3pp1/3Pp3/2R1P3/1R3PPP/6K1 w - - 1 28"]
+[SetUp "1"]
+
+28. Rbb3 Ra1+ 29. Rb1 Rxb1+ 30. Rc1 Rxc1# *

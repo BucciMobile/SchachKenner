@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E4pC"]
+[Difficulty "medium"]
+[Rating "1661"]
+[Themes "crushing endgame long pawnEndgame quietMove"]
+[GameUrl "https://lichess.org/game/bH0aHOmb/black#98"]
+[Solution "b5b4 h2h4 f7f5 f2f3 a5b5 g3g4"]
+[SolutionSAN "b4 h4 f5 f3 Kb5 g4"]
+[FEN "8/5p2/p5p1/kp6/8/1K4P1/5P1P/8 b - - 1 49"]
+[SetUp "1"]
+
+49... b4 50. h4 f5 51. f3 Kb5 52. g4 *

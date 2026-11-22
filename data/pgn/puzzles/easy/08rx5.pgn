@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08rx5"]
+[Difficulty "easy"]
+[Rating "932"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/6HFsbCzw/black#28"]
+[Solution "f7f5 d1h5"]
+[SolutionSAN "f5 Qh5#"]
+[FEN "r1bqk2r/pp1n1p2/2pBp2p/2P3p1/3Pp3/2P1P2P/P2N1PP1/R2QK2R b KQkq - 1 14"]
+[SetUp "1"]
+
+14... f5 15. Qh5# *

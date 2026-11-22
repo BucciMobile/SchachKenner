@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GDFq"]
+[Difficulty "hard"]
+[Rating "1761"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/KLkv1m73#43"]
+[Solution "f2g3 f7f2 g3g4 d5f6"]
+[SolutionSAN "Kg3 Qf2+ Kxg4 Nf6#"]
+[FEN "r5k1/1pp2qp1/p2pN2p/3n4/P5n1/7P/1P3KP1/R1BQR3 w - - 1 22"]
+[SetUp "1"]
+
+22. Kg3 Qf2+ 23. Kxg4 Nf6# *

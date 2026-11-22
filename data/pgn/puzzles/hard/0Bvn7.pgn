@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bvn7"]
+[Difficulty "hard"]
+[Rating "2238"]
+[Themes "advantage long master middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/ZUOyyj4X#39"]
+[Solution "c2c3 b4b3 e3d4 b3d1 d2d1 c5d4"]
+[SolutionSAN "c3 Qxb3 Qxd4 Qxd1+ Rxd1 cxd4"]
+[FEN "2kr4/1p3ppp/1n2p1b1/p1p5/1q1n2P1/1B2Q2P/PPPR1P2/1NKR4 w - - 0 20"]
+[SetUp "1"]
+
+20. c3 Qxb3 21. Qxd4 Qxd1+ 22. Rxd1 cxd4 *

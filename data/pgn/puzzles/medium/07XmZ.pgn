@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07XmZ"]
+[Difficulty "medium"]
+[Rating "1642"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/WL0nU8X4/black#62"]
+[Solution "e8d8 f1d1 d8c8 e5f5"]
+[SolutionSAN "Kd8 Rd1+ Kc8 Qf5+"]
+[FEN "r3k2r/2p5/n1P4q/4Q3/1P2Pp2/1RN3p1/6p1/5RK1 b q - 0 31"]
+[SetUp "1"]
+
+31... Kd8 32. Rd1+ Kc8 33. Qf5+ *

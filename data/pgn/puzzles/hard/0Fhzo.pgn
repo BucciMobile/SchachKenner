@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fhzo"]
+[Difficulty "hard"]
+[Rating "2146"]
+[Themes "clearance crushing kingsideAttack middlegame veryLong"]
+[GameUrl "https://lichess.org/game/exylBq0l/black#36"]
+[Solution "c4a6 d1h5 h7h6 e4d5 g8h7 e1e6 d6e6 d5e6"]
+[SolutionSAN "Ba6 Qh5 h6 Bd5+ Kh7 Re6 Qxe6 Bxe6"]
+[FEN "r4rk1/pp4pp/2nq4/8/2b1B3/PP1p2P1/5P1P/R1BQR1K1 b - - 0 18"]
+[SetUp "1"]
+
+18... Ba6 19. Qh5 h6 20. Bd5+ Kh7 21. Re6 Qxe6 22. Bxe6 *

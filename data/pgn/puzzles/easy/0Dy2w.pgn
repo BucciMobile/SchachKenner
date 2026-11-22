@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dy2w"]
+[Difficulty "easy"]
+[Rating "454"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/qG1So0nh#51"]
+[Solution "f1f6 e8e1 f6f1 e1f1"]
+[SolutionSAN "Rxf6 Re1+ Rf1 Rxf1#"]
+[FEN "4r2k/ppp2p1p/3b1r2/3P4/8/2N4P/PPP3P1/5R1K w - - 0 26"]
+[SetUp "1"]
+
+26. Rxf6 Re1+ 27. Rf1 Rxf1# *

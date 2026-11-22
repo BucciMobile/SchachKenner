@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DOU7"]
+[Difficulty "easy"]
+[Rating "1114"]
+[Themes "bishopEndgame crushing endgame short"]
+[GameUrl "https://lichess.org/game/BYmXziib/black#96"]
+[Solution "d6e7 g5g6 f7g6 f5g6"]
+[SolutionSAN "Ke7 g6 fxg6+ fxg6"]
+[FEN "8/1p3p1b/3k3P/5PPK/8/8/8/8 b - - 2 48"]
+[SetUp "1"]
+
+48... Ke7 49. g6 fxg6+ 50. fxg6 *

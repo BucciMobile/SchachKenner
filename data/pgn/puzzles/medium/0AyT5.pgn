@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AyT5"]
+[Difficulty "medium"]
+[Rating "1637"]
+[Themes "crushing deflection endgame exposedKing long"]
+[GameUrl "https://lichess.org/game/N0xKeSRL/black#84"]
+[Solution "f6e6 e2c4 e6d6 f1f6 d6d7 d4e5"]
+[SolutionSAN "Ke6 Bc4+ Kd6 Rf6+ Kd7 Kxe5"]
+[FEN "8/7p/5kpP/p3r3/b2K4/4p3/4B3/5R2 b - - 1 42"]
+[SetUp "1"]
+
+42... Ke6 43. Bc4+ Kd6 44. Rf6+ Kd7 45. Kxe5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JmhO"]
+[Difficulty "medium"]
+[Rating "1235"]
+[Themes "epauletteMate long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/jFZgHSJC/black#40"]
+[Solution "g8f7 e4d6 e7d6 g4g6 f7e7 g6g7"]
+[SolutionSAN "Kf7 Nd6+ Bxd6 Qxg6+ Ke7 Qg7#"]
+[FEN "r2qr1k1/1p1bb3/1n2pppB/p2n4/P2PN1Q1/8/1P3PPP/RB3RK1 b - - 1 20"]
+[SetUp "1"]
+
+20... Kf7 21. Nd6+ Bxd6 22. Qxg6+ Ke7 23. Qg7# *

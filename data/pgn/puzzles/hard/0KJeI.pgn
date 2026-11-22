@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KJeI"]
+[Difficulty "hard"]
+[Rating "2187"]
+[Themes "crushing endgame queenEndgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/3wcutz8U/black#84"]
+[Solution "c2c4 h3h4 c4f1 g1f1 b5c4 h4h5 c4d4 h5h6"]
+[SolutionSAN "Qc4 h4 Qxf1+ Kxf1 Kc4 h5 Kd4 h6"]
+[FEN "8/8/1p6/1kp5/8/6PP/2q5/5QK1 b - - 1 42"]
+[SetUp "1"]
+
+42... Qc4 43. h4 Qxf1+ 44. Kxf1 Kc4 45. h5 Kd4 46. h6 *

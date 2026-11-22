@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H149"]
+[Difficulty "medium"]
+[Rating "1285"]
+[Themes "mate mateIn1 oneMove opening queensideAttack"]
+[GameUrl "https://lichess.org/game/jfqBL4eo#27"]
+[Solution "e2f2 b4a3"]
+[SolutionSAN "Qxf2 Bxa3#"]
+[FEN "r1b1k2r/1p1p1ppp/pqn1p3/4P3/1b2N3/P4N2/2PBQnPP/2KR1B1R w kq - 0 14"]
+[SetUp "1"]
+
+14. Qxf2 Bxa3# *

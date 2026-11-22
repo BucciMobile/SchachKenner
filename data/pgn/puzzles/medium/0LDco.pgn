@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LDco"]
+[Difficulty "medium"]
+[Rating "1458"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/zu09D0rQ/black#26"]
+[Solution "g5h4 g3g7 h4f6 e5f6"]
+[SolutionSAN "Bh4 Qxg7 Bf6 exf6"]
+[FEN "rn1qk2r/1p3pp1/p1p1b2p/3nP1b1/2BP1P2/2N3Q1/PP4PP/R1B2RK1 b kq - 0 13"]
+[SetUp "1"]
+
+13... Bh4 14. Qxg7 Bf6 15. exf6 *

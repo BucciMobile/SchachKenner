@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hnzz"]
+[Difficulty "hard"]
+[Rating "2085"]
+[Themes "advantage defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/SHY4yVii#39"]
+[Solution "h1h2 d4c3 e2c4 g8f8"]
+[SolutionSAN "Rh2 dxc3 Bc4+ Kf8"]
+[FEN "r2qr1k1/pbp3bp/1p4p1/6P1/3p1P2/2N1P3/PPPQB3/2KR3R w - - 0 20"]
+[SetUp "1"]
+
+20. Rh2 dxc3 21. Bc4+ Kf8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Are4"]
+[Difficulty "medium"]
+[Rating "1201"]
+[Themes "advancedPawn crushing endgame promotion rookEndgame short"]
+[GameUrl "https://lichess.org/game/G4q1hqVn#89"]
+[Solution "d7d4 e3e2 d4f4 e2e1q"]
+[SolutionSAN "Rxd4 e2 Rf4 e1=Q"]
+[FEN "8/p2R4/P7/1pk2p2/3p4/3Kp1P1/6P1/8 w - - 2 45"]
+[SetUp "1"]
+
+45. Rxd4 e2 46. Rf4 e1=Q *

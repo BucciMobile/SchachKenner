@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MQeq"]
+[Difficulty "medium"]
+[Rating "1552"]
+[Themes "crushing endgame master pin short"]
+[GameUrl "https://lichess.org/game/hVTWoFCN#97"]
+[Solution "d5e5 f2g3 d6d7 e8e5"]
+[SolutionSAN "Re5 Bg3 Kd7 Rxe5"]
+[FEN "4r3/6k1/2PK3p/P2R1pp1/N7/7P/5b2/8 w - - 4 49"]
+[SetUp "1"]
+
+49. Re5 Bg3 50. Kd7 Rxe5 *

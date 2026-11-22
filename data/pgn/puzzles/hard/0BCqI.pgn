@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BCqI"]
+[Difficulty "hard"]
+[Rating "1856"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/OmSbDEs8/black#64"]
+[Solution "e8e6 f5h6 g8h7 h6g4 e6f6 g4f6"]
+[SolutionSAN "Re6 Nh6+ Kh7 Nxg4 Rxf6 Nxf6+"]
+[FEN "2r1r1k1/p4p2/5Q2/3pPN1p/6q1/1P6/P5PP/4R2K b - - 0 32"]
+[SetUp "1"]
+
+32... Re6 33. Nh6+ Kh7 34. Nxg4 Rxf6 35. Nxf6+ *

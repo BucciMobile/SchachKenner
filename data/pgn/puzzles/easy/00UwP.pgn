@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00UwP"]
+[Difficulty "easy"]
+[Rating "1196"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/Py4RR2HF/black#38"]
+[Solution "b4b1 a3d6 b1c1 b5f1"]
+[SolutionSAN "Rb1 Qxd6 Rxc1+ Bf1"]
+[FEN "5rk1/p4pp1/3qb2p/1B1p4/1r1P4/Q3PN2/P4PPP/2R3K1 b - - 5 19"]
+[SetUp "1"]
+
+19... Rb1 20. Qxd6 Rxc1+ 21. Bf1 *

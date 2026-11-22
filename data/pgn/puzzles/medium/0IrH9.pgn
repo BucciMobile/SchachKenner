@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IrH9"]
+[Difficulty "medium"]
+[Rating "1548"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/ECLG3ZYX#79"]
+[Solution "d5d7 g7e5 g2g3 h4g3 f3g3 e5g3"]
+[SolutionSAN "Qd7 Bxe5+ g3 hxg3+ Rxg3 Bxg3+"]
+[FEN "6r1/1p3pbk/p5q1/3QP2p/P2P3p/5R1P/1P2RPPK/8 w - - 1 40"]
+[SetUp "1"]
+
+40. Qd7 Bxe5+ 41. g3 hxg3+ 42. Rxg3 Bxg3+ *

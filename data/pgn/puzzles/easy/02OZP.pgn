@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02OZP"]
+[Difficulty "easy"]
+[Rating "1155"]
+[Themes "advantage capturingDefender middlegame short"]
+[GameUrl "https://lichess.org/game/NcXRma9u#23"]
+[Solution "c3a4 h5f3 e2f3 b6d4"]
+[SolutionSAN "Na4 Bxf3 Bxf3 Bxd4"]
+[FEN "rn1qk2r/1pp1npp1/pb2p2p/3pP2b/1P1P4/P1N2N1P/2PBBPP1/R2QK2R w KQkq - 1 12"]
+[SetUp "1"]
+
+12. Na4 Bxf3 13. Bxf3 Bxd4 *

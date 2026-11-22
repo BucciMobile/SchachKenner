@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BYqL"]
+[Difficulty "easy"]
+[Rating "1169"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/ICmwNtFX#55"]
+[Solution "a3c5 f4h2"]
+[SolutionSAN "Bxc5 Qh2#"]
+[FEN "r2k1r2/1p4pQ/4R2p/p1p1b3/P4q2/BBp4P/6P1/R6K w - - 1 28"]
+[SetUp "1"]
+
+28. Bxc5 Qh2# *

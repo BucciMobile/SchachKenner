@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ihk5"]
+[Difficulty "easy"]
+[Rating "866"]
+[Themes "crushing fork opening short"]
+[GameUrl "https://lichess.org/game/mbM6z5Ux#17"]
+[Solution "g1e2 e7b4 c2c3 b4c4"]
+[SolutionSAN "Ne2 Qb4+ c3 Qxc4"]
+[FEN "rnb1kb1r/1pp1qppp/p7/4P3/2BPp3/6P1/PPP4P/R1BQK1NR w KQkq - 0 9"]
+[SetUp "1"]
+
+9. Ne2 Qb4+ 10. c3 Qxc4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03I4O"]
+[Difficulty "medium"]
+[Rating "1396"]
+[Themes "advancedPawn crushing endgame master masterVsMaster pin promotion short"]
+[GameUrl "https://lichess.org/game/Ln3sMviY/black#104"]
+[Solution "f8f7 d7d8q f7c7 d8c7"]
+[SolutionSAN "Rf7 d8=Q Rxc7 Qxc7+"]
+[FEN "5r2/2QP2k1/1p4p1/1Bp4p/2Pqp2P/6PK/5P2/8 b - - 4 52"]
+[SetUp "1"]
+
+52... Rf7 53. d8=Q Rxc7 54. Qxc7+ *

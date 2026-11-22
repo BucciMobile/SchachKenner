@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "033Z2"]
+[Difficulty "hard"]
+[Rating "2177"]
+[Themes "bishopEndgame crushing endgame long"]
+[GameUrl "https://lichess.org/game/KAOoU39e/black#92"]
+[Solution "e7b4 e6d7 h5h4 e5e6 h4h3 b6a5"]
+[SolutionSAN "Bb4 Kd7 h4 e6 h3 Bxa5"]
+[FEN "5k2/4b3/1B2K3/p3P2p/P7/8/8/8 b - - 1 46"]
+[SetUp "1"]
+
+46... Bb4 47. Kd7 h4 48. e6 h3 49. Bxa5 *

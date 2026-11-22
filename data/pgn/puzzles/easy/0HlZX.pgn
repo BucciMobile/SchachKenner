@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HlZX"]
+[Difficulty "easy"]
+[Rating "684"]
+[Themes "kingsideAttack mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/4pEwQn4K/black#30"]
+[Solution "h4e1 d3h7"]
+[SolutionSAN "Bxe1 Qxh7#"]
+[FEN "r2q1rk1/pppb1ppp/3p4/4P3/3N1Pnb/2PQ4/PPB5/RNB1R1K1 b - - 0 15"]
+[SetUp "1"]
+
+15... Bxe1 16. Qxh7# *

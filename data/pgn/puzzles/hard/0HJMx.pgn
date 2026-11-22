@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HJMx"]
+[Difficulty "hard"]
+[Rating "2679"]
+[Themes "crushing defensiveMove long master middlegame"]
+[GameUrl "https://lichess.org/game/a1jLRX34/black#42"]
+[Solution "e8e1 g1h2 d8e7 d2h6 g7g8 c3d5"]
+[SolutionSAN "Re1+ Kh2 Qe7 Qh6+ Kg8 Nd5"]
+[FEN "r2qr3/ppp2Nkp/5pp1/5b2/2BP4/2N4P/PPPQ2P1/6K1 b - - 1 21"]
+[SetUp "1"]
+
+21... Re1+ 22. Kh2 Qe7 23. Qh6+ Kg8 24. Nd5 *

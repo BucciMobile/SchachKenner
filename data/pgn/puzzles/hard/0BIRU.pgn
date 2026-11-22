@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BIRU"]
+[Difficulty "hard"]
+[Rating "2287"]
+[Themes "crushing fork master middlegame short"]
+[GameUrl "https://lichess.org/game/cJsth6A4/black#56"]
+[Solution "h7h6 f5a5 d8c8 a5a2"]
+[SolutionSAN "h6 Qa5 Rdc8 Qxa2+"]
+[FEN "3r2k1/2r1b1pp/p4n2/5QN1/1p5P/8/bP3PP1/4R1K1 b - - 0 28"]
+[SetUp "1"]
+
+28... h6 29. Qa5 Rdc8 30. Qxa2+ *

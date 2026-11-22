@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00xHQ"]
+[Difficulty "hard"]
+[Rating "1703"]
+[Themes "advantage defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/Bt8SnbNt/black#70"]
+[Solution "b1b4 d6d8 b8d8 d4d8 g8g7 c5d7"]
+[SolutionSAN "Rb4 Rd8+ Rxd8 Qxd8+ Kg7 Nd7"]
+[FEN "1r4k1/5p1p/3R2p1/1qN5/3Qp3/7P/5PPK/1r6 b - - 0 35"]
+[SetUp "1"]
+
+35... Rb4 36. Rd8+ Rxd8 37. Qxd8+ Kg7 38. Nd7 *

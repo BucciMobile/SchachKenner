@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00dwJ"]
+[Difficulty "hard"]
+[Rating "1852"]
+[Themes "advantage defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/jAiL6A2t/black#64"]
+[Solution "c6c1 a1c1 c7c1 g3f1"]
+[SolutionSAN "Qc1+ Rxc1 Rxc1+ Nf1"]
+[FEN "2r5/2r3k1/p1q1b1pp/3pn3/3R4/4P1N1/PQ4PP/R5K1 b - - 7 32"]
+[SetUp "1"]
+
+32... Qc1+ 33. Rxc1 Rxc1+ 34. Nf1 *

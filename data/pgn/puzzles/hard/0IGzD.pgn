@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IGzD"]
+[Difficulty "hard"]
+[Rating "2133"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/Qe6ULxSm#85"]
+[Solution "e1f2 a1g1 f2f3 h5h4"]
+[SolutionSAN "Kf2 Qg1+ Kf3 h4"]
+[FEN "6r1/3B3k/3Pp3/2P1Qp1p/3P4/8/4R3/q3K3 w - - 4 43"]
+[SetUp "1"]
+
+43. Kf2 Qg1+ 44. Kf3 h4 *

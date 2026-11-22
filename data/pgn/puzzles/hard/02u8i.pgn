@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02u8i"]
+[Difficulty "hard"]
+[Rating "2240"]
+[Themes "attraction crushing deflection discoveredAttack master middlegame pin sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/B974cEjO/black#54"]
+[Solution "a5c7 g5e6 f5e6 g1g6 g7h7 g6h6 h7h6 e7g5 h6h7 g5h5"]
+[SolutionSAN "Qc7 Ne6+ Bxe6 Rxg6+ Kh7 Rh6+ Kxh6 Qg5+ Kh7 Qxh5+"]
+[FEN "5r2/4Qpk1/6p1/qp1p1bNn/3P3P/pPr2P2/P3N3/K2R2R1 b - - 3 27"]
+[SetUp "1"]
+
+27... Qc7 28. Ne6+ Bxe6 29. Rxg6+ Kh7 30. Rh6+ Kxh6 31. Qg5+ Kh7 32. Qxh5+ *

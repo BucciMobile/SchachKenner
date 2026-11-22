@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03wH4"]
+[Difficulty "easy"]
+[Rating "601"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/hsjzrv26#51"]
+[Solution "c3e4 g7a1 d5d1 a1d1"]
+[SolutionSAN "Ne4 Qa1+ Qd1 Qxd1#"]
+[FEN "2r2b2/p5qk/1p1pR1pp/3Q4/2P4B/1PN5/P4PPP/6K1 w - - 5 26"]
+[SetUp "1"]
+
+26. Ne4 Qa1+ 27. Qd1 Qxd1# *

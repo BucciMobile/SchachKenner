@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JFFA"]
+[Difficulty "hard"]
+[Rating "1854"]
+[Themes "crushing defensiveMove endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/NFsz11WA#65"]
+[Solution "g3g4 h5g4 f3g3 c6c5"]
+[SolutionSAN "g4+ hxg4+ Kg3 c5"]
+[FEN "8/8/2p5/p3pk1p/P2p3P/3P1KP1/2P5/8 w - - 0 33"]
+[SetUp "1"]
+
+33. g4+ hxg4+ 34. Kg3 c5 *

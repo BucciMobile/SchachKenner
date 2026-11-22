@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09rhJ"]
+[Difficulty "easy"]
+[Rating "744"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/ZLA3ThnB/black#16"]
+[Solution "e8d8 g5e6"]
+[SolutionSAN "Kd8 Ne6#"]
+[FEN "rnb1kb1r/ppqnpBpp/3p4/2p1p1N1/8/2P5/PP1P1PPP/RNBQK2R b KQkq - 3 8"]
+[SetUp "1"]
+
+8... Kd8 9. Ne6# *

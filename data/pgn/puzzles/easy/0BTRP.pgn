@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BTRP"]
+[Difficulty "easy"]
+[Rating "697"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/dVtOXySB#47"]
+[Solution "f3f5 d2d1 a1d1 d8d1"]
+[SolutionSAN "Rxf5 Rd1+ Rxd1 Rxd1#"]
+[FEN "3r2k1/pp3p1p/2n3p1/4pq2/8/2P2RQ1/PP1r1PPP/R5K1 w - - 6 24"]
+[SetUp "1"]
+
+24. Rxf5 Rd1+ 25. Rxd1 Rxd1# *

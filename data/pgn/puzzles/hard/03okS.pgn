@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03okS"]
+[Difficulty "hard"]
+[Rating "1995"]
+[Themes "advantage endgame long master"]
+[GameUrl "https://lichess.org/game/3X8dRTki/black#78"]
+[Solution "b4b3 b5b6 a7b6 c5b6 e1e2 d2e2"]
+[SolutionSAN "b3 b6 axb6 cxb6 Rxe2 Rxe2"]
+[FEN "6k1/p4p1p/6p1/1PP5/1p6/6P1/3RBPKP/1r2r3 b - - 0 39"]
+[SetUp "1"]
+
+39... b3 40. b6 axb6 41. cxb6 Rxe2 42. Rxe2 *

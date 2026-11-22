@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02mp5"]
+[Difficulty "easy"]
+[Rating "630"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/LyVq0meL/black#104"]
+[Solution "d4b6 b4d5 f6f7 d5b6"]
+[SolutionSAN "Bb6 Nd5+ Kf7 Nxb6"]
+[FEN "8/8/5k2/5p1p/1N1b1Pp1/6P1/6KP/8 b - - 3 52"]
+[SetUp "1"]
+
+52... Bb6 53. Nd5+ Kf7 54. Nxb6 *

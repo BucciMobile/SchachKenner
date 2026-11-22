@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EkpK"]
+[Difficulty "easy"]
+[Rating "1025"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/Hgq0rBjj#79"]
+[Solution "e3e4 c6d4 c2b1 d4f5"]
+[SolutionSAN "e4 Nxd4+ Kb1 Nxf5"]
+[FEN "2r1q3/1kp2R2/ppnp3B/3N1Q2/3P4/1P2PPP1/P1K5/8 w - - 1 40"]
+[SetUp "1"]
+
+40. e4 Nxd4+ 41. Kb1 Nxf5 *

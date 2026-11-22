@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C1yE"]
+[Difficulty "hard"]
+[Rating "2001"]
+[Themes "crushing fork middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/vEzrjpNR/black#58"]
+[Solution "b5d4 g3h5 e8f7 h5f6 g8f8 f6d7 f7d7 g5f4 d4f5 g2g4"]
+[SolutionSAN "Nxd4 Nh5 Qf7 Nf6+ Kf8 Nxd7+ Qxd7 Qf4+ Nf5 g4"]
+[FEN "1b2q1k1/1p1b2p1/p3p3/Pn1pP1Q1/1P1P4/6NP/5PP1/2R3K1 b - - 0 29"]
+[SetUp "1"]
+
+29... Nxd4 30. Nh5 Qf7 31. Nf6+ Kf8 32. Nxd7+ Qxd7 33. Qf4+ Nf5 34. g4 *

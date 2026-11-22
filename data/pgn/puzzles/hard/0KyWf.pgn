@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KyWf"]
+[Difficulty "hard"]
+[Rating "1775"]
+[Themes "attraction crushing endgame queensideAttack short"]
+[GameUrl "https://lichess.org/game/XROfKRkx#53"]
+[Solution "h1c1 c3c1 b1c1 b6c7"]
+[SolutionSAN "Rc1 Rxc1+ Kxc1 Qc7+"]
+[FEN "6k1/1p4b1/pq2p1pp/5p2/3P4/2r1P1NP/PP2Q1P1/1K5R w - - 0 27"]
+[SetUp "1"]
+
+27. Rc1 Rxc1+ 28. Kxc1 Qc7+ *

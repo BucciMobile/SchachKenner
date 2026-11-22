@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04tL4"]
+[Difficulty "easy"]
+[Rating "399"]
+[Themes "mate mateIn1 middlegame oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/Kk7jdxAI/black#50"]
+[Solution "a8e8 e2e8"]
+[SolutionSAN "Rxe8 Rxe8#"]
+[FEN "r3Q2k/pb4p1/1pp4p/5B2/3q1b2/7P/PP2RPP1/4R1K1 b - - 2 25"]
+[SetUp "1"]
+
+25... Rxe8 26. Rxe8# *

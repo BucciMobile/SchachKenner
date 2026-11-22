@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H6u3"]
+[Difficulty "easy"]
+[Rating "903"]
+[Themes "endgame mate mateIn1 oneMove operaMate"]
+[GameUrl "https://lichess.org/game/T5P2mWFs#59"]
+[Solution "e3c5 h3h1"]
+[SolutionSAN "Bxc5 Rh1#"]
+[FEN "2r5/5kp1/4p1p1/1pb5/2p1bP2/2P1B2r/1P2QP2/3R2K1 w - - 0 30"]
+[SetUp "1"]
+
+30. Bxc5 Rh1# *

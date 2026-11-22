@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06s9Z"]
+[Difficulty "medium"]
+[Rating "1273"]
+[Themes "crushing endgame master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/s7kIXFUZ/black#112"]
+[Solution "d6e6 f3f6 e6f6 g3h4"]
+[SolutionSAN "Ke6 Rxf6+ Kxf6 Kxh4"]
+[FEN "8/p4p2/3k1b2/P6P/7r/5RK1/6P1/8 b - - 5 56"]
+[SetUp "1"]
+
+56... Ke6 57. Rxf6+ Kxf6 58. Kxh4 *

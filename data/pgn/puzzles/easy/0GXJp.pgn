@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GXJp"]
+[Difficulty "easy"]
+[Rating "1022"]
+[Themes "advancedPawn crushing endgame hangingPiece long master promotion"]
+[GameUrl "https://lichess.org/game/qTUjhQNV/black#116"]
+[Solution "d1d2 d3d2 g3g2 d7d8q g2g1q d8g8"]
+[SolutionSAN "Rxd2+ Kxd2 g2 d8=Q g1=Q Qg8+"]
+[FEN "8/3P4/5pk1/8/8/1p1KP1p1/1P1N4/3r4 b - - 2 58"]
+[SetUp "1"]
+
+58... Rxd2+ 59. Kxd2 g2 60. d8=Q g1=Q 61. Qg8+ *

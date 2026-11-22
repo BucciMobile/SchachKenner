@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ckuw"]
+[Difficulty "easy"]
+[Rating "1156"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/cBVJIjdE#61"]
+[Solution "e2h5 e5d5 e3e4 d5d3"]
+[SolutionSAN "Qh5 Qd5+ e4 Qxd3"]
+[FEN "6k1/1b4p1/2p1p2p/1pP1qp2/1P6/3BP1PP/2R1QPK1/1r6 w - - 2 31"]
+[SetUp "1"]
+
+31. Qh5 Qd5+ 32. e4 Qxd3 *

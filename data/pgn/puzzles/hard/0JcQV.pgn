@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JcQV"]
+[Difficulty "hard"]
+[Rating "1966"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/nPSQAMe8/black#44"]
+[Solution "d7b5 e2e6 g8h8 d1d8"]
+[SolutionSAN "Bxb5 Qe6+ Kh8 Rxd8"]
+[FEN "3q1rk1/1p1bp2p/6p1/1Br2p2/p4P2/PnN5/1P2Q1PP/3R1RK1 b - - 1 22"]
+[SetUp "1"]
+
+22... Bxb5 23. Qe6+ Kh8 24. Rxd8 *

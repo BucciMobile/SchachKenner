@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dow9"]
+[Difficulty "hard"]
+[Rating "2789"]
+[Themes "crushing endgame queenRookEndgame quietMove sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/6cJtu0GI/black#64"]
+[Solution "f8f2 e5e6 f2h2 e4f5 g7g6 f5g6 g1g6 h5g6"]
+[SolutionSAN "Rf2 e6 Rh2 Qf5 g6+ Qxg6 Rxg6 Kxg6"]
+[FEN "5r1k/pp4p1/7p/2pPP2K/4Q2P/2P1P3/P7/6r1 b - - 4 32"]
+[SetUp "1"]
+
+32... Rf2 33. e6 Rh2 34. Qf5 g6+ 35. Qxg6 Rxg6 36. Kxg6 *

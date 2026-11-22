@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GYRn"]
+[Difficulty "hard"]
+[Rating "2260"]
+[Themes "crushing defensiveMove endgame knightEndgame veryLong"]
+[GameUrl "https://lichess.org/game/ozb57YOZ/black#98"]
+[Solution "f7f6 b7c6 f6e5 f4e5 d7e5 d4e5 d5d4 c6b7"]
+[SolutionSAN "f6 Kxc6 fxe5 fxe5 Nxe5+ dxe5 d4 Kb7"]
+[FEN "3k4/1K1n1p2/2p1p3/1pPpP3/3P1P2/1P4P1/8/8 b - - 10 49"]
+[SetUp "1"]
+
+49... f6 50. Kxc6 fxe5 51. fxe5 Nxe5+ 52. dxe5 d4 53. Kb7 *

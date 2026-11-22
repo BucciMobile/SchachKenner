@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06eQx"]
+[Difficulty "hard"]
+[Rating "1905"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/QF7rp0Hu/black#72"]
+[Solution "g8h7 e6f6 c5e7 f6e7"]
+[SolutionSAN "Kh7 Qxf6 Qxe7 Qxe7"]
+[FEN "r5k1/p3R1p1/2p1Qp1p/1pqp1P2/7P/2P3PK/8/8 b - - 3 36"]
+[SetUp "1"]
+
+36... Kh7 37. Qxf6 Qxe7 38. Qxe7 *

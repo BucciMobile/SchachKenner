@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KG7o"]
+[Difficulty "hard"]
+[Rating "2132"]
+[Themes "crushing long middlegame quietMove trappedPiece"]
+[GameUrl "https://lichess.org/game/5JbhDvvs/black#68"]
+[Solution "h6d2 e1f1 a8f8 f1f2 d2f2 g4f2"]
+[SolutionSAN "Qd2 Ref1 Rf8 Rf2 Qxf2 Nxf2"]
+[FEN "r5k1/1pb2ppp/4p2q/2Pp4/1P4NP/2P2QP1/r7/4R1RK b - - 4 34"]
+[SetUp "1"]
+
+34... Qd2 35. Ref1 Rf8 36. Rf2 Qxf2 37. Nxf2 *

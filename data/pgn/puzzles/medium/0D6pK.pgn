@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D6pK"]
+[Difficulty "medium"]
+[Rating "1498"]
+[Themes "advantage master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/9nI4rGl4#37"]
+[Solution "e2d3 f6h5 e5g7 h5g7"]
+[SolutionSAN "Bd3 Nh5 Bxg7+ Nxg7"]
+[FEN "r4r1k/1p1bqppp/p4n2/4B3/P3P3/6Q1/1PP1B1PP/R4R1K w - - 0 19"]
+[SetUp "1"]
+
+19. Bd3 Nh5 20. Bxg7+ Nxg7 *

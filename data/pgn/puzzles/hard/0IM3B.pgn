@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IM3B"]
+[Difficulty "hard"]
+[Rating "2747"]
+[Themes "crushing endgame long quietMove"]
+[GameUrl "https://lichess.org/game/Mletq17D#59"]
+[Solution "f7h5 d2e3 g1h1 d8d6 h5g4 d6h6"]
+[SolutionSAN "Qxh5 Qxe3+ Kh1 Rd6 Qxg4 Rh6+"]
+[FEN "k2r4/p4Q2/8/2p4p/6p1/4P1P1/1P1q2P1/1R4K1 w - - 1 30"]
+[SetUp "1"]
+
+30. Qxh5 Qxe3+ 31. Kh1 Rd6 32. Qxg4 Rh6+ *

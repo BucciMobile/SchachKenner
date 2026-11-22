@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FK5y"]
+[Difficulty "medium"]
+[Rating "1635"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/YFFyYvZy#31"]
+[Solution "g2d5 c6d5 c2c7 d6c7"]
+[SolutionSAN "Bxd5 cxd5 Qxc7 Bxc7"]
+[FEN "r3k2r/p1qb1pp1/2pb4/3p3p/N5n1/4P1P1/PPQB1PBP/2R2RK1 w kq - 2 16"]
+[SetUp "1"]
+
+16. Bxd5 cxd5 17. Qxc7 Bxc7 *

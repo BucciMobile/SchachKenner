@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D62l"]
+[Difficulty "medium"]
+[Rating "1325"]
+[Themes "discoveredAttack discoveredCheck mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/mRfPRfR1#59"]
+[Solution "h6f8 h4g3 h1g1 h5h2"]
+[SolutionSAN "Qxf8 Kg3+ Kg1 Qh2#"]
+[FEN "r3Nr2/pp3p1p/6pQ/7q/3R2bk/1P6/1P4P1/5R1K w - - 4 30"]
+[SetUp "1"]
+
+30. Qxf8 Kg3+ 31. Kg1 Qh2# *

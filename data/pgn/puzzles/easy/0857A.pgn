@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0857A"]
+[Difficulty "easy"]
+[Rating "550"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/29usqHuG#51"]
+[Solution "b6d8 b8b1 f3e1 b1e1"]
+[SolutionSAN "Bxd8 Rb1+ Ne1 Rxe1#"]
+[FEN "1r1b4/R5pk/1Bp1pp1p/2Pp4/3P4/4PN2/5PPP/6K1 w - - 6 26"]
+[SetUp "1"]
+
+26. Bxd8 Rb1+ 27. Ne1 Rxe1# *

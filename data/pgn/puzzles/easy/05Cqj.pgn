@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Cqj"]
+[Difficulty "easy"]
+[Rating "1103"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/rvLVYT0e/black#66"]
+[Solution "f8f7 d7f6 f7f6 e5f6"]
+[SolutionSAN "Qf7 Nf6+ Qxf6 Bxf6"]
+[FEN "5qk1/r2N2p1/2p4p/p2bB3/3P2Q1/7P/PP4P1/6K1 b - - 2 33"]
+[SetUp "1"]
+
+33... Qf7 34. Nf6+ Qxf6 35. Bxf6 *

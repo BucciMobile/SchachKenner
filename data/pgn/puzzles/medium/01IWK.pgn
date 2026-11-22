@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01IWK"]
+[Difficulty "medium"]
+[Rating "1373"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/T8QXzJiA#117"]
+[Solution "d3d4 f2d2 d4c3 d2d1 c3c2 d1g1"]
+[SolutionSAN "Kxd4 Rd2+ Kc3 Rd1 Kxc2 Rxg1"]
+[FEN "8/8/8/8/3pPk2/3K4/2p2r2/6R1 w - - 0 59"]
+[SetUp "1"]
+
+59. Kxd4 Rd2+ 60. Kc3 Rd1 61. Kxc2 Rxg1 *

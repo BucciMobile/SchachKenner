@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NhnB"]
+[Difficulty "medium"]
+[Rating "1367"]
+[Themes "crushing deflection endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/PMFuLG6A#65"]
+[Solution "h2h4 f5g4 g3f2 g4h4"]
+[SolutionSAN "h4 Qg4+ Kf2 Qxh4+"]
+[FEN "3Q4/5p1k/4p3/3pPqpp/3P4/4P1K1/6PP/8 w - - 0 33"]
+[SetUp "1"]
+
+33. h4 Qg4+ 34. Kf2 Qxh4+ *

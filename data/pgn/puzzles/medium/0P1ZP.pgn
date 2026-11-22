@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0P1ZP"]
+[Difficulty "medium"]
+[Rating "1438"]
+[Themes "advancedPawn fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/JmByUtNQ#63"]
+[Solution "e2f3 g3g2 f3g2 g6g2"]
+[SolutionSAN "Bf3 g2+ Bxg2 Qxg2#"]
+[FEN "N1R5/1p4rk/3p2qb/PN1Pp3/1P2Pp2/6pn/4B2P/4QR1K w - - 0 32"]
+[SetUp "1"]
+
+32. Bf3 g2+ 33. Bxg2 Qxg2# *

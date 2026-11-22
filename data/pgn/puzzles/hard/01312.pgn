@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01312"]
+[Difficulty "hard"]
+[Rating "2001"]
+[Themes "crushing defensiveMove endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/9U62VOsr/black#78"]
+[Solution "d5d4 c3d4 c5d4 g3f3"]
+[SolutionSAN "d4 cxd4 cxd4 Kf3"]
+[FEN "8/pp6/8/2pp1k1P/8/2P3K1/PP6/8 b - - 0 39"]
+[SetUp "1"]
+
+39... d4 40. cxd4 cxd4 41. Kf3 *

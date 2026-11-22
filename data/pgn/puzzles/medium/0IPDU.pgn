@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IPDU"]
+[Difficulty "medium"]
+[Rating "1265"]
+[Themes "advantage defensiveMove endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/oVdjs9ut#87"]
+[Solution "e5g6 h7g6 h6h7 f8g7"]
+[SolutionSAN "Nxg6 hxg6 h7 Bg7"]
+[FEN "5b2/7p/3k2pP/p2bNp2/Pp3P2/1P1B2PK/2P5/8 w - - 8 44"]
+[SetUp "1"]
+
+44. Nxg6 hxg6 45. h7 Bg7 *

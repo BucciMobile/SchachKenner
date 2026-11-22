@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jejt"]
+[Difficulty "hard"]
+[Rating "2004"]
+[Themes "crushing middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/S9FQ51Bh/black#44"]
+[Solution "c2b2 h5h6 b2a1 e2d1"]
+[SolutionSAN "Qxb2 h6 Qxa1+ Bd1"]
+[FEN "r4rk1/pp3p2/1bp2Q2/4p2P/4b1P1/2P2N2/PPq1BP2/R3K2R b KQ - 0 22"]
+[SetUp "1"]
+
+22... Qxb2 23. h6 Qxa1+ 24. Bd1 *

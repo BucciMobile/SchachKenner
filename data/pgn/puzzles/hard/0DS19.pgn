@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DS19"]
+[Difficulty "hard"]
+[Rating "1902"]
+[Themes "advantage kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/oTvc3Zpi#45"]
+[Solution "d1e1 e4f2 h1g1 f2h3"]
+[SolutionSAN "Qe1 Nef2+ Kg1 Nh3+"]
+[FEN "1r3k2/p4ppp/4b3/2P5/4n1nN/2P3P1/1q4BP/R2Q1R1K w - - 1 23"]
+[SetUp "1"]
+
+23. Qe1 Nef2+ 24. Kg1 Nh3+ *

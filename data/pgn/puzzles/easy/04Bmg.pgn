@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Bmg"]
+[Difficulty "easy"]
+[Rating "459"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/V1woUU10/black#66"]
+[Solution "d8d5 b4b8 d5d8 b8d8"]
+[SolutionSAN "Rxd5 Rb8+ Rd8 Rxd8#"]
+[FEN "3r2k1/5ppp/8/3P2P1/1R3p1P/5P2/1P3K2/8 b - - 0 33"]
+[SetUp "1"]
+
+33... Rxd5 34. Rb8+ Rd8 35. Rxd8# *

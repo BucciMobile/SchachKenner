@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AgZv"]
+[Difficulty "hard"]
+[Rating "1836"]
+[Themes "advantage endgame quietMove rookEndgame short"]
+[GameUrl "https://lichess.org/game/etDfZ91X/black#88"]
+[Solution "d4h4 d8e8 h4h3 c3c4"]
+[SolutionSAN "Rh4 Re8 Rh3+ Kxc4"]
+[FEN "3R4/1p3p2/3P1kp1/8/P1pr4/2K5/8/8 b - - 2 44"]
+[SetUp "1"]
+
+44... Rh4 45. Re8 Rh3+ 46. Kxc4 *

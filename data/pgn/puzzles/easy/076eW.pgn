@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "076eW"]
+[Difficulty "easy"]
+[Rating "1102"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/dr0lhFgx#55"]
+[Solution "e1e8 h2f2"]
+[SolutionSAN "Rxe8 Qf2#"]
+[FEN "4r2Q/pp3bp1/3k1p2/2bp4/6P1/P1NB1K1P/1PP4q/4R3 w - - 7 28"]
+[SetUp "1"]
+
+28. Rxe8 Qf2# *

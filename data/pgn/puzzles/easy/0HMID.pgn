@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HMID"]
+[Difficulty "easy"]
+[Rating "911"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/DESlrTbx/black#40"]
+[Solution "f6g4 h6g7"]
+[SolutionSAN "Nxg4 Qg7#"]
+[FEN "5rk1/ppqb1p2/3ppnpQ/7N/4P1PP/1B3n2/P1P5/1K1R3R b - - 0 20"]
+[SetUp "1"]
+
+20... Nxg4 21. Qg7# *

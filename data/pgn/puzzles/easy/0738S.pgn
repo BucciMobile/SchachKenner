@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0738S"]
+[Difficulty "easy"]
+[Rating "975"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/BTx88m26/black#28"]
+[Solution "c8b8 c2c7"]
+[SolutionSAN "Kb8 Qxc7#"]
+[FEN "2kr3r/nppbqpp1/pN2pn1p/8/3P4/P2BPNP1/1PQ2PP1/2R1K2R b K - 3 14"]
+[SetUp "1"]
+
+14... Kb8 15. Qxc7# *

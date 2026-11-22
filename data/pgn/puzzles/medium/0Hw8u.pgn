@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hw8u"]
+[Difficulty "medium"]
+[Rating "1470"]
+[Themes "crushing endgame master masterVsMaster pawnEndgame short"]
+[GameUrl "https://lichess.org/game/jFfTFuzE#69"]
+[Solution "f2f3 e4f3 g2f3 d5c4"]
+[SolutionSAN "f3 exf3 gxf3 Kc4"]
+[FEN "8/1p6/p1p4p/P2k2p1/1P2p1P1/2P1K3/5PP1/8 w - - 1 35"]
+[SetUp "1"]
+
+35. f3 exf3 36. gxf3 Kc4 *

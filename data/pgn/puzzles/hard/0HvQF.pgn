@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HvQF"]
+[Difficulty "hard"]
+[Rating "2233"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/YIFHpxnP/black#76"]
+[Solution "h5h4 d4c6 b8a8 c6e5"]
+[SolutionSAN "h4 Nc6+ Ka8 Ne5"]
+[FEN "1k4r1/p1p4p/8/1P4qp/3N2r1/P5P1/7P/3QR2K b - - 0 38"]
+[SetUp "1"]
+
+38... h4 39. Nc6+ Ka8 40. Ne5 *

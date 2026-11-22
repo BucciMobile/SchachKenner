@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Uo1"]
+[Difficulty "hard"]
+[Rating "1821"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/j894oSS2#57"]
+[Solution "c1c3 g5d2 d5f7 e7f7"]
+[SolutionSAN "Rc3 Qd2 Bf7+ Rxf7"]
+[FEN "6Q1/p3r1p1/3b2kp/3B1pq1/2P4n/7P/PB3PP1/2R2K2 w - - 4 29"]
+[SetUp "1"]
+
+29. Rc3 Qd2 30. Bf7+ Rxf7 *

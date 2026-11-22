@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fz47"]
+[Difficulty "easy"]
+[Rating "961"]
+[Themes "mate mateIn1 middlegame oneMove swallowstailMate"]
+[GameUrl "https://lichess.org/game/mMvExbMc/black#36"]
+[Solution "f7e7 d5e6"]
+[SolutionSAN "Ke7 Qe6#"]
+[FEN "2rq1bnr/p1N2kpp/3p4/2pQ4/4P3/8/P2K1PPP/R5NR b - - 2 18"]
+[SetUp "1"]
+
+18... Ke7 19. Qe6# *

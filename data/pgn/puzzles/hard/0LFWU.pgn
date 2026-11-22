@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LFWU"]
+[Difficulty "hard"]
+[Rating "2699"]
+[Themes "crushing exposedKing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/3Uifymho#39"]
+[Solution "h1g2 f6h4 f2f8 h8f8 a1g1 c6d4 e3d4 e5d4 c3d1 f8g8 g2f1 h4h3 e2g2 g8g2"]
+[SolutionSAN "Kxg2 Qh4 Rxf8+ Rxf8 Rg1 Nd4 Bxd4 exd4 Nd1 Rg8+ Kf1 Qh3+ Qg2 Rxg2"]
+[FEN "2k2r1r/1pp5/p1nppq2/4p2p/4P3/P1NPB3/1PP1QRp1/R6K w - - 0 20"]
+[SetUp "1"]
+
+20. Kxg2 Qh4 21. Rxf8+ Rxf8 22. Rg1 Nd4 23. Bxd4 exd4 24. Nd1 Rg8+ 25. Kf1 Qh3+ 26. Qg2 Rxg2 *

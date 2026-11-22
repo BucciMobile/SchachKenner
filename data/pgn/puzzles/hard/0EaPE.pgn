@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EaPE"]
+[Difficulty "hard"]
+[Rating "2231"]
+[Themes "advantage discoveredAttack long middlegame pin queensideAttack sacrifice"]
+[GameUrl "https://lichess.org/game/G2vafKIU#29"]
+[Solution "d1d7 d8d7 e5d7 c5e3 f4e3 c8c4"]
+[SolutionSAN "Rxd7 Qxd7 Nxd7 Be3+ Bxe3 Rxc4+"]
+[FEN "2rqk2r/p2n1ppp/1p2p3/2b1N3/2Q2B2/8/PP3PPP/2KR3R w k - 2 15"]
+[SetUp "1"]
+
+15. Rxd7 Qxd7 16. Nxd7 Be3+ 17. Bxe3 Rxc4+ *

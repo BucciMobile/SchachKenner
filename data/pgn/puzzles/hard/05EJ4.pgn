@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05EJ4"]
+[Difficulty "hard"]
+[Rating "1905"]
+[Themes "crushing endgame master pawnEndgame short"]
+[GameUrl "https://lichess.org/game/JRSdubaT/black#76"]
+[Solution "g6g5 f4g5 f6g5 e3d4"]
+[SolutionSAN "g5 fxg5 fxg5 Kd4"]
+[FEN "8/p7/1p2kpp1/3p4/5PP1/4K3/PP2P3/8 b - - 2 38"]
+[SetUp "1"]
+
+38... g5 39. fxg5 fxg5 40. Kd4 *

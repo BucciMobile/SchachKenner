@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HQUM"]
+[Difficulty "medium"]
+[Rating "1450"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/QUOA7GKd#57"]
+[Solution "b7b6 e6b6 a5b6 a8a4"]
+[SolutionSAN "Rb6 Qxb6 Bxb6 Rxa4"]
+[FEN "r4n1k/1R1p2pp/4q3/B3Pr2/Q2P1p2/5P1P/P5PN/6K1 w - - 1 29"]
+[SetUp "1"]
+
+29. Rb6 Qxb6 30. Bxb6 Rxa4 *

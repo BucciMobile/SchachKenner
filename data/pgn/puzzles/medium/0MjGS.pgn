@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MjGS"]
+[Difficulty "medium"]
+[Rating "1694"]
+[Themes "capturingDefender crushing intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/3I04YVCJ#25"]
+[Solution "f3e5 e4g3 h2g3 c7e5"]
+[SolutionSAN "Nxe5 Nxg3 hxg3 Bxe5"]
+[FEN "rnb4r/ppb1kp2/2p4p/4p1p1/2B1n3/5NB1/PPP1NPPP/2KR3R w - - 0 13"]
+[SetUp "1"]
+
+13. Nxe5 Nxg3 14. hxg3 Bxe5 *

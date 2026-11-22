@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M6tM"]
+[Difficulty "hard"]
+[Rating "1747"]
+[Themes "advancedPawn crushing endgame exposedKing master rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/RQBwV0RH#111"]
+[Solution "e2g2 d6h6 h3g4 h6g6 g4f3 g6g2 f3g2 b3b2"]
+[SolutionSAN "Rg2 Rh6+ Kg4 Rg6+ Kf3 Rxg2 Kxg2 b2"]
+[FEN "8/8/3r4/3P4/5P2/1p1k3K/4R3/8 w - - 2 56"]
+[SetUp "1"]
+
+56. Rg2 Rh6+ 57. Kg4 Rg6+ 58. Kf3 Rxg2 59. Kxg2 b2 *

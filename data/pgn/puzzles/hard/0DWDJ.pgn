@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DWDJ"]
+[Difficulty "hard"]
+[Rating "1841"]
+[Themes "advantage attackingF2F7 attraction long opening sacrifice"]
+[GameUrl "https://lichess.org/game/yYyIlpM9/black#18"]
+[Solution "f6d7 c4f7 e8f7 f3g5 f7e8 g5e6"]
+[SolutionSAN "Nd7 Bxf7+ Kxf7 Ng5+ Ke8 Ne6"]
+[FEN "r1bqk2r/pp2ppbp/2np1np1/8/2B1P3/2N2N2/PP2QPPP/R1BR2K1 b kq - 3 9"]
+[SetUp "1"]
+
+9... Nd7 10. Bxf7+ Kxf7 11. Ng5+ Ke8 12. Ne6 *

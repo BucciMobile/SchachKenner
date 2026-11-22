@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "062Kg"]
+[Difficulty "hard"]
+[Rating "2426"]
+[Themes "crushing endgame knightEndgame long quietMove zugzwang"]
+[GameUrl "https://lichess.org/game/aD7imafG/black#70"]
+[Solution "d4f5 e3f5 e6f5 h2h4 f5f4 h5g4"]
+[SolutionSAN "Nf5 Nxf5 exf5 h4 f4 Kg4"]
+[FEN "8/5kp1/4p2p/4P2K/3n4/4N3/6PP/8 b - - 2 35"]
+[SetUp "1"]
+
+35... Nf5 36. Nxf5 exf5 37. h4 f4 38. Kg4 *

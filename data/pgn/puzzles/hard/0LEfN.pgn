@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LEfN"]
+[Difficulty "hard"]
+[Rating "2430"]
+[Themes "advancedPawn bishopEndgame crushing endgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/lGO2lWEm#97"]
+[Solution "c4b3 c2b3 c3b3 e4d3 b3a2 c5c4 a3a4 c4c3 a2b3 c3c2 a7e3 d3e3"]
+[SolutionSAN "Bxb3 Bxb3 Kxb3 Kd3 Ka2 c4 a4 c3 Kb3 c2 Be3 Kxe3"]
+[FEN "8/B3b3/6p1/2p1Pp1p/2B1kP1P/PpK3P1/2b5/8 w - - 3 49"]
+[SetUp "1"]
+
+49. Bxb3 Bxb3 50. Kxb3 Kd3 51. Ka2 c4 52. a4 c3 53. Kb3 c2 54. Be3 Kxe3 *

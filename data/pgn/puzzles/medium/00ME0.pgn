@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00ME0"]
+[Difficulty "medium"]
+[Rating "1604"]
+[Themes "bishopEndgame crushing endgame short"]
+[GameUrl "https://lichess.org/game/Z2H5mRQg/black#70"]
+[Solution "f5e5 c4f7 c6d7 f7h5"]
+[SolutionSAN "Ke5 Bf7 Bd7 Bxh5"]
+[FEN "8/1p6/p1b5/5k1p/1PB1p2P/P3P1K1/8/8 b - - 2 35"]
+[SetUp "1"]
+
+35... Ke5 36. Bf7 Bd7 37. Bxh5 *

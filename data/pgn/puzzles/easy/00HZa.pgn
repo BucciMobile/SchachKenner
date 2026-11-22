@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00HZa"]
+[Difficulty "easy"]
+[Rating "959"]
+[Themes "crushing endgame fork long master"]
+[GameUrl "https://lichess.org/game/WRMbDs53/black#56"]
+[Solution "f4e3 d1d8 g8f7 f3g5 f7g6 g5e4"]
+[SolutionSAN "fxe3 Qd8+ Kf7 Ng5+ Kg6 Nxe4"]
+[FEN "6k1/6pp/1p6/p1n5/4qp2/1P2PN2/P4PPP/3Q2K1 b - - 0 28"]
+[SetUp "1"]
+
+28... fxe3 29. Qd8+ Kf7 30. Ng5+ Kg6 31. Nxe4 *

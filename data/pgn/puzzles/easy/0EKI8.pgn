@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EKI8"]
+[Difficulty "easy"]
+[Rating "1090"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/QmkulNCZ/black#44"]
+[Solution "g7g6 g4f6"]
+[SolutionSAN "g6 Nf6#"]
+[FEN "4kb1r/p3nppp/4p3/1q6/5PN1/6BP/P1K2P2/3RR3 b k - 1 22"]
+[SetUp "1"]
+
+22... g6 23. Nf6# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GaKN"]
+[Difficulty "medium"]
+[Rating "1528"]
+[Themes "advancedPawn advantage endgame knightEndgame short"]
+[GameUrl "https://lichess.org/game/8LJglmf2/black#60"]
+[Solution "f7f6 e5e6 g8f8 e6d7"]
+[SolutionSAN "f6 e6 Kf8 exd7"]
+[FEN "6k1/3n1p2/p2N2pp/4P3/P1P2P1P/1n4P1/8/3K4 b - - 0 30"]
+[SetUp "1"]
+
+30... f6 31. e6 Kf8 32. exd7 *

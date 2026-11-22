@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EAda"]
+[Difficulty "hard"]
+[Rating "2029"]
+[Themes "advantage clearance middlegame pin short"]
+[GameUrl "https://lichess.org/game/ZiZbsRYz/black#62"]
+[Solution "b3c3 a7a8 b7b8 a1a7"]
+[SolutionSAN "Rc3 Ra8 Rb8 R1a7"]
+[FEN "3q2k1/Rr3p1p/3p2p1/2nP4/1p2PQ2/1r4P1/5PBP/R5K1 b - - 3 31"]
+[SetUp "1"]
+
+31... Rc3 32. Ra8 Rb8 33. R1a7 *

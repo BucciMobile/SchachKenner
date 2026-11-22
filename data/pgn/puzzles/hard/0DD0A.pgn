@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DD0A"]
+[Difficulty "hard"]
+[Rating "1981"]
+[Themes "mate mateIn2 middlegame short swallowstailMate"]
+[GameUrl "https://lichess.org/game/pGmcXPZF#65"]
+[Solution "c4b3 a4b4 f8b4 e1b4"]
+[SolutionSAN "Kxb3 Rb4+ Qxb4 Qxb4#"]
+[FEN "2N1NQN1/8/4k2P/8/r1K5/1p1n1Q2/P1P2P2/R1B1qB1R w - - 1 33"]
+[SetUp "1"]
+
+33. Kxb3 Rb4+ 34. Qxb4 Qxb4# *

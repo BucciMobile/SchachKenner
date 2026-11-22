@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "026gl"]
+[Difficulty "hard"]
+[Rating "2302"]
+[Themes "clearance crushing middlegame short"]
+[GameUrl "https://lichess.org/game/Ds0F4TTy#35"]
+[Solution "g5f7 d6h2 g1f1 f8c5"]
+[SolutionSAN "Nxf7 Qh2+ Kf1 Bc5"]
+[FEN "1k1nRb1r/ppp2ppp/3q4/6N1/2P3Br/3P4/PP3P2/R1BQ2K1 w - - 8 18"]
+[SetUp "1"]
+
+18. Nxf7 Qh2+ 19. Kf1 Bc5 *

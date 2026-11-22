@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Edb"]
+[Difficulty "medium"]
+[Rating "1499"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/W00wrjIR#71"]
+[Solution "f2f3 a8f8 f3e4 a2e6"]
+[SolutionSAN "Kxf3 Rf8+ Ke4 Qxe6+"]
+[FEN "r6k/1p4pp/p3R3/2P5/P7/2Q1PpP1/q4K1P/B7 w - - 3 36"]
+[SetUp "1"]
+
+36. Kxf3 Rf8+ 37. Ke4 Qxe6+ *

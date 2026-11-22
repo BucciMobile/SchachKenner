@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EJAr"]
+[Difficulty "easy"]
+[Rating "1135"]
+[Themes "endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/9uO796Pd/black#96"]
+[Solution "d5d4 g8c4 d4e3 c4d3 e3f2 d3f3"]
+[SolutionSAN "Kd4 Qc4+ Ke3 Qd3+ Kf2 Qf3#"]
+[FEN "6Q1/8/3p4/2pkq1p1/1p4B1/1P4PP/2P4K/4r3 b - - 7 48"]
+[SetUp "1"]
+
+48... Kd4 49. Qc4+ Ke3 50. Qd3+ Kf2 51. Qf3# *

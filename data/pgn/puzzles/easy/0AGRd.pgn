@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AGRd"]
+[Difficulty "easy"]
+[Rating "1034"]
+[Themes "advancedPawn crushing endgame master promotion short"]
+[GameUrl "https://lichess.org/game/5Dbpakrj/black#94"]
+[Solution "d5b6 c5b6 c7b6 a7a8q"]
+[SolutionSAN "Nxb6 cxb6+ Kxb6 a8=Q"]
+[FEN "8/P1k4p/1R6/2Pn1B2/6p1/1p6/6r1/2K5 b - - 0 47"]
+[SetUp "1"]
+
+47... Nxb6 48. cxb6+ Kxb6 49. a8=Q *

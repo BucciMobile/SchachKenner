@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03u2u"]
+[Difficulty "hard"]
+[Rating "2130"]
+[Themes "crushing defensiveMove endgame long master"]
+[GameUrl "https://lichess.org/game/Sl884cPC#101"]
+[Solution "f8g7 c7b8 g7f8 b8a7 f8c5 b7b6"]
+[SolutionSAN "Qg7+ Kb8 Qf8+ Ka7 Qc5+ b6"]
+[FEN "5Q2/1pk5/8/p3P3/P3b1p1/2P3P1/1P3PNK/5q2 w - - 15 51"]
+[SetUp "1"]
+
+51. Qg7+ Kb8 52. Qf8+ Ka7 53. Qc5+ b6 *

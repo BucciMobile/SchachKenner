@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00bWA"]
+[Difficulty "easy"]
+[Rating "998"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/JvdmqrAX#43"]
+[Solution "e4e5 e7c5 e5d4 c5d4"]
+[SolutionSAN "Qxe5 Bc5+ Qd4 Bxd4+"]
+[FEN "2r1r1k1/3qbppp/pB6/3ppP2/2p1Q3/P6P/BPP3P1/R4RK1 w - - 0 22"]
+[SetUp "1"]
+
+22. Qxe5 Bc5+ 23. Qd4 Bxd4+ *

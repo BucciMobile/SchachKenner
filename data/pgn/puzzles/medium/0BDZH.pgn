@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BDZH"]
+[Difficulty "medium"]
+[Rating "1366"]
+[Themes "advantage kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/U5uNTSRh#63"]
+[Solution "a1e1 c6d4 c2d1 d4e2"]
+[SolutionSAN "Rae1 Nxd4 Qd1 Nxe2+"]
+[FEN "2r2r1k/p5pp/qpn5/3N4/P2P4/2P4P/2Q1RPP1/R5K1 w - - 3 32"]
+[SetUp "1"]
+
+32. Rae1 Nxd4 33. Qd1 Nxe2+ *

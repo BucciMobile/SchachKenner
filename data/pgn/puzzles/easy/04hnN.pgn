@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04hnN"]
+[Difficulty "easy"]
+[Rating "1186"]
+[Themes "deflection endgame fork long mate mateIn3"]
+[GameUrl "https://lichess.org/game/7ocKSQaG/black#74"]
+[Solution "d3a6 c6e8 e7f8 e8f7 g8h8 f7f8"]
+[SolutionSAN "Qa6 Qe8+ Bf8 Qxf7+ Kh8 Qxf8#"]
+[FEN "6k1/4bppp/1pQ5/2p1N3/3pP3/3q3P/1r3PPK/r7 b - - 1 37"]
+[SetUp "1"]
+
+37... Qa6 38. Qe8+ Bf8 39. Qxf7+ Kh8 40. Qxf8# *

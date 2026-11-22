@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lc8R"]
+[Difficulty "medium"]
+[Rating "1670"]
+[Themes "crushing endgame intermezzo long sacrifice"]
+[GameUrl "https://lichess.org/game/MoMotnwa#71"]
+[Solution "e1e2 b8b5 e2e4 b5b1 g1f2 f5e4"]
+[SolutionSAN "Rxe2 Rxb5 Rxe4 Rb1+ Kf2 Bxe4"]
+[FEN "1r5k/7p/6p1/1B3b2/P3r3/2R4P/4p1P1/4R1K1 w - - 0 36"]
+[SetUp "1"]
+
+36. Rxe2 Rxb5 37. Rxe4 Rb1+ 38. Kf2 Bxe4 *

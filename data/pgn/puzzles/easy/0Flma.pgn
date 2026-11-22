@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Flma"]
+[Difficulty "easy"]
+[Rating "1115"]
+[Themes "crushing discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/ORCLXcfE/black#52"]
+[Solution "e2d3 d4g7 f5g7 d5d3"]
+[SolutionSAN "Qd3 Bxg7+ Nxg7 Qxd3"]
+[FEN "r4r1k/6p1/3p3p/p2Q1n2/1p1B4/5N2/PP2qPPP/4R1K1 b - - 5 26"]
+[SetUp "1"]
+
+26... Qd3 27. Bxg7+ Nxg7 28. Qxd3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GxOx"]
+[Difficulty "hard"]
+[Rating "1827"]
+[Themes "advantage endgame intermezzo short"]
+[GameUrl "https://lichess.org/game/VHHKTHFr/black#72"]
+[Solution "e5b2 f2g2 h3d3 b1b2"]
+[SolutionSAN "Bxb2 Kg2 Rd3 Rxb2"]
+[FEN "8/6k1/p7/2pPb3/2P5/1P5r/PB3K2/1R6 b - - 0 36"]
+[SetUp "1"]
+
+36... Bxb2 37. Kg2 Rd3 38. Rxb2 *

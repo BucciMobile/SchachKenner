@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lzpc"]
+[Difficulty "medium"]
+[Rating "1680"]
+[Themes "advantage attraction kingsideAttack middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/CAI58kyZ/black#24"]
+[Solution "f6e7 d3h7 g8h7 e5h5 h7g8 f3g5 e7g5 h5g5"]
+[SolutionSAN "Qe7 Bxh7+ Kxh7 Qh5+ Kg8 Ng5 Qxg5 Qxg5"]
+[FEN "rn3rk1/pbp2ppp/1p2pq2/3pQ3/3P4/2PB1N2/P1P2PPP/R3K2R b KQ - 3 12"]
+[SetUp "1"]
+
+12... Qe7 13. Bxh7+ Kxh7 14. Qh5+ Kg8 15. Ng5 Qxg5 16. Qxg5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GubI"]
+[Difficulty "medium"]
+[Rating "1426"]
+[Themes "endgame exposedKing long mate mateIn3"]
+[GameUrl "https://lichess.org/game/SmIdj7xV/black#64"]
+[Solution "h8h7 g4g6 h7h8 g6h5 f8h6 h5h6"]
+[SolutionSAN "Kxh7 Qg6+ Kh8 Qh5+ Qh6 Qxh6#"]
+[FEN "4rq1k/p6R/2p5/3p1P2/3P2QP/2P1r3/P7/6RK b - - 0 32"]
+[SetUp "1"]
+
+32... Kxh7 33. Qg6+ Kh8 34. Qh5+ Qh6 35. Qxh6# *

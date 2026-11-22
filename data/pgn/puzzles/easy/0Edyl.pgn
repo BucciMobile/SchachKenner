@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Edyl"]
+[Difficulty "easy"]
+[Rating "968"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/GkogVRly#59"]
+[Solution "d6b8 b6f2 g1h2 f2g2"]
+[SolutionSAN "Bxb8 Qxf2+ Kh2 Qxg2#"]
+[FEN "1r4k1/5ppp/pqPBp3/3p4/2b5/Q4N1P/1r3PP1/R2R2K1 w - - 7 30"]
+[SetUp "1"]
+
+30. Bxb8 Qxf2+ 31. Kh2 Qxg2# *

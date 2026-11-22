@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JLo6"]
+[Difficulty "medium"]
+[Rating "1298"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/hMaXkrrJ/black#32"]
+[Solution "c4b5 a5c7"]
+[SolutionSAN "Qxb5 Qxc7#"]
+[FEN "2kr1b1r/1pp2ppp/p2p1n2/QN6/2q3b1/B7/P4PPP/2R2RK1 b - - 1 16"]
+[SetUp "1"]
+
+16... Qxb5 17. Qxc7# *

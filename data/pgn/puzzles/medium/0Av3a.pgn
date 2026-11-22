@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Av3a"]
+[Difficulty "medium"]
+[Rating "1580"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/340VGiyt/black#32"]
+[Solution "g7f6 h1h6 h8g7 h6h7"]
+[SolutionSAN "Bxf6 Rxh6+ Kg7 Rh7#"]
+[FEN "r1b2r1k/pp2Npb1/2p2Rpp/6N1/2n5/6P1/PPP2PP1/4KB1R b K - 3 16"]
+[SetUp "1"]
+
+16... Bxf6 17. Rxh6+ Kg7 18. Rh7# *

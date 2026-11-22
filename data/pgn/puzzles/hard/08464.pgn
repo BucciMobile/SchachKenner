@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08464"]
+[Difficulty "hard"]
+[Rating "2492"]
+[Themes "crushing endgame long pawnEndgame quietMove zugzwang"]
+[GameUrl "https://lichess.org/game/RXVNFMlJ/black#66"]
+[Solution "b6b5 h2h4 e5d5 h4h5 d5e5 h5h6"]
+[SolutionSAN "b5 h4 Kd5 h5 Ke5 h6"]
+[FEN "8/p6p/1pp5/2P1k3/1P2p1P1/4K3/P6P/8 b - - 0 33"]
+[SetUp "1"]
+
+33... b5 34. h4 Kd5 35. h5 Ke5 36. h6 *

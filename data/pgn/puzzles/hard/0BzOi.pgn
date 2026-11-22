@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BzOi"]
+[Difficulty "hard"]
+[Rating "1924"]
+[Themes "crushing middlegame quietMove short"]
+[GameUrl "https://lichess.org/game/bwQxzOEZ/black#38"]
+[Solution "f6d4 e3h3 h7h6 f5f6"]
+[SolutionSAN "Bd4 Rh3 h6 f6"]
+[FEN "r4rk1/p1q2ppp/2p1pb2/2p2P1Q/8/2NPR3/PPP3PP/5R1K b - - 6 19"]
+[SetUp "1"]
+
+19... Bd4 20. Rh3 h6 21. f6 *

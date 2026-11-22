@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0652D"]
+[Difficulty "medium"]
+[Rating "1222"]
+[Themes "deflection mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/zYxcktYp#37"]
+[Solution "g1f1 h6h1 f1e2 h1g2"]
+[SolutionSAN "Kf1 Qh1+ Ke2 Qxg2#"]
+[FEN "r1b2rk1/1pp2ppp/p6q/3N4/4PPn1/P2B2P1/1PP3P1/R2QR1K1 w - - 1 19"]
+[SetUp "1"]
+
+19. Kf1 Qh1+ 20. Ke2 Qxg2# *

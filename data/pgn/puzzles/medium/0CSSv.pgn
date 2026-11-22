@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CSSv"]
+[Difficulty "medium"]
+[Rating "1382"]
+[Themes "advancedPawn crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/ukce2UrP/black#86"]
+[Solution "e6f5 g5g6 f7g6 e5e6 c4b5 e6e7"]
+[SolutionSAN "exf5 g6 fxg6 e6 Kb5 e7"]
+[FEN "8/5pp1/p3p3/P3PPP1/1pk5/8/3K4/8 b - - 0 43"]
+[SetUp "1"]
+
+43... exf5 44. g6 fxg6 45. e6 Kb5 46. e7 *

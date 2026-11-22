@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AlQm"]
+[Difficulty "hard"]
+[Rating "1914"]
+[Themes "kingsideAttack long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/Ncg28Ie5#51"]
+[Solution "c7d7 h5h2 g1f1 f8f2 e3f2 h2f2"]
+[SolutionSAN "Qxd7 Qxh2+ Kf1 Rxf2+ Bxf2 Qxf2#"]
+[FEN "r4r1k/2Qb4/p6p/4R1pq/3N2n1/2N1B1P1/PP3P1P/R5K1 w - - 1 26"]
+[SetUp "1"]
+
+26. Qxd7 Qxh2+ 27. Kf1 Rxf2+ 28. Bxf2 Qxf2# *

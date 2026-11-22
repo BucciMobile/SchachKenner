@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "091zO"]
+[Difficulty "medium"]
+[Rating "1569"]
+[Themes "discoveredAttack discoveredCheck endgame mate mateIn2 morphysMate short"]
+[GameUrl "https://lichess.org/game/j8IzxKFo#55"]
+[Solution "f5e6 g8g2 g1h1 g2g7"]
+[SolutionSAN "Be6 Rxg2+ Kh1 Rg7#"]
+[FEN "6r1/1k2B2p/p7/1p3B2/P7/5b2/1P3PPP/5RK1 w - - 0 28"]
+[SetUp "1"]
+
+28. Be6 Rxg2+ 29. Kh1 Rg7# *

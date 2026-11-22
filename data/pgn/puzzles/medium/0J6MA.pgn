@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J6MA"]
+[Difficulty "medium"]
+[Rating "1527"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/7TDhuGbt#59"]
+[Solution "b4d4 e8d8 g1f2 d8d4"]
+[SolutionSAN "Qd4 Rd8 Kf2 Rxd4"]
+[FEN "4r1k1/p4p1p/1q4p1/1p6/1Q2P3/P1P2P1P/1P4P1/3R2K1 w - - 2 30"]
+[SetUp "1"]
+
+30. Qd4 Rd8 31. Kf2 Rxd4 *

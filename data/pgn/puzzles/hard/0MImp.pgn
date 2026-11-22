@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MImp"]
+[Difficulty "hard"]
+[Rating "1821"]
+[Themes "crushing endgame long master quietMove"]
+[GameUrl "https://lichess.org/game/p13K5eLN#69"]
+[Solution "e2b5 d6d1 g1h2 f4e2 b5e2 d1e2"]
+[SolutionSAN "Qxb5 Qd1+ Kh2 Ne2 Qxe2 Qxe2"]
+[FEN "2B3k1/5p1p/3qp1p1/1p6/1P3n2/P6P/4QPP1/6K1 w - - 1 35"]
+[SetUp "1"]
+
+35. Qxb5 Qd1+ 36. Kh2 Ne2 37. Qxe2 Qxe2 *

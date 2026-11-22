@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EtoC"]
+[Difficulty "medium"]
+[Rating "1683"]
+[Themes "endgame mate mateIn2 queenEndgame short"]
+[GameUrl "https://lichess.org/game/8wRtitFs#97"]
+[Solution "h6h7 e1h1 h3g3 h1g2"]
+[SolutionSAN "h7 Qh1+ Kg3 Qg2#"]
+[FEN "8/8/5k1P/6p1/6Q1/5p1K/5P2/4q3 w - - 2 49"]
+[SetUp "1"]
+
+49. h7 Qh1+ 50. Kg3 Qg2# *

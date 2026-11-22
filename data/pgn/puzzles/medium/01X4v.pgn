@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01X4v"]
+[Difficulty "medium"]
+[Rating "1400"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/doRnRBoB#27"]
+[Solution "a3f8 d5c3 e2c2 c3d1"]
+[SolutionSAN "Bxf8 Nxc3 Qc2 Nxd1"]
+[FEN "r2q1rk1/pppb1pp1/2n4p/3nP3/8/B1P2N2/P3QPPP/R2R2K1 w - - 0 14"]
+[SetUp "1"]
+
+14. Bxf8 Nxc3 15. Qc2 Nxd1 *

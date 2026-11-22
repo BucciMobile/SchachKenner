@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C3X5"]
+[Difficulty "medium"]
+[Rating "1273"]
+[Themes "crushing fork master middlegame short"]
+[GameUrl "https://lichess.org/game/Gb5DUjgq#67"]
+[Solution "a4a5 f4h3 g1h2 h3f2"]
+[SolutionSAN "a5 Nh3+ Kh2 Nxf2"]
+[FEN "8/2p2ppk/3p2qp/3Pp3/P1Pr1n2/8/5QN1/4RBK1 w - - 1 34"]
+[SetUp "1"]
+
+34. a5 Nh3+ 35. Kh2 Nxf2 *

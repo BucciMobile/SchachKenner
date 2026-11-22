@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05DRj"]
+[Difficulty "hard"]
+[Rating "2122"]
+[Themes "crushing deflection endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/BAdGxbcJ/black#72"]
+[Solution "f6e6 b3b4 c5b4 e4d4"]
+[SolutionSAN "Kxe6 b4 cxb4 Kxd4"]
+[FEN "8/p4p2/4Rk1p/2p5/2PpK1P1/1P5P/P7/8 b - - 0 36"]
+[SetUp "1"]
+
+36... Kxe6 37. b4 cxb4 38. Kxd4 *

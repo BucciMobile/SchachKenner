@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07hGN"]
+[Difficulty "easy"]
+[Rating "766"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/WhS8VtRW#37"]
+[Solution "d2c4 d5g2"]
+[SolutionSAN "Ndc4 Qg2#"]
+[FEN "r4rk1/1p3ppp/4pn2/b2qN3/P4P2/6Pb/3NBP1P/2RQ1RK1 w - - 2 19"]
+[SetUp "1"]
+
+19. Ndc4 Qg2# *

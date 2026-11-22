@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05FNp"]
+[Difficulty "easy"]
+[Rating "1151"]
+[Themes "advantage discoveredAttack endgame long"]
+[GameUrl "https://lichess.org/game/PCcgmLtb#51"]
+[Solution "e1e5 g5c1 g1g2 f5h3 g2h3 f6f3"]
+[SolutionSAN "Re5 Qc1+ Kg2 Bh3+ Kxh3 Rxf3"]
+[FEN "8/p5pk/1p3r1p/3B1bq1/2P5/5QP1/P4P1P/4R1K1 w - - 1 26"]
+[SetUp "1"]
+
+26. Re5 Qc1+ 27. Kg2 Bh3+ 28. Kxh3 Rxf3 *

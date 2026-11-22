@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bft5"]
+[Difficulty "medium"]
+[Rating "1252"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/2qsACUno#85"]
+[Solution "b1a1 b4c3 a1a8 c3b2"]
+[SolutionSAN "Ra1 Bc3 Rxa8 Bxb2"]
+[FEN "r7/4qpk1/6pp/2p1p3/1bPpP1P1/1P1N1PP1/1Q4K1/1R6 w - - 11 43"]
+[SetUp "1"]
+
+43. Ra1 Bc3 44. Rxa8 Bxb2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LSsn"]
+[Difficulty "medium"]
+[Rating "1566"]
+[Themes "crushing endgame fork long pin sacrifice"]
+[GameUrl "https://lichess.org/game/F6ltTV7u/black#74"]
+[Solution "f7h7 h6h7 e7h7 g6g7 h7g7 g1g7"]
+[SolutionSAN "Rh7 Qxh7 Qxh7 Rg7+ Qxg7 Rxg7+"]
+[FEN "r7/pp1kqr2/2p1p1RQ/3pPp2/2PP4/PP3P2/8/2K3R1 b - - 7 37"]
+[SetUp "1"]
+
+37... Rh7 38. Qxh7 Qxh7 39. Rg7+ Qxg7 40. Rxg7+ *

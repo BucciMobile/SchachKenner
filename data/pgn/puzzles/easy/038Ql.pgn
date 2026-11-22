@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "038Ql"]
+[Difficulty "easy"]
+[Rating "492"]
+[Themes "mate mateIn2 middlegame queensideAttack sacrifice short"]
+[GameUrl "https://lichess.org/game/V2sFzds3#51"]
+[Solution "c1b1 a6a1 b3a1 a7a1"]
+[SolutionSAN "Kb1 Ra1+ Nxa1 Qxa1#"]
+[FEN "r5k1/q4p1p/r2p4/3QpPb1/4P3/1N3P2/1PP4P/2KRR3 w - - 1 26"]
+[SetUp "1"]
+
+26. Kb1 Ra1+ 27. Nxa1 Qxa1# *

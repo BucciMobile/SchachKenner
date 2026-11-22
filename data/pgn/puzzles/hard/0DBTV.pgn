@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DBTV"]
+[Difficulty "hard"]
+[Rating "2469"]
+[Themes "crushing exposedKing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/APJxwbn4/black#40"]
+[Solution "d3b4 c4e5 c6b5 a2a4 b5a5 e5c4 a5a4 d1a1 a4b5 c4a3"]
+[SolutionSAN "Nxb4 Nxe5+ Kb5 a4+ Ka5 Nc4+ Kxa4 Ra1+ Kb5 Na3+"]
+[FEN "3rq1r1/1p2b1p1/p1k1pn1p/4p3/1PN5/3nB1Q1/P4PPP/3R1K1R b - - 0 20"]
+[SetUp "1"]
+
+20... Nxb4 21. Nxe5+ Kb5 22. a4+ Ka5 23. Nc4+ Kxa4 24. Ra1+ Kb5 25. Na3+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01x8M"]
+[Difficulty "easy"]
+[Rating "1165"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/nWiUruS8#59"]
+[Solution "e6f7 g5h5 f4h4 h5h4"]
+[SolutionSAN "exf7 Rh5+ Qh4 Rxh4#"]
+[FEN "k5r1/pp3p1p/4P2p/2p3r1/P3pQ2/1P6/1BP2R1K/8 w - - 3 30"]
+[SetUp "1"]
+
+30. exf7 Rh5+ 31. Qh4 Rxh4# *

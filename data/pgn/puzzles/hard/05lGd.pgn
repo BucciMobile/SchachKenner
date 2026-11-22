@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05lGd"]
+[Difficulty "hard"]
+[Rating "2373"]
+[Themes "advantage middlegame quietMove sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/oWSMvRHf/black#46"]
+[Solution "b8b7 f7d8 c8d8 c1c7 b7a6 a2a4 d8a8 c7d7"]
+[SolutionSAN "Kb7 Nd8+ Rxd8 Rc7+ Ka6 a4 Ra8 Rxd7"]
+[FEN "1kr2br1/p2npNpp/1p6/1N6/3P1B2/7P/PP3P2/1KR5 b - - 4 23"]
+[SetUp "1"]
+
+23... Kb7 24. Nd8+ Rxd8 25. Rc7+ Ka6 26. a4 Ra8 27. Rxd7 *

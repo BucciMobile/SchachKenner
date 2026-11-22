@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Stg"]
+[Difficulty "hard"]
+[Rating "1910"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/UzKJ2lXH#29"]
+[Solution "e1g1 e6d5 d3d4 d5c4"]
+[SolutionSAN "O-O exd5 d4 dxc4"]
+[FEN "rn2r1k1/2p2ppp/1q2pn2/pNbP1b2/2B5/P2PBN2/1P2QPPP/R3K2R w KQ - 7 15"]
+[SetUp "1"]
+
+15. O-O exd5 16. d4 dxc4 *

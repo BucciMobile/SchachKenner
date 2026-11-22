@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09BUu"]
+[Difficulty "easy"]
+[Rating "1152"]
+[Themes "attraction crushing discoveredAttack endgame fork veryLong"]
+[GameUrl "https://lichess.org/game/m5WUS86J#45"]
+[Solution "e2e3 d4c2 e3e2 d8d1 e2d1 c2e3 d1e2 e3c4"]
+[SolutionSAN "Ke3 Nc2+ Ke2 Rxd1 Kxd1 Ne3+ Ke2 Nxc4"]
+[FEN "3r1k2/pp3pp1/6bp/4p3/2BnP3/5PB1/PP2K1PP/3R4 w - - 2 23"]
+[SetUp "1"]
+
+23. Ke3 Nc2+ 24. Ke2 Rxd1 25. Kxd1 Ne3+ 26. Ke2 Nxc4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00PvP"]
+[Difficulty "easy"]
+[Rating "821"]
+[Themes "advancedPawn bishopEndgame crushing endgame long"]
+[GameUrl "https://lichess.org/game/M7zTwdgr/black#102"]
+[Solution "h6h5 g4h5 h3h4 h5h6 h4h5 h6h7"]
+[SolutionSAN "h5 gxh5 Kh4 h6 Kh5 h7"]
+[FEN "8/6B1/7p/1p4p1/1Pp3P1/5P1k/4K2b/8 b - - 18 51"]
+[SetUp "1"]
+
+51... h5 52. gxh5 Kh4 53. h6 Kh5 54. h7 *

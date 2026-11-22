@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DbQq"]
+[Difficulty "hard"]
+[Rating "1751"]
+[Themes "advantage endgame long trappedPiece"]
+[GameUrl "https://lichess.org/game/5JTpWmWC#47"]
+[Solution "b1b8 d8b8 d7b8 a6b7 b8c6 b7c6"]
+[SolutionSAN "Rb8 Rxb8 Nxb8 Qb7 Nxc6 Qxc6"]
+[FEN "3r2k1/p2N1ppp/q1p1p3/2Pp4/3Pn3/P3P1PP/2Q2PK1/1R6 w - - 1 24"]
+[SetUp "1"]
+
+24. Rb8 Rxb8 25. Nxb8 Qb7 26. Nxc6 Qxc6 *

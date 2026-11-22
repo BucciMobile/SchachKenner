@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04JuW"]
+[Difficulty "hard"]
+[Rating "1846"]
+[Themes "advancedPawn advantage deflection exposedKing fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/C1WyoFY1#49"]
+[Solution "e2c2 a3a2 c2a2 c3d3 a2c2 d3f3 g7g3 f3f4"]
+[SolutionSAN "Qc2 a2+ Qxa2 Qxd3+ Qc2 Qxf3 R7g3 Qf4"]
+[FEN "1r2k2r/3b1pRp/3p4/1p1PpP2/4P3/pPqP1N1P/4Q3/1K4R1 w k - 1 25"]
+[SetUp "1"]
+
+25. Qc2 a2+ 26. Qxa2 Qxd3+ 27. Qc2 Qxf3 28. R7g3 Qf4 *

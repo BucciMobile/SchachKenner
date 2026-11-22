@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03HzC"]
+[Difficulty "medium"]
+[Rating "1422"]
+[Themes "advantage fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/OaBoDU7O/black#54"]
+[Solution "f5g3 e2g3 f2g3 h2g3 h4g3 c3e4 d2e2 e4g3"]
+[SolutionSAN "Ng3+ Nxg3 Qxg3 Qxg3 Bxg3 Ne4 Re2 Nxg3"]
+[FEN "5rk1/p4pp1/2p5/5n1p/5Pbb/1BN5/PPPrNqPQ/R4R1K b - - 5 27"]
+[SetUp "1"]
+
+27... Ng3+ 28. Nxg3 Qxg3 29. Qxg3 Bxg3 30. Ne4 Re2 31. Nxg3 *

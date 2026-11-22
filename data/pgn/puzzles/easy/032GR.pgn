@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "032GR"]
+[Difficulty "easy"]
+[Rating "928"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/dSOobIvA#87"]
+[Solution "e4d5 g4f3 d5c5 f3g2"]
+[SolutionSAN "Kd5 Kf3 Kc5 Kg2"]
+[FEN "8/8/8/1p4p1/pP2K1k1/P5Pp/7P/8 w - - 0 44"]
+[SetUp "1"]
+
+44. Kd5 Kf3 45. Kc5 Kg2 *

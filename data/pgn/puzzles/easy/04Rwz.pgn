@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Rwz"]
+[Difficulty "easy"]
+[Rating "1022"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/YRKOirv3#87"]
+[Solution "f4g5 c5e6 g5h6 e6c7"]
+[SolutionSAN "Kg5 Ne6+ Kh6 Nxc7"]
+[FEN "8/2B2k2/6p1/2n2p1p/5K1P/P5P1/8/8 w - - 7 44"]
+[SetUp "1"]
+
+44. Kg5 Ne6+ 45. Kh6 Nxc7 *

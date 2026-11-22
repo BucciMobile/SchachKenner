@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BDFq"]
+[Difficulty "easy"]
+[Rating "1191"]
+[Themes "crushing deflection endgame interference long skewer"]
+[GameUrl "https://lichess.org/game/EPGfA3bK/black#56"]
+[Solution "e8e7 f1f7 e7d6 f8d8 d6e5 d8d4"]
+[SolutionSAN "Ke7 R1f7+ Kd6 Rxd8+ Ke5 Rxd4"]
+[FEN "3rkR2/8/p3p2p/1p6/3q4/2N5/P5rP/5R1K b - - 1 28"]
+[SetUp "1"]
+
+28... Ke7 29. R1f7+ Kd6 30. Rxd8+ Ke5 31. Rxd4 *

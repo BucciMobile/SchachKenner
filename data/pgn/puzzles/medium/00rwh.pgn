@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00rwh"]
+[Difficulty "medium"]
+[Rating "1583"]
+[Themes "balestraMate kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/Nn5tP5gN#73"]
+[Solution "c5a6 a3g3 f2g3 g5e3"]
+[SolutionSAN "Nxa6 Rxg3+ fxg3 Be3#"]
+[FEN "5k2/2p5/r1PpQp2/1pN1p1b1/1P2P1p1/r5Pq/5P2/R2R2K1 w - - 2 37"]
+[SetUp "1"]
+
+37. Nxa6 Rxg3+ 38. fxg3 Be3# *

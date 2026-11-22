@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JSut"]
+[Difficulty "easy"]
+[Rating "1086"]
+[Themes "advantage discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/64ZROcbZ/black#52"]
+[Solution "h5g4 d2h6 g7h6 e2c2"]
+[SolutionSAN "hxg4 Bh6+ Kxh6 Qxc2"]
+[FEN "8/pp3pk1/3p2p1/3Pb2p/3pP1P1/P2P4/1PqBQ2P/6K1 b - - 2 26"]
+[SetUp "1"]
+
+26... hxg4 27. Bh6+ Kxh6 28. Qxc2 *

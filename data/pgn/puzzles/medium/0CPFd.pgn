@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CPFd"]
+[Difficulty "medium"]
+[Rating "1445"]
+[Themes "crushing defensiveMove endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/qK5TtUNN/black#124"]
+[Solution "g7f7 h5h6 a7a6 h6h7"]
+[SolutionSAN "Kf7 Kh6 a6 Kh7"]
+[FEN "8/p5k1/1p3p2/2p1pP1K/P1P1P3/3P4/8/8 b - - 4 62"]
+[SetUp "1"]
+
+62... Kf7 63. Kh6 a6 64. Kh7 *

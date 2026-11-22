@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05G5V"]
+[Difficulty "hard"]
+[Rating "2010"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/Xs6ejxBY/black#54"]
+[Solution "c4c3 e2c2 a3c1 c2c1"]
+[SolutionSAN "Rxc3 Rc2 Qc1+ Rxc1"]
+[FEN "2r3k1/5pp1/p3p1p1/8/2rP2P1/q1P1RQ1P/P3RP2/6K1 b - - 2 27"]
+[SetUp "1"]
+
+27... Rxc3 28. Rc2 Qc1+ 29. Rxc1 *

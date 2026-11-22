@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ArIk"]
+[Difficulty "medium"]
+[Rating "1234"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/ukkickmj#63"]
+[Solution "f3d3 c2e1 g2g1 e1d3"]
+[SolutionSAN "Rd3 Ne1+ Kg1 Nxd3"]
+[FEN "8/7p/1p4pk/3B4/p7/P4RP1/2nr1PKP/2N5 w - - 2 32"]
+[SetUp "1"]
+
+32. Rd3 Ne1+ 33. Kg1 Nxd3 *

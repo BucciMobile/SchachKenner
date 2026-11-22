@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04gH2"]
+[Difficulty "hard"]
+[Rating "1924"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/CIL6BI58#89"]
+[Solution "g4g5 f7g7 c6e7 b6d8"]
+[SolutionSAN "Kg5 Kg7 Ne7 Bd8"]
+[FEN "8/p4k2/1bN3p1/1P5p/5PKP/8/8/8 w - - 0 45"]
+[SetUp "1"]
+
+45. Kg5 Kg7 46. Ne7 Bd8 *

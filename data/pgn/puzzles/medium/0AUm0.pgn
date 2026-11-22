@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AUm0"]
+[Difficulty "medium"]
+[Rating "1518"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/8WBmJwur/black#80"]
+[Solution "d4d3 f4b8 g7f8 e4f6 g8g7 f6d7"]
+[SolutionSAN "d3 Qb8+ Bf8 Nf6+ Kg7 Nxd7"]
+[FEN "6k1/1p1q1pb1/p5p1/7p/3pNQ1P/P5P1/1P3P2/6K1 b - - 1 40"]
+[SetUp "1"]
+
+40... d3 41. Qb8+ Bf8 42. Nf6+ Kg7 43. Nxd7 *

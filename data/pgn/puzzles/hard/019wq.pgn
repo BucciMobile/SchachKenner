@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "019wq"]
+[Difficulty "hard"]
+[Rating "2110"]
+[Themes "advantage attraction middlegame short"]
+[GameUrl "https://lichess.org/game/RS4zrmbv/black#52"]
+[Solution "g5f6 f4g6 g7g6 c2f5"]
+[SolutionSAN "Bf6 Nxg6 Kxg6 Qxf5+"]
+[FEN "2r4r/pp2q1k1/2pp2p1/5pb1/2P2N2/1P4PP/P1Q3K1/3R1R2 b - - 0 26"]
+[SetUp "1"]
+
+26... Bf6 27. Nxg6 Kxg6 28. Qxf5+ *

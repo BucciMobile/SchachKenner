@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JIwB"]
+[Difficulty "easy"]
+[Rating "949"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/FKXhrxuH#35"]
+[Solution "e3d4 f6d4 g1h1 d4a1"]
+[SolutionSAN "exd4 Qxd4+ Kh1 Qxa1+"]
+[FEN "r3kn1r/pppb1p2/4pq1p/3p2pB/2Pn4/BP2P1R1/P1QN2PP/R5K1 w kq - 0 18"]
+[SetUp "1"]
+
+18. exd4 Qxd4+ 19. Kh1 Qxa1+ *

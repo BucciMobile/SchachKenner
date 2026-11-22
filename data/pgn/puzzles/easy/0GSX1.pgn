@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GSX1"]
+[Difficulty "easy"]
+[Rating "1136"]
+[Themes "clearance endgame killBoxMate mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/dxWAn8JM#63"]
+[Solution "d4g1 h1f3 g1f2 h5h1"]
+[SolutionSAN "Qg1 Qf3+ Qf2 Rh1#"]
+[FEN "8/1k4pp/1pp1p3/p3P2r/P2Q1P2/6P1/1P6/2R1RK1q w - - 2 32"]
+[SetUp "1"]
+
+32. Qg1 Qf3+ 33. Qf2 Rh1# *

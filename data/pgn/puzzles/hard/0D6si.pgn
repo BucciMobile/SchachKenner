@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D6si"]
+[Difficulty "hard"]
+[Rating "2272"]
+[Themes "advantage defensiveMove master middlegame short"]
+[GameUrl "https://lichess.org/game/aa9sZUiA#63"]
+[Solution "f1f6 e7f6 e5e6 f7g8"]
+[SolutionSAN "Rxf6+ exf6 e6+ Kg8"]
+[FEN "1rr5/4pk2/p1qP1pn1/4P2p/R1P5/2Q4P/1BP4K/5R2 w - - 1 32"]
+[SetUp "1"]
+
+32. Rxf6+ exf6 33. e6+ Kg8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IK3U"]
+[Difficulty "medium"]
+[Rating "1259"]
+[Themes "advantage intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/p3a4GJpH/black#40"]
+[Solution "d4c3 e1e7 e8e7 b2c3"]
+[SolutionSAN "dxc3 Rxe7 Rxe7 bxc3"]
+[FEN "3rr1k1/pQp1qbpp/5p2/8/3p4/2P2NPP/PP1N2P1/4R1K1 b - - 1 20"]
+[SetUp "1"]
+
+20... dxc3 21. Rxe7 Rxe7 22. bxc3 *

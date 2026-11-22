@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EGy7"]
+[Difficulty "hard"]
+[Rating "2204"]
+[Themes "crushing defensiveMove endgame exposedKing fork intermezzo sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/7QzDwbBc#63"]
+[Solution "e6f6 h6g5 e8d8 h4e1 g1g2 d5d8 f6e6 d8d2 b2d2 e1d2"]
+[SolutionSAN "Rxf6+ Kg5 Rxd8 Qe1+ Kg2 Rxd8 Re6 Rd2+ Qxd2+ Qxd2+"]
+[FEN "3rR3/pp5p/4Rp1k/3r1P2/6Pq/1P5P/PQ6/6K1 w - - 0 32"]
+[SetUp "1"]
+
+32. Rxf6+ Kg5 33. Rxd8 Qe1+ 34. Kg2 Rxd8 35. Re6 Rd2+ 36. Qxd2+ Qxd2+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K3Na"]
+[Difficulty "medium"]
+[Rating "1580"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/JT4MY95H/black#54"]
+[Solution "c8e6 f8a8 g8a8 e7e6"]
+[SolutionSAN "Be6 Rxa8 Rxa8 Rxe6"]
+[FEN "r1b2Rr1/ppp1R1P1/3p4/8/3kP3/8/P5PP/7K b - - 4 27"]
+[SetUp "1"]
+
+27... Be6 28. Rxa8 Rxa8 29. Rxe6 *

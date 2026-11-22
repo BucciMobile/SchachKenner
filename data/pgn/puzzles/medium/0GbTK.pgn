@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GbTK"]
+[Difficulty "medium"]
+[Rating "1426"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/VEDBRQ1o#33"]
+[Solution "b4c5 b5b1 c1b2 b1a2"]
+[SolutionSAN "bxc5 Qxb1 Bb2 Qa2"]
+[FEN "r4rk1/5ppp/3pbn2/pqp5/1P1pP3/P2P1P2/3QB1PP/1RB2RK1 w - - 0 17"]
+[SetUp "1"]
+
+17. bxc5 Qxb1 18. Bb2 Qa2 *

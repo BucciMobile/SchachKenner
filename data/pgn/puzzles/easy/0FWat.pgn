@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FWat"]
+[Difficulty "easy"]
+[Rating "962"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/RxagDpBk#63"]
+[Solution "d5g2 f8f2 g1h2 f2g2"]
+[SolutionSAN "Bxg2 Qf2+ Kh2 Qxg2#"]
+[FEN "5qk1/6b1/3pP1Q1/1p1Bp3/p6R/P5P1/1Pr3r1/3R2K1 w - - 2 32"]
+[SetUp "1"]
+
+32. Bxg2 Qf2+ 33. Kh2 Qxg2# *

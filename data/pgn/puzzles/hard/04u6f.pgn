@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04u6f"]
+[Difficulty "hard"]
+[Rating "1869"]
+[Themes "advantage exposedKing kingsideAttack long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/JhtWqboy#49"]
+[Solution "c2g2 e7h7 a1f1 h3h1 g2h1 h7h1"]
+[SolutionSAN "Qg2 Qh7 Raf1 Rh1+ Qxh1 Qxh1+"]
+[FEN "7r/p1p1q3/1p1p1pk1/4p3/3PP3/2P1BRPr/PPQ5/R5K1 w - - 2 25"]
+[SetUp "1"]
+
+25. Qg2 Qh7 26. Raf1 Rh1+ 27. Qxh1 Qxh1+ *

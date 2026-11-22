@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06h3C"]
+[Difficulty "easy"]
+[Rating "519"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/pojQtfSD/black#60"]
+[Solution "b7a6 a4a6 c7a7 a6a7"]
+[SolutionSAN "Bxa6 Qxa6+ Qa7 Qxa7#"]
+[FEN "k2r3r/1bq1np2/N1p4p/3pP1p1/Q2P4/R1N5/P4PPP/6K1 b - - 0 30"]
+[SetUp "1"]
+
+30... Bxa6 31. Qxa6+ Qa7 32. Qxa7# *

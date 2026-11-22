@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GBv8"]
+[Difficulty "medium"]
+[Rating "1208"]
+[Themes "crushing deflection middlegame short"]
+[GameUrl "https://lichess.org/game/zYZKp01v/black#58"]
+[Solution "d6d4 e1e8 d8e8 d2d4"]
+[SolutionSAN "Qxd4 Re8+ Rxe8 Qxd4"]
+[FEN "2rr2k1/5p1p/2pq2p1/1p6/p2B2P1/Pb3PNP/1P1Q3K/2R1R3 b - - 0 29"]
+[SetUp "1"]
+
+29... Qxd4 30. Re8+ Rxe8 31. Qxd4 *

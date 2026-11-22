@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04wme"]
+[Difficulty "medium"]
+[Rating "1215"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/K2uJjjc9#57"]
+[Solution "d5d7 c3a1"]
+[SolutionSAN "Rxd7 Qa1#"]
+[FEN "2k5/1p1n1p1r/p3n1p1/3Rb1P1/4P3/1Pq1B2P/P1PQ2B1/2K5 w - - 6 29"]
+[SetUp "1"]
+
+29. Rxd7 Qa1# *

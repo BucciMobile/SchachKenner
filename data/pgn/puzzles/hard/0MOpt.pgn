@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MOpt"]
+[Difficulty "hard"]
+[Rating "1849"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/tV8h7NgB#45"]
+[Solution "e6e7 e4d2 e7e8 d8e8"]
+[SolutionSAN "Rxe7 Nxd2 Rxe8+ Rxe8"]
+[FEN "3rr1k1/1n1qb1pp/2p1R3/1p1p2B1/1P2n3/3P1N1P/B1PQ1PP1/4R1K1 w - - 3 23"]
+[SetUp "1"]
+
+23. Rxe7 Nxd2 24. Rxe8+ Rxe8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BJE9"]
+[Difficulty "medium"]
+[Rating "1411"]
+[Themes "crushing kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/3948RSqA/black#36"]
+[Solution "f4f5 g6e7 d8e7 h5f5 e6f5 e1e7"]
+[SolutionSAN "Rf5 Nxe7+ Qxe7 Qxf5 exf5 Rxe7"]
+[FEN "r2q2k1/1p2b1p1/p3p1Np/n6Q/2p2r2/8/PPP2PPP/R3R1K1 b - - 1 18"]
+[SetUp "1"]
+
+18... Rf5 19. Nxe7+ Qxe7 20. Qxf5 exf5 21. Rxe7 *

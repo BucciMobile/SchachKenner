@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07hwO"]
+[Difficulty "easy"]
+[Rating "709"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/jOJ0rgSi/black#50"]
+[Solution "d2d3 e4c5 e6d5 c5d3"]
+[SolutionSAN "Rd3 Nc5+ Kd5 Nxd3"]
+[FEN "8/5pp1/4kb2/4p3/4N3/5P1p/3r1P1P/5RK1 b - - 1 25"]
+[SetUp "1"]
+
+25... Rd3 26. Nc5+ Kd5 27. Nxd3 *

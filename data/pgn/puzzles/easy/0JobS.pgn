@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JobS"]
+[Difficulty "easy"]
+[Rating "555"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/1V5ENlai/black#36"]
+[Solution "a8e8 a4e8"]
+[SolutionSAN "Rxe8 Qxe8#"]
+[FEN "r3R1k1/pp3pp1/5q1p/3p4/QP6/2bB1P2/P4P1P/R5K1 b - - 0 18"]
+[SetUp "1"]
+
+18... Rxe8 19. Qxe8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Hob"]
+[Difficulty "easy"]
+[Rating "872"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/fcTTaeLS/black#18"]
+[Solution "d5c3 f3f7"]
+[SolutionSAN "Nxc3 Qxf7#"]
+[FEN "r1bqk2r/ppp2ppp/8/2bnp1N1/8/1PN2Q2/1PPP1PPP/R1B1K2R b KQkq - 1 9"]
+[SetUp "1"]
+
+9... Nxc3 10. Qxf7# *

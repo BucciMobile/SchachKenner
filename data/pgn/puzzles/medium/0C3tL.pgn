@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C3tL"]
+[Difficulty "medium"]
+[Rating "1369"]
+[Themes "advancedPawn bishopEndgame crushing endgame master short"]
+[GameUrl "https://lichess.org/game/cbkPK6UO/black#128"]
+[Solution "g7h8 g5g6 h8f6 g6g7"]
+[SolutionSAN "Bh8 g6 Bf6 g7"]
+[FEN "8/6b1/7P/6P1/6k1/1p6/8/1K6 b - - 0 64"]
+[SetUp "1"]
+
+64... Bh8 65. g6 Bf6 66. g7 *

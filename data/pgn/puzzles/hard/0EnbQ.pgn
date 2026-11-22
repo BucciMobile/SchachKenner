@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EnbQ"]
+[Difficulty "hard"]
+[Rating "2622"]
+[Themes "crushing master middlegame veryLong"]
+[GameUrl "https://lichess.org/game/7ziWxOwg/black#58"]
+[Solution "c8c1 g1g2 d3f1 f2f1 d8d2 g2h3 b6e3 e4f3 e3f4 h6h7"]
+[SolutionSAN "Rc1+ Kg2 Bf1+ Rxf1 Rd2+ Kh3 Qe3+ Bf3 Qf4 Qh7+"]
+[FEN "2rr2k1/5p2/pq2p2Q/4P1NP/P3B1P1/3b4/5R2/6K1 b - - 0 29"]
+[SetUp "1"]
+
+29... Rc1+ 30. Kg2 Bf1+ 31. Rxf1 Rd2+ 32. Kh3 Qe3+ 33. Bf3 Qf4 34. Qh7+ *

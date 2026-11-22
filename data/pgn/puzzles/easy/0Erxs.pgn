@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Erxs"]
+[Difficulty "easy"]
+[Rating "852"]
+[Themes "hangingPiece mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/wV6FD9Uc/black#20"]
+[Solution "a7a6 c1c8"]
+[SolutionSAN "a6 Rxc8#"]
+[FEN "rnb1kb1r/p2ppppp/8/BB2P3/3P4/8/Pn3PPP/2R1K1NR b Kkq - 1 10"]
+[SetUp "1"]
+
+10... a6 11. Rxc8# *

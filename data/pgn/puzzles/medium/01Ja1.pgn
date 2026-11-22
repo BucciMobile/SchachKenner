@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Ja1"]
+[Difficulty "medium"]
+[Rating "1671"]
+[Themes "advantage clearance endgame veryLong"]
+[GameUrl "https://lichess.org/game/cxk7MJLA#77"]
+[Solution "e6f4 e8e5 f5g4 e5g5 g4h3 f6e5 g2g4 e5f4"]
+[SolutionSAN "Nxf4 Re5+ Kg4 Rg5+ Kh3 Be5 g4 Bxf4"]
+[FEN "4r1k1/p6p/1p1rNb1P/5K2/1P3p2/PR3P2/6P1/7R w - - 6 39"]
+[SetUp "1"]
+
+39. Nxf4 Re5+ 40. Kg4 Rg5+ 41. Kh3 Be5 42. g4 Bxf4 *

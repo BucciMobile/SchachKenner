@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E8AJ"]
+[Difficulty "hard"]
+[Rating "1949"]
+[Themes "crushing endgame long pawnEndgame quietMove"]
+[GameUrl "https://lichess.org/game/Mk4peFar/black#104"]
+[Solution "f5f4 b4b5 g4f3 g1f1 h6h5 b5b6"]
+[SolutionSAN "f4 b5 Kf3 Kf1 h5 b6"]
+[FEN "8/8/7p/5p2/1P4k1/8/8/6K1 b - - 0 52"]
+[SetUp "1"]
+
+52... f4 53. b5 Kf3 54. Kf1 h5 55. b6 *

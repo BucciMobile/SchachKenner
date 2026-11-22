@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "080Kb"]
+[Difficulty "easy"]
+[Rating "895"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/gw42eNP1#47"]
+[Solution "c2b3 f6f2 g1h2 f2g2"]
+[SolutionSAN "Bb3 Qxf2+ Kh2 Qxg2#"]
+[FEN "3R4/p4pk1/b4qpp/Qp6/8/2P4P/PPB1rPP1/R5K1 w - - 1 24"]
+[SetUp "1"]
+
+24. Bb3 Qxf2+ 25. Kh2 Qxg2# *

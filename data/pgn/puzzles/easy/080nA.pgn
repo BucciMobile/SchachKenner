@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "080nA"]
+[Difficulty "easy"]
+[Rating "956"]
+[Themes "backRankMate endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/4PzhZveG/black#66"]
+[Solution "a8a5 b6b8"]
+[SolutionSAN "Rxa5 Rb8#"]
+[FEN "r5k1/5ppp/1R6/R7/8/3Pp1P1/4P1KP/8 b - - 0 33"]
+[SetUp "1"]
+
+33... Rxa5 34. Rb8# *

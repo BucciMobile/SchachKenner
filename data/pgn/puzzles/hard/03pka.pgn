@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03pka"]
+[Difficulty "hard"]
+[Rating "1727"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+[GameUrl "https://lichess.org/game/luW4YSAQ#85"]
+[Solution "g2f1 b5b4 g4g5 b4b3 f1e2 b3b2"]
+[SolutionSAN "Kf1 b4 g5 b3 Ke2 b2"]
+[FEN "8/8/3Pk3/1pPpp3/5pPp/7P/5PK1/8 w - - 1 43"]
+[SetUp "1"]
+
+43. Kf1 b4 44. g5 b3 45. Ke2 b2 *

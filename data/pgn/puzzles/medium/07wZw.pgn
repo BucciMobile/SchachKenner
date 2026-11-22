@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07wZw"]
+[Difficulty "medium"]
+[Rating "1386"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/PtKODoWm/black#96"]
+[Solution "a6a5 f5g6 g3g2 e2f2"]
+[SolutionSAN "a5 fxg6 g2 Kf2"]
+[FEN "8/8/p5p1/1pkp1P2/3p3P/P5p1/2P1K3/8 b - - 1 48"]
+[SetUp "1"]
+
+48... a5 49. fxg6 g2 50. Kf2 *

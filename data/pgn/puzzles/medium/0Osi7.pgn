@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Osi7"]
+[Difficulty "medium"]
+[Rating "1286"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/P7qXeydr#37"]
+[Solution "d1d4 e5f3 g2f3 g7d4"]
+[SolutionSAN "Qxd4 Nf3+ Bxf3 Bxd4"]
+[FEN "r1bN1nk1/pp4bp/3qp1p1/4n3/2Pp4/6P1/PB3PBP/R2QR1K1 w - - 0 19"]
+[SetUp "1"]
+
+19. Qxd4 Nf3+ 20. Bxf3 Bxd4 *

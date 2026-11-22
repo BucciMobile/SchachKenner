@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0INYG"]
+[Difficulty "hard"]
+[Rating "1884"]
+[Themes "advantage attackingF2F7 exposedKing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/lECwjLQD/black#30"]
+[Solution "g8h6 g4h5 h6f7 h5f7 f6f7 e5f7 e8f7 g3d6"]
+[SolutionSAN "Nh6 Qh5+ Nf7 Qxf7+ Qxf7 Nxf7 Kxf7 Bxd6"]
+[FEN "r1b1k1nr/pp6/2nbpq2/3pN3/2pP2Q1/2P1PNB1/PP3PP1/R4RK1 b kq - 2 15"]
+[SetUp "1"]
+
+15... Nh6 16. Qh5+ Nf7 17. Qxf7+ Qxf7 18. Nxf7 Kxf7 19. Bxd6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03oay"]
+[Difficulty "hard"]
+[Rating "1880"]
+[Themes "advantage defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/s6EJBdLw#53"]
+[Solution "f4e4 f7f5 e4e7 h7g8"]
+[SolutionSAN "Qe4+ f5 Qe7+ Kg8"]
+[FEN "2b2r2/5p1k/1q5p/1p5R/2p2QpP/3p2P1/PP4PK/3R4 w - - 4 27"]
+[SetUp "1"]
+
+27. Qe4+ f5 28. Qe7+ Kg8 *

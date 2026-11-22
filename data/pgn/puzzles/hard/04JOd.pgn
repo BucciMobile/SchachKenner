@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04JOd"]
+[Difficulty "hard"]
+[Rating "1718"]
+[Themes "discoveredAttack discoveredCheck mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/hBkXRUVm/black#38"]
+[Solution "a8e8 g5e6 g6g5 e3g5"]
+[SolutionSAN "Rae8 Ne6+ g5 Qxg5#"]
+[FEN "r4r2/pp1b3p/5npk/q1p3N1/8/2N1Q3/PP3PPP/R3K2R b KQ - 7 19"]
+[SetUp "1"]
+
+19... Rae8 20. Ne6+ g5 21. Qxg5# *

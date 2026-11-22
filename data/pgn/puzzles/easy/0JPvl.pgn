@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JPvl"]
+[Difficulty "easy"]
+[Rating "830"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/XUxtFDm1/black#34"]
+[Solution "b5d7 f6e7"]
+[SolutionSAN "Bd7 Qe7#"]
+[FEN "r3k1r1/ppq2p1p/4pQp1/1b1p4/PB1P4/2P5/2P2PPP/R3K2R b KQq - 0 17"]
+[SetUp "1"]
+
+17... Bd7 18. Qe7# *

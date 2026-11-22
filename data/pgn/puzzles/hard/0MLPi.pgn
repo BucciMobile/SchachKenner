@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MLPi"]
+[Difficulty "hard"]
+[Rating "1720"]
+[Themes "advantage exposedKing long middlegame"]
+[GameUrl "https://lichess.org/game/cldRU8al#43"]
+[Solution "g1f1 e3h3 f1f2 f6g4 d1g4 h3g4"]
+[SolutionSAN "Kf1 Qh3+ Kf2 Nxg4+ Qxg4 Qxg4"]
+[FEN "r5k1/Pp3p1p/3p1n2/6p1/2P3P1/2Npq3/P2N4/R1BQ2K1 w - - 0 22"]
+[SetUp "1"]
+
+22. Kf1 Qh3+ 23. Kf2 Nxg4+ 24. Qxg4 Qxg4 *

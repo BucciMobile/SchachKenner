@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01m2g"]
+[Difficulty "medium"]
+[Rating "1303"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/GADtrnan#87"]
+[Solution "g5g6 e4g6 e3f2 f4g3"]
+[SolutionSAN "g6+ Bxg6 Qf2 fxg3+"]
+[FEN "8/5q1k/7p/p2pP1P1/2p1bp2/2P1Q1RP/P5PK/8 w - - 0 44"]
+[SetUp "1"]
+
+44. g6+ Bxg6 45. Qf2 fxg3+ *

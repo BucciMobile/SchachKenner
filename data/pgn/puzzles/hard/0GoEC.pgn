@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GoEC"]
+[Difficulty "hard"]
+[Rating "1951"]
+[Themes "crushing deflection endgame exposedKing long queenRookEndgame skewer"]
+[GameUrl "https://lichess.org/game/l741qRwa/black#112"]
+[Solution "b7a6 d7c6 a6a5 c6a8 a5b6 a8a4"]
+[SolutionSAN "Ka6 Qc6+ Ka5 Qa8+ Kb6 Qxa4"]
+[FEN "8/1k1Q4/8/1r6/r7/2PK4/8/8 b - - 4 56"]
+[SetUp "1"]
+
+56... Ka6 57. Qc6+ Ka5 58. Qa8+ Kb6 59. Qxa4 *

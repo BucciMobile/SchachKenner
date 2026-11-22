@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05clV"]
+[Difficulty "hard"]
+[Rating "2366"]
+[Themes "advantage hangingPiece long middlegame"]
+[GameUrl "https://lichess.org/game/R0TtLSWt#45"]
+[Solution "f5g7 g8g7 f3g3 g7h8 d1g4 b6h6"]
+[SolutionSAN "Nxg7 Kxg7 Rg3+ Kh8 Qg4 Qh6"]
+[FEN "4rrk1/p4ppp/bq6/2bpPN2/1p6/1P3R2/PBP3PP/R2Q3K w - - 1 23"]
+[SetUp "1"]
+
+23. Nxg7 Kxg7 24. Rg3+ Kh8 25. Qg4 Qh6 *

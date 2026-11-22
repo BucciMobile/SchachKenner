@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DW43"]
+[Difficulty "hard"]
+[Rating "2067"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/WfzRAoqh/black#94"]
+[Solution "f6e7 e3d4 g7g8 d5e5 b4d4 e5d4"]
+[SolutionSAN "Be7 Bd4+ Kg8 Qe5 Qxd4 Qxd4"]
+[FEN "8/5pkp/p4bp1/1p1Q2P1/1q6/4B2P/5PK1/8 b - - 0 47"]
+[SetUp "1"]
+
+47... Be7 48. Bd4+ Kg8 49. Qe5 Qxd4 50. Qxd4 *

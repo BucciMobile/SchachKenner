@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06FwQ"]
+[Difficulty "hard"]
+[Rating "2144"]
+[Themes "advantage defensiveMove middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/QYUMXNag#43"]
+[Solution "a1c1 e6h3 c1c7 c8b8 c7c8 b8c8 f1c1 c8b8"]
+[SolutionSAN "Rac1 Qxh3 Rxc7+ Kb8 Rc8+ Kxc8 Rc1+ Kb8"]
+[FEN "2k3rr/1pp5/3pqn2/pP6/P2QP2p/B2P3P/5PP1/R4RK1 w - - 1 22"]
+[SetUp "1"]
+
+22. Rac1 Qxh3 23. Rxc7+ Kb8 24. Rc8+ Kxc8 25. Rc1+ Kb8 *

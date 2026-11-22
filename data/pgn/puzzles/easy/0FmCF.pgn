@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FmCF"]
+[Difficulty "easy"]
+[Rating "1000"]
+[Themes "master mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/8zgFdC0h/black#68"]
+[Solution "c6d4 b2b8 e6c8 b8c8"]
+[SolutionSAN "Nxd4 Rb8+ Bc8 Rxc8#"]
+[FEN "6k1/r4pp1/2n1b2p/2NpP3/2pP3N/7P/1RQ2PPK/q7 b - - 8 34"]
+[SetUp "1"]
+
+34... Nxd4 35. Rb8+ Bc8 36. Rxc8# *

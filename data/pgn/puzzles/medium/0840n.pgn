@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0840n"]
+[Difficulty "medium"]
+[Rating "1386"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/0tiiUBCG#59"]
+[Solution "a1b1 b2f2 g1h1 f2f1 b1f1 f8f1"]
+[SolutionSAN "Rb1 Qf2+ Kh1 Qf1+ Rxf1 Rxf1#"]
+[FEN "5rk1/1p4pp/p1n5/2P1P3/1B2Q3/P7/1q4PP/R5K1 w - - 3 30"]
+[SetUp "1"]
+
+30. Rb1 Qf2+ 31. Kh1 Qf1+ 32. Rxf1 Rxf1# *

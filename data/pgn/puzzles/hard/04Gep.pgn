@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Gep"]
+[Difficulty "hard"]
+[Rating "1769"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/joqrZFB8#57"]
+[Solution "c3e4 c7d7 d2d7 d8d7"]
+[SolutionSAN "Ne4 Rcxd7 Qxd7 Rxd7"]
+[FEN "3r4/1prP1ppk/6bp/P7/2q5/2N2P2/2PQR1PP/3R2K1 w - - 3 29"]
+[SetUp "1"]
+
+29. Ne4 Rcxd7 30. Qxd7 Rxd7 *

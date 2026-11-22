@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09p8L"]
+[Difficulty "easy"]
+[Rating "529"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/R8ECSwRC#83"]
+[Solution "a7f7 e3e1 d1e1 e4e1"]
+[SolutionSAN "Rf7 Re1+ Rxe1 Rxe1#"]
+[FEN "8/R7/5p2/P5p1/4r3/4r1k1/6P1/3R2K1 w - - 16 42"]
+[SetUp "1"]
+
+42. Rf7 Re1+ 43. Rxe1 Rxe1# *

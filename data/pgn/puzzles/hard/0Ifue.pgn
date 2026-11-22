@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ifue"]
+[Difficulty "hard"]
+[Rating "1710"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/vzLcLO1r#85"]
+[Solution "d1e1 h4e4 e3d2 d6b4"]
+[SolutionSAN "Re1 Re4+ Kd2 Bb4+"]
+[FEN "8/8/3b1kp1/p4p2/2BP3r/1P2K3/P4P2/3R4 w - - 2 43"]
+[SetUp "1"]
+
+43. Re1 Re4+ 44. Kd2 Bb4+ *

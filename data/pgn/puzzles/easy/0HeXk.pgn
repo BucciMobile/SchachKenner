@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HeXk"]
+[Difficulty "easy"]
+[Rating "1000"]
+[Themes "advantage defensiveMove master middlegame short"]
+[GameUrl "https://lichess.org/game/hpVCR3xD/black#34"]
+[Solution "c7c5 d2e3 e6d5 e3c5"]
+[SolutionSAN "Qc5+ Be3 Bxd5 Bxc5"]
+[FEN "2r2rk1/p1qnpp1p/1p1pb1p1/3N4/1RP1P3/2P2P2/P2BQ1PP/5RK1 b - - 4 17"]
+[SetUp "1"]
+
+17... Qc5+ 18. Be3 Bxd5 19. Bxc5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GUiP"]
+[Difficulty "hard"]
+[Rating "2256"]
+[Themes "crushing endgame hangingPiece quietMove veryLong"]
+[GameUrl "https://lichess.org/game/oXBatOuO/black#80"]
+[Solution "a5b4 d6f7 b4b3 f7d6 b3b2 d6b5 d4c4 b5a3"]
+[SolutionSAN "axb4 Nxf7 b3 Nd6 b2 Nb5+ Kc4 Na3+"]
+[FEN "8/5b2/3N3p/p4P2/1P1k1K2/8/7P/8 b - - 0 40"]
+[SetUp "1"]
+
+40... axb4 41. Nxf7 b3 42. Nd6 b2 43. Nb5+ Kc4 44. Na3+ *

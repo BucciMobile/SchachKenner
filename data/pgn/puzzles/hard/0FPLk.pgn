@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FPLk"]
+[Difficulty "hard"]
+[Rating "2027"]
+[Themes "advantage long middlegame pin"]
+[GameUrl "https://lichess.org/game/gWumRIUA#29"]
+[Solution "d2d4 e5f3 g1h1 g5h5 d5f6 f8f6"]
+[SolutionSAN "d4 Nf3+ Kh1 Qh5 Nf6+ Rxf6"]
+[FEN "r4rk1/pQ1b3p/3p2p1/3Nn1q1/4p3/P7/1PPP1PPP/R1B2RK1 w - - 3 15"]
+[SetUp "1"]
+
+15. d4 Nf3+ 16. Kh1 Qh5 17. Nf6+ Rxf6 *

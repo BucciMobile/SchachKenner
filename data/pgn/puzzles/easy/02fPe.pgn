@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02fPe"]
+[Difficulty "easy"]
+[Rating "913"]
+[Themes "endgame epauletteMate hookMate mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/M4iB7XOq/black#66"]
+[Solution "e3e5 b8g8"]
+[SolutionSAN "Rxe5 Rg8#"]
+[FEN "1R6/5pkp/4pNp1/P3P1P1/8/4rn2/1P6/2K5 b - - 2 33"]
+[SetUp "1"]
+
+33... Rxe5 34. Rg8# *

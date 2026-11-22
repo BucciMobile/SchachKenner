@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A8oE"]
+[Difficulty "easy"]
+[Rating "887"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/KmGkeysL#111"]
+[Solution "f2e3 a3c4 e3f2 c4e5"]
+[SolutionSAN "Ke3 Nc4+ Kf2 Nxe5"]
+[FEN "8/3B4/b3p3/P2pBkp1/3P3p/n4P1P/5K2/8 w - - 3 56"]
+[SetUp "1"]
+
+56. Ke3 Nc4+ 57. Kf2 Nxe5 *

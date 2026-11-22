@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B9Q5"]
+[Difficulty "medium"]
+[Rating "1522"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/sNnmJ3vV#75"]
+[Solution "h1h2 f8a8 b3a2 a8a2"]
+[SolutionSAN "Rh2 Ra8+ Ba2 Raxa2#"]
+[FEN "5r2/1p1k4/2p5/3p4/2nPp2P/1BP3B1/6r1/KR5R w - - 5 38"]
+[SetUp "1"]
+
+38. Rh2 Ra8+ 39. Ba2 Raxa2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LrTh"]
+[Difficulty "hard"]
+[Rating "1899"]
+[Themes "advantage collinearMove long middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/EFDANaAa#53"]
+[Solution "d3e4 b6e3 c1b1 d7d2 c2d2 d8d2"]
+[SolutionSAN "dxe4 Qe3+ Kb1 Rd2 Qxd2 Rxd2"]
+[FEN "2kr4/pp1r2p1/1qp2b2/6p1/4p1P1/2PP3P/PPQ1B3/2KR3R w - - 0 27"]
+[SetUp "1"]
+
+27. dxe4 Qe3+ 28. Kb1 Rd2 29. Qxd2 Rxd2 *

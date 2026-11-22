@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CTC8"]
+[Difficulty "easy"]
+[Rating "978"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/CSV1VLAv/black#34"]
+[Solution "e6g4 e2e7 c7e7 e1e7"]
+[SolutionSAN "Bg4 Qxe7 Qxe7 Rxe7"]
+[FEN "r4rk1/2q1bp1p/p1p1b1p1/3p4/8/2PB1N2/PP2QPPP/R3R1K1 b - - 3 17"]
+[SetUp "1"]
+
+17... Bg4 18. Qxe7 Qxe7 19. Rxe7 *

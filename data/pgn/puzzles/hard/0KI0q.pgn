@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KI0q"]
+[Difficulty "hard"]
+[Rating "2906"]
+[Themes "advancedPawn crushing defensiveMove endgame veryLong"]
+[GameUrl "https://lichess.org/game/De1kYiCW/black#88"]
+[Solution "c2c1q h1c1 c7c1 f6f7 c1h1 h5h6 d2e3 f7g7 e3f4 g5g6 f4g5 h6h7 h1h4 g7f7 h4h6 a3a4"]
+[SolutionSAN "c1=Q Rxc1 Rxc1 Kxf7 Rh1 h6 Ke3 Kg7 Kf4 g6 Kg5 h7 Rh4 Kf7 Rh6 a4"]
+[FEN "8/2r2p2/p4K2/6PP/1P6/P7/2pk4/7R b - - 2 44"]
+[SetUp "1"]
+
+44... c1=Q 45. Rxc1 Rxc1 46. Kxf7 Rh1 47. h6 Ke3 48. Kg7 Kf4 49. g6 Kg5 50. h7 Rh4 51. Kf7 Rh6 52. a4 *

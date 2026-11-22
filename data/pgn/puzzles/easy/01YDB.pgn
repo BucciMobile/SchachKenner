@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01YDB"]
+[Difficulty "easy"]
+[Rating "601"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/tqDuguWq#119"]
+[Solution "f2f3 a1h1"]
+[SolutionSAN "f3 Rh1#"]
+[FEN "8/6p1/4k1N1/5R1P/4n1PK/8/5P2/r7 w - - 11 60"]
+[SetUp "1"]
+
+60. f3 Rh1# *

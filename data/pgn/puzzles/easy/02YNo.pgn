@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02YNo"]
+[Difficulty "easy"]
+[Rating "1157"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/WVKu2WlR/black#44"]
+[Solution "b6b2 c2h7 g8h7 e2b2"]
+[SolutionSAN "Qxb2 Bh7+ Kxh7 Qxb2"]
+[FEN "r3r1k1/pp1b1pp1/1q2p2p/3p4/8/P1P3P1/1PB1QPP1/R3R1K1 b - - 0 22"]
+[SetUp "1"]
+
+22... Qxb2 23. Bh7+ Kxh7 24. Qxb2 *

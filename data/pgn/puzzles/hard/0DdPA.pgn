@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DdPA"]
+[Difficulty "hard"]
+[Rating "2557"]
+[Themes "advantage endgame fork veryLong"]
+[GameUrl "https://lichess.org/game/bQbkKHTc#83"]
+[Solution "f7g6 b7b6 g1h2 c8h8 h2g3 b6e3 g3g4 e3e2"]
+[SolutionSAN "Qxg6 Qb6+ Kh2 Rh8+ Kg3 Qe3+ Kg4 Qe2+"]
+[FEN "1kr5/pq3Q2/2b3p1/3pN1P1/8/1P6/P5P1/2R3K1 w - - 4 42"]
+[SetUp "1"]
+
+42. Qxg6 Qb6+ 43. Kh2 Rh8+ 44. Kg3 Qe3+ 45. Kg4 Qe2+ *

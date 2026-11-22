@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06mgO"]
+[Difficulty "hard"]
+[Rating "1945"]
+[Themes "advantage exposedKing kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/xLyz73P9#59"]
+[Solution "g2h3 d6g3 g1h1 g3h3 h1g1 h3g3"]
+[SolutionSAN "gxh3 Qg3+ Kh1 Qxh3+ Kg1 Qg3+"]
+[FEN "5rk1/4p1b1/p1pq3p/P2p2p1/1P1P4/2B1QP1n/6P1/3R1RK1 w - - 0 30"]
+[SetUp "1"]
+
+30. gxh3 Qg3+ 31. Kh1 Qxh3+ 32. Kg1 Qg3+ *

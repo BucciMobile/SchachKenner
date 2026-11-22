@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06ZTV"]
+[Difficulty "hard"]
+[Rating "2619"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/b5Uj4VPB/black#54"]
+[Solution "e7e1 a1e1 e8e1 g1h2 h7h6 g5d2"]
+[SolutionSAN "Re1+ Rxe1 Rxe1+ Kh2 h6 Qd2"]
+[FEN "4r1k1/1p2rppp/PPp3b1/3p2Q1/2q5/5B1P/1R3PP1/R5K1 b - - 0 27"]
+[SetUp "1"]
+
+27... Re1+ 28. Rxe1 Rxe1+ 29. Kh2 h6 30. Qd2 *

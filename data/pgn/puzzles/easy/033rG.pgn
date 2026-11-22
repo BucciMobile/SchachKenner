@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "033rG"]
+[Difficulty "easy"]
+[Rating "1178"]
+[Themes "backRankMate deflection endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/r1mH4PkO#57"]
+[Solution "d4d6 f7f2 g1h1 f2f1 d1f1 f8f1"]
+[SolutionSAN "Qd6 Qf2+ Kh1 Qxf1+ Rxf1 Rxf1#"]
+[FEN "5r1k/1p3qbp/6p1/2P5/1P1Q4/8/6PP/3R1NK1 w - - 1 29"]
+[SetUp "1"]
+
+29. Qd6 Qf2+ 30. Kh1 Qxf1+ 31. Rxf1 Rxf1# *

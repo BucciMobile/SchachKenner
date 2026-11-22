@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dfe2"]
+[Difficulty "medium"]
+[Rating "1469"]
+[Themes "advancedPawn crushing endgame master promotion short"]
+[GameUrl "https://lichess.org/game/iQiLvZ5e#111"]
+[Solution "f4e5 a2a1q a6a1 f1a1"]
+[SolutionSAN "Ke5 a1=Q+ Rxa1 Rxa1"]
+[FEN "6k1/8/R4B1p/1p4P1/5K1P/8/p7/5r2 w - - 3 56"]
+[SetUp "1"]
+
+56. Ke5 a1=Q+ 57. Rxa1 Rxa1 *

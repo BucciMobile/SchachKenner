@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08r3w"]
+[Difficulty "hard"]
+[Rating "2237"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/GitCuQc5/black#44"]
+[Solution "g2h2 g1h1 h2h1 d1h1"]
+[SolutionSAN "Qxh2 Rh1 Qxh1 Qxh1"]
+[FEN "2r3k1/pp4pp/4p3/8/5n2/P2B4/1PP3qP/1K1Q2R1 b - - 2 22"]
+[SetUp "1"]
+
+22... Qxh2 23. Rh1 Qxh1 24. Qxh1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MCFU"]
+[Difficulty "hard"]
+[Rating "1823"]
+[Themes "advantage endgame quietMove short"]
+[GameUrl "https://lichess.org/game/MG5uur4J#81"]
+[Solution "d3c3 b3e6 c3d2 f5g4"]
+[SolutionSAN "Kc3 Be6 Kd2 Kg4"]
+[FEN "8/5p2/1Np3p1/4Pk1p/7P/1b1K2P1/p7/B7 w - - 3 41"]
+[SetUp "1"]
+
+41. Kc3 Be6 42. Kd2 Kg4 *

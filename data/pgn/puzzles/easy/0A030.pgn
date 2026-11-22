@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A030"]
+[Difficulty "easy"]
+[Rating "1111"]
+[Themes "anastasiaMate endgame kingsideAttack mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/YRxtheqD/black#42"]
+[Solution "c5e4 d5e7 g8h7 g5h5"]
+[SolutionSAN "Nxe4 Ne7+ Kh7 Rh5#"]
+[FEN "r4rk1/p1p2pp1/1p1p4/2nNp1R1/2P1P3/7P/PPP2P2/2KR4 b - - 0 21"]
+[SetUp "1"]
+
+21... Nxe4 22. Ne7+ Kh7 23. Rh5# *

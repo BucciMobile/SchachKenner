@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GORP"]
+[Difficulty "hard"]
+[Rating "2580"]
+[Themes "crushing endgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/wzJdq7EZ/black#62"]
+[Solution "g7f6 f2f4 d1h1 h2h1 e2f1 h1h2 f1f4 c7f4"]
+[SolutionSAN "Kf6 f4 Rh1+ Kxh1 Qf1+ Kh2 Qxf4+ Qxf4+"]
+[FEN "8/ppQ2pkp/4p1p1/6N1/1P6/P6P/4qPPK/3r4 b - - 7 31"]
+[SetUp "1"]
+
+31... Kf6 32. f4 Rh1+ 33. Kxh1 Qf1+ 34. Kh2 Qxf4+ 35. Qxf4+ *

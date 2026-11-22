@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03ig2"]
+[Difficulty "easy"]
+[Rating "1110"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/UOE8GdOc#51"]
+[Solution "f2f3 e4e3 g1h1 c8c1 d6d1 c1d1"]
+[SolutionSAN "f3 Qe3+ Kh1 Rc1 Qd1 Rxd1"]
+[FEN "2r3k1/1p4p1/p2Q1p1p/8/4q3/8/PP3PPP/5RK1 w - - 0 26"]
+[SetUp "1"]
+
+26. f3 Qe3+ 27. Kh1 Rc1 28. Qd1 Rxd1 *

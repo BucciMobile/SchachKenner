@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CCAX"]
+[Difficulty "easy"]
+[Rating "1147"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/92GWrVBm/black#56"]
+[Solution "e3a3 a2f7 g8f7 a1a3"]
+[SolutionSAN "Rxa3 Bxf7+ Kxf7 Rxa3"]
+[FEN "r5k1/1p3p2/2b3pp/n7/1P1P4/P3r3/B2N3P/R2R1K2 b - - 0 28"]
+[SetUp "1"]
+
+28... Rxa3 29. Bxf7+ Kxf7 30. Rxa3 *

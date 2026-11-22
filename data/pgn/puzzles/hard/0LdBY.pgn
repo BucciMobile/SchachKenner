@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LdBY"]
+[Difficulty "hard"]
+[Rating "2178"]
+[Themes "crushing master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/pvrBUXKV#43"]
+[Solution "f3h4 d8d1 e1d1 e4f2"]
+[SolutionSAN "Nh4 Rxd1 Rxd1 Nxf2"]
+[FEN "3rr1k1/ppb1qppp/2p3b1/8/1PQ1n3/P3PNPP/1B3PB1/3RR1K1 w - - 3 22"]
+[SetUp "1"]
+
+22. Nh4 Rxd1 23. Rxd1 Nxf2 *

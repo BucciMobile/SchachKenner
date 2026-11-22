@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07P91"]
+[Difficulty "hard"]
+[Rating "2362"]
+[Themes "advantage collinearMove middlegame pin sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/1ID42og1/black#42"]
+[Solution "a8d8 f6f7 f8f7 f1f6 d8f8 e1e7 c7e7 f6e7"]
+[SolutionSAN "Rad8 Rxf7 Rxf7 Qf6 Rf8 Re7 Qxe7 Qxe7"]
+[FEN "r4rk1/1bq2p1p/2p2Rp1/p7/P7/1B6/2P3PP/4RQ1K b - - 0 21"]
+[SetUp "1"]
+
+21... Rad8 22. Rxf7 Rxf7 23. Qf6 Rf8 24. Re7 Qxe7 25. Qxe7 *

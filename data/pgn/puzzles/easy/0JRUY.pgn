@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JRUY"]
+[Difficulty "easy"]
+[Rating "416"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/U3sEPmo7#51"]
+[Solution "f2e3 c6g2"]
+[SolutionSAN "Qxe3 Qxg2#"]
+[FEN "3r1rk1/1b3pp1/p1q1p2p/1p2P3/2pP4/P1P1b1BP/BP2NQP1/R5K1 w - - 1 26"]
+[SetUp "1"]
+
+26. Qxe3 Qxg2# *

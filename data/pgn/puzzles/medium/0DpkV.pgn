@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DpkV"]
+[Difficulty "medium"]
+[Rating "1228"]
+[Themes "deflection long mate mateIn3 middlegame pin"]
+[GameUrl "https://lichess.org/game/w3dmkW0I/black#26"]
+[Solution "h7h6 h4f5 g7h8 g5h6 f6h7 h6g7"]
+[SolutionSAN "h6 Nf5+ Kh8 Qxh6+ Nh7 Qg7#"]
+[FEN "r2q1r2/1b3pkp/p1np1np1/1pp1p1Q1/4P2N/P1NP4/BPP2PPP/R3K2R b KQ - 1 13"]
+[SetUp "1"]
+
+13... h6 14. Nf5+ Kh8 15. Qxh6+ Nh7 16. Qg7# *

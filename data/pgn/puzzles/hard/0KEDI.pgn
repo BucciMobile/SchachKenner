@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KEDI"]
+[Difficulty "hard"]
+[Rating "2053"]
+[Themes "crushing endgame pin skewer veryLong"]
+[GameUrl "https://lichess.org/game/yMLFSpI7#75"]
+[Solution "f5f7 b3d1 f1f2 d1e1 f2f3 e7f7 f4f7 e1f1 f3g3 f1f7"]
+[SolutionSAN "Rxf7 Qd1+ Kf2 Qe1+ Kf3 Rxf7 Qxf7 Qf1+ Kg3 Qxf7"]
+[FEN "2R5/4rppk/7p/3P1R2/5Q2/1q6/6PP/5K2 w - - 2 38"]
+[SetUp "1"]
+
+38. Rxf7 Qd1+ 39. Kf2 Qe1+ 40. Kf3 Rxf7 41. Qxf7 Qf1+ 42. Kg3 Qxf7 *

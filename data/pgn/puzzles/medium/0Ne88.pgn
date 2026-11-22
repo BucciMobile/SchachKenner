@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ne88"]
+[Difficulty "medium"]
+[Rating "1528"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/PbLGy5oq/black#72"]
+[Solution "d7c7 g3g4 c8b8 e4f3"]
+[SolutionSAN "Qc7 Qg4+ Kb8 Bxf3"]
+[FEN "2k2r2/1p1q2p1/p1p3P1/3p4/4B3/2P2nQ1/PP6/2KR4 b - - 0 36"]
+[SetUp "1"]
+
+36... Qc7 37. Qg4+ Kb8 38. Bxf3 *

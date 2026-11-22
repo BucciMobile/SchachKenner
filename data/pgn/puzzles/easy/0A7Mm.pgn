@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A7Mm"]
+[Difficulty "easy"]
+[Rating "924"]
+[Themes "advancedPawn discoveredAttack discoveredCheck kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/RQe5YI1l#41"]
+[Solution "h1g1 e3e2 c1e3 c5e3"]
+[SolutionSAN "Kg1 e2+ Be3 Bxe3#"]
+[FEN "3r1r2/2p2kpp/1p6/pBbbPp2/P4P2/2P1p1P1/2P4P/R1B1R2K w - - 2 21"]
+[SetUp "1"]
+
+21. Kg1 e2+ 22. Be3 Bxe3# *

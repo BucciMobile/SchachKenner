@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02b7E"]
+[Difficulty "medium"]
+[Rating "1625"]
+[Themes "clearance discoveredAttack discoveredCheck kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/7wpFWzVI/black#38"]
+[Solution "b8c6 h7g8 g5h4 d3h7"]
+[SolutionSAN "Nc6 Bg8+ Bh4 Qh7#"]
+[FEN "rnbq1r1k/1p3ppB/p3p3/4P1b1/3N4/2NQ4/PPP3P1/1K5R b - - 2 19"]
+[SetUp "1"]
+
+19... Nc6 20. Bg8+ Bh4 21. Qh7# *

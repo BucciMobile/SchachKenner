@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03RKX"]
+[Difficulty "hard"]
+[Rating "2116"]
+[Themes "advantage middlegame veryLong"]
+[GameUrl "https://lichess.org/game/O1CreJeX/black#50"]
+[Solution "d8e7 a8a3 e7d7 a3a7 d7c6 a2a6 f1a6 a7a6"]
+[SolutionSAN "Ke7 Qxa3+ Kd7 Qa7+ Kc6 Ra6+ Qxa6 Qxa6+"]
+[FEN "Q2k3r/5ppp/4p3/4Pn2/5P2/p1P5/R2P2PP/1r3qNK b - - 2 25"]
+[SetUp "1"]
+
+25... Ke7 26. Qxa3+ Kd7 27. Qa7+ Kc6 28. Ra6+ Qxa6 29. Qxa6+ *

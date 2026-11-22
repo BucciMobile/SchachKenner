@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03kYO"]
+[Difficulty "easy"]
+[Rating "922"]
+[Themes "anastasiaMate endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/HM8MMDTK/black#62"]
+[Solution "a7a6 f1a1"]
+[SolutionSAN "Kxa6 Ra1#"]
+[FEN "5r2/k5p1/Rp1Np2r/4Pp1p/1P1n1P2/8/6PP/5RK1 b - - 0 31"]
+[SetUp "1"]
+
+31... Kxa6 32. Ra1# *

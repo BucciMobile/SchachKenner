@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KzLJ"]
+[Difficulty "hard"]
+[Rating "1838"]
+[Themes "clearance deflection mate mateIn4 middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/JzPARLw1#53"]
+[Solution "a6a7 d6g3 h2g1 f2f1 g2f1 f8f2 g1h1 f2f1"]
+[SolutionSAN "a7 Bxg3+ Kg1 Rf1+ Bxf1 Qf2+ Kh1 Qxf1#"]
+[FEN "5q2/1Qp1k1p1/P2bp3/7p/2Pp4/6PP/1P3rBK/RN6 w - - 3 27"]
+[SetUp "1"]
+
+27. a7 Bxg3+ 28. Kg1 Rf1+ 29. Bxf1 Qf2+ 30. Kh1 Qxf1# *

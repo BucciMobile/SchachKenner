@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03WIh"]
+[Difficulty "easy"]
+[Rating "863"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/pdfjjUej/black#36"]
+[Solution "e8e5 f5h7"]
+[SolutionSAN "Re5 Qh7#"]
+[FEN "4rrk1/pp3pp1/2np3p/q2p1QNP/8/PPp1P3/2P2PP1/R2K3R b - - 1 18"]
+[SetUp "1"]
+
+18... Re5 19. Qh7# *

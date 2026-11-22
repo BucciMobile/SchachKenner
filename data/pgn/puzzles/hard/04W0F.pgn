@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04W0F"]
+[Difficulty "hard"]
+[Rating "1920"]
+[Themes "crushing fork long middlegame"]
+[GameUrl "https://lichess.org/game/pbQ7ThOl/black#84"]
+[Solution "d8d2 b7h7 g8f8 f4f5 f8e8 f5g5"]
+[SolutionSAN "Rdd2 Qxh7+ Kf8 Rxf5+ Ke8 Rxg5"]
+[FEN "3r2k1/1Q5p/8/1pP2pq1/1Pb2R1R/P4PPK/4r3/8 b - - 4 42"]
+[SetUp "1"]
+
+42... Rdd2 43. Qxh7+ Kf8 44. Rxf5+ Ke8 45. Rxg5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04a4F"]
+[Difficulty "hard"]
+[Rating "1803"]
+[Themes "bishopEndgame crushing endgame master short"]
+[GameUrl "https://lichess.org/game/aaOq0IDz#93"]
+[Solution "f3f4 a3f8 h6h7 g5f4"]
+[SolutionSAN "f4 Bf8+ Kh7 gxf4"]
+[FEN "8/p7/5k1K/6pP/6P1/b4P2/3p4/3B4 w - - 0 47"]
+[SetUp "1"]
+
+47. f4 Bf8+ 48. Kh7 gxf4 *

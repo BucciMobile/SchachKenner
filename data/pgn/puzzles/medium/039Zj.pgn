@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "039Zj"]
+[Difficulty "medium"]
+[Rating "1238"]
+[Themes "crushing deflection endgame veryLong"]
+[GameUrl "https://lichess.org/game/Zw8U7rDf/black#124"]
+[Solution "g3g4 h5g5 g4g5 e2f3 h3h2 f3g2 h2h1r g2h1"]
+[SolutionSAN "Kg4 Rxg5+ Kxg5 Kxf3 h2 Kg2 h1=R Kxh1"]
+[FEN "8/8/8/2pPp1bR/2P1P3/5rkp/4K3/8 b - - 3 62"]
+[SetUp "1"]
+
+62... Kg4 63. Rxg5+ Kxg5 64. Kxf3 h2 65. Kg2 h1=R 66. Kxh1 *

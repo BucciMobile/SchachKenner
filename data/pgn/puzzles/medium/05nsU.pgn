@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05nsU"]
+[Difficulty "medium"]
+[Rating "1229"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/GxL0FWHh/black#52"]
+[Solution "b7a6 f5f6 f8f6 f4f6"]
+[SolutionSAN "Ba6 f6+ Rxf6 Rxf6"]
+[FEN "1n3r2/pb4kp/1p2B1p1/2b2P2/5RQ1/8/P2q2PP/5R1K b - - 7 26"]
+[SetUp "1"]
+
+26... Ba6 27. f6+ Rxf6 28. Rxf6 *

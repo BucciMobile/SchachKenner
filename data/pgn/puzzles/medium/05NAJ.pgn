@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05NAJ"]
+[Difficulty "medium"]
+[Rating "1217"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/2Y6WKGV2#27"]
+[Solution "d2g5 g6f4 g5f4 e5f4"]
+[SolutionSAN "Qg5 Nf4+ Qxf4 exf4"]
+[FEN "r3k2r/ppp2pp1/2np2n1/4p2p/2P3qP/P1BP1NP1/1P1QPPK1/R4R2 w kq - 3 14"]
+[SetUp "1"]
+
+14. Qg5 Nf4+ 15. Qxf4 exf4 *

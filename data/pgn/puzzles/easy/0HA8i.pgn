@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HA8i"]
+[Difficulty "easy"]
+[Rating "1091"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/MnIu07fJ#33"]
+[Solution "e2e5 f6g4 f2g1 g4e5"]
+[SolutionSAN "Qe5 Ng4+ Kg1 Nxe5"]
+[FEN "r2k3r/pp3ppp/2pq1n2/3n4/3P4/2PB1N2/PP2QKPP/R3R3 w - - 1 17"]
+[SetUp "1"]
+
+17. Qe5 Ng4+ 18. Kg1 Nxe5 *

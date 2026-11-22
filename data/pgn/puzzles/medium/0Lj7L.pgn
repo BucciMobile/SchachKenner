@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lj7L"]
+[Difficulty "medium"]
+[Rating "1657"]
+[Themes "crushing fork long middlegame"]
+[GameUrl "https://lichess.org/game/woDi6Jos#65"]
+[Solution "f2e3 e6c4 e2d2 g5e3 d2e3 c4b5"]
+[SolutionSAN "Qe3 Bc4+ Kd2 Qxe3+ Kxe3 Bxb5"]
+[FEN "1r2r1k1/1p3ppp/3Rb3/1R2P1q1/4B1P1/5P2/2P1KQ2/8 w - - 1 33"]
+[SetUp "1"]
+
+33. Qe3 Bc4+ 34. Kd2 Qxe3+ 35. Kxe3 Bxb5 *

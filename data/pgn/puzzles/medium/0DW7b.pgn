@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DW7b"]
+[Difficulty "medium"]
+[Rating "1341"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/G4EY9BAs#63"]
+[Solution "c3g7 e2f3 g2h3 d1h1"]
+[SolutionSAN "Bg7 Bf3+ Kh3 Rh1#"]
+[FEN "8/8/2R5/1p3p1k/p3p2P/P1B1P1P1/1P2bPK1/3r4 w - - 1 32"]
+[SetUp "1"]
+
+32. Bg7 Bf3+ 33. Kh3 Rh1# *

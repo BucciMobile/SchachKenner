@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HA2M"]
+[Difficulty "medium"]
+[Rating "1644"]
+[Themes "crushing defensiveMove endgame long rookEndgame skewer"]
+[GameUrl "https://lichess.org/game/2O1HFiqm#131"]
+[Solution "g7f8 g5f6 f8e8 a6a8 e8d7 a8g8"]
+[SolutionSAN "Kf8+ Kf6 Ke8 Ra8+ Kd7 Rxg8"]
+[FEN "6R1/6K1/r7/6k1/8/8/8/8 w - - 16 66"]
+[SetUp "1"]
+
+66. Kf8+ Kf6 67. Ke8 Ra8+ 68. Kd7 Rxg8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KooX"]
+[Difficulty "hard"]
+[Rating "2122"]
+[Themes "attraction crushing fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/veck3Gex#41"]
+[Solution "e3e5 f8f2 g1f2 c5d3 f2g1 d3e5"]
+[SolutionSAN "Qxe5 Rxf2 Kxf2 Nd3+ Kg1 Nxe5"]
+[FEN "r4rk1/pq4pp/4p3/2n1b3/2p5/4Q1P1/PP3P1P/R1B1R1K1 w - - 0 21"]
+[SetUp "1"]
+
+21. Qxe5 Rxf2 22. Kxf2 Nd3+ 23. Kg1 Nxe5 *

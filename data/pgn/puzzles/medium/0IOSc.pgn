@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IOSc"]
+[Difficulty "medium"]
+[Rating "1479"]
+[Themes "backRankMate fork long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/XkkoQoEa#47"]
+[Solution "d1d5 c2f2 g1h1 f2f1 e1f1 f8f1"]
+[SolutionSAN "Rxd5 Qxf2+ Kh1 Qf1+ Rxf1 Rxf1#"]
+[FEN "5r1k/r5p1/p6p/1p1pQ3/7N/8/PPq2PPP/3RR1K1 w - - 0 24"]
+[SetUp "1"]
+
+24. Rxd5 Qxf2+ 25. Kh1 Qf1+ 26. Rxf1 Rxf1# *

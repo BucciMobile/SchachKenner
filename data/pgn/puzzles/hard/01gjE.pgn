@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01gjE"]
+[Difficulty "hard"]
+[Rating "1935"]
+[Themes "equality long middlegame trappedPiece"]
+[GameUrl "https://lichess.org/game/VupKq5vL#41"]
+[Solution "c5a7 a5c7 b8a8 b5c6 a8c6 a6c6"]
+[SolutionSAN "Bxa7 Bc7 Qa8 Bc6 Qxc6 Qxc6"]
+[FEN "1Q2n1kr/r4ppp/q7/bbB5/4p3/2P1P3/P3NPPP/RN2K2R w KQ - 8 21"]
+[SetUp "1"]
+
+21. Bxa7 Bc7 22. Qa8 Bc6 23. Qxc6 Qxc6 *

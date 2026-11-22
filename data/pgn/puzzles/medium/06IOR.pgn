@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06IOR"]
+[Difficulty "medium"]
+[Rating "1663"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/SUAHHkPW#87"]
+[Solution "d6b4 a5b4 c2d2 e4f3 e3e4 f3e4"]
+[SolutionSAN "Bxb4 axb4 Kd2 Kf3 e4 Kxe4"]
+[FEN "8/8/2pB4/p7/1n2k1p1/1P2P1P1/2K5/8 w - - 2 44"]
+[SetUp "1"]
+
+44. Bxb4 axb4 45. Kd2 Kf3 46. e4 Kxe4 *

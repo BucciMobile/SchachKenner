@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ew8S"]
+[Difficulty "easy"]
+[Rating "1120"]
+[Themes "advantage endgame exposedKing veryLong"]
+[GameUrl "https://lichess.org/game/V765Ev8u/black#64"]
+[Solution "d8d3 e1e8 h8h7 f7g8 h7g6 e8e6 g4e6 g8e6"]
+[SolutionSAN "Rxd3 Re8+ Kh7 Qg8+ Kg6 Re6+ Qxe6 Qxe6+"]
+[FEN "3r3k/p4Qb1/1p6/7p/6q1/3P4/P4PP1/4R1K1 b - - 8 32"]
+[SetUp "1"]
+
+32... Rxd3 33. Re8+ Kh7 34. Qg8+ Kg6 35. Re6+ Qxe6 36. Qxe6+ *

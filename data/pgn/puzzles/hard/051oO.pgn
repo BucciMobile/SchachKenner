@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "051oO"]
+[Difficulty "hard"]
+[Rating "2555"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/zhO9UD1m/black#60"]
+[Solution "e7e1 f1e1 e8e1 h4e1"]
+[SolutionSAN "Re1 Rfxe1 Rxe1+ Qxe1"]
+[FEN "4r1k1/pp2rpp1/3P2bb/2p5/2P4Q/1Pq5/P5PP/3R1R1K b - - 0 30"]
+[SetUp "1"]
+
+30... Re1 31. Rfxe1 Rxe1+ 32. Qxe1 *

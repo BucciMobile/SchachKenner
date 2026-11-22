@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00mvr"]
+[Difficulty "easy"]
+[Rating "768"]
+[Themes "crushing discoveredAttack endgame master short"]
+[GameUrl "https://lichess.org/game/R3FdESiy/black#40"]
+[Solution "f7e7 c1g5 e7e6 a1d1"]
+[SolutionSAN "Kxe7 Bg5+ Ke6 Rxd1"]
+[FEN "7r/ppp1Nk1p/2n5/8/8/2P2pP1/P6P/R1Br1BK1 b - - 0 20"]
+[SetUp "1"]
+
+20... Kxe7 21. Bg5+ Ke6 22. Rxd1 *

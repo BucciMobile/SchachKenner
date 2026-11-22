@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EI7y"]
+[Difficulty "easy"]
+[Rating "1152"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/u39CAMZx/black#110"]
+[Solution "c2g6 e5b8"]
+[SolutionSAN "Qg6 Qb8#"]
+[FEN "6k1/1p3p1p/p1p5/3pQ2N/3P4/4PK2/2q5/8 b - - 5 55"]
+[SetUp "1"]
+
+55... Qg6 56. Qb8# *

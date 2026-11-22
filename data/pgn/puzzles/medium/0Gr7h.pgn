@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gr7h"]
+[Difficulty "medium"]
+[Rating "1677"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/ksw23Cei#45"]
+[Solution "f4g4 e7e2 d2c1 b5b1"]
+[SolutionSAN "Rg4 Re2+ Kc1 Qb1#"]
+[FEN "1r4k1/p3rpp1/3p3p/1qp5/5R2/2Q2N2/P1PK1PPP/3R4 w - - 6 23"]
+[SetUp "1"]
+
+23. Rg4 Re2+ 24. Kc1 Qb1# *

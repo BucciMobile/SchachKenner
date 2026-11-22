@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HfB3"]
+[Difficulty "hard"]
+[Rating "2253"]
+[Themes "advantage defensiveMove endgame fork long pin sacrifice"]
+[GameUrl "https://lichess.org/game/8EkMT0s8#51"]
+[Solution "e1e7 g7f6 e7b7 d8d1 c4f1 f6g5"]
+[SolutionSAN "Re7+ Kf6 Rxb7 Rd1+ Bf1 Kxg5"]
+[FEN "3r1r2/1b4kp/p5p1/5pR1/2B5/1P6/P1P2PPP/4R1K1 w - - 3 26"]
+[SetUp "1"]
+
+26. Re7+ Kf6 27. Rxb7 Rd1+ 28. Bf1 Kxg5 *

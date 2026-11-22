@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00mST"]
+[Difficulty "hard"]
+[Rating "2494"]
+[Themes "crushing defensiveMove hangingPiece middlegame veryLong"]
+[GameUrl "https://lichess.org/game/TnR9jLpy#49"]
+[Solution "e4e5 f4h2 d6b5 c7b6 d1d6 b6a5 b5a3 f8f4"]
+[SolutionSAN "e5 Bxh2 Nb5+ Kb6 Rd6+ Ka5 Na3 Rf4"]
+[FEN "r4r2/ppk4p/n2N2p1/2p5/4Pb2/2P4P/PP2B2R/1K1R4 w - - 0 25"]
+[SetUp "1"]
+
+25. e5 Bxh2 26. Nb5+ Kb6 27. Rd6+ Ka5 28. Na3 Rf4 *

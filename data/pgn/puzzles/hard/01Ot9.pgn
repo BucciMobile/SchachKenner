@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Ot9"]
+[Difficulty "hard"]
+[Rating "2521"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/XHnJHUML#115"]
+[Solution "e2e3 f5e5 e3d3 e5g5 g4b4 h4h3"]
+[SolutionSAN "Ke3 Re5+ Kd3 Rg5 Rb4 h3"]
+[FEN "8/8/5p2/5r1k/6Rp/5P2/4KP2/8 w - - 3 58"]
+[SetUp "1"]
+
+58. Ke3 Re5+ 59. Kd3 Rg5 60. Rb4 h3 *

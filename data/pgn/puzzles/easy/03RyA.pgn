@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03RyA"]
+[Difficulty "easy"]
+[Rating "795"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/6byYD3l4/black#36"]
+[Solution "g8f8 h7h8"]
+[SolutionSAN "Kf8 Qh8#"]
+[FEN "2rqr1k1/1b3ppQ/p1p2b1p/1pn5/3P4/5N2/PP3PPP/1BR1R1K1 b - - 1 18"]
+[SetUp "1"]
+
+18... Kf8 19. Qh8# *

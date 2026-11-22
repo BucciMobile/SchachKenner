@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DDeN"]
+[Difficulty "easy"]
+[Rating "802"]
+[Themes "advancedPawn endgame mate mateIn2 promotion short"]
+[GameUrl "https://lichess.org/game/E3L1ApRU#69"]
+[Solution "d5f4 g7g1 f1g1 f2g1q"]
+[SolutionSAN "Nf4 Rg1+ Rxg1+ fxg1=Q#"]
+[FEN "6k1/p5r1/1p6/2pN3p/3b4/3P4/PPP2p1P/5R1K w - - 0 35"]
+[SetUp "1"]
+
+35. Nf4 Rg1+ 36. Rxg1+ fxg1=Q# *

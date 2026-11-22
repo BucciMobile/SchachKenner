@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MiAv"]
+[Difficulty "medium"]
+[Rating "1265"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+[GameUrl "https://lichess.org/game/JDcQjYgT/black#60"]
+[Solution "b5a4 b3a4 e6e7 e4f5"]
+[SolutionSAN "bxa4 bxa4 Ke7 Kf5"]
+[FEN "8/8/2p1kp1p/pp2p3/P3K1P1/1PP2PP1/8/8 b - - 0 30"]
+[SetUp "1"]
+
+30... bxa4 31. bxa4 Ke7 32. Kf5 *

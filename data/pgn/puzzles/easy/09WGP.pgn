@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09WGP"]
+[Difficulty "easy"]
+[Rating "1095"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/4hlUe2cr#111"]
+[Solution "h7g7 c3c2 h6h7 c2c1q"]
+[SolutionSAN "Kg7 c2 h7 c1=Q"]
+[FEN "8/7K/4k2P/8/8/2pp1B2/8/8 w - - 0 56"]
+[SetUp "1"]
+
+56. Kg7 c2 57. h7 c1=Q *

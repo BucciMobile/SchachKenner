@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08OXm"]
+[Difficulty "medium"]
+[Rating "1655"]
+[Themes "advantage endgame fork long sacrifice"]
+[GameUrl "https://lichess.org/game/AISEyhw9#61"]
+[Solution "g1h2 d6c6 d5c6 f6e5 h2h1 e5b8"]
+[SolutionSAN "Kh2 Rxc6 dxc6 Be5+ Kh1 Bxb8"]
+[FEN "1R6/5pkp/p1Nr1bp1/3P4/1P6/5P1P/1r4P1/3R2K1 w - - 3 31"]
+[SetUp "1"]
+
+31. Kh2 Rxc6 32. dxc6 Be5+ 33. Kh1 Bxb8 *

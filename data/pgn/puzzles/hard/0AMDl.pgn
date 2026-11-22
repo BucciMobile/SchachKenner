@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AMDl"]
+[Difficulty "hard"]
+[Rating "1771"]
+[Themes "crushing endgame fork veryLong"]
+[GameUrl "https://lichess.org/game/BIDAw0zD/black#66"]
+[Solution "e6f7 f4d3 e5g3 f3g3 e1g3 h2g3 c5c4 b3c4"]
+[SolutionSAN "Bf7 Nd3 Bxg3+ Qxg3 Qxg3+ Kxg3 c4 bxc4"]
+[FEN "6k1/6p1/4b2p/p1p1b3/Pp1pPN2/1P3QPP/2P3BK/4q3 b - - 3 33"]
+[SetUp "1"]
+
+33... Bf7 34. Nd3 Bxg3+ 35. Qxg3 Qxg3+ 36. Kxg3 c4 37. bxc4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AXgA"]
+[Difficulty "hard"]
+[Rating "2538"]
+[Themes "crushing endgame pawnEndgame quietMove veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/GxQ25QY9#103"]
+[Solution "h4g5 g6g5 g3f3 g5h4 f3f4 c7c6 f4f3 h4h3"]
+[SolutionSAN "hxg5 Kxg5 Kf3 Kh4 Kf4 c6 Kf3 Kh3"]
+[FEN "8/2p5/p5kp/1p1p2p1/1P1P2PP/P1P3K1/8/8 w - - 5 52"]
+[SetUp "1"]
+
+52. hxg5 Kxg5 53. Kf3 Kh4 54. Kf4 c6 55. Kf3 Kh3 *

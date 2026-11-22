@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "021cc"]
+[Difficulty "medium"]
+[Rating "1375"]
+[Themes "crushing deflection endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/IJfOe8LF#77"]
+[Solution "d4c5 g6g5 f4g5 e6e5"]
+[SolutionSAN "Kc5 g5 fxg5 Kxe5"]
+[FEN "8/8/2p1k1p1/p2pP3/P2K1PP1/8/8/8 w - - 0 39"]
+[SetUp "1"]
+
+39. Kc5 g5 40. fxg5 Kxe5 *

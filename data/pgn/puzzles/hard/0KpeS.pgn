@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KpeS"]
+[Difficulty "hard"]
+[Rating "1708"]
+[Themes "crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/c36jp2fr/black#82"]
+[Solution "h2h1q e4h1 g1h1 d4e5 e6h3 e5d6"]
+[SolutionSAN "h1=Q Bxh1 Kxh1 Ke5 Bh3 Kd6"]
+[FEN "8/8/2P1b3/p1P5/P2KB3/8/7p/6k1 b - - 0 41"]
+[SetUp "1"]
+
+41... h1=Q 42. Bxh1 Kxh1 43. Ke5 Bh3 44. Kd6 *

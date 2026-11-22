@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JU45"]
+[Difficulty "hard"]
+[Rating "1924"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/SCaBuuyR#23"]
+[Solution "f4d6 g7d4 g1h1 d8d6"]
+[SolutionSAN "Bd6 Bd4+ Kh1 Qxd6"]
+[FEN "r2qk2r/1p2npbp/p1p3p1/2p5/4PB2/2NP1Q1P/PPP3P1/R4RK1 w kq - 1 12"]
+[SetUp "1"]
+
+12. Bd6 Bd4+ 13. Kh1 Qxd6 *

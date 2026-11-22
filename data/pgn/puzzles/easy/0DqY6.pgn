@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DqY6"]
+[Difficulty "easy"]
+[Rating "1072"]
+[Themes "crushing deflection endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/dhvM5MLR/black#100"]
+[Solution "b6c5 c3c4 c5c4 d7c6"]
+[SolutionSAN "Kc5 Rxc4+ Kxc4 Kxc6"]
+[FEN "8/p2K4/1kr1p3/P3P3/2p5/2R5/8/8 b - - 0 50"]
+[SetUp "1"]
+
+50... Kc5 51. Rxc4+ Kxc4 52. Kxc6 *

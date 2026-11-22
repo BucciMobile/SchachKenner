@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "062Xc"]
+[Difficulty "easy"]
+[Rating "950"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/nTaEIWWW/black#30"]
+[Solution "d7b5 a7f7"]
+[SolutionSAN "Bxb5 Qxf7#"]
+[FEN "2rqk1nr/Q2b1ppp/4p3/1B1pN3/3P4/2P1P3/P2K1PPP/n1B4R b k - 0 15"]
+[SetUp "1"]
+
+15... Bxb5 16. Qxf7# *

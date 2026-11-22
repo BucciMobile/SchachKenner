@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DqSO"]
+[Difficulty "medium"]
+[Rating "1309"]
+[Themes "advantage deflection endgame short"]
+[GameUrl "https://lichess.org/game/gwaHlauz#63"]
+[Solution "f3c3 e8e1 c1e1 d2c3"]
+[SolutionSAN "Qc3 Re1+ Rxe1 Qxc3"]
+[FEN "4r1k1/p4pp1/7p/2P5/8/P4Q1P/3q1PP1/2R3K1 w - - 0 32"]
+[SetUp "1"]
+
+32. Qc3 Re1+ 33. Rxe1 Qxc3 *

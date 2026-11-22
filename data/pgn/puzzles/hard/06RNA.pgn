@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06RNA"]
+[Difficulty "hard"]
+[Rating "1957"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/rsmvher8/black#70"]
+[Solution "f2f7 d3c4 c7c6 c4d5"]
+[SolutionSAN "Rf7 Bc4 c6 Bxd5"]
+[FEN "8/ppp5/3kp2R/3rp3/4Q3/3BP1q1/PKP2r2/8 b - - 2 35"]
+[SetUp "1"]
+
+35... Rf7 36. Bc4 c6 37. Bxd5 *

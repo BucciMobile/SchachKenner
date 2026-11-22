@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GtdA"]
+[Difficulty "hard"]
+[Rating "1940"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/3rY0wmHM/black#42"]
+[Solution "a4c4 b3a5 c4c1 f1c1"]
+[SolutionSAN "Rxc4 Nxa5 Rxc1 Rxc1"]
+[FEN "5rk1/2qn1ppp/1p6/n3p1B1/r1P1P3/1N6/P3Q1PP/2R2RK1 b - - 4 21"]
+[SetUp "1"]
+
+21... Rxc4 22. Nxa5 Rxc1 23. Rxc1 *

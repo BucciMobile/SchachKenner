@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CbHA"]
+[Difficulty "medium"]
+[Rating "1294"]
+[Themes "crushing endgame short xRayAttack"]
+[GameUrl "https://lichess.org/game/yK4M1foD/black#104"]
+[Solution "f6b2 b1b2 c2b2 d2b2"]
+[SolutionSAN "Qb2 Qxb2 Rxb2 Rxb2"]
+[FEN "2r3k1/5pp1/5q2/1p4p1/1P6/3p2P1/2rR1P1P/1Q1R2K1 b - - 0 52"]
+[SetUp "1"]
+
+52... Qb2 53. Qxb2 Rxb2 54. Rxb2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "053iJ"]
+[Difficulty "easy"]
+[Rating "545"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/x8gqGtun#63"]
+[Solution "e6c4 d8d1 c4f1 d1f1"]
+[SolutionSAN "Qxc4 Rd1+ Qf1 Rxf1#"]
+[FEN "3r4/1k5p/4Q1p1/4P3/2p2P2/8/P5PP/7K w - - 0 32"]
+[SetUp "1"]
+
+32. Qxc4 Rd1+ 33. Qf1 Rxf1# *

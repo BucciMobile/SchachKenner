@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G6sA"]
+[Difficulty "hard"]
+[Rating "2062"]
+[Themes "crushing endgame master veryLong"]
+[GameUrl "https://lichess.org/game/k1mY80Z6#73"]
+[Solution "h1g1 c3d4 d5d4 c5d4 d7d8q f8d8 g1f2 d4d3 c1h1 d8f8"]
+[SolutionSAN "Kg1 Bd4+ Rxd4 cxd4 d8=Q Rxd8 Kf2 d3 Rh1 Rf8+"]
+[FEN "5r2/3P2k1/1P4p1/2pR3p/8/2b5/4p1PP/2R4K w - - 2 37"]
+[SetUp "1"]
+
+37. Kg1 Bd4+ 38. Rxd4 cxd4 39. d8=Q Rxd8 40. Kf2 d3 41. Rh1 Rf8+ *

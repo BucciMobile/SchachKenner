@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JYj9"]
+[Difficulty "easy"]
+[Rating "709"]
+[Themes "endgame epauletteMate mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/YzpJORE3/black#98"]
+[Solution "d6e5 a6e6"]
+[SolutionSAN "Ke5 Re6#"]
+[FEN "8/2r3p1/R2k1p2/2pp1Pp1/6P1/2P2K1P/8/8 b - - 3 49"]
+[SetUp "1"]
+
+49... Ke5 50. Re6# *

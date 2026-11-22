@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06mNY"]
+[Difficulty "medium"]
+[Rating "1234"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/oHdulz5A/black#46"]
+[Solution "c7f7 f1f7"]
+[SolutionSAN "Rxf7 Rxf7#"]
+[FEN "4R3/1br2Q1k/p1pq2pp/2p5/6Nb/2NP4/PPP3P1/5R1K b - - 1 23"]
+[SetUp "1"]
+
+23... Rxf7 24. Rxf7# *

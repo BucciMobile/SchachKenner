@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0L1bx"]
+[Difficulty "hard"]
+[Rating "1981"]
+[Themes "crushing endgame long master"]
+[GameUrl "https://lichess.org/game/RXOdAAjr/black#60"]
+[Solution "e7d7 f6d6 e8e1 g1f2 d7f5 f2e1"]
+[SolutionSAN "Qd7 Rxd6 Re1+ Kf2 Qf5+ Kxe1"]
+[FEN "4rrk1/p3qp1p/1p1p1RpQ/3P4/2PB4/1P5P/P5P1/6K1 b - - 0 30"]
+[SetUp "1"]
+
+30... Qd7 31. Rxd6 Re1+ 32. Kf2 Qf5+ 33. Kxe1 *

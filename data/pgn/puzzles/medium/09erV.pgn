@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09erV"]
+[Difficulty "medium"]
+[Rating "1639"]
+[Themes "advancedPawn attackingF2F7 crushing endgame exposedKing rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/S6iUHKpx/black#96"]
+[Solution "h5d5 a1a8 d5d8 f6f7 b7f7 e6f7 e8e7 a8d8"]
+[SolutionSAN "Rxd5 Ra8+ Rd8 f7+ Rxf7 exf7+ Ke7 Rxd8"]
+[FEN "4k3/1r6/4PP2/3P3r/6p1/8/8/R5K1 b - - 0 48"]
+[SetUp "1"]
+
+48... Rxd5 49. Ra8+ Rd8 50. f7+ Rxf7 51. exf7+ Ke7 52. Rxd8 *

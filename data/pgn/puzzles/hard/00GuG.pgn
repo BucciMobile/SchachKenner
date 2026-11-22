@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00GuG"]
+[Difficulty "hard"]
+[Rating "2550"]
+[Themes "advantage defensiveMove endgame master short"]
+[GameUrl "https://lichess.org/game/6xU6SaA2#125"]
+[Solution "c8c6 g6f5 b6c5 h7h5"]
+[SolutionSAN "Rc6+ Kf5 Kc5 h5"]
+[FEN "2R5/7p/1K4k1/8/5p2/5n2/8/8 w - - 0 63"]
+[SetUp "1"]
+
+63. Rc6+ Kf5 64. Kc5 h5 *

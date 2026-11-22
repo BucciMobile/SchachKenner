@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02IJi"]
+[Difficulty "easy"]
+[Rating "1119"]
+[Themes "advantage deflection endgame short"]
+[GameUrl "https://lichess.org/game/rjVWNywA/black#56"]
+[Solution "d6d5 e1e8 d8e8 d3d5"]
+[SolutionSAN "Qxd5 Re8+ Rxe8 Qxd5+"]
+[FEN "3r2k1/p6p/1p1q2p1/3P1p2/8/3Q2PP/P4P2/4R1K1 b - - 1 28"]
+[SetUp "1"]
+
+28... Qxd5 29. Re8+ Rxe8 30. Qxd5+ *

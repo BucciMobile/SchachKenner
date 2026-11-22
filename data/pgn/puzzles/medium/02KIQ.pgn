@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02KIQ"]
+[Difficulty "medium"]
+[Rating "1316"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/81652zO4/black#82"]
+[Solution "g7h6 b2h8"]
+[SolutionSAN "Kh6 Qh8#"]
+[FEN "8/1R3pk1/4q1p1/2Pp2p1/4n3/8/1Q5P/5K2 b - - 5 41"]
+[SetUp "1"]
+
+41... Kh6 42. Qh8# *

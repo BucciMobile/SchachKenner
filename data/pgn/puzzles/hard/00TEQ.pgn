@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00TEQ"]
+[Difficulty "hard"]
+[Rating "2229"]
+[Themes "advantage attackingF2F7 middlegame short"]
+[GameUrl "https://lichess.org/game/1ix6qpqS/black#30"]
+[Solution "g8f6 h5f7 c7f7 g5f7"]
+[SolutionSAN "Nf6 Qxf7+ Qxf7 Nxf7"]
+[FEN "r3k1nr/1bq2ppp/p2p4/1p2p1NQ/3nP3/1BN4P/PP3PP1/R2R2K1 b kq - 2 15"]
+[SetUp "1"]
+
+15... Nf6 16. Qxf7+ Qxf7 17. Nxf7 *

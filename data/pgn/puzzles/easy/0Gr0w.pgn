@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gr0w"]
+[Difficulty "easy"]
+[Rating "884"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/rnXJ8gWI/black#156"]
+[Solution "g5g4 h8h6 h5g5 h6g6"]
+[SolutionSAN "g4 Rxh6+ Kg5 Rxg6+"]
+[FEN "7R/6K1/6bn/6pk/5p2/8/5P2/8 b - - 21 78"]
+[SetUp "1"]
+
+78... g4 79. Rxh6+ Kg5 80. Rxg6+ *

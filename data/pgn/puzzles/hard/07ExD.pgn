@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07ExD"]
+[Difficulty "hard"]
+[Rating "2162"]
+[Themes "crushing defensiveMove endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/2AXPqNgU/black#98"]
+[Solution "d5d6 f8d6 c5d6 a1b1"]
+[SolutionSAN "Qd6 Qxd6+ Kxd6 Kb1"]
+[FEN "5Q2/8/1p6/p1kq4/3p4/P4P2/1P6/K7 b - - 3 49"]
+[SetUp "1"]
+
+49... Qd6 50. Qxd6+ Kxd6 51. Kb1 *

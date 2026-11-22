@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00TFd"]
+[Difficulty "easy"]
+[Rating "1031"]
+[Themes "deflection endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/olkVoMlg#79"]
+[Solution "c6c7 g5g4 h3h4 a2h2"]
+[SolutionSAN "c7 g4+ Kh4 Rxh2#"]
+[FEN "1R6/8/p1P3k1/6pp/1P6/6PK/r6P/8 w - - 1 40"]
+[SetUp "1"]
+
+40. c7 g4+ 41. Kh4 Rxh2# *

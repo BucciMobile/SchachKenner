@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04YaR"]
+[Difficulty "easy"]
+[Rating "1179"]
+[Themes "crushing hangingPiece middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/r6YVEbxx#63"]
+[Solution "d3h7 g8h7 e5d6 f3g3"]
+[SolutionSAN "Bxh7+ Kxh7 Bd6 Rxg3"]
+[FEN "5rk1/7p/p1p5/3pB1q1/3P2p1/2PB1rQb/PP2RPpP/4R1K1 w - - 4 32"]
+[SetUp "1"]
+
+32. Bxh7+ Kxh7 33. Bd6 Rxg3 *

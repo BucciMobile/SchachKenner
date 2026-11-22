@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FJUy"]
+[Difficulty "easy"]
+[Rating "1134"]
+[Themes "crushing discoveredAttack discoveredCheck endgame master short"]
+[GameUrl "https://lichess.org/game/aPZSNobn/black#74"]
+[Solution "e7e6 e5c7 e6d7 c7d8"]
+[SolutionSAN "Kxe6 Bc7+ Kd7 Bxd8"]
+[FEN "3r4/1p2k2p/2b1P3/1pPpB1p1/5pP1/P7/5K1P/4R3 b - - 2 37"]
+[SetUp "1"]
+
+37... Kxe6 38. Bc7+ Kd7 39. Bxd8 *

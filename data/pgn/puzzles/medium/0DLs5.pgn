@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DLs5"]
+[Difficulty "medium"]
+[Rating "1565"]
+[Themes "mate mateIn2 middlegame operaMate queensideAttack sacrifice short"]
+[GameUrl "https://lichess.org/game/ErPFpOqL#45"]
+[Solution "e5e6 d7d1 f1d1 d8d1"]
+[SolutionSAN "e6 Qd1+ Rxd1 Rxd1#"]
+[FEN "1k1r4/pp1qbppp/2p5/4PP1b/2B5/P1B4P/1PP2Q2/2K2R2 w - - 1 23"]
+[SetUp "1"]
+
+23. e6 Qd1+ 24. Rxd1 Rxd1# *

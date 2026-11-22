@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09FEa"]
+[Difficulty "hard"]
+[Rating "2169"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/FBojxEZo#95"]
+[Solution "c6c7 f1e1 g3h2 d5e3"]
+[SolutionSAN "c7 Qe1+ Kh2 Nxe3"]
+[FEN "5r1k/8/2P1p2p/N2nP1pP/1PR1Q1P1/4B1K1/8/5q2 w - - 1 48"]
+[SetUp "1"]
+
+48. c7 Qe1+ 49. Kh2 Nxe3 *

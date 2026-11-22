@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04iO5"]
+[Difficulty "easy"]
+[Rating "1160"]
+[Themes "crushing endgame rookEndgame short skewer"]
+[GameUrl "https://lichess.org/game/AyozHfYW/black#120"]
+[Solution "d5e4 h7e7 e4d5 e7e1"]
+[SolutionSAN "Ke4 Re7+ Kd5 Rxe1"]
+[FEN "8/7R/5p1p/3k2p1/8/6P1/6K1/4r3 b - - 1 60"]
+[SetUp "1"]
+
+60... Ke4 61. Re7+ Kd5 62. Rxe1 *

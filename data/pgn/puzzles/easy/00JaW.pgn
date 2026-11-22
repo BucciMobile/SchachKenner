@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00JaW"]
+[Difficulty "easy"]
+[Rating "1080"]
+[Themes "crushing endgame exposedKing rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/K2MPI0zt/black#96"]
+[Solution "a7a6 d5d6 b6a5 d6a6 a5a6 d2c3 a6b7 c3d4"]
+[SolutionSAN "Rxa6 Rd6+ Ka5 Rxa6+ Kxa6 Kc3 Kb7 Kd4"]
+[FEN "8/r7/Pk5p/3R2p1/4p1P1/4P3/3K4/8 b - - 0 48"]
+[SetUp "1"]
+
+48... Rxa6 49. Rd6+ Ka5 50. Rxa6+ Kxa6 51. Kc3 Kb7 52. Kd4 *

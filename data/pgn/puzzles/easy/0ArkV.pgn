@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ArkV"]
+[Difficulty "easy"]
+[Rating "1133"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/FDgcgMQS/black#78"]
+[Solution "e2b2 a8f8 g8f8 d5d8"]
+[SolutionSAN "Rxb2 Rxf8+ Kxf8 Qd8#"]
+[FEN "R4bk1/5ppp/8/2pQ4/8/3p3P/1B2rqPK/8 b - - 5 39"]
+[SetUp "1"]
+
+39... Rxb2 40. Rxf8+ Kxf8 41. Qd8# *

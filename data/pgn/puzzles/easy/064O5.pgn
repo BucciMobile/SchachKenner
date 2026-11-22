@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "064O5"]
+[Difficulty "easy"]
+[Rating "1052"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/tntLoSok/black#60"]
+[Solution "f7f5 h6h7"]
+[SolutionSAN "f5 Qh7#"]
+[FEN "r3qrk1/2p1np2/1p1p3Q/pP1P2Np/P1P1P3/2Nn4/8/6K1 b - - 1 30"]
+[SetUp "1"]
+
+30... f5 31. Qh7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07iNC"]
+[Difficulty "hard"]
+[Rating "1960"]
+[Themes "crushing defensiveMove master middlegame short"]
+[GameUrl "https://lichess.org/game/2UUNXWyE/black#44"]
+[Solution "f7e6 e3h6 c8c7 c3h3"]
+[SolutionSAN "fxe6 Qxh6 Rc7 Rh3"]
+[FEN "2r2rk1/pb3p2/1p1pN1pp/2nPp3/2P3P1/qPR1Q3/5PBP/5RK1 b - - 3 22"]
+[SetUp "1"]
+
+22... fxe6 23. Qxh6 Rc7 24. Rh3 *

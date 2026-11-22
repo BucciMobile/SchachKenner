@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cvn8"]
+[Difficulty "easy"]
+[Rating "1162"]
+[Themes "advantage defensiveMove fork hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/RYhVt6zd/black#24"]
+[Solution "d8f6 e5d7 d6b4 e1e2"]
+[SolutionSAN "Qf6 Nxd7 Bb4+ Ke2"]
+[FEN "r2q1rk1/pp1n2pp/2pbp3/3pNp2/2PPn3/1P2P1P1/PB3P1P/R2QKB1R b KQ - 0 12"]
+[SetUp "1"]
+
+12... Qf6 13. Nxd7 Bb4+ 14. Ke2 *

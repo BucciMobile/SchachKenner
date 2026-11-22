@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03JVD"]
+[Difficulty "hard"]
+[Rating "2037"]
+[Themes "advancedPawn crushing endgame long pin promotion rookEndgame"]
+[GameUrl "https://lichess.org/game/WGbrUnZF#101"]
+[Solution "e2e1 a8e8 d2e2 h3h2 e2e8 h2h1q"]
+[SolutionSAN "Ke1 Re8+ Re2 h2 Rxe8 h1=Q+"]
+[FEN "r7/6P1/8/8/5p2/5P1p/3RK3/2k5 w - - 1 51"]
+[SetUp "1"]
+
+51. Ke1 Re8+ 52. Re2 h2 53. Rxe8 h1=Q+ *

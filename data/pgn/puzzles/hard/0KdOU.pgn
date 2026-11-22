@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KdOU"]
+[Difficulty "hard"]
+[Rating "1936"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/fSGsTQ9P/black#52"]
+[Solution "a1e1 e4f6 e7f6 c5e4"]
+[SolutionSAN "Qe1 Nxf6 exf6 Ne4"]
+[FEN "2b5/4p1kp/2p1pbp1/1pN1n3/1P2NQ2/3BP2P/2P3PK/q7 b - - 1 26"]
+[SetUp "1"]
+
+26... Qe1 27. Nxf6 exf6 28. Ne4 *

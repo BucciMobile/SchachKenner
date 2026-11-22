@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CYeG"]
+[Difficulty "hard"]
+[Rating "2203"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/knaQswXZ/black#118"]
+[Solution "f5f6 c6f6 g6f6 g3g4"]
+[SolutionSAN "Rf6 Rxf6+ Kxf6 g4"]
+[FEN "8/8/2R3kp/4prp1/8/3P2P1/2P3K1/8 b - - 2 59"]
+[SetUp "1"]
+
+59... Rf6 60. Rxf6+ Kxf6 61. g4 *

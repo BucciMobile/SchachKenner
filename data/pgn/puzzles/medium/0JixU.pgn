@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JixU"]
+[Difficulty "medium"]
+[Rating "1485"]
+[Themes "advantage attraction fork long master middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/SZgL8W2s/black#40"]
+[Solution "c8f5 c2f5 f6f5 c6e7 g8h8 e7f5"]
+[SolutionSAN "Bf5 Qxf5 Qxf5 Ne7+ Kh8 Nxf5"]
+[FEN "1rb2rk1/p4ppp/2N2q2/1pp5/1b6/1P3BP1/P1Q1PP1P/1R3RK1 b - - 3 20"]
+[SetUp "1"]
+
+20... Bf5 21. Qxf5 Qxf5 22. Ne7+ Kh8 23. Nxf5 *

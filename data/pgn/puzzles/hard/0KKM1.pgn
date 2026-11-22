@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KKM1"]
+[Difficulty "hard"]
+[Rating "2299"]
+[Themes "crushing fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/sd6ANSbo#61"]
+[Solution "c1c4 c7c4 a7b7 g7h6 b7f7 e3e1 g1g2 c4e4"]
+[SolutionSAN "Rxc4 Qxc4 Qxb7+ Kh6 Qf7 Re1+ Kg2 Qxe4+"]
+[FEN "8/Qbq3kp/1p1pB1p1/1P1Pp3/2n1N3/4r1P1/P6P/2R3K1 w - - 3 31"]
+[SetUp "1"]
+
+31. Rxc4 Qxc4 32. Qxb7+ Kh6 33. Qf7 Re1+ 34. Kg2 Qxe4+ *

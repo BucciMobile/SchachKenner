@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Hrh"]
+[Difficulty "medium"]
+[Rating "1462"]
+[Themes "advancedPawn crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/CfKfE5uX/black#50"]
+[Solution "e7g7 g6g7 g8g7 e6e7"]
+[SolutionSAN "Qg7 Qxg7+ Kxg7 e7"]
+[FEN "3r1rk1/ppp1q3/4P1Q1/2pPp3/2n3PP/8/PP6/2KR3R b - - 0 25"]
+[SetUp "1"]
+
+25... Qg7 26. Qxg7+ Kxg7 27. e7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HVM2"]
+[Difficulty "hard"]
+[Rating "2306"]
+[Themes "crushing deflection fork master middlegame veryLong"]
+[GameUrl "https://lichess.org/game/JClGZb1i/black#52"]
+[Solution "c7c2 g3g6 f7g6 d4e6 g7f7 f4h6 f7e6 h6f8"]
+[SolutionSAN "Qxc2 Rxg6+ fxg6 Nxe6+ Kf7 Qh6 Kxe6 Qxf8"]
+[FEN "5r2/2q2pk1/4b1p1/1p1pPp1p/r2N1Q1P/P5R1/2P2PP1/R5K1 b - - 1 26"]
+[SetUp "1"]
+
+26... Qxc2 27. Rxg6+ fxg6 28. Nxe6+ Kf7 29. Qh6 Kxe6 30. Qxf8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LvAr"]
+[Difficulty "medium"]
+[Rating "1649"]
+[Themes "advantage fork long middlegame skewer"]
+[GameUrl "https://lichess.org/game/gD6rgdgc#37"]
+[Solution "d3f5 g3f3 d2e2 f3h1 d1d2 h1a1"]
+[SolutionSAN "Bxf5 Qxf3+ Qe2 Qxh1+ Kd2 Qxa1"]
+[FEN "r3k2r/pp1n2p1/2p1p3/3pPn2/3P3p/2NB1PqN/PPPQ4/R2K3R w kq - 2 19"]
+[SetUp "1"]
+
+19. Bxf5 Qxf3+ 20. Qe2 Qxh1+ 21. Kd2 Qxa1 *

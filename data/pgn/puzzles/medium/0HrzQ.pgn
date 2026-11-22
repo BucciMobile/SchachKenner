@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HrzQ"]
+[Difficulty "medium"]
+[Rating "1496"]
+[Themes "advantage fork long opening"]
+[GameUrl "https://lichess.org/game/lCy4vsFz/black#20"]
+[Solution "e5c4 e2c4 b6c4 d1a4 d8d7 a4c4"]
+[SolutionSAN "Nexc4 Bxc4 Nxc4 Qa4+ Qd7 Qxc4"]
+[FEN "r2qk2r/ppp1bppp/1n1p4/3Pn3/2P3b1/2N2N2/PP2BPPP/R1BQK2R b KQkq - 2 10"]
+[SetUp "1"]
+
+10... Nexc4 11. Bxc4 Nxc4 12. Qa4+ Qd7 13. Qxc4 *

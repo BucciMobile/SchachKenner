@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Meji"]
+[Difficulty "medium"]
+[Rating "1401"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/B1XtDrzh/black#42"]
+[Solution "d6f6 b3d5 f6f3 d5f3"]
+[SolutionSAN "Qxf6 Bxd5 Qxf3 Bxf3"]
+[FEN "r4k1r/5b2/2pq1Bp1/1p1n4/3P3p/1B3Q2/PP3PPP/R4RK1 b - - 0 21"]
+[SetUp "1"]
+
+21... Qxf6 22. Bxd5 Qxf3 23. Bxf3 *

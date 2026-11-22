@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GGxh"]
+[Difficulty "hard"]
+[Rating "1731"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/PeVAZNdN/black#52"]
+[Solution "h5g5 f1f8 g8f8 g6f7"]
+[SolutionSAN "Rg5 Rf8+ Kxf8 Qf7#"]
+[FEN "6k1/p5p1/1pbN2Qp/7r/1P5q/2P1p2P/P5P1/5RK1 b - - 1 26"]
+[SetUp "1"]
+
+26... Rg5 27. Rf8+ Kxf8 28. Qf7# *

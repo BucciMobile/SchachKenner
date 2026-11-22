@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LRtk"]
+[Difficulty "hard"]
+[Rating "1900"]
+[Themes "advantage endgame fork long sacrifice"]
+[GameUrl "https://lichess.org/game/xvXSdXox/black#74"]
+[Solution "c8c7 d1d5 e6d5 b3b8 g8h7 b8c7"]
+[SolutionSAN "Rc7 Rxd5 exd5 Qb8+ Kh7 Qxc7"]
+[FEN "2r3k1/5pp1/3Np3/3nP2p/8/1Q3PPq/7P/3R2K1 b - - 1 37"]
+[SetUp "1"]
+
+37... Rc7 38. Rxd5 exd5 39. Qb8+ Kh7 40. Qxc7 *

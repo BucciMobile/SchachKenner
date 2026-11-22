@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00A1H"]
+[Difficulty "hard"]
+[Rating "2041"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/GeoPB5fa#61"]
+[Solution "f3g5 f5f4 h2g2 e7g5"]
+[SolutionSAN "Ng5 Qf4+ Kg2 Bxg5"]
+[FEN "2r3k1/4brp1/2p3b1/2Pp1q1p/3B3P/2P2N2/PP3P1K/R2Q2R1 w - - 1 31"]
+[SetUp "1"]
+
+31. Ng5 Qf4+ 32. Kg2 Bxg5 *

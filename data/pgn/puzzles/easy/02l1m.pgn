@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02l1m"]
+[Difficulty "easy"]
+[Rating "1072"]
+[Themes "hangingPiece kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/aapczfIc/black#46"]
+[Solution "e8e7 d5a8 e7e8 a8e8"]
+[SolutionSAN "Re7 Qxa8+ Re8 Qxe8#"]
+[FEN "r3r1k1/p4ppb/7p/1ppQn1q1/3p4/P2P4/BPP1N3/R3K2R b KQ - 1 23"]
+[SetUp "1"]
+
+23... Re7 24. Qxa8+ Re8 25. Qxe8# *

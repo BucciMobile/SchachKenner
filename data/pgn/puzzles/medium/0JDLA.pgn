@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JDLA"]
+[Difficulty "medium"]
+[Rating "1216"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/Zp4Asvpi#51"]
+[Solution "f5g5 a6a5 d4d5 a5d5"]
+[SolutionSAN "Kg5 Ra5+ d5 Rxd5#"]
+[FEN "6k1/1pp2pp1/r4r2/5K1p/2pP2PP/2P2P2/7R/2R3N1 w - - 1 26"]
+[SetUp "1"]
+
+26. Kg5 Ra5+ 27. d5 Rxd5# *

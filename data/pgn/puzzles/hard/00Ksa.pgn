@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Ksa"]
+[Difficulty "hard"]
+[Rating "1857"]
+[Themes "crushing endgame rookEndgame short trappedPiece"]
+[GameUrl "https://lichess.org/game/WynrZVil/black#92"]
+[Solution "g3g4 f2f3 g4g5 f4g5"]
+[SolutionSAN "Rg4 Kf3 Rg5 fxg5"]
+[FEN "8/5p2/5pk1/8/4PP2/6r1/5K2/7R b - - 2 46"]
+[SetUp "1"]
+
+46... Rg4 47. Kf3 Rg5 48. fxg5 *

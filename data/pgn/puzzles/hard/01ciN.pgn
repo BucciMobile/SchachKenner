@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01ciN"]
+[Difficulty "hard"]
+[Rating "1708"]
+[Themes "advancedPawn crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/jYh4O3xf/black#82"]
+[Solution "f6e6 c5c7 g7f6 d6d7 e6d7 c7d7"]
+[SolutionSAN "Qe6 Qc7+ Kf6 d7 Qxd7 Qxd7"]
+[FEN "8/1b4k1/3P1qpp/2Q5/8/5P2/6PK/8 b - - 4 41"]
+[SetUp "1"]
+
+41... Qe6 42. Qc7+ Kf6 43. d7 Qxd7 44. Qxd7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HADi"]
+[Difficulty "easy"]
+[Rating "1155"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/sVs3xMy5/black#152"]
+[Solution "f4f3 b7f7 f3e3 f7e7"]
+[SolutionSAN "Kf3 Rf7+ Ke3 Re7+"]
+[FEN "8/1R6/8/8/5kp1/8/4r3/5K2 b - - 8 76"]
+[SetUp "1"]
+
+76... Kf3 77. Rf7+ Ke3 78. Re7+ *

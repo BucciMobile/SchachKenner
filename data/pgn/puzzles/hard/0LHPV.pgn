@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LHPV"]
+[Difficulty "hard"]
+[Rating "2080"]
+[Themes "discoveredAttack kingsideAttack mate mateIn2 opening short"]
+[GameUrl "https://lichess.org/game/75XCp1ya#25"]
+[Solution "e2g4 e5f3 g1h1 d6h2"]
+[SolutionSAN "Bxg4 Nf3+ Kh1 Qxh2#"]
+[FEN "rb2k1nr/1p3ppp/p2q4/3pn3/3P2b1/2N5/PP2BPPP/R1BQ1RK1 w kq - 0 13"]
+[SetUp "1"]
+
+13. Bxg4 Nf3+ 14. Kh1 Qxh2# *

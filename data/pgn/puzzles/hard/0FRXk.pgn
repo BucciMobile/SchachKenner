@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FRXk"]
+[Difficulty "hard"]
+[Rating "1752"]
+[Themes "crushing fork middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/lfyT1DIi#51"]
+[Solution "g1e2 c7c2 b1a1 c2d1 h1d1 b4c2 a1b1 c2e3"]
+[SolutionSAN "Ne2 Qc2+ Ka1 Qxd1+ Rxd1 Nc2+ Kb1 Nxe3"]
+[FEN "2rr4/2q1kp2/p3pNp1/1p1P2Pp/1n5P/4QP2/PP6/1K1R2NR w - - 1 26"]
+[SetUp "1"]
+
+26. Ne2 Qc2+ 27. Ka1 Qxd1+ 28. Rxd1 Nc2+ 29. Kb1 Nxe3 *

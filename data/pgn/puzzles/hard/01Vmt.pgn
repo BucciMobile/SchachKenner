@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Vmt"]
+[Difficulty "hard"]
+[Rating "1897"]
+[Themes "advantage endgame fork long"]
+[GameUrl "https://lichess.org/game/5s5sChtc/black#44"]
+[Solution "g8g7 c2b2 c6d4 b2d4 d5d4 e3d4"]
+[SolutionSAN "Kg7 Qb2+ Nd4+ Qxd4+ Qxd4 exd4"]
+[FEN "6k1/3p1p1p/2n1p1p1/3q4/4N3/r3PP2/2Q1K1PP/1R6 b - - 2 22"]
+[SetUp "1"]
+
+22... Kg7 23. Qb2+ Nd4+ 24. Qxd4+ Qxd4 25. exd4 *

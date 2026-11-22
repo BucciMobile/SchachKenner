@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03r1E"]
+[Difficulty "easy"]
+[Rating "997"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/dCymrg5v#19"]
+[Solution "f1b5 e7b4 f3d2 b4b5"]
+[SolutionSAN "Bb5 Qb4+ Nd2 Qxb5"]
+[FEN "r3kb1r/ppp1qp1p/2n4p/4p3/8/4PN1P/PPP2PP1/R2QKB1R w KQkq - 0 10"]
+[SetUp "1"]
+
+10. Bb5 Qb4+ 11. Nd2 Qxb5 *

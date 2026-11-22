@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03fUR"]
+[Difficulty "medium"]
+[Rating "1638"]
+[Themes "advantage endgame long skewer"]
+[GameUrl "https://lichess.org/game/1XH2AIGO/black#54"]
+[Solution "c5g5 f4h4 f7f6 h4h8 g8f7 h8c8"]
+[SolutionSAN "Rg5 Qh4 f6 Qh8+ Kf7 Qxc8"]
+[FEN "2r3k1/p2pqpp1/1p6/2r5/5Q2/P2P3R/1P4PP/5R1K b - - 0 27"]
+[SetUp "1"]
+
+27... Rg5 28. Qh4 f6 29. Qh8+ Kf7 30. Qxc8 *

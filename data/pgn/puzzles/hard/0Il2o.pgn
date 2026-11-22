@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Il2o"]
+[Difficulty "hard"]
+[Rating "2260"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/XGH80N2z#75"]
+[Solution "c3d5 a7g7 g2h1 f6f3 d3d4 f3a3"]
+[SolutionSAN "Nd5 Rg7+ Kh1 Rf3 d4 Rxa3"]
+[FEN "7k/r7/P4r2/1p2b3/1P6/R1NP3P/2P2PK1/5R2 w - - 0 38"]
+[SetUp "1"]
+
+38. Nd5 Rg7+ 39. Kh1 Rf3 40. d4 Rxa3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JNwQ"]
+[Difficulty "medium"]
+[Rating "1317"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/KD8EAIpw/black#56"]
+[Solution "c7d6 f6e5"]
+[SolutionSAN "Kxd6 Be5#"]
+[FEN "r2r4/ppkb2Rp/2pQpB2/3p3B/3P4/2P5/q1PK2P1/8 b - - 9 28"]
+[SetUp "1"]
+
+28... Kxd6 29. Be5# *

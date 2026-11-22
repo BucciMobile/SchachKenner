@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DUKc"]
+[Difficulty "hard"]
+[Rating "2567"]
+[Themes "advantage fork middlegame trappedPiece veryLong"]
+[GameUrl "https://lichess.org/game/o2Hr1F9j/black#30"]
+[Solution "b7f3 h3f3 c3d5 a1e1 e8d8 e1e6 f7e6 c4d5 e6d6 d5a8"]
+[SolutionSAN "Bxf3 Qxf3 Nd5 Rae1 Kd8 Rxe6 Qxe6 Bxd5 Qd6 Bxa8"]
+[FEN "rn2k2r/pbp2q1p/1p2p3/5p2/2B5/2nP1N1Q/P1P2PPP/R4RK1 b kq - 1 15"]
+[SetUp "1"]
+
+15... Bxf3 16. Qxf3 Nd5 17. Rae1 Kd8 18. Rxe6 Qxe6 19. Bxd5 Qd6 20. Bxa8 *

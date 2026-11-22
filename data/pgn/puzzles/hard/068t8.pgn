@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "068t8"]
+[Difficulty "hard"]
+[Rating "2025"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/HWQ4zsS5#47"]
+[Solution "b2b4 d4b5 c3b3 c5c4"]
+[SolutionSAN "b4 Nb5 Qb3 Rxc4"]
+[FEN "2kr4/ppp1R1p1/2q2p2/2r4p/2Nn1P2/P1QP4/1PP4P/1K1R4 w - - 3 24"]
+[SetUp "1"]
+
+24. b4 Nb5 25. Qb3 Rxc4 *

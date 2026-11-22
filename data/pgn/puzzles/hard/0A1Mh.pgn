@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A1Mh"]
+[Difficulty "hard"]
+[Rating "2213"]
+[Themes "advancedPawn advantage endgame long quietMove rookEndgame"]
+[GameUrl "https://lichess.org/game/WtLex0EP/black#60"]
+[Solution "d4a4 c5c6 b7b6 b3c3 a6b5 c6c7"]
+[SolutionSAN "Rxa4 c6 b6 Rc3 axb5 c7"]
+[FEN "8/1p5p/p5p1/1PPk1p2/P2rpP2/1R5P/5PK1/8 b - - 0 30"]
+[SetUp "1"]
+
+30... Rxa4 31. c6 b6 32. Rc3 axb5 33. c7 *

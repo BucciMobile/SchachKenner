@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03fic"]
+[Difficulty "hard"]
+[Rating "1827"]
+[Themes "crushing endgame rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/tGeqinK4#87"]
+[Solution "d2d6 c6d6 c5d6 a6b6 d6d7 b6c7 d7d8q c7d8"]
+[SolutionSAN "Rd6 Rxd6 cxd6 Kb6 d7 Kc7 d8=Q+ Kxd8"]
+[FEN "8/6p1/k1r1p2p/p1P5/2K2PP1/4P3/3R4/8 w - - 6 44"]
+[SetUp "1"]
+
+44. Rd6 Rxd6 45. cxd6 Kb6 46. d7 Kc7 47. d8=Q+ Kxd8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02K8m"]
+[Difficulty "medium"]
+[Rating "1324"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/Skh3CREE/black#38"]
+[Solution "d8h4 d3h3 h4h3 g2h3"]
+[SolutionSAN "Qh4 Rh3 Qxh3 gxh3"]
+[FEN "r2q1rk1/p4ppp/1p2p3/4b3/8/P1NR4/1PQ2PPP/R5K1 b - - 1 19"]
+[SetUp "1"]
+
+19... Qh4 20. Rh3 Qxh3 21. gxh3 *

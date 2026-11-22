@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01sBy"]
+[Difficulty "hard"]
+[Rating "1990"]
+[Themes "crushing endgame long master rookEndgame"]
+[GameUrl "https://lichess.org/game/IEYU8CBE/black#70"]
+[Solution "b5b6 e6b6 c7b6 c4b5 f7e7 b5c6"]
+[SolutionSAN "Rb6 Rxb6 cxb6 Kb5 Ke7 Kc6"]
+[FEN "8/2p2k2/4R2p/1r1P2p1/2K3P1/8/7P/8 b - - 2 35"]
+[SetUp "1"]
+
+35... Rb6 36. Rxb6 cxb6 37. Kb5 Ke7 38. Kc6 *

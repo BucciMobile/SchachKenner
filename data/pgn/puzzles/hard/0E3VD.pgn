@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E3VD"]
+[Difficulty "hard"]
+[Rating "1968"]
+[Themes "crushing middlegame short skewer"]
+[GameUrl "https://lichess.org/game/u1VYcAJX/black#50"]
+[Solution "c8d8 d1d6 e4f3 e2e6"]
+[SolutionSAN "Kxd8 Rxd6 Bxf3 Qxe6"]
+[FEN "2kB3r/pq1n4/3bpp2/8/4b3/5NPp/1PP1QP1K/R2R4 b - - 1 25"]
+[SetUp "1"]
+
+25... Kxd8 26. Rxd6 Bxf3 27. Qxe6 *

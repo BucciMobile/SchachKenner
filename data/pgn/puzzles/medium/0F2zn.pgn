@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F2zn"]
+[Difficulty "medium"]
+[Rating "1303"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/L37zPv3x#21"]
+[Solution "h2h3 b7f3 h3g4 f3d1"]
+[SolutionSAN "h3 Bxf3 hxg4 Bxd1"]
+[FEN "r3kb1r/pb1npppp/1p1q4/1B6/3P2n1/5N2/PP3PPP/RNBQ1RK1 w kq - 1 11"]
+[SetUp "1"]
+
+11. h3 Bxf3 12. hxg4 Bxd1 *

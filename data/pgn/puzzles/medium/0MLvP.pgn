@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MLvP"]
+[Difficulty "medium"]
+[Rating "1214"]
+[Themes "crushing endgame sacrifice short"]
+[GameUrl "https://lichess.org/game/HFaCVjXa#53"]
+[Solution "g1h1 h5h3 g2h3 f2f3"]
+[SolutionSAN "Kh1 Rxh3+ gxh3 Qf3+"]
+[FEN "5r1k/pp4pp/3p4/7r/4R3/1QP4P/PP3qP1/3R2K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Kh1 Rxh3+ 28. gxh3 Qf3+ *

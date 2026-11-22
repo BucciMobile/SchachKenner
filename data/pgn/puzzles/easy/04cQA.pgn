@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04cQA"]
+[Difficulty "easy"]
+[Rating "1010"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/1qubY8P2#83"]
+[Solution "c7b6 h6h5 b6f2 d2f2"]
+[SolutionSAN "Qb6+ Kh5 Qf2 Rxf2"]
+[FEN "8/1pQ4p/7k/6p1/8/6Pq/PP1r3P/2R3K1 w - - 0 42"]
+[SetUp "1"]
+
+42. Qb6+ Kh5 43. Qf2 Rxf2 *

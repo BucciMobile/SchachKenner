@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Fln"]
+[Difficulty "medium"]
+[Rating "1663"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/MtDQ7Fwn/black#106"]
+[Solution "d6d5 d1h1 d3h3 h1h3"]
+[SolutionSAN "d5 Rh1+ Rh3 Rxh3#"]
+[FEN "8/8/3p4/2p2K1k/2P5/3r4/3p4/3R4 b - - 3 53"]
+[SetUp "1"]
+
+53... d5 54. Rh1+ Rh3 55. Rxh3# *

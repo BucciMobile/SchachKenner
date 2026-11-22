@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I5V5"]
+[Difficulty "medium"]
+[Rating "1356"]
+[Themes "advantage kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/bjBuuALQ#67"]
+[Solution "e5d5 f4h2 g1f1 h2h1"]
+[SolutionSAN "Qxd5 Qxh2+ Kf1 Qh1+"]
+[FEN "2kr3r/1p1b2p1/p7/3pQ1p1/1PP2q2/P7/2B2PPP/3RR1K1 w - - 1 34"]
+[SetUp "1"]
+
+34. Qxd5 Qxh2+ 35. Kf1 Qh1+ *

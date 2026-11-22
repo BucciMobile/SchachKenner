@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BL9l"]
+[Difficulty "easy"]
+[Rating "854"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/NsMFk4rD/black#76"]
+[Solution "g7g8 h3h8"]
+[SolutionSAN "Kg8 Rh8#"]
+[FEN "8/2p2rk1/1p6/p5q1/P2QP3/1P3rbR/2P2PK1/8 b - - 0 38"]
+[SetUp "1"]
+
+38... Kg8 39. Rh8# *

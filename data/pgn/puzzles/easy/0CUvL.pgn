@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CUvL"]
+[Difficulty "easy"]
+[Rating "1092"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/gxqxgVJ2/black#44"]
+[Solution "g8g7 f7f8 h8f8 f3f8"]
+[SolutionSAN "Rg7 Qf8+ Rxf8 Rxf8#"]
+[FEN "2k3rr/ppp1pQ2/8/4q3/7P/2P1PRp1/PP6/3R2K1 b - - 0 22"]
+[SetUp "1"]
+
+22... Rg7 23. Qf8+ Rxf8 24. Rxf8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MMx6"]
+[Difficulty "hard"]
+[Rating "2009"]
+[Themes "crushing endgame pawnEndgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/dzZuXFBW/black#108"]
+[Solution "h6g5 h4h5 g5g4 c5d4 g4g3 d4e3 g3g2 e3f2"]
+[SolutionSAN "hxg5 h5 g4 Kd4 g3 Ke3 g2 Kf2"]
+[FEN "8/8/k4p1p/P1K3P1/7P/8/8/8 b - - 0 54"]
+[SetUp "1"]
+
+54... hxg5 55. h5 g4 56. Kd4 g3 57. Ke3 g2 58. Kf2 *

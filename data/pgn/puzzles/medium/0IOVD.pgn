@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IOVD"]
+[Difficulty "medium"]
+[Rating "1587"]
+[Themes "mate mateIn1 oneMove opening pin"]
+[GameUrl "https://lichess.org/game/hUIcHAIy/black#40"]
+[Solution "e7d8 d6d7"]
+[SolutionSAN "Kd8 Qxd7#"]
+[FEN "1q3b1r/1brnkppp/3Qp3/B7/6PP/P4P2/1PP5/2KR1B1R b - - 0 20"]
+[SetUp "1"]
+
+20... Kd8 21. Qxd7# *

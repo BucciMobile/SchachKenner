@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03EgU"]
+[Difficulty "hard"]
+[Rating "2489"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/5LCeYXHf/black#54"]
+[Solution "d4d3 b1a2 d5d7 f4h6"]
+[SolutionSAN "d3 Ba2 Qd7 Bh6"]
+[FEN "3rr1k1/1b3pb1/p1n1p1p1/1pPqP3/1P1p1BP1/P4NK1/3Q1P2/1B2R2R b - - 5 27"]
+[SetUp "1"]
+
+27... d3 28. Ba2 Qd7 29. Bh6 *

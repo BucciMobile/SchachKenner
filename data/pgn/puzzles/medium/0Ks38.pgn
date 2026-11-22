@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ks38"]
+[Difficulty "medium"]
+[Rating "1601"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/hnCAdBLw#33"]
+[Solution "g1e2 c3d3 e4d3 b4d3"]
+[SolutionSAN "Ne2 Qxd3 Qxd3 Nxd3+"]
+[FEN "r4rk1/p3pp1p/3p2p1/2pP4/1nP1Q3/2qB4/P4KPP/1R4NR w - - 4 17"]
+[SetUp "1"]
+
+17. Ne2 Qxd3 18. Qxd3 Nxd3+ *

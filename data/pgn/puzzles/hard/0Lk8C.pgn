@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lk8C"]
+[Difficulty "hard"]
+[Rating "2091"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/lqPpbdVE/black#28"]
+[Solution "c2a1 h1e1 e8d8 c4e6"]
+[SolutionSAN "Nxa1 Re1+ Kd8 Be6"]
+[FEN "Q1b1kb1r/p1pq3p/3p2p1/8/2B5/8/PPnK1PPP/RN5R b k - 1 14"]
+[SetUp "1"]
+
+14... Nxa1 15. Re1+ Kd8 16. Be6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02eKr"]
+[Difficulty "hard"]
+[Rating "2219"]
+[Themes "advancedPawn advantage endgame short"]
+[GameUrl "https://lichess.org/game/9PhViUls#93"]
+[Solution "d1d2 e3d2 c4c5 f2c5"]
+[SolutionSAN "Rxd2 exd2 c5+ Bxc5"]
+[FEN "8/1p6/pk1r3p/8/2P5/1P2pQ2/P2q1bP1/3R3K w - - 8 47"]
+[SetUp "1"]
+
+47. Rxd2 exd2 48. c5+ Bxc5 *

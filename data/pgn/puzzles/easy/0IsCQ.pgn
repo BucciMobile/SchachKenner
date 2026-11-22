@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IsCQ"]
+[Difficulty "easy"]
+[Rating "833"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/D3XyRBpt#33"]
+[Solution "d4d5 e4f2 h1g1 f2d1"]
+[SolutionSAN "d5 Nf2+ Kg1 Nxd1"]
+[FEN "r4rk1/pp2pp1p/6pB/8/2RPn3/2P5/Pq4PP/RN1Q3K w - - 0 17"]
+[SetUp "1"]
+
+17. d5 Nf2+ 18. Kg1 Nxd1 *

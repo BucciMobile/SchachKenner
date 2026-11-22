@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "091SI"]
+[Difficulty "hard"]
+[Rating "2264"]
+[Themes "advantage kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/u9J0JAC5/black#52"]
+[Solution "d7e5 e2e5 d6e5 e7e8 a8e8 b3c5"]
+[SolutionSAN "Ne5 R2xe5 dxe5 Rxe8+ Rxe8 Nxc5"]
+[FEN "r3r1k1/3nRpp1/p2p4/1pnP4/5p2/1N3P2/PPP1R3/3K1B2 b - - 7 26"]
+[SetUp "1"]
+
+26... Ne5 27. R2xe5 dxe5 28. Rxe8+ Rxe8 29. Nxc5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03rlt"]
+[Difficulty "easy"]
+[Rating "995"]
+[Themes "endgame equality fork short"]
+[GameUrl "https://lichess.org/game/gKfrkV8O/black#78"]
+[Solution "g2h2 h6g4 e5d4 g4h2"]
+[SolutionSAN "Rxh2 Nxg4+ Kd4 Nxh2"]
+[FEN "8/pp6/2p4N/4k3/PPP3p1/3B1p2/6rP/4K3 b - - 0 39"]
+[SetUp "1"]
+
+39... Rxh2 40. Nxg4+ Kd4 41. Nxh2 *

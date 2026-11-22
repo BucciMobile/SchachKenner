@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Oui0"]
+[Difficulty "medium"]
+[Rating "1452"]
+[Themes "advantage middlegame short skewer"]
+[GameUrl "https://lichess.org/game/FjHAXQL0#47"]
+[Solution "a1e1 h8h3 g3f2 h3d3"]
+[SolutionSAN "Rae1 Rh3+ Kf2 Rxd3"]
+[FEN "r4k1r/pp3pp1/5n2/2pPR3/2P3p1/2NB2K1/PP6/R7 w - - 0 24"]
+[SetUp "1"]
+
+24. Rae1 Rh3+ 25. Kf2 Rxd3 *

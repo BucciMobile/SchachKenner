@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DopR"]
+[Difficulty "medium"]
+[Rating "1228"]
+[Themes "endgame mate mateIn1 oneMove pin"]
+[GameUrl "https://lichess.org/game/6gqjHLs1#61"]
+[Solution "g3f2 d1e1"]
+[SolutionSAN "Qxf2 Rxe1#"]
+[FEN "8/p1p2pkp/8/2P1P1p1/1P1q4/P1R3Q1/5rPP/3rR1K1 w - - 5 31"]
+[SetUp "1"]
+
+31. Qxf2 Rxe1# *

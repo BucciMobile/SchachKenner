@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FuWz"]
+[Difficulty "hard"]
+[Rating "2081"]
+[Themes "advantage attraction long opening pin sacrifice"]
+[GameUrl "https://lichess.org/game/GKjFn92m#23"]
+[Solution "e2f2 e5d5 d1d5 c5e3 f2e3 f4d5"]
+[SolutionSAN "Kf2 Qxd5 Qxd5 Bxe3+ Kxe3 Nxd5+"]
+[FEN "r1b1k2r/pppp1ppp/8/2bNq3/5n2/4BN2/PPP1K1PP/R2Q1B1R w kq - 4 12"]
+[SetUp "1"]
+
+12. Kf2 Qxd5 13. Qxd5 Bxe3+ 14. Kxe3 Nxd5+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "041Bo"]
+[Difficulty "easy"]
+[Rating "455"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/sD8w0FYB#65"]
+[Solution "f3d1 b1d1"]
+[SolutionSAN "Bd1 Rxd1#"]
+[FEN "8/3b3p/3p2pQ/8/2P2P2/3P1Bk1/P6p/1r5K w - - 1 33"]
+[SetUp "1"]
+
+33. Bd1 Rxd1# *

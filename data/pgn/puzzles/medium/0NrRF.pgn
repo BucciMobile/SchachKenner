@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NrRF"]
+[Difficulty "medium"]
+[Rating "1408"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/7LTAE1zh#57"]
+[Solution "f1g2 f6g4 a4e8 e2e8"]
+[SolutionSAN "Kg2 Ng4 Qxe8+ Qxe8"]
+[FEN "4r1k1/5pp1/5n2/7p/Q1Pp3P/3P2P1/4qP2/3RNK2 w - - 5 29"]
+[SetUp "1"]
+
+29. Kg2 Ng4 30. Qxe8+ Qxe8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05eFu"]
+[Difficulty "easy"]
+[Rating "661"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/D1ynDNxY/black#68"]
+[Solution "e8e4 g7g8 e4e8 g8e8"]
+[SolutionSAN "Rxe4 Rg8+ Re8 Rxe8#"]
+[FEN "1k2r3/pp4R1/3p3p/2pN4/4Pn1P/2P5/1PK5/8 b - - 2 34"]
+[SetUp "1"]
+
+34... Rxe4 35. Rg8+ Re8 36. Rxe8# *

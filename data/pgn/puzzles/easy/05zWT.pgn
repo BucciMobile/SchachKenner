@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05zWT"]
+[Difficulty "easy"]
+[Rating "664"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/wDulmMJN#65"]
+[Solution "a5a7 b4b1 d3b1 b8b1"]
+[SolutionSAN "Raa7 Rb1+ Bxb1 Rxb1#"]
+[FEN "1r4k1/2R3pp/3N1bn1/R1P5/1r1P4/3BPp1b/P4P1B/6K1 w - - 3 33"]
+[SetUp "1"]
+
+33. Raa7 Rb1+ 34. Bxb1 Rxb1# *

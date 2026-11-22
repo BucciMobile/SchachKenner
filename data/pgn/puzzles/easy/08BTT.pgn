@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08BTT"]
+[Difficulty "easy"]
+[Rating "1174"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/vd4urvCB/black#32"]
+[Solution "e4h4 f3f7 g8h8 f7g8"]
+[SolutionSAN "Rxh4 Qxf7+ Kh8 Qg8#"]
+[FEN "r2q1bk1/pppn1ppp/2np4/6P1/4r2N/1B2BQ1P/PPP2P2/R4RK1 b - - 1 16"]
+[SetUp "1"]
+
+16... Rxh4 17. Qxf7+ Kh8 18. Qg8# *

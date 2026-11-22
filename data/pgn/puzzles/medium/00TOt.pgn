@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00TOt"]
+[Difficulty "medium"]
+[Rating "1403"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/azv2NWmg#65"]
+[Solution "a5d2 d4d3 c2c3 f8b4"]
+[SolutionSAN "Qd2 d3+ Kc3 Bb4+"]
+[FEN "5bk1/5ppp/8/Q7/3p4/8/P1K1q2P/2R5 w - - 2 33"]
+[SetUp "1"]
+
+33. Qd2 d3+ 34. Kc3 Bb4+ *

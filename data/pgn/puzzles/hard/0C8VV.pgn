@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C8VV"]
+[Difficulty "hard"]
+[Rating "2326"]
+[Themes "advantage middlegame veryLong"]
+[GameUrl "https://lichess.org/game/BLugaQtZ#45"]
+[Solution "c4d5 b5b4 c3c4 c6a5 c4b5 a8b8 b5a5 g3c7"]
+[SolutionSAN "Bd5 b4+ Kc4 Na5+ Kb5 Rb8+ Kxa5 Bxc7+"]
+[FEN "r6k/p1N3pp/2n5/1pP2b2/2BP4/2K1RPb1/PP4q1/R2Q4 w - b6 0 23"]
+[SetUp "1"]
+
+23. Bd5 b4+ 24. Kc4 Na5+ 25. Kb5 Rb8+ 26. Kxa5 Bxc7+ *

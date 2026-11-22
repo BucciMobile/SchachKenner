@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02p9D"]
+[Difficulty "hard"]
+[Rating "1947"]
+[Themes "crushing enPassant endgame long"]
+[GameUrl "https://lichess.org/game/hKigyD3R/black#78"]
+[Solution "c1e3 e4e3 c6b5 c4b5 f7f5 e5f6"]
+[SolutionSAN "Bxe3 Kxe3 cxb5 cxb5 f5 exf6"]
+[FEN "8/p1k2p2/1pp1p3/1P2P2p/P1P1K3/4B2P/8/2b5 b - - 1 39"]
+[SetUp "1"]
+
+39... Bxe3 40. Kxe3 cxb5 41. cxb5 f5 42. exf6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HgUJ"]
+[Difficulty "medium"]
+[Rating "1439"]
+[Themes "advancedPawn crushing endgame pawnEndgame veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/BDAXiwBW#85"]
+[Solution "c1d2 a4b3 b4b5 a6b5 a5a6 b5b4 a6a7 b4c3 d2c1 d3d2"]
+[SolutionSAN "Kd2 Kb3 b5 axb5 a6 b4 a7 bxc3+ Kc1 d2+"]
+[FEN "8/8/p6p/P5p1/kPp2pP1/2Pp1P1P/8/2K5 w - - 2 43"]
+[SetUp "1"]
+
+43. Kd2 Kb3 44. b5 axb5 45. a6 b4 46. a7 bxc3+ 47. Kc1 d2+ *

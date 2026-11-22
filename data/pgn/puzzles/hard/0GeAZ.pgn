@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GeAZ"]
+[Difficulty "hard"]
+[Rating "2240"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/x3cxXp2j/black#24"]
+[Solution "c6d4 f3d4 g7d4 c3d5"]
+[SolutionSAN "Nxd4 Nxd4 Bxd4 Nxd5"]
+[FEN "r4rk1/pp2ppbp/2n3p1/q2p1b2/3PnB2/PQN2NP1/1P2PPBP/2R2RK1 b - - 2 12"]
+[SetUp "1"]
+
+12... Nxd4 13. Nxd4 Bxd4 14. Nxd5 *

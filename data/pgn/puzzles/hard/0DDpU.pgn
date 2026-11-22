@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DDpU"]
+[Difficulty "hard"]
+[Rating "1922"]
+[Themes "master middlegame"]
+[GameUrl "https://lichess.org/game/wO3TSc1U/black#66"]
+[Solution "b6c6 d6d7 e8d8 d2d6 c6d6 e5d6"]
+[SolutionSAN "Qc6 d7 Rd8 Rd6 Qxd6 Bxd6"]
+[FEN "4r3/1p3ppk/1q1P2b1/2p1B1Pp/p1B4P/P3Rp2/1P1R1K2/8 b - - 0 33"]
+[SetUp "1"]
+
+33... Qc6 34. d7 Rd8 35. Rd6 Qxd6 36. Bxd6 *

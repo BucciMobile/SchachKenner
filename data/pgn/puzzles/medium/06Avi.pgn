@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Avi"]
+[Difficulty "medium"]
+[Rating "1401"]
+[Themes "crushing fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/Uqi2ndZ8/black#40"]
+[Solution "g7e5 d4e5 d6e5 d5f6 g8g7 f6d7"]
+[SolutionSAN "Bxe5 Qxe5 dxe5 Nf6+ Kg7 Nxd7"]
+[FEN "r4rk1/1p1q1pbp/3p4/3NPp2/3Q4/5P2/PP4PP/2KR3R b - - 0 20"]
+[SetUp "1"]
+
+20... Bxe5 21. Qxe5 dxe5 22. Nf6+ Kg7 23. Nxd7 *

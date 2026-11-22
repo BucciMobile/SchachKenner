@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0L5eM"]
+[Difficulty "hard"]
+[Rating "2406"]
+[Themes "crushing defensiveMove endgame pin sacrifice veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/jMUGKmb1/black#54"]
+[Solution "h7h6 a7d7 d8d7 f4e5 e8d8 c6d7 d8d7 e5f6 g6g5 f6g6 d7e7 h2h3"]
+[SolutionSAN "h6 Rxd7 Rxd7 Ke5 Kd8 Bxd7 Kxd7 Kf6 g5 Kg6 Ke7 h3"]
+[FEN "3rk3/R2n3p/1pB1p1p1/2p2p2/2P2K2/1P2P1P1/7P/8 b - - 1 27"]
+[SetUp "1"]
+
+27... h6 28. Rxd7 Rxd7 29. Ke5 Kd8 30. Bxd7 Kxd7 31. Kf6 g5 32. Kg6 Ke7 33. h3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MgWN"]
+[Difficulty "medium"]
+[Rating "1343"]
+[Themes "advantage discoveredAttack long middlegame"]
+[GameUrl "https://lichess.org/game/zYblW1cz#43"]
+[Solution "g3g4 f5g4 f3g4 g6d3 c2d3 h7d3"]
+[SolutionSAN "g4 fxg4+ fxg4 Qxd3+ Qxd3 Bxd3"]
+[FEN "r4rk1/pp1n2pb/2p3qp/3p1p2/3P1P2/1P1B1PPK/PBQN4/R4R2 w - - 3 22"]
+[SetUp "1"]
+
+22. g4 fxg4+ 23. fxg4 Qxd3+ 24. Qxd3 Bxd3 *

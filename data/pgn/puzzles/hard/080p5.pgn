@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "080p5"]
+[Difficulty "hard"]
+[Rating "2191"]
+[Themes "crushing endgame master quietMove short"]
+[GameUrl "https://lichess.org/game/jp7hjfOl#101"]
+[Solution "g2f2 h5h4 f3f4 e5f4"]
+[SolutionSAN "Kf2 h4 f4 Bxf4"]
+[FEN "8/3k4/2R5/pP2b2p/P2p4/2p2P2/6K1/8 w - - 0 51"]
+[SetUp "1"]
+
+51. Kf2 h4 52. f4 Bxf4 *

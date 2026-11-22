@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JSqL"]
+[Difficulty "easy"]
+[Rating "1002"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/4l78SEub#43"]
+[Solution "d3d4 d6f4 d2f4 g5f4"]
+[SolutionSAN "d4 Bf4 Qxf4 gxf4"]
+[FEN "rq6/1bpn3k/1p1b1p1P/6p1/p7/2NP4/PPPQ1PP1/2KR3R w - - 1 22"]
+[SetUp "1"]
+
+22. d4 Bf4 23. Qxf4 gxf4 *

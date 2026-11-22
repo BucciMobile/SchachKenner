@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I6lu"]
+[Difficulty "easy"]
+[Rating "957"]
+[Themes "advantage endgame fork long"]
+[GameUrl "https://lichess.org/game/ZR4Hf8f8/black#146"]
+[Solution "e5c3 a2a8 g8h7 a8e4 g7g6 e4d3"]
+[SolutionSAN "Bc3 Qa8+ Kh7 Qe4+ g6 Qxd3"]
+[FEN "6k1/5pp1/4p2p/4b3/1p4P1/3r1P2/Q7/5K2 b - - 6 73"]
+[SetUp "1"]
+
+73... Bc3 74. Qa8+ Kh7 75. Qe4+ g6 76. Qxd3 *

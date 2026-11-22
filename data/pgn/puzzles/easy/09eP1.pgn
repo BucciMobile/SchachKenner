@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09eP1"]
+[Difficulty "easy"]
+[Rating "1050"]
+[Themes "endgame fork mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/nYr9UzRG#75"]
+[Solution "d5c4 a6a1 f3d1 a1d1"]
+[SolutionSAN "Bc4 Qa1+ Qd1 Qxd1#"]
+[FEN "7R/5p2/q2p2p1/3B2kp/4Pn2/1P3Q2/2P2PPb/5K2 w - - 7 38"]
+[SetUp "1"]
+
+38. Bc4 Qa1+ 39. Qd1 Qxd1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00ROK"]
+[Difficulty "medium"]
+[Rating "1346"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/EXabGwlP/black#66"]
+[Solution "f8f7 f5h7 f7f8 g4g8"]
+[SolutionSAN "Kxf7 Qh7+ Kf8 Rg8#"]
+[FEN "5k2/p1p2R2/1r2rp2/3p1Q2/2qP2R1/2P4P/6PK/4q3 b - - 0 33"]
+[SetUp "1"]
+
+33... Kxf7 34. Qh7+ Kf8 35. Rg8# *

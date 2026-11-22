@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GoLP"]
+[Difficulty "easy"]
+[Rating "1091"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/oX7JXmTw#71"]
+[Solution "f5d5 g8d5 e7d8 d5d4 g1f1 d4a1"]
+[SolutionSAN "Rxd5 Qxd5 Qxd8 Qd4+ Kf1 Qxa1+"]
+[FEN "3r2q1/1k1bQ3/p7/Pp1p1R1p/1P4p1/8/6PP/R5K1 w - - 0 36"]
+[SetUp "1"]
+
+36. Rxd5 Qxd5 37. Qxd8 Qd4+ 38. Kf1 Qxa1+ *

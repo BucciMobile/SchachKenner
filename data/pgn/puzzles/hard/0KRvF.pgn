@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KRvF"]
+[Difficulty "hard"]
+[Rating "1826"]
+[Themes "advancedPawn crushing defensiveMove endgame pawnEndgame veryLong"]
+[GameUrl "https://lichess.org/game/HsDmpclI#95"]
+[Solution "a3a4 e5f4 b4b5 e4e3 c4d3 f4f3 a4a5 e3e2 d3d2 f3f2"]
+[SolutionSAN "a4 Kf4 b5 e3 Kd3 Kf3 a5 e2 Kd2 Kf2"]
+[FEN "8/p7/8/4k3/1PK1p3/P7/8/8 w - - 0 48"]
+[SetUp "1"]
+
+48. a4 Kf4 49. b5 e3 50. Kd3 Kf3 51. a5 e2 52. Kd2 Kf2 *

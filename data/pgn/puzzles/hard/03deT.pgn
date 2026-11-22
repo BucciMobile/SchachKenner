@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03deT"]
+[Difficulty "hard"]
+[Rating "2296"]
+[Themes "attraction long mate mateIn3 middlegame pin"]
+[GameUrl "https://lichess.org/game/CHlpYjqc/black#34"]
+[Solution "e7f5 h1h5 f5h6 h5h6 h7h6 f7h5"]
+[SolutionSAN "Nexf5 Rxh5+ Nh6 Rxh6+ Kxh6 Qh5#"]
+[FEN "r2q1b1r/pp2nQpk/8/3P1N1p/2Pn1PP1/N2p2P1/PP6/R1B1K2R b KQ - 0 17"]
+[SetUp "1"]
+
+17... Nexf5 18. Rxh5+ Nh6 19. Rxh6+ Kxh6 20. Qh5# *

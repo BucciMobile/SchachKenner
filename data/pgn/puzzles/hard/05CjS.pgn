@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05CjS"]
+[Difficulty "hard"]
+[Rating "2815"]
+[Themes "crushing endgame exposedKing interference rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/rDkTTb30#73"]
+[Solution "c2d2 a4a3 c3c2 a3a2 c2d1 a2d2 d1d2 c5d5"]
+[SolutionSAN "Rd2 Ra3+ Kc2 Rxa2+ Kd1 Rxd2+ Kxd2 Kd5"]
+[FEN "8/p4pp1/7p/2k1P2P/r1p2P2/2K1P3/P1R2P2/8 w - - 0 37"]
+[SetUp "1"]
+
+37. Rd2 Ra3+ 38. Kc2 Rxa2+ 39. Kd1 Rxd2+ 40. Kxd2 Kd5 *

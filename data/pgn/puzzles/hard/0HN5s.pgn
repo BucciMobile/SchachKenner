@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HN5s"]
+[Difficulty "hard"]
+[Rating "1855"]
+[Themes "crushing endgame short trappedPiece"]
+[GameUrl "https://lichess.org/game/SnuXJ80A/black#88"]
+[Solution "d7c6 e3e4 f5f3 e4f3"]
+[SolutionSAN "Kc6 Ke4 Rxf3 Kxf3"]
+[FEN "1B6/3k1p2/8/p3Prp1/1pP5/1P2KPP1/P7/8 b - - 2 44"]
+[SetUp "1"]
+
+44... Kc6 45. Ke4 Rxf3 46. Kxf3 *

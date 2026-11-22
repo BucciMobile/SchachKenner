@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MKtC"]
+[Difficulty "hard"]
+[Rating "1827"]
+[Themes "advantage defensiveMove long middlegame pin"]
+[GameUrl "https://lichess.org/game/i31ajE4r#47"]
+[Solution "h2g2 g6f5 g4f5 f8g8 f5e6 h7h8"]
+[SolutionSAN "Qg2 gxf5 gxf5 Rg8 fxe6+ Kh8"]
+[FEN "1r3r2/5p1k/1p1qp1pp/p3bP2/2PpB1P1/3P3P/PP5Q/1R3RK1 w - - 1 24"]
+[SetUp "1"]
+
+24. Qg2 gxf5 25. gxf5 Rg8 26. fxe6+ Kh8 *

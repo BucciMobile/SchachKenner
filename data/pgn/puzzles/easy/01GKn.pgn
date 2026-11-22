@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01GKn"]
+[Difficulty "easy"]
+[Rating "948"]
+[Themes "crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/uBkKtvl9/black#40"]
+[Solution "c6b8 e4f6 e7f6 f1f6"]
+[SolutionSAN "Nb8 Nf6+ Qxf6 Rxf6"]
+[FEN "2r2rk1/pbb1qp1p/1pn1p1p1/8/1P1PN3/P2BP2R/2Q1N1PP/5RK1 b - - 3 20"]
+[SetUp "1"]
+
+20... Nb8 21. Nf6+ Qxf6 22. Rxf6 *

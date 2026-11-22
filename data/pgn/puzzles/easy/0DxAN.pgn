@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DxAN"]
+[Difficulty "easy"]
+[Rating "500"]
+[Themes "master mate mateIn1 middlegame oneMove operaMate"]
+[GameUrl "https://lichess.org/game/twwTGN1f#39"]
+[Solution "c1c6 e8e1"]
+[SolutionSAN "Qxc6 Re1#"]
+[FEN "1k2r2r/5ppp/2p2n2/3p4/1b6/1N1P3P/1P3PP1/2Q2K1R w - - 0 20"]
+[SetUp "1"]
+
+20. Qxc6 Re1# *

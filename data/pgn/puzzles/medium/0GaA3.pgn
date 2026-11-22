@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GaA3"]
+[Difficulty "medium"]
+[Rating "1459"]
+[Themes "advancedPawn advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/3LhlWOD7#35"]
+[Solution "e1g1 e4e3 g2g3 e3d2"]
+[SolutionSAN "O-O e3 g3 exd2"]
+[FEN "r3k3/p4p2/1pq1pnr1/8/3Pp2Q/P7/2PB1PPP/R3K2R w KQq - 0 18"]
+[SetUp "1"]
+
+18. O-O e3 19. g3 exd2 *

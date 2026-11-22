@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "095Ky"]
+[Difficulty "medium"]
+[Rating "1466"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/cHcJTJAU#59"]
+[Solution "f4g5 e7e5 h2h1 e5d4"]
+[SolutionSAN "fxg5 Qe5+ Kh1 Qxd4"]
+[FEN "2r5/1rpbqpbk/3p4/1p1P2p1/pP1NPPPp/P6P/2RQ2BK/2R5 w - - 0 30"]
+[SetUp "1"]
+
+30. fxg5 Qe5+ 31. Kh1 Qxd4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06g3S"]
+[Difficulty "easy"]
+[Rating "455"]
+[Themes "endgame mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/hb6MvCJb#83"]
+[Solution "e3c5 e8e1"]
+[SolutionSAN "Bc5 Re1#"]
+[FEN "4r3/2p5/2Rb2k1/p4p2/P7/4B2P/5PP1/6K1 w - - 0 42"]
+[SetUp "1"]
+
+42. Bc5 Re1# *

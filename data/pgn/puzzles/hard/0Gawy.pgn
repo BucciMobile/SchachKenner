@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gawy"]
+[Difficulty "hard"]
+[Rating "1966"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/MtcxqIz9#33"]
+[Solution "f3e5 h5g3 e5f7 f8f7"]
+[SolutionSAN "Nxe5 Nxg3 Nf7+ Rxf7"]
+[FEN "r1bq1r1k/pp5p/2nb4/3Qpppn/1P6/P1N1PNB1/2P1BPPP/R4RK1 w - - 1 17"]
+[SetUp "1"]
+
+17. Nxe5 Nxg3 18. Nf7+ Rxf7 *

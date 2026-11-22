@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02rad"]
+[Difficulty "hard"]
+[Rating "2099"]
+[Themes "crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/00NRF38H#77"]
+[Solution "f2f4 f8h8 h2g1 e2e1 g2f1 e1g3 f1g2 g3e1"]
+[SolutionSAN "f4 Rh8+ Kg1 Qe1+ Bf1 Qxg3+ Bg2 Qe1+"]
+[FEN "5r2/pp2Q3/4n1k1/3N1p2/2P5/1P4P1/P3qPBK/8 w - - 0 39"]
+[SetUp "1"]
+
+39. f4 Rh8+ 40. Kg1 Qe1+ 41. Bf1 Qxg3+ 42. Bg2 Qe1+ *

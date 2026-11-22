@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JJGH"]
+[Difficulty "easy"]
+[Rating "1001"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/epXUSKjR/black#80"]
+[Solution "b4d4 d2e3 d4e4 e3f3"]
+[SolutionSAN "Rxd4+ Ke3 Re4+ Kf3"]
+[FEN "8/R4P1p/4p1p1/3pP3/1r1P2PP/1p6/1k1K4/8 b - - 0 40"]
+[SetUp "1"]
+
+40... Rxd4+ 41. Ke3 Re4+ 42. Kf3 *

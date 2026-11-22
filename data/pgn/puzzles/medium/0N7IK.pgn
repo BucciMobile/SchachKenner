@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0N7IK"]
+[Difficulty "medium"]
+[Rating "1583"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/FN7Mcw3H/black#84"]
+[Solution "g5h4 b7e7 f7e7 g4f5 h4h3 d4e5"]
+[SolutionSAN "gxh4 Rxe7+ Kxe7 Kxf5 h3 Be5"]
+[FEN "8/1R2nkp1/2p5/5rp1/3B2KP/5P2/5P2/8 b - - 1 42"]
+[SetUp "1"]
+
+42... gxh4 43. Rxe7+ Kxe7 44. Kxf5 h3 45. Be5 *

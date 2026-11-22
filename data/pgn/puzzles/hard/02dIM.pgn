@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02dIM"]
+[Difficulty "hard"]
+[Rating "2177"]
+[Themes "attraction epauletteMate long master mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/qZp4t5tw/black#62"]
+[Solution "d8b8 h8g7 f8g7 h1h7 g7f8 h7f7"]
+[SolutionSAN "Rb8 Qg7+ Kxg7 Rh7+ Kf8 Rxf7#"]
+[FEN "3rrknQ/pR3p2/2pq4/3p1BP1/3P4/4P3/P7/1K5R b - - 2 31"]
+[SetUp "1"]
+
+31... Rb8 32. Qg7+ Kxg7 33. Rh7+ Kf8 34. Rxf7# *

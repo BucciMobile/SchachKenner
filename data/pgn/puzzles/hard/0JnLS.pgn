@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JnLS"]
+[Difficulty "hard"]
+[Rating "2010"]
+[Themes "crushing discoveredAttack endgame kingsideAttack long"]
+[GameUrl "https://lichess.org/game/1j46arny#49"]
+[Solution "c3c4 e7e1 d2e1 d5c4 b3c4 d6d4"]
+[SolutionSAN "c4 Rxe1+ Qxe1 dxc4 Bxc4 Qxd4+"]
+[FEN "6k1/1p2rpp1/2pq3p/p2p1b2/P2P4/1BP2P1P/1P1Q2P1/4R1K1 w - - 1 25"]
+[SetUp "1"]
+
+25. c4 Rxe1+ 26. Qxe1 dxc4 27. Bxc4 Qxd4+ *

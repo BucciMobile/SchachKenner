@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OKJP"]
+[Difficulty "medium"]
+[Rating "1230"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/CI7Earq3/black#60"]
+[Solution "g7f8 e4f6 g8h8 f6e8 f8c5 b4c5"]
+[SolutionSAN "Bf8 Nf6+ Kh8 Nxe8 Bxc5 bxc5"]
+[FEN "4r1k1/5pbp/2p5/1rB1p2p/1P2N3/7P/5PP1/3R2K1 b - - 0 30"]
+[SetUp "1"]
+
+30... Bf8 31. Nf6+ Kh8 32. Nxe8 Bxc5 33. bxc5 *

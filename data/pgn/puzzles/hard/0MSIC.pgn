@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MSIC"]
+[Difficulty "hard"]
+[Rating "1953"]
+[Themes "crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/XBVVRNOv#87"]
+[Solution "f3f4 g5f4 e3f4 d5d4 f4e4 d4c3"]
+[SolutionSAN "f4 gxf4+ Kxf4 d4 Ke4 dxc3"]
+[FEN "8/8/2p2k2/1pPp2p1/p5Pp/P1P1KP1P/8/8 w - - 1 44"]
+[SetUp "1"]
+
+44. f4 gxf4+ 45. Kxf4 d4 46. Ke4 dxc3 *

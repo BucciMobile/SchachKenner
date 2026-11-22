@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02fS6"]
+[Difficulty "hard"]
+[Rating "1726"]
+[Themes "discoveredCheck doubleCheck long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/0R4lKyDK#29"]
+[Solution "f1d3 a7a5 b4a3 d4c5 b2b4 a5b4"]
+[SolutionSAN "Qd3 a5+ Ka3 Bc5+ b4 axb4#"]
+[FEN "r1b2rk1/pppp1ppp/8/8/1KBbP3/6N1/PPq4P/R1B2Q1R w - - 0 15"]
+[SetUp "1"]
+
+15. Qd3 a5+ 16. Ka3 Bc5+ 17. b4 axb4# *

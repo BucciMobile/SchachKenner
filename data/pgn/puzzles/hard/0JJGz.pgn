@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JJGz"]
+[Difficulty "hard"]
+[Rating "2120"]
+[Themes "crushing endgame quietMove short"]
+[GameUrl "https://lichess.org/game/kuFe7bBo#47"]
+[Solution "d1d4 a8e8 d4a4 e6e5"]
+[SolutionSAN "Qd4 Re8 Qxa4 Qxe5"]
+[FEN "r5k1/1pp2p1p/4q3/bP2B3/p7/8/P4PPP/R2Q2K1 w - - 0 24"]
+[SetUp "1"]
+
+24. Qd4 Re8 25. Qxa4 Qxe5 *

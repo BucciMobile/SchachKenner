@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0INeh"]
+[Difficulty "easy"]
+[Rating "433"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/SMnpH0w6#37"]
+[Solution "e1f1 f8f1"]
+[SolutionSAN "Rxf1 Rxf1#"]
+[FEN "r4rk1/pPp3pp/3b4/4p3/4Q3/2N5/PPP3PP/4Rq1K w - - 2 19"]
+[SetUp "1"]
+
+19. Rxf1 Rxf1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03gMC"]
+[Difficulty "hard"]
+[Rating "2221"]
+[Themes "crushing endgame pawnEndgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/T8KusCmx/black#92"]
+[Solution "c6c5 b4b5 c5c4 a5b4 d6d5 b5b6 d5c6 b4c4"]
+[SolutionSAN "c5 b5 c4 Kb4 Kd5 b6 Kc6 Kxc4"]
+[FEN "8/8/2pk4/K5p1/1P4Pp/7P/8/8 b - - 1 46"]
+[SetUp "1"]
+
+46... c5 47. b5 c4 48. Kb4 Kd5 49. b6 Kc6 50. Kxc4 *

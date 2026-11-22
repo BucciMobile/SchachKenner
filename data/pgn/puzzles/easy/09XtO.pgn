@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09XtO"]
+[Difficulty "easy"]
+[Rating "776"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/s9YNyziS/black#92"]
+[Solution "g8f7 c6e5 f7e8 e5d7"]
+[SolutionSAN "Kf7 Ne5+ Ke8 Nxd7"]
+[FEN "6k1/p2r4/1pN1n2p/6p1/PPP2pP1/2B2P1P/2K5/8 b - - 0 46"]
+[SetUp "1"]
+
+46... Kf7 47. Ne5+ Ke8 48. Nxd7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NbTd"]
+[Difficulty "medium"]
+[Rating "1550"]
+[Themes "advantage clearance long middlegame"]
+[GameUrl "https://lichess.org/game/tQSmOLJk#29"]
+[Solution "f6h6 d4f2 e1d1 c5e3 h6e3 f2e3"]
+[SolutionSAN "Qxh6 Qf2+ Kd1 Be3 Qxe3 Qxe3"]
+[FEN "r4rk1/pp1n1p2/2p2Q1p/2b1p3/B2qP3/2NP3P/PPP3P1/R3K2R w KQ - 1 15"]
+[SetUp "1"]
+
+15. Qxh6 Qf2+ 16. Kd1 Be3 17. Qxe3 Qxe3 *

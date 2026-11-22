@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04qXp"]
+[Difficulty "hard"]
+[Rating "2481"]
+[Themes "advantage discoveredAttack middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/ct90FKBK/black#38"]
+[Solution "b2a3 c3d5 a3d3 c2c8"]
+[SolutionSAN "Qxa3 Nxd5 Qxd3 Rxc8+"]
+[FEN "2r3k1/pp2rp1p/4b1p1/n2p4/3Pn2N/P1NQ3P/1qR2PP1/1B2R1K1 b - - 1 19"]
+[SetUp "1"]
+
+19... Qxa3 20. Nxd5 Qxd3 21. Rxc8+ *

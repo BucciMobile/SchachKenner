@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09zVa"]
+[Difficulty "medium"]
+[Rating "1245"]
+[Themes "advantage middlegame quietMove short"]
+[GameUrl "https://lichess.org/game/aPpkBTPA#37"]
+[Solution "g1g2 e5g4 d1g4 h4g4"]
+[SolutionSAN "Kg2 Ng4 Qxg4 Qxg4"]
+[FEN "r4rk1/1p3pbp/p1n3p1/2p1n3/P2pPN1q/3P2N1/BPP5/R2QBRK1 w - - 2 19"]
+[SetUp "1"]
+
+19. Kg2 Ng4 20. Qxg4 Qxg4 *

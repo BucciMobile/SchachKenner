@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08R87"]
+[Difficulty "hard"]
+[Rating "1966"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/vhzauE5F#65"]
+[Solution "f2f4 b1b2 f1f2 b2d2"]
+[SolutionSAN "f4 Rb2 Rf2 Rxd2"]
+[FEN "1r4k1/2p2ppp/8/1q1P4/7P/P3P3/3Q1PP1/1r1RKR2 w - - 14 33"]
+[SetUp "1"]
+
+33. f4 Rb2 34. Rf2 Rxd2 *

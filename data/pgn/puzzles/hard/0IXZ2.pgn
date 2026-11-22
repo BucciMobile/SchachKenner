@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IXZ2"]
+[Difficulty "hard"]
+[Rating "1779"]
+[Themes "advancedPawn advantage endgame long"]
+[GameUrl "https://lichess.org/game/BynolU87#111"]
+[Solution "g5g6 b5b6 g6h7 b6h6 h7h6 a3b2"]
+[SolutionSAN "Kg6 Rb6+ Kh7 Rxh6+ Kxh6 axb2"]
+[FEN "5k2/6R1/7R/1r4K1/3pP3/pp1P2pB/1P6/8 w - - 8 56"]
+[SetUp "1"]
+
+56. Kg6 Rb6+ 57. Kh7 Rxh6+ 58. Kxh6 axb2 *

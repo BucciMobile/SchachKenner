@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CNbv"]
+[Difficulty "easy"]
+[Rating "1023"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/OkTXmjFv/black#56"]
+[Solution "f7f5 g1h1"]
+[SolutionSAN "f5 Rh1#"]
+[FEN "5r1k/p1p2p2/1p2p3/6R1/2P1r1p1/5pK1/P1P2P2/6R1 b - - 1 28"]
+[SetUp "1"]
+
+28... f5 29. Rh1# *

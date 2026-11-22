@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hzp5"]
+[Difficulty "medium"]
+[Rating "1564"]
+[Themes "master mate mateIn1 middlegame oneMove pin"]
+[GameUrl "https://lichess.org/game/K12VeIv9#33"]
+[Solution "g5e3 a1d1"]
+[SolutionSAN "Be3 Qxd1#"]
+[FEN "r1b1kr2/pp4p1/2pp2p1/3Pp1B1/2P1P2P/6Q1/P4NP1/q2N1K1R w q - 2 17"]
+[SetUp "1"]
+
+17. Be3 Qxd1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EZGn"]
+[Difficulty "hard"]
+[Rating "1829"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/XcP96lcc#43"]
+[Solution "c3d3 c5c2 d3d4 a3c5"]
+[SolutionSAN "Kd3 Qc2+ Kxd4 Bc5#"]
+[FEN "5k1r/pp4p1/5pp1/2qN4/3n2PP/b1K1Q3/P2B1P2/3R3R w - - 3 22"]
+[SetUp "1"]
+
+22. Kd3 Qc2+ 23. Kxd4 Bc5# *

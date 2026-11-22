@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CTwf"]
+[Difficulty "medium"]
+[Rating "1649"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/2bjiQAas#29"]
+[Solution "f2f4 e6g4 h5f7 g8g7"]
+[SolutionSAN "f4 Bg4 Qxf7 Rg7"]
+[FEN "r2q1brk/p4p1p/2p1bp2/2pp3Q/7N/1PN5/P1PP1PPP/4RRK1 w - - 10 15"]
+[SetUp "1"]
+
+15. f4 Bg4 16. Qxf7 Rg7 *

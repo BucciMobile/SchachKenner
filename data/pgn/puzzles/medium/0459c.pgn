@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0459c"]
+[Difficulty "medium"]
+[Rating "1356"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/OmB5yZhu/black#104"]
+[Solution "b3b2 f2e1 b2b1 e1d2"]
+[SolutionSAN "Rb2+ Ke1 Rb1+ Kd2"]
+[FEN "6R1/P7/8/5k2/5pp1/1r6/5K2/8 b - - 0 52"]
+[SetUp "1"]
+
+52... Rb2+ 53. Ke1 Rb1+ 54. Kd2 *

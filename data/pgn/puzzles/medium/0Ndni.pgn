@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ndni"]
+[Difficulty "medium"]
+[Rating "1573"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/SJ5L52Mk#35"]
+[Solution "h2e5 d7e5 f3e5 d8d5"]
+[SolutionSAN "Bxe5 Nxe5 Nxe5 Qxd5"]
+[FEN "r2q1r1k/p1pn2np/1p3bp1/3Qpp2/2P5/P1N1PN1P/1P3PPB/2R2RK1 w - - 2 18"]
+[SetUp "1"]
+
+18. Bxe5 Nxe5 19. Nxe5 Qxd5 *

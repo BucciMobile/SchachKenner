@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Iik0"]
+[Difficulty "easy"]
+[Rating "1167"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/ooYj3qly/black#56"]
+[Solution "d7h7 h6f8"]
+[SolutionSAN "Rh7 Qf8#"]
+[FEN "r1b4k/pp1r4/2p2N1Q/5q2/8/1P5P/P5P1/R6K b - - 0 28"]
+[SetUp "1"]
+
+28... Rh7 29. Qf8# *

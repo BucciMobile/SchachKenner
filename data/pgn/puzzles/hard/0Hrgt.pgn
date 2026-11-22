@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hrgt"]
+[Difficulty "hard"]
+[Rating "1954"]
+[Themes "arabianMate exposedKing kingsideAttack long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/ffMfALDi#55"]
+[Solution "h2h3 e2g3 f2g3 h5h3 g2h3 c2h2"]
+[SolutionSAN "h3 Nxg3+ fxg3 Qxh3+ Bxh3 Rh2#"]
+[FEN "5Nk1/pp3pp1/7p/7q/1P6/P4nP1/2r1nPBP/R1B2Q1K w - - 1 28"]
+[SetUp "1"]
+
+28. h3 Nxg3+ 29. fxg3 Qxh3+ 30. Bxh3 Rh2# *

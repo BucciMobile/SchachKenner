@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05OIA"]
+[Difficulty "medium"]
+[Rating "1669"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/XwZohdyg/black#78"]
+[Solution "f5f4 g5h3"]
+[SolutionSAN "Kxf4 Nh3#"]
+[FEN "5n2/p3n2Q/2p2q2/2PpNkNp/3P1P2/8/P4PK1/8 b - - 6 39"]
+[SetUp "1"]
+
+39... Kxf4 40. Nh3# *

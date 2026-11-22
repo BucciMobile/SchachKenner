@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MDIq"]
+[Difficulty "medium"]
+[Rating "1355"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/SFemsfGS#79"]
+[Solution "f6h4 g6g5 h4g5 g4g5"]
+[SolutionSAN "Bxh4 g5 Bxg5 Rxg5"]
+[FEN "8/1kb5/p4Bp1/5p2/6rp/PK2P3/5P2/7R w - - 2 40"]
+[SetUp "1"]
+
+40. Bxh4 g5 41. Bxg5 Rxg5 *

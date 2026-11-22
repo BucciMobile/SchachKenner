@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DJPN"]
+[Difficulty "easy"]
+[Rating "1196"]
+[Themes "advancedPawn endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/K6t2ugO1/black#88"]
+[Solution "d4e5 h6h7 g8h8 f7f8"]
+[SolutionSAN "Bxe5 h7+ Kh8 Rf8#"]
+[FEN "r3n1k1/3R1R2/1pr3pP/4BpP1/3b4/8/3K4/8 b - - 5 44"]
+[SetUp "1"]
+
+44... Bxe5 45. h7+ Kh8 46. Rf8# *

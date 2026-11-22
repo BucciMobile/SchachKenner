@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G8TI"]
+[Difficulty "easy"]
+[Rating "822"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/DMtaAdcc#31"]
+[Solution "f2f1 b6f2"]
+[SolutionSAN "Kf1 Qf2#"]
+[FEN "r4rk1/4ppbp/bqpp2p1/pp6/4P3/P1Pn1NNP/1PB2KP1/R1BQR3 w - - 0 16"]
+[SetUp "1"]
+
+16. Kf1 Qf2# *

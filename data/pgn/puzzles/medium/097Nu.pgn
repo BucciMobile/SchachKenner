@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "097Nu"]
+[Difficulty "medium"]
+[Rating "1638"]
+[Themes "crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/fHGI1fdg/black#32"]
+[Solution "d8f6 f3g5 f6g5 h6g5"]
+[SolutionSAN "Bf6 Ng5 Bxg5 Qxg5+"]
+[FEN "r1bb1rk1/2qn1p2/p1pp3Q/1p2p3/3PP3/2PB1N2/PP3PPP/R3R1K1 b - - 0 16"]
+[SetUp "1"]
+
+16... Bf6 17. Ng5 Bxg5 18. Qxg5+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gise"]
+[Difficulty "hard"]
+[Rating "2398"]
+[Themes "advantage discoveredAttack middlegame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/ovirZIeC#67"]
+[Solution "g1h1 c7a5 h5f5 a5e1 h1g2 e6e5 h6g7 c8f5 g7g8 e8d7"]
+[SolutionSAN "Kh1 Qa5 Rxf5 Qxe1+ Kg2 e5 Qxg7 Bxf5 Qg8+ Kd7"]
+[FEN "2b1k3/1pq3rB/p1p1p1PQ/5r1R/2P2p2/1P3n2/PB3P1P/4R1K1 w - - 4 34"]
+[SetUp "1"]
+
+34. Kh1 Qa5 35. Rxf5 Qxe1+ 36. Kg2 e5 37. Qxg7 Bxf5 38. Qg8+ Kd7 *

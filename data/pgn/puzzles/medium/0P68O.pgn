@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0P68O"]
+[Difficulty "medium"]
+[Rating "1548"]
+[Themes "advantage hangingPiece intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/V96E6qJQ#45"]
+[Solution "d1d5 a5e1 g1g2 f6d5"]
+[SolutionSAN "Rxd5 Qxe1+ Kg2 Nxd5"]
+[FEN "5rk1/1p3ppp/5n2/q2r4/5B2/pP3QP1/P4P1P/3RR1K1 w - - 0 23"]
+[SetUp "1"]
+
+23. Rxd5 Qxe1+ 24. Kg2 Nxd5 *

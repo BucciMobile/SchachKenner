@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LbTs"]
+[Difficulty "hard"]
+[Rating "1748"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/SO6nR50m/black#64"]
+[Solution "f5g5 b2c1 e4e3 c1e3"]
+[SolutionSAN "Kg5 Bc1+ e3 Bxe3#"]
+[FEN "6r1/3b2rp/p1p2n1R/4pk2/4p1P1/1P5P/PB3P2/4R1K1 b - - 0 32"]
+[SetUp "1"]
+
+32... Kg5 33. Bc1+ e3 34. Bxe3# *

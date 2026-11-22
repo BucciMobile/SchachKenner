@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07nKJ"]
+[Difficulty "hard"]
+[Rating "1996"]
+[Themes "advantage middlegame quietMove short"]
+[GameUrl "https://lichess.org/game/PvuQ4ddw/black#70"]
+[Solution "d8d3 g3h4 g6h5 h4h5"]
+[SolutionSAN "Rd3 Qh4 Qxh5 Qxh5"]
+[FEN "3r1rk1/1p3pp1/p1b3q1/P6R/6N1/2P3Q1/6P1/4R2K b - - 0 35"]
+[SetUp "1"]
+
+35... Rd3 36. Qh4 Qxh5 37. Qxh5 *

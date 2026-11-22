@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01iJG"]
+[Difficulty "hard"]
+[Rating "1799"]
+[Themes "advantage intermezzo middlegame pin short"]
+[GameUrl "https://lichess.org/game/jJOMKhEt/black#32"]
+[Solution "a6c4 a1a8 d8a8 d2c4"]
+[SolutionSAN "Bxc4 Rxa8 Qxa8 Nxc4"]
+[FEN "r2q1k1r/4ppbp/bp1p1np1/3P4/2P5/5N2/1P1N1PPP/R1B1QRK1 b - - 1 16"]
+[SetUp "1"]
+
+16... Bxc4 17. Rxa8 Qxa8 18. Nxc4 *

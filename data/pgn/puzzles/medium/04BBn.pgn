@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04BBn"]
+[Difficulty "medium"]
+[Rating "1411"]
+[Themes "attraction crushing doubleCheck intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/ozbgYchS/black#48"]
+[Solution "h6h3 d5e6 d7e6 d3h3"]
+[SolutionSAN "Qxh3 Bxe6+ Kxe6 Qxh3+"]
+[FEN "r5r1/1p1k1p2/p3b2q/3Bb3/8/P2Q3P/1P3PP1/R4RK1 b - - 0 24"]
+[SetUp "1"]
+
+24... Qxh3 25. Bxe6+ Kxe6 26. Qxh3+ *

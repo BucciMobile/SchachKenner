@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Eini"]
+[Difficulty "hard"]
+[Rating "2324"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/qeXkmL88/black#72"]
+[Solution "g4g3 d2f4 g3h3 h1g2"]
+[SolutionSAN "Rg3 Bf4 Rxh3+ Kg2"]
+[FEN "5k2/5P2/1pp1p3/p6p/2Pb2r1/1P5P/3B4/5R1K b - - 0 36"]
+[SetUp "1"]
+
+36... Rg3 37. Bf4 Rxh3+ 38. Kg2 *

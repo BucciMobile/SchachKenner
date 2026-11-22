@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02l3n"]
+[Difficulty "easy"]
+[Rating "980"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/HpAK0CHe/black#64"]
+[Solution "d2d4 f1f2 f4f2 g3f2"]
+[SolutionSAN "Rdd4 Rxf2 Rxf2 Kxf2"]
+[FEN "5k2/p6p/2p3p1/4p3/2B2r2/6KP/P2r1nP1/2R2R2 b - - 0 32"]
+[SetUp "1"]
+
+32... Rdd4 33. Rxf2 Rxf2 34. Kxf2 *

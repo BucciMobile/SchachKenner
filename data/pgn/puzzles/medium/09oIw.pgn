@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09oIw"]
+[Difficulty "medium"]
+[Rating "1229"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/INLIM3BF#41"]
+[Solution "e2d1 h3f1"]
+[SolutionSAN "Bd1 Qxf1#"]
+[FEN "2k5/ppp2ppp/2n4r/4p3/PP6/2PPbPPq/2Q1B2P/R4R1K w - - 1 21"]
+[SetUp "1"]
+
+21. Bd1 Qxf1# *

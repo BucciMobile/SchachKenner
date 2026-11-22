@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0L7Fv"]
+[Difficulty "hard"]
+[Rating "2282"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/QRlbwgP2#77"]
+[Solution "f3g2 a7a5 b4a5 b6a5 g2e4 d7b6"]
+[SolutionSAN "Bg2 a5 bxa5 bxa5 Be4 Nb6"]
+[FEN "8/p1pn4/1p1p4/3Pk1p1/PPP3P1/4KB2/8/8 w - - 1 39"]
+[SetUp "1"]
+
+39. Bg2 a5 40. bxa5 bxa5 41. Be4 Nb6 *

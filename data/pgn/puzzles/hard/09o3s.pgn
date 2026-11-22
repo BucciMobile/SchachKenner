@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09o3s"]
+[Difficulty "hard"]
+[Rating "2039"]
+[Themes "crushing hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/piWx8eIp#47"]
+[Solution "d5c5 g4d1 c1d2 d1a1"]
+[SolutionSAN "Qxc5 Qxd1 Bd2 Qxa1"]
+[FEN "3r2k1/1p3ppp/p2Nr3/2pQ4/4P1q1/4K3/PP3PP1/R1BR4 w - - 5 24"]
+[SetUp "1"]
+
+24. Qxc5 Qxd1 25. Bd2 Qxa1 *

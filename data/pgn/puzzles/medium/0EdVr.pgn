@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EdVr"]
+[Difficulty "medium"]
+[Rating "1258"]
+[Themes "mate mateIn2 middlegame operaMate sacrifice short"]
+[GameUrl "https://lichess.org/game/BGPkXWaI/black#30"]
+[Solution "c8b7 f3f8 h8f8 f2f8"]
+[SolutionSAN "Bb7 Qf8+ Rxf8 Rxf8#"]
+[FEN "r1b1k2r/p1pq2p1/1pn1p1p1/3pP2p/3P4/B1P2Q2/P1P2RPP/R5K1 b kq - 1 15"]
+[SetUp "1"]
+
+15... Bb7 16. Qf8+ Rxf8 17. Rxf8# *

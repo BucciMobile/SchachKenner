@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IzPt"]
+[Difficulty "hard"]
+[Rating "2464"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/PhvNVbWC/black#104"]
+[Solution "d4d2 g6f6 d2d6 f6e5 d6d7 b5d7"]
+[SolutionSAN "Rd2 Kf6 Rd6+ Ke5 Rxd7 Bxd7"]
+[FEN "5k2/3P1P2/6Kp/1B4p1/1p1r2P1/1P6/8/8 b - - 2 52"]
+[SetUp "1"]
+
+52... Rd2 53. Kf6 Rd6+ 54. Ke5 Rxd7 55. Bxd7 *

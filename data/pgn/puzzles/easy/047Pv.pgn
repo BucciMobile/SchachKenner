@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "047Pv"]
+[Difficulty "easy"]
+[Rating "503"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/gpmiOkiu/black#64"]
+[Solution "d8a8 e3e8 a8e8 e1e8"]
+[SolutionSAN "Ra8 Re8+ Rxe8 Rxe8#"]
+[FEN "3r2k1/5ppp/8/8/P7/2P1R2P/3r4/4R1K1 b - - 0 32"]
+[SetUp "1"]
+
+32... Ra8 33. Re8+ Rxe8 34. Rxe8# *

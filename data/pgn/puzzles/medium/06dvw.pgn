@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06dvw"]
+[Difficulty "medium"]
+[Rating "1273"]
+[Themes "advancedPawn advantage endgame long pin"]
+[GameUrl "https://lichess.org/game/BXerq0LJ#49"]
+[Solution "e1e2 f4f3 d4g4 g5g4 h3g4 f3e2"]
+[SolutionSAN "Re2 f3 Qg4 Qxg4 hxg4 fxe2"]
+[FEN "5rk1/ppb2p1p/2p3p1/6q1/3Q1p2/P1PP3P/1P3PP1/R3R1K1 w - - 4 25"]
+[SetUp "1"]
+
+25. Re2 f3 26. Qg4 Qxg4 27. hxg4 fxe2 *

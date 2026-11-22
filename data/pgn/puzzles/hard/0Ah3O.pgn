@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ah3O"]
+[Difficulty "hard"]
+[Rating "2374"]
+[Themes "attraction capturingDefender crushing kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/pKAJsstI#51"]
+[Solution "e1f1 h4f2 f1f2 f8f2 g1f2 h3h2"]
+[SolutionSAN "Rf1 Bxf2+ Rxf2 Rxf2 Kxf2 Qxh2+"]
+[FEN "1r3rk1/6pp/3p4/p1p1p3/1pP4b/1P1P3q/P3BP1N/1R1QR1K1 w - - 2 26"]
+[SetUp "1"]
+
+26. Rf1 Bxf2+ 27. Rxf2 Rxf2 28. Kxf2 Qxh2+ *

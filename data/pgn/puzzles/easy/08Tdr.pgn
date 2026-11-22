@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Tdr"]
+[Difficulty "easy"]
+[Rating "1016"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/qQiSg3WW#33"]
+[Solution "e2c3 d6f4 c1b1 f4e3"]
+[SolutionSAN "Nc3 Bf4 Kb1 Bxe3"]
+[FEN "q4rk1/p5pp/np1b4/2p5/8/4Q3/PPP1NP1P/2KR2R1 w - - 0 17"]
+[SetUp "1"]
+
+17. Nc3 Bf4 18. Kb1 Bxe3 *

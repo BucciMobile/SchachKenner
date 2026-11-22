@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Chz"]
+[Difficulty "easy"]
+[Rating "974"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/7IEZDBmE#39"]
+[Solution "e6f6 e7e1 g1h2 d8f6"]
+[SolutionSAN "Rxf6 Re1+ Kh2 Qxf6"]
+[FEN "r2q2k1/1pp1r2p/p3Rnp1/2p5/3p2Q1/7P/PPP2PP1/R1B3K1 w - - 0 20"]
+[SetUp "1"]
+
+20. Rxf6 Re1+ 21. Kh2 Qxf6 *

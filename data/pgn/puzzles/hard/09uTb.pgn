@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09uTb"]
+[Difficulty "hard"]
+[Rating "2716"]
+[Themes "advantage defensiveMove long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/bVkr9iOP/black#50"]
+[Solution "g7d4 e3d4 b6b5 c3e3 b5e8 d4f6"]
+[SolutionSAN "Bxd4 Bxd4 Qxb5 Qe3 Qe8 Bf6"]
+[FEN "5rk1/ppr2pbp/1q1p2p1/1R1P1b2/2PNp3/1PQ1B2P/5PP1/5RK1 b - - 5 25"]
+[SetUp "1"]
+
+25... Bxd4 26. Bxd4 Qxb5 27. Qe3 Qe8 28. Bf6 *

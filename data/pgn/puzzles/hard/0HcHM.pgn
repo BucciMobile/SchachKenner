@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HcHM"]
+[Difficulty "hard"]
+[Rating "1841"]
+[Themes "crushing defensiveMove endgame exposedKing long"]
+[GameUrl "https://lichess.org/game/mved8WLz#93"]
+[Solution "c7c6 g6g7 a4d1 d3e3 c1c2 e3e4"]
+[SolutionSAN "Rc6+ Kg7 Qd1 Qe3+ Kc2 Qe4+"]
+[FEN "8/2R2b2/6kp/6p1/Q4pP1/2pq3P/8/2K5 w - - 0 47"]
+[SetUp "1"]
+
+47. Rc6+ Kg7 48. Qd1 Qe3+ 49. Kc2 Qe4+ *

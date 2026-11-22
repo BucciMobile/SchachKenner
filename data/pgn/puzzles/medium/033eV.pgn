@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "033eV"]
+[Difficulty "medium"]
+[Rating "1578"]
+[Themes "long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/l77llAgs/black#52"]
+[Solution "g8h7 h1h6 g7h6 e6f7 h6g7 a1h1"]
+[SolutionSAN "Kh7 Rxh6+ Bxh6 Qf7+ Bg7 Rh1#"]
+[FEN "r5kr/2p3b1/1p2Q2p/p2p4/8/2P2PP1/PPK1bqP1/R6R b - - 1 26"]
+[SetUp "1"]
+
+26... Kh7 27. Rxh6+ Bxh6 28. Qf7+ Bg7 29. Rh1# *

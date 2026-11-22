@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05k1e"]
+[Difficulty "hard"]
+[Rating "1813"]
+[Themes "crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/NhAhK756#55"]
+[Solution "h2h4 g2b2 b1a1 f6f2 d3d5 g8h8"]
+[SolutionSAN "h4 Rb2+ Ka1 Qf2 Qd5+ Kh8"]
+[FEN "2r3k1/6pp/5q2/8/8/pPPQ4/P5rP/1KR4R w - - 0 28"]
+[SetUp "1"]
+
+28. h4 Rb2+ 29. Ka1 Qf2 30. Qd5+ Kh8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Ljh"]
+[Difficulty "hard"]
+[Rating "2094"]
+[Themes "advantage long middlegame trappedPiece"]
+[GameUrl "https://lichess.org/game/uMH8oj06#33"]
+[Solution "d2d3 g5c1 a1c1 g7g6 f5c8 d8c8"]
+[SolutionSAN "d3 Bxc1 Raxc1 g6 Qxc8 Qxc8"]
+[FEN "2rqr1k1/p4ppp/2b5/4pQb1/6P1/2N5/PPPP1PP1/R1B2RK1 w - - 5 17"]
+[SetUp "1"]
+
+17. d3 Bxc1 18. Raxc1 g6 19. Qxc8 Qxc8 *

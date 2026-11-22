@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BVWw"]
+[Difficulty "easy"]
+[Rating "587"]
+[Themes "backRankMate endgame master mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/Rh0buvjT#65"]
+[Solution "e1e7 c8c1 e7e1 c1e1"]
+[SolutionSAN "Rxe7 Rc1+ Re1 Rxe1#"]
+[FEN "2r3k1/4qp1p/6p1/pP1p4/P7/8/5PPP/4R1K1 w - - 0 33"]
+[SetUp "1"]
+
+33. Rxe7 Rc1+ 34. Re1 Rxe1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jcmm"]
+[Difficulty "medium"]
+[Rating "1583"]
+[Themes "advancedPawn crushing endgame long promotion quietMove"]
+[GameUrl "https://lichess.org/game/qHxuTGvZ/black#86"]
+[Solution "h5h4 d3e5 g5f6 c6c7 h2e5 c7c8q"]
+[SolutionSAN "h4 Ne5 Kf6 c7 Bxe5 c8=Q"]
+[FEN "8/8/2P5/6kp/4K3/3N4/7b/8 b - - 0 43"]
+[SetUp "1"]
+
+43... h4 44. Ne5 Kf6 45. c7 Bxe5 46. c8=Q *

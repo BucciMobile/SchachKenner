@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08jq1"]
+[Difficulty "easy"]
+[Rating "826"]
+[Themes "epauletteMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/rVRx3P1W#33"]
+[Solution "f1g2 f6g6"]
+[SolutionSAN "Kg2 Qg6#"]
+[FEN "2k4r/ppp2ppp/5q2/8/8/3PPn1P/PP1BQP1n/2R2K1R w - - 1 17"]
+[SetUp "1"]
+
+17. Kg2 Qg6# *

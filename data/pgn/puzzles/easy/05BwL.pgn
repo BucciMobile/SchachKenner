@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05BwL"]
+[Difficulty "easy"]
+[Rating "625"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/1aXemxyM#21"]
+[Solution "e2e3 f5f1"]
+[SolutionSAN "e3 Qxf1#"]
+[FEN "rnb2rk1/pppp2pp/8/5q2/8/2P5/PP1QP1PP/RN3BKR w - - 2 11"]
+[SetUp "1"]
+
+11. e3 Qxf1# *

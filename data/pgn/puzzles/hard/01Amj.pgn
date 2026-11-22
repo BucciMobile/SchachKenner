@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Amj"]
+[Difficulty "hard"]
+[Rating "1920"]
+[Themes "bishopEndgame crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/iXkrIxi8#107"]
+[Solution "a3c1 a4a3 c1a3 b3a3 e5d5 a3b4"]
+[SolutionSAN "Bc1 a3 Bxa3 Kxa3 Kd5 Kb4"]
+[FEN "8/8/8/2p1K3/p7/Bk6/8/8 w - - 1 54"]
+[SetUp "1"]
+
+54. Bc1 a3 55. Bxa3 Kxa3 56. Kd5 Kb4 *

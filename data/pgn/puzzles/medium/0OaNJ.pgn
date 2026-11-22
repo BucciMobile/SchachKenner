@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OaNJ"]
+[Difficulty "medium"]
+[Rating "1403"]
+[Themes "deflection long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/WJPV1sWD/black#38"]
+[Solution "d8a8 a6b6 c7b6 e3b6 b7c8 a1a8"]
+[SolutionSAN "Ra8 Rxb6+ cxb6 Qxb6+ Kc8 Rxa8#"]
+[FEN "3r3r/1kpq1ppp/Rp3n2/4pP2/1P2p3/2PPQ2P/2P2BP1/R5K1 b - - 2 19"]
+[SetUp "1"]
+
+19... Ra8 20. Rxb6+ cxb6 21. Qxb6+ Kc8 22. Rxa8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IhDE"]
+[Difficulty "medium"]
+[Rating "1410"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/JafMSbhE#47"]
+[Solution "c4c5 f7f2 g1h1 f2f1 d1f1 f8f1"]
+[SolutionSAN "c5 Qxf2+ Kh1 Qf1+ Rxf1 Rxf1#"]
+[FEN "2nr1r2/1p3q1k/p2p2pp/4p3/2P1Q2N/1P1R4/1P3PPP/3R2K1 w - - 0 24"]
+[SetUp "1"]
+
+24. c5 Qxf2+ 25. Kh1 Qf1+ 26. Rxf1 Rxf1# *

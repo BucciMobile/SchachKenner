@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Nbll"]
+[Difficulty "medium"]
+[Rating "1630"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/FNAAyqGz/black#68"]
+[Solution "d4f3 d2h6"]
+[SolutionSAN "Nf3 Bxh6#"]
+[FEN "5k2/5p2/5Npp/2p5/1pPn2P1/3P3P/1b1B1P2/r3RK2 b - - 10 34"]
+[SetUp "1"]
+
+34... Nf3 35. Bxh6# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DpgQ"]
+[Difficulty "medium"]
+[Rating "1445"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/jffSpaDO#45"]
+[Solution "e1e5 f5c2"]
+[SolutionSAN "Rxe5 Qc2#"]
+[FEN "8/Q6p/3p2pk/2p1rq2/P5n1/1bN5/5PPP/2KRR3 w - - 8 23"]
+[SetUp "1"]
+
+23. Rxe5 Qc2# *

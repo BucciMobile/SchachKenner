@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05vYM"]
+[Difficulty "easy"]
+[Rating "732"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/Lxp6yLOy#79"]
+[Solution "a6a7 b4c5 g1f1 c5a7"]
+[SolutionSAN "Ra7 Bc5+ Kf1 Bxa7"]
+[FEN "8/5nkp/R7/p7/1bB2P2/8/6PP/6K1 w - - 3 40"]
+[SetUp "1"]
+
+40. Ra7 Bc5+ 41. Kf1 Bxa7 *

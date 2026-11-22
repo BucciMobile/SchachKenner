@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09ldn"]
+[Difficulty "easy"]
+[Rating "888"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/UmzKNAXD#33"]
+[Solution "h3f2 e5f3"]
+[SolutionSAN "Nf2 Nxf3#"]
+[FEN "r1bq1rk1/4ppb1/p2p2p1/2p1n2p/1p2P1PP/1P1PBP1N/1PP1N3/R2QKR2 w Q - 0 17"]
+[SetUp "1"]
+
+17. Nf2 Nxf3# *

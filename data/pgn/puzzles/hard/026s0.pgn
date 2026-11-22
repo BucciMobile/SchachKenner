@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "026s0"]
+[Difficulty "hard"]
+[Rating "2203"]
+[Themes "crushing master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/Qp5Gn0iq#51"]
+[Solution "f5e6 h6e6 d5e6 e5f3"]
+[SolutionSAN "Be6+ Rxe6 dxe6 Nxf3+"]
+[FEN "5rk1/pbp3pp/1p1p3r/3PnB1q/1PP2p1P/P4P2/2Q2BP1/4RRK1 w - - 3 26"]
+[SetUp "1"]
+
+26. Be6+ Rxe6 27. dxe6 Nxf3+ *

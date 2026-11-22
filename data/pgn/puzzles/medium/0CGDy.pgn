@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CGDy"]
+[Difficulty "medium"]
+[Rating "1263"]
+[Themes "endgame kingsideAttack mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/sYvMs3l4/black#64"]
+[Solution "a8e8 g6g7"]
+[SolutionSAN "Raxe8 Qxg7#"]
+[FEN "r3Rr1k/1pp1R1pn/p2p2Qp/3P4/2P5/PP1P3P/5qP1/7K b - - 10 32"]
+[SetUp "1"]
+
+32... Raxe8 33. Qxg7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02ZlS"]
+[Difficulty "medium"]
+[Rating "1639"]
+[Themes "advantage defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/2q5j3HUy/black#46"]
+[Solution "e5d4 c3f3 f6h6 c1b1"]
+[SolutionSAN "exd4 Qxf3 Qh6+ Kb1"]
+[FEN "2k3r1/pp1b1p2/2pp1q2/4p3/2BPP2P/2Q2nb1/PPP5/2K2R1R b - - 0 23"]
+[SetUp "1"]
+
+23... exd4 24. Qxf3 Qh6+ 25. Kb1 *

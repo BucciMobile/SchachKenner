@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CHXN"]
+[Difficulty "medium"]
+[Rating "1270"]
+[Themes "advantage deflection middlegame pin short"]
+[GameUrl "https://lichess.org/game/gXdg7qQ0/black#58"]
+[Solution "f8f7 h3e6 d8e6 g7f7"]
+[SolutionSAN "Rf7 Bxe6+ Nxe6 Qxf7"]
+[FEN "2qn1r2/3kb1Q1/p3p3/1p1pP2p/7B/P6B/1P4PP/4R1K1 b - - 2 29"]
+[SetUp "1"]
+
+29... Rf7 30. Bxe6+ Nxe6 31. Qxf7 *

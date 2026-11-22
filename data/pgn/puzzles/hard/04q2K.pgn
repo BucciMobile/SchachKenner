@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04q2K"]
+[Difficulty "hard"]
+[Rating "1905"]
+[Themes "advancedPawn crushing discoveredAttack fork long middlegame promotion"]
+[GameUrl "https://lichess.org/game/4SO70lVi/black#48"]
+[Solution "d8f6 e6d7 f6h6 e1e8 c8e8 d7e8q"]
+[SolutionSAN "Qf6 exd7 Qxh6 Rxe8+ Rxe8 dxe8=Q+"]
+[FEN "2rqr1k1/p2n1p2/1p2P2Q/2p2p1P/3p4/3P2P1/PPP2PK1/R3R3 b - - 0 24"]
+[SetUp "1"]
+
+24... Qf6 25. exd7 Qxh6 26. Rxe8+ Rxe8 27. dxe8=Q+ *

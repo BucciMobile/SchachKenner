@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EGRy"]
+[Difficulty "medium"]
+[Rating "1491"]
+[Themes "crushing endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/QDhRxRIC/black#90"]
+[Solution "c7c6 a7a6 c6d7 a6d6"]
+[SolutionSAN "Kc6 Qa6+ Kd7 Qxd6+"]
+[FEN "8/Q1k5/3q2pp/8/8/3p3P/P5P1/6K1 b - - 13 45"]
+[SetUp "1"]
+
+45... Kc6 46. Qa6+ Kd7 47. Qxd6+ *

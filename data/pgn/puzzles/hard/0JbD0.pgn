@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JbD0"]
+[Difficulty "hard"]
+[Rating "1779"]
+[Themes "doubleCheck mate mateIn4 middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/LiMH8942#47"]
+[Solution "b1b2 b4d3 b2c2 b6b2 c2d3 d7b5 e5c4 b5c4"]
+[SolutionSAN "Kxb2 Nd3+ Kc2 Qb2+ Kxd3 Bb5+ Nc4 Bxc4#"]
+[FEN "5R2/pp1b2pk/1q2p3/3pN3/1n1P4/4Q3/Pr4PP/1K5R w - - 0 24"]
+[SetUp "1"]
+
+24. Kxb2 Nd3+ 25. Kc2 Qb2+ 26. Kxd3 Bb5+ 27. Nc4 Bxc4# *

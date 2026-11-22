@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ESMa"]
+[Difficulty "hard"]
+[Rating "2308"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/w1d9ZShq/black#54"]
+[Solution "a2e6 e2h5 h7g8 f6h6 e6f5 h6b6"]
+[SolutionSAN "Be6 Qh5 Kg8 Rxh6 Bf5 Rxb6"]
+[FEN "r4r2/5p1k/1q3R1p/4P3/p2p4/P1PP4/bP2Q1PP/7K b - - 0 27"]
+[SetUp "1"]
+
+27... Be6 28. Qh5 Kg8 29. Rxh6 Bf5 30. Rxb6 *

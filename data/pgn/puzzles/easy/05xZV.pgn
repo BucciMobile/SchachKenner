@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05xZV"]
+[Difficulty "easy"]
+[Rating "954"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/BbLvJQIi#33"]
+[Solution "d4c5 e7h4 g2g3 h4g3"]
+[SolutionSAN "dxc5 Bh4+ g3 Bxg3#"]
+[FEN "3r1rk1/pp2b1pp/8/2p5/3Pp3/P3P2P/1P2B1P1/RN2K2R w KQ - 0 17"]
+[SetUp "1"]
+
+17. dxc5 Bh4+ 18. g3 Bxg3# *

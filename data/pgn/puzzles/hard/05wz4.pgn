@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05wz4"]
+[Difficulty "hard"]
+[Rating "1953"]
+[Themes "crushing endgame exposedKing long"]
+[GameUrl "https://lichess.org/game/seza6MzG/black#90"]
+[Solution "c7d8 c6d6 d8c8 d6f8 c8c7 f8g7"]
+[SolutionSAN "Kd8 Qxd6+ Kc8 Qf8+ Kc7 Qg7+"]
+[FEN "8/p1k5/bpQp4/2pP4/2P3pP/2r3P1/P3r3/6K1 b - - 1 45"]
+[SetUp "1"]
+
+45... Kd8 46. Qxd6+ Kc8 47. Qf8+ Kc7 48. Qg7+ *

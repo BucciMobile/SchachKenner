@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01gBD"]
+[Difficulty "medium"]
+[Rating "1369"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/Oojuy157/black#46"]
+[Solution "e3d3 h3c8 b7c8 f1f8"]
+[SolutionSAN "Qxd3 Qxc8+ Bxc8 Rf8#"]
+[FEN "2r4k/pb4pp/1p6/3pP3/3Pn3/2PBq1NQ/PP5P/5R1K b - - 4 23"]
+[SetUp "1"]
+
+23... Qxd3 24. Qxc8+ Bxc8 25. Rf8# *

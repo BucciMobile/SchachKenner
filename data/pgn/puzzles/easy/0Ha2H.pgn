@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ha2H"]
+[Difficulty "easy"]
+[Rating "989"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/QoIPLvR1#77"]
+[Solution "c5e6 f8f1"]
+[SolutionSAN "Ne6 Qf1#"]
+[FEN "5qk1/7p/8/p1NpQ3/P1b1p3/8/2P3PP/6K1 w - - 4 39"]
+[SetUp "1"]
+
+39. Ne6 Qf1# *

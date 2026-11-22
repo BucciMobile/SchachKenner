@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02prq"]
+[Difficulty "hard"]
+[Rating "2331"]
+[Themes "attraction crushing fork master middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/iK1ujUS7/black#54"]
+[Solution "e7d6 e1e6 f6e6 h7c7 d6c7 g5e6 c7d7 e6f8"]
+[SolutionSAN "Kd6 Rxe6+ Rxe6 Qxc7+ Kxc7 Nxe6+ Kd7 Nxf8+"]
+[FEN "5r2/1bq1k2Q/p3pr2/1p1n1pN1/5Pn1/8/PP4PP/3RRBK1 b - - 2 27"]
+[SetUp "1"]
+
+27... Kd6 28. Rxe6+ Rxe6 29. Qxc7+ Kxc7 30. Nxe6+ Kd7 31. Nxf8+ *

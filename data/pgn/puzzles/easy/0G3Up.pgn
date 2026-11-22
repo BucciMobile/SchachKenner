@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G3Up"]
+[Difficulty "easy"]
+[Rating "1136"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/P30RWAPj#101"]
+[Solution "f2f3 e3g1 g3h4 g1g5"]
+[SolutionSAN "R2f3 Qg1+ Kh4 Qg5#"]
+[FEN "8/8/5k2/5P2/5R2/4q1KP/5R2/8 w - - 1 51"]
+[SetUp "1"]
+
+51. R2f3 Qg1+ 52. Kh4 Qg5# *

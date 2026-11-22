@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02YDP"]
+[Difficulty "medium"]
+[Rating "1484"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/ypb01MKF#93"]
+[Solution "c5d5 a7d4"]
+[SolutionSAN "Kd5 Qd4#"]
+[FEN "1r4k1/q4pp1/2Q5/1BK1p1B1/1PP5/6P1/5P2/8 w - - 1 47"]
+[SetUp "1"]
+
+47. Kd5 Qd4# *

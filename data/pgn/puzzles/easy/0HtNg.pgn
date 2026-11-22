@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HtNg"]
+[Difficulty "easy"]
+[Rating "1186"]
+[Themes "advantage endgame fork long"]
+[GameUrl "https://lichess.org/game/c2TDNghq/black#48"]
+[Solution "d5c4 e5f6 e7f6 d4f6 g7f6 e1e8"]
+[SolutionSAN "dxc4 exf6+ Qxf6 Qxf6+ Kxf6 Rxe8"]
+[FEN "4r3/2p1qpkp/1p3np1/3pP3/2NQ4/5P2/1PP3PP/4R1K1 b - - 0 24"]
+[SetUp "1"]
+
+24... dxc4 25. exf6+ Qxf6 26. Qxf6+ Kxf6 27. Rxe8 *

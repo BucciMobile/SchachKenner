@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0O3Ut"]
+[Difficulty "medium"]
+[Rating "1433"]
+[Themes "advantage middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/gquxPk8h#45"]
+[Solution "e1e6 f7e7 e6f6 e7e1 c4f1 e1f1 g1f1 g7f6"]
+[SolutionSAN "R1e6 Rxe7 Rxf6 Re1+ Qf1 Rxf1+ Kxf1 gxf6"]
+[FEN "r7/1p2Rrpk/p4q1p/5p2/1PQP4/B7/5PPP/4R1K1 w - - 3 23"]
+[SetUp "1"]
+
+23. R1e6 Rxe7 24. Rxf6 Re1+ 25. Qf1 Rxf1+ 26. Kxf1 gxf6 *

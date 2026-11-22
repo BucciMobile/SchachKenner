@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05G4K"]
+[Difficulty "medium"]
+[Rating "1359"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/rajVxnm2#79"]
+[Solution "b3b2 c2c3 e3f2 c3a3"]
+[SolutionSAN "Rb2 Rc3+ Kf2 Rxa3"]
+[FEN "8/5k1p/4pp2/3p4/2bP4/BR2KP2/2r3PP/8 w - - 10 40"]
+[SetUp "1"]
+
+40. Rb2 Rc3+ 41. Kf2 Rxa3 *

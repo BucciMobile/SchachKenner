@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H6RO"]
+[Difficulty "medium"]
+[Rating "1651"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/novJUgUV#31"]
+[Solution "d1d2 f4e4 d2e3 e4h1"]
+[SolutionSAN "Qd2 Qe4+ Qe3 Qxh1+"]
+[FEN "r4rk1/pp3pp1/2p1pnp1/8/P1BP1qP1/2P4P/1P3P2/R2QK2R w KQ - 1 16"]
+[SetUp "1"]
+
+16. Qd2 Qe4+ 17. Qe3 Qxh1+ *

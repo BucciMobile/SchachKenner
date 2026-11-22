@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Eu6"]
+[Difficulty "medium"]
+[Rating "1688"]
+[Themes "crushing discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/SBVyv1au/black#68"]
+[Solution "f7e6 d4c5 d6c5 d1d8"]
+[SolutionSAN "Ke6 Qxc5 dxc5 Rxd8"]
+[FEN "3r4/1p3kp1/p2p1p2/2q4p/3Q4/P1P2P1P/1P3K2/3R4 b - - 4 34"]
+[SetUp "1"]
+
+34... Ke6 35. Qxc5 dxc5 36. Rxd8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02dGQ"]
+[Difficulty "medium"]
+[Rating "1318"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/sMXrgFNZ/black#110"]
+[Solution "h5g4 h2h3"]
+[SolutionSAN "Kg4 Qh3#"]
+[FEN "8/1b5p/p7/6pk/4p3/PP1pP3/6KQ/2q5 b - - 1 55"]
+[SetUp "1"]
+
+55... Kg4 56. Qh3# *

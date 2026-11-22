@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04KbJ"]
+[Difficulty "easy"]
+[Rating "775"]
+[Themes "discoveredCheck doubleCheck endgame hookMate mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/dP1vkSDD#85"]
+[Solution "g1f2 f1g3 h1h2 e1h1"]
+[SolutionSAN "Bf2 Ng3+ Kh2 Rh1#"]
+[FEN "8/pR6/5ppk/8/2P4p/1P3P1P/P5P1/4rnBK w - - 0 43"]
+[SetUp "1"]
+
+43. Bf2 Ng3+ 44. Kh2 Rh1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04zwl"]
+[Difficulty "easy"]
+[Rating "1191"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/G3BPUl54/black#108"]
+[Solution "d3d2 a7a8 b3b8 a8b8"]
+[SolutionSAN "d2 Ra8+ Rb8 Rxb8#"]
+[FEN "3k4/R7/3K4/4Pp2/8/pr1p4/8/8 b - - 2 54"]
+[SetUp "1"]
+
+54... d2 55. Ra8+ Rb8 56. Rxb8# *

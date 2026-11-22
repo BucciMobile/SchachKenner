@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ET7J"]
+[Difficulty "medium"]
+[Rating "1679"]
+[Themes "capturingDefender crushing middlegame short"]
+[GameUrl "https://lichess.org/game/HrdVC6XV#47"]
+[Solution "f3e3 g5e3 f2e3 c6e4"]
+[SolutionSAN "Qe3 Qxe3 fxe3 Bxe4"]
+[FEN "2r2rk1/5ppp/p1b1p3/1p2P1q1/1P2B2n/P4Q1P/4NPP1/3R1RK1 w - - 5 24"]
+[SetUp "1"]
+
+24. Qe3 Qxe3 25. fxe3 Bxe4 *

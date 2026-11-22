@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C6nG"]
+[Difficulty "easy"]
+[Rating "1119"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/rEFoLUZU/black#92"]
+[Solution "d7c5 d2f4 b8c8 e6c6"]
+[SolutionSAN "Nc5 Qf4+ Kc8 Rc6+"]
+[FEN "1k1r4/p2n4/1p2Rp1p/3B1P2/2P5/7P/3QK3/q7 b - - 0 46"]
+[SetUp "1"]
+
+46... Nc5 47. Qf4+ Kc8 48. Rc6+ *

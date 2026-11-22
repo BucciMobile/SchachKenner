@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04vbn"]
+[Difficulty "hard"]
+[Rating "2388"]
+[Themes "advancedPawn bishopEndgame crushing defensiveMove endgame veryLong"]
+[GameUrl "https://lichess.org/game/VmCH2aqg/black#94"]
+[Solution "f2g3 e2e3 g3d6 b6b7 d6e5 e3d3 h6g5 d3c4"]
+[SolutionSAN "Bg3 Kxe3 Bd6 b7 Be5 Kd3 Kg5 Kc4"]
+[FEN "8/8/1P5k/p4p2/8/P3pB2/4Kb2/8 b - - 0 47"]
+[SetUp "1"]
+
+47... Bg3 48. Kxe3 Bd6 49. b7 Be5 50. Kd3 Kg5 51. Kc4 *

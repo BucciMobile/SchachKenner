@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HoBa"]
+[Difficulty "easy"]
+[Rating "1175"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/Fxn7rLb0/black#40"]
+[Solution "f6e4 c3g7"]
+[SolutionSAN "Nxe4 Qxg7#"]
+[FEN "r2q2k1/2p2pp1/pb1p1n1p/1p3N2/4B3/2Q4P/PP3PP1/R1B3K1 b - - 0 20"]
+[SetUp "1"]
+
+20... Nxe4 21. Qxg7# *

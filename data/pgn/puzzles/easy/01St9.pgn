@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01St9"]
+[Difficulty "easy"]
+[Rating "1160"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/IyagUnX1/black#32"]
+[Solution "f6e4 h3h7"]
+[SolutionSAN "Nxe4 Qxh7#"]
+[FEN "r4rk1/pbq2p1p/1pnbpnp1/6N1/3PN3/P6Q/1PB2PPP/R1B2RK1 b - - 5 16"]
+[SetUp "1"]
+
+16... Nxe4 17. Qxh7# *

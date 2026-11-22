@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OCEK"]
+[Difficulty "medium"]
+[Rating "1625"]
+[Themes "crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/Z1bBdOaZ/black#56"]
+[Solution "h4g3 c1c8 f8e7 h2h8 g3g2 h1g1 g7h8 c8h8"]
+[SolutionSAN "hxg3 Rc8+ Ke7 Qxh8 g2+ Kg1 Qxh8 Rxh8"]
+[FEN "5k1r/pp3pq1/3p4/3P4/4Pp1p/5PN1/P6Q/2R4K b - - 0 28"]
+[SetUp "1"]
+
+28... hxg3 29. Rc8+ Ke7 30. Qxh8 g2+ 31. Kg1 Qxh8 32. Rxh8 *

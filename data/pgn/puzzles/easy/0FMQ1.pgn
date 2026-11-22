@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FMQ1"]
+[Difficulty "easy"]
+[Rating "994"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/OM3WSlOo#77"]
+[Solution "g6g5 e3e1"]
+[SolutionSAN "Rxg5 Re1#"]
+[FEN "5r2/p4p1k/1p4R1/3Q1ppp/1N4n1/4r1P1/PP4P1/6K1 w - - 2 39"]
+[SetUp "1"]
+
+39. Rxg5 Re1# *

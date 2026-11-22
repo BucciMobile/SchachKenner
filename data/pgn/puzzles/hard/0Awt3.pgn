@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Awt3"]
+[Difficulty "hard"]
+[Rating "2005"]
+[Themes "epauletteMate mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/mZDxNj0v/black#50"]
+[Solution "f8e7 e5g6 f7g6 h6g7"]
+[SolutionSAN "Ke7 Ng6+ fxg6 Qg7#"]
+[FEN "2rqrk2/3n1p2/p2bpn1Q/1b1pN3/1p1P4/6RP/PP2NPP1/1BB3K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Ke7 26. Ng6+ fxg6 27. Qg7# *

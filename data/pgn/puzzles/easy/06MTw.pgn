@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06MTw"]
+[Difficulty "easy"]
+[Rating "870"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/eEWZeDht/black#68"]
+[Solution "e5f4 d5f5 f7g7 f5f4"]
+[SolutionSAN "Bf4 Rf5+ Kg7 Rxf4"]
+[FEN "4r3/2p2k2/1p1pr2p/pP1Rb3/2P1p1PB/P3R2P/5PK1/8 b - - 4 34"]
+[SetUp "1"]
+
+34... Bf4 35. Rf5+ Kg7 36. Rxf4 *

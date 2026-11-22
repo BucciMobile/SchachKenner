@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E6At"]
+[Difficulty "easy"]
+[Rating "516"]
+[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/6SkNOI34/black#50"]
+[Solution "g8h8 f1f8"]
+[SolutionSAN "Kh8 Rxf8#"]
+[FEN "5rk1/pp4pp/8/2p1p3/2BpP3/6PP/Pr6/5RK1 b - - 3 25"]
+[SetUp "1"]
+
+25... Kh8 26. Rxf8# *

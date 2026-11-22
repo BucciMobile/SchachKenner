@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ADpC"]
+[Difficulty "easy"]
+[Rating "500"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/HAsON6Bo/black#74"]
+[Solution "h6g5 f3f8"]
+[SolutionSAN "Bxg5 Rf8#"]
+[FEN "7k/p6p/1p1pN2b/2p3QP/2P5/3P1R2/Pq4B1/7K b - - 0 37"]
+[SetUp "1"]
+
+37... Bxg5 38. Rf8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KiZI"]
+[Difficulty "hard"]
+[Rating "2110"]
+[Themes "crushing long middlegame pin"]
+[GameUrl "https://lichess.org/game/W8KGHtlL#39"]
+[Solution "c3e4 h4h3 e4g3 g6g3 f2g3 h3g3"]
+[SolutionSAN "Ne4 Qxh3 Ng3 Rxg3 fxg3 Qxg3"]
+[FEN "r5k1/pppn2pp/3b2r1/3P4/7q/1PNPB2P/1PQ2PP1/R4RK1 w - - 3 20"]
+[SetUp "1"]
+
+20. Ne4 Qxh3 21. Ng3 Rxg3 22. fxg3 Qxg3 *

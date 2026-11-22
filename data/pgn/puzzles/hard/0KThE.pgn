@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KThE"]
+[Difficulty "hard"]
+[Rating "2472"]
+[Themes "advantage deflection endgame exposedKing veryLong"]
+[GameUrl "https://lichess.org/game/G0NudrkU#77"]
+[Solution "g2h3 c8c3 h3h4 b2h2 h4g5 c3g3 g5f6 h2b2 e6e5 b2e5 f6e5 g3b3"]
+[SolutionSAN "Kh3 Rc3+ Kh4 Qxh2+ Kg5 Rg3+ Kf6 Qb2+ Qe5 Qxe5+ Kxe5 Rxb3"]
+[FEN "2r4k/7p/4Q1p1/8/5p2/1B6/1q4KP/3R4 w - - 2 39"]
+[SetUp "1"]
+
+39. Kh3 Rc3+ 40. Kh4 Qxh2+ 41. Kg5 Rg3+ 42. Kf6 Qb2+ 43. Qe5 Qxe5+ 44. Kxe5 Rxb3 *

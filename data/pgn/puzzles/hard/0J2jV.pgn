@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J2jV"]
+[Difficulty "hard"]
+[Rating "2176"]
+[Themes "advantage capturingDefender middlegame short"]
+[GameUrl "https://lichess.org/game/y3ON4UfH/black#52"]
+[Solution "f5f4 g3g6 h7g6 d6e5"]
+[SolutionSAN "f4 Rxg6 Kxg6 Qxe5"]
+[FEN "r4r2/1bRp3k/p2Qp1n1/1p2np2/7q/1B4RP/PP2NPP1/6K1 b - - 8 26"]
+[SetUp "1"]
+
+26... f4 27. Rxg6 Kxg6 28. Qxe5 *

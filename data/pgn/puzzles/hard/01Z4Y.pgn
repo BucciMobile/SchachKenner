@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Z4Y"]
+[Difficulty "hard"]
+[Rating "1908"]
+[Themes "attraction crushing fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/lewmaBBy/black#46"]
+[Solution "d7f5 e4f5 g5f5 d5e7 g8h8 e7f5"]
+[SolutionSAN "Bf5 Qxf5 Qxf5 Ne7+ Kh8 Nxf5"]
+[FEN "2r2rk1/3b1p1p/3p3P/p2Np1q1/1p2Q3/8/PPP5/1K1R3R b - - 1 23"]
+[SetUp "1"]
+
+23... Bf5 24. Qxf5 Qxf5 25. Ne7+ Kh8 26. Nxf5 *

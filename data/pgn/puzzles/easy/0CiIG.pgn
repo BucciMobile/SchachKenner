@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CiIG"]
+[Difficulty "easy"]
+[Rating "898"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/MytaKEc1#29"]
+[Solution "b5d7 b6b2"]
+[SolutionSAN "Bxd7 Qxb2#"]
+[FEN "1r3rk1/p2b1ppp/1q2p1n1/1Bbp4/7P/2NQ2B1/PPP2PP1/1K1R3R w - - 3 15"]
+[SetUp "1"]
+
+15. Bxd7 Qxb2# *

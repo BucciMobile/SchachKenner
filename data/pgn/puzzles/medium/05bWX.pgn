@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05bWX"]
+[Difficulty "medium"]
+[Rating "1537"]
+[Themes "crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/RUKyQcec/black#50"]
+[Solution "a5d8 f6h6 d8g5 h6g5"]
+[SolutionSAN "Qd8 Qh6 Qxg5+ Qxg5+"]
+[FEN "r4rk1/1n3p1p/p3pQ2/qp3pN1/8/6PP/2P2PB1/2K4R b - - 5 25"]
+[SetUp "1"]
+
+25... Qd8 26. Qh6 Qxg5+ 27. Qxg5+ *

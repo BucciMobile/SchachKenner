@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BZqW"]
+[Difficulty "easy"]
+[Rating "964"]
+[Themes "bishopEndgame crushing endgame long"]
+[GameUrl "https://lichess.org/game/tN9QToBY#87"]
+[Solution "e5f6 g5g4 f3g4 h5g4 f6e5 f4f3"]
+[SolutionSAN "Kf6 g4 fxg4+ Kxg4 Ke5 f3"]
+[FEN "8/8/p7/4K1pk/1P3p2/5P1p/7B/8 w - - 4 44"]
+[SetUp "1"]
+
+44. Kf6 g4 45. fxg4+ Kxg4 46. Ke5 f3 *

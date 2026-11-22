@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JUE2"]
+[Difficulty "hard"]
+[Rating "2752"]
+[Themes "bishopEndgame crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/tbfJVDoP#105"]
+[Solution "f5f6 d5e4 b2a1 h6h5"]
+[SolutionSAN "Kxf6 Ke4 Ba1 h5"]
+[FEN "8/7p/5p1p/3k1K2/p7/Pp6/1B4P1/8 w - - 0 53"]
+[SetUp "1"]
+
+53. Kxf6 Ke4 54. Ba1 h5 *

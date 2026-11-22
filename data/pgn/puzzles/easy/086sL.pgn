@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "086sL"]
+[Difficulty "easy"]
+[Rating "951"]
+[Themes "crushing deflection endgame long rookEndgame skewer"]
+[GameUrl "https://lichess.org/game/QEa6NpBB#161"]
+[Solution "c7d7 a1a7 d7c6 a7a6 c6b5 a6d6"]
+[SolutionSAN "Kd7 Ra7+ Kc6 Ra6+ Kb5 Rxd6"]
+[FEN "8/2K5/3R4/4k3/8/8/8/r7 w - - 22 81"]
+[SetUp "1"]
+
+81. Kd7 Ra7+ 82. Kc6 Ra6+ 83. Kb5 Rxd6 *

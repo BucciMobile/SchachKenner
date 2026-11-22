@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JsOW"]
+[Difficulty "hard"]
+[Rating "1736"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/YBsIYYbc/black#102"]
+[Solution "a8a7 d7d8 a7c7 e6c7"]
+[SolutionSAN "Ra7 Kd8 Rxc7 Nxc7"]
+[FEN "r7/2PK2pp/1k2N3/1P3p2/8/8/7P/8 b - - 0 51"]
+[SetUp "1"]
+
+51... Ra7 52. Kd8 Rxc7 53. Nxc7 *

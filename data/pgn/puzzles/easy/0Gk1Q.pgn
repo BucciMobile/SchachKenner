@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gk1Q"]
+[Difficulty "easy"]
+[Rating "1068"]
+[Themes "advancedPawn crushing endgame knightEndgame promotion short"]
+[GameUrl "https://lichess.org/game/9nD6ewNR/black#100"]
+[Solution "f5g7 h6h7 g7e6 h7h8q"]
+[SolutionSAN "Nxg7 h7 Ne6 h8=Q"]
+[FEN "8/5kB1/5p1P/5n2/1K6/8/8/8 b - - 0 50"]
+[SetUp "1"]
+
+50... Nxg7 51. h7 Ne6 52. h8=Q *

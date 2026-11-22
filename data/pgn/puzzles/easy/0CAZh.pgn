@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CAZh"]
+[Difficulty "easy"]
+[Rating "1169"]
+[Themes "advancedPawn crushing endgame short"]
+[GameUrl "https://lichess.org/game/3xKkt5Nw#61"]
+[Solution "b2a1 c3c2 d1c1 d8d5"]
+[SolutionSAN "Ba1 c2 Rc1 Rxd5"]
+[FEN "3r3k/4b1p1/5p1p/3Bp3/1p6/2p3P1/1B3P1P/3RK3 w - - 0 31"]
+[SetUp "1"]
+
+31. Ba1 c2 32. Rc1 Rxd5 *

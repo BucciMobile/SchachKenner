@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Nmx"]
+[Difficulty "easy"]
+[Rating "909"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/YuMtj9gg/black#62"]
+[Solution "b4f4 c3c7 b8a8 c7c8 f8c8 c1c8"]
+[SolutionSAN "Qf4 Qc7+ Ka8 Qc8+ Rxc8 Rxc8#"]
+[FEN "1k3r2/pp6/3p3p/8/1q6/2Q5/P4P2/K1R5 b - - 0 31"]
+[SetUp "1"]
+
+31... Qf4 32. Qc7+ Ka8 33. Qc8+ Rxc8 34. Rxc8# *

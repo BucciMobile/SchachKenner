@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Iix"]
+[Difficulty "medium"]
+[Rating "1298"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/LvKED8Vy#33"]
+[Solution "c1d2 f2d2"]
+[SolutionSAN "Bd2 Qxd2#"]
+[FEN "rn1r4/pp2k3/8/2b4N/4p1Q1/1B6/PPP2qPP/R1BK3R w - - 2 17"]
+[SetUp "1"]
+
+17. Bd2 Qxd2# *

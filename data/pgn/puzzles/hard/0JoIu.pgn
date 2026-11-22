@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JoIu"]
+[Difficulty "hard"]
+[Rating "2356"]
+[Themes "crushing long middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/7gaHmZ8p#49"]
+[Solution "d3e3 a2a1 c1c2 a1d1 c2d1 e6e5"]
+[SolutionSAN "Qe3 Ra1+ Kc2 Rxd1 Kxd1 e5"]
+[FEN "3r4/2k2pp1/1pb1pb1p/8/3N4/2PQ2P1/rP3PP1/2KR4 w - - 2 25"]
+[SetUp "1"]
+
+25. Qe3 Ra1+ 26. Kc2 Rxd1 27. Kxd1 e5 *

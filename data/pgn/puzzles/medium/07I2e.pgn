@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07I2e"]
+[Difficulty "medium"]
+[Rating "1667"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/ayR32OnI/black#28"]
+[Solution "g4e3 e2h5 e3c4 e5c4"]
+[SolutionSAN "Nxe3 Qxh5 Nxc4 Nxc4"]
+[FEN "r2q1rk1/ppp1bppp/3p4/4N2b/2B1P1n1/2N1B2P/PPP1QP2/R4RK1 b - - 0 14"]
+[SetUp "1"]
+
+14... Nxe3 15. Qxh5 Nxc4 16. Nxc4 *

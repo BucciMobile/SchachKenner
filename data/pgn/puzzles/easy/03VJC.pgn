@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03VJC"]
+[Difficulty "easy"]
+[Rating "663"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/i6N2XZPl/black#42"]
+[Solution "f8g8 g2g8"]
+[SolutionSAN "Rg8 Qxg8#"]
+[FEN "rn1qbr1k/1pp5/p2p3p/2bP4/2B2p1P/P2P1P2/1PP2PQ1/R3K1R1 b Q - 1 21"]
+[SetUp "1"]
+
+21... Rg8 22. Qxg8# *

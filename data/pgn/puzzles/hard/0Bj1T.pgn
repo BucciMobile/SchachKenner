@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bj1T"]
+[Difficulty "hard"]
+[Rating "1721"]
+[Themes "advantage attraction fork long opening"]
+[GameUrl "https://lichess.org/game/GfmokXZJ/black#30"]
+[Solution "b7d5 h6g7 g8g7 e3d4 e4f6 g4g5"]
+[SolutionSAN "Bxd5 Bxg7 Kxg7 Qd4+ Nf6 g5"]
+[FEN "rn3rk1/1b1qppbp/p2p2pB/3P4/1pp1n1P1/4QN1P/PPP1BP2/R2NK1R1 b Q - 1 15"]
+[SetUp "1"]
+
+15... Bxd5 16. Bxg7 Kxg7 17. Qd4+ Nf6 18. g5 *

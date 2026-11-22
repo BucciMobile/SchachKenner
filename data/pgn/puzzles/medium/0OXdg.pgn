@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OXdg"]
+[Difficulty "medium"]
+[Rating "1627"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/Erf2a5sj#81"]
+[Solution "f2f3 f7e7 e1e7 c5e7"]
+[SolutionSAN "Kxf3 Rxe7 Rxe7+ Qxe7"]
+[FEN "8/pp2Rrkp/5pp1/2q5/8/5p1Q/5K1P/4R3 w - - 4 41"]
+[SetUp "1"]
+
+41. Kxf3 Rxe7 42. Rxe7+ Qxe7 *

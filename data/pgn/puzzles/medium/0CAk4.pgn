@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CAk4"]
+[Difficulty "medium"]
+[Rating "1671"]
+[Themes "clearance crushing long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/AyNJJHR4#47"]
+[Solution "a3b4 a8a2 b2b3 d8a8 e5e8 a8e8"]
+[SolutionSAN "axb4 Ra2+ Kb3 Rda8 Re8+ Rxe8"]
+[FEN "r2r3k/2p2pp1/7p/1pBnR3/1p5P/P1nP2PB/1KPR1P2/8 w - - 0 24"]
+[SetUp "1"]
+
+24. axb4 Ra2+ 25. Kb3 Rda8 26. Re8+ Rxe8 *

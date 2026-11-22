@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GRO5"]
+[Difficulty "medium"]
+[Rating "1433"]
+[Themes "crushing intermezzo long middlegame"]
+[GameUrl "https://lichess.org/game/25wus9EH#67"]
+[Solution "e3f3 f8f3 b6g6 f3f2 g3f2 h7g6"]
+[SolutionSAN "Rexf3 Rxf3 Qxg6 Rxf2+ Bxf2 hxg6"]
+[FEN "r4r1k/1p4pp/pQ4q1/8/P7/1P2RbBP/5R1K/8 w - - 0 34"]
+[SetUp "1"]
+
+34. Rexf3 Rxf3 35. Qxg6 Rxf2+ 36. Bxf2 hxg6 *

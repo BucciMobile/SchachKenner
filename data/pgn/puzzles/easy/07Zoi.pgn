@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Zoi"]
+[Difficulty "easy"]
+[Rating "1036"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/ti8XGlJ9/black#82"]
+[Solution "h7h5 e2d2 e3d2 f1e2 d2d1q e2d1"]
+[SolutionSAN "h5 Rxd2 exd2 Ke2 d1=Q+ Kxd1"]
+[FEN "7k/7p/1p6/1P6/P4p2/4pP1P/3rR3/5K2 b - - 2 41"]
+[SetUp "1"]
+
+41... h5 42. Rxd2 exd2 43. Ke2 d1=Q+ 44. Kxd1 *

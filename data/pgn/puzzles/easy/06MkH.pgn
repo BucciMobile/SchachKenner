@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06MkH"]
+[Difficulty "easy"]
+[Rating "955"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/MA7HCnCZ#55"]
+[Solution "f1f6 a3a1 f6f1 a1f1"]
+[SolutionSAN "Rxf6 Ra1+ Rf1 Rxf1#"]
+[FEN "6k1/p1p4p/2N2p2/8/1P6/r7/6PP/5R1K w - - 0 28"]
+[SetUp "1"]
+
+28. Rxf6 Ra1+ 29. Rf1 Rxf1# *

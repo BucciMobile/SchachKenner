@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bgdf"]
+[Difficulty "easy"]
+[Rating "902"]
+[Themes "hookMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/tPthRcId/black#44"]
+[Solution "c8e6 e1e6"]
+[SolutionSAN "Bxe6 Rxe6#"]
+[FEN "r1bq3r/p3n1p1/1p2Qk2/5pN1/2p2P2/2N5/PP4PP/2K1R3 b - - 0 22"]
+[SetUp "1"]
+
+22... Bxe6 23. Rxe6# *

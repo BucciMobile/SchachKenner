@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06N0x"]
+[Difficulty "easy"]
+[Rating "720"]
+[Themes "advancedPawn crushing endgame pawnEndgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/ZNRRKXYv/black#104"]
+[Solution "g4h4 a5b4 h4g3 a4a5 h5h4 a5a6 h4h3 a6a7"]
+[SolutionSAN "Kxh4 Kxb4 Kg3 a5 h4 a6 h3 a7"]
+[FEN "8/8/6p1/K5Pp/Pp4kP/8/8/8 b - - 0 52"]
+[SetUp "1"]
+
+52... Kxh4 53. Kxb4 Kg3 54. a5 h4 55. a6 h3 56. a7 *

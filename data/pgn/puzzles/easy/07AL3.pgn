@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07AL3"]
+[Difficulty "easy"]
+[Rating "825"]
+[Themes "endgame mate mateIn2 short xRayAttack"]
+[GameUrl "https://lichess.org/game/lNaGfZNz#81"]
+[Solution "e3d2 e8e1 d2e1 b4e1"]
+[SolutionSAN "Bd2 Rxe1+ Bxe1 Qxe1#"]
+[FEN "4r2k/p5p1/3Q1p1p/2P5/1q6/4B3/P4PPP/4R1K1 w - - 6 41"]
+[SetUp "1"]
+
+41. Bd2 Rxe1+ 42. Bxe1 Qxe1# *

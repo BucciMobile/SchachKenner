@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BZp0"]
+[Difficulty "easy"]
+[Rating "994"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/zc7SNDdt#73"]
+[Solution "b3c3 a8a1 f3e1 a1c3"]
+[SolutionSAN "Rxc3 Qa1+ Ne1 Qxc3"]
+[FEN "q6k/6p1/5p1p/1P6/8/1Rn1BN2/2P2PP1/5K2 w - - 10 37"]
+[SetUp "1"]
+
+37. Rxc3 Qa1+ 38. Ne1 Qxc3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09WWh"]
+[Difficulty "hard"]
+[Rating "2152"]
+[Themes "advantage middlegame veryLong"]
+[GameUrl "https://lichess.org/game/zGe3ssGL/black#48"]
+[Solution "e7g7 c1c8 a6c8 g5f6 f8f6 e6f6 g7f6 h3c8"]
+[SolutionSAN "Qg7 Rxc8 Bxc8 Bxf6 Rxf6 Rxf6 Qxf6 Bxc8"]
+[FEN "2r2r2/p3q2k/bp2Rbp1/n2p2B1/3P4/P5PB/1P1Q1P1P/2R3K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Qg7 25. Rxc8 Bxc8 26. Bxf6 Rxf6 27. Rxf6 Qxf6 28. Bxc8 *

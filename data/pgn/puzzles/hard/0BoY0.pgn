@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BoY0"]
+[Difficulty "hard"]
+[Rating "2012"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/Rr8MpKhh#49"]
+[Solution "f3g3 a8f8 f2g2 g4e2"]
+[SolutionSAN "Rg3 Rf8+ Kg2 Qe2+"]
+[FEN "r5k1/ppp3p1/7p/4p3/3nP1q1/P2P1R2/1PP2K2/R1B4Q w - - 4 25"]
+[SetUp "1"]
+
+25. Rg3 Rf8+ 26. Kg2 Qe2+ *

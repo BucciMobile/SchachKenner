@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06kQ1"]
+[Difficulty "hard"]
+[Rating "2897"]
+[Themes "advantage exposedKing middlegame pin quietMove veryLong"]
+[GameUrl "https://lichess.org/game/szqS6cwb#77"]
+[Solution "g2f3 g7f6 c6c5 g5c1 f2g3 c1f1 h1h2 f1f3 c5f2 f3h5 h2g2 f6h4 c4c5 g8g3"]
+[SolutionSAN "gxf3 Bf6 Qxc5 Qc1 Bg3 Qxf1+ Kxh2 Qxf3 Qf2 Qh5+ Kg2 Bh4 c5 Rxg3+"]
+[FEN "6rk/6b1/2QR4/2pPp1q1/2P1P3/P4p2/5BPp/5B1K w - - 0 39"]
+[SetUp "1"]
+
+39. gxf3 Bf6 40. Qxc5 Qc1 41. Bg3 Qxf1+ 42. Kxh2 Qxf3 43. Qf2 Qh5+ 44. Kg2 Bh4 45. c5 Rxg3+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0APCt"]
+[Difficulty "hard"]
+[Rating "1997"]
+[Themes "crushing defensiveMove endgame knightEndgame master short"]
+[GameUrl "https://lichess.org/game/YC69aOtJ/black#94"]
+[Solution "c3c2 a7b6 b3d4 e2c1"]
+[SolutionSAN "c2 Kb6 Nd4 Nc1"]
+[FEN "8/K4k2/P7/8/8/1np5/4N3/8 b - - 1 47"]
+[SetUp "1"]
+
+47... c2 48. Kb6 Nd4 49. Nc1 *

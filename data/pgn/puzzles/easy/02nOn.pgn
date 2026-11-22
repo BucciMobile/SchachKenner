@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02nOn"]
+[Difficulty "easy"]
+[Rating "556"]
+[Themes "backRankMate endgame fork mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/NzvaQKRe/black#40"]
+[Solution "a8d8 d3d8 b6d8 d1d8"]
+[SolutionSAN "Rd8 Qxd8+ Qxd8 Rxd8#"]
+[FEN "r5k1/4nppp/pq2p3/1p6/1P2P3/P2Q1N2/5PPP/3R2K1 b - - 0 20"]
+[SetUp "1"]
+
+20... Rd8 21. Qxd8+ Qxd8 22. Rxd8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "065Wb"]
+[Difficulty "medium"]
+[Rating "1601"]
+[Themes "crushing defensiveMove endgame long queenRookEndgame"]
+[GameUrl "https://lichess.org/game/dpqKBCFG/black#48"]
+[Solution "c5c7 f2f8 h8h7 f8e8 c7c4 f1g1"]
+[SolutionSAN "Qxc7 Rf8+ Kh7 Rxe8 Qc4+ Kg1"]
+[FEN "4r2k/p1B1P1p1/7p/2q5/8/2P5/5RPP/4RK2 b - - 2 24"]
+[SetUp "1"]
+
+24... Qxc7 25. Rf8+ Kh7 26. Rxe8 Qc4+ 27. Kg1 *

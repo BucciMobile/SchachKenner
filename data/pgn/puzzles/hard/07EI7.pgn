@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07EI7"]
+[Difficulty "hard"]
+[Rating "1865"]
+[Themes "crushing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/UGx01WEC/black#40"]
+[Solution "f8g8 e4c5 c8c5 b3b4 c5c7 e1e5 d6e5 d1d8"]
+[SolutionSAN "Rg8 Nxc5 Rxc5 b4 Rc7 Rxe5 dxe5 Rxd8"]
+[FEN "2rq1r1k/p3pp2/1p1p3p/2n1b3/2P1Np2/1P3B2/P1Q2PPP/3RR1K1 b - - 1 20"]
+[SetUp "1"]
+
+20... Rg8 21. Nxc5 Rxc5 22. b4 Rc7 23. Rxe5 dxe5 24. Rxd8 *

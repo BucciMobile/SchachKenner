@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02tgX"]
+[Difficulty "hard"]
+[Rating "2267"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/3o5VJ2I2#79"]
+[Solution "g7g8 c6b6 b1e1 d4d3"]
+[SolutionSAN "Rg8 Rb6 Re1 d3"]
+[FEN "8/6Rp/k1r5/p4P2/P2pn1P1/8/4p2P/1R5K w - - 4 40"]
+[SetUp "1"]
+
+40. Rg8 Rb6 41. Re1 d3 *

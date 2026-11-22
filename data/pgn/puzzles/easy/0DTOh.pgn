@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DTOh"]
+[Difficulty "easy"]
+[Rating "571"]
+[Themes "backRankMate hangingPiece mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/RF8eR3oU#57"]
+[Solution "e6d8 h6c1 f3d1 c1d1"]
+[SolutionSAN "Nxd8 Qxc1+ Qd1 Qxd1#"]
+[FEN "3r1rk1/3R1p2/p2nN1pq/3p3p/P7/5Q2/1P3PPP/2R3K1 w - - 1 29"]
+[SetUp "1"]
+
+29. Nxd8 Qxc1+ 30. Qd1 Qxd1# *

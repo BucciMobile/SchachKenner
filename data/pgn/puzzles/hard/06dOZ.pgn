@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06dOZ"]
+[Difficulty "hard"]
+[Rating "1927"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/pLwbHfx2#43"]
+[Solution "g5f6 g6f4 g2f3 h4g3"]
+[SolutionSAN "Bf6 Nf4+ Kf3 hxg3"]
+[FEN "2k3rr/1pp2p2/p2p2n1/2bPp1B1/P3P2p/2P3PP/1P3PKN/R4R2 w - - 1 22"]
+[SetUp "1"]
+
+22. Bf6 Nf4+ 23. Kf3 hxg3 *

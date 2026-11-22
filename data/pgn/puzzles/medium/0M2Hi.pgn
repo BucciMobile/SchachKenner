@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M2Hi"]
+[Difficulty "medium"]
+[Rating "1320"]
+[Themes "advantage kingsideAttack middlegame pin short"]
+[GameUrl "https://lichess.org/game/dG83twxG/black#44"]
+[Solution "b2d2 d5f6 e5f6 f3f6"]
+[SolutionSAN "Rd2 Nf6+ Qxf6 Rxf6"]
+[FEN "5rk1/2p2pp1/p1np4/3Nq3/4P3/5RQP/Pr3PP1/R5K1 b - - 3 22"]
+[SetUp "1"]
+
+22... Rd2 23. Nf6+ Qxf6 24. Rxf6 *

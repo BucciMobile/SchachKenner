@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04oVC"]
+[Difficulty "medium"]
+[Rating "1628"]
+[Themes "advancedPawn crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/FWOGLWND#61"]
+[Solution "h1g1 e3e2 d1e2 e4e2"]
+[SolutionSAN "Kg1 e2 Qxe2 Qxe2"]
+[FEN "r2r1bk1/5ppp/p7/8/3Bq3/4p1P1/P1N2P1P/1R1Q1R1K w - - 0 31"]
+[SetUp "1"]
+
+31. Kg1 e2 32. Qxe2 Qxe2 *

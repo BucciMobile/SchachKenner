@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "049jG"]
+[Difficulty "hard"]
+[Rating "2423"]
+[Themes "advantage hangingPiece middlegame veryLong"]
+[GameUrl "https://lichess.org/game/w1sdByEB/black#54"]
+[Solution "b8b7 d7e8 e7f8 e8e4 c5f2 c2d1 g7g6 e4b7"]
+[SolutionSAN "Rxb7 Qxe8+ Bf8 Qe4 Qf2+ Kd1 g6 Qxb7"]
+[FEN "1r2r1k1/pR1Qbppp/3p4/2q5/7P/2PB1P2/2K5/7R b - - 5 27"]
+[SetUp "1"]
+
+27... Rxb7 28. Qxe8+ Bf8 29. Qe4 Qf2+ 30. Kd1 g6 31. Qxb7 *

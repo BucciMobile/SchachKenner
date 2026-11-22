@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08XYJ"]
+[Difficulty "easy"]
+[Rating "1105"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/Zjc7XlTW#35"]
+[Solution "c4d3 c6f3 e2f3 g6d3"]
+[SolutionSAN "Bd3 Bxf3 Qxf3 Qxd3"]
+[FEN "r4rk1/pp3pp1/2b1pnq1/2P4p/1PB5/4PN1P/P3QPP1/R4RK1 w - - 1 18"]
+[SetUp "1"]
+
+18. Bd3 Bxf3 19. Qxf3 Qxd3 *

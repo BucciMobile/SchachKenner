@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IC71"]
+[Difficulty "easy"]
+[Rating "976"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/15WAJ7tG#75"]
+[Solution "e2e4 f5g3 f1g2 g3e4"]
+[SolutionSAN "Re4 Ng3+ Kg2 Nxe4"]
+[FEN "8/3k2p1/1p3p2/1NbP1n2/7P/P6P/1P2R3/5K2 w - - 0 38"]
+[SetUp "1"]
+
+38. Re4 Ng3+ 39. Kg2 Nxe4 *

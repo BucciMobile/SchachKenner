@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GOHI"]
+[Difficulty "hard"]
+[Rating "2086"]
+[Themes "advancedPawn crushing middlegame promotion veryLong"]
+[GameUrl "https://lichess.org/game/RMXaN2c5/black#56"]
+[Solution "d4d3 e6d7 d3e3 d7d8q g8f7 f3h5 g7g6 e1f1 c2f2 f1f2 g3f2 g1f2"]
+[SolutionSAN "Rd3 exd7 Rxe3 d8=Q+ Kxf7 Bh5+ g6 Rf1+ Rf2 Rxf2+ Qxf2+ Kxf2"]
+[FEN "6k1/1p1n1Npp/4P3/p2P4/Pn1r4/4QBqP/2r3P1/4R1K1 b - - 0 28"]
+[SetUp "1"]
+
+28... Rd3 29. exd7 Rxe3 30. d8=Q+ Kxf7 31. Bh5+ g6 32. Rf1+ Rf2 33. Rxf2+ Qxf2+ 34. Kxf2 *

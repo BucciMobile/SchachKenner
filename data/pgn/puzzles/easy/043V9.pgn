@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "043V9"]
+[Difficulty "easy"]
+[Rating "723"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/Mh4PI5lp/black#40"]
+[Solution "f7g6 g3g6 g8h8 g6h7"]
+[SolutionSAN "fxg6 Qxg6+ Kh8 Qxh7#"]
+[FEN "r2q1rk1/2n2p1n/2pp2R1/pp2P2p/3P4/P1PB2QP/1P1N2P1/R5K1 b - - 0 20"]
+[SetUp "1"]
+
+20... fxg6 21. Qxg6+ Kh8 22. Qxh7# *

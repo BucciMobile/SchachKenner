@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08UvN"]
+[Difficulty "easy"]
+[Rating "710"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/zBsWPtcF/black#76"]
+[Solution "f8c8 e4e8 c8e8 e1e8"]
+[SolutionSAN "Rc8 Re8+ Rxe8 Rxe8#"]
+[FEN "5rk1/5ppp/8/8/4R1P1/7P/5q2/4R2K b - - 2 38"]
+[SetUp "1"]
+
+38... Rc8 39. Re8+ Rxe8 40. Rxe8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08MVi"]
+[Difficulty "easy"]
+[Rating "1007"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/XQjoOixR/black#64"]
+[Solution "a5a1 d6c8 a8c8 e8c8"]
+[SolutionSAN "Qa1 Nxc8+ Rxc8 Rxc8"]
+[FEN "r1b1R3/k2p4/pp1N3Q/q1pn4/2P5/5P2/6P1/1B4K1 b - - 1 32"]
+[SetUp "1"]
+
+32... Qa1 33. Nxc8+ Rxc8 34. Rxc8 *

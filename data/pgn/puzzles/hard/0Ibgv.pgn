@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ibgv"]
+[Difficulty "hard"]
+[Rating "2182"]
+[Themes "crushing deflection discoveredAttack discoveredCheck kingsideAttack long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/STVZm7YN#33"]
+[Solution "h4f5 d7f5 e4f5 g8g2 g1h1 g2f2"]
+[SolutionSAN "Nf5 Qxf5 exf5 Rxg2+ Kh1 Rxf2+"]
+[FEN "3r2rk/pp1q1p1p/2bp1p2/4p3/2P1P2N/3Q3P/PP3PP1/R4RK1 w - - 3 17"]
+[SetUp "1"]
+
+17. Nf5 Qxf5 18. exf5 Rxg2+ 19. Kh1 Rxf2+ *

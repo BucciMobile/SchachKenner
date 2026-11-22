@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hbnx"]
+[Difficulty "easy"]
+[Rating "656"]
+[Themes "endgame epauletteMate master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/3re51mQS#117"]
+[Solution "g3g4 f8f6"]
+[SolutionSAN "g4 Rf6#"]
+[FEN "5r1k/6b1/R3B1Kp/6pP/8/6P1/P7/8 w - - 5 59"]
+[SetUp "1"]
+
+59. g4 Rf6# *

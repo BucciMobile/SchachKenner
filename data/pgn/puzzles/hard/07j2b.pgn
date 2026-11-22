@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07j2b"]
+[Difficulty "hard"]
+[Rating "1775"]
+[Themes "advancedPawn advantage endgame long promotion sacrifice"]
+[GameUrl "https://lichess.org/game/w6ueCJMc/black#62"]
+[Solution "c8d8 d6d8 c6d8 e6e7 d8c6 e7e8q"]
+[SolutionSAN "Rd8 Qxd8 Nxd8 e7 Nc6 e8=Q"]
+[FEN "2r5/1k6/q1nQP3/1p6/2r5/2P5/PP3PPP/R5K1 b - - 0 31"]
+[SetUp "1"]
+
+31... Rd8 32. Qxd8 Nxd8 33. e7 Nc6 34. e8=Q *

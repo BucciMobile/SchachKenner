@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09OqK"]
+[Difficulty "easy"]
+[Rating "1051"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/qbTmHl08#93"]
+[Solution "d7d8q e4g6"]
+[SolutionSAN "d8=Q Bg6#"]
+[FEN "8/2RP1rk1/p4p2/1p2p1pK/4b1P1/P3P2B/1P6/8 w - - 1 47"]
+[SetUp "1"]
+
+47. d8=Q Bg6# *

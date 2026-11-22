@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A9kU"]
+[Difficulty "medium"]
+[Rating "1306"]
+[Themes "advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/ZYJLK0cl#61"]
+[Solution "f4e5 f5f2 g2h3 f2c2"]
+[SolutionSAN "fxe5 Rf2+ Kh3 Rxc2"]
+[FEN "8/3R1ppk/1p4n1/1Nb1pr2/P1P2P2/1P4P1/2N3K1/8 w - - 0 31"]
+[SetUp "1"]
+
+31. fxe5 Rf2+ 32. Kh3 Rxc2 *

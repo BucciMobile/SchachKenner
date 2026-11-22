@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ZcF"]
+[Difficulty "easy"]
+[Rating "646"]
+[Themes "crushing endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/maCCpkiH#97"]
+[Solution "e6d5 c2f5 d5f5 g5f5"]
+[SolutionSAN "Qxd5+ Qf5+ Qxf5+ Kxf5"]
+[FEN "8/8/4Q3/3p2k1/1p6/1P4PK/2q1p2P/8 w - - 4 49"]
+[SetUp "1"]
+
+49. Qxd5+ Qf5+ 50. Qxf5+ Kxf5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D4YP"]
+[Difficulty "hard"]
+[Rating "1746"]
+[Themes "crushing endgame exposedKing long pin queenRookEndgame"]
+[GameUrl "https://lichess.org/game/RGMh5Hzg/black#100"]
+[Solution "b4b3 c2d2 d8e8 c1e1 e8f7 e1f1"]
+[SolutionSAN "b3 Rd2+ Ke8 Re1+ Kf7 Rf1"]
+[FEN "3k4/8/8/8/1p6/5qp1/2R5/2R3K1 b - - 2 50"]
+[SetUp "1"]
+
+50... b3 51. Rd2+ Ke8 52. Re1+ Kf7 53. Rf1 *

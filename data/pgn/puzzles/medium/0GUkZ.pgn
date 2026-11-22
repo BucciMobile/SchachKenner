@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GUkZ"]
+[Difficulty "medium"]
+[Rating "1488"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/ddESJSDO/black#64"]
+[Solution "b6f2 g1f2 g8g7 f2e3"]
+[SolutionSAN "Qxf2+ Kxf2 Kg7 Ke3"]
+[FEN "6k1/5p1p/1q6/p2pP3/8/7P/1P3QP1/6K1 b - - 2 32"]
+[SetUp "1"]
+
+32... Qxf2+ 33. Kxf2 Kg7 34. Ke3 *

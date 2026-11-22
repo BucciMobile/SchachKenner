@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09t9E"]
+[Difficulty "easy"]
+[Rating "654"]
+[Themes "endgame mate mateIn1 oneMove operaMate"]
+[GameUrl "https://lichess.org/game/CybliMf6#87"]
+[Solution "g4h5 d4h4"]
+[SolutionSAN "Kh5 Rh4#"]
+[FEN "8/5k2/4pb2/5P2/2Br2K1/1P2R3/8/8 w - - 1 44"]
+[SetUp "1"]
+
+44. Kh5 Rh4# *

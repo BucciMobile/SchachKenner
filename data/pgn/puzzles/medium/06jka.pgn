@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06jka"]
+[Difficulty "medium"]
+[Rating "1457"]
+[Themes "deflection endgame mate mateIn4 veryLong"]
+[GameUrl "https://lichess.org/game/2YPkRFDe#49"]
+[Solution "f8a8 g6g2 d2c3 h4e1 c3c4 g2c2 c4b5 c2b3"]
+[SolutionSAN "Qa8 Qg2+ Kc3 Be1+ Kc4 Qxc2+ Kb5 Qxb3#"]
+[FEN "5Q2/Rbk3p1/1p1p2qp/2p1p3/4P2b/1P1PB3/1PPK3P/8 w - - 2 25"]
+[SetUp "1"]
+
+25. Qa8 Qg2+ 26. Kc3 Be1+ 27. Kc4 Qxc2+ 28. Kb5 Qxb3# *

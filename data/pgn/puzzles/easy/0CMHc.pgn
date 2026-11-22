@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CMHc"]
+[Difficulty "easy"]
+[Rating "525"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/sWVJHnJO#61"]
+[Solution "c2d3 c8c1 e2e1 c1e1"]
+[SolutionSAN "cxd3 Rc1+ Re1 Rxe1#"]
+[FEN "2r2rk1/4pp2/6pp/8/1R6/3b4/2P1RPPP/6K1 w - - 0 31"]
+[SetUp "1"]
+
+31. cxd3 Rc1+ 32. Re1 Rxe1# *

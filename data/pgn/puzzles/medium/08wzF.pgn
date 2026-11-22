@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08wzF"]
+[Difficulty "medium"]
+[Rating "1684"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/DjgfYtg0#31"]
+[Solution "e5f7 e4c3 f7d8 c3e2"]
+[SolutionSAN "Nxf7 Nxc3 Nxd8 Nxe2+"]
+[FEN "r2q1rk1/1b3pbp/p5p1/1pp1N3/4n3/P1NB3P/1PP1QPP1/R3R1K1 w - - 0 16"]
+[SetUp "1"]
+
+16. Nxf7 Nxc3 17. Nxd8 Nxe2+ *

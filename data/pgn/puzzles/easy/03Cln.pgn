@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Cln"]
+[Difficulty "easy"]
+[Rating "604"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/JpukB923#73"]
+[Solution "d2f2 e5h2"]
+[SolutionSAN "Qf2 Qh2#"]
+[FEN "2b4r/2p2p2/2p2Pk1/4q1p1/3pP3/3P1R2/3Q2P1/5RK1 w - - 2 37"]
+[SetUp "1"]
+
+37. Qf2 Qh2# *

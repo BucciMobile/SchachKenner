@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04qEN"]
+[Difficulty "medium"]
+[Rating "1577"]
+[Themes "advancedPawn bishopEndgame crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/icTOjHKE#121"]
+[Solution "f6e6 a5a4 b3a4 b4b3 a6c4 b3b2 c4a2 e3d3"]
+[SolutionSAN "Ke6 a4 bxa4 b3 Bc4 b2 Ba2 Kxd3"]
+[FEN "8/8/B2p1K2/p1bPp3/1p2P3/1P1Pk3/8/8 w - - 4 61"]
+[SetUp "1"]
+
+61. Ke6 a4 62. bxa4 b3 63. Bc4 b2 64. Ba2 Kxd3 *

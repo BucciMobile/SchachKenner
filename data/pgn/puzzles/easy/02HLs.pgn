@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02HLs"]
+[Difficulty "easy"]
+[Rating "1192"]
+[Themes "endgame fork mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/CaJsV92Y#85"]
+[Solution "f7d5 e5h5 h1g1 h5h2"]
+[SolutionSAN "Bxd5 Qh5+ Kg1 Qh2#"]
+[FEN "8/5Bk1/8/3bq3/2p5/2P2Rp1/1P4P1/5R1K w - - 1 43"]
+[SetUp "1"]
+
+43. Bxd5 Qh5+ 44. Kg1 Qh2# *

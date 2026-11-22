@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IJ6I"]
+[Difficulty "hard"]
+[Rating "1963"]
+[Themes "endgame exposedKing long mate mateIn3 quietMove rookEndgame"]
+[GameUrl "https://lichess.org/game/C9q6jvtW#93"]
+[Solution "f2f4 b6g6 b5b6 a8h8 a5h5 h8h5"]
+[SolutionSAN "f4 Rg6 b6 Rh8+ Rh5 Rxh5#"]
+[FEN "r7/Pk6/1r6/RP6/3P4/7K/5P1P/1R6 w - - 1 47"]
+[SetUp "1"]
+
+47. f4 Rg6 48. b6 Rh8+ 49. Rh5 Rxh5# *

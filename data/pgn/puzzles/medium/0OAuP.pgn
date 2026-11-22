@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OAuP"]
+[Difficulty "medium"]
+[Rating "1592"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/f1OfNX5n/black#78"]
+[Solution "a3b3 c4b4 b3b4 c3b4"]
+[SolutionSAN "Rb3 Rb4 Rxb4 cxb4"]
+[FEN "7k/8/7p/1P3p2/2R3pP/r1P5/3K4/8 b - - 1 39"]
+[SetUp "1"]
+
+39... Rb3 40. Rb4 Rxb4 41. cxb4 *

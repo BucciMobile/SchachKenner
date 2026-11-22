@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05hKl"]
+[Difficulty "medium"]
+[Rating "1676"]
+[Themes "crushing kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/xfuYRm6A/black#42"]
+[Solution "e7c5 b6c5 c6c5 d1d8 c5f8 d8f8"]
+[SolutionSAN "Bc5 Bxc5 Qxc5 Rd8+ Qf8 Rxf8+"]
+[FEN "r1r3k1/1b2bppp/pBq2n2/1p2pP2/2p1P3/P1N2B1P/1PP2QP1/3R1RK1 b - - 5 21"]
+[SetUp "1"]
+
+21... Bc5 22. Bxc5 Qxc5 23. Rd8+ Qf8 24. Rxf8+ *

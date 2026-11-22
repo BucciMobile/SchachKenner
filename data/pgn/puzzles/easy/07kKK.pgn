@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07kKK"]
+[Difficulty "easy"]
+[Rating "1181"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/YdrGgZ5e/black#88"]
+[Solution "b4b5 c1c7"]
+[SolutionSAN "Rb5 Rc7#"]
+[FEN "1R6/pp2kp2/P7/3bK3/1r1pp3/8/8/2R5 b - - 1 44"]
+[SetUp "1"]
+
+44... Rb5 45. Rc7# *

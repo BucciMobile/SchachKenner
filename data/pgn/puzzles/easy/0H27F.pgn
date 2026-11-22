@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H27F"]
+[Difficulty "easy"]
+[Rating "1146"]
+[Themes "advancedPawn backRankMate endgame mate mateIn2 promotion short"]
+[GameUrl "https://lichess.org/game/A40MVSyT#73"]
+[Solution "c1d1 f2e1 d1e1 d2e1q"]
+[SolutionSAN "Rd1 Qe1+ Rxe1 dxe1=Q#"]
+[FEN "3r2k1/5ppp/p3p3/8/4N3/8/QP1p1qPP/2R4K w - - 0 37"]
+[SetUp "1"]
+
+37. Rd1 Qe1+ 38. Rxe1 dxe1=Q# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JQnl"]
+[Difficulty "easy"]
+[Rating "981"]
+[Themes "arabianMate kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/gjYTGC8M#51"]
+[Solution "g2f3 d4f3 g1h1 d2h2"]
+[SolutionSAN "gxf3 Nxf3+ Kh1 Rxh2#"]
+[FEN "3r4/p3k1pp/2p1pp2/N1P1p3/1P1n4/5b2/P2r2PP/R1R2BK1 w - - 0 26"]
+[SetUp "1"]
+
+26. gxf3 Nxf3+ 27. Kh1 Rxh2# *

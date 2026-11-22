@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JsLm"]
+[Difficulty "hard"]
+[Rating "1783"]
+[Themes "crushing defensiveMove endgame master veryLong"]
+[GameUrl "https://lichess.org/game/dn6lpNoN/black#106"]
+[Solution "d4c3 d3e4 c3b2 f2f3 g5f6 f3f4 f6e6 f4e3"]
+[SolutionSAN "dxc3 Bxe4 cxb2 Kf3 Kf6 Kxf4 Ke6 Ke3"]
+[FEN "8/8/8/6k1/p2prp2/P1BB4/1P3K2/8 b - - 1 53"]
+[SetUp "1"]
+
+53... dxc3 54. Bxe4 cxb2 55. Kf3 Kf6 56. Kxf4 Ke6 57. Ke3 *

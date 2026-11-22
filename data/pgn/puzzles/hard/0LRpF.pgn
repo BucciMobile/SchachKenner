@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LRpF"]
+[Difficulty "hard"]
+[Rating "1824"]
+[Themes "advantage long middlegame xRayAttack"]
+[GameUrl "https://lichess.org/game/g3SWlOuu#53"]
+[Solution "a6a8 g4f3 h1g1 b8a8 b7a8q f3a8"]
+[SolutionSAN "Qa8 Bf3+ Kg1 Rxa8 bxa8=Q+ Bxa8"]
+[FEN "1r5k/1Pp1r1p1/Q6p/5p2/3b2b1/4B1P1/PP3P1P/4R2K w - - 0 27"]
+[SetUp "1"]
+
+27. Qa8 Bf3+ 28. Kg1 Rxa8 29. bxa8=Q+ Bxa8 *

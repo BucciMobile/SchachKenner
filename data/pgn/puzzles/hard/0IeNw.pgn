@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IeNw"]
+[Difficulty "hard"]
+[Rating "2487"]
+[Themes "advancedPawn crushing endgame quietMove rookEndgame short"]
+[GameUrl "https://lichess.org/game/JZiZ3pYm#77"]
+[Solution "d5d6 b4a4 b8e8 a3a2"]
+[SolutionSAN "d6 Ra4 Re8 a2"]
+[FEN "1R6/6pk/1P5p/3P4/1r6/p6P/6P1/6K1 w - - 0 39"]
+[SetUp "1"]
+
+39. d6 Ra4 40. Re8 a2 *

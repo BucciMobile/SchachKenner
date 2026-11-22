@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09HbA"]
+[Difficulty "easy"]
+[Rating "399"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/vkxkONWy/black#62"]
+[Solution "b8b6 d1d8"]
+[SolutionSAN "Rxb6 Rd8#"]
+[FEN "1r4k1/5p1p/1R3Pp1/1p6/8/7P/6P1/3R2K1 b - - 0 31"]
+[SetUp "1"]
+
+31... Rxb6 32. Rd8# *

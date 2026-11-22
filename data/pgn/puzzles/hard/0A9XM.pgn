@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A9XM"]
+[Difficulty "hard"]
+[Rating "2330"]
+[Themes "advantage kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/BqReFZ5X#59"]
+[Solution "e4f5 e8e1 f2f1 g3f1"]
+[SolutionSAN "exf5 Re1+ Rf1 Nxf1"]
+[FEN "4rr2/3Q3p/p1p3pk/5p2/N1N1P2q/1P1P1RnP/P1P2RP1/6K1 w - - 0 30"]
+[SetUp "1"]
+
+30. exf5 Re1+ 31. Rf1 Nxf1 *

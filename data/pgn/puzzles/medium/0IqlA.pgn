@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IqlA"]
+[Difficulty "medium"]
+[Rating "1505"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/aGru8Kbp/black#34"]
+[Solution "h8d8 b1b5 c5c4 d6c6"]
+[SolutionSAN "Rhd8 Rb5+ Kc4 Rc6#"]
+[FEN "r6r/p4ppp/1p1Rpn2/2k5/P3pB2/2P5/2P2PPP/1R4K1 b - - 0 17"]
+[SetUp "1"]
+
+17... Rhd8 18. Rb5+ Kc4 19. Rc6# *

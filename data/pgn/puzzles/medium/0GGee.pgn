@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GGee"]
+[Difficulty "medium"]
+[Rating "1558"]
+[Themes "bishopEndgame crushing deflection endgame short"]
+[GameUrl "https://lichess.org/game/23J4e5hd#87"]
+[Solution "b6d8 g5g4 f3e2 e5e4"]
+[SolutionSAN "Bd8 g4+ Ke2 Kxe4"]
+[FEN "8/8/pB6/1p2k1pp/1P1pP3/5K2/8/8 w - - 0 44"]
+[SetUp "1"]
+
+44. Bd8 g4+ 45. Ke2 Kxe4 *

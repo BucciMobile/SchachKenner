@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H8uD"]
+[Difficulty "hard"]
+[Rating "1902"]
+[Themes "advantage defensiveMove endgame hangingPiece master short"]
+[GameUrl "https://lichess.org/game/nLe2kBkv#45"]
+[Solution "d1d8 f8d8 e6e7 d8g8"]
+[SolutionSAN "Rd8 Rxd8 Qe7 Rg8"]
+[FEN "5r1k/p6p/bp2QppP/8/2p5/1P2PqP1/P4P2/R2R2K1 w - - 1 23"]
+[SetUp "1"]
+
+23. Rd8 Rxd8 24. Qe7 Rg8 *

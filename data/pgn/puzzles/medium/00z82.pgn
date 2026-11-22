@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00z82"]
+[Difficulty "medium"]
+[Rating "1572"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/YzMUMMSq/black#36"]
+[Solution "e8e4 f3e4 g7g6 f4f5"]
+[SolutionSAN "Rxe4 Qxe4 g6 f5"]
+[FEN "r3rbk1/1p1n1ppp/p2p4/q1pP4/4RP2/1P1B1Q1P/1BP3P1/5RK1 b - - 0 18"]
+[SetUp "1"]
+
+18... Rxe4 19. Qxe4 g6 20. f5 *

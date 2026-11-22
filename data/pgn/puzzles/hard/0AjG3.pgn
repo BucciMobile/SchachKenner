@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AjG3"]
+[Difficulty "hard"]
+[Rating "2387"]
+[Themes "crushing defensiveMove endgame pawnEndgame veryLong"]
+[GameUrl "https://lichess.org/game/nczffiaL#85"]
+[Solution "d3e2 d5e4 f3e4 c5c4 e2d2 f4f3 d2c2 h6h5"]
+[SolutionSAN "Ke2 dxe4 fxe4 Kc4 Kd2 f3 Kc2 h5"]
+[FEN "8/8/7p/2kpp1p1/4Pp2/2PK1P1P/5P2/8 w - - 0 43"]
+[SetUp "1"]
+
+43. Ke2 dxe4 44. fxe4 Kc4 45. Kd2 f3 46. Kc2 h5 *

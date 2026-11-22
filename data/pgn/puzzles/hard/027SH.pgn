@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "027SH"]
+[Difficulty "hard"]
+[Rating "2352"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/cWaAO3fm/black#48"]
+[Solution "b5e2 h3h7 g8f8 h7h6 f8e7 a4c5"]
+[SolutionSAN "Qe2 Qxh7+ Kf8 Qh6+ Ke7 Nxc5"]
+[FEN "4r1k1/pp3p1p/2n2p2/1qb5/N7/7Q/P1B2PPP/3R2K1 b - - 1 24"]
+[SetUp "1"]
+
+24... Qe2 25. Qxh7+ Kf8 26. Qh6+ Ke7 27. Nxc5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CSXj"]
+[Difficulty "hard"]
+[Rating "2214"]
+[Themes "crushing endgame long pawnEndgame quietMove zugzwang"]
+[GameUrl "https://lichess.org/game/mtmXm1K5/black#76"]
+[Solution "g7g5 h4h5 b5b4 d4c4 a5a4 c4b4"]
+[SolutionSAN "g5 h5 b4 Kc4 a4 Kxb4"]
+[FEN "8/6p1/3k3p/pp1P4/3K2PP/8/P7/8 b - - 0 38"]
+[SetUp "1"]
+
+38... g5 39. h5 b4 40. Kc4 a4 41. Kxb4 *

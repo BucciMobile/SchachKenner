@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04OYD"]
+[Difficulty "medium"]
+[Rating "1580"]
+[Themes "advantage hangingPiece opening short"]
+[GameUrl "https://lichess.org/game/QYnRhe5u#21"]
+[Solution "h4g6 h7g6 h1h8 f6h8"]
+[SolutionSAN "Nxg6 hxg6 Rxh8+ Qxh8"]
+[FEN "r1b1k2r/pppn3p/3bpqp1/3p1p2/3P3N/P3P1P1/1PPNBPP1/R2QK2R w KQkq - 4 11"]
+[SetUp "1"]
+
+11. Nxg6 hxg6 12. Rxh8+ Qxh8 *

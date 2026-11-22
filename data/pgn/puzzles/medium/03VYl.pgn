@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03VYl"]
+[Difficulty "medium"]
+[Rating "1414"]
+[Themes "advancedPawn attraction kingsideAttack mate mateIn2 middlegame promotion short"]
+[GameUrl "https://lichess.org/game/6D2XtIJ1/black#62"]
+[Solution "a6c8 h6g7 h8g7 h7h8q"]
+[SolutionSAN "Bc8 Qg7+ Kxg7 h8=Q#"]
+[FEN "r3rn1k/p3qp1P/bp4pQ/3pP1N1/3p1P2/1P6/P7/2R3KR b - - 1 31"]
+[SetUp "1"]
+
+31... Bc8 32. Qg7+ Kxg7 33. h8=Q# *

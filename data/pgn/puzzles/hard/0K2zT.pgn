@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K2zT"]
+[Difficulty "hard"]
+[Rating "2151"]
+[Themes "crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/VgqWimAN#71"]
+[Solution "f2g1 e6e4 b5f1 e4d4 f1f5 h7h8"]
+[SolutionSAN "Kg1 Qe4 Qf1 Qxd4 Qf5+ Kh8"]
+[FEN "8/6rk/4qp1p/pQ1p4/3N3p/P3p2P/5KP1/1R6 w - - 0 36"]
+[SetUp "1"]
+
+36. Kg1 Qe4 37. Qf1 Qxd4 38. Qf5+ Kh8 *

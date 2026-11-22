@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K7XB"]
+[Difficulty "medium"]
+[Rating "1533"]
+[Themes "crushing endgame veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/A6zlOl30#85"]
+[Solution "d6c4 d5c4 b2a2 g6f5 a2b2 f5e4 b2c3 e4d5"]
+[SolutionSAN "Nxc4 dxc4 Kxa2 Kf5 Kb2 Ke4 Kc3 Kd5"]
+[FEN "8/5p2/3Np1k1/3pP3/2bP4/8/pK6/8 w - - 2 43"]
+[SetUp "1"]
+
+43. Nxc4 dxc4 44. Kxa2 Kf5 45. Kb2 Ke4 46. Kc3 Kd5 *

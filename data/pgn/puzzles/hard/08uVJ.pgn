@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08uVJ"]
+[Difficulty "hard"]
+[Rating "1817"]
+[Themes "advancedPawn crushing defensiveMove endgame knightEndgame long promotion"]
+[GameUrl "https://lichess.org/game/LHT6ycvh/black#110"]
+[Solution "e4f6 d7d8 f6d5 c6c7 f5e4 c7c8q"]
+[SolutionSAN "Nf6+ Kd8 Nd5 c7 Ke4 c8=Q"]
+[FEN "8/p2K4/2P5/1P3k2/4n3/8/8/8 b - - 4 55"]
+[SetUp "1"]
+
+55... Nf6+ 56. Kd8 Nd5 57. c7 Ke4 58. c8=Q *

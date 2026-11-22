@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JFor"]
+[Difficulty "hard"]
+[Rating "1955"]
+[Themes "advantage attraction long middlegame"]
+[GameUrl "https://lichess.org/game/crJNm8DD/black#74"]
+[Solution "c8g8 g1g8 h8g8 d4g1 g8f8 g1g7"]
+[SolutionSAN "Rg8 Rxg8+ Kxg8 Qg1+ Kf8 Qg7+"]
+[FEN "2r4k/2qn3p/pp3p1P/2n2P2/P2Q1P2/3P4/4B3/6RK b - - 0 37"]
+[SetUp "1"]
+
+37... Rg8 38. Rxg8+ Kxg8 39. Qg1+ Kf8 40. Qg7+ *

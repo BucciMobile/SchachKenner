@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LuTt"]
+[Difficulty "hard"]
+[Rating "2245"]
+[Themes "advantage clearance middlegame pin short"]
+[GameUrl "https://lichess.org/game/o290idSe/black#44"]
+[Solution "f5f4 e3f4 a8e8 g3e3"]
+[SolutionSAN "f4 exf4 Rae8 Rge3"]
+[FEN "r4rk1/2p3p1/p2qn2p/1p3p2/8/PQ2P1R1/1P1NR1PP/6K1 b - - 3 22"]
+[SetUp "1"]
+
+22... f4 23. exf4 Rae8 24. Rge3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BnmS"]
+[Difficulty "hard"]
+[Rating "1889"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/Seg6MfaS/black#56"]
+[Solution "d2d1q b1d1 d7d1 f6f1"]
+[SolutionSAN "d1=Q+ Rxd1 Qxd1+ Rf1"]
+[FEN "1r4k1/3q1pp1/5R1p/p7/2P3P1/P1Q1b2P/1B1p2B1/1R5K b - - 0 28"]
+[SetUp "1"]
+
+28... d1=Q+ 29. Rxd1 Qxd1+ 30. Rf1 *

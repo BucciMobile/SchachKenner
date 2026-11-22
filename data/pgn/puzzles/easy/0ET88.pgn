@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ET88"]
+[Difficulty "easy"]
+[Rating "899"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/DIKq7yMU#81"]
+[Solution "d4d3 d7b5 d3d4 b5a6"]
+[SolutionSAN "Kd3 Bb5+ Kd4 Bxa6"]
+[FEN "8/3bk3/R7/8/1p1KP3/1P3N2/P3r3/8 w - - 3 41"]
+[SetUp "1"]
+
+41. Kd3 Bb5+ 42. Kd4 Bxa6 *

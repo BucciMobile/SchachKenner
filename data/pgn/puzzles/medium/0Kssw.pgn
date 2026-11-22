@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kssw"]
+[Difficulty "medium"]
+[Rating "1306"]
+[Themes "advantage defensiveMove hangingPiece master masterVsMaster middlegame short superGM"]
+[GameUrl "https://lichess.org/game/wR8Vlqcd/black#34"]
+[Solution "e5h2 g1h2 f6g4 h2g1"]
+[SolutionSAN "Bxh2+ Kxh2 Ng4+ Kg1"]
+[FEN "3rr1k1/pb2qppp/1pP2n2/4b3/4p3/1PN1P3/PBQ2PPP/2RR1BK1 b - - 0 17"]
+[SetUp "1"]
+
+17... Bxh2+ 18. Kxh2 Ng4+ 19. Kg1 *

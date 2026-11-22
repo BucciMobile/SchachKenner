@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01rEy"]
+[Difficulty "medium"]
+[Rating "1467"]
+[Themes "advantage fork master middlegame short"]
+[GameUrl "https://lichess.org/game/PfrxvkuT/black#58"]
+[Solution "h7h6 d6d8 h8h7 d5g8"]
+[SolutionSAN "h6 Rd8+ Kh7 Bg8+"]
+[FEN "2b4k/1p4bp/3R2p1/3B4/2p2B2/3r2P1/n5KP/8 b - - 3 29"]
+[SetUp "1"]
+
+29... h6 30. Rd8+ Kh7 31. Bg8+ *

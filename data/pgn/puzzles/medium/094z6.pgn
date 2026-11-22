@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "094z6"]
+[Difficulty "medium"]
+[Rating "1523"]
+[Themes "clearance endgame mate mateIn2 operaMate sacrifice short"]
+[GameUrl "https://lichess.org/game/XmQKAfjF#69"]
+[Solution "f2f6 g4f3 f6f3 g7g1"]
+[SolutionSAN "Rf6 Bf3+ Rxf3 Rg1#"]
+[FEN "8/p5rk/2p1p3/2P1P2p/3Pp1bQ/P3b3/1B3R1P/7K w - - 0 35"]
+[SetUp "1"]
+
+35. Rf6 Bf3+ 36. Rxf3 Rg1# *

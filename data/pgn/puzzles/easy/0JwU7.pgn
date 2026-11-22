@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JwU7"]
+[Difficulty "easy"]
+[Rating "939"]
+[Themes "advantage endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/McCMTu98#97"]
+[Solution "e3e4 f5e4 d6d7 c6d7"]
+[SolutionSAN "Rxe4 Bxe4 d7 Kxd7"]
+[FEN "8/7r/1pkPp1p1/p3Bb2/P1P1nP2/K1P1R2p/7R/8 w - - 5 49"]
+[SetUp "1"]
+
+49. Rxe4 Bxe4 50. d7 Kxd7 *

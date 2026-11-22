@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02irR"]
+[Difficulty "hard"]
+[Rating "1920"]
+[Themes "crushing endgame hangingPiece rookEndgame short"]
+[GameUrl "https://lichess.org/game/v7rA7M2L/black#108"]
+[Solution "d8d7 c7d7 h4h3 e2h2"]
+[SolutionSAN "Rxd7+ Kxd7 h3 Rh2"]
+[FEN "3r4/2KP1k2/8/5p2/p4Ppp/P1P5/1P2R3/8 b - - 2 54"]
+[SetUp "1"]
+
+54... Rxd7+ 55. Kxd7 h3 56. Rh2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02S9F"]
+[Difficulty "hard"]
+[Rating "1706"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/Vz9dS9uV/black#72"]
+[Solution "g6f5 d3e4 f5e4 f3e4"]
+[SolutionSAN "gxf5 dxe4 fxe4 fxe4"]
+[FEN "8/8/2p3p1/1kP2P2/1P1pp3/1K1P1P2/8/8 b - - 0 36"]
+[SetUp "1"]
+
+36... gxf5 37. dxe4 fxe4 38. fxe4 *

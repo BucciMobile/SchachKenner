@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Ocp"]
+[Difficulty "hard"]
+[Rating "2152"]
+[Themes "crushing exposedKing long middlegame"]
+[GameUrl "https://lichess.org/game/fCyysDNm/black#40"]
+[Solution "e7c5 g2e4 f6f5 e4e5 c5e5 e1e5"]
+[SolutionSAN "Qc5 Qe4 f5 Qxe5+ Qxe5 Rxe5+"]
+[FEN "r3k3/p1pbq3/2p2p2/4p1p1/2B3p1/2P4r/P1P2PQP/3RR1K1 b q - 3 20"]
+[SetUp "1"]
+
+20... Qc5 21. Qe4 f5 22. Qxe5+ Qxe5 23. Rxe5+ *

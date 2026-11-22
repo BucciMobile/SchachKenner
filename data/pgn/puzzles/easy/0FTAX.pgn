@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FTAX"]
+[Difficulty "easy"]
+[Rating "570"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/cFFWYEHD#23"]
+[Solution "f3d4 c7h2"]
+[SolutionSAN "Nxd4 Qh2#"]
+[FEN "r1b1k2r/ppq1bpp1/4p3/2p4p/2BnN1n1/P4N1P/1PPPQPP1/R1B2RK1 w kq - 1 12"]
+[SetUp "1"]
+
+12. Nxd4 Qh2# *

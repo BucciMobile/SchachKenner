@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gi8w"]
+[Difficulty "easy"]
+[Rating "984"]
+[Themes "master mate mateIn1 middlegame oneMove operaMate"]
+[GameUrl "https://lichess.org/game/gcG3JccY#59"]
+[Solution "h3f3 e6e1"]
+[SolutionSAN "Rf3 Re1#"]
+[FEN "5rk1/p4qpp/2p1r3/2N5/2Q4P/PP1P3R/R1Pb1PP1/5K2 w - - 11 30"]
+[SetUp "1"]
+
+30. Rf3 Re1# *

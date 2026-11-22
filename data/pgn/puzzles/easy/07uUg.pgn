@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07uUg"]
+[Difficulty "easy"]
+[Rating "893"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/njTjVKGU/black#68"]
+[Solution "e7b4 f3h3"]
+[SolutionSAN "Qb4 Rh3#"]
+[FEN "2R5/1p2q1pk/5pp1/4p3/4P3/4nR2/1B4PP/7K b - - 2 34"]
+[SetUp "1"]
+
+34... Qb4 35. Rh3# *

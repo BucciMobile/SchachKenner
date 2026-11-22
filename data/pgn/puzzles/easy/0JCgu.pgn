@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JCgu"]
+[Difficulty "easy"]
+[Rating "693"]
+[Themes "advantage hangingPiece middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/CRMok7K9#25"]
+[Solution "d5c7 d8c7 a8b8 c7b8"]
+[SolutionSAN "Nxc7+ Qxc7 Qxb8+ Qxb8"]
+[FEN "Qn1qk2r/2p2pp1/p1b5/3N2p1/4p3/8/PP3PPP/R3KBNR w KQk - 1 13"]
+[SetUp "1"]
+
+13. Nxc7+ Qxc7 14. Qxb8+ Qxb8 *

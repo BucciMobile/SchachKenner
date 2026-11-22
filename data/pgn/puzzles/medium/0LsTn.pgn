@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LsTn"]
+[Difficulty "medium"]
+[Rating "1248"]
+[Themes "clearance long mate mateIn3 middlegame pin"]
+[GameUrl "https://lichess.org/game/xHdlqbKY#53"]
+[Solution "h1g1 d2e3 f1f2 a5e1 d3f1 e1f2"]
+[SolutionSAN "Kxg1 Be3+ Rf2 Qe1+ Bf1 Qxf2#"]
+[FEN "7Q/1bp1kp2/p3p3/qp6/3P4/1R1B4/P1Pb3P/5RrK w - - 4 27"]
+[SetUp "1"]
+
+27. Kxg1 Be3+ 28. Rf2 Qe1+ 29. Bf1 Qxf2# *

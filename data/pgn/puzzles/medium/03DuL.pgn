@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03DuL"]
+[Difficulty "medium"]
+[Rating "1518"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/YD0MIEl6/black#30"]
+[Solution "f6g4 d3b5 e8g8 b5c6"]
+[SolutionSAN "Ng4 Bb5 O-O Bxc6"]
+[FEN "r1b1k2r/1p3ppp/p1q2n2/4p1B1/P3P3/3B4/2P3PP/R2Q1RK1 b kq - 1 15"]
+[SetUp "1"]
+
+15... Ng4 16. Bb5 O-O 17. Bxc6 *

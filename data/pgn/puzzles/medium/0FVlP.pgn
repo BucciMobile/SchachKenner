@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FVlP"]
+[Difficulty "medium"]
+[Rating "1252"]
+[Themes "advancedPawn advantage fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/iO6yee6Q/black#70"]
+[Solution "d5d4 e6e7 f5e7 e1e7 b7e7 f6e7"]
+[SolutionSAN "d4 Re7+ Nxe7 Rxe7+ Qxe7 fxe7"]
+[FEN "1rr5/1q3k2/4RPp1/2pp1n1p/P6P/Q7/1PP2P2/1K2R3 b - - 2 35"]
+[SetUp "1"]
+
+35... d4 36. Re7+ Nxe7 37. Rxe7+ Qxe7 38. fxe7 *

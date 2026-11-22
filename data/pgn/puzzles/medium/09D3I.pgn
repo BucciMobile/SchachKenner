@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09D3I"]
+[Difficulty "medium"]
+[Rating "1528"]
+[Themes "crushing exposedKing fork long middlegame"]
+[GameUrl "https://lichess.org/game/6TVz3OZd#23"]
+[Solution "f1g2 f6e4 d3e4 e8e4 e1f2 e4f4"]
+[SolutionSAN "Bg2 Nxe4 dxe4 Rxe4+ Kf2 Rxf4"]
+[FEN "r2qr1k1/pbp2ppp/1pnp1n2/8/2P1PBP1/2PP1N1P/P7/1R1QKB1R w K - 2 12"]
+[SetUp "1"]
+
+12. Bg2 Nxe4 13. dxe4 Rxe4+ 14. Kf2 Rxf4 *

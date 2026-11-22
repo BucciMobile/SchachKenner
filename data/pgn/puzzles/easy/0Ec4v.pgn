@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ec4v"]
+[Difficulty "easy"]
+[Rating "962"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/QHMdZ4s5#35"]
+[Solution "a1c1 c7h2 g1h2 c8c6"]
+[SolutionSAN "Rac1 Bxh2+ Kxh2 Rxc6"]
+[FEN "2rqr1k1/2b2ppp/p1Q2p2/3N4/3P4/P3PP2/1P3P1P/R4RK1 w - - 1 18"]
+[SetUp "1"]
+
+18. Rac1 Bxh2+ 19. Kxh2 Rxc6 *

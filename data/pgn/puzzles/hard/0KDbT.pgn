@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KDbT"]
+[Difficulty "hard"]
+[Rating "2299"]
+[Themes "crushing long middlegame trappedPiece"]
+[GameUrl "https://lichess.org/game/3EGq0XDM#47"]
+[Solution "c1f1 f3f1 h1f1 f8f1 b1h7 g8h7"]
+[SolutionSAN "Rcf1 Qxf1 Rxf1 Rxf1 Bxh7+ Kxh7"]
+[FEN "r4rk1/1b4pp/8/3pP3/p1pP3P/PpP1Qq2/1P1K4/1BR4R w - - 0 24"]
+[SetUp "1"]
+
+24. Rcf1 Qxf1 25. Rxf1 Rxf1 26. Bxh7+ Kxh7 *

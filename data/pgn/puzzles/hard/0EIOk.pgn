@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EIOk"]
+[Difficulty "hard"]
+[Rating "2459"]
+[Themes "crushing long middlegame pin sacrifice"]
+[GameUrl "https://lichess.org/game/tOtFQ7SZ/black#40"]
+[Solution "c6d4 d1a1 c8c2 f3d4 b6d4 a1d4"]
+[SolutionSAN "Nd4 Qa1 Rxc2 Nxd4 Qxd4 Qxd4+"]
+[FEN "1rr5/3nppkp/1qnpb1p1/1p6/1P2P3/P4NPP/2RN1PB1/3QR1K1 b - - 1 20"]
+[SetUp "1"]
+
+20... Nd4 21. Qa1 Rxc2 22. Nxd4 Qxd4 23. Qxd4+ *

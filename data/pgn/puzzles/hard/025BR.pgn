@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "025BR"]
+[Difficulty "hard"]
+[Rating "2195"]
+[Themes "crushing defensiveMove long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/ZjOu9KwD#37"]
+[Solution "e2c4 g8h8 g5e7 a5a2 b1c1 f8f3"]
+[SolutionSAN "Qc4+ Kh8 Bxe7 Qa2+ Kc1 Rxf3"]
+[FEN "r4rk1/p1p1b1pp/8/q3p1B1/1n1pP1P1/1P3N1P/2P1QP2/1K1R3R w - - 1 19"]
+[SetUp "1"]
+
+19. Qc4+ Kh8 20. Bxe7 Qa2+ 21. Kc1 Rxf3 *

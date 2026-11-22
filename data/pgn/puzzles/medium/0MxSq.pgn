@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MxSq"]
+[Difficulty "medium"]
+[Rating "1425"]
+[Themes "advantage kingsideAttack middlegame pin short"]
+[GameUrl "https://lichess.org/game/sz2WOVtk#51"]
+[Solution "d1c2 e5f3 e4f3 f8f3"]
+[SolutionSAN "Bc2 Nf3+ Qxf3 Rxf3"]
+[FEN "5rk1/3n2p1/pp1NR2p/2pPn1q1/2P1Q3/7P/PP3PP1/3B2K1 w - - 6 26"]
+[SetUp "1"]
+
+26. Bc2 Nf3+ 27. Qxf3 Rxf3 *

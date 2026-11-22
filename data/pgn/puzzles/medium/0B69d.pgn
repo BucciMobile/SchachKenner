@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B69d"]
+[Difficulty "medium"]
+[Rating "1265"]
+[Themes "master masterVsMaster mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/WteqTZo7/black#62"]
+[Solution "e6f5 e3h6 f6g7 h6g7"]
+[SolutionSAN "exf5 Qh6+ Bg7 Qxg7#"]
+[FEN "3rrk2/1b3p2/2pqpb2/1p3B2/1P1P4/p1P1QP2/P2N3P/1K2R1R1 b - - 0 31"]
+[SetUp "1"]
+
+31... exf5 32. Qh6+ Bg7 33. Qxg7# *

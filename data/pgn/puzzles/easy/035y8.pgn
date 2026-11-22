@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "035y8"]
+[Difficulty "easy"]
+[Rating "820"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/dqkDlyrg#81"]
+[Solution "d3d2 g5e3 d2e3 c3e3"]
+[SolutionSAN "Qd2 Qxe3+ Qxe3 Rxe3"]
+[FEN "8/8/4b1k1/3pPpq1/1p1P3p/2rQP1pP/6P1/1B3RK1 w - - 2 41"]
+[SetUp "1"]
+
+41. Qd2 Qxe3+ 42. Qxe3 Rxe3 *

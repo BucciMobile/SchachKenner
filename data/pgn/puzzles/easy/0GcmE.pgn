@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GcmE"]
+[Difficulty "easy"]
+[Rating "835"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/RVC6OA8T#81"]
+[Solution "e2e3 c4e3 f2e3 c7g3"]
+[SolutionSAN "Rxe3 Nxe3 fxe3 Bxg3+"]
+[FEN "5r2/2b5/8/1p3k1p/1PnP2pP/1NPNpbP1/P3RP1R/4K3 w - - 2 41"]
+[SetUp "1"]
+
+41. Rxe3 Nxe3 42. fxe3 Bxg3+ *

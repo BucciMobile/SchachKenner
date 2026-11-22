@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05hpp"]
+[Difficulty "medium"]
+[Rating "1222"]
+[Themes "advantage deflection endgame master short"]
+[GameUrl "https://lichess.org/game/v8cBDOgG/black#66"]
+[Solution "d4c5 d2c3 f8g7 c3c5"]
+[SolutionSAN "Bc5 Qc3+ Qg7 Qxc5"]
+[FEN "5q1k/7p/p5p1/1p1B4/3b1P2/7P/P2Q3K/8 b - - 1 33"]
+[SetUp "1"]
+
+33... Bc5 34. Qc3+ Qg7 35. Qxc5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "036Al"]
+[Difficulty "medium"]
+[Rating "1668"]
+[Themes "advantage long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/qIchBdB0/black#48"]
+[Solution "c8e8 e1d2 e8e6 b6c5 c6e7 d5d6"]
+[SolutionSAN "Re8 Qd2 Re6 Bc5 Ne7 Rxd6"]
+[FEN "2r3k1/1p1q1ppp/pBnb4/3R4/8/P1N4P/1P3PP1/4Q1K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Re8 25. Qd2 Re6 26. Bc5 Ne7 27. Rxd6 *

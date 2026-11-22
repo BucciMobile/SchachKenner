@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "070Sq"]
+[Difficulty "easy"]
+[Rating "712"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/U0R6hysb#59"]
+[Solution "d1d3 c8c1 d3d1 c1d1"]
+[SolutionSAN "Rd3 Rc1+ Rd1 Rxd1#"]
+[FEN "k1r2r2/p5pp/1p6/4R3/3P4/1P2P3/6PP/3R2K1 w - - 2 30"]
+[SetUp "1"]
+
+30. Rd3 Rc1+ 31. Rd1 Rxd1# *

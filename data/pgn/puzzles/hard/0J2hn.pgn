@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J2hn"]
+[Difficulty "hard"]
+[Rating "1930"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/JlnKtTf3/black#24"]
+[Solution "c8d7 g5f6 g7f6 c4b5"]
+[SolutionSAN "Bd7 Bxf6 gxf6 Bb5"]
+[FEN "r1bk3r/pp2bppp/4pn2/4p1B1/2B5/2N5/PP3PPP/3R1RK1 b - - 3 12"]
+[SetUp "1"]
+
+12... Bd7 13. Bxf6 gxf6 14. Bb5 *

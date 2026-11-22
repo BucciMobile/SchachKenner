@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "098Co"]
+[Difficulty "easy"]
+[Rating "796"]
+[Themes "advancedPawn crushing endgame promotion rookEndgame short"]
+[GameUrl "https://lichess.org/game/8md82j86#97"]
+[Solution "a7h7 d3d2 d6c7 d2d1q"]
+[SolutionSAN "Rh7 d2 Kc7 d1=Q"]
+[FEN "5k2/R7/p2K4/1p2P2p/8/3p4/P7/8 w - - 0 49"]
+[SetUp "1"]
+
+49. Rh7 d2 50. Kc7 d1=Q *

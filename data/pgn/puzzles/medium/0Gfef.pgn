@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gfef"]
+[Difficulty "medium"]
+[Rating "1293"]
+[Themes "advantage discoveredAttack long middlegame"]
+[GameUrl "https://lichess.org/game/mvWe73mm/black#42"]
+[Solution "f6d4 c3d5 b7d5 b2d4 b6d8 e4d5"]
+[SolutionSAN "Bd4 Nd5 Bxd5 Bxd4 Qd8 exd5"]
+[FEN "2r1r1k1/1b3ppp/pq1p1b2/1p6/1P2PPP1/P1N5/1B1Q2P1/4RR1K b - - 4 21"]
+[SetUp "1"]
+
+21... Bd4 22. Nd5 Bxd5 23. Bxd4 Qd8 24. exd5 *

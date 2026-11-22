@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03FbC"]
+[Difficulty "medium"]
+[Rating "1572"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/A03ZkCfd/black#64"]
+[Solution "g6g5 b4e7 g5f5 e7d8"]
+[SolutionSAN "Rg5 Be7 Rxf5 Bxd8"]
+[FEN "3r2k1/5ppp/p5r1/1p2PP1n/1B1p4/5P2/PP5P/3R1R1K b - - 0 32"]
+[SetUp "1"]
+
+32... Rg5 33. Be7 Rxf5 34. Bxd8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "061HU"]
+[Difficulty "medium"]
+[Rating "1293"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/eWbqHq0g#71"]
+[Solution "b2b3 c5c4"]
+[SolutionSAN "Kb3 c4#"]
+[FEN "8/6pp/2k5/rpp5/1P1pP3/2bN1P1P/1KP3P1/4R3 w - - 1 36"]
+[SetUp "1"]
+
+36. Kb3 c4# *

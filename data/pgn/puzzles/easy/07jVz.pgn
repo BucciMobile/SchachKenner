@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07jVz"]
+[Difficulty "easy"]
+[Rating "1141"]
+[Themes "advantage defensiveMove endgame hangingPiece master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/jE0x6VP6/black#74"]
+[Solution "d7d2 e2d2 f4f3 d2e1"]
+[SolutionSAN "Rxd2+ Kxd2 f3+ Ke1"]
+[FEN "8/1p1r1kpp/pR6/P5b1/1P3p2/2P5/3NK1PP/8 b - - 6 37"]
+[SetUp "1"]
+
+37... Rxd2+ 38. Kxd2 f3+ 39. Ke1 *

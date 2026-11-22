@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08FFG"]
+[Difficulty "easy"]
+[Rating "1159"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/xRTvrrGw#83"]
+[Solution "b4e7 g4e4 e3d2 e4e7"]
+[SolutionSAN "Be7 Re4+ Kd2 Rxe7"]
+[FEN "8/8/1R4p1/1p1k3p/bB4rP/2P1K3/P7/8 w - - 6 42"]
+[SetUp "1"]
+
+42. Be7 Re4+ 43. Kd2 Rxe7 *

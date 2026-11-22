@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A9EU"]
+[Difficulty "medium"]
+[Rating "1590"]
+[Themes "crushing endgame queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/8YEJA0IA#73"]
+[Solution "d2e2 d5g2 e2d3 g2g3"]
+[SolutionSAN "Ke2 Qg2+ Kd3 Qxg3+"]
+[FEN "6k1/5pp1/3P3p/3q3P/7R/6P1/3K4/3R4 w - - 5 37"]
+[SetUp "1"]
+
+37. Ke2 Qg2+ 38. Kd3 Qxg3+ *

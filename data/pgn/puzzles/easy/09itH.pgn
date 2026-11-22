@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09itH"]
+[Difficulty "easy"]
+[Rating "1035"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/7D4DzMll#27"]
+[Solution "c3e4 h4h2"]
+[SolutionSAN "Ne4 Qxh2#"]
+[FEN "r3k2r/pp1b1pp1/2p4p/2bPP3/2P3nq/2NB4/PP4PP/R1BQ1R1K w kq - 1 14"]
+[SetUp "1"]
+
+14. Ne4 Qxh2# *

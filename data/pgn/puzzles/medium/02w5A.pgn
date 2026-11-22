@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02w5A"]
+[Difficulty "medium"]
+[Rating "1207"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/Md90FuUi#61"]
+[Solution "e3e4 d1e1"]
+[SolutionSAN "Kxe4 Re1#"]
+[FEN "8/p5kp/1p6/3P2P1/3Rp1bP/4Kr2/PP3P1R/3r4 w - - 9 31"]
+[SetUp "1"]
+
+31. Kxe4 Re1# *

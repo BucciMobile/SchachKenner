@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08bm9"]
+[Difficulty "medium"]
+[Rating "1317"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/ZYnvcT4o#61"]
+[Solution "a1a7 e8e1 g2g1 e1g1"]
+[SolutionSAN "Rxa7 Re1+ Qg1 Rxg1+"]
+[FEN "4r1k1/p4ppp/2p5/3p4/6P1/1N5P/1qP3Q1/R6K w - - 2 31"]
+[SetUp "1"]
+
+31. Rxa7 Re1+ 32. Qg1 Rxg1+ *

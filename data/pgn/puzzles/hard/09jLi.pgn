@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09jLi"]
+[Difficulty "hard"]
+[Rating "2651"]
+[Themes "crushing interference long middlegame"]
+[GameUrl "https://lichess.org/game/3aAAcuCh#27"]
+[Solution "c1f4 c5b4 f4d2 e5d3 e1e2 d3b2"]
+[SolutionSAN "Bf4 Bb4+ Bd2 Nxd3+ Ke2 Nxb2"]
+[FEN "N1b4r/pp1k1ppp/4p3/2b1n3/2Pp2Pq/3B4/PP3P1P/R1BQK2R w KQ - 0 14"]
+[SetUp "1"]
+
+14. Bf4 Bb4+ 15. Bd2 Nxd3+ 16. Ke2 Nxb2 *

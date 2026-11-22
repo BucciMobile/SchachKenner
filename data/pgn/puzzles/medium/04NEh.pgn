@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04NEh"]
+[Difficulty "medium"]
+[Rating "1499"]
+[Themes "anastasiaMate attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/eyE0TYq5/black#44"]
+[Solution "f7f5 h2h7 h8h7 d2h2 f3h3 h2h3"]
+[SolutionSAN "f5 Rxh7+ Kxh7 Qh2+ Qh3 Qxh3#"]
+[FEN "r4r1k/ppp1Nppp/3n4/8/8/3BPq2/PPPQ3R/6K1 b - - 5 22"]
+[SetUp "1"]
+
+22... f5 23. Rxh7+ Kxh7 24. Qh2+ Qh3 25. Qxh3# *

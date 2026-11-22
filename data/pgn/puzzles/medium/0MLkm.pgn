@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MLkm"]
+[Difficulty "medium"]
+[Rating "1214"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/QHJacdka#45"]
+[Solution "d2c4 f6f5"]
+[SolutionSAN "Nc4 f5#"]
+[FEN "3r3r/1p4pp/pb2kp2/4p3/4K3/2P2P2/PP1N2PP/3R3R w - - 5 23"]
+[SetUp "1"]
+
+23. Nc4 f5# *

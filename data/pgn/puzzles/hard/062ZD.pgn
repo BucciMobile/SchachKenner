@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "062ZD"]
+[Difficulty "hard"]
+[Rating "2342"]
+[Themes "advantage defensiveMove hangingPiece master opening short"]
+[GameUrl "https://lichess.org/game/tCrORpwu/black#16"]
+[Solution "c5f2 e1f2 f6d4 f2e1"]
+[SolutionSAN "Bxf2+ Kxf2 Qd4+ Ke1"]
+[FEN "r1b1k2r/pppp1ppp/2n2q2/2bN1n2/4P1Q1/8/PPP2PPP/R1B1KB1R b KQkq - 1 8"]
+[SetUp "1"]
+
+8... Bxf2+ 9. Kxf2 Qd4+ 10. Ke1 *

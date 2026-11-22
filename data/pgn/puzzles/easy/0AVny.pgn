@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AVny"]
+[Difficulty "easy"]
+[Rating "1033"]
+[Themes "mate mateIn1 middlegame oneMove operaMate"]
+[GameUrl "https://lichess.org/game/kJqIBKsc#57"]
+[Solution "h3g4 h8h1"]
+[SolutionSAN "hxg4 Rh1#"]
+[FEN "2kr3r/pb3p2/p2p2p1/P1p3b1/2P2Np1/1P5P/5Q2/R3R1K1 w - - 0 29"]
+[SetUp "1"]
+
+29. hxg4 Rh1# *

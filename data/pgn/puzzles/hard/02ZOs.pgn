@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02ZOs"]
+[Difficulty "hard"]
+[Rating "2531"]
+[Themes "advancedPawn crushing defensiveMove endgame veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/vCdRWEpI#109"]
+[Solution "b2b1 b4a3 c8c6 b3b2 c6a6 a3b3 a6a4 b3a4 b1b2 a4b4"]
+[SolutionSAN "Kb1 Ka3 Rc6 b2 Ra6 Kb3 Rxa4 Kxa4 Kxb2 Kb4"]
+[FEN "2R5/8/8/1p6/nk6/1p6/1K6/8 w - - 8 55"]
+[SetUp "1"]
+
+55. Kb1 Ka3 56. Rc6 b2 57. Ra6 Kb3 58. Rxa4 Kxa4 59. Kxb2 Kb4 *

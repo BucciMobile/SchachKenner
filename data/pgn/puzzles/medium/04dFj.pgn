@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04dFj"]
+[Difficulty "medium"]
+[Rating "1366"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/OFCV5L4d#35"]
+[Solution "b2b4 a5b4"]
+[SolutionSAN "b4 Qxb4#"]
+[FEN "2r2rk1/1b1n1pp1/p3p2p/qp1pP3/8/3BPNP1/PP1KQPP1/3R3R w - - 7 18"]
+[SetUp "1"]
+
+18. b4 Qxb4# *

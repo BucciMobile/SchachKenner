@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CGjM"]
+[Difficulty "medium"]
+[Rating "1544"]
+[Themes "crushing discoveredAttack endgame long"]
+[GameUrl "https://lichess.org/game/Jw5fOVui/black#56"]
+[Solution "d4f3 d2d7 d8d7 d1d7 c7d7 f5f6"]
+[SolutionSAN "Nf3 Rxd7+ Rxd7 Rxd7+ Kxd7 f6+"]
+[FEN "3r4/ppkr1pp1/2p5/2P1PP1p/3n4/7B/P2R3P/2KR4 b - - 1 28"]
+[SetUp "1"]
+
+28... Nf3 29. Rxd7+ Rxd7 30. Rxd7+ Kxd7 31. f6+ *

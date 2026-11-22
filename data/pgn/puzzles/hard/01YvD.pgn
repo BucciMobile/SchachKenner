@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01YvD"]
+[Difficulty "hard"]
+[Rating "2323"]
+[Themes "advantage deflection middlegame veryLong"]
+[GameUrl "https://lichess.org/game/Mkc4QOBd#45"]
+[Solution "f2f3 g4g3 d2g2 e5d6 g2g3 d6g3 c6e8 d8e8"]
+[SolutionSAN "f3 Qxg3+ Qg2 Bxd6 Qxg3 Bxg3 Bxe8 Rxe8"]
+[FEN "3rr1k1/p4p2/2BBb1p1/4b2p/4P1qP/6P1/P2Q1P2/3R1RK1 w - - 3 23"]
+[SetUp "1"]
+
+23. f3 Qxg3+ 24. Qg2 Bxd6 25. Qxg3 Bxg3 26. Bxe8 Rxe8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02qLW"]
+[Difficulty "medium"]
+[Rating "1416"]
+[Themes "crushing defensiveMove endgame master short"]
+[GameUrl "https://lichess.org/game/lpQkPWJd/black#100"]
+[Solution "e6d7 g5f6 d7d2 g4g5"]
+[SolutionSAN "Qd7 Qf6 Qd2+ g5"]
+[FEN "5rk1/5p2/4q1pK/4P1Qp/6P1/7P/8/8 b - - 0 50"]
+[SetUp "1"]
+
+50... Qd7 51. Qf6 Qd2+ 52. g5 *

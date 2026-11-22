@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08DaE"]
+[Difficulty "easy"]
+[Rating "576"]
+[Themes "endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/uOZSL1wT/black#60"]
+[Solution "c6e7 c4c8 e7c8 c1c8 b5e8 c8e8"]
+[SolutionSAN "Nxe7 Rc8+ Nxc8 Rxc8+ Qe8 Rxe8#"]
+[FEN "6kr/4N1p1/2n1ppp1/1q2P1N1/2RP4/7P/5PP1/2R3K1 b - - 0 30"]
+[SetUp "1"]
+
+30... Nxe7 31. Rc8+ Nxc8 32. Rxc8+ Qe8 33. Rxe8# *

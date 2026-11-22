@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06nQr"]
+[Difficulty "easy"]
+[Rating "1130"]
+[Themes "endgame mate mateIn1 oneMove operaMate"]
+[GameUrl "https://lichess.org/game/5w4lle31#81"]
+[Solution "f3g2 e1g1"]
+[SolutionSAN "Kg2 Rg1#"]
+[FEN "8/1R5p/6k1/2p2p2/2Pb2p1/R4KP1/7P/4r3 w - - 0 41"]
+[SetUp "1"]
+
+41. Kg2 Rg1# *

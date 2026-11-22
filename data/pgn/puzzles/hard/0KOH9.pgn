@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KOH9"]
+[Difficulty "hard"]
+[Rating "1859"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/udzbTu57#107"]
+[Solution "b1c1 f2c2 c1d1 c2c6"]
+[SolutionSAN "Kc1 Rc2+ Kd1 Rxc6"]
+[FEN "8/8/2N5/8/PP6/1k6/5r2/1K6 w - - 1 54"]
+[SetUp "1"]
+
+54. Kc1 Rc2+ 55. Kd1 Rxc6 *

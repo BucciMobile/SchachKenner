@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CdKE"]
+[Difficulty "medium"]
+[Rating "1293"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/Rvq8UODE#73"]
+[Solution "d4d6 c7b6 d6d4 c6d4"]
+[SolutionSAN "Qd6 Qb6+ Qd4 Nxd4"]
+[FEN "6k1/1bq2p1p/p1n1p1p1/1p2P3/2pQ1PP1/P1P1K3/1P1NB2P/8 w - - 1 37"]
+[SetUp "1"]
+
+37. Qd6 Qb6+ 38. Qd4 Nxd4 *

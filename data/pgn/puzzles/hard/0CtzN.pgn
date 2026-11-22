@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CtzN"]
+[Difficulty "hard"]
+[Rating "1742"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/RWdEJ6SW/black#66"]
+[Solution "e4d3 h5h6 g7h6 h2h6"]
+[SolutionSAN "exd3 Qxh6+ gxh6 Rxh6#"]
+[FEN "3r2rk/pp4p1/2p2PPp/4q1PQ/4p3/3P4/P1P3KR/8 b - - 2 33"]
+[SetUp "1"]
+
+33... exd3 34. Qxh6+ gxh6 35. Rxh6# *

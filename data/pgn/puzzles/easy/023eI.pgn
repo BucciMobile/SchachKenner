@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "023eI"]
+[Difficulty "easy"]
+[Rating "1190"]
+[Themes "crushing defensiveMove endgame fork long"]
+[GameUrl "https://lichess.org/game/VimbADnr/black#60"]
+[Solution "c5d6 d3d4 g4g7 d4d6 g7a1 h1g2"]
+[SolutionSAN "Bd6 Qxd4+ Qg7 Qxd6 Qa1+ Kg2"]
+[FEN "7k/p6p/1p6/2b5/1P1pBPq1/3Q4/P6P/7K b - - 2 30"]
+[SetUp "1"]
+
+30... Bd6 31. Qxd4+ Qg7 32. Qxd6 Qa1+ 33. Kg2 *

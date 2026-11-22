@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KI1p"]
+[Difficulty "hard"]
+[Rating "1747"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/kYb5zW0Z/black#86"]
+[Solution "g3g2 g6h4 g2h3 h4f5"]
+[SolutionSAN "Kxg2 Nh4+ Kh3 Nf5"]
+[FEN "8/8/p2p2N1/Pb1Pp3/4K3/6k1/6P1/8 b - - 0 43"]
+[SetUp "1"]
+
+43... Kxg2 44. Nh4+ Kh3 45. Nf5 *

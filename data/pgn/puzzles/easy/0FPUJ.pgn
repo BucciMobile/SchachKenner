@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FPUJ"]
+[Difficulty "easy"]
+[Rating "1163"]
+[Themes "mate mateIn1 middlegame oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/NFxjBydW/black#34"]
+[Solution "h8g8 d1d8"]
+[SolutionSAN "Rg8 Rd8#"]
+[FEN "r1k2b1r/1b3Npp/1p2p3/1pp1B3/8/1P6/P1P2PPP/3R1RK1 b - - 0 17"]
+[SetUp "1"]
+
+17... Rg8 18. Rd8# *

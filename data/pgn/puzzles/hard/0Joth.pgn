@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Joth"]
+[Difficulty "hard"]
+[Rating "1925"]
+[Themes "crushing endgame long pin"]
+[GameUrl "https://lichess.org/game/C9WFQDwy#77"]
+[Solution "d2b3 b2b3 c1c2 b3b1 g1f2 b1b2"]
+[SolutionSAN "Nb3 Rxb3 Rxc2 Rb1+ Kf2 Rb2"]
+[FEN "6k1/6p1/7p/8/8/2p5/1rpN2PP/2R3K1 w - - 0 39"]
+[SetUp "1"]
+
+39. Nb3 Rxb3 40. Rxc2 Rb1+ 41. Kf2 Rb2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FX0R"]
+[Difficulty "hard"]
+[Rating "2111"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/BJtSvN7L/black#16"]
+[Solution "d7d6 f2f4 f6f4 h3h5"]
+[SolutionSAN "d6 f4+ Qxf4 Qh5+"]
+[FEN "r1b2bnr/pppp2pp/5q2/4k3/3nP3/7Q/PPPP1PPP/RNB2RK1 b - - 1 8"]
+[SetUp "1"]
+
+8... d6 9. f4+ Qxf4 10. Qh5+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CceV"]
+[Difficulty "easy"]
+[Rating "978"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/v0XcQ8vQ#97"]
+[Solution "d1c1 e2e5 g5f4 e5d5"]
+[SolutionSAN "Rc1 Re5+ Kf4 Rxd5"]
+[FEN "8/2kb4/R7/2pB2K1/3p2p1/6Pp/P3r3/3R4 w - - 2 49"]
+[SetUp "1"]
+
+49. Rc1 Re5+ 50. Kf4 Rxd5 *

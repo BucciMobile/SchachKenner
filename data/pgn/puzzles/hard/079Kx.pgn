@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "079Kx"]
+[Difficulty "hard"]
+[Rating "1902"]
+[Themes "endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/Ctuyiz9N/black#60"]
+[Solution "e7f6 c5f8 f6g6 f8f5 g6h6 f5h5"]
+[SolutionSAN "Kf6 Qf8+ Kg6 Qf5+ Kh6 Qh5#"]
+[FEN "8/pp2k1pp/8/1bQPp3/6P1/1P4KP/P3p3/3q4 b - - 6 30"]
+[SetUp "1"]
+
+30... Kf6 31. Qf8+ Kg6 32. Qf5+ Kh6 33. Qh5# *

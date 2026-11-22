@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H6Y1"]
+[Difficulty "easy"]
+[Rating "659"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/kBIh6itu#85"]
+[Solution "e1d1 d3f2 h1g1 f2d1"]
+[SolutionSAN "Rd1 Nf2+ Kg1 Nxd1"]
+[FEN "8/7p/p3N1pk/1p3p2/2p5/P2n3P/6P1/4R2K w - - 1 43"]
+[SetUp "1"]
+
+43. Rd1 Nf2+ 44. Kg1 Nxd1 *

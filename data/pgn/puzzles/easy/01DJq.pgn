@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01DJq"]
+[Difficulty "easy"]
+[Rating "1146"]
+[Themes "attraction crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/OAuPLlZG#89"]
+[Solution "e8e1 d1e1 f1e1 f6c3 e1d1 c3a5"]
+[SolutionSAN "Re1 Rxe1+ Kxe1 Bc3+ Kd1 Bxa5"]
+[FEN "4R3/6p1/5bk1/N6p/8/1P6/6PP/3r1K2 w - - 1 45"]
+[SetUp "1"]
+
+45. Re1 Rxe1+ 46. Kxe1 Bc3+ 47. Kd1 Bxa5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KQo5"]
+[Difficulty "medium"]
+[Rating "1614"]
+[Themes "advancedPawn advantage endgame knightEndgame promotion short underPromotion"]
+[GameUrl "https://lichess.org/game/bGHqY9zu/black#82"]
+[Solution "f7f5 d6d7 d5e7 d7d8n"]
+[SolutionSAN "f5 d7 Ne7 d8=N+"]
+[FEN "8/1p3pp1/p2Pk3/2Pn3p/1P1K1P2/P5P1/6P1/8 b - - 0 41"]
+[SetUp "1"]
+
+41... f5 42. d7 Ne7 43. d8=N+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C1lg"]
+[Difficulty "medium"]
+[Rating "1317"]
+[Themes "long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/rCM6D8fa#71"]
+[Solution "c4e5 g6g3 b3g3 f4g3 h2h1 e4f2"]
+[SolutionSAN "Nxe5 Qg3+ Qxg3 fxg3+ Kh1 Nf2#"]
+[FEN "1R2nbrk/7p/3p2q1/3Pp3/2N1np2/1Q5P/PB4PK/6R1 w - - 0 36"]
+[SetUp "1"]
+
+36. Nxe5 Qg3+ 37. Qxg3 fxg3+ 38. Kh1 Nf2# *

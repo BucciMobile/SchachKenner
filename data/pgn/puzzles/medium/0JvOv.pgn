@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JvOv"]
+[Difficulty "medium"]
+[Rating "1587"]
+[Themes "crushing deflection endgame long"]
+[GameUrl "https://lichess.org/game/T5G9xS29/black#58"]
+[Solution "c8c4 f7f8 c4c8 b6d6 b8a7 f8c8"]
+[SolutionSAN "Rxc4 Rf8+ Rc8 Qd6+ Ka7 Rxc8"]
+[FEN "1kr5/1p3R2/pQ2p3/6p1/2P1q2p/7P/P4PP1/6K1 b - - 0 29"]
+[SetUp "1"]
+
+29... Rxc4 30. Rf8+ Rc8 31. Qd6+ Ka7 32. Rxc8 *

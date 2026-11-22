@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LyMT"]
+[Difficulty "hard"]
+[Rating "1817"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/PBARgO34#45"]
+[Solution "d4g4 h5h2 g4c8 h8g7"]
+[SolutionSAN "Qg4 Qh2 Qc8+ Kg7"]
+[FEN "7k/ppp2p1p/3b1p2/3r3q/3Q4/5P2/PP1N4/R2K1R2 w - - 0 23"]
+[SetUp "1"]
+
+23. Qg4 Qh2 24. Qc8+ Kg7 *

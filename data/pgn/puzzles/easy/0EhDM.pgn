@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EhDM"]
+[Difficulty "easy"]
+[Rating "842"]
+[Themes "bodenMate kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/sfayr7Kj#47"]
+[Solution "h4f3 h6e3"]
+[SolutionSAN "Nxf3 Bxe3#"]
+[FEN "r4rk1/2p1q1np/pp1p3b/3Ppp2/2P4N/4PpPb/PPQ1N2P/1R2R1KB w - - 0 24"]
+[SetUp "1"]
+
+24. Nxf3 Bxe3# *

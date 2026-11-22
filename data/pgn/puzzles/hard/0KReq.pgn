@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KReq"]
+[Difficulty "hard"]
+[Rating "2181"]
+[Themes "crushing deflection endgame long pawnEndgame quietMove"]
+[GameUrl "https://lichess.org/game/BJjrjSuu#109"]
+[Solution "g2g3 g7g6 f4f5 h6h5 g4h4 e4f5"]
+[SolutionSAN "g3 g6 f5 h5+ Kh4 Kxf5"]
+[FEN "8/6p1/5p1p/8/4kPK1/8/6PP/8 w - - 6 55"]
+[SetUp "1"]
+
+55. g3 g6 56. f5 h5+ 57. Kh4 Kxf5 *

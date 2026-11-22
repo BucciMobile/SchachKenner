@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AOZj"]
+[Difficulty "hard"]
+[Rating "2658"]
+[Themes "advancedPawn crushing deflection endgame fork veryLong"]
+[GameUrl "https://lichess.org/game/W41HYsPv/black#82"]
+[Solution "e7f8 e6e7 f8e7 h4h5 g6g5 g8g7 c2g6 h5g6"]
+[SolutionSAN "Bf8 e7 Bxe7 h5+ Kg5 Qxg7+ Qg6 hxg6"]
+[FEN "6Q1/4b1p1/4Ppkp/8/6PP/4P1B1/2q2P1K/1q6 b - - 0 41"]
+[SetUp "1"]
+
+41... Bf8 42. e7 Bxe7 43. h5+ Kg5 44. Qxg7+ Qg6 45. hxg6 *

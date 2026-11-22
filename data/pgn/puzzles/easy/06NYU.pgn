@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06NYU"]
+[Difficulty "easy"]
+[Rating "1037"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/NTEimGeW#55"]
+[Solution "d2f4 g3g2"]
+[SolutionSAN "Bf4 Qxg2#"]
+[FEN "6R1/ppkn1Q2/2pb2r1/8/P7/3P2qP/1PPB2B1/R6K w - - 1 28"]
+[SetUp "1"]
+
+28. Bf4 Qxg2# *

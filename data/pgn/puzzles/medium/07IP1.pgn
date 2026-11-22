@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07IP1"]
+[Difficulty "medium"]
+[Rating "1460"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/YRtefK72#103"]
+[Solution "d6c5 b5b4 c3c4 a5b5 c4b4 b5c5"]
+[SolutionSAN "Bc5 b4 Rc4 Kb5 Rxb4+ Kxc5"]
+[FEN "8/8/3B4/kp3b2/6p1/2R3P1/1KP3r1/8 w - - 2 52"]
+[SetUp "1"]
+
+52. Bc5 b4 53. Rc4 Kb5 54. Rxb4+ Kxc5 *

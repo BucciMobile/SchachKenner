@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01YpY"]
+[Difficulty "medium"]
+[Rating "1205"]
+[Themes "advantage discoveredAttack endgame long"]
+[GameUrl "https://lichess.org/game/WILzCJLB/black#64"]
+[Solution "c5d4 b2d4 e5d4 c4f7 g8f7 c1c8"]
+[SolutionSAN "Qxd4+ Qxd4 exd4 Bxf7+ Kxf7 Rxc8"]
+[FEN "2r3k1/5ppp/1p3n2/2q1p3/2BN4/5P2/PQ4PP/2R3K1 b - - 2 32"]
+[SetUp "1"]
+
+32... Qxd4+ 33. Qxd4 exd4 34. Bxf7+ Kxf7 35. Rxc8 *

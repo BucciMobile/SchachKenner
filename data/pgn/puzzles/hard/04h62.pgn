@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04h62"]
+[Difficulty "hard"]
+[Rating "2282"]
+[Themes "advancedPawn crushing long middlegame"]
+[GameUrl "https://lichess.org/game/baZkugmz#53"]
+[Solution "g1h1 f6h4 f1f2 g4g3 h2h3 g3f2"]
+[SolutionSAN "Kh1 Qh4 Rf2 g3 h3 gxf2"]
+[FEN "r1b4r/2p2pk1/p1P2q2/1pQPp2p/4P1p1/3N1P2/P1B1n1PP/1R3RK1 w - - 2 27"]
+[SetUp "1"]
+
+27. Kh1 Qh4 28. Rf2 g3 29. h3 gxf2 *

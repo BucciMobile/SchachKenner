@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02xoa"]
+[Difficulty "hard"]
+[Rating "2758"]
+[Themes "advancedPawn crushing defensiveMove endgame exposedKing master masterVsMaster promotion quietMove veryLong"]
+[GameUrl "https://lichess.org/game/LtneVdvK#123"]
+[Solution "g7f7 f5g4 d1d5 c6d5 f7d7 g4g3 d7g7 g3f2 h5h6 d5d4 h6h7 d4d3 c2b2 d3d2 h7h8q d2d1q h8h2 f2f1 h2h1 f1e2"]
+[SolutionSAN "Qf7+ Kg4 Rxd5 cxd5 Qd7+ Kxg3 Qg7+ Kf2 h6 d4 h7 d3+ Kb2 d2 h8=Q d1=Q Qh2+ Kf1 Qh1+ Ke2"]
+[FEN "8/1p4Q1/p1p5/P2r1k1P/1P6/4qpP1/2K5/3R4 w - - 4 62"]
+[SetUp "1"]
+
+62. Qf7+ Kg4 63. Rxd5 cxd5 64. Qd7+ Kxg3 65. Qg7+ Kf2 66. h6 d4 67. h7 d3+ 68. Kb2 d2 69. h8=Q d1=Q 70. Qh2+ Kf1 71. Qh1+ Ke2 *

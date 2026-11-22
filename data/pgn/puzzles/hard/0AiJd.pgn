@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AiJd"]
+[Difficulty "hard"]
+[Rating "2916"]
+[Themes "crushing endgame knightEndgame long"]
+[GameUrl "https://lichess.org/game/KHdBKY0r#121"]
+[Solution "a5b5 g7f6 g5f3 f6f5 b5c4 f5e4"]
+[SolutionSAN "Kb5 Kf6 Nf3 Kf5 Kc4 Ke4"]
+[FEN "8/6k1/6p1/K5Np/8/8/8/8 w - - 1 61"]
+[SetUp "1"]
+
+61. Kb5 Kf6 62. Nf3 Kf5 63. Kc4 Ke4 *

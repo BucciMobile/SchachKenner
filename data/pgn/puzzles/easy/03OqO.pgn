@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03OqO"]
+[Difficulty "easy"]
+[Rating "1074"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/LghtmEuf#99"]
+[Solution "g2h3 f2g3"]
+[SolutionSAN "Kh3 Qg3#"]
+[FEN "4Q3/6k1/8/p4Bp1/P2PQ3/4P3/5qK1/4b3 w - - 5 50"]
+[SetUp "1"]
+
+50. Kh3 Qg3# *

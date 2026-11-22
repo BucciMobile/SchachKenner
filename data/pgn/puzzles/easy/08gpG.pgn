@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08gpG"]
+[Difficulty "easy"]
+[Rating "809"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/VmP4TgvO/black#28"]
+[Solution "f6d5 d4g7"]
+[SolutionSAN "Nxd5 Qxg7#"]
+[FEN "1rb2r2/1pqpppbk/p4npp/3N4/2PQ4/1P4P1/PB2PPBP/R2R2K1 b - - 2 14"]
+[SetUp "1"]
+
+14... Nxd5 15. Qxg7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CaAl"]
+[Difficulty "easy"]
+[Rating "846"]
+[Themes "advancedPawn crushing endgame knightEndgame long"]
+[GameUrl "https://lichess.org/game/nPog27kU/black#66"]
+[Solution "a2c3 b5b6 a7b6 a5b6 c3d5 b6b7"]
+[SolutionSAN "Nc3 b6 axb6 axb6 Nd5 b7"]
+[FEN "6k1/p6p/4p1p1/PP6/8/7P/n4PP1/5K2 b - - 0 33"]
+[SetUp "1"]
+
+33... Nc3 34. b6 axb6 35. axb6 Nd5 36. b7 *

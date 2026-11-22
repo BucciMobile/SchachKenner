@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02J8s"]
+[Difficulty "easy"]
+[Rating "759"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/srsBlabW/black#28"]
+[Solution "h8g8 c2h7"]
+[SolutionSAN "Kxg8 Qh7#"]
+[FEN "r4rBk/ppp2pp1/2nqp3/3p4/3P2b1/2P1PNP1/PPQn1PP1/R3K2R b KQ - 2 14"]
+[SetUp "1"]
+
+14... Kxg8 15. Qh7# *

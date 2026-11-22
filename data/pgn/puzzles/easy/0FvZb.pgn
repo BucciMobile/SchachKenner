@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FvZb"]
+[Difficulty "easy"]
+[Rating "770"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/ZomTpOFw/black#60"]
+[Solution "c5e5 d6d8 c8d8 d4d8"]
+[SolutionSAN "Qxe5 Rd8+ Rxd8 Rxd8#"]
+[FEN "2r3k1/p1r2pp1/1n1Rp2p/2q1P3/3R4/2p3P1/P1Q2P1P/B5K1 b - - 10 30"]
+[SetUp "1"]
+
+30... Qxe5 31. Rd8+ Rxd8 32. Rxd8# *

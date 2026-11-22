@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GzwQ"]
+[Difficulty "medium"]
+[Rating "1603"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/HlJwGkeq/black#128"]
+[Solution "g3g2 g5f6 g2g1q b7b8"]
+[SolutionSAN "g2 Kf6 g1=Q Rb8#"]
+[FEN "6k1/1R6/6P1/6K1/8/6p1/7r/8 b - - 9 64"]
+[SetUp "1"]
+
+64... g2 65. Kf6 g1=Q 66. Rb8# *

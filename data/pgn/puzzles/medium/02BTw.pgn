@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02BTw"]
+[Difficulty "medium"]
+[Rating "1423"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/3noWJgZO/black#30"]
+[Solution "e8d7 c4e6 f7e6 b4f4"]
+[SolutionSAN "Kd7 Bxe6+ fxe6 Qxf4"]
+[FEN "r3k2r/pp3ppp/2bNp3/8/1QB2qn1/8/PP3PPP/R4RK1 b kq - 5 15"]
+[SetUp "1"]
+
+15... Kd7 16. Bxe6+ fxe6 17. Qxf4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G2rj"]
+[Difficulty "medium"]
+[Rating "1363"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/O2UpWFwi/black#70"]
+[Solution "h7h5 g1e2 f4g5 e2c3"]
+[SolutionSAN "h5 Ne2+ Kg5 Nxc3"]
+[FEN "8/1pp4p/p1b5/3p1p2/3P1k2/1Pr5/P1PR1K2/6N1 b - - 1 35"]
+[SetUp "1"]
+
+35... h5 36. Ne2+ Kg5 37. Nxc3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jt4C"]
+[Difficulty "hard"]
+[Rating "1807"]
+[Themes "advantage discoveredAttack endgame long"]
+[GameUrl "https://lichess.org/game/CD7NAHog#43"]
+[Solution "g5f7 e5f3 g1g2 c8h3 g2h3 a8e8"]
+[SolutionSAN "Nxf7 Nf3+ Kxg2 Bh3+ Kxh3 Rxe8"]
+[FEN "r1b1Q3/ppp2n2/6k1/2p1n1Np/8/8/PPP2PpP/R5K1 w - - 3 22"]
+[SetUp "1"]
+
+22. Nxf7 Nf3+ 23. Kxg2 Bh3+ 24. Kxh3 Rxe8 *

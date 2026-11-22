@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "042DR"]
+[Difficulty "hard"]
+[Rating "2239"]
+[Themes "crushing kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/zmRCH71s#51"]
+[Solution "e5g3 e4g3 h2g3 g4f3 d1e2 f3e2"]
+[SolutionSAN "Bg3 Nxg3+ hxg3 Qxf3 Qxe2 Qxe2"]
+[FEN "6k1/5pp1/p1p4p/4BP2/P1P1n1q1/5N2/1r2r1PP/R2Q2RK w - - 5 26"]
+[SetUp "1"]
+
+26. Bg3 Nxg3+ 27. hxg3 Qxf3 28. Qxe2 Qxe2 *

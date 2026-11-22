@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J3Ao"]
+[Difficulty "hard"]
+[Rating "2403"]
+[Themes "advancedPawn crushing endgame long quietMove"]
+[GameUrl "https://lichess.org/game/AMsDM3c7/black#66"]
+[Solution "f7g6 f6f7 g8f8 g4h4 b6f6 f1f6"]
+[SolutionSAN "fxg6 f7+ Kf8 Rh4 Rf6 Rxf6"]
+[FEN "6k1/1b3p2/1r3PB1/3p4/6R1/P1r5/7P/5RK1 b - - 0 33"]
+[SetUp "1"]
+
+33... fxg6 34. f7+ Kf8 35. Rh4 Rf6 36. Rxf6 *

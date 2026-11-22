@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05raq"]
+[Difficulty "hard"]
+[Rating "1976"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/MlrOAmSK/black#92"]
+[Solution "c6e4 e3a7 e4e5 f4e5"]
+[SolutionSAN "Qe4 Qa7 Qxe5 fxe5"]
+[FEN "8/6pk/p1q4p/1p2Bp2/2p2P2/P1PbQ2P/1P4PK/8 b - - 7 46"]
+[SetUp "1"]
+
+46... Qe4 47. Qa7 Qxe5 48. fxe5 *

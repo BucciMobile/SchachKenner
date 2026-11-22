@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02mvf"]
+[Difficulty "medium"]
+[Rating "1392"]
+[Themes "endgame intermezzo mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/whj517bP#67"]
+[Solution "a1d1 e6h3 h1g1 d8d1"]
+[SolutionSAN "Rxd1 Qxh3+ Kg1 Rxd1#"]
+[FEN "3r4/1Q3ppk/1p2q2p/1R6/2P1p3/1P2P1PP/5P2/R2r3K w - - 1 34"]
+[SetUp "1"]
+
+34. Rxd1 Qxh3+ 35. Kg1 Rxd1# *

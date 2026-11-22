@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04CN2"]
+[Difficulty "hard"]
+[Rating "1826"]
+[Themes "advantage discoveredAttack intermezzo long middlegame"]
+[GameUrl "https://lichess.org/game/bNinMFDx/black#52"]
+[Solution "c7c6 c1f4 g3f4 a1e1 e8e1 d4f4"]
+[SolutionSAN "c6 Bf4+ Bxf4 Rxe1 Rxe1 Qxf4+"]
+[FEN "1k1rr3/ppp2p1p/8/3B4/3Q4/2NK2b1/PPP3P1/R1B1q3 b - - 8 26"]
+[SetUp "1"]
+
+26... c6 27. Bf4+ Bxf4 28. Rxe1 Rxe1 29. Qxf4+ *

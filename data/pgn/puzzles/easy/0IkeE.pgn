@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IkeE"]
+[Difficulty "easy"]
+[Rating "1058"]
+[Themes "crushing discoveredAttack discoveredCheck endgame long"]
+[GameUrl "https://lichess.org/game/hUpLerva#57"]
+[Solution "a4a7 d7d1 g1g2 e6f4 e3f4 g5f4"]
+[SolutionSAN "Rxa7 Rd1+ Kg2 Nf4+ Qxf4+ gxf4+"]
+[FEN "6r1/p2r1p2/2p1nk1p/6p1/R7/2P1QP2/PP3P1P/6K1 w - - 9 29"]
+[SetUp "1"]
+
+29. Rxa7 Rd1+ 30. Kg2 Nf4+ 31. Qxf4+ gxf4+ *

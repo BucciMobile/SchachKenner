@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Crax"]
+[Difficulty "hard"]
+[Rating "2236"]
+[Themes "advantage endgame long pin"]
+[GameUrl "https://lichess.org/game/HybQLCSl#45"]
+[Solution "d6g6 c6e7 g6g2 h8g8 g2g8 e7g8"]
+[SolutionSAN "Qg6 Ne7 Qg2 Rg8 Qxg8+ Nxg8"]
+[FEN "2k4r/pp6/2nQ4/2p4p/4P2p/5P1q/PPP2P2/3R1RK1 w - - 1 23"]
+[SetUp "1"]
+
+23. Qg6 Ne7 24. Qg2 Rg8 25. Qxg8+ Nxg8 *

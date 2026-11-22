@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JLFH"]
+[Difficulty "easy"]
+[Rating "865"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/3A9wB1Tq/black#168"]
+[Solution "b8d6 c1a1"]
+[SolutionSAN "Bd6 Ra1#"]
+[FEN "1b6/8/8/8/kpK5/2p5/7p/2R5 b - - 3 84"]
+[SetUp "1"]
+
+84... Bd6 85. Ra1# *

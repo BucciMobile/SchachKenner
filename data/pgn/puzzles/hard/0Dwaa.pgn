@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dwaa"]
+[Difficulty "hard"]
+[Rating "2039"]
+[Themes "advantage attraction fork long opening"]
+[GameUrl "https://lichess.org/game/1b56uw4E/black#24"]
+[Solution "c2f5 h3f5 f7f5 g8g6 e8d7 g6f5"]
+[SolutionSAN "Bf5 Bxf5 Rxf5 Qg6+ Kd7 Qxf5+"]
+[FEN "r2qkbQ1/ppp1pr2/2n5/3p4/3P4/5N1B/PPb1PP2/RNB1K3 b Qq - 1 12"]
+[SetUp "1"]
+
+12... Bf5 13. Bxf5 Rxf5 14. Qg6+ Kd7 15. Qxf5+ *

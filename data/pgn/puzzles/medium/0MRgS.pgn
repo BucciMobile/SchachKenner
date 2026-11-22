@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MRgS"]
+[Difficulty "medium"]
+[Rating "1401"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/I7J3gSy3/black#116"]
+[Solution "f7e6 f5e6 h6g7 h4g4"]
+[SolutionSAN "Bxe6 fxe6 Kg7 Kg4"]
+[FEN "8/5b2/4Bp1k/p2p1P2/3P3K/8/1P6/8 b - - 2 58"]
+[SetUp "1"]
+
+58... Bxe6 59. fxe6 Kg7 60. Kg4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GQFz"]
+[Difficulty "hard"]
+[Rating "1915"]
+[Themes "discoveredAttack discoveredCheck endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/PqC6731r#73"]
+[Solution "g2g1 d2f3 g1h1 f1h3"]
+[SolutionSAN "Kg1 Nf3+ Kh1 Bh3#"]
+[FEN "6k1/R7/p3N1B1/3p4/3P3P/6P1/3n1PK1/2r2b2 w - - 6 37"]
+[SetUp "1"]
+
+37. Kg1 Nf3+ 38. Kh1 Bh3# *

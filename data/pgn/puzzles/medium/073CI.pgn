@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "073CI"]
+[Difficulty "medium"]
+[Rating "1609"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/kQERPK5J/black#34"]
+[Solution "f8e8 e2c4 d7e6 c4b4"]
+[SolutionSAN "Re8 Qxc4+ Be6 Qxb4"]
+[FEN "r2q1rk1/1p1b2pp/p1p2n2/4Bp2/1bpP4/2N2PP1/PP2Q1BP/2R1R1K1 b - - 3 17"]
+[SetUp "1"]
+
+17... Re8 18. Qxc4+ Be6 19. Qxb4 *

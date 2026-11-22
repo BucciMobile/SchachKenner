@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bsy2"]
+[Difficulty "easy"]
+[Rating "935"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/VT10qXZp/black#80"]
+[Solution "f7f5 f2e3 d2d3 e3g5"]
+[SolutionSAN "f5 Be3+ Kd3 Bxg5"]
+[FEN "8/5p2/p1p1p3/3p2r1/3P2B1/P4KP1/1P1k1B2/8 b - - 5 40"]
+[SetUp "1"]
+
+40... f5 41. Be3+ Kd3 42. Bxg5 *

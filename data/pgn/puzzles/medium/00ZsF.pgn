@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00ZsF"]
+[Difficulty "medium"]
+[Rating "1645"]
+[Themes "advantage defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/s4b05ozr/black#40"]
+[Solution "c8h3 g2h3 d8d7 f1f5"]
+[SolutionSAN "Bxh3 Bxh3 Qd7 Rf5"]
+[FEN "r1bqk2r/bpp5/p5n1/3P4/4P3/6BP/PP4BK/R2Q1R2 b kq - 2 20"]
+[SetUp "1"]
+
+20... Bxh3 21. Bxh3 Qd7 22. Rf5 *

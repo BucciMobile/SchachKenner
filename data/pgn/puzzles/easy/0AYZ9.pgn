@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AYZ9"]
+[Difficulty "easy"]
+[Rating "960"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/Elw9dc42/black#46"]
+[Solution "h5f3 e2e8 a8e8 e1e8"]
+[SolutionSAN "Bxf3 Qe8+ Rxe8 Rxe8#"]
+[FEN "r5k1/5ppp/pnpp1q2/7b/1PP5/3P1N1P/4QPP1/4R1K1 b - - 3 23"]
+[SetUp "1"]
+
+23... Bxf3 24. Qe8+ Rxe8 25. Rxe8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0540T"]
+[Difficulty "easy"]
+[Rating "733"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/i4tYtgfk/black#70"]
+[Solution "e7d8 g5d8"]
+[SolutionSAN "Qxd8 Qxd8#"]
+[FEN "2bR1k1r/p3qp2/2p1p1p1/2p1P1QN/2P5/1P4P1/P4P2/6K1 b - - 16 35"]
+[SetUp "1"]
+
+35... Qxd8 36. Qxd8# *

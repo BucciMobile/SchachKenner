@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "024sp"]
+[Difficulty "medium"]
+[Rating "1399"]
+[Themes "attraction deflection hangingPiece long mate mateIn3 middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/rzwAk4RH/black#32"]
+[Solution "d3e2 d1d8 a7c8 a1a8 b8a8 d8c8"]
+[SolutionSAN "Qxe2 Rxd8+ Nc8 Ra8+ Kxa8 Rxc8#"]
+[FEN "1k1r1b1r/npp2pp1/5n1p/1N6/8/1P1q1N2/1P2QPPP/R2R2K1 b - - 1 16"]
+[SetUp "1"]
+
+16... Qxe2 17. Rxd8+ Nc8 18. Ra8+ Kxa8 19. Rxc8# *

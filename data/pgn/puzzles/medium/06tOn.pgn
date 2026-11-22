@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06tOn"]
+[Difficulty "medium"]
+[Rating "1592"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/77TQqNHE#69"]
+[Solution "b2c4 e3e1"]
+[SolutionSAN "Nxc4 Qe1#"]
+[FEN "6k1/3R4/3B3p/3P1p2/2pb4/3nqP2/1NQ3PP/5K2 w - - 1 35"]
+[SetUp "1"]
+
+35. Nxc4 Qe1# *

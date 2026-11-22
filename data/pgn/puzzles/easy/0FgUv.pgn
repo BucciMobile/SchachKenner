@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FgUv"]
+[Difficulty "easy"]
+[Rating "1175"]
+[Themes "advancedPawn endgame exposedKing long mate mateIn3 rookEndgame"]
+[GameUrl "https://lichess.org/game/Iv4Ja4qc#123"]
+[Solution "f1c1 g4g3 c1c2 g3g2 c2g2 f3g2"]
+[SolutionSAN "Rxc1 g3 Rc2 g2+ Rxg2 fxg2#"]
+[FEN "8/8/8/8/6p1/5p1k/7p/2r2R1K w - - 4 62"]
+[SetUp "1"]
+
+62. Rxc1 g3 63. Rc2 g2+ 64. Rxg2 fxg2# *

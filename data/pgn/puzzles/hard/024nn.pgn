@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "024nn"]
+[Difficulty "hard"]
+[Rating "2300"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short xRayAttack"]
+[GameUrl "https://lichess.org/game/r4Pi15FR#49"]
+[Solution "e2f3 g3g2 f3g2 b7g2"]
+[SolutionSAN "Bxf3 Qxg2+ Bxg2 Bxg2#"]
+[FEN "2k5/1bp3pp/1p2p3/2n1b3/2P5/Q4rqP/PP1rB1P1/4RRBK w - - 0 25"]
+[SetUp "1"]
+
+25. Bxf3 Qxg2+ 26. Bxg2 Bxg2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AL2v"]
+[Difficulty "hard"]
+[Rating "1769"]
+[Themes "advantage defensiveMove endgame hangingPiece long"]
+[GameUrl "https://lichess.org/game/CDFVegta#63"]
+[Solution "h1h7 g8h7 c1h1 h7g6 h1h8 b3b8"]
+[SolutionSAN "Rxh7 Kxh7 Rh1+ Kg6 Rh8 Rbb8"]
+[FEN "2r3k1/6Pp/8/2P2p2/p2Bp3/Pr1bP3/3K1PP1/2R4R w - - 4 32"]
+[SetUp "1"]
+
+32. Rxh7 Kxh7 33. Rh1+ Kg6 34. Rh8 Rbb8 *

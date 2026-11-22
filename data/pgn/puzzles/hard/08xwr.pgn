@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08xwr"]
+[Difficulty "hard"]
+[Rating "1979"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/ibFjzq5x/black#74"]
+[Solution "a4a3 e1e8 g8h7 c7c8 d3f3 g3g2"]
+[SolutionSAN "Raa3 Re8+ Kh7 Rcc8 Rxf3+ Kg2"]
+[FEN "6k1/2R3p1/7p/5p1P/r1p2P2/3r1PK1/8/4R3 b - - 1 37"]
+[SetUp "1"]
+
+37... Raa3 38. Re8+ Kh7 39. Rcc8 Rxf3+ 40. Kg2 *

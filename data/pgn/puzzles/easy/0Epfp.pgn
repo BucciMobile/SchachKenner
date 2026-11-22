@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Epfp"]
+[Difficulty "easy"]
+[Rating "1091"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/vgqfIWY7#67"]
+[Solution "d1d5 e3e1 f2e1 e5e1"]
+[SolutionSAN "Rd5 Re1+ Qxe1 Qxe1+"]
+[FEN "6k1/p6p/6p1/2p1qp2/2P5/1P2r1P1/P4Q1P/3R2K1 w - - 2 34"]
+[SetUp "1"]
+
+34. Rd5 Re1+ 35. Qxe1 Qxe1+ *

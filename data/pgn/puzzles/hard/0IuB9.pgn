@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IuB9"]
+[Difficulty "hard"]
+[Rating "2332"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/7q9YuBoI#39"]
+[Solution "d4e6 f8e8 e6d8 e8e7"]
+[SolutionSAN "Ne6 Rfe8 Nxd8 Rxe7"]
+[FEN "3r1rk1/p2bR1p1/2p3qp/3p4/3N1p2/2P2Q2/PP3PPP/4R1K1 w - - 0 20"]
+[SetUp "1"]
+
+20. Ne6 Rfe8 21. Nxd8 Rxe7 *

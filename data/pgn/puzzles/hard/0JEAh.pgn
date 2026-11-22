@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JEAh"]
+[Difficulty "hard"]
+[Rating "1743"]
+[Themes "crushing endgame short xRayAttack"]
+[GameUrl "https://lichess.org/game/fQlK5jMf#107"]
+[Solution "b2b8 c8b8 c7b8r e5b8"]
+[SolutionSAN "Qb8 Rxb8 cxb8=R+ Qxb8"]
+[FEN "2r3k1/2P2p2/6p1/4q2p/7P/2R3P1/1Q5K/8 w - - 0 54"]
+[SetUp "1"]
+
+54. Qb8 Rxb8 55. cxb8=R+ Qxb8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JFXQ"]
+[Difficulty "hard"]
+[Rating "2713"]
+[Themes "advantage endgame veryLong"]
+[GameUrl "https://lichess.org/game/giANPN7f/black#84"]
+[Solution "b5c4 e8a4 c4d5 g2f3 b6b5 c2c4 d5c6 a4b5"]
+[SolutionSAN "Kc4 Qa4+ Kd5 Kf3 b5 c4+ Kc6 Qxb5+"]
+[FEN "4Q3/4b3/1p1p1p1r/pkp1qP2/6PP/8/PPP3KR/8 b - - 5 42"]
+[SetUp "1"]
+
+42... Kc4 43. Qa4+ Kd5 44. Kf3 b5 45. c4+ Kc6 46. Qxb5+ *

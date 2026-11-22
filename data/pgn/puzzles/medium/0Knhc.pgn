@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Knhc"]
+[Difficulty "medium"]
+[Rating "1498"]
+[Themes "advantage capturingDefender opening short"]
+[GameUrl "https://lichess.org/game/aLiwvw3V/black#30"]
+[Solution "d7e5 e4d6 c8d7 c6e5"]
+[SolutionSAN "Ne5 Nxd6 Qd7 Nxe5"]
+[FEN "r1q2rk1/2pn1ppp/1nNbp3/pB6/4N3/8/1PPP1PPP/2BQ1RK1 b - - 7 15"]
+[SetUp "1"]
+
+15... Ne5 16. Nxd6 Qd7 17. Nxe5 *

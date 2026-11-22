@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EqRt"]
+[Difficulty "medium"]
+[Rating "1322"]
+[Themes "advantage middlegame oneMove"]
+[GameUrl "https://lichess.org/game/cAy36lGe#25"]
+[Solution "f2f3 h6g5"]
+[SolutionSAN "f3 Bxg5"]
+[FEN "r3k2r/ppp1q3/3pp1pb/4p1Np/3nP1n1/N2P3Q/PPP2PPP/R1B1K2R w KQkq - 1 13"]
+[SetUp "1"]
+
+13. f3 Bxg5 *

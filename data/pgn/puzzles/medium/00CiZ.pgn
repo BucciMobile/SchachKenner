@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00CiZ"]
+[Difficulty "medium"]
+[Rating "1360"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/PJQUqCX1#67"]
+[Solution "e1d1 f8f3 g2f3 d5f3"]
+[SolutionSAN "Red1 Rxf3 gxf3 Qxf3+"]
+[FEN "5r1k/6b1/3p3p/1P1q2pQ/r5P1/3p1N1P/3R2P1/4R2K w - - 2 34"]
+[SetUp "1"]
+
+34. Red1 Rxf3 35. gxf3 Qxf3+ *

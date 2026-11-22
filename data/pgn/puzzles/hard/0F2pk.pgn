@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F2pk"]
+[Difficulty "hard"]
+[Rating "2547"]
+[Themes "advantage defensiveMove endgame pin short"]
+[GameUrl "https://lichess.org/game/kpHPIATW/black#64"]
+[Solution "h5h4 f3e5 f7e7 g1f1"]
+[SolutionSAN "h4 Ne5+ Ke7 Rf1"]
+[FEN "8/5k1p/p1pqpp2/3p3p/2pP4/2P2Nr1/PP3Q2/6RK b - - 1 32"]
+[SetUp "1"]
+
+32... h4 33. Ne5+ Ke7 34. Rf1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00k2Z"]
+[Difficulty "medium"]
+[Rating "1607"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/VixyagD2#75"]
+[Solution "f1e1 d4c3 e1d1 f8f1"]
+[SolutionSAN "Ke1 Bc3+ Kd1 Rf1#"]
+[FEN "5rk1/8/8/p1pR4/P1Pb4/1P1p2P1/6P1/1R3K2 w - - 3 38"]
+[SetUp "1"]
+
+38. Ke1 Bc3+ 39. Kd1 Rf1# *

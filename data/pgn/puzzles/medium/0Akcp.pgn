@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Akcp"]
+[Difficulty "medium"]
+[Rating "1364"]
+[Themes "advantage hangingPiece kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/Rexb8QD0#65"]
+[Solution "h4f2 e4b1 f2f1 b1f1"]
+[SolutionSAN "Qxf2 Qxb1+ Qf1 Qxf1+"]
+[FEN "4rnk1/1p3pP1/p6p/3pN3/b2Pq1NQ/8/1P3rPP/1R4K1 w - - 0 33"]
+[SetUp "1"]
+
+33. Qxf2 Qxb1+ 34. Qf1 Qxf1+ *

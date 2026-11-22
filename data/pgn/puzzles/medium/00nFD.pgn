@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00nFD"]
+[Difficulty "medium"]
+[Rating "1331"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/FeP6qhNK#31"]
+[Solution "g2g4 d5e3 c4e6 e3d1"]
+[SolutionSAN "g4 Nxe3 Bxe6 Nxd1"]
+[FEN "r4rk1/p1q2pb1/2p1b1pp/3np3/2B1N2P/4BP2/PPP3P1/2KRQ2R w - - 0 16"]
+[SetUp "1"]
+
+16. g4 Nxe3 17. Bxe6 Nxd1 *

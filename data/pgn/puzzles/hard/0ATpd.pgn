@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ATpd"]
+[Difficulty "hard"]
+[Rating "2016"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/7kziZorF#53"]
+[Solution "g4f2 g5g3 f2e4 g3h2"]
+[SolutionSAN "Nf2 Qg3 Ne4 Qh2+"]
+[FEN "5r1k/pp4p1/2p3n1/6qp/2Q2bN1/7P/PPP3P1/4RRK1 w - - 0 27"]
+[SetUp "1"]
+
+27. Nf2 Qg3 28. Ne4 Qh2+ *

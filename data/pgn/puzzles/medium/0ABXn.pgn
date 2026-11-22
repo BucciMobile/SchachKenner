@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ABXn"]
+[Difficulty "medium"]
+[Rating "1481"]
+[Themes "crushing defensiveMove endgame master short"]
+[GameUrl "https://lichess.org/game/LmjWV32Y#155"]
+[Solution "f2f3 g4f3 g2f3 d5d4"]
+[SolutionSAN "Qxf3+ gxf3+ Kxf3 d4"]
+[FEN "8/8/8/3p4/6p1/3k1nP1/5QK1/8 w - - 4 78"]
+[SetUp "1"]
+
+78. Qxf3+ gxf3+ 79. Kxf3 d4 *

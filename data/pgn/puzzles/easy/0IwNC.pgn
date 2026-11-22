@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IwNC"]
+[Difficulty "easy"]
+[Rating "996"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/BHBLJ350/black#52"]
+[Solution "a8d8 d5f7 g8h8 f7f8 d8f8 f1f8"]
+[SolutionSAN "Rd8 Qxf7+ Kh8 Qf8+ Rxf8 Rxf8#"]
+[FEN "r5k1/1p3ppp/1q6/p2Q4/P7/1P2b1P1/6KP/5R2 b - - 0 26"]
+[SetUp "1"]
+
+26... Rd8 27. Qxf7+ Kh8 28. Qf8+ Rxf8 29. Rxf8# *

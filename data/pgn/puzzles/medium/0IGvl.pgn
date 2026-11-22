@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IGvl"]
+[Difficulty "medium"]
+[Rating "1264"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/MJjwwJjf/black#66"]
+[Solution "e6f5 d6b6 f5d3 c2d3"]
+[SolutionSAN "Bf5 Rxb6 Bxd3 Bxd3"]
+[FEN "r4rk1/1p3p2/pq1Rbbp1/7p/P4P2/3Q4/1PBB2PP/5R1K b - - 1 33"]
+[SetUp "1"]
+
+33... Bf5 34. Rxb6 Bxd3 35. Bxd3 *

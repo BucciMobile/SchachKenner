@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HJP4"]
+[Difficulty "hard"]
+[Rating "2307"]
+[Themes "crushing kingsideAttack long middlegame pin sacrifice"]
+[GameUrl "https://lichess.org/game/Dhe1ZA77/black#44"]
+[Solution "e8e5 d3c4 e5h5 h6g6 g8h8 g6h5"]
+[SolutionSAN "Re5 Bc4 Rxh5 Qxg6+ Kh8 Qxh5+"]
+[FEN "r3r1k1/pp3p2/1qp2pnQ/7R/3PP3/2PB4/PP4P1/6K1 b - - 0 22"]
+[SetUp "1"]
+
+22... Re5 23. Bc4 Rxh5 24. Qxg6+ Kh8 25. Qxh5+ *

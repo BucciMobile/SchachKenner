@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KQ9n"]
+[Difficulty "medium"]
+[Rating "1658"]
+[Themes "clearance endgame mate mateIn2 pin sacrifice short"]
+[GameUrl "https://lichess.org/game/tBfYH9Zx/black#52"]
+[Solution "f6g4 b7f7 f8f7 b1b8"]
+[SolutionSAN "Ng4 Qxf7+ Rxf7 Rb8#"]
+[FEN "5rk1/1Q3ppp/5n2/8/2Bp4/3P4/2q2PPP/1R5K b - - 2 26"]
+[SetUp "1"]
+
+26... Ng4 27. Qxf7+ Rxf7 28. Rb8# *

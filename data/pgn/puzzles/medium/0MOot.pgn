@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MOot"]
+[Difficulty "medium"]
+[Rating "1590"]
+[Themes "crushing kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/n9dR72yt/black#28"]
+[Solution "e7g5 f3g5 d8g5 d5f6 g5f6 f1f6"]
+[SolutionSAN "Bg5 Nxg5 Qxg5 Nf6+ Qxf6 Rxf6"]
+[FEN "r1bq1rk1/1pp1bp1n/p2p3Q/3N4/4P3/1P1P1N2/1PP3PP/R4RK1 b - - 2 14"]
+[SetUp "1"]
+
+14... Bg5 15. Nxg5 Qxg5 16. Nf6+ Qxf6 17. Rxf6 *

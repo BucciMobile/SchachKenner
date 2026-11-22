@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06eXX"]
+[Difficulty "easy"]
+[Rating "803"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/4M7zm488/black#48"]
+[Solution "g8h8 e6e8 d8e8 e2e8 c8e8 e1e8"]
+[SolutionSAN "Kh8 Qe8+ Rxe8 Rxe8+ Rxe8 Rxe8#"]
+[FEN "2rr2k1/p1q3pp/4Q3/3p4/1PnP1P2/2P5/P3RP1P/4R1K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Kh8 25. Qe8+ Rxe8 26. Rxe8+ Rxe8 27. Rxe8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0By3G"]
+[Difficulty "hard"]
+[Rating "2327"]
+[Themes "advancedPawn crushing endgame promotion quietMove sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/fOn0pNCm#81"]
+[Solution "g2e4 e3e4 h4e4 e1e4 d3e4 d4d3 h8a8 h6c1 a8a4 c1b2 a4a2 d3d2 a2b2 d2d1q"]
+[SolutionSAN "Be4+ Rxe4 Qxe4+ Qxe4 dxe4 d3 Ra8 Bc1 Ra4 Bb2 Ra2 d2 Rxb2 d1=Q"]
+[FEN "7R/1p3pp1/1P4kb/3P4/3p3Q/3Pr1P1/6BK/4q3 w - - 2 41"]
+[SetUp "1"]
+
+41. Be4+ Rxe4 42. Qxe4+ Qxe4 43. dxe4 d3 44. Ra8 Bc1 45. Ra4 Bb2 46. Ra2 d2 47. Rxb2 d1=Q *

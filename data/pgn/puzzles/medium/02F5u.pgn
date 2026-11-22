@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02F5u"]
+[Difficulty "medium"]
+[Rating "1347"]
+[Themes "crushing defensiveMove endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/nr1mzMxf/black#88"]
+[Solution "f7g7 g5h5 g7f6 h5g4"]
+[SolutionSAN "Kg7 Kxh5 Kf6 Kg4"]
+[FEN "8/5k2/4p3/6Kp/3P4/5P2/8/8 b - - 0 44"]
+[SetUp "1"]
+
+44... Kg7 45. Kxh5 Kf6 46. Kg4 *

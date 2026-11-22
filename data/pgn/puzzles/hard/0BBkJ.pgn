@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BBkJ"]
+[Difficulty "hard"]
+[Rating "2063"]
+[Themes "endgame mate mateIn2 queensideAttack short"]
+[GameUrl "https://lichess.org/game/ojhjIcPv/black#62"]
+[Solution "d1f3 a7b7 c8d7 b7c7"]
+[SolutionSAN "Qxf3 Qxb7+ Kd7 Qxc7#"]
+[FEN "2k1r3/Qpp1n3/P2pN1pb/3P1p1p/2P4P/P1K1PR2/8/3q4 b - - 9 31"]
+[SetUp "1"]
+
+31... Qxf3 32. Qxb7+ Kd7 33. Qxc7# *

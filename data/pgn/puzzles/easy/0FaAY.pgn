@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FaAY"]
+[Difficulty "easy"]
+[Rating "899"]
+[Themes "crushing discoveredAttack kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/5QC0NKCG/black#48"]
+[Solution "f6h5 e4h7 g8h7 e3e8 f8e8 e1e8"]
+[SolutionSAN "Nh5 Bxh7+ Kxh7 Rxe8 Rxe8 Rxe8"]
+[FEN "4rrk1/2q2ppp/p2p1n2/1p1P4/2pQB3/P1P1RP2/1P4PP/4R1K1 b - - 4 24"]
+[SetUp "1"]
+
+24... Nh5 25. Bxh7+ Kxh7 26. Rxe8 Rxe8 27. Rxe8 *

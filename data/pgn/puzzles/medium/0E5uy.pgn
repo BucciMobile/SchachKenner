@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E5uy"]
+[Difficulty "medium"]
+[Rating "1252"]
+[Themes "advantage middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/f4ywAeAE/black#52"]
+[Solution "h8e8 e3e6 e8e6 d4d7"]
+[SolutionSAN "Rhe8 Rxe6 Rxe6 Qd7+"]
+[FEN "r6r/pp5k/2p1b1qp/8/3Q4/4RP2/P1P3PP/4R1K1 b - - 2 26"]
+[SetUp "1"]
+
+26... Rhe8 27. Rxe6 Rxe6 28. Qd7+ *

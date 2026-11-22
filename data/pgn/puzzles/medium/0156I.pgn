@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0156I"]
+[Difficulty "medium"]
+[Rating "1344"]
+[Themes "endgame master mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/n79dNELk/black#92"]
+[Solution "g5b5 h7h8"]
+[SolutionSAN "Rb5 Rh8#"]
+[FEN "2k5/1p5R/3K4/P5r1/8/1p6/8/8 b - - 1 46"]
+[SetUp "1"]
+
+46... Rb5 47. Rh8# *

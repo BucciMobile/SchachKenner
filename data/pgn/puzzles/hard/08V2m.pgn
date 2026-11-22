@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08V2m"]
+[Difficulty "hard"]
+[Rating "1850"]
+[Themes "crushing endgame long pin"]
+[GameUrl "https://lichess.org/game/9R7T38ra/black#72"]
+[Solution "f2e2 b4c5 d6c6 g7d4 e2d1 d4d1"]
+[SolutionSAN "Qe2 bxc5+ Kc6 Qxd4 Qxd1+ Qxd1"]
+[FEN "r7/1p4Q1/p2kp3/2p5/1P1nP2p/P6P/5qP1/3R3K b - - 0 36"]
+[SetUp "1"]
+
+36... Qe2 37. bxc5+ Kc6 38. Qxd4 Qxd1+ 39. Qxd1 *

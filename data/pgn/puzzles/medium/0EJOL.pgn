@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EJOL"]
+[Difficulty "medium"]
+[Rating "1685"]
+[Themes "crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/jzMXp8Ky/black#30"]
+[Solution "f6f5 e4f6 e7f6 h4f6"]
+[SolutionSAN "f5 Nf6 Qxf6 Qxf6+"]
+[FEN "r4r1k/1p2qp1p/p2bpp2/2p5/4N2Q/3P4/PPP2PPP/R4RK1 b - - 5 15"]
+[SetUp "1"]
+
+15... f5 16. Nf6 Qxf6 17. Qxf6+ *

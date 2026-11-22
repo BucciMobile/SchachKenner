@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H1V6"]
+[Difficulty "easy"]
+[Rating "1153"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/tHf2mKN4/black#88"]
+[Solution "a7a5 b7b8"]
+[SolutionSAN "a5 Rb8#"]
+[FEN "4k3/pR6/3pK3/4b3/r7/8/8/8 b - - 3 44"]
+[SetUp "1"]
+
+44... a5 45. Rb8# *

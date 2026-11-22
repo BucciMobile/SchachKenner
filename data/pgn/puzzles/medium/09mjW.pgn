@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09mjW"]
+[Difficulty "medium"]
+[Rating "1449"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/sXOGuj06#39"]
+[Solution "c1c5 b5c5 d4c5 f6b2"]
+[SolutionSAN "Rc5 Qxc5 dxc5 Bxb2"]
+[FEN "r4rk1/5ppn/4pb1p/pq1p4/3P4/1P2PNB1/PQ3PPP/2R2RK1 w - - 0 20"]
+[SetUp "1"]
+
+20. Rc5 Qxc5 21. dxc5 Bxb2 *

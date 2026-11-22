@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NCFV"]
+[Difficulty "medium"]
+[Rating "1683"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/JvVKRykz#45"]
+[Solution "e3g4 h3g3"]
+[SolutionSAN "Ng4 Qg3#"]
+[FEN "r5kr/pp4b1/2pp2Q1/8/4PP2/1P1PN2q/1PP5/R4RK1 w - - 0 23"]
+[SetUp "1"]
+
+23. Ng4 Qg3# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02jDq"]
+[Difficulty "hard"]
+[Rating "1764"]
+[Themes "advantage master middlegame pin short"]
+[GameUrl "https://lichess.org/game/6NwUkRQo#77"]
+[Solution "h6f4 b8f8 g2f2 f8f4"]
+[SolutionSAN "Qxf4 Rbf8 Rf2 Rxf4"]
+[FEN "1r4rk/6np/7Q/p1p1q2p/N1Pp1p2/1P1P2B1/P5R1/5KR1 w - - 0 39"]
+[SetUp "1"]
+
+39. Qxf4 Rbf8 40. Rf2 Rxf4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HWKG"]
+[Difficulty "easy"]
+[Rating "885"]
+[Themes "backRankMate hangingPiece mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/XOVUoGJO/black#30"]
+[Solution "c6b5 d4h8"]
+[SolutionSAN "cxb5 Qxh8#"]
+[FEN "r3k2r/pp1qpp2/2pp2pp/1Bn5/3QP3/2N4P/PPP2PP1/2KR3R b kq - 0 15"]
+[SetUp "1"]
+
+15... cxb5 16. Qxh8# *

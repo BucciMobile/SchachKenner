@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05rPP"]
+[Difficulty "medium"]
+[Rating "1449"]
+[Themes "exposedKing fork long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/eYcabKqF#69"]
+[Solution "f1g1 b7f3 h5f3 f6h6 f3h5 h6h5"]
+[SolutionSAN "Rg1 Bxf3+ Qxf3 Rh6+ Qh5 Rxh5#"]
+[FEN "8/1b4k1/p3pr2/1p3p1Q/3P1P2/1P2pNq1/2P5/2R2R1K w - - 0 35"]
+[SetUp "1"]
+
+35. Rg1 Bxf3+ 36. Qxf3 Rh6+ 37. Qh5 Rxh5# *

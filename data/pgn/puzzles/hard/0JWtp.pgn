@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JWtp"]
+[Difficulty "hard"]
+[Rating "2205"]
+[Themes "advantage defensiveMove intermezzo long middlegame"]
+[GameUrl "https://lichess.org/game/3LdNPWa4#75"]
+[Solution "b6c6 g5g4 g2h2 c7c6 b5b7 a8f8"]
+[SolutionSAN "Rxc6 Qxg4+ Kh2 Rxc6 Qb7 Rf8"]
+[FEN "r7/2r2p1k/1Rn1p1pP/1Q1pP1q1/p1pP1NP1/2P1B3/P5K1/8 w - - 0 38"]
+[SetUp "1"]
+
+38. Rxc6 Qxg4+ 39. Kh2 Rxc6 40. Qb7 Rf8 *

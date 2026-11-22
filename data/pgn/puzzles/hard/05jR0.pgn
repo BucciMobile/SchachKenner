@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05jR0"]
+[Difficulty "hard"]
+[Rating "2398"]
+[Themes "advancedPawn crushing defensiveMove endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/UEyqIB0X#99"]
+[Solution "a7a4 d4c3 f4e3 d3d2 a4d4 b3b2"]
+[SolutionSAN "Ra4+ Kc3 Ke3 d2 Rd4 b2"]
+[FEN "8/R5p1/5p1p/5P1P/3k1K1P/1p1p4/8/8 w - - 0 50"]
+[SetUp "1"]
+
+50. Ra4+ Kc3 51. Ke3 d2 52. Rd4 b2 *

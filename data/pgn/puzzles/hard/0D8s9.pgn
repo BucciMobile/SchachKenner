@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D8s9"]
+[Difficulty "hard"]
+[Rating "2135"]
+[Themes "advantage middlegame quietMove short"]
+[GameUrl "https://lichess.org/game/JtKaYkyB/black#52"]
+[Solution "d8d7 b1a1 f6c6 a5a7"]
+[SolutionSAN "Rd7 Ra1 Qc6 Qa7+"]
+[FEN "1k1r2r1/2p2p1p/5qp1/Qp1p4/2bP2P1/7P/4P1B1/1R2R1K1 b - - 1 26"]
+[SetUp "1"]
+
+26... Rd7 27. Ra1 Qc6 28. Qa7+ *

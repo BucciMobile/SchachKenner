@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08K2t"]
+[Difficulty "medium"]
+[Rating "1383"]
+[Themes "crushing deflection endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/pBcPEjOG#113"]
+[Solution "c3e3 g4g3 f3g3 d2e3"]
+[SolutionSAN "Re3 Rxg3+ Kxg3 Kxe3"]
+[FEN "8/8/6p1/7p/6rP/2R2KP1/3k4/8 w - - 1 57"]
+[SetUp "1"]
+
+57. Re3 Rxg3+ 58. Kxg3 Kxe3 *

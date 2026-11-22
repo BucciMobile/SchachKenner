@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G16z"]
+[Difficulty "hard"]
+[Rating "2592"]
+[Themes "crushing defensiveMove endgame rookEndgame veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/yGVqJyWv/black#70"]
+[Solution "c4c5 f5c5 b6c5 b3c4 g8f7 c4c5 f7f6 c5d6 a7a5 d6d5 g7g5 h4h5"]
+[SolutionSAN "Rxc5 Rxc5 bxc5 Kc4 Kf7 Kxc5 Kf6 Kd6 a5 Kd5 g5 h5"]
+[FEN "6k1/p5p1/1p5p/2P2R2/P1r3PP/1K6/8/8 b - - 2 35"]
+[SetUp "1"]
+
+35... Rxc5 36. Rxc5 bxc5 37. Kc4 Kf7 38. Kxc5 Kf6 39. Kd6 a5 40. Kd5 g5 41. h5 *

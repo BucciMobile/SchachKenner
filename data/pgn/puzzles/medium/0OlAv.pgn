@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OlAv"]
+[Difficulty "medium"]
+[Rating "1268"]
+[Themes "attraction crushing middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/D7EQ2Lb7/black#58"]
+[Solution "c8d8 d4d8 e8d8 e1a5"]
+[SolutionSAN "Rd8 Qxd8+ Kxd8 Ba5+"]
+[FEN "2r1k1r1/pp2pp1p/8/2P5/2bQ3N/P4P2/5KPP/2q1B2R b - - 0 29"]
+[SetUp "1"]
+
+29... Rd8 30. Qxd8+ Kxd8 31. Ba5+ *

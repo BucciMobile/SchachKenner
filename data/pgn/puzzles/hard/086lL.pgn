@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "086lL"]
+[Difficulty "hard"]
+[Rating "1730"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/sEctjPih#31"]
+[Solution "e2f3 c6d4 f3h3 f5h3"]
+[SolutionSAN "Qf3 Nxd4 Qh3 Qxh3"]
+[FEN "2kr3r/2p3pp/p1np1p2/1p3q2/3P1B2/8/PPP1QKPP/RN2R3 w - - 0 16"]
+[SetUp "1"]
+
+16. Qf3 Nxd4 17. Qh3 Qxh3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gw24"]
+[Difficulty "medium"]
+[Rating "1417"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/uUgjQ9Zo#81"]
+[Solution "d2d3 c3e1"]
+[SolutionSAN "Rd3 Qe1#"]
+[FEN "8/ppp3kp/5rp1/4Q3/1P1P2P1/2q1K1RP/3R1P2/8 w - - 13 41"]
+[SetUp "1"]
+
+41. Rd3 Qe1# *

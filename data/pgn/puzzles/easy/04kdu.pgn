@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04kdu"]
+[Difficulty "easy"]
+[Rating "717"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove operaMate"]
+[GameUrl "https://lichess.org/game/hNlbJ3Pz/black#44"]
+[Solution "e7f8 f1f8"]
+[SolutionSAN "Qxf8 Rxf8#"]
+[FEN "r1b2Qk1/ppp1q2p/6pB/3Pp2n/8/P1N4P/1PP3P1/5RK1 b - - 5 22"]
+[SetUp "1"]
+
+22... Qxf8 23. Rxf8# *

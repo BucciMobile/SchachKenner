@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JDvo"]
+[Difficulty "medium"]
+[Rating "1564"]
+[Themes "bishopEndgame crushing endgame short"]
+[GameUrl "https://lichess.org/game/nljUncsq#99"]
+[Solution "c6d6 g4h4 f4f5 g6f5"]
+[SolutionSAN "Kd6 Kxh4 f5 gxf5"]
+[FEN "8/8/2K3p1/1p5p/2b2PkP/2P1B3/5P2/8 w - - 3 50"]
+[SetUp "1"]
+
+50. Kd6 Kxh4 51. f5 gxf5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Evkf"]
+[Difficulty "easy"]
+[Rating "766"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/NtcB2LfM/black#20"]
+[Solution "e7e6 d2d7"]
+[SolutionSAN "e6 Qxd7#"]
+[FEN "r3kb1r/pp1npppp/2p5/q3Pb2/5P2/2N2N2/PPPQ2PP/2KR1B1R b kq - 4 10"]
+[SetUp "1"]
+
+10... e6 11. Qxd7# *

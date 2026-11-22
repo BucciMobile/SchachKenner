@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HNX6"]
+[Difficulty "hard"]
+[Rating "2999"]
+[Themes "crushing defensiveMove endgame master short"]
+[GameUrl "https://lichess.org/game/Yo8UT1xd/black#112"]
+[Solution "e6d4 c4b5 d4b5 h5g4"]
+[SolutionSAN "Nd4 cxb5 Nxb5 Kg4"]
+[FEN "6k1/8/p1p1n1P1/Ppp1B2K/2P5/1P6/8/8 b - - 2 56"]
+[SetUp "1"]
+
+56... Nd4 57. cxb5 Nxb5 58. Kg4 *

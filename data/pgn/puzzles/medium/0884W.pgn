@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0884W"]
+[Difficulty "medium"]
+[Rating "1519"]
+[Themes "crushing middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/GLAnYVTj/black#36"]
+[Solution "e7d5 c3d5 b4d2 d5e7"]
+[SolutionSAN "Nd5 Nxd5 Qxd2 Ne7+"]
+[FEN "r4rk1/3nnppp/p1p1p3/2P1Pb2/1q3B2/2N4P/1P1QBPP1/3RR1K1 b - - 0 18"]
+[SetUp "1"]
+
+18... Nd5 19. Nxd5 Qxd2 20. Ne7+ *

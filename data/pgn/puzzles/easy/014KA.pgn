@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "014KA"]
+[Difficulty "easy"]
+[Rating "883"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/rYPgnIhY#37"]
+[Solution "c1e3 d4f3 g1f2 f3e1"]
+[SolutionSAN "Be3 Nf3+ Kf2 Nxe1"]
+[FEN "r4rk1/5ppp/p3b3/1p2P3/3n1PP1/N6P/PP6/R1B1R1K1 w - - 0 19"]
+[SetUp "1"]
+
+19. Be3 Nf3+ 20. Kf2 Nxe1 *

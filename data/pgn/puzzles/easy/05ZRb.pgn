@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ZRb"]
+[Difficulty "easy"]
+[Rating "1065"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/gZmM7o6Z/black#58"]
+[Solution "e7b4 e5e6 f7f8 e6e7 b4e7 e2e7"]
+[SolutionSAN "Qb4 e6+ Kf8 e7+ Qxe7 Rxe7"]
+[FEN "8/1p2qkp1/2p4p/p2rPp2/5P2/1PQ3P1/P3R1KP/8 b - - 3 29"]
+[SetUp "1"]
+
+29... Qb4 30. e6+ Kf8 31. e7+ Qxe7 32. Rxe7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GLNK"]
+[Difficulty "easy"]
+[Rating "429"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove queenEndgame"]
+[GameUrl "https://lichess.org/game/ux0OOOFc#89"]
+[Solution "f4f3 c6f3"]
+[SolutionSAN "Qxf3 Qxf3#"]
+[FEN "8/7p/2q4k/6p1/P4QP1/5p1K/7P/8 w - - 0 45"]
+[SetUp "1"]
+
+45. Qxf3 Qxf3# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dvnj"]
+[Difficulty "easy"]
+[Rating "980"]
+[Themes "bishopEndgame crushing endgame long"]
+[GameUrl "https://lichess.org/game/IZc071WJ/black#74"]
+[Solution "d3e4 g3g4 h5g4 h3g4 f5g4 d4e4"]
+[SolutionSAN "Be4 g4+ hxg4 hxg4+ Kxg4 Kxe4"]
+[FEN "8/5p2/p7/1p2Bk1p/2pK1P2/P2b2PP/1P6/8 b - - 2 37"]
+[SetUp "1"]
+
+37... Be4 38. g4+ hxg4 39. hxg4+ Kxg4 40. Kxe4 *

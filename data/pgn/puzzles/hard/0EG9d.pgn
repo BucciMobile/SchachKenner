@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EG9d"]
+[Difficulty "hard"]
+[Rating "1812"]
+[Themes "advantage middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/GFaKqb4O#49"]
+[Solution "b1c3 h4h2 f4h2 g5f3"]
+[SolutionSAN "Nc3 Rh2+ Qxh2 Nf3+"]
+[FEN "5k2/2p3p1/p1q1bp2/3p2n1/3P1QPr/1P2P3/P1PK4/RN4R1 w - - 3 25"]
+[SetUp "1"]
+
+25. Nc3 Rh2+ 26. Qxh2 Nf3+ *

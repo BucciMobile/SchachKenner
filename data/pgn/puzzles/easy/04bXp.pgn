@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04bXp"]
+[Difficulty "easy"]
+[Rating "948"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/KHVGm95Z#65"]
+[Solution "c2d4 b6b2 c1d1 b2a1"]
+[SolutionSAN "Nd4 Qxb2+ Kd1 Qa1#"]
+[FEN "5kn1/1p5Q/1q4p1/p2pP3/2p5/2P5/1PN2r2/2K2R1R w - - 0 33"]
+[SetUp "1"]
+
+33. Nd4 Qxb2+ 34. Kd1 Qa1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Kod"]
+[Difficulty "medium"]
+[Rating "1232"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/TSYb61Pi#23"]
+[Solution "f3c6 e5h2"]
+[SolutionSAN "Bxc6 Qh2#"]
+[FEN "2kr2nr/ppp2ppp/2nbp3/4q3/8/P1NP1B1P/1PPB1PP1/R2Q1RK1 w - - 1 12"]
+[SetUp "1"]
+
+12. Bxc6 Qh2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06HGq"]
+[Difficulty "hard"]
+[Rating "2030"]
+[Themes "advantage defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/UgeL0H00/black#26"]
+[Solution "e6g4 d4f6 d8b6 g1h1"]
+[SolutionSAN "Bg4 Bxf6 Qb6+ Kh1"]
+[FEN "2rq1rk1/1p2ppbp/p2pbnp1/8/P2BPP2/2N5/1PPQB1PP/R4RK1 b - - 0 13"]
+[SetUp "1"]
+
+13... Bg4 14. Bxf6 Qb6+ 15. Kh1 *

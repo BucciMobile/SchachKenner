@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06qSZ"]
+[Difficulty "hard"]
+[Rating "1949"]
+[Themes "advantage master middlegame quietMove short"]
+[GameUrl "https://lichess.org/game/ML6rphZK#59"]
+[Solution "f3f4 g5e4 f4f5 g6g7"]
+[SolutionSAN "f4 Ne4 f5 Qxg7"]
+[FEN "2br2k1/6Np/1p3pq1/p1bp2n1/8/1P2PP2/PB2Q1PP/2RR3K w - - 0 30"]
+[SetUp "1"]
+
+30. f4 Ne4 31. f5 Qxg7 *

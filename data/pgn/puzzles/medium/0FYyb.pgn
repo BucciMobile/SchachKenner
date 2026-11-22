@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FYyb"]
+[Difficulty "medium"]
+[Rating "1237"]
+[Themes "advantage hangingPiece long middlegame"]
+[GameUrl "https://lichess.org/game/BeLHdfhx/black#58"]
+[Solution "d8d6 d4d6 e5g4 h2h1 g4f2 f1f2"]
+[SolutionSAN "Qxd6 Qxd6 Ng4+ Kh1 Nxf2+ Rxf2"]
+[FEN "3q4/6kp/p2P2p1/1p2n2n/3Q4/P5r1/BPr2N1K/R4R2 b - - 2 29"]
+[SetUp "1"]
+
+29... Qxd6 30. Qxd6 Ng4+ 31. Kh1 Nxf2+ 32. Rxf2 *

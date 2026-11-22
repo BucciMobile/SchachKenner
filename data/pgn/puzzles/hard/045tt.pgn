@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "045tt"]
+[Difficulty "hard"]
+[Rating "1721"]
+[Themes "advantage endgame long master"]
+[GameUrl "https://lichess.org/game/pOtcDStr/black#58"]
+[Solution "a2a3 d4c5 d7g7 h6g7 g8g7 c5a3"]
+[SolutionSAN "Rxa3 Bc5 Qg7 Qxg7+ Kxg7 Bxa3"]
+[FEN "6k1/p2q3p/4pppQ/3n4/3B4/P7/r4PPP/2R3K1 b - - 3 29"]
+[SetUp "1"]
+
+29... Rxa3 30. Bc5 Qg7 31. Qxg7+ Kxg7 32. Bxa3 *

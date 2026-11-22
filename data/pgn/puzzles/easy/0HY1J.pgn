@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HY1J"]
+[Difficulty "easy"]
+[Rating "593"]
+[Themes "endgame long mate mateIn3 rookEndgame"]
+[GameUrl "https://lichess.org/game/Ao9n7ypQ#69"]
+[Solution "d1d7 a2a1 d7d1 a1d1 e8e1 d1e1"]
+[SolutionSAN "Rxd7 Ra1+ Rd1 Rxd1+ Re1 Rxe1#"]
+[FEN "4R3/p2r4/6k1/5p2/8/5pP1/r4P1P/3R2K1 w - - 0 35"]
+[SetUp "1"]
+
+35. Rxd7 Ra1+ 36. Rd1 Rxd1+ 37. Re1 Rxe1# *

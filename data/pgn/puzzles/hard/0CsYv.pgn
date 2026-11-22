@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CsYv"]
+[Difficulty "hard"]
+[Rating "2151"]
+[Themes "attraction crushing endgame fork long master sacrifice"]
+[GameUrl "https://lichess.org/game/l7XvCG78/black#46"]
+[Solution "g8f8 g4g7 f8g7 f1f6 g7f8 f6d8"]
+[SolutionSAN "Kf8 Rxg7 Kxg7 Qf6+ Kf8 Qxd8+"]
+[FEN "3r2k1/pp3pp1/4p2p/n3P3/q3p1R1/P3P2P/1P2B1P1/5QK1 b - - 3 23"]
+[SetUp "1"]
+
+23... Kf8 24. Rxg7 Kxg7 25. Qf6+ Kf8 26. Qxd8+ *

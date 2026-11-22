@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MtOl"]
+[Difficulty "medium"]
+[Rating "1692"]
+[Themes "advantage middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/nPRkIvl6#23"]
+[Solution "h4h7 g8h8 h7h8 f6h8"]
+[SolutionSAN "Qxh7 Rh8 Qxh8+ Bxh8"]
+[FEN "rn2k1r1/pp1q1p1p/2pp1bn1/6B1/4P2Q/2N2N2/PPP2PPP/R3K2R w KQq - 7 12"]
+[SetUp "1"]
+
+12. Qxh7 Rh8 13. Qxh8+ Bxh8 *

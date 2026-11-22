@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04FUm"]
+[Difficulty "easy"]
+[Rating "1072"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/FWljuyGG#47"]
+[Solution "f3g4 h5g4 h3h7 g7h7"]
+[SolutionSAN "fxg4 hxg4 Qxh7 Rxh7"]
+[FEN "8/2qkb1rr/p2p4/np2p2p/4P1n1/4NP1Q/PP4PP/RNB1R1K1 w - - 1 24"]
+[SetUp "1"]
+
+24. fxg4 hxg4 25. Qxh7 Rxh7 *

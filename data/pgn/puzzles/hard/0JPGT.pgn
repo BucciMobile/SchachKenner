@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JPGT"]
+[Difficulty "hard"]
+[Rating "2463"]
+[Themes "advantage long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/RyyUiyyb/black#38"]
+[Solution "c6b4 d3h7 g8g7 c2d1 d6h2 g1h1"]
+[SolutionSAN "Nb4 Bh7+ Kg7 Qd1 Bxh2+ Kh1"]
+[FEN "2r1rnk1/ppqb1p2/2nbp3/3p2N1/3P4/2PBR3/PPQB1PPP/R5K1 b - - 10 19"]
+[SetUp "1"]
+
+19... Nb4 20. Bh7+ Kg7 21. Qd1 Bxh2+ 22. Kh1 *

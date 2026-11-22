@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MsC9"]
+[Difficulty "medium"]
+[Rating "1455"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/KqqL879m/black#44"]
+[Solution "f6g5 f5h6 g7h6 g4d7"]
+[SolutionSAN "fxg5 Nh6+ gxh6 Qxd7"]
+[FEN "r3r1k1/ppbq2pp/2p2p2/3p1NP1/3P1nQP/2P5/PP1N1P2/R3R1K1 b - - 2 22"]
+[SetUp "1"]
+
+22... fxg5 23. Nh6+ gxh6 24. Qxd7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NgpL"]
+[Difficulty "medium"]
+[Rating "1340"]
+[Themes "crushing kingsideAttack opening short"]
+[GameUrl "https://lichess.org/game/6FvaoRig#35"]
+[Solution "c1e3 e7e3 g1h1 g4f2"]
+[SolutionSAN "Bxe3 Qxe3+ Kh1 Nf2+"]
+[FEN "r1b1r1k1/ppp1qppp/8/1P1p4/6n1/2PPnN1P/P3B1P1/RNBQR1K1 w - - 1 18"]
+[SetUp "1"]
+
+18. Bxe3 Qxe3+ 19. Kh1 Nf2+ *

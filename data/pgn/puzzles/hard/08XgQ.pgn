@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08XgQ"]
+[Difficulty "hard"]
+[Rating "2519"]
+[Themes "advantage defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/vrDV1Apd/black#48"]
+[Solution "a8e8 g5f6 g7g8 e5g5 e8e6 e3e4"]
+[SolutionSAN "Re8 gxf6+ Kg8 Qg5 Re6 e4"]
+[FEN "r4q2/ppp2bk1/5np1/4Q1P1/2pP4/2P1PP2/2P5/2KR4 b - - 0 24"]
+[SetUp "1"]
+
+24... Re8 25. gxf6+ Kg8 26. Qg5 Re6 27. e4 *

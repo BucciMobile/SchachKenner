@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BAKu"]
+[Difficulty "easy"]
+[Rating "1017"]
+[Themes "crushing hangingPiece long middlegame xRayAttack"]
+[GameUrl "https://lichess.org/game/koJGqeUX#49"]
+[Solution "e1e6 f5b1 g3e1 b1e1 e6e1 e8e1"]
+[SolutionSAN "Rxe6 Qxb1+ Qe1 Qxe1+ Rxe1 Rxe1+"]
+[FEN "4r1k1/5ppp/p3rn2/1p3q2/1P1B1P2/P5Q1/6PP/1R2R2K w - - 1 25"]
+[SetUp "1"]
+
+25. Rxe6 Qxb1+ 26. Qe1 Qxe1+ 27. Rxe1 Rxe1+ *

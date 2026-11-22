@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02JPn"]
+[Difficulty "hard"]
+[Rating "2594"]
+[Themes "advantage fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/EvCDGrf4#43"]
+[Solution "d3c3 d4c2 e2g3 c2b4 g3e4 b4a2 c1b1 a2c3"]
+[SolutionSAN "Qc3 Nxc2 Ng3 Nb4 Nxe4 Nxa2+ Kb1 Nxc3+"]
+[FEN "r7/5kp1/p3pnp1/1pb2r2/3nb1p1/3Q4/PPPBNP1P/2KRR3 w - - 6 22"]
+[SetUp "1"]
+
+22. Qc3 Nxc2 23. Ng3 Nb4 24. Nxe4 Nxa2+ 25. Kb1 Nxc3+ *

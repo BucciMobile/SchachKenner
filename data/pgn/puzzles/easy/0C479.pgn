@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C479"]
+[Difficulty "easy"]
+[Rating "985"]
+[Themes "crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/nHFpMT35/black#34"]
+[Solution "g6f4 e1e8 a8e8 h5e8"]
+[SolutionSAN "Nxf4 Rxe8+ Rxe8 Qxe8+"]
+[FEN "r3r1k1/1b1p2pp/p1p3n1/2q2p1Q/2P2P2/2NB4/PP4PP/R3R2K b - - 1 17"]
+[SetUp "1"]
+
+17... Nxf4 18. Rxe8+ Rxe8 19. Qxe8+ *

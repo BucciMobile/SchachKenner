@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DuAS"]
+[Difficulty "easy"]
+[Rating "995"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/L2w0zB71/black#74"]
+[Solution "e7c7 d2h2 h6g7 h2c7"]
+[SolutionSAN "Rc7 Qh2+ Kg7 Qxc7+"]
+[FEN "8/p3r3/5qpk/P5p1/3PB1P1/4PP2/3Q4/6K1 b - - 2 37"]
+[SetUp "1"]
+
+37... Rc7 38. Qh2+ Kg7 39. Qxc7+ *

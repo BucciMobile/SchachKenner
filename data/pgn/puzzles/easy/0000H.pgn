@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0000H"]
+[Difficulty "easy"]
+[Rating "1032"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/EwHRkfas#29"]
+[Solution "d1h5 d5g2"]
+[SolutionSAN "Qxh5 Qg2#"]
+[FEN "r4rk1/pp3ppp/8/2bqp2b/3N4/P2Bn2P/1PPN1P2/R1BQ1RK1 w - - 1 15"]
+[SetUp "1"]
+
+15. Qxh5 Qg2# *

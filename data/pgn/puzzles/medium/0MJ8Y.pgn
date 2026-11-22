@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MJ8Y"]
+[Difficulty "medium"]
+[Rating "1398"]
+[Themes "crushing endgame fork interference short"]
+[GameUrl "https://lichess.org/game/FDPGWkiw#57"]
+[Solution "d3a6 d7b5 a6a7 b5f1"]
+[SolutionSAN "Qa6 Bb5 Qxa7 Bxf1"]
+[FEN "6k1/p1pb2p1/1p1np3/3p2Pp/3Pq2P/PN1Q4/1PP5/1K3R2 w - - 2 29"]
+[SetUp "1"]
+
+29. Qa6 Bb5 30. Qxa7 Bxf1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HbgT"]
+[Difficulty "easy"]
+[Rating "1184"]
+[Themes "master mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/TQtDAXi4#45"]
+[Solution "e1e2 h5g3 h2g3 f6h6"]
+[SolutionSAN "Rxe2 Ng3+ hxg3 Rh6#"]
+[FEN "r5k1/p1p3pp/2p2r2/3bN2n/3P1P2/3P4/PP1Bp1PP/4R1RK w - - 3 23"]
+[SetUp "1"]
+
+23. Rxe2 Ng3+ 24. hxg3 Rh6# *

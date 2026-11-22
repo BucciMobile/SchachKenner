@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Lvv"]
+[Difficulty "easy"]
+[Rating "650"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/PdJPXqW6/black#44"]
+[Solution "d3e3 h5e8 d7d8 d1d8"]
+[SolutionSAN "Qxe3 Qe8+ Rd8 Rxd8#"]
+[FEN "2k2br1/1pprn3/p4p2/4p2Q/4P2P/2NqB3/PP4PK/3R4 b - - 1 22"]
+[SetUp "1"]
+
+22... Qxe3 23. Qe8+ Rd8 24. Rxd8# *

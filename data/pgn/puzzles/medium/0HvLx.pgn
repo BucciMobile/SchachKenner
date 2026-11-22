@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HvLx"]
+[Difficulty "medium"]
+[Rating "1330"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/SfzCrDV9#63"]
+[Solution "f2b2 b4b2"]
+[SolutionSAN "Rxb2 Qxb2#"]
+[FEN "8/2kn1p2/2p2p2/4p2p/1qQ1P3/p2P2P1/1r3R1P/1K1R4 w - - 0 32"]
+[SetUp "1"]
+
+32. Rxb2 Qxb2# *

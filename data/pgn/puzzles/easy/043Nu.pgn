@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "043Nu"]
+[Difficulty "easy"]
+[Rating "1096"]
+[Themes "crushing hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/unmSnnuK/black#52"]
+[Solution "h8h2 h1h2 c8d8 d6c6"]
+[SolutionSAN "Rxh2+ Kxh2 Rd8 Qxc6+"]
+[FEN "2r1k2r/5q2/1ppQ2n1/4p3/4P1p1/2P2pP1/PP1N3P/R4R1K b k - 0 26"]
+[SetUp "1"]
+
+26... Rxh2+ 27. Kxh2 Rd8 28. Qxc6+ *

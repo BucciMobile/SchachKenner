@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LzWc"]
+[Difficulty "medium"]
+[Rating "1413"]
+[Themes "advantage fork master middlegame short"]
+[GameUrl "https://lichess.org/game/1iHHCjRX#49"]
+[Solution "e1g1 b2b6 g1g2 b6c7"]
+[SolutionSAN "O-O Qb6+ Kg2 Qxc7"]
+[FEN "r4k1r/ppN1n1p1/2n1Q2p/5p2/8/2P2PP1/Pq2B2P/R3K2R w KQ - 0 25"]
+[SetUp "1"]
+
+25. O-O Qb6+ 26. Kg2 Qxc7 *

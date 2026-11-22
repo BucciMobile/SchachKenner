@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "026PG"]
+[Difficulty "hard"]
+[Rating "2610"]
+[Themes "crushing defensiveMove endgame master quietMove short"]
+[GameUrl "https://lichess.org/game/ioa8uI7p/black#128"]
+[Solution "h5h4 c5e3 h4h3 e3f4"]
+[SolutionSAN "h4 Be3 h3 Bf4"]
+[FEN "8/1r6/1PkP1P2/2B1K2p/8/5p2/5P2/8 b - - 0 64"]
+[SetUp "1"]
+
+64... h4 65. Be3 h3 66. Bf4 *

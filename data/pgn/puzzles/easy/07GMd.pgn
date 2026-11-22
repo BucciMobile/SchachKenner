@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07GMd"]
+[Difficulty "easy"]
+[Rating "702"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/wXbSFhIX#97"]
+[Solution "d1d6 e7e1 b2c1 e1c1"]
+[SolutionSAN "Rd6 Re1+ Bc1 Rxc1+"]
+[FEN "r7/4r3/5pk1/6p1/8/1P4P1/PBP2P1P/K2R4 w - - 0 49"]
+[SetUp "1"]
+
+49. Rd6 Re1+ 50. Bc1 Rxc1+ *

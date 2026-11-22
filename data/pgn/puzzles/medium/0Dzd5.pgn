@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dzd5"]
+[Difficulty "medium"]
+[Rating "1204"]
+[Themes "crushing endgame rookEndgame short skewer"]
+[GameUrl "https://lichess.org/game/oeNxmcYR/black#166"]
+[Solution "e7f7 h6h7 f7f6 h7a7"]
+[SolutionSAN "Kf7 Rh7+ Kf6 Rxa7"]
+[FEN "7K/r3k3/7R/8/8/8/8/8 b - - 21 83"]
+[SetUp "1"]
+
+83... Kf7 84. Rh7+ Kf6 85. Rxa7 *

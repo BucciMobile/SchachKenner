@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Efa0"]
+[Difficulty "medium"]
+[Rating "1327"]
+[Themes "bishopEndgame crushing endgame quietMove short"]
+[GameUrl "https://lichess.org/game/wqYEN4Vl/black#98"]
+[Solution "b4b3 a4a5 e3e2 d3e2"]
+[SolutionSAN "Kxb3 a5 e2 Kxe2"]
+[FEN "8/8/8/2p5/PkPb2P1/1B1Kp3/8/8 b - - 0 49"]
+[SetUp "1"]
+
+49... Kxb3 50. a5 e2 51. Kxe2 *

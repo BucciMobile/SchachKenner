@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LRSi"]
+[Difficulty "hard"]
+[Rating "2304"]
+[Themes "advantage attraction kingsideAttack long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/avgK4L9l/black#54"]
+[Solution "b3c1 g3g7 g8h8 g7h7 h8h7 e2e4"]
+[SolutionSAN "Nxc1 Rxg7+ Kh8 Rh7+ Kxh7 Qe4+"]
+[FEN "2r3k1/1pr1qpp1/p3pP1p/8/8/PnN3R1/1PP1Q1PP/2R3K1 b - - 0 27"]
+[SetUp "1"]
+
+27... Nxc1 28. Rxg7+ Kh8 29. Rh7+ Kxh7 30. Qe4+ *

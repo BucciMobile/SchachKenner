@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bwxu"]
+[Difficulty "medium"]
+[Rating "1585"]
+[Themes "crushing kingsideAttack long middlegame pin trappedPiece"]
+[GameUrl "https://lichess.org/game/XKvnNqrK/black#30"]
+[Solution "d7e5 d5f6 d8f6 c1g5 f6g5 g3g5"]
+[SolutionSAN "Ne5 Nxf6+ Qxf6 Bg5 Qxg5 Qxg5"]
+[FEN "r2qr1k1/pp1n1ppp/3p1b2/2pN1P2/8/3P1RQ1/PPP3PP/R1B4K b - - 4 15"]
+[SetUp "1"]
+
+15... Ne5 16. Nxf6+ Qxf6 17. Bg5 Qxg5 18. Qxg5 *

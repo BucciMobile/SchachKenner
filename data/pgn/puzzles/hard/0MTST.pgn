@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MTST"]
+[Difficulty "hard"]
+[Rating "2218"]
+[Themes "crushing endgame master veryLong"]
+[GameUrl "https://lichess.org/game/JZf96Nxc/black#104"]
+[Solution "c4b4 f2b2 b4c3 b2b3 c3c2 f7c4 c2d1 b3d3 e1d2 d3d2"]
+[SolutionSAN "Kb4 Rb2+ Kc3 Rb3+ Kc2 Qc4+ Kd1 Rd3+ Qd2+ Rxd2+"]
+[FEN "8/5Q2/6p1/2p4p/2k2P1P/6P1/5RK1/2r1q3 b - - 4 52"]
+[SetUp "1"]
+
+52... Kb4 53. Rb2+ Kc3 54. Rb3+ Kc2 55. Qc4+ Kd1 56. Rd3+ Qd2+ 57. Rxd2+ *

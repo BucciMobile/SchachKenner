@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09VOW"]
+[Difficulty "hard"]
+[Rating "1937"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/wU356HCK/black#54"]
+[Solution "f5e5 c5d7 b8a8 d7e5"]
+[SolutionSAN "Re5 Nd7+ Ka8 Nxe5"]
+[FEN "1k2r3/ppp1q3/2n4p/2N2rp1/1PP3Q1/4R3/P2B2PP/6K1 b - - 0 27"]
+[SetUp "1"]
+
+27... Re5 28. Nd7+ Ka8 29. Nxe5 *

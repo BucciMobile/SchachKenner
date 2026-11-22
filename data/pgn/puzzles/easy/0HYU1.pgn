@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HYU1"]
+[Difficulty "easy"]
+[Rating "1148"]
+[Themes "advancedPawn master mate mateIn2 middlegame promotion short"]
+[GameUrl "https://lichess.org/game/7attC8cw#79"]
+[Solution "b6c4 f2f1 e1f1 e2f1q"]
+[SolutionSAN "Nc4 Qf1+ Rxf1 exf1=Q#"]
+[FEN "4b3/7p/1N1Bp3/3pP1R1/4k3/8/3QpqPP/4R2K w - - 2 40"]
+[SetUp "1"]
+
+40. Nc4 Qf1+ 41. Rxf1 exf1=Q# *

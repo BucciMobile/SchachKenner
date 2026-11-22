@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BCxI"]
+[Difficulty "hard"]
+[Rating "2300"]
+[Themes "advantage endgame master masterVsMaster rookEndgame short"]
+[GameUrl "https://lichess.org/game/zzdx4utv/black#102"]
+[Solution "f5f4 c2a2 g1e1 a2g2"]
+[SolutionSAN "f4 Ra2 Re1 Rxg2"]
+[FEN "8/5k2/P7/5p2/1K6/1P6/2R3p1/6r1 b - - 0 51"]
+[SetUp "1"]
+
+51... f4 52. Ra2 Re1 53. Rxg2 *

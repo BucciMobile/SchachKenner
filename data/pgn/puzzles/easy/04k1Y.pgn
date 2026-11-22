@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04k1Y"]
+[Difficulty "easy"]
+[Rating "1166"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/CfV0ntHW#55"]
+[Solution "e6e8 f7f3 h1g1 d6c5 d8d4 c5d4"]
+[SolutionSAN "Re8 Qxf3+ Kg1 Bc5+ Qd4+ Bxd4+"]
+[FEN "3Q4/p1p2qk1/2pbR1p1/7p/2B5/2P2PP1/P6P/7K w - - 1 28"]
+[SetUp "1"]
+
+28. Re8 Qxf3+ 29. Kg1 Bc5+ 30. Qd4+ Bxd4+ *

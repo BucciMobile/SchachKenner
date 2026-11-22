@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DvG7"]
+[Difficulty "easy"]
+[Rating "627"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/DbI0sIyb/black#110"]
+[Solution "d6d1 e6a6"]
+[SolutionSAN "Rd1 Rxa6#"]
+[FEN "8/8/p2rRp2/4pPp1/7p/k1K2P1P/P7/8 b - - 10 55"]
+[SetUp "1"]
+
+55... Rd1 56. Rxa6# *

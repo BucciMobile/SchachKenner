@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GnQA"]
+[Difficulty "hard"]
+[Rating "2003"]
+[Themes "advantage intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/fhxkKe3c#51"]
+[Solution "h3h8 g4g3 f2e1 d8h8"]
+[SolutionSAN "Rxh8 g3+ Ke1 Rxh8"]
+[FEN "2kr3r/2p2pb1/1P4n1/pP1pPq2/P2P1pp1/7R/3BNKP1/R6Q w - - 0 26"]
+[SetUp "1"]
+
+26. Rxh8 g3+ 27. Ke1 Rxh8 *

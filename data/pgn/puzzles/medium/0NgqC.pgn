@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NgqC"]
+[Difficulty "medium"]
+[Rating "1570"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/k544m8sb#43"]
+[Solution "d3e3 h6g6 f5g5 g6g5 e3g5 f6g5"]
+[SolutionSAN "Qe3 Qg6+ Rg5 Qxg5+ Qxg5 fxg5"]
+[FEN "2r2rk1/p5pp/2p1Rp1q/3p1R2/1P1P4/P2Q1P2/2P2P1P/6K1 w - - 2 22"]
+[SetUp "1"]
+
+22. Qe3 Qg6+ 23. Rg5 Qxg5+ 24. Qxg5 fxg5 *

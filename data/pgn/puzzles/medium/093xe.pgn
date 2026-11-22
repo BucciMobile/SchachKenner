@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "093xe"]
+[Difficulty "medium"]
+[Rating "1261"]
+[Themes "advantage opening short trappedPiece"]
+[GameUrl "https://lichess.org/game/gyVuKN5E/black#18"]
+[Solution "b5a4 d4c6 c8b7 c6d8"]
+[SolutionSAN "bxa4 Nc6 Bb7 Nxd8"]
+[FEN "r1bqk1nr/3nppbp/p2p2p1/1p1N4/B2NP3/4B3/PPP2PPP/R2QK2R b KQkq - 1 9"]
+[SetUp "1"]
+
+9... bxa4 10. Nc6 Bb7 11. Nxd8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AFro"]
+[Difficulty "hard"]
+[Rating "2131"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/hmgPezGo/black#36"]
+[Solution "d4e5 f3e5 c6e5 f1e1 g8f8 e1e5"]
+[SolutionSAN "Bxe5 Nxe5 Nxe5 Re1 Kf8 Rxe5"]
+[FEN "6k1/pppr1ppp/2n5/3NP3/1PBb2b1/2P2NP1/P5PK/5R2 b - - 0 18"]
+[SetUp "1"]
+
+18... Bxe5 19. Nxe5 Nxe5 20. Re1 Kf8 21. Rxe5 *

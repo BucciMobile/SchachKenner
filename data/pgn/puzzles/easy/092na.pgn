@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "092na"]
+[Difficulty "easy"]
+[Rating "1184"]
+[Themes "advancedPawn crushing endgame short"]
+[GameUrl "https://lichess.org/game/AxljlSaH/black#82"]
+[Solution "a3a2 f6f7 c4f7 h5f7"]
+[SolutionSAN "Ra2 f7+ Bxf7 Bxf7+"]
+[FEN "6k1/6p1/5P2/4B2B/2b1P3/r2p4/5RK1/1r6 b - - 0 41"]
+[SetUp "1"]
+
+41... Ra2 42. f7+ Bxf7 43. Bxf7+ *

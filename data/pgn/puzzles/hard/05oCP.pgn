@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05oCP"]
+[Difficulty "hard"]
+[Rating "2160"]
+[Themes "advantage endgame veryLong"]
+[GameUrl "https://lichess.org/game/J1OzJVAl/black#80"]
+[Solution "b4d6 e5d6 d7d6 f4f5 g6f5 g5g6 f8g6 h8a8"]
+[SolutionSAN "Bd6 Bxd6 Kxd6 f5 gxf5 g6 Nxg6 Rxa8"]
+[FEN "r4n1R/p2k4/2p3p1/3pB1P1/Pb1PpP2/1P6/2P1K3/8 b - - 1 40"]
+[SetUp "1"]
+
+40... Bd6 41. Bxd6 Kxd6 42. f5 gxf5 43. g6 Nxg6 44. Rxa8 *

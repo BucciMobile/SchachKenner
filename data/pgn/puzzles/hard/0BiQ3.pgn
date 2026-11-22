@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BiQ3"]
+[Difficulty "hard"]
+[Rating "2684"]
+[Themes "crushing fork middlegame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/KkGq2xHK/black#62"]
+[Solution "c3b2 c4e6 g8h8 f3h4 a4e8 c1c8 b3b6 c8e8"]
+[SolutionSAN "Bb2 Bxe6+ Kh8 Nh4 Be8 Rc8 Rb6 Rxe8"]
+[FEN "5rk1/6p1/4p2p/q3P3/b1BPQp2/prb2N1P/5PPB/2R3K1 b - - 1 31"]
+[SetUp "1"]
+
+31... Bb2 32. Bxe6+ Kh8 33. Nh4 Be8 34. Rc8 Rb6 35. Rxe8 *

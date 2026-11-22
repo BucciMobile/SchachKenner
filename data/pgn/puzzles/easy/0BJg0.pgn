@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BJg0"]
+[Difficulty "easy"]
+[Rating "767"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/xqke5C87/black#22"]
+[Solution "d8f6 e4e8"]
+[SolutionSAN "Qxf6 Qxe8#"]
+[FEN "r1bqr1k1/ppp2ppp/2np1N2/8/4Q1n1/5NP1/PPP1PPBP/R1B2RK1 b - - 0 11"]
+[SetUp "1"]
+
+11... Qxf6 12. Qxe8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07tcW"]
+[Difficulty "easy"]
+[Rating "720"]
+[Themes "crushing endgame short skewer"]
+[GameUrl "https://lichess.org/game/sECGsJEg#57"]
+[Solution "c4b5 a8a1 c1d2 a1f1"]
+[SolutionSAN "cxb5 Ra1+ Kd2 Rxf1"]
+[FEN "r5k1/2p3p1/3p2pp/1p2p3/2P5/4B2P/5PP1/2K2R2 w - - 0 29"]
+[SetUp "1"]
+
+29. cxb5 Ra1+ 30. Kd2 Rxf1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D34H"]
+[Difficulty "hard"]
+[Rating "2083"]
+[Themes "advantage endgame sacrifice short"]
+[GameUrl "https://lichess.org/game/MBnYZJCZ/black#60"]
+[Solution "e6f5 e5e6 b5c5 a7f7"]
+[SolutionSAN "exf5 e6 Rxc5 Rxf7+"]
+[FEN "8/R4pk1/2p1p1p1/1rNpPPKp/1P1n3P/8/5P2/8 b - - 0 30"]
+[SetUp "1"]
+
+30... exf5 31. e6 Rxc5 32. Rxf7+ *

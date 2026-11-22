@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LQmt"]
+[Difficulty "hard"]
+[Rating "2001"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/ILV8nfsI#51"]
+[Solution "a6b4 h4f3 g2f3 d8a5 e1b1 a8b8"]
+[SolutionSAN "Nb4 Nxf3+ gxf3 Qa5 Rb1 Rb8"]
+[FEN "r2q2k1/p4ppp/N7/3n4/P2P3n/5N2/3Q1PPP/4R1K1 w - - 3 26"]
+[SetUp "1"]
+
+26. Nb4 Nxf3+ 27. gxf3 Qa5 28. Rb1 Rb8 *

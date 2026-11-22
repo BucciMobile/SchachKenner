@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07ZAn"]
+[Difficulty "medium"]
+[Rating "1371"]
+[Themes "crushing defensiveMove endgame knightEndgame long master"]
+[GameUrl "https://lichess.org/game/6nApb9Oa#121"]
+[Solution "d3e5 c4e5 g6g7 e5g6 f4f3 g6e7"]
+[SolutionSAN "Ne5 Nxe5 g7 Ng6+ Kf3 Ne7"]
+[FEN "8/8/p5P1/P2k4/2np1K2/3N4/8/8 w - - 0 61"]
+[SetUp "1"]
+
+61. Ne5 Nxe5 62. g7 Ng6+ 63. Kf3 Ne7 *

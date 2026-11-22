@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MDgY"]
+[Difficulty "medium"]
+[Rating "1584"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/IphEVZsK#33"]
+[Solution "e5f6 f8f6 f3e5 f6f4 e5d7 g4d7"]
+[SolutionSAN "exf6 Rxf6 Ne5 Rxf4 Nxd7 Bxd7"]
+[FEN "1r3rk1/p1pq2pp/2p2p2/3pP3/1P1P1Qb1/P4N2/5PPP/R4RK1 w - - 0 17"]
+[SetUp "1"]
+
+17. exf6 Rxf6 18. Ne5 Rxf4 19. Nxd7 Bxd7 *

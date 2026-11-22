@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EAdy"]
+[Difficulty "medium"]
+[Rating "1513"]
+[Themes "advantage attraction endgame exposedKing long sacrifice skewer"]
+[GameUrl "https://lichess.org/game/45JVGMbG#75"]
+[Solution "h1f1 d7d3 e3d3 e6c4 d3e4 c4f1"]
+[SolutionSAN "Rf1 Rxd3+ Kxd3 Bc4+ Ke4 Bxf1"]
+[FEN "8/p2r1kp1/1p2b3/n3P3/5BP1/P2BK2P/8/7R w - - 3 38"]
+[SetUp "1"]
+
+38. Rf1 Rxd3+ 39. Kxd3 Bc4+ 40. Ke4 Bxf1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GDnD"]
+[Difficulty "easy"]
+[Rating "859"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/DvycsyLm#33"]
+[Solution "a1a4 b4e1"]
+[SolutionSAN "Ra4 Qxe1#"]
+[FEN "3r1rk1/1p3ppp/p3p3/3nN3/1q4Q1/1P6/1PP2PPP/R3R1K1 w - - 8 17"]
+[SetUp "1"]
+
+17. Ra4 Qxe1# *

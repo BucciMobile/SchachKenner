@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03YTT"]
+[Difficulty "medium"]
+[Rating "1271"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/iysXV7oO#27"]
+[Solution "f5e7 g4h2"]
+[SolutionSAN "Nxe7 Nh2#"]
+[FEN "r3k2r/ppp1qpp1/1bnp4/4pN1b/2B1P1n1/1QPP3P/PP1N2P1/R1B1RK2 w kq - 2 14"]
+[SetUp "1"]
+
+14. Nxe7 Nh2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fjlw"]
+[Difficulty "easy"]
+[Rating "758"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/SrZ4zbiP#109"]
+[Solution "f5d4 e5d4 f3e2 d4e4"]
+[SolutionSAN "Nxd4 Kxd4 Ke2 Kxe4"]
+[FEN "8/8/3p4/4kNp1/3nP1P1/5K2/8/8 w - - 18 55"]
+[SetUp "1"]
+
+55. Nxd4 Kxd4 56. Ke2 Kxe4 *

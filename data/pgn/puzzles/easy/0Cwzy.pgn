@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cwzy"]
+[Difficulty "easy"]
+[Rating "894"]
+[Themes "advantage kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/rvQvYmvK#43"]
+[Solution "f3h4 f8f1 e1f1 e7h4"]
+[SolutionSAN "Nxh4 Rxf1+ Qxf1 Qxh4"]
+[FEN "4rrk1/3bq3/p1pnp2p/2pp4/6Pp/1P1PPN1P/PBP5/R3QR1K w - - 2 22"]
+[SetUp "1"]
+
+22. Nxh4 Rxf1+ 23. Qxf1 Qxh4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "010wy"]
+[Difficulty "medium"]
+[Rating "1518"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/EQ63c8rq/black#32"]
+[Solution "g5e3 c3d5 e7d8 d5e3"]
+[SolutionSAN "Qe3 Nd5+ Kd8 Nxe3"]
+[FEN "r6r/ppp1k1pp/3pBn2/2b2Qq1/4P3/2N5/PPP3PP/R4K1R b - - 4 16"]
+[SetUp "1"]
+
+16... Qe3 17. Nd5+ Kd8 18. Nxe3 *

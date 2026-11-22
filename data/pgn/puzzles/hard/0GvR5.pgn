@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GvR5"]
+[Difficulty "hard"]
+[Rating "2798"]
+[Themes "crushing endgame long quietMove"]
+[GameUrl "https://lichess.org/game/BktraqSJ#101"]
+[Solution "b2c2 a7a6 c2c1 d4d3 h2f2 e2f2"]
+[SolutionSAN "Kc2 a6 Kc1 d3 Rxf2+ Kxf2"]
+[FEN "8/p7/1p6/2p5/P2p4/1P6/1K2kn1R/8 w - - 2 51"]
+[SetUp "1"]
+
+51. Kc2 a6 52. Kc1 d3 53. Rxf2+ Kxf2 *

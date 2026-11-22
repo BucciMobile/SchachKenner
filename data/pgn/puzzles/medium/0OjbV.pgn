@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OjbV"]
+[Difficulty "medium"]
+[Rating "1353"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/KF8sQ22G#41"]
+[Solution "c1g5 d6g6 d1d2 h7h6"]
+[SolutionSAN "Bxg5 Qg6 Qd2 h6"]
+[FEN "2k4r/pp1r2pp/3q4/2pp2p1/8/P2P1P2/BPP4P/R1BQ2K1 w - - 0 21"]
+[SetUp "1"]
+
+21. Bxg5 Qg6 22. Qd2 h6 *

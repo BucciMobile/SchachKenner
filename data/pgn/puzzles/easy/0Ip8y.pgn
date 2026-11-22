@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ip8y"]
+[Difficulty "easy"]
+[Rating "848"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/m5ESv5SN#11"]
+[Solution "h2h3 b4c2"]
+[SolutionSAN "h3 Nxc2#"]
+[FEN "r2qkb1r/ppp1pppp/5n2/3p4/1n4b1/1P2P1Q1/PBPP1PPP/RN2KBNR w KQkq - 5 6"]
+[SetUp "1"]
+
+6. h3 Nxc2# *

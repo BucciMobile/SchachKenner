@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08jw0"]
+[Difficulty "easy"]
+[Rating "999"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/s0wbGght/black#52"]
+[Solution "b2b1q d6d8 g8h7 b4h4"]
+[SolutionSAN "b1=Q Rd8+ Kh7 Rh4#"]
+[FEN "6k1/pp3pp1/3R2p1/8/1R6/7P/Pp3PPK/2r5 b - - 3 26"]
+[SetUp "1"]
+
+26... b1=Q 27. Rd8+ Kh7 28. Rh4# *

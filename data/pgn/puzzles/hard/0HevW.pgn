@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HevW"]
+[Difficulty "hard"]
+[Rating "1722"]
+[Themes "deflection fork long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/5ZOG9FxO#29"]
+[Solution "c3e2 f6f2 g1h1 f2f1 e2g1 f1g1"]
+[SolutionSAN "Nxe2 Qxf2+ Kh1 Qxf1+ Ng1 Qxg1#"]
+[FEN "3r2k1/ppQ2ppp/5q2/2b5/8/2N5/PP2rPPP/R1B2RK1 w - - 0 15"]
+[SetUp "1"]
+
+15. Nxe2 Qxf2+ 16. Kh1 Qxf1+ 17. Ng1 Qxg1# *

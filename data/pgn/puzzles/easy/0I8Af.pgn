@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I8Af"]
+[Difficulty "easy"]
+[Rating "761"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/QtKiYs5k#7"]
+[Solution "e3e4 f6f2"]
+[SolutionSAN "e4 Qxf2#"]
+[FEN "rnb1k1nr/pppp1ppp/4pq2/2b5/P7/N3P3/1PPP1PPP/R1BQKBNR w KQkq - 3 4"]
+[SetUp "1"]
+
+4. e4 Qxf2# *

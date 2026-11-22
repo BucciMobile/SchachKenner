@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ETVN"]
+[Difficulty "easy"]
+[Rating "692"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/eTmh83z6#37"]
+[Solution "f3b7 b8b7 d4d7 b7d7"]
+[SolutionSAN "Qxb7 Rxb7 Rxd7 Rxd7"]
+[FEN "1r3rk1/pq1n1ppp/1p6/4p3/1bPR1B2/5Q2/PP3PPP/3R2K1 w - - 0 19"]
+[SetUp "1"]
+
+19. Qxb7 Rxb7 20. Rxd7 Rxd7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I6QI"]
+[Difficulty "easy"]
+[Rating "1183"]
+[Themes "crushing discoveredAttack master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/yACNQ3i4#31"]
+[Solution "b1c3 d6h2 g1h2 f6c6"]
+[SolutionSAN "Nc3 Bxh2+ Kxh2 Qxc6"]
+[FEN "1r3k1r/2p2ppp/p1Qb1qn1/8/2P5/1P2B3/P2P1PPP/RN3RK1 w - - 3 16"]
+[SetUp "1"]
+
+16. Nc3 Bxh2+ 17. Kxh2 Qxc6 *

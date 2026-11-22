@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06p35"]
+[Difficulty "easy"]
+[Rating "742"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/uhvQpbey/black#70"]
+[Solution "e4e3 b4b8"]
+[SolutionSAN "e3 Rb8#"]
+[FEN "6k1/2p3p1/2P5/6N1/1R2p1P1/6K1/5P2/4rb2 b - - 3 35"]
+[SetUp "1"]
+
+35... e3 36. Rb8# *

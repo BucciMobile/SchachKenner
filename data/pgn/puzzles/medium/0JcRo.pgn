@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JcRo"]
+[Difficulty "medium"]
+[Rating "1472"]
+[Themes "advancedPawn bishopEndgame crushing endgame long promotion"]
+[GameUrl "https://lichess.org/game/WUzEEKQ9#123"]
+[Solution "d4d5 e4e3 c1e3 b3b2 e3d4 b2b1q"]
+[SolutionSAN "Kxd5 e3 Bxe3 b2 Bd4 b1=Q"]
+[FEN "8/8/8/3p4/3Kp1k1/1p6/8/2B5 w - - 14 62"]
+[SetUp "1"]
+
+62. Kxd5 e3 63. Bxe3 b2 64. Bd4 b1=Q *

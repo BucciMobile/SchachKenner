@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02yx6"]
+[Difficulty "hard"]
+[Rating "2384"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/wGrAi4mg#65"]
+[Solution "e3f3 d5d4 f3e2 d4c3"]
+[SolutionSAN "Kf3 d4 Ke2 dxc3"]
+[FEN "8/8/8/p1ppk1pp/8/PPP1K1PP/8/8 w - - 1 33"]
+[SetUp "1"]
+
+33. Kf3 d4 34. Ke2 dxc3 *

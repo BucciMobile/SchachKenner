@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01v8U"]
+[Difficulty "easy"]
+[Rating "898"]
+[Themes "endgame master"]
+[GameUrl "https://lichess.org/game/XDluWHZJ#71"]
+[Solution "d3e3 e6f4 g2h2 f4h5"]
+[SolutionSAN "Re3 Nf4+ Kh2 Nxh5"]
+[FEN "8/p7/1p2nkr1/2p4R/2Pn4/3R2P1/PP3BK1/8 w - - 6 36"]
+[SetUp "1"]
+
+36. Re3 Nf4+ 37. Kh2 Nxh5 *

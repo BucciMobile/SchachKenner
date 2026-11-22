@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09IKT"]
+[Difficulty "easy"]
+[Rating "846"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/WGRJwLQn/black#40"]
+[Solution "f6e4 f4f7"]
+[SolutionSAN "Nxe4 Qf7#"]
+[FEN "r2q3r/1b4k1/p2ppnpp/2p5/4NQ2/3P4/PP4PP/R4RK1 b - - 4 20"]
+[SetUp "1"]
+
+20... Nxe4 21. Qf7# *

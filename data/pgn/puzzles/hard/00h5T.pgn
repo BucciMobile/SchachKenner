@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00h5T"]
+[Difficulty "hard"]
+[Rating "1795"]
+[Themes "crushing kingsideAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/EzIYa6oA/black#46"]
+[Solution "g6g5 e1e8 b8e8 f5f6"]
+[SolutionSAN "g5 Rxe8+ Rxe8 f6"]
+[FEN "1r2r1k1/3p1pb1/p2q2pp/1p3P2/3p4/P6Q/BPP3PP/4RRK1 b - - 0 23"]
+[SetUp "1"]
+
+23... g5 24. Rxe8+ Rxe8 25. f6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AS9F"]
+[Difficulty "hard"]
+[Rating "2402"]
+[Themes "crushing endgame fork long queenRookEndgame quietMove"]
+[GameUrl "https://lichess.org/game/V02TXtJi/black#120"]
+[Solution "a4a6 g5d8 a6e6 d8d4 g7g8 d4a7"]
+[SolutionSAN "R4a6 Qd8 Rxe6 Qd4+ Kg8 Qxa7"]
+[FEN "8/r5k1/4P1p1/5pQp/r6P/6P1/5PK1/8 b - - 4 60"]
+[SetUp "1"]
+
+60... R4a6 61. Qd8 Rxe6 62. Qd4+ Kg8 63. Qxa7 *

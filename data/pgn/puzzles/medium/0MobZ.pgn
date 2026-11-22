@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MobZ"]
+[Difficulty "medium"]
+[Rating "1484"]
+[Themes "advancedPawn advantage attraction endgame promotion short"]
+[GameUrl "https://lichess.org/game/PkCgfpt7#49"]
+[Solution "c7d7 b1f1 g1f1 b2b1q"]
+[SolutionSAN "Qxd7 Qxf1+ Kxf1 b1=Q+"]
+[FEN "r7/2Qnb1kp/3p2p1/4p1P1/4P2P/5N2/1pP2P2/1q3RK1 w - - 0 25"]
+[SetUp "1"]
+
+25. Qxd7 Qxf1+ 26. Kxf1 b1=Q+ *

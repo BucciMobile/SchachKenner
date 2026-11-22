@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04TnF"]
+[Difficulty "hard"]
+[Rating "2396"]
+[Themes "advantage intermezzo long middlegame"]
+[GameUrl "https://lichess.org/game/HWyvcMfN#33"]
+[Solution "d1d8 a5e1 c4f1 f8d8 f4h6 g7h6"]
+[SolutionSAN "Rxd8 Qe1+ Bf1 Rxd8 Bh6+ Kxh6"]
+[FEN "3r1r2/pb2Npkp/2p3p1/q3b3/2B2B2/5Q2/PPP2PPP/3R2K1 w - - 1 17"]
+[SetUp "1"]
+
+17. Rxd8 Qe1+ 18. Bf1 Rxd8 19. Bh6+ Kxh6 *

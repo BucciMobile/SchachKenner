@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KKCw"]
+[Difficulty "hard"]
+[Rating "2285"]
+[Themes "crushing kingsideAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/Mlyv7zmf#27"]
+[Solution "f4g5 d6h2 g1h1 f6e4"]
+[SolutionSAN "fxg5 Bxh2+ Kh1 Ne4"]
+[FEN "r2qk2r/1p3p2/p2bpn2/3p2pp/3N1Pn1/PP2P2B/1BP3PP/RN1Q1RK1 w kq - 1 14"]
+[SetUp "1"]
+
+14. fxg5 Bxh2+ 15. Kh1 Ne4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fec3"]
+[Difficulty "hard"]
+[Rating "1915"]
+[Themes "advantage deflection fork interference middlegame veryLong"]
+[GameUrl "https://lichess.org/game/BCvPEu8k#29"]
+[Solution "h8f6 a2a1 c1d2 f8b4 c2c3 a1b2 d2e1 b4c3 f6c3 b2c3"]
+[SolutionSAN "Qf6 Qa1+ Kd2 Bb4+ c3 Qxb2+ Ke1 Bxc3+ Qxc3 Qxc3+"]
+[FEN "r3kb1Q/pp3p1p/2p1b3/8/5P2/4B3/qPP1B1PP/2KR3R w q - 1 15"]
+[SetUp "1"]
+
+15. Qf6 Qa1+ 16. Kd2 Bb4+ 17. c3 Qxb2+ 18. Ke1 Bxc3+ 19. Qxc3 Qxc3+ *

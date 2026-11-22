@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01BI2"]
+[Difficulty "easy"]
+[Rating "1063"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/FFtkhBNX/black#82"]
+[Solution "e7f7 d1d7"]
+[SolutionSAN "Kf7 R1d7#"]
+[FEN "3R4/2p1k3/4p1p1/1p2P2p/1P6/8/4rr2/3R2K1 b - - 7 41"]
+[SetUp "1"]
+
+41... Kf7 42. R1d7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IYSN"]
+[Difficulty "medium"]
+[Rating "1230"]
+[Themes "exposedKing long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/h2LIk7zO/black#52"]
+[Solution "g7e5 d7d8 e8f7 d1d7 f7f6 d8f8"]
+[SolutionSAN "Be5 Rd8+ Kf7 R1d7+ Kf6 Rf8#"]
+[FEN "4k3/pppR2bp/1q4p1/n4p2/5N1P/5P2/PPr3PK/3R4 b - - 2 26"]
+[SetUp "1"]
+
+26... Be5 27. Rd8+ Kf7 28. R1d7+ Kf6 29. Rf8# *

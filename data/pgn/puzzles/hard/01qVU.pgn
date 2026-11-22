@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01qVU"]
+[Difficulty "hard"]
+[Rating "2247"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/xqqywDUn#75"]
+[Solution "e2g3 e8e1 g1h2 f3g2 g3e2 e1h1"]
+[SolutionSAN "Ng3 Re1+ Kh2 fxg2 Ne2 Rh1+"]
+[FEN "4r1k1/Rb5p/1P1B2p1/6P1/8/3n1p2/4N1P1/6K1 w - - 0 38"]
+[SetUp "1"]
+
+38. Ng3 Re1+ 39. Kh2 fxg2 40. Ne2 Rh1+ *

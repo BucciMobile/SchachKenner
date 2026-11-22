@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OTc7"]
+[Difficulty "medium"]
+[Rating "1244"]
+[Themes "endgame mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/ZGxd4LAP/black#112"]
+[Solution "d6a3 d7d8"]
+[SolutionSAN "Bxa3 Rd8#"]
+[FEN "5k2/1p1R4/p2b2K1/6B1/8/P1r5/8/8 b - - 5 56"]
+[SetUp "1"]
+
+56... Bxa3 57. Rd8# *

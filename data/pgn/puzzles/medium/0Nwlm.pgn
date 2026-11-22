@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Nwlm"]
+[Difficulty "medium"]
+[Rating "1366"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/mHOxEBWZ#57"]
+[Solution "d6f6 e8e1 g1h2 g3g2"]
+[SolutionSAN "Rxf6 Re1+ Kh2 Rxg2#"]
+[FEN "4r2k/3p1p2/p1bR1q1p/1pQ5/8/1B4rP/PP3PP1/6K1 w - - 0 29"]
+[SetUp "1"]
+
+29. Rxf6 Re1+ 30. Kh2 Rxg2# *

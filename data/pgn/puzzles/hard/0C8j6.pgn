@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C8j6"]
+[Difficulty "hard"]
+[Rating "2738"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/IToA4y33#53"]
+[Solution "c6c7 b3e6 g4e6 e8e6 d7d8 e6c8"]
+[SolutionSAN "c7 Be6 Qxe6 Qxe6 Rd8 Qc8"]
+[FEN "r3qb1k/3R2pp/1pP2p2/1P2p3/P5Q1/1b2PNBP/5PP1/6K1 w - - 5 27"]
+[SetUp "1"]
+
+27. c7 Be6 28. Qxe6 Qxe6 29. Rd8 Qc8 *

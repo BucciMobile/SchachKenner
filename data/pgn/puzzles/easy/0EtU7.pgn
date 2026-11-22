@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EtU7"]
+[Difficulty "easy"]
+[Rating "1139"]
+[Themes "crushing fork opening short"]
+[GameUrl "https://lichess.org/game/YngohpVA#7"]
+[Solution "e1g1 d5e4 d3e4 f6e4"]
+[SolutionSAN "O-O dxe4 Bxe4 Nxe4"]
+[FEN "rnbqkb1r/ppp2ppp/5n2/3pp3/4P3/3B1N2/PPPP1PPP/RNBQK2R w KQkq - 0 4"]
+[SetUp "1"]
+
+4. O-O dxe4 5. Bxe4 Nxe4 *

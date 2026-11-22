@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04cW2"]
+[Difficulty "hard"]
+[Rating "1959"]
+[Themes "crushing endgame quietMove short"]
+[GameUrl "https://lichess.org/game/cH2mV0Hm#55"]
+[Solution "c1c5 e6h6 b3c3 h4h1"]
+[SolutionSAN "Rc5 Qh6 Qc3 Rh1+"]
+[FEN "1k6/pp6/4q3/3pP3/3P2pr/PQ6/6P1/2R3K1 w - - 0 28"]
+[SetUp "1"]
+
+28. Rc5 Qh6 29. Qc3 Rh1+ *

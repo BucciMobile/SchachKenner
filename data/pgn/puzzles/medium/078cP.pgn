@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "078cP"]
+[Difficulty "medium"]
+[Rating "1362"]
+[Themes "crushing endgame queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/8Ln8W5zk#83"]
+[Solution "d7h7 c2h7 a7a4 h7c7"]
+[SolutionSAN "Rxh7+ Qxh7 Rxa4 Qc7+"]
+[FEN "8/R2R3p/7k/6p1/p7/5PKP/2q3P1/8 w - - 0 42"]
+[SetUp "1"]
+
+42. Rxh7+ Qxh7 43. Rxa4 Qc7+ *

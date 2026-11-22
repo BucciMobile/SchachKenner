@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05g0g"]
+[Difficulty "easy"]
+[Rating "1062"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/a0xxcQGO/black#44"]
+[Solution "f5g4 c4e5 c6b6 e5g4"]
+[SolutionSAN "Qg4 Ne5+ Kb6 Nxg4"]
+[FEN "rnb4r/ppp4p/2k1p3/3p1q2/2NPn3/2P5/P1PB2B1/2K2R1Q b - - 1 22"]
+[SetUp "1"]
+
+22... Qg4 23. Ne5+ Kb6 24. Nxg4 *

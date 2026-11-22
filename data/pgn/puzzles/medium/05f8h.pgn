@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05f8h"]
+[Difficulty "medium"]
+[Rating "1465"]
+[Themes "crushing deflection discoveredAttack discoveredCheck endgame exposedKing long"]
+[GameUrl "https://lichess.org/game/MKMn1Z9D/black#70"]
+[Solution "e7e5 g5h6 g8h8 g4g8 e8g8 g3e5"]
+[SolutionSAN "Qxe5 gxh6+ Kh8 Rg8+ Rxg8 Qxe5+"]
+[FEN "4r1k1/pb2q3/1p5p/2p1B1P1/6R1/2P3Q1/P1P2PP1/6K1 b - - 0 35"]
+[SetUp "1"]
+
+35... Qxe5 36. gxh6+ Kh8 37. Rg8+ Rxg8 38. Qxe5+ *

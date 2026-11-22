@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IWYY"]
+[Difficulty "medium"]
+[Rating "1396"]
+[Themes "crushing hangingPiece intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/yNlhV0tC#65"]
+[Solution "d5g5 c3e1 g1h2 h6g5"]
+[SolutionSAN "Rxg5 Qxe1+ Kh2 hxg5"]
+[FEN "r3r2k/1Q6/7p/p2R2n1/Pp2P3/1Bq5/5PP1/4R1K1 w - - 5 33"]
+[SetUp "1"]
+
+33. Rxg5 Qxe1+ 34. Kh2 hxg5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05faZ"]
+[Difficulty "medium"]
+[Rating "1652"]
+[Themes "advantage discoveredAttack kingsideAttack middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/JVhgdMA7#47"]
+[Solution "d6d2 e4g2 h1g1 e2e3 g1g2 f4f3 g2h1 e3h6"]
+[SolutionSAN "Rd2 Bxg2+ Kg1 Qe3+ Kxg2 f3+ Kh1 Qxh6"]
+[FEN "r4rk1/p6p/2pR1ppQ/2p5/2P1bp2/1BB5/P3q1PP/2R4K w - - 1 24"]
+[SetUp "1"]
+
+24. Rd2 Bxg2+ 25. Kg1 Qe3+ 26. Kxg2 f3+ 27. Kh1 Qxh6 *

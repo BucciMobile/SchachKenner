@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KTlE"]
+[Difficulty "medium"]
+[Rating "1395"]
+[Themes "advantage hangingPiece long middlegame"]
+[GameUrl "https://lichess.org/game/CKmWUG2Q/black#26"]
+[Solution "c6e7 f3f6 e7d5 f6d8 f8d8 e4d5"]
+[SolutionSAN "Ne7 Qxf6 Nxd5 Qxd8 Rfxd8 exd5"]
+[FEN "1r1q1rk1/1bp2p1p/p1np1bp1/1p1Bp3/4P3/2PP1Q1P/PP1NNPP1/R4RK1 b - - 1 13"]
+[SetUp "1"]
+
+13... Ne7 14. Qxf6 Nxd5 15. Qxd8 Rfxd8 16. exd5 *

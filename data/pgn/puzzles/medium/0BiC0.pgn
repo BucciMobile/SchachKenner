@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BiC0"]
+[Difficulty "medium"]
+[Rating "1279"]
+[Themes "endgame exposedKing long mate mateIn3"]
+[GameUrl "https://lichess.org/game/J8ybCIIe#71"]
+[Solution "c5c1 f2h4 h1g1 g7d4 g1f1 h4f2"]
+[SolutionSAN "Rc1 Qh4+ Kg1 Bd4+ Kf1 Qf2#"]
+[FEN "8/6bk/P5pp/1QR5/8/3P4/5qB1/7K w - - 0 36"]
+[SetUp "1"]
+
+36. Rc1 Qh4+ 37. Kg1 Bd4+ 38. Kf1 Qf2# *

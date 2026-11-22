@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "026Tf"]
+[Difficulty "hard"]
+[Rating "2629"]
+[Themes "advantage endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/Yem2gd8Q/black#74"]
+[Solution "e6d6 c3c4 d5c4 d4c4"]
+[SolutionSAN "Kd6 c4 dxc4 Kxc4"]
+[FEN "8/8/1p2k1pp/p2p4/3K1PPP/1PP5/8/8 b - - 0 37"]
+[SetUp "1"]
+
+37... Kd6 38. c4 dxc4 39. Kxc4 *

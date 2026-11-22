@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NFJW"]
+[Difficulty "medium"]
+[Rating "1471"]
+[Themes "advantage opening pin short trappedPiece"]
+[GameUrl "https://lichess.org/game/STf4dTlv/black#22"]
+[Solution "c6d5 b3d5 g8f6 d5a8"]
+[SolutionSAN "cxd5 Qxd5 Nf6 Qxa8"]
+[FEN "rn2kbnr/p3qpp1/2pp3p/1p1Bp3/4P3/1Q1P3P/PPP2PP1/RNB2RK1 b kq - 1 11"]
+[SetUp "1"]
+
+11... cxd5 12. Qxd5 Nf6 13. Qxa8 *

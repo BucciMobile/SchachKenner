@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "080LG"]
+[Difficulty "easy"]
+[Rating "979"]
+[Themes "mate mateIn1 middlegame oneMove swallowstailMate"]
+[GameUrl "https://lichess.org/game/AHhLIYNW#31"]
+[Solution "e1e2 h4f2"]
+[SolutionSAN "Ke2 Qf2#"]
+[FEN "r1b2Bk1/p4p1p/2pp2p1/8/2P1n2q/2NB1P2/PP5P/R2QK2R w KQ - 1 16"]
+[SetUp "1"]
+
+16. Ke2 Qf2# *

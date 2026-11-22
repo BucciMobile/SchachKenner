@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09F7d"]
+[Difficulty "easy"]
+[Rating "739"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/SPCKn7ie#83"]
+[Solution "d1d4 c3e2 g1f2 e2d4"]
+[SolutionSAN "Rd4 Ne2+ Kf2 Nxd4"]
+[FEN "1r4k1/6p1/7p/8/1p6/1Rn2P2/P5PP/3R2K1 w - - 4 42"]
+[SetUp "1"]
+
+42. Rd4 Ne2+ 43. Kf2 Nxd4 *

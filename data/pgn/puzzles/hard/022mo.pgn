@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "022mo"]
+[Difficulty "hard"]
+[Rating "2583"]
+[Themes "advancedPawn advantage endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/TnQUPw7q/black#74"]
+[Solution "g4h4 a6a7 h4a4 c5b5 a4a7 d7a7"]
+[SolutionSAN "Rxh4 a7 Ra4 Kb5 Rxa7 Rxa7"]
+[FEN "8/3R1p2/P4kp1/2K4p/6rP/8/8/8 b - - 2 37"]
+[SetUp "1"]
+
+37... Rxh4 38. a7 Ra4 39. Kb5 Rxa7 40. Rxa7 *

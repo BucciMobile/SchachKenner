@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02BBW"]
+[Difficulty "hard"]
+[Rating "1762"]
+[Themes "advantage kingsideAttack long middlegame pin"]
+[GameUrl "https://lichess.org/game/gNQFjFy8#27"]
+[Solution "e4g3 d4e2 d1e2 g6g3 e2f3 g3f3"]
+[SolutionSAN "Ng3 Nxe2+ Qxe2 Qxg3 Qf3 Qxf3"]
+[FEN "2kB3r/ppp2ppp/6q1/2b1p3/3nN3/3P3b/PPP1BPP1/R2Q1RK1 w - - 0 14"]
+[SetUp "1"]
+
+14. Ng3 Nxe2+ 15. Qxe2 Qxg3 16. Qf3 Qxf3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BCJJ"]
+[Difficulty "hard"]
+[Rating "1922"]
+[Themes "advancedPawn crushing intermezzo long middlegame"]
+[GameUrl "https://lichess.org/game/9F6VqfcB/black#50"]
+[Solution "g7c3 e6f7 g8g7 b2c3 b3a2 d3d4"]
+[SolutionSAN "Bxc3 exf7+ Kg7 bxc3 Qa2 Qd4+"]
+[FEN "5rk1/4ppbp/p3P1p1/1p6/8/1qBQ1R1P/1Pr3P1/5RK1 b - - 0 25"]
+[SetUp "1"]
+
+25... Bxc3 26. exf7+ Kg7 27. bxc3 Qa2 28. Qd4+ *

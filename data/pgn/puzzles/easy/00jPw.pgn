@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00jPw"]
+[Difficulty "easy"]
+[Rating "1158"]
+[Themes "mate mateIn1 middlegame oneMove pin"]
+[GameUrl "https://lichess.org/game/rMGqxihy#35"]
+[Solution "f1f7 h5g3"]
+[SolutionSAN "Rxf7 Ng3#"]
+[FEN "r3r1k1/ppp2p2/1b5Q/3PP2n/2B3bq/2N5/PP4PP/R4R1K w - - 1 18"]
+[SetUp "1"]
+
+18. Rxf7 Ng3# *

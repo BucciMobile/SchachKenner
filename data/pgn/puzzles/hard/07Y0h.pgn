@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Y0h"]
+[Difficulty "hard"]
+[Rating "1702"]
+[Themes "advantage endgame master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/mrEtYxrJ#57"]
+[Solution "b2c4 a2e2 f2e2 d6d5"]
+[SolutionSAN "Nc4 Rxe2+ Kxe2 d5"]
+[FEN "8/5kpp/3p1p2/1b6/3P4/1P5P/rN2RKP1/8 w - - 0 29"]
+[SetUp "1"]
+
+29. Nc4 Rxe2+ 30. Kxe2 d5 *

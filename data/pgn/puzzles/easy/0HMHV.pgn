@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HMHV"]
+[Difficulty "easy"]
+[Rating "1129"]
+[Themes "advantage endgame exposedKing fork long"]
+[GameUrl "https://lichess.org/game/JY4WDS9F#67"]
+[Solution "f4d4 f8f1 h1h2 h4f3 h2g2 f3d4"]
+[SolutionSAN "Qxd4 Rf1+ Kh2 Nf3+ Kg2 Nxd4"]
+[FEN "5rk1/pp6/6r1/3P3N/2Pp1QPn/8/P7/7K w - - 1 34"]
+[SetUp "1"]
+
+34. Qxd4 Rf1+ 35. Kh2 Nf3+ 36. Kg2 Nxd4 *

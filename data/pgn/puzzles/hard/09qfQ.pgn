@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09qfQ"]
+[Difficulty "hard"]
+[Rating "2226"]
+[Themes "long master mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/mF8q7PVi#65"]
+[Solution "f1f2 f5g3 h1h2 f7h5 h2g1 h5h1"]
+[SolutionSAN "Rxf2 Ng3+ Kxh2 Qh5+ Kg1 Qh1#"]
+[FEN "5r1k/PQN2q2/3p3p/4pn2/8/2PP4/5bPp/R4R1K w - - 0 33"]
+[SetUp "1"]
+
+33. Rxf2 Ng3+ 34. Kxh2 Qh5+ 35. Kg1 Qh1# *

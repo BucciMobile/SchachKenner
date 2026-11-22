@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BFwP"]
+[Difficulty "medium"]
+[Rating "1266"]
+[Themes "bishopEndgame crushing endgame master short"]
+[GameUrl "https://lichess.org/game/E2pF2iFm/black#86"]
+[Solution "a2d5 f4f5 g6f5 g4f5"]
+[SolutionSAN "Bd5 f5 gxf5 gxf5"]
+[FEN "8/2k4p/4p1p1/p1P1P3/Bp1K1PPP/8/b7/8 b - - 0 43"]
+[SetUp "1"]
+
+43... Bd5 44. f5 gxf5 45. gxf5 *

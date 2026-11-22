@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HS3N"]
+[Difficulty "hard"]
+[Rating "1747"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/2woVSrmS#57"]
+[Solution "c4c5 h6g4 h2h3 g4e3"]
+[SolutionSAN "c5 Ng4 h3 Nxe3"]
+[FEN "4r3/pp4kp/3p1rpn/8/2P2P1q/1P2P3/P1R1R1BP/3Q2K1 w - - 8 29"]
+[SetUp "1"]
+
+29. c5 Ng4 30. h3 Nxe3 *

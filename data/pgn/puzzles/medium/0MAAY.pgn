@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MAAY"]
+[Difficulty "medium"]
+[Rating "1602"]
+[Themes "advantage endgame master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/qVqjD88p/black#66"]
+[Solution "d5e6 e2g4 e6f5 g4f5"]
+[SolutionSAN "Qe6 Qg4 Qxf5 Qxf5"]
+[FEN "1r4k1/p5p1/5p1p/3qpN2/8/P7/1B2QPPK/8 b - - 1 33"]
+[SetUp "1"]
+
+33... Qe6 34. Qg4 Qxf5 35. Qxf5 *

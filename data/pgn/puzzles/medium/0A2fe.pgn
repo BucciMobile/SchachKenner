@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A2fe"]
+[Difficulty "medium"]
+[Rating "1433"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/eDCLMg2W#51"]
+[Solution "c3c7 e4g2 f2e1 g2h3"]
+[SolutionSAN "Qxc7 Qg2+ Ke1 Qxh3"]
+[FEN "rn2k1r1/2p2p1n/pp1p4/3P4/P3qP1p/2Q1B2R/1PP1BK2/R7 w q - 0 26"]
+[SetUp "1"]
+
+26. Qxc7 Qg2+ 27. Ke1 Qxh3 *

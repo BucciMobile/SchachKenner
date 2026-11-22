@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fa0X"]
+[Difficulty "hard"]
+[Rating "2131"]
+[Themes "crushing endgame long master"]
+[GameUrl "https://lichess.org/game/V0idFAiC/black#60"]
+[Solution "e8e6 g3h4 h3g4 f4g4 f5g4 c6e6"]
+[SolutionSAN "Re6 Bh4 Qg4+ Qxg4+ fxg4 Rxe6+"]
+[FEN "3rr3/p4p1p/2R3k1/5p2/2P2Q2/3P2Bq/P1P2P2/6K1 b - - 5 30"]
+[SetUp "1"]
+
+30... Re6 31. Bh4 Qg4+ 32. Qxg4+ fxg4 33. Rxe6+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JWHV"]
+[Difficulty "medium"]
+[Rating "1529"]
+[Themes "advantage middlegame pin sacrifice short"]
+[GameUrl "https://lichess.org/game/5RfBMpnM/black#26"]
+[Solution "e8g8 f7h6 g7h6 f1g1"]
+[SolutionSAN "O-O Nh6+ gxh6 Rg1"]
+[FEN "rn2k2r/pbp2Npp/1p6/3p4/3Pp3/6q1/PPP5/RNBQ1R1K b kq - 1 13"]
+[SetUp "1"]
+
+13... O-O 14. Nh6+ gxh6 15. Rg1 *

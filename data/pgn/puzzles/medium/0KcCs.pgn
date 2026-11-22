@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KcCs"]
+[Difficulty "medium"]
+[Rating "1532"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/0i0HbxP4/black#76"]
+[Solution "f4f3 h7h3 f3e4 h3a3 a5a7 a3a7"]
+[SolutionSAN "Kf3 Rh3+ Ke4 Ra3 Rxa7 Rxa7"]
+[FEN "8/P6R/8/r4p2/5k2/8/1K6/8 b - - 2 38"]
+[SetUp "1"]
+
+38... Kf3 39. Rh3+ Ke4 40. Ra3 Rxa7 41. Rxa7 *

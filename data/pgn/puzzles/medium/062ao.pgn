@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "062ao"]
+[Difficulty "medium"]
+[Rating "1239"]
+[Themes "deflection endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/JvHkKBMl#57"]
+[Solution "h1d1 e2c2 c1b1 d8d1"]
+[SolutionSAN "Rd1 Rc2+ Kb1 Rxd1#"]
+[FEN "3r4/7p/8/R1N2bk1/2p5/2P5/PP2r1PP/2K4R w - - 1 29"]
+[SetUp "1"]
+
+29. Rd1 Rc2+ 30. Kb1 Rxd1# *

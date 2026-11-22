@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MZ4G"]
+[Difficulty "medium"]
+[Rating "1236"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/JS6Dwp8m#103"]
+[Solution "g1f1 h4f2"]
+[SolutionSAN "Kxf1 Qf2#"]
+[FEN "6k1/6p1/2R3Qp/3pP2P/2pPn2q/1p6/1P4P1/5rK1 w - - 8 52"]
+[SetUp "1"]
+
+52. Kxf1 Qf2# *

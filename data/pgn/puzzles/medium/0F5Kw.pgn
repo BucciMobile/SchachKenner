@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F5Kw"]
+[Difficulty "medium"]
+[Rating "1345"]
+[Themes "advancedPawn advantage endgame master promotion short"]
+[GameUrl "https://lichess.org/game/bzrZ6MbH/black#102"]
+[Solution "h4h3 c6c7 d6b6 c7c8q"]
+[SolutionSAN "h3 c7 Rxb6 c8=Q"]
+[FEN "8/8/1RPrn3/4pkp1/2K4p/4BP2/8/8 b - - 2 51"]
+[SetUp "1"]
+
+51... h3 52. c7 Rxb6 53. c8=Q *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03X1v"]
+[Difficulty "easy"]
+[Rating "929"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/Vpctr1Hn#49"]
+[Solution "e3d4 e6e1 c1e1 e8e1"]
+[SolutionSAN "exd4 Re1+ Rxe1 Rxe1#"]
+[FEN "4r1k1/1p3pp1/2pqr2p/1P6/3p4/2R1PQ1P/5PP1/2R3K1 w - - 0 25"]
+[SetUp "1"]
+
+25. exd4 Re1+ 26. Rxe1 Rxe1# *

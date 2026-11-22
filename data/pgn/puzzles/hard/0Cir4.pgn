@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cir4"]
+[Difficulty "hard"]
+[Rating "2063"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/qhSHPrgN#41"]
+[Solution "d1d5 f8d8 f5h6 g7h6 f3g3 e5g3"]
+[SolutionSAN "Qxd5 Rd8 Nxh6+ gxh6 Rg3+ Bxg3"]
+[FEN "rn3rk1/2q2pp1/p6p/2pbbN2/R7/4BR1P/1PP2PP1/3Q2K1 w - - 0 21"]
+[SetUp "1"]
+
+21. Qxd5 Rd8 22. Nxh6+ gxh6 23. Rg3+ Bxg3 *

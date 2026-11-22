@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DPEV"]
+[Difficulty "medium"]
+[Rating "1561"]
+[Themes "advantage long middlegame pin"]
+[GameUrl "https://lichess.org/game/lNjuFwxd/black#80"]
+[Solution "f4f2 g3f3 f2f3 g2f3 c8f8 g7f6"]
+[SolutionSAN "Qxf2 Rf3 Qxf3 gxf3 Rf8 Qf6+"]
+[FEN "2r5/1b2kpQ1/2p1p1Bp/1p2P3/pP1r1q2/6RP/1P3PPK/8 b - - 2 40"]
+[SetUp "1"]
+
+40... Qxf2 41. Rf3 Qxf3 42. gxf3 Rf8 43. Qf6+ *

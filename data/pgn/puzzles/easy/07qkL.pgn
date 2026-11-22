@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07qkL"]
+[Difficulty "easy"]
+[Rating "1001"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/PWZBqb5s#47"]
+[Solution "d8d2 c1h1 h2g3 f2e4 g3f4 e4d2"]
+[SolutionSAN "Rd2 Rh1+ Kg3 Ne4+ Kf4 Nxd2"]
+[FEN "3R4/pp3Npk/7p/n7/8/4PN1P/PP3nPK/2r5 w - - 0 24"]
+[SetUp "1"]
+
+24. Rd2 Rh1+ 25. Kg3 Ne4+ 26. Kf4 Nxd2 *

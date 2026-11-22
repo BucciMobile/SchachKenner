@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E6WY"]
+[Difficulty "hard"]
+[Rating "2198"]
+[Themes "crushing endgame fork long rookEndgame"]
+[GameUrl "https://lichess.org/game/UDClsvJ5#93"]
+[Solution "e3e4 g7g6 h5h4 g6f5 h4g3 f5e4"]
+[SolutionSAN "e4 g6+ Kh4 gxf5 Kxg3 fxe4"]
+[FEN "8/6p1/5p2/5R1K/2k5/4P1rP/8/8 w - - 1 47"]
+[SetUp "1"]
+
+47. e4 g6+ 48. Kh4 gxf5 49. Kxg3 fxe4 *

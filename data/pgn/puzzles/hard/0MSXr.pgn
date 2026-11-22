@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MSXr"]
+[Difficulty "hard"]
+[Rating "1712"]
+[Themes "advancedPawn crushing endgame exposedKing master rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/5ck0FXlX/black#70"]
+[Solution "c2a2 h1h8 g8g7 h8h7 g7g8 g6g7 a2d2 d4c5"]
+[SolutionSAN "Rxa2 Rh8+ Kxg7 Rh7+ Kg8 g7 Rd2+ Kc5"]
+[FEN "6k1/6P1/2p1r1P1/1p6/p2K4/2P3R1/P1r5/7R b - - 0 35"]
+[SetUp "1"]
+
+35... Rxa2 36. Rh8+ Kxg7 37. Rh7+ Kg8 38. g7 Rd2+ 39. Kc5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KUon"]
+[Difficulty "medium"]
+[Rating "1553"]
+[Themes "endgame master masterVsMaster mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/83v3bRmI/black#68"]
+[Solution "g5f4 e7e3"]
+[SolutionSAN "Kf4 Qe3#"]
+[FEN "8/4Q2p/3p2p1/3P2k1/1pP3P1/7P/5P2/q3b1K1 b - - 2 34"]
+[SetUp "1"]
+
+34... Kf4 35. Qe3# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C4Jk"]
+[Difficulty "easy"]
+[Rating "663"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/f36BEWTp#43"]
+[Solution "d1d8 e5e1"]
+[SolutionSAN "Rxd8 Qe1#"]
+[FEN "3r4/2p2ppk/4p2p/n3q3/1b6/2N2Q2/1P3PPP/3R2K1 w - - 0 22"]
+[SetUp "1"]
+
+22. Rxd8 Qe1# *

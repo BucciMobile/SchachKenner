@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05EF3"]
+[Difficulty "easy"]
+[Rating "997"]
+[Themes "middlegame"]
+[GameUrl "https://lichess.org/game/xr6ooWPx/black#54"]
+[Solution "e7d6 d3a6"]
+[SolutionSAN "Bxd6 Qa6#"]
+[FEN "kr3r2/3nb1p1/1pqNp3/p1p1Pp2/P2P4/2PQB3/1R3PPP/1R4K1 b - - 1 27"]
+[SetUp "1"]
+
+27... Bxd6 28. Qa6# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JfNB"]
+[Difficulty "hard"]
+[Rating "2057"]
+[Themes "advantage deflection long middlegame pin"]
+[GameUrl "https://lichess.org/game/TZPfdv0X/black#54"]
+[Solution "d8f8 h6e6 e7d8 g7f7 f8f7 e6f7"]
+[SolutionSAN "Qf8 Qxe6+ Kd8 Rxf7 Qxf7 Qxf7"]
+[FEN "r1rq4/3nkpR1/p3p2Q/3p4/2b5/2P5/P4PPP/4R1K1 b - - 5 27"]
+[SetUp "1"]
+
+27... Qf8 28. Qxe6+ Kd8 29. Rxf7 Qxf7 30. Qxf7 *

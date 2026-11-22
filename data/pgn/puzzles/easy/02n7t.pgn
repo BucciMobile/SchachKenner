@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02n7t"]
+[Difficulty "easy"]
+[Rating "732"]
+[Themes "crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/WB43BnpN#107"]
+[Solution "h2h4 f5g4 g7f6 g4h4 f6f5 h4g3"]
+[SolutionSAN "h4 Kg4 Kf6 Kxh4 Kf5 Kg3"]
+[FEN "8/6K1/8/5k1p/8/8/7P/8 w - - 0 54"]
+[SetUp "1"]
+
+54. h4 Kg4 55. Kf6 Kxh4 56. Kf5 Kg3 *

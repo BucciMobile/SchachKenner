@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06S3i"]
+[Difficulty "easy"]
+[Rating "1169"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/fl3AA6D1#75"]
+[Solution "c1g5 e7e1 d1e1 e8e1"]
+[SolutionSAN "Qg5 Re1+ Rxe1 Rxe1#"]
+[FEN "4r1k1/4rb2/p5p1/1p1p3p/2pR3P/2P2Pq1/PPB3P1/2QR2K1 w - - 14 38"]
+[SetUp "1"]
+
+38. Qg5 Re1+ 39. Rxe1 Rxe1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FUOA"]
+[Difficulty "easy"]
+[Rating "1029"]
+[Themes "master mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/yZdE7FK7#57"]
+[Solution "g1h1 b8h8 h1g1 h8h2"]
+[SolutionSAN "Kxh1 Qh8+ Kg1 Qh2#"]
+[FEN "rq6/5pk1/3P1np1/p1P5/Pp1Q2n1/1B4P1/1P4P1/R4RKr w - - 5 29"]
+[SetUp "1"]
+
+29. Kxh1 Qh8+ 30. Kg1 Qh2# *

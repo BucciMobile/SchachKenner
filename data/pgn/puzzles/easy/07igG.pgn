@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07igG"]
+[Difficulty "easy"]
+[Rating "1174"]
+[Themes "crushing endgame long master"]
+[GameUrl "https://lichess.org/game/7RMBQmwN#79"]
+[Solution "e3d5 e7e1 d3f1 e1f1 g1f1 c6d5"]
+[SolutionSAN "Nd5 Qe1+ Qf1 Qxf1+ Kxf1 Bxd5"]
+[FEN "5bk1/1p2qp2/p1b4p/6pP/2N5/1PPQN3/1P3PP1/6K1 w - - 13 40"]
+[SetUp "1"]
+
+40. Nd5 Qe1+ 41. Qf1 Qxf1+ 42. Kxf1 Bxd5 *

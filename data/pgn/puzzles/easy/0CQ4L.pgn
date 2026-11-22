@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CQ4L"]
+[Difficulty "easy"]
+[Rating "542"]
+[Themes "advantage kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/vRiHiKsg/black#30"]
+[Solution "e6d5 e2e8 a8e8 e1e8"]
+[SolutionSAN "exd5 Qxe8+ Rxe8 Rxe8+"]
+[FEN "r3r1k1/ppq2pbp/3pp1p1/n2P2B1/6b1/2PB1N2/PP2QPPP/R3R1K1 b - - 0 15"]
+[SetUp "1"]
+
+15... exd5 16. Qxe8+ Rxe8 17. Rxe8+ *

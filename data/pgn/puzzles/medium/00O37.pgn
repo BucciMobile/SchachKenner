@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00O37"]
+[Difficulty "medium"]
+[Rating "1300"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/N2UAIb27/black#46"]
+[Solution "c5f2 e2a6 b7a6 d2f2"]
+[SolutionSAN "Bxf2 Bxa6 bxa6 Qxf2"]
+[FEN "r1q1r1k1/1p3pp1/n1p4p/p1bpp2P/P3P3/2P2P2/1P1QBP2/R1BK3R b - - 3 23"]
+[SetUp "1"]
+
+23... Bxf2 24. Bxa6 bxa6 25. Qxf2 *

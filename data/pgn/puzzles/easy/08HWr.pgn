@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08HWr"]
+[Difficulty "easy"]
+[Rating "1095"]
+[Themes "advantage discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/1g3fMkbC/black#22"]
+[Solution "e4f3 d3g6 h7g6 d1d5"]
+[SolutionSAN "exf3 Bxg6+ hxg6 Qxd5"]
+[FEN "r3k1nr/ppp4p/2n3p1/3q4/1b2p1b1/3BPNBP/PP3PP1/RN1Q1K1R b kq - 2 11"]
+[SetUp "1"]
+
+11... exf3 12. Bxg6+ hxg6 13. Qxd5 *

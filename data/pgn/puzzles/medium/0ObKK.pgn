@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ObKK"]
+[Difficulty "medium"]
+[Rating "1582"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/VnLKwMqY#73"]
+[Solution "b3d3 d2b4"]
+[SolutionSAN "Rd3 Qb4#"]
+[FEN "5rk1/2Q2pp1/4p1p1/p7/2KPP3/1R3P2/3q2nP/3B3R w - - 12 37"]
+[SetUp "1"]
+
+37. Rd3 Qb4# *

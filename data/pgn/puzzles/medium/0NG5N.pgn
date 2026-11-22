@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NG5N"]
+[Difficulty "medium"]
+[Rating "1606"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/kK70ss0I/black#60"]
+[Solution "f7f2 g5g7"]
+[SolutionSAN "Rxf2 Qxg7#"]
+[FEN "6k1/3b1rpp/4r3/p2p2Q1/1p1B2P1/7P/1PP2RBK/1q6 b - - 1 30"]
+[SetUp "1"]
+
+30... Rxf2 31. Qxg7# *

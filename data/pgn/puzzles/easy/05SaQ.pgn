@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05SaQ"]
+[Difficulty "easy"]
+[Rating "524"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/a5GxwTmj#31"]
+[Solution "f3g5 c6g2"]
+[SolutionSAN "Ng5 Qxg2#"]
+[FEN "rn2r1k1/1b1n1ppp/ppqPp3/2p5/P1B5/3P1NB1/1PP3PP/R2Q1RK1 w - - 1 16"]
+[SetUp "1"]
+
+16. Ng5 Qxg2# *

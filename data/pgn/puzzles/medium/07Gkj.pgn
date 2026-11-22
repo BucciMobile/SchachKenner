@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Gkj"]
+[Difficulty "medium"]
+[Rating "1688"]
+[Themes "advancedPawn crushing endgame pawnEndgame veryLong"]
+[GameUrl "https://lichess.org/game/Q8I5hZSl#81"]
+[Solution "g5h6 f7f6 c2d1 c4c3 d1c2 e3e2 h6h7 f6g7 h7h8q g7h8"]
+[SolutionSAN "gxh6 Kxf6 Kd1 c3 Kc2 e2 h7 Kg7 h8=Q+ Kxh8"]
+[FEN "8/5k2/5P1p/6PP/2p5/4p3/2K5/8 w - - 0 41"]
+[SetUp "1"]
+
+41. gxh6 Kxf6 42. Kd1 c3 43. Kc2 e2 44. h7 Kg7 45. h8=Q+ Kxh8 *

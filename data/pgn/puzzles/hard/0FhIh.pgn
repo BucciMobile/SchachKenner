@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FhIh"]
+[Difficulty "hard"]
+[Rating "1832"]
+[Themes "endgame mate mateIn2 sacrifice short vukovicMate"]
+[GameUrl "https://lichess.org/game/DVUPuN2b/black#60"]
+[Solution "g6g5 f2f5 e6f5 f1f5"]
+[SolutionSAN "Kg5 Rxf5+ exf5 Rxf5#"]
+[FEN "8/p2r4/4p1kp/2p1Np2/6Pb/2Pr4/PP3RK1/5R2 b - - 1 30"]
+[SetUp "1"]
+
+30... Kg5 31. Rxf5+ exf5 32. Rxf5# *

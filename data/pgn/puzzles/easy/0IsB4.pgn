@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IsB4"]
+[Difficulty "easy"]
+[Rating "991"]
+[Themes "crushing discoveredAttack discoveredCheck endgame fork short"]
+[GameUrl "https://lichess.org/game/xoIPaCNU#87"]
+[Solution "h3h4 e7f5 h4h3 f5d4"]
+[SolutionSAN "Kh4 Nxf5+ Kh3 Nxd4+"]
+[FEN "2q1r2k/4npp1/7p/5P1P/3R4/5QPK/8/3R4 w - - 1 44"]
+[SetUp "1"]
+
+44. Kh4 Nxf5+ 45. Kh3 Nxd4+ *

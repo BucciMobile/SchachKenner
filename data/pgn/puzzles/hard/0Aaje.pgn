@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Aaje"]
+[Difficulty "hard"]
+[Rating "2051"]
+[Themes "advantage long opening sacrifice"]
+[GameUrl "https://lichess.org/game/AfQ7Uv0a/black#24"]
+[Solution "f6d5 d1d5 e6d5 b3b4 c6b4 a3b4"]
+[SolutionSAN "Nd5 Rxd5 Bxd5 b4 Nxb4 Bxb4"]
+[FEN "3rkb1r/pp3ppp/2npbn2/qN2p3/8/BP2QN2/P1P2PPP/2KR1B1R b k - 9 12"]
+[SetUp "1"]
+
+12... Nd5 13. Rxd5 Bxd5 14. b4 Nxb4 15. Bxb4 *

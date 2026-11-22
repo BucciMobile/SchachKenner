@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05cFH"]
+[Difficulty "hard"]
+[Rating "1769"]
+[Themes "crushing long middlegame pin sacrifice"]
+[GameUrl "https://lichess.org/game/1JEd9uvq#43"]
+[Solution "f2f4 e5e3 d3e3 d6c5 e3c5 c8c5"]
+[SolutionSAN "f4 Rxe3 Qxe3 Bc5 Qxc5 Rxc5"]
+[FEN "2r3k1/p4ppp/3b4/3pr3/8/3QB1Pq/PPP2P1P/R4RK1 w - - 4 22"]
+[SetUp "1"]
+
+22. f4 Rxe3 23. Qxe3 Bc5 24. Qxc5 Rxc5 *

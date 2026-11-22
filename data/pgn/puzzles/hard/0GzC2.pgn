@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GzC2"]
+[Difficulty "hard"]
+[Rating "1762"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/zYeRiS77/black#86"]
+[Solution "e1a5 b6d5 c7d5 c4d5"]
+[SolutionSAN "Ba5 Nd5+ Nxd5+ Bxd5"]
+[FEN "8/P1nPk1pp/1N6/2p2p1b/2B2P2/4K3/8/4b3 b - - 0 43"]
+[SetUp "1"]
+
+43... Ba5 44. Nd5+ Nxd5+ 45. Bxd5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09AGU"]
+[Difficulty "medium"]
+[Rating "1462"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/8z8rwkS4/black#40"]
+[Solution "f7f6 f5g6 h7g6 g5g6"]
+[SolutionSAN "f6 fxg6 hxg6 Qxg6"]
+[FEN "4rrnk/pp3p1p/6pP/q1pp1PQ1/8/P1NP1P2/1P3KP1/R6R b - - 2 20"]
+[SetUp "1"]
+
+20... f6 21. fxg6 hxg6 22. Qxg6 *

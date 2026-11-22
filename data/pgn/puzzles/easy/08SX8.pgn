@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08SX8"]
+[Difficulty "easy"]
+[Rating "936"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/aRWmJBrz#31"]
+[Solution "d3f3 e8e1"]
+[SolutionSAN "Rxf3 Re1#"]
+[FEN "r3r1k1/1pp3pp/p2b1p2/2pP4/2P5/3R1b1P/PP3PP1/R1B3K1 w - - 0 16"]
+[SetUp "1"]
+
+16. Rxf3 Re1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DJ8X"]
+[Difficulty "hard"]
+[Rating "2010"]
+[Themes "crushing kingsideAttack master masterVsMaster middlegame quietMove short"]
+[GameUrl "https://lichess.org/game/7p2rj9Ve#37"]
+[Solution "b2b3 g7e5 e3g4 f4g4"]
+[SolutionSAN "b3 Be5 Ng4 Qxg4+"]
+[FEN "1r3rk1/p5bp/2ppb1p1/8/2P2q2/3QN3/PP2PP1P/1RB2RK1 w - - 0 19"]
+[SetUp "1"]
+
+19. b3 Be5 20. Ng4 Qxg4+ *

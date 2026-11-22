@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06hgM"]
+[Difficulty "easy"]
+[Rating "400"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/z2TkfiSU#49"]
+[Solution "d1d4 c8c1 d4d1 c1d1"]
+[SolutionSAN "Rxd4 Rc1+ Rd1 Rxd1#"]
+[FEN "2r3k1/p4ppp/4p1n1/4P3/3r4/1P4B1/P4PPP/3R2K1 w - - 0 25"]
+[SetUp "1"]
+
+25. Rxd4 Rc1+ 26. Rd1 Rxd1# *

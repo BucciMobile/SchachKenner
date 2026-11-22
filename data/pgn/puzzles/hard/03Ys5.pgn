@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Ys5"]
+[Difficulty "hard"]
+[Rating "1842"]
+[Themes "advantage endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/iYYEjcAk#83"]
+[Solution "g2g3 f5g4 a8d8 a3a7"]
+[SolutionSAN "g3 Kg4 Rd8 Rxa7"]
+[FEN "R7/P4p2/6p1/5k1p/3p3P/r7/2PK2P1/8 w - - 1 42"]
+[SetUp "1"]
+
+42. g3 Kg4 43. Rd8 Rxa7 *

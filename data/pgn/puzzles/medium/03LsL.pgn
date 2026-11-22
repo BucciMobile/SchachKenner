@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03LsL"]
+[Difficulty "medium"]
+[Rating "1404"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/FjYWvuI9#45"]
+[Solution "f2f3 e4f2 f1c4 f2h1 c4e6 c8b8"]
+[SolutionSAN "f3 Nf2 Bc4 Nxh1 Bxe6+ Kb8"]
+[FEN "2kr4/1pp3pp/p3p3/8/4n3/P3P3/1PP2PPP/2K2B1R w - - 0 23"]
+[SetUp "1"]
+
+23. f3 Nf2 24. Bc4 Nxh1 25. Bxe6+ Kb8 *

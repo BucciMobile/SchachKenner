@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GSu1"]
+[Difficulty "easy"]
+[Rating "455"]
+[Themes "endgame kingsideAttack mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/DQlodVZ8/black#48"]
+[Solution "d8e8 e1e8"]
+[SolutionSAN "Rxe8 Rxe8#"]
+[FEN "3rQ1k1/1p3pp1/1p3qPp/p7/P4n2/2P2p1P/1PB2PP1/R3R1K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Rxe8 25. Rxe8# *

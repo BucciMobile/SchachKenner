@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05beD"]
+[Difficulty "hard"]
+[Rating "2041"]
+[Themes "crushing defensiveMove endgame hangingPiece veryLong"]
+[GameUrl "https://lichess.org/game/M1XQUZ9u#101"]
+[Solution "c4a3 b3a3 f3f4 a3b4 f4f5 b4c5 f5f6 c5d6"]
+[SolutionSAN "Na3 Kxa3 f4 Kb4 f5 Kc5 f6 Kd6"]
+[FEN "8/8/8/8/p1N5/1k3PK1/6P1/8 w - - 8 51"]
+[SetUp "1"]
+
+51. Na3 Kxa3 52. f4 Kb4 53. f5 Kc5 54. f6 Kd6 *

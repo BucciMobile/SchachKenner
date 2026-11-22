@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IpXz"]
+[Difficulty "medium"]
+[Rating "1208"]
+[Themes "advantage long middlegame skewer"]
+[GameUrl "https://lichess.org/game/RiBtMaUk/black#30"]
+[Solution "d8e7 b2a3 c7c5 a3c5 e7f7 c5f8"]
+[SolutionSAN "Ke7 Ba3+ c5 Bxc5+ Kxf7 Bxf8"]
+[FEN "rnbk1r2/ppp2Bpp/4p3/8/8/8/PB3KPP/3R2NR b - - 1 15"]
+[SetUp "1"]
+
+15... Ke7 16. Ba3+ c5 17. Bxc5+ Kxf7 18. Bxf8 *

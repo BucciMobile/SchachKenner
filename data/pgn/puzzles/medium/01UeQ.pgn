@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01UeQ"]
+[Difficulty "medium"]
+[Rating "1311"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/XnPq7alo#49"]
+[Solution "g3f5 d6f5 g6f5 f8g8 g7h7 g8h8"]
+[SolutionSAN "Nf5+ Nxf5 Bxf5 Rg8 Qh7 Rh8"]
+[FEN "r4r2/pb1qknQ1/1p1nppB1/3p2p1/3P4/1PP3NP/P2B1PP1/1R2R1K1 w - - 1 25"]
+[SetUp "1"]
+
+25. Nf5+ Nxf5 26. Bxf5 Rg8 27. Qh7 Rh8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fzhf"]
+[Difficulty "easy"]
+[Rating "970"]
+[Themes "backRankMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/oIsZ3Hia#37"]
+[Solution "g6f8 d8d1"]
+[SolutionSAN "Nxf8 Qd1#"]
+[FEN "r1bq1r2/1p2p1k1/p3BnNb/4p1Np/8/7Q/PPP2PPP/R1B3K1 w - - 1 19"]
+[SetUp "1"]
+
+19. Nxf8 Qd1# *

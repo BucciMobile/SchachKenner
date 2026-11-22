@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AQtz"]
+[Difficulty "easy"]
+[Rating "1108"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/a7GpA8Oz/black#60"]
+[Solution "f8e8 h8g8"]
+[SolutionSAN "Kxe8 Qxg8#"]
+[FEN "4RkqQ/pb1r3p/1p1P4/5p2/6pN/6B1/PP3PPP/6K1 b - - 8 30"]
+[SetUp "1"]
+
+30... Kxe8 31. Qxg8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01KQY"]
+[Difficulty "easy"]
+[Rating "856"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/O7OlrfG1/black#78"]
+[Solution "c8c2 b7b8 c2c8 b8c8"]
+[SolutionSAN "Rcc2 Rb8+ Rc8 Rxc8#"]
+[FEN "2r2k2/1R3p1p/6pP/P2p4/1p6/1P2RPP1/3r4/1K6 b - - 2 39"]
+[SetUp "1"]
+
+39... Rcc2 40. Rb8+ Rc8 41. Rxc8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08UiH"]
+[Difficulty "easy"]
+[Rating "577"]
+[Themes "kingsideAttack mate mateIn2 middlegame pillsburysMate short"]
+[GameUrl "https://lichess.org/game/B7hmkA97#43"]
+[Solution "h2h3 e6e1 d1e1 e8e1"]
+[SolutionSAN "h3 Re1+ Rxe1 Rxe1#"]
+[FEN "4r3/pbpk2pp/1p1br3/1N4B1/8/8/PPPR1PPP/3R2K1 w - - 7 22"]
+[SetUp "1"]
+
+22. h3 Re1+ 23. Rxe1 Rxe1# *

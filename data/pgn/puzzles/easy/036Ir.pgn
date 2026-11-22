@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "036Ir"]
+[Difficulty "easy"]
+[Rating "844"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/iTaSWaoc#91"]
+[Solution "g5g6 b2c4 e3f4 c4d6"]
+[SolutionSAN "g6 Nc4+ Kf4 Nxd6"]
+[FEN "6r1/8/p2R4/2pP1PPk/4P3/4K3/Pn6/8 w - - 0 46"]
+[SetUp "1"]
+
+46. g6 Nc4+ 47. Kf4 Nxd6 *

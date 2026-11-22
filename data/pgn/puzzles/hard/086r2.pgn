@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "086r2"]
+[Difficulty "hard"]
+[Rating "1942"]
+[Themes "endgame exposedKing fork long mate mateIn3 operaMate"]
+[GameUrl "https://lichess.org/game/zX82IoE8#83"]
+[Solution "d2c2 f5d4 c2b1 e3e1 b1a2 e1a1"]
+[SolutionSAN "Kc2 Nd4+ Kb1 Re1+ Ka2 Ra1#"]
+[FEN "5k2/2R5/1PQ5/2Pp1n2/5P2/2b1r3/3K2P1/8 w - - 11 42"]
+[SetUp "1"]
+
+42. Kc2 Nd4+ 43. Kb1 Re1+ 44. Ka2 Ra1# *

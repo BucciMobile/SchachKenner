@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "017Ou"]
+[Difficulty "hard"]
+[Rating "2202"]
+[Themes "crushing master middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/C7v3p5U8/black#46"]
+[Solution "b6f2 d3d6 f2e1 b1b2"]
+[SolutionSAN "Qxf2 Qd6 Qxe1+ Kxb2"]
+[FEN "r3k1r1/pp3pP1/1qp1p3/6Bb/4P2P/3Q4/PpP2PB1/1K2R3 b q - 0 23"]
+[SetUp "1"]
+
+23... Qxf2 24. Qd6 Qxe1+ 25. Kxb2 *

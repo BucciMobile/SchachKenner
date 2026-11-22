@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02T4U"]
+[Difficulty "easy"]
+[Rating "1079"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/DstrnDEG#59"]
+[Solution "f4h4 a6f1 f2e3 f8e8"]
+[SolutionSAN "Qh4 Qf1+ Ke3 Re8+"]
+[FEN "5rk1/p4pp1/qp1R4/2pN3p/5Q2/5PPb/PP3K1P/R1B5 w - - 7 30"]
+[SetUp "1"]
+
+30. Qh4 Qf1+ 31. Ke3 Re8+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GSJF"]
+[Difficulty "hard"]
+[Rating "2776"]
+[Themes "crushing defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/pg7I2vZS/black#34"]
+[Solution "c3d3 a2f7 g8f8 d1e1"]
+[SolutionSAN "Qxd3 Bxf7+ Kf8 Qe1"]
+[FEN "r1br2k1/1p2ppb1/p4np1/2p1p3/4P3/P1qPBN1P/B5P1/2RQ1RK1 b - - 3 17"]
+[SetUp "1"]
+
+17... Qxd3 18. Bxf7+ Kf8 19. Qe1 *

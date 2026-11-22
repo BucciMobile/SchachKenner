@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03wgS"]
+[Difficulty "medium"]
+[Rating "1240"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/D3GHO64z#17"]
+[Solution "f3h4 g6g5 d2g5 h6g5"]
+[SolutionSAN "Nh4 Qxg5 Qxg5 hxg5"]
+[FEN "rnb1kb1r/p3npp1/2pp2qp/1p2p1B1/4P3/1BNP1N2/PPPQ1PPP/R3K2R w KQkq - 0 9"]
+[SetUp "1"]
+
+9. Nh4 Qxg5 10. Qxg5 hxg5 *

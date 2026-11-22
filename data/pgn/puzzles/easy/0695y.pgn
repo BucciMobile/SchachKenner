@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0695y"]
+[Difficulty "easy"]
+[Rating "599"]
+[Themes "crushing endgame master rookEndgame short skewer"]
+[GameUrl "https://lichess.org/game/iQWxl5pz#129"]
+[Solution "c3d3 a4a3 d3e4 a3g3"]
+[SolutionSAN "Kd3 Ra3+ Ke4 Rxg3"]
+[FEN "8/8/8/2k5/r7/2K3R1/8/8 w - - 30 65"]
+[SetUp "1"]
+
+65. Kd3 Ra3+ 66. Ke4 Rxg3 *

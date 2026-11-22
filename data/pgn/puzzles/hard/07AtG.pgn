@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07AtG"]
+[Difficulty "hard"]
+[Rating "2049"]
+[Themes "crushing discoveredAttack discoveredCheck middlegame short"]
+[GameUrl "https://lichess.org/game/pv1uQLm8#51"]
+[Solution "a7a8q h2b8 h1g1 g4f3"]
+[SolutionSAN "a8=Q Bb8+ Kg1 gxf3"]
+[FEN "4r1k1/P4pp1/2p2p2/3p4/3P2p1/2BQ1N1q/5P1b/R6K w - - 0 26"]
+[SetUp "1"]
+
+26. a8=Q Bb8+ 27. Kg1 gxf3 *

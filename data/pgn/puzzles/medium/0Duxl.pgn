@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Duxl"]
+[Difficulty "medium"]
+[Rating "1615"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/MLCTlDCQ/black#24"]
+[Solution "c8d7 a4a5 b7b6 a5a3"]
+[SolutionSAN "Bd7 Qxa5 b6 Qa3"]
+[FEN "rkbq1b1r/1p3Bpp/p3pn2/n1p1p3/QP6/2P2N2/P2P1PPP/RNB2RK1 b - - 0 12"]
+[SetUp "1"]
+
+12... Bd7 13. Qxa5 b6 14. Qa3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Obnc"]
+[Difficulty "medium"]
+[Rating "1633"]
+[Themes "advantage endgame exposedKing long skewer"]
+[GameUrl "https://lichess.org/game/SeQx0yQl#53"]
+[Solution "g4h3 d8h8 h3g3 h8g8 g3h2 g8g2"]
+[SolutionSAN "Kh3 Rh8+ Kg3 Rg8+ Kh2 Rxg2+"]
+[FEN "1k1r4/pp6/4N3/3ppB2/2q3K1/P7/1P4Q1/R7 w - - 4 27"]
+[SetUp "1"]
+
+27. Kh3 Rh8+ 28. Kg3 Rg8+ 29. Kh2 Rxg2+ *

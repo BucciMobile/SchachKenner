@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06tpy"]
+[Difficulty "medium"]
+[Rating "1620"]
+[Themes "advantage fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/9oAlGSTy#39"]
+[Solution "g1g2 f6f2 f1f2 g4e3 g2f3 e3d1"]
+[SolutionSAN "Kxg2 Qxf2+ Rxf2 Nxe3+ Kf3 Nxd1"]
+[FEN "5rk1/p4ppp/1p1bpq2/8/3P2nN/P3P1P1/1B3PbP/3Q1RK1 w - - 0 20"]
+[SetUp "1"]
+
+20. Kxg2 Qxf2+ 21. Rxf2 Nxe3+ 22. Kf3 Nxd1 *

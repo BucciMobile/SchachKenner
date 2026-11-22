@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02684"]
+[Difficulty "easy"]
+[Rating "830"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/lk8YmYYC#79"]
+[Solution "f5h4 f4e2 g1f2 e2d4"]
+[SolutionSAN "Nxh4 Ne2+ Kf2 Nxd4"]
+[FEN "8/5kp1/p1r2n2/2p2N2/P1RB1n1p/7P/6P1/6K1 w - - 8 40"]
+[SetUp "1"]
+
+40. Nxh4 Ne2+ 41. Kf2 Nxd4 *

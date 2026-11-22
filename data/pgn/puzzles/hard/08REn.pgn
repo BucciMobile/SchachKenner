@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08REn"]
+[Difficulty "hard"]
+[Rating "1899"]
+[Themes "advancedPawn crushing endgame long master promotion"]
+[GameUrl "https://lichess.org/game/0YwsWopP/black#96"]
+[Solution "c7d6 h5h6 d5d4 h6h7 d4c3 h7h8q"]
+[SolutionSAN "Kd6 h6 d4 h7 dxc3 h8=Q"]
+[FEN "8/b1k2B2/8/3p1nPP/P7/2P5/6K1/8 b - - 0 48"]
+[SetUp "1"]
+
+48... Kd6 49. h6 d4 50. h7 dxc3 51. h8=Q *

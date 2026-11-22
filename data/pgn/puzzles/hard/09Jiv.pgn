@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Jiv"]
+[Difficulty "hard"]
+[Rating "2054"]
+[Themes "advantage defensiveMove opening veryLong"]
+[GameUrl "https://lichess.org/game/Y4wqw791#29"]
+[Solution "e5c5 f8f7 f1e1 h8h7 c5e7 h4e7 e1e7 f7e7"]
+[SolutionSAN "Qxc5+ Kf7 Re1 Rxh7 Qe7+ Qxe7 Rxe7+ Kxe7"]
+[FEN "r1b2k1r/p5pB/2p5/n1b1Q3/5n1q/8/PPPP1PPP/RNB2RK1 w - - 1 15"]
+[SetUp "1"]
+
+15. Qxc5+ Kf7 16. Re1 Rxh7 17. Qe7+ Qxe7 18. Rxe7+ Kxe7 *

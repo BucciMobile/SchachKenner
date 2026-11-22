@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09F3h"]
+[Difficulty "medium"]
+[Rating "1290"]
+[Themes "advantage middlegame short xRayAttack"]
+[GameUrl "https://lichess.org/game/WwJ17vYH#49"]
+[Solution "d1c1 b2c1 c7c1 c8c1"]
+[SolutionSAN "Rdc1 Qxc1+ Rxc1 Rxc1+"]
+[FEN "2r2r1k/2R2ppp/p3P3/1p6/5N2/3BPN2/Pq3PPP/3R2K1 w - - 1 25"]
+[SetUp "1"]
+
+25. Rdc1 Qxc1+ 26. Rxc1 Rxc1+ *

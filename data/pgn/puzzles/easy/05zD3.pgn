@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05zD3"]
+[Difficulty "easy"]
+[Rating "573"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/GCwzRET2/black#30"]
+[Solution "d5f4 e4h7"]
+[SolutionSAN "Nf4 Qxh7#"]
+[FEN "r4rk1/b1p2ppp/p4q2/1p1np1N1/1PPnQ3/1B1P4/P4PPP/RNB3K1 b - - 2 15"]
+[SetUp "1"]
+
+15... Nf4 16. Qxh7# *

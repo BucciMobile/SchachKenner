@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GmWn"]
+[Difficulty "hard"]
+[Rating "1793"]
+[Themes "attraction endgame long mate mateIn3 operaMate"]
+[GameUrl "https://lichess.org/game/OKxiAGbB/black#78"]
+[Solution "f4c4 h4g5 f6g5 e2e5 g5h6 e5h5"]
+[SolutionSAN "Rc4 hxg5+ Kxg5 Re5+ Kh6 Rh5#"]
+[FEN "8/4bBp1/4Pk2/p5p1/1p3rPP/6K1/P3R3/8 b - - 0 39"]
+[SetUp "1"]
+
+39... Rc4 40. hxg5+ Kxg5 41. Re5+ Kh6 42. Rh5# *

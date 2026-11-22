@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HawF"]
+[Difficulty "medium"]
+[Rating "1306"]
+[Themes "crushing discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/EhGBAKeK/black#80"]
+[Solution "e4f6 f3f6 e8f6 g4d1"]
+[SolutionSAN "N4f6 Rxf6 Nxf6 Bxd1"]
+[FEN "k3n3/1p5p/pB4p1/8/P3n1B1/5R1P/6PK/3r4 b - - 8 40"]
+[SetUp "1"]
+
+40... N4f6 41. Rxf6 Nxf6 42. Bxd1 *

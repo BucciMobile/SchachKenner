@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FFoD"]
+[Difficulty "hard"]
+[Rating "2365"]
+[Themes "crushing endgame master rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/dLBlYtgj#57"]
+[Solution "f1f2 d2f2 g2f2 b7b5 f2e2 b5a4 e2d2 a5b4"]
+[SolutionSAN "Rf2 Rxf2+ Kxf2 b5 Ke2 bxa4 Kd2 axb4"]
+[FEN "2k5/1pp4p/8/p4p2/PP3P2/2P3P1/3r2KP/5R2 w - - 1 29"]
+[SetUp "1"]
+
+29. Rf2 Rxf2+ 30. Kxf2 b5 31. Ke2 bxa4 32. Kd2 axb4 *

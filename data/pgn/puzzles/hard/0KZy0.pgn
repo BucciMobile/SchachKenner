@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KZy0"]
+[Difficulty "hard"]
+[Rating "2004"]
+[Themes "crushing defensiveMove endgame exposedKing master pin veryLong"]
+[GameUrl "https://lichess.org/game/AbxPrYcQ#77"]
+[Solution "e3d2 c7c6 d1e1 e7f8 e1e6 f6g5 d2c3 c6d5"]
+[SolutionSAN "Kxd2 c6 Re1+ Kf8 Re6 Bg5+ Kc3 cxd5"]
+[FEN "3r4/2p1k3/1p3bPp/p2B4/2P3P1/1P2K3/3p4/3R4 w - - 1 39"]
+[SetUp "1"]
+
+39. Kxd2 c6 40. Re1+ Kf8 41. Re6 Bg5+ 42. Kc3 cxd5 *

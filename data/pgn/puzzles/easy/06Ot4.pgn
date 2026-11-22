@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Ot4"]
+[Difficulty "easy"]
+[Rating "1177"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/IClEtlhC/black#20"]
+[Solution "c8g4 f3d4 c5d4 e2g4"]
+[SolutionSAN "Bg4 Nxd4 Bxd4 Bxg4"]
+[FEN "r1b1k2r/pp3pp1/2pp1q1p/2b1p3/2PnP3/3P1N2/PP2BPPP/R1BQ1R1K b kq - 1 10"]
+[SetUp "1"]
+
+10... Bg4 11. Nxd4 Bxd4 12. Bxg4 *

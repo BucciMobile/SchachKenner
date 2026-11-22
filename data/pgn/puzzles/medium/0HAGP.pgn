@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HAGP"]
+[Difficulty "medium"]
+[Rating "1576"]
+[Themes "advantage deflection middlegame short"]
+[GameUrl "https://lichess.org/game/puM690kZ/black#42"]
+[Solution "d8d5 e1f1 f8e7 h7g7"]
+[SolutionSAN "Qd5 Rf1+ Ke7 Qxg7+"]
+[FEN "r1bqrk2/ppp3pQ/2n4p/8/8/4P3/PP4PP/RN2R1K1 b - - 0 21"]
+[SetUp "1"]
+
+21... Qd5 22. Rf1+ Ke7 23. Qxg7+ *

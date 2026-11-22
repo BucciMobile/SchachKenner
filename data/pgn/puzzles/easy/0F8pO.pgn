@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F8pO"]
+[Difficulty "easy"]
+[Rating "958"]
+[Themes "mate mateIn1 middlegame oneMove operaMate"]
+[GameUrl "https://lichess.org/game/D2RZsGP1/black#20"]
+[Solution "d7e5 d1d8"]
+[SolutionSAN "Nxe5 Rd8#"]
+[FEN "rnb1k2r/pppn1pp1/7p/4P3/1bB4B/2N5/PPP1NPPP/3RK2R b Kkq - 1 10"]
+[SetUp "1"]
+
+10... Nxe5 11. Rd8# *

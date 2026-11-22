@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00bmj"]
+[Difficulty "hard"]
+[Rating "2494"]
+[Themes "advantage defensiveMove opening pin veryLong"]
+[GameUrl "https://lichess.org/game/FrYWZCWt#29"]
+[Solution "b3b4 c7c5 b4c4 d8e7 f1e2 b6b5 c4d3 g4f5 d3d4 c5d4"]
+[SolutionSAN "Qb4+ c5 Qc4 Qe7+ Be2 b5 Qd3 Bf5 Qxd4 cxd4"]
+[FEN "r2q1k1r/p1p2ppp/1p6/8/3n2b1/1Q3NP1/PP1N1PP1/3RKB1R w K - 2 15"]
+[SetUp "1"]
+
+15. Qb4+ c5 16. Qc4 Qe7+ 17. Be2 b5 18. Qd3 Bf5 19. Qxd4 cxd4 *

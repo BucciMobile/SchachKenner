@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HpkB"]
+[Difficulty "hard"]
+[Rating "1982"]
+[Themes "advantage defensiveMove long middlegame pin"]
+[GameUrl "https://lichess.org/game/jW8Bta4Z/black#38"]
+[Solution "c6c2 e2g4 h8e8 e1d1 d5e6 g4f5"]
+[SolutionSAN "Rxc2 Bg4 Re8+ Kd1 Be6 Bxf5"]
+[FEN "2k4r/ppp2ppp/2r5/3b1q2/1Q6/8/PPP1BPPP/R3K2R b KQ - 3 19"]
+[SetUp "1"]
+
+19... Rxc2 20. Bg4 Re8+ 21. Kd1 Be6 22. Bxf5 *

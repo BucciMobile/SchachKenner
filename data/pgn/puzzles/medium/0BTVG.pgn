@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BTVG"]
+[Difficulty "medium"]
+[Rating "1255"]
+[Themes "crushing endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/i9GGe46Y#65"]
+[Solution "e1e5 d7d4 e5e4 f5e4"]
+[SolutionSAN "Re5 Rd4+ Re4 fxe4"]
+[FEN "8/pp1r3p/2p2k2/P4p2/5K2/3P2PP/1PP5/4R3 w - - 3 33"]
+[SetUp "1"]
+
+33. Re5 Rd4+ 34. Re4 fxe4 *

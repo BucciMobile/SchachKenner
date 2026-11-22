@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JEtL"]
+[Difficulty "easy"]
+[Rating "527"]
+[Themes "backRankMate endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/M12zawEc#61"]
+[Solution "d1d7 a3a1 e4b1 a1b1 d7d1 b1d1"]
+[SolutionSAN "Rd7 Ra1+ Bb1 Rxb1+ Rd1 Rxd1#"]
+[FEN "7k/p4pp1/2N4p/8/4B3/r3P3/1b3PPP/3R2K1 w - - 0 31"]
+[SetUp "1"]
+
+31. Rd7 Ra1+ 32. Bb1 Rxb1+ 33. Rd1 Rxd1# *

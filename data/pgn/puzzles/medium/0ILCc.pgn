@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ILCc"]
+[Difficulty "medium"]
+[Rating "1677"]
+[Themes "intermezzo master mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/x5LJbtii/black#52"]
+[Solution "g6f7 f5h6 c6h6 e7f7"]
+[SolutionSAN "Bxf7 Nh6+ Qxh6 Qxf7#"]
+[FEN "4r1kr/pp2QPpp/2q3b1/b4N2/8/2p2R2/P3B2P/2R4K b - - 0 26"]
+[SetUp "1"]
+
+26... Bxf7 27. Nh6+ Qxh6 28. Qxf7# *

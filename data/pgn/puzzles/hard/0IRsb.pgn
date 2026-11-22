@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IRsb"]
+[Difficulty "hard"]
+[Rating "2066"]
+[Themes "crushing deflection middlegame short"]
+[GameUrl "https://lichess.org/game/sRfcoZcu/black#64"]
+[Solution "f7g6 e2g4 g6h6 c3f6"]
+[SolutionSAN "Kg6 Qxg4+ Kh6 Bxf6"]
+[FEN "8/q3nk2/3p1p2/1p1P1n1r/5Pp1/P1B3Pp/1P2Q2P/4RK2 b - - 4 32"]
+[SetUp "1"]
+
+32... Kg6 33. Qxg4+ Kh6 34. Bxf6 *

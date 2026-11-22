@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "076QH"]
+[Difficulty "hard"]
+[Rating "2645"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/S8Mna4fF/black#70"]
+[Solution "e1b1 g3g4 c7e7 g8h8"]
+[SolutionSAN "Qb1 Rg4 Re7 Rh8+"]
+[FEN "6R1/2r5/1p1p1ppk/p2B4/P1P5/1P4RP/5PK1/4q3 b - - 2 35"]
+[SetUp "1"]
+
+35... Qb1 36. Rg4 Re7 37. Rh8+ *

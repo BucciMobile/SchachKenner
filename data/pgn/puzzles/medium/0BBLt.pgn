@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BBLt"]
+[Difficulty "medium"]
+[Rating "1691"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/biT9TVPM/black#68"]
+[Solution "e7d6 a2a4 b5c3 a1c1"]
+[SolutionSAN "Kd6 a4 Nc3 Rc1"]
+[FEN "8/p1r1kp2/4p1p1/1n1p3p/8/1P1NPPPP/P2K4/R7 b - - 0 34"]
+[SetUp "1"]
+
+34... Kd6 35. a4 Nc3 36. Rc1 *

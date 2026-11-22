@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JgEQ"]
+[Difficulty "easy"]
+[Rating "723"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/SRcbsfq7/black#46"]
+[Solution "c8c6 g2d5 g8f8 d5c6"]
+[SolutionSAN "Rxc6 Bxd5+ Kf8 Bxc6"]
+[FEN "2r3k1/6pp/ppNb1p2/3p3b/1P6/2P1P1P1/P5BP/R5K1 b - - 0 23"]
+[SetUp "1"]
+
+23... Rxc6 24. Bxd5+ Kf8 25. Bxc6 *

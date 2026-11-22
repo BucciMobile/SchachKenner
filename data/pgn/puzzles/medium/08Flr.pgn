@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Flr"]
+[Difficulty "medium"]
+[Rating "1307"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[GameUrl "https://lichess.org/game/wGszBavV#109"]
+[Solution "h3h4 b5b4 g1f2 b4b3 h4h5 b3b2 h5h6 b2b1q"]
+[SolutionSAN "h4 b4 Kf2 b3 h5 b2 h6 b1=Q"]
+[FEN "5k2/5P2/6P1/1p6/8/7P/8/6K1 w - - 0 55"]
+[SetUp "1"]
+
+55. h4 b4 56. Kf2 b3 57. h5 b2 58. h6 b1=Q *

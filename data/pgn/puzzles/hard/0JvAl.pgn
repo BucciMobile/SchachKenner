@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JvAl"]
+[Difficulty "hard"]
+[Rating "2004"]
+[Themes "equality middlegame short"]
+[GameUrl "https://lichess.org/game/aGmCUaeM/black#48"]
+[Solution "b4d3 f4d3 e4g3 h2g3"]
+[SolutionSAN "Nxd3 Nxd3 Nxg3 hxg3"]
+[FEN "2r5/pb1p1pk1/1p5p/8/1n2nN2/3B2B1/PP1b2PP/1K1R3R b - - 7 24"]
+[SetUp "1"]
+
+24... Nxd3 25. Nxd3 Nxg3 26. hxg3 *

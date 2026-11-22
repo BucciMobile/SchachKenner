@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06EnY"]
+[Difficulty "medium"]
+[Rating "1216"]
+[Themes "crushing discoveredAttack discoveredCheck endgame fork short"]
+[GameUrl "https://lichess.org/game/0owGccjU/black#52"]
+[Solution "c2c7 d6e8 g7f8 e8c7"]
+[SolutionSAN "Rc7 Ne8+ Kf8 Nxc7+"]
+[FEN "3R4/pp3pkp/3Np1pb/4p3/4P3/1P6/P1r2PP1/6K1 b - - 2 26"]
+[SetUp "1"]
+
+26... Rc7 27. Ne8+ Kf8 28. Nxc7+ *

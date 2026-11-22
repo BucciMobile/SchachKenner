@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LEXD"]
+[Difficulty "medium"]
+[Rating "1590"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/VajEVv7a/black#42"]
+[Solution "e8e6 c1f4 e6h3 f4g3"]
+[SolutionSAN "Qe6 Bxf4 Qxh3 Bg3"]
+[FEN "r3q1k1/5ppp/1p1p2r1/p1pRp2b/P1Q1Pb2/2PP3P/1P3PPN/2B1R1K1 b - - 0 21"]
+[SetUp "1"]
+
+21... Qe6 22. Bxf4 Qxh3 23. Bg3 *

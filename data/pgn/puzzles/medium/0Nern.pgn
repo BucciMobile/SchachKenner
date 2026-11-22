@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Nern"]
+[Difficulty "medium"]
+[Rating "1454"]
+[Themes "advantage discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/MvZlmQbV/black#46"]
+[Solution "d8d2 f5h6 g8g7 h5e5"]
+[SolutionSAN "Rxd2 Nh6+ Kg7 Rxe5"]
+[FEN "3r1rk1/pp3p1p/8/2p1qN1R/2P1P3/2N5/PP1R2P1/2K5 b - - 0 23"]
+[SetUp "1"]
+
+23... Rxd2 24. Nh6+ Kg7 25. Rxe5 *

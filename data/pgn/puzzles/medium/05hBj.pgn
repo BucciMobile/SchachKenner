@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05hBj"]
+[Difficulty "medium"]
+[Rating "1247"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/QBPG160G#35"]
+[Solution "h6g7 e8e2 d2e2 a6e2"]
+[SolutionSAN "Bxg7 Rxe2+ Qxe2 Bxe2"]
+[FEN "r3r1k1/p2n1pb1/b1pp3B/q4p2/1p1P4/5N2/PPPQNKPP/R6R w - - 2 18"]
+[SetUp "1"]
+
+18. Bxg7 Rxe2+ 19. Qxe2 Bxe2 *

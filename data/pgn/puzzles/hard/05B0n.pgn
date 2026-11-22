@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05B0n"]
+[Difficulty "hard"]
+[Rating "2288"]
+[Themes "attraction crushing deflection middlegame queensideAttack veryLong"]
+[GameUrl "https://lichess.org/game/wJMFhxFl#45"]
+[Solution "e2c3 a5a1 c1c2 b4b2 c2d3 b2d2 d3d2 b8b2 d1b2 a1b2 d2e3 b2c3"]
+[SolutionSAN "Nec3 Qa1+ Kc2 Rxb2+ Kd3 Rxd2+ Kxd2 Rb2+ Nxb2 Qxb2+ Ke3 Qxc3+"]
+[FEN "1r4k1/p1n1pp1p/3p2pQ/q1pP2P1/1rP1P2P/8/1P1RN3/2KN3R w - - 1 23"]
+[SetUp "1"]
+
+23. Nec3 Qa1+ 24. Kc2 Rxb2+ 25. Kd3 Rxd2+ 26. Kxd2 Rb2+ 27. Nxb2 Qxb2+ 28. Ke3 Qxc3+ *

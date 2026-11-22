@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KXc1"]
+[Difficulty "hard"]
+[Rating "1746"]
+[Themes "discoveredCheck doubleCheck kingsideAttack mate mateIn4 middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/Zf6BpZ9d/black#40"]
+[Solution "f8d6 d3h7 g8h8 e5g6 h8h7 g6f8 h7g8 c2h7"]
+[SolutionSAN "Qd6 Bh7+ Kh8 Ng6+ Kxh7 Nf8+ Kg8 Qh7#"]
+[FEN "r4qk1/pppn2p1/4b2p/3pN3/3P4/2PB2PP/PPQ3K1/5R2 b - - 1 20"]
+[SetUp "1"]
+
+20... Qd6 21. Bh7+ Kh8 22. Ng6+ Kxh7 23. Nf8+ Kg8 24. Qh7# *

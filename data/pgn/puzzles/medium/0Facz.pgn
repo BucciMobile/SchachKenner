@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Facz"]
+[Difficulty "medium"]
+[Rating "1443"]
+[Themes "hangingPiece kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/c4t84dTF/black#34"]
+[Solution "e5f6 e2e8 g8g7 h5h6"]
+[SolutionSAN "Bxf6 Qxe8+ Kg7 h6#"]
+[FEN "r1b1r1k1/pppp1p1p/5Np1/4b1BP/8/P7/1PP1Q2P/1R2KBq1 b - - 1 17"]
+[SetUp "1"]
+
+17... Bxf6 18. Qxe8+ Kg7 19. h6# *

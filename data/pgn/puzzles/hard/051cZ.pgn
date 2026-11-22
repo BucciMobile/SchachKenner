@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "051cZ"]
+[Difficulty "hard"]
+[Rating "2283"]
+[Themes "advancedPawn crushing endgame exposedKing long master"]
+[GameUrl "https://lichess.org/game/z1IPetgF/black#104"]
+[Solution "d5c6 b3a5 c6d7 c5c6 d7d6 c6c7"]
+[SolutionSAN "Kc6 Na5+ Kd7 c6+ Kd6 c7"]
+[FEN "8/8/1P4p1/2Pk2Pp/4p2P/1N5r/2K5/8 b - - 0 52"]
+[SetUp "1"]
+
+52... Kc6 53. Na5+ Kd7 54. c6+ Kd6 55. c7 *

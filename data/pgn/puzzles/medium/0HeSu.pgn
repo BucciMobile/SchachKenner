@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HeSu"]
+[Difficulty "medium"]
+[Rating "1559"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/yvG6xyc8/black#16"]
+[Solution "c5f2 f1f2 g4f2 h3f2"]
+[SolutionSAN "Bxf2+ Rxf2 Nxf2 Nxf2"]
+[FEN "rnb1k2r/ppp2pp1/3p3p/2bPp3/2P1P1nq/3B3N/PP1N1PPP/R1BQ1RK1 b kq - 1 8"]
+[SetUp "1"]
+
+8... Bxf2+ 9. Rxf2 Nxf2 10. Nxf2 *

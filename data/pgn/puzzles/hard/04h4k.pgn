@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04h4k"]
+[Difficulty "hard"]
+[Rating "1782"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/kYtAU2Gb/black#30"]
+[Solution "g7c3 e4d5 c6d5 e2e7"]
+[SolutionSAN "Bxc3 Bd5+ cxd5 Qxe7"]
+[FEN "rn2nrk1/pp2q1bp/2pp2p1/5bP1/2P1BP2/2NP4/PP1BQ3/R3K1NR b KQ - 4 15"]
+[SetUp "1"]
+
+15... Bxc3 16. Bd5+ cxd5 17. Qxe7 *

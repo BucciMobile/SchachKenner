@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08wZm"]
+[Difficulty "easy"]
+[Rating "806"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/k5acSAL7/black#66"]
+[Solution "c4e4 e5f7 h8h7 f7d6"]
+[SolutionSAN "Re4 Nf7+ Kh7 Nxd6"]
+[FEN "7k/6p1/3r3p/3pNp2/1Pr3b1/P7/6P1/R4RK1 b - - 3 33"]
+[SetUp "1"]
+
+33... Re4 34. Nf7+ Kh7 35. Nxd6 *

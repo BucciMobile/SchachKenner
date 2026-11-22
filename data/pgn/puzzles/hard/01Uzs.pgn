@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Uzs"]
+[Difficulty "hard"]
+[Rating "1889"]
+[Themes "advantage defensiveMove hangingPiece master opening short"]
+[GameUrl "https://lichess.org/game/miqEQghf/black#12"]
+[Solution "f6e4 c3e4 d8h4 e4f2"]
+[SolutionSAN "Nxe4 Nxe4 Qh4+ Nf2"]
+[FEN "rnbqk2r/ppp2ppp/3bpn2/8/4P3/1BN5/PPPP2PP/R1BQK1NR b KQkq - 0 6"]
+[SetUp "1"]
+
+6... Nxe4 7. Nxe4 Qh4+ 8. Nf2 *

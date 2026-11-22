@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0N31A"]
+[Difficulty "medium"]
+[Rating "1686"]
+[Themes "crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/RM6pXoaL/black#126"]
+[Solution "c4c3 f5f6 c3c2 e3d2 c2c1q d2c1"]
+[SolutionSAN "c3 f6 c2 Kd2 c1=Q+ Kxc1"]
+[FEN "8/8/8/1k3P2/2p5/4K3/8/8 b - - 1 63"]
+[SetUp "1"]
+
+63... c3 64. f6 c2 65. Kd2 c1=Q+ 66. Kxc1 *

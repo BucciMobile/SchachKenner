@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LMex"]
+[Difficulty "hard"]
+[Rating "2526"]
+[Themes "crushing defensiveMove endgame quietMove rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/rD5T3lqe/black#112"]
+[Solution "f5e6 c7c1 e6d6 c1e1 f6f5 c8d8 h4h3 d8e8"]
+[SolutionSAN "Ke6 Rxc1 Kxd6 Re1 f5 Kd8 h3 Ke8"]
+[FEN "2K5/2R5/3P1p2/5k2/7p/8/8/2r5 b - - 6 56"]
+[SetUp "1"]
+
+56... Ke6 57. Rxc1 Kxd6 58. Re1 f5 59. Kd8 h3 60. Ke8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05yGe"]
+[Difficulty "easy"]
+[Rating "1182"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/Vrx372xC#61"]
+[Solution "g6g4 e4f2 h1g2 f2g4"]
+[SolutionSAN "Rxg4 Nf2+ Kg2 Nxg4"]
+[FEN "3r4/5k2/p1p3R1/1p2P3/4nBp1/6P1/PPP4P/7K w - - 1 31"]
+[SetUp "1"]
+
+31. Rxg4 Nf2+ 32. Kg2 Nxg4 *

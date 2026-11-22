@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GQVy"]
+[Difficulty "hard"]
+[Rating "1750"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/4UtmQblq#67"]
+[Solution "c5b3 c8c1 a1c1 d2d3"]
+[SolutionSAN "Nb3 Rxc1+ Rxc1 Rxd3"]
+[FEN "2r3k1/b5pp/P7/1bNP1p2/8/3N4/3r1PPP/R1R3K1 w - - 3 34"]
+[SetUp "1"]
+
+34. Nb3 Rxc1+ 35. Rxc1 Rxd3 *

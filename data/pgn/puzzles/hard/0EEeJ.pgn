@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EEeJ"]
+[Difficulty "hard"]
+[Rating "1723"]
+[Themes "attraction crushing middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/h3nEyOFS/black#56"]
+[Solution "g8f8 f7e7 d7e7 d2g5"]
+[SolutionSAN "Rf8 Rxe7+ Kxe7 Qg5+"]
+[FEN "6rr/3knR2/2p1p3/p2pP3/qp1P3p/3B3P/P1PQ4/1K5R b - - 1 28"]
+[SetUp "1"]
+
+28... Rf8 29. Rxe7+ Kxe7 30. Qg5+ *

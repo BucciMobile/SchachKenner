@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C8g0"]
+[Difficulty "medium"]
+[Rating "1509"]
+[Themes "crushing long master opening pin"]
+[GameUrl "https://lichess.org/game/tl8ZKL2c#23"]
+[Solution "e3d4 f6g5 f2f4 g5f4 d2f4 e5f4"]
+[SolutionSAN "exd4 Bg5 f4 Bxf4 Qxf4 exf4"]
+[FEN "r1bq1k1r/pp3p2/2nN1bpp/2P1p3/3p4/4P3/PPPQ1PPP/2KR1BNR w - - 2 12"]
+[SetUp "1"]
+
+12. exd4 Bg5 13. f4 Bxf4 14. Qxf4 exf4 *

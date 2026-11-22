@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08RFZ"]
+[Difficulty "hard"]
+[Rating "2237"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/37fjsYuK#69"]
+[Solution "c5c2 f4h4 c2b3 g8h8 b3e3 e5e3"]
+[SolutionSAN "Qc2 Qxh4 Qb3+ Kh8 Qxe3 Rxe3"]
+[FEN "5rk1/6pp/8/2Q1r3/5q1P/4p3/PP2R1P1/4R1K1 w - - 4 35"]
+[SetUp "1"]
+
+35. Qc2 Qxh4 36. Qb3+ Kh8 37. Qxe3 Rxe3 *

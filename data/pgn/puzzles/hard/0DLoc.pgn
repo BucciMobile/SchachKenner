@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DLoc"]
+[Difficulty "hard"]
+[Rating "2259"]
+[Themes "crushing defensiveMove endgame long quietMove"]
+[GameUrl "https://lichess.org/game/D6F0nHfx/black#130"]
+[Solution "f1g2 d5g2 h2g2 a7b5 e2f4 b5c7"]
+[SolutionSAN "Qg2 Qxg2+ Kxg2 Nb5 Nf4 Nc7"]
+[FEN "8/N6p/6p1/P2Q4/8/8/2K1n2k/5q2 b - - 3 65"]
+[SetUp "1"]
+
+65... Qg2 66. Qxg2+ Kxg2 67. Nb5 Nf4 68. Nc7 *

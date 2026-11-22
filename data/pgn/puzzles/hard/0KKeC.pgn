@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KKeC"]
+[Difficulty "hard"]
+[Rating "2485"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/Bzkfp3kr/black#28"]
+[Solution "f7g8 d4c4 d6d5 c3d5 c6d5 c4c7"]
+[SolutionSAN "Kg8 Qc4+ d5 Nxd5 cxd5 Qxc7"]
+[FEN "r1b1r3/ppqnbkpp/2pp1n2/6N1/P2QPB2/2N4P/1PP2PP1/R3R1K1 b - - 1 14"]
+[SetUp "1"]
+
+14... Kg8 15. Qc4+ d5 16. Nxd5 cxd5 17. Qxc7 *

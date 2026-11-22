@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03WsY"]
+[Difficulty "hard"]
+[Rating "1886"]
+[Themes "advancedPawn crushing defensiveMove endgame pawnEndgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/WLTGwAxJ#91"]
+[Solution "b2b3 c4b4 d2c2 b4a3 c2b1 d5d4 b1a1 d4d3 a1b1 d3d2 b1c2 a3a2"]
+[SolutionSAN "b3+ Kb4 Kc2 Ka3 Kb1 d4 Ka1 d3 Kb1 d2 Kc2 Kxa2"]
+[FEN "8/8/6p1/p2p4/2k4P/8/PP1K4/8 w - - 0 46"]
+[SetUp "1"]
+
+46. b3+ Kb4 47. Kc2 Ka3 48. Kb1 d4 49. Ka1 d3 50. Kb1 d2 51. Kc2 Kxa2 *

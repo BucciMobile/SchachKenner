@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07EOk"]
+[Difficulty "easy"]
+[Rating "576"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/SVUnoNVQ#81"]
+[Solution "h3g4 d5d1 a1d1 d8d1"]
+[SolutionSAN "Bg4 Qd1+ Rxd1 Rxd1#"]
+[FEN "3r4/6kp/6p1/3q4/5Q2/5p1B/1P3P1P/R6K w - - 5 41"]
+[SetUp "1"]
+
+41. Bg4 Qd1+ 42. Rxd1 Rxd1# *

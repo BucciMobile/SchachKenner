@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04dO2"]
+[Difficulty "easy"]
+[Rating "645"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/DsmfAMHm#19"]
+[Solution "d4c6 e5h2"]
+[SolutionSAN "Nxc6 Qh2#"]
+[FEN "r1b1kb1r/ppp3pp/2np1p2/4q3/2BNP1nP/8/PPP2PP1/RNBQ1RK1 w kq - 1 10"]
+[SetUp "1"]
+
+10. Nxc6 Qh2# *

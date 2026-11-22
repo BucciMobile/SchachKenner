@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05JCD"]
+[Difficulty "easy"]
+[Rating "813"]
+[Themes "endgame mate mateIn2 pillsburysMate sacrifice short"]
+[GameUrl "https://lichess.org/game/iftsnAhk#53"]
+[Solution "d1c1 c8c1 e3c1 e8e1"]
+[SolutionSAN "Rc1 Qxc1+ Bxc1 Re1#"]
+[FEN "1bq1r1k1/p4ppp/1p6/3Q4/3P4/P3B2P/1P3PP1/3R2K1 w - - 3 27"]
+[SetUp "1"]
+
+27. Rc1 Qxc1+ 28. Bxc1 Re1# *

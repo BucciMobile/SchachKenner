@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Emza"]
+[Difficulty "hard"]
+[Rating "2155"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/YiwixY8C#41"]
+[Solution "b7a7 d6g3 f2g3 g6c2 g2g1 c2b2"]
+[SolutionSAN "Qxa7 Bxg3 fxg3 Qc2+ Kg1 Qxb2"]
+[FEN "2r1r1k1/pQ3pp1/3b1nq1/3p3p/3P3P/2N2PB1/PP3PK1/R3R3 w - - 3 21"]
+[SetUp "1"]
+
+21. Qxa7 Bxg3 22. fxg3 Qc2+ 23. Kg1 Qxb2 *

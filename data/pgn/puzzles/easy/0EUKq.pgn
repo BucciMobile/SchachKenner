@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EUKq"]
+[Difficulty "easy"]
+[Rating "760"]
+[Themes "advantage endgame fork long master"]
+[GameUrl "https://lichess.org/game/TRzdTBqA/black#84"]
+[Solution "d5b4 c5e6 g7f7 e6c7 b4a6 c7a6"]
+[SolutionSAN "Nb4 Ne6+ Kf7 Nxc7 Nxa6 Nxa6"]
+[FEN "8/2r3k1/R1p2ppp/1pNn4/3P4/7P/5PP1/5K2 b - - 3 42"]
+[SetUp "1"]
+
+42... Nb4 43. Ne6+ Kf7 44. Nxc7 Nxa6 45. Nxa6 *

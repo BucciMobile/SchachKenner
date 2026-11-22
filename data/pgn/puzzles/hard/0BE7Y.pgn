@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BE7Y"]
+[Difficulty "hard"]
+[Rating "2253"]
+[Themes "crushing discoveredAttack endgame exposedKing long master masterVsMaster"]
+[GameUrl "https://lichess.org/game/P419l2Xs/black#78"]
+[Solution "f3c3 f8d6 e1e8 d8e8 g6e8 b2c3"]
+[SolutionSAN "Rxc3 Bxd6+ Qe8 Qxe8+ Bxe8 bxc3"]
+[FEN "3Q1Bk1/1p6/p2p2b1/3P1p2/2P5/1PR2r1P/1P4PK/4q3 b - - 9 39"]
+[SetUp "1"]
+
+39... Rxc3 40. Bxd6+ Qe8 41. Qxe8+ Bxe8 42. bxc3 *

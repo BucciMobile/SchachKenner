@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07wqM"]
+[Difficulty "easy"]
+[Rating "777"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/LOmhLkoY/black#58"]
+[Solution "a2c2 a1a8 e6c8 a8c8"]
+[SolutionSAN "Rxc2 Ra8+ Bc8 Rxc8#"]
+[FEN "6k1/1p3p1p/4b1p1/3p4/8/1PB3PP/r1P2bBK/R7 b - - 1 29"]
+[SetUp "1"]
+
+29... Rxc2 30. Ra8+ Bc8 31. Rxc8# *

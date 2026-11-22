@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06uwS"]
+[Difficulty "easy"]
+[Rating "972"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/nsd3U9gQ/black#104"]
+[Solution "g4d1 c2e3 f5e6 e3d1"]
+[SolutionSAN "Bd1 Ne3+ Ke6 Nxd1"]
+[FEN "8/8/5p1p/5k2/4p1bP/6K1/2N2P2/8 b - - 2 52"]
+[SetUp "1"]
+
+52... Bd1 53. Ne3+ Ke6 54. Nxd1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00JYV"]
+[Difficulty "medium"]
+[Rating "1612"]
+[Themes "advantage kingsideAttack long opening"]
+[GameUrl "https://lichess.org/game/rJrzfvfs/black#22"]
+[Solution "f6e4 h4g6 e4c3 g6e7 d8e7 b2c3"]
+[SolutionSAN "Nxe4 Nxg6 Nxc3 Nxe7+ Qxe7 bxc3"]
+[FEN "r2q1rk1/p1p1bppp/2pp1nb1/4p3/4P1PN/2NP3P/PPP2PK1/R1BQ1R2 b - - 4 11"]
+[SetUp "1"]
+
+11... Nxe4 12. Nxg6 Nxc3 13. Nxe7+ Qxe7 14. bxc3 *

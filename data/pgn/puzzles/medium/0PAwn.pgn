@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0PAwn"]
+[Difficulty "medium"]
+[Rating "1269"]
+[Themes "crushing endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/BA30K0Wi#111"]
+[Solution "d5c6 d4c6 f6f7 d8e7"]
+[SolutionSAN "Bc6 Nxc6 f7 Ke7"]
+[FEN "3k4/3P4/4PP1p/2pB3P/p2n4/1pK5/8/8 w - - 0 56"]
+[SetUp "1"]
+
+56. Bc6 Nxc6 57. f7 Ke7 *

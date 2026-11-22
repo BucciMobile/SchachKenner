@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EBEh"]
+[Difficulty "medium"]
+[Rating "1383"]
+[Themes "crushing kingsideAttack opening short"]
+[GameUrl "https://lichess.org/game/wUbIYPSR#31"]
+[Solution "d5e3 f5e3 f2e3 a7e3"]
+[SolutionSAN "Ne3 Nxe3 fxe3 Bxe3+"]
+[FEN "r1bq1rk1/bp4pp/p1pp2n1/3N1n2/1PP5/P4N2/1B2BPPP/2RQ1RK1 w - - 0 16"]
+[SetUp "1"]
+
+16. Ne3 Nxe3 17. fxe3 Bxe3+ *

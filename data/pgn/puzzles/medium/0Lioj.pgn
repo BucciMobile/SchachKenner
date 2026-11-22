@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lioj"]
+[Difficulty "medium"]
+[Rating "1252"]
+[Themes "advantage discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/ZxmX1i7s/black#78"]
+[Solution "d7d5 c4d5 c6d5 c1c8"]
+[SolutionSAN "Qxd5 Qxd5 cxd5 Rxc8"]
+[FEN "2r5/3qr3/1pp3kp/p2P1pp1/P1Q5/1P4NP/5PP1/2R3K1 b - - 0 39"]
+[SetUp "1"]
+
+39... Qxd5 40. Qxd5 cxd5 41. Rxc8 *

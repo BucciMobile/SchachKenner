@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06NeM"]
+[Difficulty "hard"]
+[Rating "2502"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/TEp8tmDc/black#56"]
+[Solution "g8g7 c2f5 b7c8 f5c8 d6d1 g1h2"]
+[SolutionSAN "Kg7 Qf5 Bc8 Qxc8 Qd1+ Kh2"]
+[FEN "4n1kr/pb5B/1p1q4/2p3N1/2P2p2/P1P2P2/2Q2BP1/6K1 b - - 1 28"]
+[SetUp "1"]
+
+28... Kg7 29. Qf5 Bc8 30. Qxc8 Qd1+ 31. Kh2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01StO"]
+[Difficulty "hard"]
+[Rating "2288"]
+[Themes "clearance crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/vdgMKtjk/black#52"]
+[Solution "g8f7 h5g5 d8h8 f3h5 f7e7 g5g7 e5g7 h6g7"]
+[SolutionSAN "Kf7 Rg5 Rh8 Bh5+ Ke7 Rg7+ Qxg7 Qxg7+"]
+[FEN "r2r2k1/pp6/2p1p2Q/4qp1R/2P5/5BPP/1P3P2/6K1 b - - 1 26"]
+[SetUp "1"]
+
+26... Kf7 27. Rg5 Rh8 28. Bh5+ Ke7 29. Rg7+ Qxg7 30. Qxg7+ *

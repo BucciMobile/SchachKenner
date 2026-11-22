@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "076IL"]
+[Difficulty "hard"]
+[Rating "1915"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/lwtkb1b2/black#62"]
+[Solution "g4h3 e5c6 e6c6 a4c6 d8d1 h1h2"]
+[SolutionSAN "gxh3 Nc6+ Qxc6 Qxc6 Rd1+ Kh2"]
+[FEN "1k1r3r/pPp5/4qn1p/2P1N3/Q5p1/6BP/P3p1P1/1R5K b - - 1 31"]
+[SetUp "1"]
+
+31... gxh3 32. Nc6+ Qxc6 33. Qxc6 Rd1+ 34. Kh2 *

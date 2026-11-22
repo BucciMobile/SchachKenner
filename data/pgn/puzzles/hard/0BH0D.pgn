@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BH0D"]
+[Difficulty "hard"]
+[Rating "2347"]
+[Themes "advantage intermezzo master middlegame short"]
+[GameUrl "https://lichess.org/game/wzLC5uro#53"]
+[Solution "f3e5 e6d5 e4d5 f6e5"]
+[SolutionSAN "Nxe5 Bxd5 exd5 fxe5"]
+[FEN "r5rk/1pp1q3/1b2bp1p/nP1Bp1p1/2P1Pn2/5N1P/1Q1N1PPB/R3R1K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Nxe5 Bxd5 28. exd5 fxe5 *

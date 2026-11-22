@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01h8e"]
+[Difficulty "medium"]
+[Rating "1350"]
+[Themes "master mate mateIn1 middlegame oneMove smotheredMate"]
+[GameUrl "https://lichess.org/game/2OatTzfl/black#46"]
+[Solution "f8h7 f4g6"]
+[SolutionSAN "Nxh7 Ng6#"]
+[FEN "5nrk/r3q1nQ/1p2p3/p1ppPpNP/3P1N2/2P2P2/PP6/R3K2R b KQ - 0 23"]
+[SetUp "1"]
+
+23... Nxh7 24. Ng6# *

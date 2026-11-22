@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "011ON"]
+[Difficulty "easy"]
+[Rating "792"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/MB8FzkNO#59"]
+[Solution "f1e2 e4c3 e2d3 c3b1"]
+[SolutionSAN "Ke2 Nc3+ Kd3 Nxb1"]
+[FEN "2k5/1n3ppp/p7/3P4/4n3/8/P4PPP/1R3K2 w - - 0 30"]
+[SetUp "1"]
+
+30. Ke2 Nc3+ 31. Kd3 Nxb1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08IyL"]
+[Difficulty "medium"]
+[Rating "1253"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/g8CZDzje/black#32"]
+[Solution "c5c4 e2c4 d5c4 e1e4"]
+[SolutionSAN "Qxc4 Qxc4 dxc4 Rxe4"]
+[FEN "r4rk1/1p3pp1/p3p2p/2qp4/2P1n3/5N2/PP2QPPP/R3R1K1 b - - 2 16"]
+[SetUp "1"]
+
+16... Qxc4 17. Qxc4 dxc4 18. Rxe4 *

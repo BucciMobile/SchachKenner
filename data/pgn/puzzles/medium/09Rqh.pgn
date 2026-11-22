@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Rqh"]
+[Difficulty "medium"]
+[Rating "1370"]
+[Themes "attraction crushing exposedKing fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/9qdHRE6R/black#38"]
+[Solution "h8e8 e3e8 d7e8 a8c7 e8d7 c7d5"]
+[SolutionSAN "Re8 Qxe8+ Kxe8 Nc7+ Kd7 Nxd5"]
+[FEN "Nn5r/pp1k1p1p/6p1/3q4/8/BP2QP1P/P1P1K3/b4B2 b - - 2 19"]
+[SetUp "1"]
+
+19... Re8 20. Qxe8+ Kxe8 21. Nc7+ Kd7 22. Nxd5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ft2o"]
+[Difficulty "medium"]
+[Rating "1371"]
+[Themes "attraction endgame kingsideAttack mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/Ukn1tTsd/black#64"]
+[Solution "d1d2 h6h7 h8h7 f4h4"]
+[SolutionSAN "Rd2 Qxh7+ Kxh7 Rh4#"]
+[FEN "6rk/2p2p1p/p3pPpQ/1p6/5R2/5RKP/PPP1q1P1/3r4 b - - 9 32"]
+[SetUp "1"]
+
+32... Rd2 33. Qxh7+ Kxh7 34. Rh4# *

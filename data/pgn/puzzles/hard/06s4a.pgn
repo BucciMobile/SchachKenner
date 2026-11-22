@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06s4a"]
+[Difficulty "hard"]
+[Rating "1919"]
+[Themes "equality fork middlegame short"]
+[GameUrl "https://lichess.org/game/f4jFoUaN/black#22"]
+[Solution "e4h1 d5c7 e8d8 c7e6"]
+[SolutionSAN "Qxh1 Nxc7+ Kd8 Nxe6+"]
+[FEN "rn2k2r/ppp2ppp/4b3/3N4/3bq3/1Q4P1/PP2NP1P/R3KB1R b KQkq - 1 11"]
+[SetUp "1"]
+
+11... Qxh1 12. Nxc7+ Kd8 13. Nxe6+ *

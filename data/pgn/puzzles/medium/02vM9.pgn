@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02vM9"]
+[Difficulty "medium"]
+[Rating "1366"]
+[Themes "clearance crushing exposedKing long middlegame skewer"]
+[GameUrl "https://lichess.org/game/k786XfuO/black#78"]
+[Solution "e8e7 h6g7 f7g7 h4h8 f8f7 h8b8"]
+[SolutionSAN "Re7 Bxg7+ Qxg7 Qh8+ Kf7 Qxb8"]
+[FEN "1r2rk2/3b1qb1/3p3B/1p1Pp3/p3P2Q/PpP2P2/1P3KP1/R6R b - - 8 39"]
+[SetUp "1"]
+
+39... Re7 40. Bxg7+ Qxg7 41. Qh8+ Kf7 42. Qxb8 *

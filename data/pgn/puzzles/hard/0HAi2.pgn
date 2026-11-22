@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HAi2"]
+[Difficulty "hard"]
+[Rating "2235"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/1rwEavTh#105"]
+[Solution "g4g5 g6h5 d3d4 h5h4"]
+[SolutionSAN "g5 Kh5 Kd4 Kh4"]
+[FEN "8/5p2/6k1/5p2/1p3PP1/1P1K4/8/8 w - - 0 53"]
+[SetUp "1"]
+
+53. g5 Kh5 54. Kd4 Kh4 *

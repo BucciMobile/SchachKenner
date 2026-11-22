@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Uwk"]
+[Difficulty "easy"]
+[Rating "800"]
+[Themes "advantage discoveredAttack kingsideAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/gFuXZrDl/black#62"]
+[Solution "e8c8 d4d8 c8d8 b2e5"]
+[SolutionSAN "Rec8 Rd8+ Rxd8 Qxe5"]
+[FEN "r3r1k1/1b3p2/6pp/4q3/2pRp3/Pp2P1P1/1Q3PBP/4R1K1 b - - 1 31"]
+[SetUp "1"]
+
+31... Rec8 32. Rd8+ Rxd8 33. Qxe5 *

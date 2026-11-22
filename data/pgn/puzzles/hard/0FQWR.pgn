@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FQWR"]
+[Difficulty "hard"]
+[Rating "1906"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/SyYRVHH5/black#102"]
+[Solution "e5e4 g3f4 e4e3 f4e3 f6e5 e3f3"]
+[SolutionSAN "e4 Kf4 e3 Kxe3 Ke5 Kf3"]
+[FEN "8/p7/1p1p1k2/1P1Pp3/P5P1/6K1/8/8 b - - 7 51"]
+[SetUp "1"]
+
+51... e4 52. Kf4 e3 53. Kxe3 Ke5 54. Kf3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LoWO"]
+[Difficulty "medium"]
+[Rating "1610"]
+[Themes "crushing endgame knightEndgame long quietMove"]
+[GameUrl "https://lichess.org/game/ZSGF1fvP#115"]
+[Solution "g5h3 a7a5 d7d6 a5a4 b3a4 b5a4"]
+[SolutionSAN "Nh3 a5 Kd6 a4 bxa4 bxa4"]
+[FEN "8/p2K4/6k1/1p4N1/7p/1P6/8/8 w - - 0 58"]
+[SetUp "1"]
+
+58. Nh3 a5 59. Kd6 a4 60. bxa4 bxa4 *

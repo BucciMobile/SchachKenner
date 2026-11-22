@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0135i"]
+[Difficulty "medium"]
+[Rating "1476"]
+[Themes "advancedPawn advantage endgame long master masterVsMaster promotion rookEndgame"]
+[GameUrl "https://lichess.org/game/bsAwZfBu#113"]
+[Solution "h3d3 c4d3 g7h7 d3d2 h7f7 d2d1q"]
+[SolutionSAN "Rxd3+ cxd3 Rxh7 d2 Rf7 d1=Q"]
+[FEN "8/6Rr/7P/3p4/2pk1p2/3b3R/6PK/8 w - - 6 57"]
+[SetUp "1"]
+
+57. Rxd3+ cxd3 58. Rxh7 d2 59. Rf7 d1=Q *

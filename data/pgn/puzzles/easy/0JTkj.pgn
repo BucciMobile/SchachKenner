@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JTkj"]
+[Difficulty "easy"]
+[Rating "1056"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/fjcFjIZ2/black#66"]
+[Solution "a2c2 d4d8 e7e8 d8e8 e2e8 c3c2"]
+[SolutionSAN "Rc2 Rd8+ Re8 Rxe8+ Qxe8 Qxc2"]
+[FEN "6k1/1p2rp1p/p5p1/8/3R4/1PQ5/r3q1PP/6RK b - - 1 33"]
+[SetUp "1"]
+
+33... Rc2 34. Rd8+ Re8 35. Rxe8+ Qxe8 36. Qxc2 *

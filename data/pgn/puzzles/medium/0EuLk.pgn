@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EuLk"]
+[Difficulty "medium"]
+[Rating "1310"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/eLoiK9zN/black#66"]
+[Solution "d4c6 g4d7 e8e7 d7c6 e7b7 c6b7"]
+[SolutionSAN "Nc6 Bd7 Rxe7 Bxc6 Rxb7 Bxb7"]
+[FEN "4r2k/1R2P2p/p5p1/4p1P1/3n1pB1/8/P4PP1/6K1 b - - 0 33"]
+[SetUp "1"]
+
+33... Nc6 34. Bd7 Rxe7 35. Bxc6 Rxb7 36. Bxb7 *

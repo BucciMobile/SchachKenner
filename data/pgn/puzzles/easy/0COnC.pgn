@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0COnC"]
+[Difficulty "easy"]
+[Rating "1185"]
+[Themes "discoveredCheck doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/d1XrP4tl#39"]
+[Solution "h1g1 f2h3 g1h1 b6g1"]
+[SolutionSAN "Kg1 Nh3+ Kh1 Qg1#"]
+[FEN "r1b2rk1/4pp1p/pq1p2p1/3P4/4PP2/2N5/P3QnPP/R1B1RB1K w - - 1 20"]
+[SetUp "1"]
+
+20. Kg1 Nh3+ 21. Kh1 Qg1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "024AW"]
+[Difficulty "hard"]
+[Rating "1899"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/GefXhB29/black#54"]
+[Solution "g8g5 f2f4 g5f5 b3c2"]
+[SolutionSAN "Rg5 f4 Rxf5 Bc2"]
+[FEN "r5rk/5p1p/p4p2/1p2nP2/2P5/1B6/P4P1P/B4R1K b - - 0 27"]
+[SetUp "1"]
+
+27... Rg5 28. f4 Rxf5 29. Bc2 *

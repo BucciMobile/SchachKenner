@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03gRv"]
+[Difficulty "medium"]
+[Rating "1299"]
+[Themes "bishopEndgame endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/PonnXnHl#75"]
+[Solution "b2c1 h3f1"]
+[SolutionSAN "Bc1 Bf1#"]
+[FEN "8/4kp2/1b4p1/p1pBP2p/1pK1PP1P/1P4Pb/PB6/8 w - - 6 38"]
+[SetUp "1"]
+
+38. Bc1 Bf1# *

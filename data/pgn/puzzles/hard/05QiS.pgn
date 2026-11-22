@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05QiS"]
+[Difficulty "hard"]
+[Rating "2349"]
+[Themes "crushing endgame quietMove short"]
+[GameUrl "https://lichess.org/game/Mc3aenku#55"]
+[Solution "a7b7 e8e1 c7d8 g8h7"]
+[SolutionSAN "Rb7 Re1 Qd8+ Kh7"]
+[FEN "4r1k1/R1Q2pp1/8/7p/1p6/1P5P/1PP2qPK/8 w - - 4 28"]
+[SetUp "1"]
+
+28. Rb7 Re1 29. Qd8+ Kh7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Fpi"]
+[Difficulty "medium"]
+[Rating "1513"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/3xNovBkp#51"]
+[Solution "f3e5 f5e4 e5d7 e4d3"]
+[SolutionSAN "Nxe5 fxe4 Nxd7 exd3"]
+[FEN "r4rk1/p2q2pp/1p1b4/2pPpp2/4R3/1P1Q1N1P/P1P2PP1/3R2K1 w - - 0 26"]
+[SetUp "1"]
+
+26. Nxe5 fxe4 27. Nxd7 exd3 *

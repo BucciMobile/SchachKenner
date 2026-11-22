@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DyNV"]
+[Difficulty "medium"]
+[Rating "1439"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/pCEUv5gg#95"]
+[Solution "g8c8 c7c8 d5d6 c8d8 e6e7 d8e8"]
+[SolutionSAN "Rxc8+ Kxc8 Kd6 Kd8 e7+ Ke8"]
+[FEN "2r3R1/2k5/p3Pp1p/1p1K4/8/8/7P/8 w - - 5 48"]
+[SetUp "1"]
+
+48. Rxc8+ Kxc8 49. Kd6 Kd8 50. e7+ Ke8 *

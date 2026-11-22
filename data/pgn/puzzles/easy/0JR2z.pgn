@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JR2z"]
+[Difficulty "easy"]
+[Rating "819"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/hH5A1w5Q/black#56"]
+[Solution "c8b8 d5d8 e8d8 d1d8"]
+[SolutionSAN "Kb8 Rd8+ Rxd8 Rxd8#"]
+[FEN "2k1r3/prp3pp/1b6/3R2p1/8/7Q/PP2q1PP/3R3K b - - 6 28"]
+[SetUp "1"]
+
+28... Kb8 29. Rd8+ Rxd8 30. Rxd8# *

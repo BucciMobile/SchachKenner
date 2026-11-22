@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ejzm"]
+[Difficulty "easy"]
+[Rating "1135"]
+[Themes "crushing endgame exposedKing fork long"]
+[GameUrl "https://lichess.org/game/KlLsSkna#113"]
+[Solution "b7b5 g8g1 c1c2 c4a3 c2b2 a3b5"]
+[SolutionSAN "Rxb5 Rg1+ Kc2 Na3+ Kb2 Nxb5"]
+[FEN "k5r1/1R5R/4p3/1p1pP3/pPnP1p2/5P2/8/2K5 w - - 10 57"]
+[SetUp "1"]
+
+57. Rxb5 Rg1+ 58. Kc2 Na3+ 59. Kb2 Nxb5 *

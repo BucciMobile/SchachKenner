@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01MOR"]
+[Difficulty "medium"]
+[Rating "1256"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/z28CI1fv#63"]
+[Solution "a4c5 f4h4 e6h3 h4h3"]
+[SolutionSAN "Nc5 Rh4+ Bh3 Rxh3#"]
+[FEN "1k6/1p2R3/2p1B1r1/p6p/N4r2/8/PPP5/3R3K w - - 2 32"]
+[SetUp "1"]
+
+32. Nc5 Rh4+ 33. Bh3 Rxh3# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HDc3"]
+[Difficulty "hard"]
+[Rating "1805"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/TnO7eWl9#35"]
+[Solution "f3d2 b3c1 f1c1 c8c1"]
+[SolutionSAN "Nd2 Nc1 Rxc1 Rxc1+"]
+[FEN "2r3k1/1p3ppp/pq2pn2/3p4/3P4/Pn1BPN2/1P2QPPP/5RK1 w - - 0 18"]
+[SetUp "1"]
+
+18. Nd2 Nc1 19. Rxc1 Rxc1+ *

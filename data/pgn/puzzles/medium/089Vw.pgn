@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "089Vw"]
+[Difficulty "medium"]
+[Rating "1563"]
+[Themes "advancedPawn crushing defensiveMove endgame long promotion"]
+[GameUrl "https://lichess.org/game/OuctyO5F#115"]
+[Solution "f5f6 a2a1q h4h1 c2c1 h1c1 b1c1"]
+[SolutionSAN "f6 a1=Q Rh1+ Rc1 Rxc1+ Kxc1"]
+[FEN "8/6K1/8/5P2/7R/8/p1r5/1k6 w - - 5 58"]
+[SetUp "1"]
+
+58. f6 a1=Q 59. Rh1+ Rc1 60. Rxc1+ Kxc1 *

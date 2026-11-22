@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02tIz"]
+[Difficulty "easy"]
+[Rating "1090"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/sitL6Sfm#59"]
+[Solution "e2d1 e3e2"]
+[SolutionSAN "Kd1 Qe2#"]
+[FEN "4r1k1/p7/1p2r2p/3Q2p1/8/2P1q2P/P3K1P1/2R2R2 w - - 0 30"]
+[SetUp "1"]
+
+30. Kd1 Qe2# *

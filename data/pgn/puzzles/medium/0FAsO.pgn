@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FAsO"]
+[Difficulty "medium"]
+[Rating "1267"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/cbxVxQYm#63"]
+[Solution "f6f2 g8h8 b7h7 h8h7"]
+[SolutionSAN "Rf2 Rh8+ Qh7 Rxh7#"]
+[FEN "6r1/pQ6/3p1R2/6k1/4P1r1/2PP4/PP5K/8 w - - 2 32"]
+[SetUp "1"]
+
+32. Rf2 Rh8+ 33. Qh7 Rxh7# *

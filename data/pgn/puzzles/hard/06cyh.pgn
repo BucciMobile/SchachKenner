@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06cyh"]
+[Difficulty "hard"]
+[Rating "1707"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/O6q9Cm4W#61"]
+[Solution "e1e2 e4d4 d2e1 c4c1"]
+[SolutionSAN "Rxe2 Red4+ Ke1 Rc1#"]
+[FEN "6k1/5p1p/8/pR6/2r1rp2/7P/PP1KpP2/4R3 w - - 0 31"]
+[SetUp "1"]
+
+31. Rxe2 Red4+ 32. Ke1 Rc1# *

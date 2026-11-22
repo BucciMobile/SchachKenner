@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Wxq"]
+[Difficulty "easy"]
+[Rating "732"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/0o4glsxH#55"]
+[Solution "f3g3 f4e2 g1f2 e2g3"]
+[SolutionSAN "Rg3 Ne2+ Kf2 Nxg3"]
+[FEN "rr6/4k1p1/p4p1p/3npP2/1PN2n2/2P2R2/3B2PP/3R2K1 w - - 5 28"]
+[SetUp "1"]
+
+28. Rg3 Ne2+ 29. Kf2 Nxg3 *

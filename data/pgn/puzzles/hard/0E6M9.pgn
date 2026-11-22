@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E6M9"]
+[Difficulty "hard"]
+[Rating "1810"]
+[Themes "fork long mate mateIn3 middlegame pillsburysMate"]
+[GameUrl "https://lichess.org/game/lCKQmpdb#43"]
+[Solution "c2f5 d6g3 f2g1 e3e1 a1e1 e8e1"]
+[SolutionSAN "Bxf5 Bg3+ Kg1 Re1+ Rxe1 Rxe1#"]
+[FEN "4r2k/ppp3pp/2nb4/3Q1p2/3P4/2P1r3/PPB2KPR/R7 w - - 1 22"]
+[SetUp "1"]
+
+22. Bxf5 Bg3+ 23. Kg1 Re1+ 24. Rxe1 Rxe1# *

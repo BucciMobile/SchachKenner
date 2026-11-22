@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03B3o"]
+[Difficulty "easy"]
+[Rating "798"]
+[Themes "endgame mate mateIn2 queensideAttack sacrifice short"]
+[GameUrl "https://lichess.org/game/4mQrkso8/black#44"]
+[Solution "b2e5 d3d8 h8d8 d1d8"]
+[SolutionSAN "Be5 Qd8+ Rxd8 Rxd8#"]
+[FEN "2k4r/1p3qp1/p1p2pp1/B7/8/3Q3P/PbP2PP1/3R2K1 b - - 0 22"]
+[SetUp "1"]
+
+22... Be5 23. Qd8+ Rxd8 24. Rxd8# *

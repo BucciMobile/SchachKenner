@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0799W"]
+[Difficulty "medium"]
+[Rating "1207"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/mrgRi7eZ#45"]
+[Solution "c6c3 f4e2 g1h1 e2c3"]
+[SolutionSAN "Qc3 Ne2+ Kh1 Nxc3"]
+[FEN "1r3rk1/2p2pp1/2Q1p2p/pN2P3/Pq1P1n2/5N2/1P3PPP/3R1RK1 w - - 1 23"]
+[SetUp "1"]
+
+23. Qc3 Ne2+ 24. Kh1 Nxc3 *

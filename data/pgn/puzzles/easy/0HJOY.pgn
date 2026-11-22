@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HJOY"]
+[Difficulty "easy"]
+[Rating "913"]
+[Themes "advantage capturingDefender endgame short"]
+[GameUrl "https://lichess.org/game/etVtrMA0/black#70"]
+[Solution "f8d6 e5d6 c6d6 b1b4"]
+[SolutionSAN "Bxd6 exd6 Rxd6 Rxb4"]
+[FEN "r4bk1/P4p1p/2rNp3/3pPp2/1p6/7P/5PP1/RR3K2 b - - 0 35"]
+[SetUp "1"]
+
+35... Bxd6 36. exd6 Rxd6 37. Rxb4 *

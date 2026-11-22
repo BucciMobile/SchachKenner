@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00BZ6"]
+[Difficulty "hard"]
+[Rating "2429"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/whBlSZL2#47"]
+[Solution "f1c1 f8c5 e3c5 d7c5"]
+[SolutionSAN "Rfc1 Bxc5 Bxc5 Nxc5"]
+[FEN "1r1r1bk1/3n1p1p/1qp3p1/2N1p3/PpQ1P3/4BP2/4N1PP/1R3RK1 w - - 0 24"]
+[SetUp "1"]
+
+24. Rfc1 Bxc5 25. Bxc5 Nxc5 *

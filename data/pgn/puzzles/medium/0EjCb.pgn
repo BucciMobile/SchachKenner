@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EjCb"]
+[Difficulty "medium"]
+[Rating "1443"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/AWoT8NvE#75"]
+[Solution "e1g1 d6f6 f3f6 g7f6"]
+[SolutionSAN "Rg1 Rf6 Qxf6 gxf6"]
+[FEN "5rk1/p1R2pp1/3r4/1p4p1/8/1P3Q1P/q3NK2/4R3 w - - 0 38"]
+[SetUp "1"]
+
+38. Rg1 Rf6 39. Qxf6 gxf6 *

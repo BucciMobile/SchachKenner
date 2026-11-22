@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A98o"]
+[Difficulty "easy"]
+[Rating "907"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/i4TYPGfD/black#60"]
+[Solution "f7g6 e2f4 g6f6 f4g2"]
+[SolutionSAN "Kg6 Nf4+ Kf6 Nxg2"]
+[FEN "8/pppR1kpp/8/5p2/4p3/2P1P3/PP2N1r1/4KN1r b - - 4 30"]
+[SetUp "1"]
+
+30... Kg6 31. Nf4+ Kf6 32. Nxg2 *

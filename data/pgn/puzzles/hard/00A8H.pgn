@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00A8H"]
+[Difficulty "hard"]
+[Rating "2624"]
+[Themes "clearance crushing endgame long"]
+[GameUrl "https://lichess.org/game/rMR9LIY8/black#76"]
+[Solution "c7e5 d1d8 b8a7 b1e1 e2e1 c3e1"]
+[SolutionSAN "Be5 Rd8+ Ka7 Re1 Qxe1 Bxe1"]
+[FEN "1k6/1pb2p2/p1p1p3/2P5/PP6/1KB5/4q3/1R1R4 b - - 1 38"]
+[SetUp "1"]
+
+38... Be5 39. Rd8+ Ka7 40. Re1 Qxe1 41. Bxe1 *

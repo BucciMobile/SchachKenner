@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02I9S"]
+[Difficulty "hard"]
+[Rating "2511"]
+[Themes "crushing deflection kingsideAttack middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/doU0zuOW/black#50"]
+[Solution "h5d5 g3g7 g8h8 d4f5 f6c3 b2c3 f7f6 g7g6 d5f5 g6h6 f5h7 h6f6 f8f6 c3f6"]
+[SolutionSAN "Qd5 Rxg7+ Kh8 Nf5 Bxc3+ Bxc3 f6 R7g6 Qxf5 Rxh6+ Qh7 Rxf6 Rxf6 Bxf6+"]
+[FEN "1r3rk1/3b1pp1/p1p2b1p/P1P4q/1P1Np3/2Q1P1R1/1B3P1P/4K1R1 b - - 5 25"]
+[SetUp "1"]
+
+25... Qd5 26. Rxg7+ Kh8 27. Nf5 Bxc3+ 28. Bxc3 f6 29. R7g6 Qxf5 30. Rxh6+ Qh7 31. Rxf6 Rxf6 32. Bxf6+ *

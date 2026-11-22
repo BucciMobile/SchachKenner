@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "044aV"]
+[Difficulty "hard"]
+[Rating "2051"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/5AH7DBzC/black#108"]
+[Solution "d5d4 b4d4 e5d4 g3f4 d4d3 f4g5 d3e3 g5g6"]
+[SolutionSAN "Rd4 Rxd4 Kxd4 Kf4 Kd3 Kg5 Ke3 Kxg6"]
+[FEN "8/8/6p1/3rk2p/1R5P/5PK1/8/8 b - - 10 54"]
+[SetUp "1"]
+
+54... Rd4 55. Rxd4 Kxd4 56. Kf4 Kd3 57. Kg5 Ke3 58. Kxg6 *

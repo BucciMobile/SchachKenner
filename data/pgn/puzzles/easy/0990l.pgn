@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0990l"]
+[Difficulty "easy"]
+[Rating "830"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/q97y1J5G/black#84"]
+[Solution "a2h2 c7c8 d6d8 c8d8"]
+[SolutionSAN "Rh2 Rc8+ Rd8 Rxd8#"]
+[FEN "6k1/2R5/p2r1pKp/1pp2P2/6P1/1P5P/r7/8 b - - 1 42"]
+[SetUp "1"]
+
+42... Rh2 43. Rc8+ Rd8 44. Rxd8# *

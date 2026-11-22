@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dq1X"]
+[Difficulty "hard"]
+[Rating "2064"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/XTLSw49a#129"]
+[Solution "f2d4 c7d6 a5b4 d6d5 b4c3 d5e4"]
+[SolutionSAN "Bd4 Kd6 Kb4 Kxd5 Kc3 Ke4"]
+[FEN "2n5/2k5/P6p/K2P3P/5pp1/8/5B2/8 w - - 2 65"]
+[SetUp "1"]
+
+65. Bd4 Kd6 66. Kb4 Kxd5 67. Kc3 Ke4 *

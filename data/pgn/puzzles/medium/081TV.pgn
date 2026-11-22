@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "081TV"]
+[Difficulty "medium"]
+[Rating "1205"]
+[Themes "cornerMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/cWZbn5fd#81"]
+[Solution "h3h4 g5g2 h2h3 e2f4"]
+[SolutionSAN "h4 Rg2+ Kh3 Nf4#"]
+[FEN "8/R7/4pp1k/6r1/2pP4/2P2b1P/PPB1nP1K/4R3 w - - 1 41"]
+[SetUp "1"]
+
+41. h4 Rg2+ 42. Kh3 Nf4# *

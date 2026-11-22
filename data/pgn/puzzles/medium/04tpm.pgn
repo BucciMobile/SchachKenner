@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04tpm"]
+[Difficulty "medium"]
+[Rating "1505"]
+[Themes "endgame mate mateIn4 veryLong"]
+[GameUrl "https://lichess.org/game/q33Rch10#67"]
+[Solution "c7b7 h5d1 f2f1 e7c5 f4e3 c5e3 g1h1 d1f1"]
+[SolutionSAN "Qxb7 Qd1+ Rf1 Bxc5+ Be3 Bxe3+ Kh1 Qxf1#"]
+[FEN "6r1/1bQ1b2p/4kp2/2P4q/5B2/8/P4RPP/6K1 w - - 0 34"]
+[SetUp "1"]
+
+34. Qxb7 Qd1+ 35. Rf1 Bxc5+ 36. Be3 Bxe3+ 37. Kh1 Qxf1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Qgv"]
+[Difficulty "easy"]
+[Rating "1083"]
+[Themes "long mate mateIn3 middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/HWZK9l2s/black#42"]
+[Solution "e8c8 f2c5 c8d7 c5c7 d7e8 c7e7"]
+[SolutionSAN "O-O-O Qc5+ Kd7 Qc7+ Ke8 Qe7#"]
+[FEN "r3k2r/pp4p1/3Bpnp1/8/8/1qp2P1N/1b3QPP/1K5R b kq - 1 21"]
+[SetUp "1"]
+
+21... O-O-O 22. Qc5+ Kd7 23. Qc7+ Ke8 24. Qe7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BlDx"]
+[Difficulty "hard"]
+[Rating "1837"]
+[Themes "crushing endgame short skewer"]
+[GameUrl "https://lichess.org/game/NKzZVcED/black#78"]
+[Solution "c3d4 e8h8 g7h6 h8d4"]
+[SolutionSAN "Qxd4 Qh8+ Kh6 Qxd4"]
+[FEN "R3Q3/5rkp/6p1/3p4/P1nP4/2q4P/5PPK/8 b - - 4 39"]
+[SetUp "1"]
+
+39... Qxd4 40. Qh8+ Kh6 41. Qxd4 *

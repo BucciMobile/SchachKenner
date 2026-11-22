@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Vxh"]
+[Difficulty "hard"]
+[Rating "2220"]
+[Themes "advantage endgame long quietMove"]
+[GameUrl "https://lichess.org/game/qyxZhEcx#75"]
+[Solution "g1h2 d4d1 f6f1 d1f1 b7d5 f1f7"]
+[SolutionSAN "Kh2 Rd1 Rf1 Rxf1 Qxd5+ Rf7"]
+[FEN "4r1k1/1Q2P1p1/p4R2/3p3p/1P1r4/P5RP/6P1/1q4K1 w - - 1 38"]
+[SetUp "1"]
+
+38. Kh2 Rd1 39. Rf1 Rxf1 40. Qxd5+ Rf7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07MO6"]
+[Difficulty "easy"]
+[Rating "992"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/gdyBvvvr/black#80"]
+[Solution "b6e6 a6c5 d3d5 c5e6"]
+[SolutionSAN "Re6 Nc5 Rd5 Nxe6+"]
+[FEN "8/p4pk1/Nr3p2/1P6/P7/1P1r2P1/1R4KP/8 b - - 2 40"]
+[SetUp "1"]
+
+40... Re6 41. Nc5 Rd5 42. Nxe6+ *

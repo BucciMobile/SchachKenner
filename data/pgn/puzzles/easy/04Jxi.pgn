@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Jxi"]
+[Difficulty "easy"]
+[Rating "989"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/SCUvZm3x#47"]
+[Solution "c2c4 f5h3 g2g1 h3h1"]
+[SolutionSAN "c4 Qh3+ Kg1 Qh1#"]
+[FEN "6Q1/2pk1p1r/5p2/3Pbq2/8/5NP1/PPP1PPK1/R4R2 w - - 1 24"]
+[SetUp "1"]
+
+24. c4 Qh3+ 25. Kg1 Qh1# *

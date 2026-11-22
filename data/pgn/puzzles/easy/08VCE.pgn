@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08VCE"]
+[Difficulty "easy"]
+[Rating "750"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/4ExqazQr#49"]
+[Solution "h8a8 a5e1"]
+[SolutionSAN "Rxa8 Qe1#"]
+[FEN "r6R/ppknb3/2p1p1Q1/q5B1/3P1P2/8/PPP5/2K5 w - - 3 25"]
+[SetUp "1"]
+
+25. Rxa8 Qe1# *

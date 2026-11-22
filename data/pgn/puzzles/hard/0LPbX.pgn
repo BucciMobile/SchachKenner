@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LPbX"]
+[Difficulty "hard"]
+[Rating "1922"]
+[Themes "advantage master masterVsMaster middlegame veryLong"]
+[GameUrl "https://lichess.org/game/m4P68vXT/black#38"]
+[Solution "f4d5 b2f6 d5f6 d2d6 b8d6 d1d6 b7f3 g2f3"]
+[SolutionSAN "N4xd5 Bxf6 Nxf6 Qxd6 Bxd6 Rxd6 Bxf3 gxf3"]
+[FEN "1br2rk1/pb3ppp/1p1qpn2/3P4/2B2n2/PP3NN1/1B1Q1PPP/3RR1K1 b - - 0 19"]
+[SetUp "1"]
+
+19... N4xd5 20. Bxf6 Nxf6 21. Qxd6 Bxd6 22. Rxd6 Bxf3 23. gxf3 *

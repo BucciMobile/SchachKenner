@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01yYo"]
+[Difficulty "medium"]
+[Rating "1622"]
+[Themes "crushing endgame rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/LpR4GmYY/black#84"]
+[Solution "b8b3 f3b3 a4b3 e1d2 b3b2 d2c2 b2b1r c2b1"]
+[SolutionSAN "Rb3 Rxb3 axb3 Kd2 b2 Kc2 b1=R Kxb1"]
+[FEN "1r6/2p1kp2/3p4/3Pp3/p3P2P/P4R2/6P1/4K3 b - - 2 42"]
+[SetUp "1"]
+
+42... Rb3 43. Rxb3 axb3 44. Kd2 b2 45. Kc2 b1=R 46. Kxb1 *

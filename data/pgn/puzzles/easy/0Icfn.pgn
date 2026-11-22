@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Icfn"]
+[Difficulty "easy"]
+[Rating "1058"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/VMKGK4EK#43"]
+[Solution "b5a7 c6g2"]
+[SolutionSAN "Na7 Qxg2#"]
+[FEN "b1r3k1/4ppbp/2qp2p1/1N2n3/8/1QP1B2P/2P1BPP1/1R4K1 w - - 7 22"]
+[SetUp "1"]
+
+22. Na7 Qxg2# *

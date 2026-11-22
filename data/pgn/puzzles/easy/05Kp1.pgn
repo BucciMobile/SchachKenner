@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Kp1"]
+[Difficulty "easy"]
+[Rating "977"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/UTNHm6zf#65"]
+[Solution "d1c3 d6c5 f2f1 c5c3"]
+[SolutionSAN "Nc3 Qc5+ Kf1 Qxc3"]
+[FEN "5rk1/2p5/p1Bq3p/3P4/5p2/7P/5KP1/1R1NR3 w - - 0 33"]
+[SetUp "1"]
+
+33. Nc3 Qc5+ 34. Kf1 Qxc3 *

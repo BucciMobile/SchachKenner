@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ya7"]
+[Difficulty "medium"]
+[Rating "1356"]
+[Themes "crushing exposedKing long middlegame quietMove skewer"]
+[GameUrl "https://lichess.org/game/ayuhC3rN#65"]
+[Solution "e1e2 a8h8 e2g2 h6h1 g1f2 h1a1"]
+[SolutionSAN "Re2 Rah8 Rg2 Rh1+ Kf2 Rxa1"]
+[FEN "r7/ppq3k1/3b3r/4p1p1/3pQpP1/PB1P1P2/1PP5/R3R1K1 w - - 8 33"]
+[SetUp "1"]
+
+33. Re2 Rah8 34. Rg2 Rh1+ 35. Kf2 Rxa1 *

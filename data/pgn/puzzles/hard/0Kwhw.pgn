@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kwhw"]
+[Difficulty "hard"]
+[Rating "1847"]
+[Themes "crushing long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/Ifl39U8h#45"]
+[Solution "e2g4 d8h8 g4h3 h8h3 g2h3 h2c2"]
+[SolutionSAN "Bxg4 Rdh8 Bh3 R8xh3 gxh3 Rxc2"]
+[FEN "2kr4/pppq1pp1/3p4/3PPP2/2P3p1/6b1/PPQ1B1Pr/R1B2RK1 w - - 3 23"]
+[SetUp "1"]
+
+23. Bxg4 Rdh8 24. Bh3 R8xh3 25. gxh3 Rxc2 *

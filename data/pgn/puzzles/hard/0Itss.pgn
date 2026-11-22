@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Itss"]
+[Difficulty "hard"]
+[Rating "2019"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/vr2k9nG5/black#112"]
+[Solution "g5f4 a2g2 d6d5 g2g4"]
+[SolutionSAN "Kf4 Rg2 d5 Rg4#"]
+[FEN "8/2r2pp1/1r1p3p/RP2pPkP/2PbP3/3K4/R7/3B4 b - - 0 56"]
+[SetUp "1"]
+
+56... Kf4 57. Rg2 d5 58. Rg4# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07nQt"]
+[Difficulty "easy"]
+[Rating "1136"]
+[Themes "endgame mate mateIn2 pin short"]
+[GameUrl "https://lichess.org/game/4xwJq9Ss#93"]
+[Solution "e3d5 e5f3 h2h1 b2b1"]
+[SolutionSAN "Nd5 Nf3+ Kh1 Rb1#"]
+[FEN "8/5k2/1R3p2/1P2n3/5p1p/4N2P/1r4PK/8 w - - 0 47"]
+[SetUp "1"]
+
+47. Nd5 Nf3+ 48. Kh1 Rb1# *

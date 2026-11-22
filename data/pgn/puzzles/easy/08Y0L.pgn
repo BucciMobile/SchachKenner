@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Y0L"]
+[Difficulty "easy"]
+[Rating "855"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/GcWZ5hy1/black#44"]
+[Solution "g8h8 h6g7"]
+[SolutionSAN "Kh8 Qg7#"]
+[FEN "3rr1k1/2p2p1n/3q3Q/p1p1pP2/1p2P2P/1P1P4/P1P2P2/2KR2R1 b - - 2 22"]
+[SetUp "1"]
+
+22... Kh8 23. Qg7# *

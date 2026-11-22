@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BIpm"]
+[Difficulty "hard"]
+[Rating "2567"]
+[Themes "advantage endgame long quietMove"]
+[GameUrl "https://lichess.org/game/ypo07IbX/black#78"]
+[Solution "h6h5 c4c5 h5h4 c5c6 h4h3 e6g5"]
+[SolutionSAN "h5 c5 h4 c6 h3 Ng5+"]
+[FEN "5b2/4pk2/4N1pp/p2P4/1pP3P1/1P6/8/1K6 b - - 0 39"]
+[SetUp "1"]
+
+39... h5 40. c5 h4 41. c6 h3 42. Ng5+ *

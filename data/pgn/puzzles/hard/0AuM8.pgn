@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AuM8"]
+[Difficulty "hard"]
+[Rating "2777"]
+[Themes "advancedPawn crushing endgame master promotion sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/GJdwVfxI#85"]
+[Solution "f5f6 a2d2 d4c5 d2d5 h5g6 d5c5 b4c5 a3a2 d6e4 a2a1q"]
+[SolutionSAN "f6 Rd2 Bc5 Rd5+ Kg6 Rxc5 bxc5 a2 Ne4 a1=Q"]
+[FEN "5k2/8/2pN4/1p3P1K/1P1B4/p1P2P2/r7/8 w - - 2 43"]
+[SetUp "1"]
+
+43. f6 Rd2 44. Bc5 Rd5+ 45. Kg6 Rxc5 46. bxc5 a2 47. Ne4 a1=Q *

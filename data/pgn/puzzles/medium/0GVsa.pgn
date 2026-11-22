@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GVsa"]
+[Difficulty "medium"]
+[Rating "1346"]
+[Themes "crushing deflection endgame exposedKing long"]
+[GameUrl "https://lichess.org/game/UCVy5CQj/black#94"]
+[Solution "d2c3 h8f6 e7d7 f6f7 d7d8 f7e6"]
+[SolutionSAN "Bxc3 Qf6+ Kd7 Qf7+ Kd8 Qxe6"]
+[FEN "7Q/2r1k3/4n3/3pP3/3P4/2P2KP1/3b4/8 b - - 6 47"]
+[SetUp "1"]
+
+47... Bxc3 48. Qf6+ Kd7 49. Qf7+ Kd8 50. Qxe6 *

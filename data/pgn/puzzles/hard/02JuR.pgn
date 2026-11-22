@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02JuR"]
+[Difficulty "hard"]
+[Rating "2091"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/7NE0V9Eq#69"]
+[Solution "c2e4 f3d1 g1h2 c4d2"]
+[SolutionSAN "Qxe4 Qd1+ Kh2 Nd2"]
+[FEN "R7/4Rppk/6rp/1p6/2nPp3/4Pq1P/2Q2PP1/6K1 w - - 10 35"]
+[SetUp "1"]
+
+35. Qxe4 Qd1+ 36. Kh2 Nd2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F6J3"]
+[Difficulty "hard"]
+[Rating "1766"]
+[Themes "advancedPawn crushing endgame knightEndgame promotion quietMove skewer veryLong"]
+[GameUrl "https://lichess.org/game/Yxv5wl6D/black#104"]
+[Solution "f4e6 c5e6 f6e6 b4b5 f5f4 b5b6 f4f3 b6b7 f3f2 b7b8q f2f1q b8e8 e6f6 e8f8 f6e5 f8f1"]
+[SolutionSAN "Ne6 Nxe6 Kxe6 b5 f4 b6 f3 b7 f2 b8=Q f1=Q Qe8+ Kf6 Qf8+ Ke5 Qxf1"]
+[FEN "8/8/2K2k2/2N2p2/1P3n2/8/8/8 b - - 1 52"]
+[SetUp "1"]
+
+52... Ne6 53. Nxe6 Kxe6 54. b5 f4 55. b6 f3 56. b7 f2 57. b8=Q f1=Q 58. Qe8+ Kf6 59. Qf8+ Ke5 60. Qxf1 *

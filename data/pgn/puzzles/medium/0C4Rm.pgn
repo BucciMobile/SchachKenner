@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C4Rm"]
+[Difficulty "medium"]
+[Rating "1222"]
+[Themes "crushing discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/Qrvjm2rv#91"]
+[Solution "b8d8 d7c5 d3e2 d6d8"]
+[SolutionSAN "Rd8 Nc5+ Ke2 Rxd8"]
+[FEN "1R6/3n1pk1/2pr3r/1p1p3p/3N1P2/1PPKP1P1/R7/8 w - - 3 46"]
+[SetUp "1"]
+
+46. Rd8 Nc5+ 47. Ke2 Rxd8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AYQp"]
+[Difficulty "medium"]
+[Rating "1650"]
+[Themes "advantage clearance deflection long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/ydEb4Oi7#49"]
+[Solution "g1h2 g3h3 g2h3 g8g3 h2h1 g3h3"]
+[SolutionSAN "Kh2 Rxh3+ gxh3 Qg3+ Kh1 Qxh3+"]
+[FEN "r5q1/3kbp2/1np1p3/3pPp2/p2P1P1p/1PBB2rP/P3Q1P1/RR4K1 w - - 8 25"]
+[SetUp "1"]
+
+25. Kh2 Rxh3+ 26. gxh3 Qg3+ 27. Kh1 Qxh3+ *

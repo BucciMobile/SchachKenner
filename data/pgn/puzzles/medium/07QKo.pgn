@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07QKo"]
+[Difficulty "medium"]
+[Rating "1237"]
+[Themes "crushing kingsideAttack master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/KbBj9kMl#39"]
+[Solution "c5b7 h4f3 g2f3 d6h2"]
+[SolutionSAN "Nxb7 Nxf3+ gxf3 Qxh2+"]
+[FEN "r3r1k1/1p3p1p/2pq2p1/2Np4/3P2nn/P3PN2/1PQ2PPP/1RR3K1 w - - 3 20"]
+[SetUp "1"]
+
+20. Nxb7 Nxf3+ 21. gxf3 Qxh2+ *

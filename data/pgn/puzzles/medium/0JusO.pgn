@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JusO"]
+[Difficulty "medium"]
+[Rating "1623"]
+[Themes "advancedPawn crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/Rp4NzUZ2#115"]
+[Solution "e1e5 f3f2 e5e2 g2g1"]
+[SolutionSAN "Rxe5 f2 Re2 Kg1"]
+[FEN "8/8/7p/4p1p1/8/5p2/3K2kP/4R3 w - - 2 58"]
+[SetUp "1"]
+
+58. Rxe5 f2 59. Re2 Kg1 *

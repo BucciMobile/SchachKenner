@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IcWT"]
+[Difficulty "easy"]
+[Rating "1010"]
+[Themes "capturingDefender crushing opening short"]
+[GameUrl "https://lichess.org/game/1dhAlC6X#23"]
+[Solution "f1b5 e5c3 d2c3 b6b5"]
+[SolutionSAN "Bb5 Bxc3 Qxc3 Qxb5"]
+[FEN "r1b1r1k1/1p1n1ppp/1q3n2/p3b1B1/4p3/2N1P3/PPPQ1PPP/2KR1BNR w - - 0 12"]
+[SetUp "1"]
+
+12. Bb5 Bxc3 13. Qxc3 Qxb5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G9KF"]
+[Difficulty "hard"]
+[Rating "1768"]
+[Themes "advancedPawn crushing enPassant endgame master short trappedPiece"]
+[GameUrl "https://lichess.org/game/dA5IHBvs/black#78"]
+[Solution "b7b5 c5b6 a7c7 b6c7"]
+[SolutionSAN "b5 cxb6 Raxc7 bxc7"]
+[FEN "2r5/rpP2pkp/p2K2p1/2P1P3/8/4P3/6BP/8 b - - 2 39"]
+[SetUp "1"]
+
+39... b5 40. cxb6 Raxc7 41. bxc7 *

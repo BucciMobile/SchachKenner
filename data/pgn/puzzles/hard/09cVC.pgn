@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09cVC"]
+[Difficulty "hard"]
+[Rating "1936"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/JAROawcN#43"]
+[Solution "c4a6 f4e2 g1h1 f6a6"]
+[SolutionSAN "Ba6 Ne2+ Kh1 Qxa6"]
+[FEN "1k1r1r2/pp3ppp/5q2/P1Q5/2BpPn2/3P4/2P3PP/1R3RK1 w - - 0 22"]
+[SetUp "1"]
+
+22. Ba6 Ne2+ 23. Kh1 Qxa6 *

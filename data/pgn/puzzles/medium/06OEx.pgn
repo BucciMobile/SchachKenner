@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06OEx"]
+[Difficulty "medium"]
+[Rating "1612"]
+[Themes "fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/vAKbaXFc#59"]
+[Solution "e8d8 c7c2 b1a1 c2a2"]
+[SolutionSAN "Rxd8 Qxc2+ Ka1 Qa2#"]
+[FEN "3rR3/2q3pp/1k1b1p2/pp6/1n1p4/1P1N2PP/2PP1PQ1/1K2R2B w - - 1 30"]
+[SetUp "1"]
+
+30. Rxd8 Qxc2+ 31. Ka1 Qa2# *

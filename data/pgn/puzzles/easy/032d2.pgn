@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "032d2"]
+[Difficulty "easy"]
+[Rating "930"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/wyPNGr70/black#32"]
+[Solution "d8d7 d3h7 g8h7 d1d7"]
+[SolutionSAN "Qxd7 Bxh7+ Kxh7 Qxd7"]
+[FEN "r2q1rk1/pp1N1ppp/4pb2/8/5P2/1P1B4/P4PPP/R2Q1RK1 b - - 0 16"]
+[SetUp "1"]
+
+16... Qxd7 17. Bxh7+ Kxh7 18. Qxd7 *

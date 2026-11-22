@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05UeM"]
+[Difficulty "hard"]
+[Rating "2591"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/SWisgAp5#103"]
+[Solution "d8d1 a2c2 d1a1 a3a2 e4c3 c2c3"]
+[SolutionSAN "Rd1 Rc2 Ra1 a2 Nc3 Rxc3"]
+[FEN "3R4/1p6/8/2P5/4Np2/p3kP2/r7/6K1 w - - 4 52"]
+[SetUp "1"]
+
+52. Rd1 Rc2 53. Ra1 a2 54. Nc3 Rxc3 *

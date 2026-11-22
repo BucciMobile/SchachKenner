@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Io3Y"]
+[Difficulty "hard"]
+[Rating "2108"]
+[Themes "advancedPawn crushing exposedKing fork long middlegame promotion"]
+[GameUrl "https://lichess.org/game/wVLNZxVW#65"]
+[Solution "d1b1 c3c2 b1b2 c2c1q e1f2 c1b2"]
+[SolutionSAN "Rb1 c2 Rxb2 c1=Q+ Kf2 Qxb2+"]
+[FEN "6rr/1bk1p2p/3p4/3PPQ2/5N2/2p2P2/1q4PR/3RK3 w - - 0 33"]
+[SetUp "1"]
+
+33. Rb1 c2 34. Rxb2 c1=Q+ 35. Kf2 Qxb2+ *

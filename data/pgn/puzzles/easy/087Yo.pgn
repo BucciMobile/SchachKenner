@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "087Yo"]
+[Difficulty "easy"]
+[Rating "1139"]
+[Themes "crushing endgame short skewer"]
+[GameUrl "https://lichess.org/game/MfNiDBr6#97"]
+[Solution "h3g4 b5e2 g4h3 e2h5"]
+[SolutionSAN "Kg4 Be2+ Kh3 Bxh5"]
+[FEN "8/8/p3kp2/PbP2n1R/1P3P1p/7K/8/8 w - - 2 49"]
+[SetUp "1"]
+
+49. Kg4 Be2+ 50. Kh3 Bxh5 *

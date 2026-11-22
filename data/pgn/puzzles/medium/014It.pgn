@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "014It"]
+[Difficulty "medium"]
+[Rating "1435"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/xX1gLSnb#49"]
+[Solution "e5e8 d2f2 g1h1 f2f1 e1f1 f6f1"]
+[SolutionSAN "Re8 Qxf2+ Kh1 Qf1+ Rxf1 Rxf1#"]
+[FEN "1k1r4/p1p3pp/Pp3r2/3pR3/Q2N4/8/1PPq1PPP/4R1K1 w - - 3 25"]
+[SetUp "1"]
+
+25. Re8 Qxf2+ 26. Kh1 Qf1+ 27. Rxf1 Rxf1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00y0m"]
+[Difficulty "medium"]
+[Rating "1648"]
+[Themes "advancedPawn advantage endgame veryLong"]
+[GameUrl "https://lichess.org/game/sNHDn4FD/black#64"]
+[Solution "a6a5 a3a5 a8a5 b6b7 d5b7 b1b7 a5a1 g1h2"]
+[SolutionSAN "Rxa5 Rxa5 Rxa5 b7 Qxb7 Rxb7 Ra1+ Kh2"]
+[FEN "r5k1/2B2pp1/rP2p1p1/P2q4/3Pp3/R6P/5PP1/1R4K1 b - - 6 32"]
+[SetUp "1"]
+
+32... Rxa5 33. Rxa5 Rxa5 34. b7 Qxb7 35. Rxb7 Ra1+ 36. Kh2 *

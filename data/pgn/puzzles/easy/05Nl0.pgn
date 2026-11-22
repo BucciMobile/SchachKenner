@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Nl0"]
+[Difficulty "easy"]
+[Rating "818"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/xr9J3N5N/black#66"]
+[Solution "d3d2 e1e8"]
+[SolutionSAN "Qd2 Re8#"]
+[FEN "7k/5prp/p4Q2/8/8/3q4/PP4P1/4R1K1 b - - 2 33"]
+[SetUp "1"]
+
+33... Qd2 34. Re8# *

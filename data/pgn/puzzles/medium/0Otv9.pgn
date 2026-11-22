@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Otv9"]
+[Difficulty "medium"]
+[Rating "1472"]
+[Themes "crushing deflection endgame long"]
+[GameUrl "https://lichess.org/game/tLgZyRmO/black#74"]
+[Solution "e6d4 f3f7 a7a8 f7e8 d6b8 e8g6"]
+[SolutionSAN "Nd4 Qf7+ Ka8 Qe8+ Qb8 Qxg6"]
+[FEN "8/k7/pp1qn1rp/8/8/5Q2/2P3PP/5R1K b - - 5 37"]
+[SetUp "1"]
+
+37... Nd4 38. Qf7+ Ka8 39. Qe8+ Qb8 40. Qxg6 *

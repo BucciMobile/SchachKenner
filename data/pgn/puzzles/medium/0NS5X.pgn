@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NS5X"]
+[Difficulty "medium"]
+[Rating "1227"]
+[Themes "endgame master mate mateIn1 oneMove operaMate"]
+[GameUrl "https://lichess.org/game/C3LhRHJ8#85"]
+[Solution "d6f6 c2e2"]
+[SolutionSAN "Rf6 Re2#"]
+[FEN "8/8/3R4/1bk2p2/4pB2/4K1P1/2r4P/8 w - - 5 43"]
+[SetUp "1"]
+
+43. Rf6 Re2# *

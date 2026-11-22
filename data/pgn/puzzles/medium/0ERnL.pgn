@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ERnL"]
+[Difficulty "medium"]
+[Rating "1466"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/4JaDNR1w/black#36"]
+[Solution "c2c3 h4f5 c3e3 f5d6"]
+[SolutionSAN "Rc3+ Nxf5 Rxe3 Nxd6"]
+[FEN "r5k1/1p3p1p/3q1pp1/p2p1b2/3P3N/P3Q3/1Pr2PPP/1K2R2R b - - 1 18"]
+[SetUp "1"]
+
+18... Rc3+ 19. Nxf5 Rxe3 20. Nxd6 *

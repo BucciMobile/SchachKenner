@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KjZ3"]
+[Difficulty "hard"]
+[Rating "1752"]
+[Themes "advantage capturingDefender kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/VfjRwRma/black#50"]
+[Solution "c8d7 g2d5 e6d5 c6e7"]
+[SolutionSAN "Bd7 Bxd5 exd5 Nxe7+"]
+[FEN "r1b2rk1/pn2b1pp/1qN1p3/1p1n4/3P1B2/6P1/1PQ2PBP/3R1RK1 b - - 5 25"]
+[SetUp "1"]
+
+25... Bd7 26. Bxd5 exd5 27. Nxe7+ *

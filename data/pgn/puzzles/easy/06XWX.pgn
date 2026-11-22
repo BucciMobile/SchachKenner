@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06XWX"]
+[Difficulty "easy"]
+[Rating "1055"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/R79Bix51/black#72"]
+[Solution "e2g1 d2d7 h7h6 b2g7 h6g5 d7d5"]
+[SolutionSAN "Nxg1 Rd7+ Kh6 Qg7+ Kg5 Rd5+"]
+[FEN "4r3/p6k/6p1/8/5qPp/1P5P/PQPRn3/1K4R1 b - - 7 36"]
+[SetUp "1"]
+
+36... Nxg1 37. Rd7+ Kh6 38. Qg7+ Kg5 39. Rd5+ *

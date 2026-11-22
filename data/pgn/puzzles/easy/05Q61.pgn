@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Q61"]
+[Difficulty "easy"]
+[Rating "1129"]
+[Themes "attraction crushing deflection endgame master masterVsMaster sacrifice short"]
+[GameUrl "https://lichess.org/game/cNeN1U17#51"]
+[Solution "c7e7 a4a2 b2a2 g2c2"]
+[SolutionSAN "Qe7 Rxa2+ Kxa2 Qxc2+"]
+[FEN "5rk1/R1Q2pp1/p3p2p/1p6/r3P3/2PR1P2/PKP3qP/8 w - - 0 26"]
+[SetUp "1"]
+
+26. Qe7 Rxa2+ 27. Kxa2 Qxc2+ *

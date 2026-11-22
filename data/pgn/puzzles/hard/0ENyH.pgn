@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ENyH"]
+[Difficulty "hard"]
+[Rating "2296"]
+[Themes "advantage fork long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/ErFMeSmv#29"]
+[Solution "d1d3 b8a6 d3d7 a6c5 d7e7 c5b3"]
+[SolutionSAN "Rd3 Na6 Rd7 Nc5 Rxe7 Nxb3+"]
+[FEN "rn3k1r/p3q1pp/2p1Bb2/1p2p3/4P3/1QN5/PPP2PPP/2KR3R w - - 0 15"]
+[SetUp "1"]
+
+15. Rd3 Na6 16. Rd7 Nc5 17. Rxe7 Nxb3+ *

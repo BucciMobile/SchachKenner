@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Eqo8"]
+[Difficulty "easy"]
+[Rating "860"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/voVZyWbO#189"]
+[Solution "g3g4 a1g1 g4f3 g1f1 f3e3 f1f4"]
+[SolutionSAN "Kg4 Rg1+ Kf3 Rf1+ Ke3 Rxf4"]
+[FEN "8/8/8/4k3/5R2/6K1/8/r7 w - - 23 95"]
+[SetUp "1"]
+
+95. Kg4 Rg1+ 96. Kf3 Rf1+ 97. Ke3 Rxf4 *

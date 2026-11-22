@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04yoG"]
+[Difficulty "medium"]
+[Rating "1571"]
+[Themes "advancedPawn crushing endgame exposedKing promotion skewer veryLong"]
+[GameUrl "https://lichess.org/game/MRPrp9Ac/black#82"]
+[Solution "b3b6 c5b6 a4a3 b6b7 a3a2 b7b8q a2a1q b8h8 f6e6 h8a1"]
+[SolutionSAN "Rxb6 cxb6 a3 b7 a2 b8=Q a1=Q Qh8+ Ke6 Qxa1"]
+[FEN "8/8/1R3k2/2P5/p4KP1/1r6/8/8 b - - 0 41"]
+[SetUp "1"]
+
+41... Rxb6 42. cxb6 a3 43. b7 a2 44. b8=Q a1=Q 45. Qh8+ Ke6 46. Qxa1 *

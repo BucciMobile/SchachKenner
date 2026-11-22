@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DawP"]
+[Difficulty "easy"]
+[Rating "1043"]
+[Themes "advantage hangingPiece master middlegame short"]
+[GameUrl "https://lichess.org/game/zUNOUHxX/black#50"]
+[Solution "e6g5 h4g5 h8h3 f2h3"]
+[SolutionSAN "Ng5 hxg5 Rxh3 Nxh3"]
+[FEN "1k2r2r/1p1n1pp1/2pbn1p1/1p1p4/3P2PP/3BPP1R/PPR2N2/1KB5 b - - 8 25"]
+[SetUp "1"]
+
+25... Ng5 26. hxg5 Rxh3 27. Nxh3 *

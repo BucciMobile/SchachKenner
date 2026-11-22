@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0P8wl"]
+[Difficulty "medium"]
+[Rating "1238"]
+[Themes "advantage discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/DI5tHlFp#87"]
+[Solution "c6b5 c3b5 a4b5 a5e1"]
+[SolutionSAN "Bb5 Nxb5 axb5 Bxe1"]
+[FEN "3r1k2/6p1/2B2p1p/b2p4/P2P4/2n2N1P/5PP1/4R1K1 w - - 0 44"]
+[SetUp "1"]
+
+44. Bb5 Nxb5 45. axb5 Bxe1 *

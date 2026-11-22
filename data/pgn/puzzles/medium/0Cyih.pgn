@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cyih"]
+[Difficulty "medium"]
+[Rating "1227"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/RnMwlPEy/black#70"]
+[Solution "h7g7 e3h6 g7g6 e6g6"]
+[SolutionSAN "Rg7 Bh6 Rxg6+ Rxg6"]
+[FEN "5r2/p1pk3r/3pR1P1/2pP4/2P1p3/1P2B3/P4PK1/8 b - - 1 35"]
+[SetUp "1"]
+
+35... Rg7 36. Bh6 Rxg6+ 37. Rxg6 *

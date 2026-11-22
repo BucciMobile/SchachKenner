@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FcsQ"]
+[Difficulty "easy"]
+[Rating "824"]
+[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove queenRookEndgame"]
+[GameUrl "https://lichess.org/game/scvIJz7T#53"]
+[Solution "e6e1 c1e1"]
+[SolutionSAN "Re1 Rxe1#"]
+[FEN "3r2k1/pp4p1/4R2p/8/8/5Q2/1P3PPP/2r3K1 w - - 1 27"]
+[SetUp "1"]
+
+27. Re1 Rxe1# *

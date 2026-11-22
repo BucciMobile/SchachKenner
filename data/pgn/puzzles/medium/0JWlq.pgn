@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JWlq"]
+[Difficulty "medium"]
+[Rating "1391"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/o6W8Ixe8/black#26"]
+[Solution "c3a1 f3e5 a1e5 c7e5"]
+[SolutionSAN "Qxa1 Ne5+ Qxe5 Bxe5"]
+[FEN "N1b2bnr/p1Bk1ppp/1pn1p3/3p4/Q7/2q1PN2/P3KPPP/R4B1R b - - 5 13"]
+[SetUp "1"]
+
+13... Qxa1 14. Ne5+ Qxe5 15. Bxe5 *

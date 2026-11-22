@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08XWO"]
+[Difficulty "hard"]
+[Rating "1701"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/6knpnRrz/black#40"]
+[Solution "d6e4 g3f4 f5f4 d3f4"]
+[SolutionSAN "Ne4 Qxf4 Qxf4 Nxf4"]
+[FEN "r1b3k1/1p2p1b1/p2nP3/2pP1q2/2P2r2/2NN2Q1/PP4PP/R3K2R b KQ - 2 20"]
+[SetUp "1"]
+
+20... Ne4 21. Qxf4 Qxf4 22. Nxf4 *

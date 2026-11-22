@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C8HD"]
+[Difficulty "easy"]
+[Rating "901"]
+[Themes "advancedPawn advantage endgame long promotion rookEndgame"]
+[GameUrl "https://lichess.org/game/You3JtHb#75"]
+[Solution "h7d7 c4c1 g1h2 d2d1q d7d1 c1d1"]
+[SolutionSAN "Rhd7 Rc1+ Kh2 d1=Q Rxd1 Rxd1"]
+[FEN "2r3k1/R6R/1p4p1/8/1Pr1p3/7P/1P1p1PP1/6K1 w - - 0 38"]
+[SetUp "1"]
+
+38. Rhd7 Rc1+ 39. Kh2 d1=Q 40. Rxd1 Rxd1 *

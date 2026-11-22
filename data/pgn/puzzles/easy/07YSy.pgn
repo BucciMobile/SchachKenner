@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07YSy"]
+[Difficulty "easy"]
+[Rating "1175"]
+[Themes "advancedPawn bishopEndgame crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/cmxzRAWi/black#86"]
+[Solution "d4e5 d6d7 f6e7 b7c8"]
+[SolutionSAN "Bxe5 d7 Ke7 Kc8"]
+[FEN "8/1K3p1p/3P1kp1/4P3/3b4/2pB4/6PP/8 b - - 0 43"]
+[SetUp "1"]
+
+43... Bxe5 44. d7 Ke7 45. Kc8 *

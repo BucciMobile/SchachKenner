@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BDOl"]
+[Difficulty "medium"]
+[Rating "1405"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/DiEJdRxN/black#56"]
+[Solution "g7h6 e7h4"]
+[SolutionSAN "Kh6 Qh4#"]
+[FEN "7r/p3Qpkp/6p1/3qB3/8/2P1K3/Pn3PPP/8 b - - 1 28"]
+[SetUp "1"]
+
+28... Kh6 29. Qh4# *

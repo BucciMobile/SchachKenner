@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gimw"]
+[Difficulty "medium"]
+[Rating "1490"]
+[Themes "advantage deflection kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/PGDb8aJt#65"]
+[Solution "c3d5 c7h2 g1h1 d3f2 f1f2 f6f2"]
+[SolutionSAN "Nd5 Bh2+ Kh1 Nxf2+ Rxf2 Rxf2"]
+[FEN "1q1r2k1/2b3p1/p3pr1p/2p5/P1P1P3/1PNn3P/2QB1PP1/1R3RK1 w - - 21 33"]
+[SetUp "1"]
+
+33. Nd5 Bh2+ 34. Kh1 Nxf2+ 35. Rxf2 Rxf2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BflT"]
+[Difficulty "hard"]
+[Rating "2094"]
+[Themes "advantage hangingPiece middlegame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/XwBGq5Dq#51"]
+[Solution "g5e4 d5e4 h2h3 e4e1 g1h2 f4e2 g4e2 e1e2"]
+[SolutionSAN "Ne4 Qxe4 h3 Qe1+ Kh2 Ne2 Qxe2 Qxe2"]
+[FEN "7R/3k1pp1/p1bBp3/3qP1N1/5nQ1/P7/1P3PPP/6K1 w - - 1 26"]
+[SetUp "1"]
+
+26. Ne4 Qxe4 27. h3 Qe1+ 28. Kh2 Ne2 29. Qxe2 Qxe2 *

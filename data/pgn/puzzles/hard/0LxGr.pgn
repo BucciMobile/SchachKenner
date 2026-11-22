@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LxGr"]
+[Difficulty "hard"]
+[Rating "2713"]
+[Themes "clearance crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/0Jrha7bi#113"]
+[Solution "c5b6 g6f5 g5g6 f5f4 g6g7 d3h7"]
+[SolutionSAN "Kb6 Kf5 g6 Kf4 g7 Bh7"]
+[FEN "8/8/6k1/2K3P1/8/P2b4/2p1p3/6R1 w - - 2 57"]
+[SetUp "1"]
+
+57. Kb6 Kf5 58. g6 Kf4 59. g7 Bh7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02e7X"]
+[Difficulty "hard"]
+[Rating "2064"]
+[Themes "crushing master middlegame veryLong"]
+[GameUrl "https://lichess.org/game/jHWPn08C/black#30"]
+[Solution "f6e4 b2g7 e4d2 f3c6 b7c6 g7f8 d2f1 f8h6"]
+[SolutionSAN "Nxe4 Bxg7 Nxd2 Qxc6 bxc6 Bxf8 Nxf1 Bxh6"]
+[FEN "r4rk1/ppp2pb1/2qp1npp/8/2P1P3/1P3QP1/PB1N1PKP/R4R2 b - - 1 15"]
+[SetUp "1"]
+
+15... Nxe4 16. Bxg7 Nxd2 17. Qxc6 bxc6 18. Bxf8 Nxf1 19. Bxh6 *

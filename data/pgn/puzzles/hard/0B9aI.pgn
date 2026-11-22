@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B9aI"]
+[Difficulty "hard"]
+[Rating "2246"]
+[Themes "crushing defensiveMove endgame knightEndgame short"]
+[GameUrl "https://lichess.org/game/VB3BnQ6n#69"]
+[Solution "d4e5 c6c5 d2b1 c5c4"]
+[SolutionSAN "Ke5 Kc5 Nb1 Kc4"]
+[FEN "8/3p2pp/2kPp3/5p2/p2K1P2/8/3N2PP/8 w - - 9 35"]
+[SetUp "1"]
+
+35. Ke5 Kc5 36. Nb1 Kc4 *

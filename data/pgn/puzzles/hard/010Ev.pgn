@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "010Ev"]
+[Difficulty "hard"]
+[Rating "2657"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/UOMjn4Zf#59"]
+[Solution "d3g6 a3c1 e3c1 c3c1 g1h2 f7g6"]
+[SolutionSAN "Bxg6 Qc1+ Qxc1 Rxc1+ Kh2 fxg6"]
+[FEN "4b1k1/1p3p2/4pPp1/3p2Rp/p2P3R/q1rBQ2P/6P1/6K1 w - - 0 30"]
+[SetUp "1"]
+
+30. Bxg6 Qc1+ 31. Qxc1 Rxc1+ 32. Kh2 fxg6 *

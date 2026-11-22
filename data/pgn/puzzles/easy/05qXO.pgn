@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05qXO"]
+[Difficulty "easy"]
+[Rating "828"]
+[Themes "mate mateIn1 middlegame oneMove operaMate"]
+[GameUrl "https://lichess.org/game/Yim0iw93/black#30"]
+[Solution "a8d8 d1d8"]
+[SolutionSAN "Rxd8 Rxd8#"]
+[FEN "r2Qk1r1/ppp2qPp/2p1b3/2n1b1B1/8/8/PPP2PPP/RN1R2K1 b q - 1 15"]
+[SetUp "1"]
+
+15... Rxd8 16. Rxd8# *

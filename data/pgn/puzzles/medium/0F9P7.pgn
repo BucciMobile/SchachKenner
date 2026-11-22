@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F9P7"]
+[Difficulty "medium"]
+[Rating "1278"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/MZMJ11Sh#57"]
+[Solution "e2f2 f6g4 f2g3 g4h2"]
+[SolutionSAN "Kf2 Ng4+ Kg3 Nxh2"]
+[FEN "4r1k1/p4pp1/2p2n1p/3p1q2/2pP3P/2P2P2/PP1NK1PQ/R2R4 w - - 3 29"]
+[SetUp "1"]
+
+29. Kf2 Ng4+ 30. Kg3 Nxh2 *

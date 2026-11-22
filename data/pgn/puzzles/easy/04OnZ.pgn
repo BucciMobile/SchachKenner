@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04OnZ"]
+[Difficulty "easy"]
+[Rating "688"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/UNew57kW/black#30"]
+[Solution "g4d7 a5a8"]
+[SolutionSAN "Bd7 Qa8#"]
+[FEN "2kr2r1/1pp2p1p/2qp1p2/Qpb5/4P1b1/3B4/PPP2PPP/R4R1K b - - 3 15"]
+[SetUp "1"]
+
+15... Bd7 16. Qa8# *

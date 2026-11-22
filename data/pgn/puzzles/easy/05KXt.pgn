@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05KXt"]
+[Difficulty "easy"]
+[Rating "1181"]
+[Themes "advantage defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/8iU5sk7d/black#88"]
+[Solution "b4c4 c1c4 e8e1 f1e1 b5c4 e1d2"]
+[SolutionSAN "Qxc4+ Qxc4 Rxe1+ Kxe1 bxc4 Kd2"]
+[FEN "4r1k1/5p2/6pp/1p6/pqB3P1/5P2/1P4P1/2Q1RK2 b - - 0 44"]
+[SetUp "1"]
+
+44... Qxc4+ 45. Qxc4 Rxe1+ 46. Kxe1 bxc4 47. Kd2 *

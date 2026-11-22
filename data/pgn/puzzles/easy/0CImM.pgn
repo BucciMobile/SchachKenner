@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CImM"]
+[Difficulty "easy"]
+[Rating "1174"]
+[Themes "crushing discoveredAttack endgame long"]
+[GameUrl "https://lichess.org/game/VjoIPAhS/black#88"]
+[Solution "d3d1 f3f4 g5h5 f6f5 h5h6 e5h8"]
+[SolutionSAN "Rd1 f4+ Kh5 Rf5+ Kh6 Bxh8"]
+[FEN "7r/8/5R2/3pB1k1/3P4/3r1PK1/8/8 b - - 4 44"]
+[SetUp "1"]
+
+44... Rd1 45. f4+ Kh5 46. Rf5+ Kh6 47. Bxh8 *

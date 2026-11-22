@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "046Ln"]
+[Difficulty "easy"]
+[Rating "972"]
+[Themes "crushing fork master middlegame short"]
+[GameUrl "https://lichess.org/game/GjQ77IiQ#47"]
+[Solution "e2e4 c5d3 c1c7 d3b4"]
+[SolutionSAN "e4 Nd3 Rxc7 Nxb4"]
+[FEN "1r4k1/2r1pp1p/q2p2p1/Ppn5/1Q6/1P4P1/4PPBP/R1R3K1 w - - 7 24"]
+[SetUp "1"]
+
+24. e4 Nd3 25. Rxc7 Nxb4 *

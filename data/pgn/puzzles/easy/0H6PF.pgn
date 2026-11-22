@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H6PF"]
+[Difficulty "easy"]
+[Rating "990"]
+[Themes "advantage deflection endgame fork long"]
+[GameUrl "https://lichess.org/game/rEVagFBp#51"]
+[Solution "d1d4 e8e1 g2f1 h4f3 g1g2 f3d4"]
+[SolutionSAN "Rxd4 Re1+ Bf1 Nxf3+ Kg2 Nxd4"]
+[FEN "4r3/pp3ppk/6p1/1PP5/3p2Pn/P4P2/5PBP/3R2K1 w - - 1 26"]
+[SetUp "1"]
+
+26. Rxd4 Re1+ 27. Bf1 Nxf3+ 28. Kg2 Nxd4 *

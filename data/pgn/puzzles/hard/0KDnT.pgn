@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KDnT"]
+[Difficulty "hard"]
+[Rating "1722"]
+[Themes "advancedPawn crushing endgame pin promotion short"]
+[GameUrl "https://lichess.org/game/8bexPlo5#85"]
+[Solution "g7h7 h2h1q h7h4 h1h4"]
+[SolutionSAN "Rh7 h1=Q Rxh4 Qxh4"]
+[FEN "8/6R1/3k2P1/8/3KB2r/3P4/7p/8 w - - 1 43"]
+[SetUp "1"]
+
+43. Rh7 h1=Q 44. Rxh4 Qxh4 *

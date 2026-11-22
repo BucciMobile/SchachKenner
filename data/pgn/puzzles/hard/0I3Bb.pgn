@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I3Bb"]
+[Difficulty "hard"]
+[Rating "1799"]
+[Themes "advantage endgame fork veryLong"]
+[GameUrl "https://lichess.org/game/TVh2nGm9#79"]
+[Solution "d5c5 e5d3 c5d5 d3f2 h1g1 f2d1 d5d1 d8d6"]
+[SolutionSAN "Rxc5 Nd3 Rd5 Nxf2+ Kg1 Nxd1 Rxd1 Rxd6"]
+[FEN "3r4/8/p2Pk3/2pRnp1p/2P1p1p1/P5P1/5P1P/3R3K w - - 2 40"]
+[SetUp "1"]
+
+40. Rxc5 Nd3 41. Rd5 Nxf2+ 42. Kg1 Nxd1 43. Rxd1 Rxd6 *

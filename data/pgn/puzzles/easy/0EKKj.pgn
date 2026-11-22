@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EKKj"]
+[Difficulty "easy"]
+[Rating "1148"]
+[Themes "fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/uJprS6ys#45"]
+[Solution "f3h4 h3h2 g1f1 h2f2"]
+[SolutionSAN "Nxh4 Qh2+ Kf1 Qxf2#"]
+[FEN "4r1k1/1pr2pp1/pN1p4/P1pPp2p/4P1nn/5N1q/1PP2P2/R1BQR1K1 w - - 4 23"]
+[SetUp "1"]
+
+23. Nxh4 Qh2+ 24. Kf1 Qxf2# *

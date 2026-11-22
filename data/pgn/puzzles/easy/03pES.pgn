@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03pES"]
+[Difficulty "easy"]
+[Rating "1121"]
+[Themes "master mate mateIn1 middlegame oneMove pin"]
+[GameUrl "https://lichess.org/game/VCFyh5Z7/black#36"]
+[Solution "f8f7 e1e8"]
+[SolutionSAN "Qxf7 Re8#"]
+[FEN "r1b2qk1/p4Bpp/1pp2p2/8/3P1b2/1QP2N1P/PP3PP1/4R1K1 b - - 0 18"]
+[SetUp "1"]
+
+18... Qxf7 19. Re8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ifaz"]
+[Difficulty "easy"]
+[Rating "1040"]
+[Themes "advantage discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/CQwb6cTq/black#40"]
+[Solution "d8d5 e4f6 e7f6 f3d5"]
+[SolutionSAN "Qd5 Nf6+ exf6 Qxd5"]
+[FEN "1r1q1rk1/2p1ppbp/6b1/p5N1/3PN3/P1P2Q2/2B2PP1/2KR4 b - - 2 20"]
+[SetUp "1"]
+
+20... Qd5 21. Nf6+ exf6 22. Qxd5 *

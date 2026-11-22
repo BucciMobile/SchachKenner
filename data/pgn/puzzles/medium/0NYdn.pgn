@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NYdn"]
+[Difficulty "medium"]
+[Rating "1443"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/B6FFHin3#89"]
+[Solution "h1h2 f1g1 h2h3 g1h1"]
+[SolutionSAN "Kh2 Qg1+ Kxh3 Qh1#"]
+[FEN "4NQ2/1R3p1k/4p1p1/3p3p/P1p5/4P1Pn/8/5q1K w - - 2 45"]
+[SetUp "1"]
+
+45. Kh2 Qg1+ 46. Kxh3 Qh1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OSiM"]
+[Difficulty "medium"]
+[Rating "1498"]
+[Themes "capturingDefender crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/vnHbXRXy#31"]
+[Solution "c1d2 g7e5 e1e5 e6c4"]
+[SolutionSAN "Bd2 Bxe5 Rxe5 Bxc4"]
+[FEN "r1q2rk1/ppn1ppbp/2p1b1p1/4N3/2BP4/P1P2Q2/1P3PPP/R1B1R1K1 w - - 7 16"]
+[SetUp "1"]
+
+16. Bd2 Bxe5 17. Rxe5 Bxc4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JIFQ"]
+[Difficulty "hard"]
+[Rating "1892"]
+[Themes "advantage long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/NLtIFBET#45"]
+[Solution "d5e7 h7e7 h2h4 e7g7 h4g5 g7g5"]
+[SolutionSAN "Nxe7+ Rxe7 h4 Rg7 hxg5 Rxg5"]
+[FEN "r5k1/pp2b2r/3p3q/3Np1n1/3pP1Q1/2PP4/PP3PPP/R3R1K1 w - - 9 23"]
+[SetUp "1"]
+
+23. Nxe7+ Rxe7 24. h4 Rg7 25. hxg5 Rxg5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gaxl"]
+[Difficulty "medium"]
+[Rating "1635"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/Tw4ITYIl#37"]
+[Solution "e5d6 b6c4 d3c4 a2c4"]
+[SolutionSAN "Bd6 Nc4 Qxc4 Qxc4"]
+[FEN "r4k2/pN2np1r/1np1p1pp/4B3/3P2P1/3Q3P/qPP2P2/2KR3R w - - 0 19"]
+[SetUp "1"]
+
+19. Bd6 Nc4 20. Qxc4 Qxc4 *

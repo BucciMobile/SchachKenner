@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ONMi"]
+[Difficulty "medium"]
+[Rating "1312"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/LcFBBPHy#93"]
+[Solution "f4g5 h6g5 b3b4 c5b4"]
+[SolutionSAN "fxg5 hxg5 b4 cxb4"]
+[FEN "8/8/p2k3p/2p3p1/P1Kp1PP1/1P5P/8/8 w - - 0 47"]
+[SetUp "1"]
+
+47. fxg5 hxg5 48. b4 cxb4 *

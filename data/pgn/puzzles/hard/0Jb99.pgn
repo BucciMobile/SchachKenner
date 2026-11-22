@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jb99"]
+[Difficulty "hard"]
+[Rating "1743"]
+[Themes "crushing defensiveMove endgame veryLong"]
+[GameUrl "https://lichess.org/game/XIxeQceX#113"]
+[Solution "h2h5 h6h5 d1e2 h5h4 e2f2 h4h3 f2g1 h3g3"]
+[SolutionSAN "Rxh5+ Kxh5 Ke2 Kh4 Kf2 Kh3 Kg1 Kg3"]
+[FEN "8/8/7k/7r/6p1/8/7R/3K4 w - - 0 57"]
+[SetUp "1"]
+
+57. Rxh5+ Kxh5 58. Ke2 Kh4 59. Kf2 Kh3 60. Kg1 Kg3 *

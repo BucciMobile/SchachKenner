@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07DJU"]
+[Difficulty "easy"]
+[Rating "684"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/g0hxOcWt#49"]
+[Solution "e7e1 a1e1"]
+[SolutionSAN "Re1 Qxe1#"]
+[FEN "r5k1/ppp1R1p1/1b3p2/7Q/1P6/P5B1/5PPP/q5K1 w - - 4 25"]
+[SetUp "1"]
+
+25. Re1 Qxe1# *

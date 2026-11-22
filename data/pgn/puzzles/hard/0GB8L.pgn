@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GB8L"]
+[Difficulty "hard"]
+[Rating "2453"]
+[Themes "crushing defensiveMove middlegame quietMove short"]
+[GameUrl "https://lichess.org/game/Sh51bct9/black#32"]
+[Solution "d8b6 g3h4 b6d4 d2c1"]
+[SolutionSAN "Qb6 Qh4 Qd4+ Kc1"]
+[FEN "r1bq1rk1/pp1ppp2/6p1/4b1P1/2B1PnP1/2N3Q1/PPPK1P2/R6R b - - 3 16"]
+[SetUp "1"]
+
+16... Qb6 17. Qh4 Qd4+ 18. Kc1 *

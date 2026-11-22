@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07lnF"]
+[Difficulty "hard"]
+[Rating "1840"]
+[Themes "crushing endgame long master rookEndgame"]
+[GameUrl "https://lichess.org/game/hEz85Iyy#93"]
+[Solution "g2g3 f1h1 h2g2 h4h3 g2f3 h1f1"]
+[SolutionSAN "g3 Rh1+ Kg2 h3+ Kf3 Rhf1+"]
+[FEN "7k/8/1R4p1/8/6Pp/8/2R3PK/4rr2 w - - 0 47"]
+[SetUp "1"]
+
+47. g3 Rh1+ 48. Kg2 h3+ 49. Kf3 Rhf1+ *

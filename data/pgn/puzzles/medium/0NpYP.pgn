@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NpYP"]
+[Difficulty "medium"]
+[Rating "1485"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/PkXfswkH#93"]
+[Solution "f3e3 e5f4"]
+[SolutionSAN "Ke3 exf4#"]
+[FEN "6k1/2R4R/3p2p1/4p3/4PP2/1P3K2/3r1r1P/8 w - - 3 47"]
+[SetUp "1"]
+
+47. Ke3 exf4# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ME0t"]
+[Difficulty "hard"]
+[Rating "1898"]
+[Themes "crushing opening veryLong"]
+[GameUrl "https://lichess.org/game/YLMaHE5I#23"]
+[Solution "d3e4 f6e4 c3e4 g6e4 g5e7 e4f3 e7d8 f3d1"]
+[SolutionSAN "Bxe4 Nxe4 Nxe4 Bxe4 Bxe7 Bxf3 Bxd8 Bxd1"]
+[FEN "r2q1rk1/p2nbppp/1pp1pnb1/6B1/2PPp3/2NB1N2/PP3PPP/2RQR1K1 w - - 0 12"]
+[SetUp "1"]
+
+12. Bxe4 Nxe4 13. Nxe4 Bxe4 14. Bxe7 Bxf3 15. Bxd8 Bxd1 *

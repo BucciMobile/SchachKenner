@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Dpz"]
+[Difficulty "easy"]
+[Rating "1177"]
+[Themes "advantage fork long opening"]
+[GameUrl "https://lichess.org/game/0BxLVLeC#11"]
+[Solution "f4e5 d8h4 g2g3 h4e4 d1e2 e4h1"]
+[SolutionSAN "fxe5 Qh4+ g3 Qe4+ Qe2 Qxh1"]
+[FEN "r1bqkbnr/ppp3pp/8/3pnP2/5P2/8/PPPP2PP/RNBQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+6. fxe5 Qh4+ 7. g3 Qe4+ 8. Qe2 Qxh1 *

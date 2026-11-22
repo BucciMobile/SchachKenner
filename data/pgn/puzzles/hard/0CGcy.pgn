@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CGcy"]
+[Difficulty "hard"]
+[Rating "1764"]
+[Themes "advantage discoveredAttack long middlegame"]
+[GameUrl "https://lichess.org/game/FIrrDUst/black#32"]
+[Solution "e5c4 d5f6 g7f6 d2d7 e8f8 b3c4"]
+[SolutionSAN "Nxc4 Nxf6+ Bxf6 Qxd7+ Kf8 bxc4"]
+[FEN "r3k2r/p2bppb1/5np1/q1pNn2p/1pB1P3/1P2BP2/P1PQN1PP/1K1R3R b kq - 7 16"]
+[SetUp "1"]
+
+16... Nxc4 17. Nxf6+ Bxf6 18. Qxd7+ Kf8 19. bxc4 *

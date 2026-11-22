@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05HEv"]
+[Difficulty "medium"]
+[Rating "1280"]
+[Themes "endgame long mate mateIn3 rookEndgame"]
+[GameUrl "https://lichess.org/game/S8lveYGp#77"]
+[Solution "g3g4 f8f4 g4g5 f3g3 g5h6 f4h4"]
+[SolutionSAN "Kg4 R8f4+ Kg5 Rg3+ Kh6 Rh4#"]
+[FEN "5rk1/ppR5/6p1/2p1p3/2P1P3/3P1rK1/PP6/3R4 w - - 1 39"]
+[SetUp "1"]
+
+39. Kg4 R8f4+ 40. Kg5 Rg3+ 41. Kh6 Rh4# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08I6a"]
+[Difficulty "hard"]
+[Rating "2035"]
+[Themes "advantage fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/V657rCam/black#52"]
+[Solution "c6b5 f1f7 e7d8 f7d7 b8d7 d6f7 d8e7 f7h8"]
+[SolutionSAN "cxb5 Rf7+ Kd8 Rxd7+ Nxd7 Nf7+ Ke7 Nxh8"]
+[FEN "1n5r/3rk3/p1pNp2p/1P2P1pP/6P1/2P4K/1P2n3/3R1R2 b - - 1 26"]
+[SetUp "1"]
+
+26... cxb5 27. Rf7+ Kd8 28. Rxd7+ Nxd7 29. Nf7+ Ke7 30. Nxh8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JLjG"]
+[Difficulty "hard"]
+[Rating "1963"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/ll5D9Mmu#59"]
+[Solution "g1g2 d3e1 g2h3 e3d4"]
+[SolutionSAN "Kg2 Ne1+ Kh3 Bxd4"]
+[FEN "3r2k1/p3RRpp/1p6/3P4/3N4/3nb1P1/PP5P/2r2BK1 w - - 3 30"]
+[SetUp "1"]
+
+30. Kg2 Ne1+ 31. Kh3 Bxd4 *

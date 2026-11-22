@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01MQ3"]
+[Difficulty "easy"]
+[Rating "870"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/p97EKhqM/black#74"]
+[Solution "c8b8 b7c7 c4c7 a5c7"]
+[SolutionSAN "Rb8 Rxc7+ Rxc7 Bxc7"]
+[FEN "2r5/1Rb1k3/p3p2p/B5p1/2r1p3/6PP/3R1P2/6K1 b - - 0 37"]
+[SetUp "1"]
+
+37... Rb8 38. Rxc7+ Rxc7 39. Bxc7 *

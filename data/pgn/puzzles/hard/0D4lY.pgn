@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D4lY"]
+[Difficulty "hard"]
+[Rating "1702"]
+[Themes "advantage discoveredAttack discoveredCheck endgame short"]
+[GameUrl "https://lichess.org/game/IHzg45ao/black#56"]
+[Solution "e6a2 f5e6 f6g7 e6a2"]
+[SolutionSAN "Bxa2 Be6+ Kg7 Bxa2"]
+[FEN "8/r6p/2prbk2/p4B2/3p2P1/5R2/P1P4P/4R1K1 b - - 0 28"]
+[SetUp "1"]
+
+28... Bxa2 29. Be6+ Kg7 30. Bxa2 *

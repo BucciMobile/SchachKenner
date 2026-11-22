@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Irpo"]
+[Difficulty "easy"]
+[Rating "1109"]
+[Themes "endgame mate mateIn1 oneMove swallowstailMate"]
+[GameUrl "https://lichess.org/game/FlaBYSMd/black#56"]
+[Solution "a4b5 d4b4"]
+[SolutionSAN "Kxb5 Qb4#"]
+[FEN "4r3/1p5p/p1p5/1P6/k2Qn3/P3P3/qB2K1PP/3R4 b - - 0 28"]
+[SetUp "1"]
+
+28... Kxb5 29. Qb4# *

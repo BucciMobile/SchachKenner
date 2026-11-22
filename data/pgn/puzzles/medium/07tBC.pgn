@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07tBC"]
+[Difficulty "medium"]
+[Rating "1384"]
+[Themes "attraction crushing endgame exposedKing fork long sacrifice"]
+[GameUrl "https://lichess.org/game/ZxKgmgvg#79"]
+[Solution "e7e4 f5e4 e2e4 g4f2 h3g2 f2e4"]
+[SolutionSAN "Re4 Qxe4 Qxe4 Nf2+ Kg2 Nxe4"]
+[FEN "7r/pp2R3/2pR4/5qpk/2P3n1/P6K/1P2Q3/8 w - - 6 40"]
+[SetUp "1"]
+
+40. Re4 Qxe4 41. Qxe4 Nf2+ 42. Kg2 Nxe4 *

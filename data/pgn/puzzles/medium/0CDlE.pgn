@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CDlE"]
+[Difficulty "medium"]
+[Rating "1471"]
+[Themes "bishopEndgame crushing endgame short"]
+[GameUrl "https://lichess.org/game/pevttXiC#101"]
+[Solution "e2e3 d6c5 e3e2 f5g4"]
+[SolutionSAN "Ke3 Bc5+ Ke2 Kg4"]
+[FEN "8/8/3b2p1/5kBp/4pP1P/8/4KP2/8 w - - 1 51"]
+[SetUp "1"]
+
+51. Ke3 Bc5+ 52. Ke2 Kg4 *

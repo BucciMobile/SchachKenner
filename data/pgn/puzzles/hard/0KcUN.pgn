@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KcUN"]
+[Difficulty "hard"]
+[Rating "1942"]
+[Themes "advantage endgame veryLong"]
+[GameUrl "https://lichess.org/game/NCI9Cr90#55"]
+[Solution "a5b7 d8h4 f2g1 a8a1 g1h2 h4g3 g7g3 f4g3 h2g3 c8b7"]
+[SolutionSAN "Nb7 Bh4+ Kg1 Ra1+ Kh2 Bg3+ Rxg3 fxg3+ Kxg3 Kxb7"]
+[FEN "r1kb4/6Rp/4p3/N1PpB3/1P1P1p2/2Pb1P2/5KP1/8 w - - 5 28"]
+[SetUp "1"]
+
+28. Nb7 Bh4+ 29. Kg1 Ra1+ 30. Kh2 Bg3+ 31. Rxg3 fxg3+ 32. Kxg3 Kxb7 *

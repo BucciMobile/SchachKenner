@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "081AJ"]
+[Difficulty "hard"]
+[Rating "2287"]
+[Themes "advantage defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/GSMglta4/black#78"]
+[Solution "e7e2 a6f6 h8g8 d1d5"]
+[SolutionSAN "Qe2 Qxf6+ Kg8 Rd5"]
+[FEN "4r2k/2p1q2p/Q4p2/8/p7/7P/6P1/3R3K b - - 1 39"]
+[SetUp "1"]
+
+39... Qe2 40. Qxf6+ Kg8 41. Rd5 *

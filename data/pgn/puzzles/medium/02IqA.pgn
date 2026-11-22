@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02IqA"]
+[Difficulty "medium"]
+[Rating "1691"]
+[Themes "crushing discoveredAttack middlegame pin short"]
+[GameUrl "https://lichess.org/game/Mmiinbsg/black#68"]
+[Solution "d6h6 f5f6 h6f6 h3d7"]
+[SolutionSAN "Rxh6 f6+ Rxf6 Qxd7"]
+[FEN "2r5/3qp1kp/3r3P/p4Pp1/5R2/1Pp4Q/P2n1R2/2B3K1 b - - 0 34"]
+[SetUp "1"]
+
+34... Rxh6 35. f6+ Rxf6 36. Qxd7 *

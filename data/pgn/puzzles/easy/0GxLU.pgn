@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GxLU"]
+[Difficulty "easy"]
+[Rating "566"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/tTAGSvkI#87"]
+[Solution "c2c6 e6d4 f3e4 d4c6"]
+[SolutionSAN "Rc6 Nd4+ Ke4 Nxc6"]
+[FEN "8/5pk1/p3n3/7p/8/P4K2/1PR2P2/8 w - - 3 44"]
+[SetUp "1"]
+
+44. Rc6 Nd4+ 45. Ke4 Nxc6 *

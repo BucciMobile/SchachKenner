@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06low"]
+[Difficulty "easy"]
+[Rating "941"]
+[Themes "advantage fork opening short"]
+[GameUrl "https://lichess.org/game/ztLZgz0N/black#20"]
+[Solution "f8b4 d1a4 d8d7 a4b4"]
+[SolutionSAN "Bb4 Qa4+ Qd7 Qxb4"]
+[FEN "r2qkbnr/ppp2ppb/4p2p/3pP2P/3P4/2N2N2/PP3PP1/R1BQK2R b KQkq - 1 10"]
+[SetUp "1"]
+
+10... Bb4 11. Qa4+ Qd7 12. Qxb4 *

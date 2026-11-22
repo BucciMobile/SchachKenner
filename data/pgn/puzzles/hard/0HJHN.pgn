@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HJHN"]
+[Difficulty "hard"]
+[Rating "2346"]
+[Themes "crushing deflection long master middlegame"]
+[GameUrl "https://lichess.org/game/vHnGIVL3/black#50"]
+[Solution "c6c7 b2e5 c7e5 e4b7 e5c7 b7c8"]
+[SolutionSAN "Qc7 Be5 Qxe5 Bxb7 Qc7 Bxc8"]
+[FEN "2r3k1/pb3p1p/1pq1nPp1/2p5/2P1Bp2/1P6/PB4PP/3QR1K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Qc7 26. Be5 Qxe5 27. Bxb7 Qc7 28. Bxc8 *

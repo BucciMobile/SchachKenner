@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00L4x"]
+[Difficulty "medium"]
+[Rating "1226"]
+[Themes "advancedPawn crushing kingsideAttack middlegame promotion short"]
+[GameUrl "https://lichess.org/game/kQUg1Hn3/black#54"]
+[Solution "g7h6 e7e8q b8e8 e1e8"]
+[SolutionSAN "Bh6 e8=Q+ Rxe8 Rxe8+"]
+[FEN "1r4k1/4Ppbp/p5p1/2q5/p2n4/P2Q2B1/r2N1PPP/3KR2R b - - 0 27"]
+[SetUp "1"]
+
+27... Bh6 28. e8=Q+ Rxe8 29. Rxe8+ *

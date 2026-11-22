@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OWZ7"]
+[Difficulty "medium"]
+[Rating "1328"]
+[Themes "advantage endgame long sacrifice"]
+[GameUrl "https://lichess.org/game/RjJb3GQl/black#70"]
+[Solution "e8e4 f3e4 d5e4 d1d8 f7f8 d8f8"]
+[SolutionSAN "Re4 Qxe4 dxe4 Rd8+ Qf8 Rxf8+"]
+[FEN "4r1k1/5qpp/p1p5/1p1p4/1P3P2/P4QP1/2P4P/3R2K1 b - - 3 35"]
+[SetUp "1"]
+
+35... Re4 36. Qxe4 dxe4 37. Rd8+ Qf8 38. Rxf8+ *

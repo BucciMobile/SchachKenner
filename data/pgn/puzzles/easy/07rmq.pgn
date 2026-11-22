@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07rmq"]
+[Difficulty "easy"]
+[Rating "1005"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/trPl2XDp#77"]
+[Solution "f2e2 f3d4 e2d2 d4c6"]
+[SolutionSAN "Ke2 Nd4+ Kxd2 Nxc6"]
+[FEN "8/5ppp/p1R1p3/1P2k3/1P5P/5nP1/3p1K2/8 w - - 0 39"]
+[SetUp "1"]
+
+39. Ke2 Nd4+ 40. Kxd2 Nxc6 *

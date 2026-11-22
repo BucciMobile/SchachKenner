@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00sw5"]
+[Difficulty "easy"]
+[Rating "1177"]
+[Themes "kingsideAttack master mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/TMsj324P#45"]
+[Solution "a1b1 b6f2 g1h1 f2g2"]
+[SolutionSAN "Rab1 Qxf2+ Kh1 Qxg2#"]
+[FEN "3r2k1/1p3pp1/pq1b3p/3P4/P7/3Q1N2/1r3PPP/R2R2K1 w - - 0 23"]
+[SetUp "1"]
+
+23. Rab1 Qxf2+ 24. Kh1 Qxg2# *

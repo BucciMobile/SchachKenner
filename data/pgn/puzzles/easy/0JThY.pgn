@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JThY"]
+[Difficulty "easy"]
+[Rating "564"]
+[Themes "backRankMate endgame master mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/PBp6PWsA#105"]
+[Solution "b1a1 c2c1 e1c1 c7c1"]
+[SolutionSAN "Ka1 Qc1+ Rxc1 Rxc1#"]
+[FEN "8/2r3k1/8/3Q4/1p6/6P1/PPq5/1K2R3 w - - 5 53"]
+[SetUp "1"]
+
+53. Ka1 Qc1+ 54. Rxc1 Rxc1# *

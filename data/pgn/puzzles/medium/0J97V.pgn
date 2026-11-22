@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J97V"]
+[Difficulty "medium"]
+[Rating "1692"]
+[Themes "crushing exposedKing long middlegame pin"]
+[GameUrl "https://lichess.org/game/2V7YbUis#43"]
+[Solution "e5f7 c7g3 e1d1 d5e3 e2e3 g3e3"]
+[SolutionSAN "Nxf7 Qg3+ Kd1 Ne3+ Qxe3 Qxe3"]
+[FEN "2kr3r/ppq2b1p/8/2bnNP2/4p3/1P5P/PB1NQ3/2R1K2R w K - 2 22"]
+[SetUp "1"]
+
+22. Nxf7 Qg3+ 23. Kd1 Ne3+ 24. Qxe3 Qxe3 *

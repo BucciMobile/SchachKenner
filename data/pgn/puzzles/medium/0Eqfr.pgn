@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Eqfr"]
+[Difficulty "medium"]
+[Rating "1399"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short smotheredMate"]
+[GameUrl "https://lichess.org/game/LlBLC8NA#69"]
+[Solution "e1d2 e3g1 f1g1 e4f2"]
+[SolutionSAN "Bxd2 Qg1+ Rxg1 Nf2#"]
+[FEN "6k1/5ppp/4pn2/2bpN3/p3nP2/4q3/1PQr2PP/1R2BR1K w - - 10 35"]
+[SetUp "1"]
+
+35. Bxd2 Qg1+ 36. Rxg1 Nf2# *

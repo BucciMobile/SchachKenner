@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dim0"]
+[Difficulty "medium"]
+[Rating "1521"]
+[Themes "kingsideAttack long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/kZHx0lxA#31"]
+[Solution "g1h1 h5g3 h2g3 g5h6 d1h5 h6h5"]
+[SolutionSAN "Kh1 Nxg3+ hxg3 Qh6+ Qh5 Qxh5#"]
+[FEN "rnb2Nk1/pp4p1/2p1p3/3p2qn/3P1P2/3Bb1B1/PPP3PP/R2Q1RK1 w - - 1 16"]
+[SetUp "1"]
+
+16. Kh1 Nxg3+ 17. hxg3 Qh6+ 18. Qh5 Qxh5# *

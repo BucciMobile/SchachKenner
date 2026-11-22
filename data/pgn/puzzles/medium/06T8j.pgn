@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06T8j"]
+[Difficulty "medium"]
+[Rating "1508"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/UK8k9ggv#17"]
+[Solution "b1a3 c5a3 f3e2 c2e2"]
+[SolutionSAN "Na3 Bxa3 Qe2 Qxe2+"]
+[FEN "r1b1k2r/ppp2ppp/2p2n2/2b5/4P3/2PP1Q1P/PPq2PP1/RNB1KB1R w KQkq - 1 9"]
+[SetUp "1"]
+
+9. Na3 Bxa3 10. Qe2 Qxe2+ *

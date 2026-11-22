@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Flch"]
+[Difficulty "medium"]
+[Rating "1328"]
+[Themes "mate mateIn1 oneMove opening pin smotheredMate"]
+[GameUrl "https://lichess.org/game/8oI4D5H3/black#18"]
+[Solution "b8d7 e4d6"]
+[SolutionSAN "Nbd7 Nxd6#"]
+[FEN "rn1qkb1r/pp2ppp1/3p1n1p/2pP4/4N3/2P5/PP2QPPP/RNB1K2R b KQkq - 1 9"]
+[SetUp "1"]
+
+9... Nbd7 10. Nxd6# *

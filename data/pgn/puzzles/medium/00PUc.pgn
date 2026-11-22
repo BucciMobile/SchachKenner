@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00PUc"]
+[Difficulty "medium"]
+[Rating "1503"]
+[Themes "advantage attraction exposedKing fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/F6OhRxfl#53"]
+[Solution "a1d1 d8d6 d1d6 g7e5 h2h1 e5d6"]
+[SolutionSAN "Rad1 Rxd6 Rxd6 Be5+ Kh1 Bxd6"]
+[FEN "3r3k/pp4bp/3Bn1p1/7n/8/8/PP3P1K/R4RN1 w - - 1 27"]
+[SetUp "1"]
+
+27. Rad1 Rxd6 28. Rxd6 Be5+ 29. Kh1 Bxd6 *

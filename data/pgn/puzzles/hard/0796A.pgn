@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0796A"]
+[Difficulty "hard"]
+[Rating "1753"]
+[Themes "crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/g8OhwyVy#27"]
+[Solution "c3b5 d6h2 g1h1 c7e5"]
+[SolutionSAN "Nxb5 Bxh2+ Kh1 Qe5"]
+[FEN "5rk1/2q2ppp/Q1nbbn2/1p6/2p5/P1N5/BPPPNPPP/R1B2RK1 w - - 1 14"]
+[SetUp "1"]
+
+14. Nxb5 Bxh2+ 15. Kh1 Qe5 *

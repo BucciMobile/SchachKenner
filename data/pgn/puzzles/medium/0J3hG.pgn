@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J3hG"]
+[Difficulty "medium"]
+[Rating "1612"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/AG7UtBrs#41"]
+[Solution "f3e5 g7e5 c7d8 e8d8"]
+[SolutionSAN "Nxe5 Bxe5 Qxd8 Rxd8"]
+[FEN "3rr1k1/p1Q2pbp/1p4p1/4p2n/4P3/PP1b1NPq/1B3P2/3RRNK1 w - - 0 21"]
+[SetUp "1"]
+
+21. Nxe5 Bxe5 22. Qxd8 Rxd8 *

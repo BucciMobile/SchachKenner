@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FEKi"]
+[Difficulty "hard"]
+[Rating "2541"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/6JOHJ0aj/black#132"]
+[Solution "g8h8 a6f6 f8g8 g6h6"]
+[SolutionSAN "Kh8 Rxf6 Rg8+ Kh6"]
+[FEN "5rk1/8/R4pK1/5P2/8/8/8/8 b - - 8 66"]
+[SetUp "1"]
+
+66... Kh8 67. Rxf6 Rg8+ 68. Kh6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02zOY"]
+[Difficulty "easy"]
+[Rating "855"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/UEFHgetY#45"]
+[Solution "f4g5 b6f2 g1h1 f2f1 a1f1 f8f1"]
+[SolutionSAN "Bxg5 Qxf2+ Kh1 Qf1+ Rxf1 Rxf1#"]
+[FEN "r4r1k/ppp3pp/1q1pQ3/3P2b1/4RB2/8/PP3PPP/R5K1 w - - 3 23"]
+[SetUp "1"]
+
+23. Bxg5 Qxf2+ 24. Kh1 Qf1+ 25. Rxf1 Rxf1# *

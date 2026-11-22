@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J3yV"]
+[Difficulty "easy"]
+[Rating "957"]
+[Themes "crushing hangingPiece opening short"]
+[GameUrl "https://lichess.org/game/kdDmRIR4#17"]
+[Solution "d4c5 d7e5 d1d8 f8d8"]
+[SolutionSAN "dxc5 Nxe5 Qxd8 Rxd8"]
+[FEN "r1bq1rk1/pp1nppbp/5np1/1Bp1N3/3P4/2N5/PPP2PPP/R1BQ1RK1 w - - 1 9"]
+[SetUp "1"]
+
+9. dxc5 Nxe5 10. Qxd8 Rxd8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CPOs"]
+[Difficulty "medium"]
+[Rating "1536"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/MeM2bWmd/black#76"]
+[Solution "h4h3 d5e5 g7h6 e8h8 f7h7 e5f4"]
+[SolutionSAN "h3 Qe5+ Kh6 Rh8+ Rh7 Qf4+"]
+[FEN "4R3/2p2rk1/1p4p1/p2Q4/3p3p/P7/KPP5/6q1 b - - 1 38"]
+[SetUp "1"]
+
+38... h3 39. Qe5+ Kh6 40. Rh8+ Rh7 41. Qf4+ *

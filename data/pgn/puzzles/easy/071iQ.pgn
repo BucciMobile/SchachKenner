@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "071iQ"]
+[Difficulty "easy"]
+[Rating "1157"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/LlVwuVeS#59"]
+[Solution "e2g3 f8f3"]
+[SolutionSAN "Ng3 Qf3#"]
+[FEN "5q1k/b1p5/p1p3Q1/4p3/4P3/1P1P4/P1P1N2P/7K w - - 3 30"]
+[SetUp "1"]
+
+30. Ng3 Qf3# *

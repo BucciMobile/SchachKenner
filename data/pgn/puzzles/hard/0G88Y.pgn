@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G88Y"]
+[Difficulty "hard"]
+[Rating "1805"]
+[Themes "advantage attraction long middlegame pin"]
+[GameUrl "https://lichess.org/game/FcytHHnk/black#44"]
+[Solution "b6b8 d7e7 f7f8 e7g7 f8g7 f3f6"]
+[SolutionSAN "Qb8 Rxe7+ Kf8 Rxg7 Kxg7 Qxf6+"]
+[FEN "3r4/p2Rpkbp/1q3np1/2pNp3/8/1P3Q2/P1P2PPP/6K1 b - - 4 22"]
+[SetUp "1"]
+
+22... Qb8 23. Rxe7+ Kf8 24. Rxg7 Kxg7 25. Qxf6+ *

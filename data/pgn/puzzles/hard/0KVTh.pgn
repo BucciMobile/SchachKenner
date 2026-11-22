@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KVTh"]
+[Difficulty "hard"]
+[Rating "1831"]
+[Themes "advantage discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/myhfFfek/black#50"]
+[Solution "d4f5 g4f6 g8h8 h3f5"]
+[SolutionSAN "Nf5 Nf6+ Kh8 Bxf5"]
+[FEN "r4rk1/5ppp/b3p3/1q1pP1BP/pp1n2N1/6PB/PP1Q1PK1/4R3 b - - 2 25"]
+[SetUp "1"]
+
+25... Nf5 26. Nf6+ Kh8 27. Bxf5 *

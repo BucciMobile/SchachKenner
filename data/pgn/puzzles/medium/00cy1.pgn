@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00cy1"]
+[Difficulty "medium"]
+[Rating "1222"]
+[Themes "advancedPawn advantage master middlegame pin short"]
+[GameUrl "https://lichess.org/game/TsSnBR0S/black#54"]
+[Solution "h5h4 c5b6 e8c7 d6c7"]
+[SolutionSAN "h4 Qb6+ Nc7 dxc7+"]
+[FEN "2rknb2/3q1pp1/p1pP3r/1pQ1P2p/5P2/1P4P1/PB4K1/3R4 b - - 0 27"]
+[SetUp "1"]
+
+27... h4 28. Qb6+ Nc7 29. dxc7+ *

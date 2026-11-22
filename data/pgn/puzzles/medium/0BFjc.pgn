@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BFjc"]
+[Difficulty "medium"]
+[Rating "1387"]
+[Themes "advancedPawn crushing endgame intermezzo master short"]
+[GameUrl "https://lichess.org/game/HSGqYtUn/black#124"]
+[Solution "g4f6 e6e7 f4e3 f8f6"]
+[SolutionSAN "Nxf6 e7 Ke3 Rxf6"]
+[FEN "5R2/8/2p1PPr1/1p6/p2P1kn1/P1P5/1P6/4K3 b - - 6 62"]
+[SetUp "1"]
+
+62... Nxf6 63. e7 Ke3 64. Rxf6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01do1"]
+[Difficulty "easy"]
+[Rating "1108"]
+[Themes "advancedPawn attraction crushing endgame promotion short"]
+[GameUrl "https://lichess.org/game/UowkfW4v/black#68"]
+[Solution "f5g4 h6f8 g8f8 d7d8q"]
+[SolutionSAN "fxg4 Qxf8+ Kxf8 d8=Q+"]
+[FEN "5rk1/n2P3p/1p2p1pQ/pP3p2/q3p1N1/8/5PPP/5RK1 b - - 0 34"]
+[SetUp "1"]
+
+34... fxg4 35. Qxf8+ Kxf8 36. d8=Q+ *

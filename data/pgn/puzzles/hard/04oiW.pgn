@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04oiW"]
+[Difficulty "hard"]
+[Rating "2030"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/Ok0kPC4Z/black#60"]
+[Solution "a8d8 d6f5 h6g7 f5g7"]
+[SolutionSAN "Rad8 Nf5 Qg7 Nxg7"]
+[FEN "r4rk1/5p1p/p2NnQpq/8/3p4/3P4/5PP1/2R2RK1 b - - 1 30"]
+[SetUp "1"]
+
+30... Rad8 31. Nf5 Qg7 32. Nxg7 *

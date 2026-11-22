@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05s8P"]
+[Difficulty "hard"]
+[Rating "1919"]
+[Themes "crushing defensiveMove endgame pin short"]
+[GameUrl "https://lichess.org/game/HfUQi7AK#69"]
+[Solution "e4e6 c7f7 d1b1 a2a1"]
+[SolutionSAN "Qe6+ Qf7 Rb1 Ra1"]
+[FEN "6k1/2q3p1/3p1Pp1/2pP4/1pP1Q3/6BP/rp6/3R3K w - - 0 35"]
+[SetUp "1"]
+
+35. Qe6+ Qf7 36. Rb1 Ra1 *

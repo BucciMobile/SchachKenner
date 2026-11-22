@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0979U"]
+[Difficulty "easy"]
+[Rating "1155"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/PBSbtvyl#63"]
+[Solution "b7g7 h5g7 g6g5 h6g5"]
+[SolutionSAN "Rxg7+ Nxg7 Qxg5 hxg5"]
+[FEN "5rk1/pR4p1/P1p3Qp/4B1qn/2PP4/5p1P/5PP1/6K1 w - - 4 32"]
+[SetUp "1"]
+
+32. Rxg7+ Nxg7 33. Qxg5 hxg5 *

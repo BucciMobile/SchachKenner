@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07hax"]
+[Difficulty "hard"]
+[Rating "2655"]
+[Themes "advantage long middlegame pin"]
+[GameUrl "https://lichess.org/game/hnjlGG69#39"]
+[Solution "b7a8 f4f3 g1f1 f3g2 f1e2 e7c5"]
+[SolutionSAN "Qxa8 Qf3 Kf1 Qxg2+ Ke2 Bc5"]
+[FEN "rn4rk/pQ2b2p/2p4p/4P3/5q2/2N4P/PP3PP1/R3R1K1 w - - 0 20"]
+[SetUp "1"]
+
+20. Qxa8 Qf3 21. Kf1 Qxg2+ 22. Ke2 Bc5 *

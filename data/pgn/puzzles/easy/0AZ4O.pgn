@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AZ4O"]
+[Difficulty "easy"]
+[Rating "1162"]
+[Themes "advantage clearance exposedKing fork long middlegame"]
+[GameUrl "https://lichess.org/game/4WgxKHi0#37"]
+[Solution "d1e2 h4h1 f3h1 d8h4 e2f2 h4h1"]
+[SolutionSAN "Qe2 Rxh1+ Bxh1 Qh4+ Qf2 Qxh1+"]
+[FEN "r2q4/pp1n1k2/2p1p1p1/2npP3/5P1r/4PB2/PPPN4/R2QK2R w KQ - 0 19"]
+[SetUp "1"]
+
+19. Qe2 Rxh1+ 20. Bxh1 Qh4+ 21. Qf2 Qxh1+ *

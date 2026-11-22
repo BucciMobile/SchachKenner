@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Vya"]
+[Difficulty "easy"]
+[Rating "820"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/WeZsJi2O/black#72"]
+[Solution "g6g5 d3f2"]
+[SolutionSAN "g5 Nf2#"]
+[FEN "2b5/p1p2p1p/6p1/8/2P5/1P1N2Pk/P6P/6K1 b - - 8 36"]
+[SetUp "1"]
+
+36... g5 37. Nf2# *

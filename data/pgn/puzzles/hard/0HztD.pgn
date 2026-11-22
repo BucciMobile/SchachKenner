@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HztD"]
+[Difficulty "hard"]
+[Rating "2611"]
+[Themes "crushing defensiveMove endgame master pawnEndgame quietMove short"]
+[GameUrl "https://lichess.org/game/78NKcUS2/black#84"]
+[Solution "g5g4 b4b5 f5f4 d4d3"]
+[SolutionSAN "g4 b5 Kf4 Kd3"]
+[FEN "8/1pp5/8/2PP1kp1/1P1K4/p7/P7/8 b - - 0 42"]
+[SetUp "1"]
+
+42... g4 43. b5 Kf4 44. Kd3 *

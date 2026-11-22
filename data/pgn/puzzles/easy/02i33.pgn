@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02i33"]
+[Difficulty "easy"]
+[Rating "699"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/lKsT48Ke#69"]
+[Solution "h4g5 c2h2"]
+[SolutionSAN "hxg5 Rh2#"]
+[FEN "8/pp5k/1n2p2N/2p3n1/2P4P/1P2R3/Prr5/6RK w - - 1 35"]
+[SetUp "1"]
+
+35. hxg5 Rh2# *

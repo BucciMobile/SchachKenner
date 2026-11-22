@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04YWG"]
+[Difficulty "easy"]
+[Rating "435"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/j6Xg1lkZ/black#46"]
+[Solution "f7g6 c2g6"]
+[SolutionSAN "fxg6 Qxg6#"]
+[FEN "r4rk1/p2p1p2/5BBp/pP6/2P5/4P2q/2Q2PR1/5K2 b - - 0 23"]
+[SetUp "1"]
+
+23... fxg6 24. Qxg6# *

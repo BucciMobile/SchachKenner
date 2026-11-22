@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FwhQ"]
+[Difficulty "hard"]
+[Rating "2211"]
+[Themes "bishopEndgame crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/BoLPAm8z#87"]
+[Solution "b4b5 b3d5 e4d5 e5d5 b5b6 d5c6 b6b7 c6b7"]
+[SolutionSAN "b5 Bd5 Bxd5 Kxd5 b6 Kc6 b7 Kxb7"]
+[FEN "8/8/8/4k1pp/pP2B3/1b3K1P/1P6/8 w - - 0 44"]
+[SetUp "1"]
+
+44. b5 Bd5 45. Bxd5 Kxd5 46. b6 Kc6 47. b7 Kxb7 *

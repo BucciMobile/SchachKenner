@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J97C"]
+[Difficulty "easy"]
+[Rating "779"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/MCEFCGpx/black#56"]
+[Solution "e4g5 e2e8"]
+[SolutionSAN "Ng5 Re8#"]
+[FEN "6k1/5ppp/2p5/1p1p4/3Pn2n/2PQ1PqP/1P2R1P1/rB4K1 b - - 10 28"]
+[SetUp "1"]
+
+28... Ng5 29. Re8# *

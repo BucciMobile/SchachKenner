@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ICPh"]
+[Difficulty "medium"]
+[Rating "1229"]
+[Themes "discoveredAttack kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/EZ39PFjF/black#44"]
+[Solution "a8d8 e4f6 g7f6 d3h7"]
+[SolutionSAN "Rad8 Nf6+ gxf6 Qxh7#"]
+[FEN "r4rk1/pb2bppp/1p2n3/4q3/P3N3/3QB3/1PB2PPP/2RR2K1 b - - 7 22"]
+[SetUp "1"]
+
+22... Rad8 23. Nf6+ gxf6 24. Qxh7# *

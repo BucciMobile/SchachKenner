@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "078YK"]
+[Difficulty "hard"]
+[Rating "1997"]
+[Themes "crushing kingsideAttack middlegame pin short"]
+[GameUrl "https://lichess.org/game/DAFHSLUr/black#48"]
+[Solution "c4a2 h5h7 g8f7 e5f6"]
+[SolutionSAN "Qa2 Qh7+ Kf7 exf6"]
+[FEN "r4rk1/p5p1/b3pp2/3pP1pQ/2qP4/P1P4R/5PPP/4R1K1 b - - 2 24"]
+[SetUp "1"]
+
+24... Qa2 25. Qh7+ Kf7 26. exf6 *

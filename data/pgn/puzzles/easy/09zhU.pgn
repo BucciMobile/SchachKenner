@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09zhU"]
+[Difficulty "easy"]
+[Rating "583"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/lsryQM2z#27"]
+[Solution "e1e4 d8d1 e4e1 d1e1"]
+[SolutionSAN "Rxe4 Qd1+ Re1 Qxe1#"]
+[FEN "r2qk2r/pp4p1/2p1p2p/2b5/Q3p3/8/PPP2PPP/R1B1R1K1 w kq - 0 14"]
+[SetUp "1"]
+
+14. Rxe4 Qd1+ 15. Re1 Qxe1# *

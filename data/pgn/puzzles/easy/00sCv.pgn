@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00sCv"]
+[Difficulty "easy"]
+[Rating "1056"]
+[Themes "crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/aUCW3BUV#97"]
+[Solution "e4f5 c5b4 f5g6 b4b3 g6h6 b3a4"]
+[SolutionSAN "Kf5 Kb4 Kg6 Kxb3 Kxh6 Kxa4"]
+[FEN "8/8/1p5p/p1k5/P3K3/1P5P/8/8 w - - 1 49"]
+[SetUp "1"]
+
+49. Kf5 Kb4 50. Kg6 Kxb3 51. Kxh6 Kxa4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CIEI"]
+[Difficulty "medium"]
+[Rating "1297"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/M5VTlJMx#49"]
+[Solution "h6g5 f6g5 g3g5 d8g5"]
+[SolutionSAN "Bg5 Qxg5 Qxg5 Bxg5"]
+[FEN "r2b2k1/pp3rp1/3p1q1B/2p1p3/2P1P3/P2P2QP/1P3PK1/R4R2 w - - 0 25"]
+[SetUp "1"]
+
+25. Bg5 Qxg5 26. Qxg5 Bxg5 *

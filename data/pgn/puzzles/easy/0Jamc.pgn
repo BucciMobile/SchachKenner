@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jamc"]
+[Difficulty "easy"]
+[Rating "957"]
+[Themes "crushing fork master middlegame short"]
+[GameUrl "https://lichess.org/game/fQBWaaah/black#38"]
+[Solution "e5d3 f4g3 g8h8 g3d3"]
+[SolutionSAN "Nd3 Qg3+ Kh8 Qxd3"]
+[FEN "r3r1k1/pp3p1p/3p1q2/2pPnp2/2P2Q2/7P/PP3PP1/2RN1RK1 b - - 3 19"]
+[SetUp "1"]
+
+19... Nd3 20. Qg3+ Kh8 21. Qxd3 *

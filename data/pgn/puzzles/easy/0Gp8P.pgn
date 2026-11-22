@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gp8P"]
+[Difficulty "easy"]
+[Rating "825"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/v6mxIlG0/black#46"]
+[Solution "g8h8 f7f8"]
+[SolutionSAN "Kh8 Qf8#"]
+[FEN "r3n1k1/3b1Q1p/1p2p1p1/3p4/2p4q/2N3b1/PPB3P1/R4RK1 b - - 3 23"]
+[SetUp "1"]
+
+23... Kh8 24. Qf8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02R1e"]
+[Difficulty "easy"]
+[Rating "959"]
+[Themes "hangingPiece mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/qNsaoMal#39"]
+[Solution "d1d6 f3h1 d6d1 h1d1"]
+[SolutionSAN "Rxd6 Qxh1+ Rd1 Qxd1#"]
+[FEN "5rk1/Q4ppp/3p4/1N2p1b1/4P3/5q1P/PPP2P2/1K1R3R w - - 0 20"]
+[SetUp "1"]
+
+20. Rxd6 Qxh1+ 21. Rd1 Qxd1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0P24Q"]
+[Difficulty "medium"]
+[Rating "1534"]
+[Themes "advantage middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/XClefkEz/black#36"]
+[Solution "e4c3 b1b2 c3e2 f4e2 b8b2 c4c3 f7f6 c3b2"]
+[SolutionSAN "Nc3 Rxb2 Nxe2+ Nxe2 Rxb2 Qc3 f6 Qxb2"]
+[FEN "1r1q1rk1/5p1p/p2pp1pP/2p2b2/2Q1nN2/4B3/PbP1BPP1/1R3RK1 b - - 1 18"]
+[SetUp "1"]
+
+18... Nc3 19. Rxb2 Nxe2+ 20. Nxe2 Rxb2 21. Qc3 f6 22. Qxb2 *

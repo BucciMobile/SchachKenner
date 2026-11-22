@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D5di"]
+[Difficulty "easy"]
+[Rating "1057"]
+[Themes "crushing defensiveMove endgame pin short"]
+[GameUrl "https://lichess.org/game/I7ssegEy/black#96"]
+[Solution "e4f5 d4f4 f6e5 f4f5"]
+[SolutionSAN "Qf5+ Rf4 Ke5 Rxf5+"]
+[FEN "8/8/5k2/8/3Rq1p1/4P1P1/4BK2/8 b - - 1 48"]
+[SetUp "1"]
+
+48... Qf5+ 49. Rf4 Ke5 50. Rxf5+ *

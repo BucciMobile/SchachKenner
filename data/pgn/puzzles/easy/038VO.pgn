@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "038VO"]
+[Difficulty "easy"]
+[Rating "734"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/KUWvR9Ff#65"]
+[Solution "d1e1 e8e1"]
+[SolutionSAN "Rxe1 Rxe1#"]
+[FEN "2r1r3/p6k/5pRp/3Q1P2/3P1b1P/8/PP3PP1/3Rq1K1 w - - 3 33"]
+[SetUp "1"]
+
+33. Rxe1 Rxe1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01MAv"]
+[Difficulty "easy"]
+[Rating "953"]
+[Themes "kingsideAttack mate mateIn2 middlegame pillsburysMate short"]
+[GameUrl "https://lichess.org/game/ykWLYdOX/black#42"]
+[Solution "e5d4 e3e8 c8e8 e1e8"]
+[SolutionSAN "exd4 Qxe8+ Rxe8 Rxe8#"]
+[FEN "2r1r1k1/2q2pp1/bpn2b1p/p2pp1P1/3P3P/P1P1QN2/1PBN1P2/3RR1K1 b - - 0 21"]
+[SetUp "1"]
+
+21... exd4 22. Qxe8+ Rxe8 23. Rxe8# *

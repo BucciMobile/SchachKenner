@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M3in"]
+[Difficulty "hard"]
+[Rating "1717"]
+[Themes "crushing endgame long pin"]
+[GameUrl "https://lichess.org/game/6KT9jUhs/black#48"]
+[Solution "e6e7 d7e7 f8e7 d1e1 f6f5 e1e3"]
+[SolutionSAN "Re7 Rxe7 Kxe7 Re1 f5 Rxe3+"]
+[FEN "r4k2/p2R1p2/2p1rp1p/8/8/2N1b2P/PPP3KP/3R4 b - - 3 24"]
+[SetUp "1"]
+
+24... Re7 25. Rxe7 Kxe7 26. Re1 f5 27. Rxe3+ *

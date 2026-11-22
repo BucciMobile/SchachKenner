@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FZie"]
+[Difficulty "easy"]
+[Rating "1085"]
+[Themes "advantage endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/rYtQ79vc/black#60"]
+[Solution "e8e7 c7e7 f7e7 d4e5"]
+[SolutionSAN "Re7 Rxe7+ Kxe7 Ke5"]
+[FEN "4r3/p1R2k1p/1p6/5p2/3Kp2P/4P3/P4P2/8 b - - 3 30"]
+[SetUp "1"]
+
+30... Re7 31. Rxe7+ Kxe7 32. Ke5 *

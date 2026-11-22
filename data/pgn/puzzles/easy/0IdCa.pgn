@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IdCa"]
+[Difficulty "easy"]
+[Rating "841"]
+[Themes "doubleBishopMate master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/wzqmpUZr#45"]
+[Solution "c1b1 g7c3"]
+[SolutionSAN "Rxb1 Bxc3#"]
+[FEN "6k1/5pbp/1Bp3p1/P2r4/4p3/2Pb4/5PPP/1rRBK2R w K - 4 23"]
+[SetUp "1"]
+
+23. Rxb1 Bxc3# *

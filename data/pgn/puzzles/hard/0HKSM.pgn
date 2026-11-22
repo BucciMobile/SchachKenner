@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HKSM"]
+[Difficulty "hard"]
+[Rating "2103"]
+[Themes "clearance crushing long opening sacrifice"]
+[GameUrl "https://lichess.org/game/Er1qKiU8/black#16"]
+[Solution "e7e6 f3c6 b7c6 d1f3 g5h4 f3c6"]
+[SolutionSAN "e6 Bxc6+ bxc6 Qf3 Qxh4 Qxc6+"]
+[FEN "r3kbnr/ppp1pppp/2n5/6q1/7N/2N2B1b/PPPP1PPP/R1BQ1RK1 b kq - 11 8"]
+[SetUp "1"]
+
+8... e6 9. Bxc6+ bxc6 10. Qf3 Qxh4 11. Qxc6+ *

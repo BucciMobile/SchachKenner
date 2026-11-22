@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IdUb"]
+[Difficulty "hard"]
+[Rating "1751"]
+[Themes "crushing master middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/dX19Lc3n#49"]
+[Solution "h2h4 e2d2 d3d2 b4d2"]
+[SolutionSAN "h4 Rd2 Qxd2 Qxd2"]
+[FEN "4r1k1/1p3pbp/p2p2p1/8/PqP5/1P1Q1P2/4rBPP/1R3RK1 w - - 1 25"]
+[SetUp "1"]
+
+25. h4 Rd2 26. Qxd2 Qxd2 *

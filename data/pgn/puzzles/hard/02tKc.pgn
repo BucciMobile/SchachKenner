@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02tKc"]
+[Difficulty "hard"]
+[Rating "2255"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/Y07WHfbG#89"]
+[Solution "a8f8 e5f5 h5h2 f5f1"]
+[SolutionSAN "Qf8 Rxf5 Rh2 Rf1"]
+[FEN "Q7/5ppk/5q1p/4rN1R/2P3P1/pP2P3/K7/8 w - - 10 45"]
+[SetUp "1"]
+
+45. Qf8 Rxf5 46. Rh2 Rf1 *

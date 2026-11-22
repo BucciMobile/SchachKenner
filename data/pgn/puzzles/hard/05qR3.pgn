@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05qR3"]
+[Difficulty "hard"]
+[Rating "2260"]
+[Themes "crushing endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/fIZLogsO/black#92"]
+[Solution "a3c3 c5c7 g7g8 a5a6"]
+[SolutionSAN "Rxc3 Rc7+ Kg8 a6"]
+[FEN "8/6k1/6p1/P1R3K1/2p5/r1P5/8/8 b - - 6 46"]
+[SetUp "1"]
+
+46... Rxc3 47. Rc7+ Kg8 48. a6 *

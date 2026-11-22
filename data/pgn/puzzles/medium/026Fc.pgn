@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "026Fc"]
+[Difficulty "medium"]
+[Rating "1610"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/wPLa7bjy#47"]
+[Solution "e3c4 c5d4 c3d4 c7c4"]
+[SolutionSAN "Nxc4 Bxd4 cxd4 Qxc4"]
+[FEN "3r2k1/1bqr1ppp/pp6/2b5/P1pB4/2P1N2P/1P3PP1/R2QR1K1 w - - 3 24"]
+[SetUp "1"]
+
+24. Nxc4 Bxd4 25. cxd4 Qxc4 *

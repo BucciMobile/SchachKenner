@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Mk9E"]
+[Difficulty "medium"]
+[Rating "1499"]
+[Themes "advantage fork master middlegame short"]
+[GameUrl "https://lichess.org/game/wXENpBXW/black#60"]
+[Solution "c8c1 e5f7 g5f6 f7d8"]
+[SolutionSAN "Rc1 Nxf7 Qf6 Nxd8"]
+[FEN "2rr2k1/1R3pp1/4p2p/p2pNnqP/3P4/3R1QPK/P4P2/8 b - - 11 30"]
+[SetUp "1"]
+
+30... Rc1 31. Nxf7 Qf6 32. Nxd8 *

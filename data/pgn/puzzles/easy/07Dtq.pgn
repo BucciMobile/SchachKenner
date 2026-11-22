@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Dtq"]
+[Difficulty "easy"]
+[Rating "1001"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/AwgWW6In/black#50"]
+[Solution "c8b8 d2d6 b8a8 d6d8 g8d8 d1d8"]
+[SolutionSAN "Kb8 Qxd6+ Ka8 Qd8+ Rxd8 Rxd8#"]
+[FEN "2k3r1/pp3p2/1p1p3p/4P3/1P2P3/P4q2/3Q1PrP/2RR1K2 b - - 2 25"]
+[SetUp "1"]
+
+25... Kb8 26. Qxd6+ Ka8 27. Qd8+ Rxd8 28. Rxd8# *

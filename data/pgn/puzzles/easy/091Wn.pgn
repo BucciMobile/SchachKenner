@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "091Wn"]
+[Difficulty "easy"]
+[Rating "1187"]
+[Themes "crushing intermezzo opening short"]
+[GameUrl "https://lichess.org/game/FjRsUpLs#17"]
+[Solution "g2d5 f6c3 b2c3 d8d5"]
+[SolutionSAN "Bxd5 Bxc3+ bxc3 Qxd5"]
+[FEN "rnbqk2r/pp3pp1/5b1p/2pp4/8/2NP2P1/PPP2PBP/R2QK1NR w KQkq - 0 9"]
+[SetUp "1"]
+
+9. Bxd5 Bxc3+ 10. bxc3 Qxd5 *

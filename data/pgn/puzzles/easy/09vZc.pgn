@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09vZc"]
+[Difficulty "easy"]
+[Rating "1025"]
+[Themes "crushing endgame exposedKing long master"]
+[GameUrl "https://lichess.org/game/6r7meJvf/black#98"]
+[Solution "h6h7 f1d3 f7f5 d3f5 e5f5 f8f5"]
+[SolutionSAN "Kh7 Bd3+ f5 Bxf5+ Qxf5 Qxf5+"]
+[FEN "5Q2/2r2p2/7k/4q3/P7/2p3P1/5P2/5BK1 b - - 1 49"]
+[SetUp "1"]
+
+49... Kh7 50. Bd3+ f5 51. Bxf5+ Qxf5 52. Qxf5+ *

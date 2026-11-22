@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IhEx"]
+[Difficulty "easy"]
+[Rating "433"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/I51siTvi/black#66"]
+[Solution "e8f8 d2d8"]
+[SolutionSAN "Kxf8 Rxd8#"]
+[FEN "3rkQ2/5p2/1p3P2/p6p/8/P3PN2/1P1R1K2/2q5 b - - 0 33"]
+[SetUp "1"]
+
+33... Kxf8 34. Rxd8# *

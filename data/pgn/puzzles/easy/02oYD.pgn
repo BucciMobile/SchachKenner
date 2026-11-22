@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02oYD"]
+[Difficulty "easy"]
+[Rating "500"]
+[Themes "kingsideAttack mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/CTpjsFrA#27"]
+[Solution "f3g2 e5h2"]
+[SolutionSAN "Bg2 Qxh2#"]
+[FEN "1k1r2nr/ppp2ppp/3b4/1P2qb2/Q7/2P1BB2/P3PP1P/RN3RK1 w - - 1 14"]
+[SetUp "1"]
+
+14. Bg2 Qxh2# *

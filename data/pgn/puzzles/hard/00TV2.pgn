@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00TV2"]
+[Difficulty "hard"]
+[Rating "1729"]
+[Themes "advantage endgame fork long master"]
+[GameUrl "https://lichess.org/game/6qHoYzpM/black#52"]
+[Solution "b2a2 c7c8 g8g7 c8c3 d5d4 c3b4"]
+[SolutionSAN "Qxa2 Qc8+ Kg7 Qc3+ d4 Qxb4"]
+[FEN "6k1/p1Q2p1p/4p1p1/3p4/1r6/7P/Pq3PP1/5RK1 b - - 2 26"]
+[SetUp "1"]
+
+26... Qxa2 27. Qc8+ Kg7 28. Qc3+ d4 29. Qxb4 *

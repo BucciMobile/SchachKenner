@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0INRZ"]
+[Difficulty "medium"]
+[Rating "1479"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/ob5KJ9rM#65"]
+[Solution "d4c3 a5a2 c3b2 a2b2 c2b2 d8d1"]
+[SolutionSAN "Qc3 Qa2+ Qb2 Qxb2+ Kxb2 Rxd1"]
+[FEN "3r2k1/4bpp1/7p/q7/2PQN3/1P3P2/2K2P2/3R4 w - - 1 33"]
+[SetUp "1"]
+
+33. Qc3 Qa2+ 34. Qb2 Qxb2+ 35. Kxb2 Rxd1 *

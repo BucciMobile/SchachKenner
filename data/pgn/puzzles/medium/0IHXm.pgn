@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IHXm"]
+[Difficulty "medium"]
+[Rating "1291"]
+[Themes "advancedPawn advantage endgame long promotion"]
+[GameUrl "https://lichess.org/game/iYKG4iIM#65"]
+[Solution "b2b3 c4c3 d1d3 c3c2 d3d4 c2c1q"]
+[SolutionSAN "b3 c3 Rxd3 c2 Rxd4 c1=Q+"]
+[FEN "8/p5kp/6p1/8/2pb4/3p2P1/PP3PP1/3R2K1 w - - 0 33"]
+[SetUp "1"]
+
+33. b3 c3 34. Rxd3 c2 35. Rxd4 c1=Q+ *

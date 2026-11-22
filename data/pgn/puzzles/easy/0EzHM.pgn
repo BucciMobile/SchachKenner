@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EzHM"]
+[Difficulty "easy"]
+[Rating "413"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/Ed8njgTZ/black#26"]
+[Solution "f8g7 f3f7"]
+[SolutionSAN "Bg7 Qxf7#"]
+[FEN "r2qkb1r/pp1b1p1p/4p1p1/2ppP3/3P4/PP2PQ2/1BP3PP/RN3RK1 b kq - 1 13"]
+[SetUp "1"]
+
+13... Bg7 14. Qxf7# *

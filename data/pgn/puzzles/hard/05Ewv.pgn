@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Ewv"]
+[Difficulty "hard"]
+[Rating "2032"]
+[Themes "advantage discoveredAttack discoveredCheck endgame fork sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/Qget8TiU/black#60"]
+[Solution "c7c6 d3f5 f7f5 g1g7 h7h8 g7d7 h8g8 d7d8"]
+[SolutionSAN "c6 Bxf5+ Rxf5 Rg7+ Kh8 Rd7+ Kg8 Rxd8+"]
+[FEN "3r4/b1p2r1k/p6p/1p2Bp2/1P1p1P2/P2B4/2P2P1P/6RK b - - 3 30"]
+[SetUp "1"]
+
+30... c6 31. Bxf5+ Rxf5 32. Rg7+ Kh8 33. Rd7+ Kg8 34. Rxd8+ *

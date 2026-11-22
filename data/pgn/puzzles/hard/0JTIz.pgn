@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JTIz"]
+[Difficulty "hard"]
+[Rating "1729"]
+[Themes "advancedPawn crushing long opening"]
+[GameUrl "https://lichess.org/game/dCES64Oh/black#26"]
+[Solution "d5e4 e5f6 e4c2 f6e7 d8e7 d1c2"]
+[SolutionSAN "Bxe4 exf6 Bxc2 fxe7 Qxe7 Qxc2"]
+[FEN "r2q1rk1/4bppp/p1np1n2/1p1bP3/2p1P3/2P1BN2/PPB2PPP/R2Q1RK1 b - - 0 13"]
+[SetUp "1"]
+
+13... Bxe4 14. exf6 Bxc2 15. fxe7 Qxe7 16. Qxc2 *

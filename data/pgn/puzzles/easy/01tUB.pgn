@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01tUB"]
+[Difficulty "easy"]
+[Rating "800"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+[GameUrl "https://lichess.org/game/g3LPb3Po#95"]
+[Solution "f4f3 f6f5 f3e3 f5g4"]
+[SolutionSAN "Kf3 Kf5 Ke3 Kg4"]
+[FEN "8/8/p4k2/P2p3p/3P1K1P/8/8/8 w - - 4 48"]
+[SetUp "1"]
+
+48. Kf3 Kf5 49. Ke3 Kg4 *

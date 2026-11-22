@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "050Qv"]
+[Difficulty "hard"]
+[Rating "2003"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/iVXcSlc9/black#84"]
+[Solution "e8d8 e3d5 e4f4 d5f4"]
+[SolutionSAN "Rd8 Nd5 Rf4 Nxf4"]
+[FEN "1k2r3/p2P4/5pq1/2p3p1/4r3/P3NQ2/1P3KP1/4R3 b - - 0 42"]
+[SetUp "1"]
+
+42... Rd8 43. Nd5 Rf4 44. Nxf4 *

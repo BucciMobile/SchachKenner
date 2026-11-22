@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DhkQ"]
+[Difficulty "medium"]
+[Rating "1398"]
+[Themes "crushing deflection endgame long"]
+[GameUrl "https://lichess.org/game/JLZJBIid/black#50"]
+[Solution "a8e8 f5d7 f7g6 e1e8 h8e8 d7e8"]
+[SolutionSAN "Rae8 Qd7+ Kg6 Rxe8 Rxe8 Qxe8+"]
+[FEN "r6r/p4k2/1qp2p2/3p1Q2/7p/1NP5/PP3PP1/4R1K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Rae8 26. Qd7+ Kg6 27. Rxe8 Rxe8 28. Qxe8+ *

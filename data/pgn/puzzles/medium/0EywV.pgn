@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EywV"]
+[Difficulty "medium"]
+[Rating "1312"]
+[Themes "crushing interference middlegame short"]
+[GameUrl "https://lichess.org/game/HPMvC6OO/black#26"]
+[Solution "b4b2 e3d4 b2a3 d4e5"]
+[SolutionSAN "Qxb2 Bd4 Qa3 Bxe5"]
+[FEN "r4rk1/pbpp1ppp/1p3n2/3Pn3/1q2PR2/4B1P1/PPP1N1BP/R2Q2K1 b - - 4 13"]
+[SetUp "1"]
+
+13... Qxb2 14. Bd4 Qa3 15. Bxe5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CVMh"]
+[Difficulty "medium"]
+[Rating "1355"]
+[Themes "advancedPawn crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/dtWeVJVR#149"]
+[Solution "f4e5 h5h4 e5f4 h4h3 f4g4 h3h2"]
+[SolutionSAN "Ke5 h4 Kf4 h3 Kxg4 h2"]
+[FEN "8/5k2/8/7p/1P3Kp1/6P1/8/8 w - - 0 75"]
+[SetUp "1"]
+
+75. Ke5 h4 76. Kf4 h3 77. Kxg4 h2 *

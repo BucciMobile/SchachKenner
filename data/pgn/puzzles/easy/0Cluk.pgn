@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cluk"]
+[Difficulty "easy"]
+[Rating "588"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/MJIMAfx4#29"]
+[Solution "e1f1 f6f2"]
+[SolutionSAN "Kf1 Qxf2#"]
+[FEN "2r2rk1/1pp2p1p/3p1q2/p1b3pN/2P1p3/P2nP3/1P1P1PPP/R1BQK2R w KQ - 2 15"]
+[SetUp "1"]
+
+15. Kf1 Qxf2# *

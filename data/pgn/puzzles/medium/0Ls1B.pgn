@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ls1B"]
+[Difficulty "medium"]
+[Rating "1367"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/E37GxrGz#39"]
+[Solution "g8c4 c2d1 f3e1 d1e1"]
+[SolutionSAN "Qc4 Qd1+ Ne1 Qxe1#"]
+[FEN "6Q1/p1pk3p/3b1p2/4p3/8/1P1nPN2/P1qP1PPP/R1B2K1R w - - 5 20"]
+[SetUp "1"]
+
+20. Qc4 Qd1+ 21. Ne1 Qxe1# *

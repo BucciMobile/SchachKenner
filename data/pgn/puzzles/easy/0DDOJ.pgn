@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DDOJ"]
+[Difficulty "easy"]
+[Rating "738"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/hmXfHNWn/black#54"]
+[Solution "f7f6 f5e7 g8h8 e7c6"]
+[SolutionSAN "Rf6 Ne7+ Kh8 Nxc6"]
+[FEN "5rk1/b4rpn/2q4p/4pN2/p1P3P1/P2P3P/5P2/1R1Q1RK1 b - - 0 27"]
+[SetUp "1"]
+
+27... Rf6 28. Ne7+ Kh8 29. Nxc6 *

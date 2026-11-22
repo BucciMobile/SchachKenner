@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Tly"]
+[Difficulty "hard"]
+[Rating "2445"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/yb2dKKN4/black#34"]
+[Solution "h8h7 h6g7 h7g7 d2g5"]
+[SolutionSAN "Kh7 Bxg7 Kxg7 Qg5"]
+[FEN "r4r1k/ppqn1pb1/2pp2pB/4n3/3pP2N/1B6/PPPQ2PP/R4RK1 b - - 3 17"]
+[SetUp "1"]
+
+17... Kh7 18. Bxg7 Kxg7 19. Qg5 *

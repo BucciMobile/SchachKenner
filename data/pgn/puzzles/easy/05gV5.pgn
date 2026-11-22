@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05gV5"]
+[Difficulty "easy"]
+[Rating "854"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/FSe8GzhX/black#42"]
+[Solution "c8b8 a6b7"]
+[SolutionSAN "Kb8 Qb7#"]
+[FEN "2kr3r/p1p1qppp/Qpn5/2N2P2/3P4/2P1p2B/PP3n2/R3K2R b KQ - 1 21"]
+[SetUp "1"]
+
+21... Kb8 22. Qb7# *

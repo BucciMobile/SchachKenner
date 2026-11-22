@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CJ7z"]
+[Difficulty "medium"]
+[Rating "1264"]
+[Themes "crushing endgame long pin rookEndgame"]
+[GameUrl "https://lichess.org/game/6y7Wg99z/black#62"]
+[Solution "c5b5 c7b7 b5c5 d1c1 b4c4 b7c7"]
+[SolutionSAN "Kb5 Rxb7+ Kc5 Rc1+ Rc4 Rc7+"]
+[FEN "8/ppR2pp1/4pr2/2k5/1r2P3/8/6P1/3R2K1 b - - 3 31"]
+[SetUp "1"]
+
+31... Kb5 32. Rxb7+ Kc5 33. Rc1+ Rc4 34. Rc7+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ia2B"]
+[Difficulty "easy"]
+[Rating "1109"]
+[Themes "backRankMate fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/CLgl9Ilj#43"]
+[Solution "c1b1 f2c2 b1a1 c2d1"]
+[SolutionSAN "Kb1 Qxc2+ Ka1 Qxd1#"]
+[FEN "6k1/ppN3pp/3p4/3Ppbb1/8/Q5B1/PPP2q1P/2KR1B2 w - - 2 22"]
+[SetUp "1"]
+
+22. Kb1 Qxc2+ 23. Ka1 Qxd1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "037Ap"]
+[Difficulty "hard"]
+[Rating "2044"]
+[Themes "crushing defensiveMove endgame pawnEndgame short zugzwang"]
+[GameUrl "https://lichess.org/game/r2sVpPrv#73"]
+[Solution "h3h4 g5h4 f3f4 f6g6"]
+[SolutionSAN "h4 gxh4 Kxf4 Kg6"]
+[FEN "8/8/2p2k2/p5p1/Pp1P1pP1/1P3K1P/8/8 w - - 0 37"]
+[SetUp "1"]
+
+37. h4 gxh4 38. Kxf4 Kg6 *

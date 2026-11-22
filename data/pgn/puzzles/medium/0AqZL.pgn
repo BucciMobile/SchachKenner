@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AqZL"]
+[Difficulty "medium"]
+[Rating "1257"]
+[Themes "crushing endgame exposedKing long"]
+[GameUrl "https://lichess.org/game/WBbWy3E8#89"]
+[Solution "g6g7 h8h7 h3g4 h7g7 f7g7 e5g7"]
+[SolutionSAN "g7 Rxh7+ Kg4 Rxg7+ Rxg7 Bxg7"]
+[FEN "7r/kp3R1P/6P1/p2Pb3/8/2P4K/P7/8 w - - 1 45"]
+[SetUp "1"]
+
+45. g7 Rxh7+ 46. Kg4 Rxg7+ 47. Rxg7 Bxg7 *

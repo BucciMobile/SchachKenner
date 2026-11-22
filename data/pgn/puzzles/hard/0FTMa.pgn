@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FTMa"]
+[Difficulty "hard"]
+[Rating "1799"]
+[Themes "advancedPawn crushing middlegame short"]
+[GameUrl "https://lichess.org/game/xqIsSDMo#31"]
+[Solution "f4e5 c3b2 c1b2 d8g5"]
+[SolutionSAN "fxe5 cxb2 Bxb2 Qxg5"]
+[FEN "r1bq1rk1/5pbp/3N2pn/ppQ1p1N1/4PP2/2p5/PP4PP/R1B2RK1 w - - 0 16"]
+[SetUp "1"]
+
+16. fxe5 cxb2 17. Bxb2 Qxg5 *

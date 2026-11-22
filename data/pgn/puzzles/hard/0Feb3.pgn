@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Feb3"]
+[Difficulty "hard"]
+[Rating "1752"]
+[Themes "crushing discoveredAttack long middlegame"]
+[GameUrl "https://lichess.org/game/AFPnGhfi/black#24"]
+[Solution "a7a6 b5c6 b7c6 c5b6 c7b6 c2c6"]
+[SolutionSAN "a6 Bxc6 Bxc6 cxb6 cxb6 Qxc6"]
+[FEN "r2q1rk1/pbp2ppp/1pn1p3/1BPp4/3PnB2/4PN2/PPQ2PPP/R3K2R b KQ - 4 12"]
+[SetUp "1"]
+
+12... a6 13. Bxc6 Bxc6 14. cxb6 cxb6 15. Qxc6 *

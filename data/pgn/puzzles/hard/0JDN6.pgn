@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JDN6"]
+[Difficulty "hard"]
+[Rating "2320"]
+[Themes "advantage defensiveMove endgame master masterVsMaster sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/yheQPzLu#57"]
+[Solution "a4a8 f8f7 a8h8 b7b1 e6e1 b1e1 g1h2 h4g3"]
+[SolutionSAN "Ra8+ Kf7 Rxh8 Rb1+ Re1 Rxe1+ Kh2 hxg3+"]
+[FEN "5k1r/1rpn2p1/4R3/8/R6p/6B1/P4PP1/6K1 w - - 0 29"]
+[SetUp "1"]
+
+29. Ra8+ Kf7 30. Rxh8 Rb1+ 31. Re1 Rxe1+ 32. Kh2 hxg3+ *

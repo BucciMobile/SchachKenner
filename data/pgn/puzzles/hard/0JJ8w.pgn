@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JJ8w"]
+[Difficulty "hard"]
+[Rating "2515"]
+[Themes "crushing defensiveMove endgame hangingPiece rookEndgame short"]
+[GameUrl "https://lichess.org/game/P0RKvdEJ#91"]
+[Solution "c7c2 d3c2 e5e6 c2d3"]
+[SolutionSAN "Rxc2 Kxc2 e6 Kd3"]
+[FEN "8/2R5/1p6/4PK2/Pr3P2/3k4/2p5/8 w - - 0 46"]
+[SetUp "1"]
+
+46. Rxc2 Kxc2 47. e6 Kd3 *

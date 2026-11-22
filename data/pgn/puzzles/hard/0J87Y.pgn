@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J87Y"]
+[Difficulty "hard"]
+[Rating "2031"]
+[Themes "advancedPawn endgame mate mateIn4 promotion rookEndgame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/tcwGFPFf#77"]
+[Solution "a6a7 a3h3 g2h3 g4g3 h2h1 g3g2 h1h2 g2g1q"]
+[SolutionSAN "a7 Rh3+ gxh3 g3+ Kh1 g2+ Kh2 g1=Q#"]
+[FEN "R7/8/P7/4p2P/6p1/r7/5kPK/8 w - - 1 39"]
+[SetUp "1"]
+
+39. a7 Rh3+ 40. gxh3 g3+ 41. Kh1 g2+ 42. Kh2 g1=Q# *

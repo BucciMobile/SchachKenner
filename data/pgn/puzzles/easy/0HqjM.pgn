@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HqjM"]
+[Difficulty "easy"]
+[Rating "654"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/tP7tuYg2#23"]
+[Solution "c1f4 e8e1"]
+[SolutionSAN "Bxf4 Re1#"]
+[FEN "r1b1r1k1/ppp2ppp/8/2bP4/3N1p1q/2PP1Q2/PP4PP/RNB2K1R w - - 3 12"]
+[SetUp "1"]
+
+12. Bxf4 Re1# *

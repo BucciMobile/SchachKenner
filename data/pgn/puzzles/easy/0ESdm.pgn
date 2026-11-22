@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ESdm"]
+[Difficulty "easy"]
+[Rating "412"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/KyJAMqqc/black#72"]
+[Solution "h3h4 d1d8"]
+[SolutionSAN "Rh4 Rd8#"]
+[FEN "k7/pp4b1/2p5/8/P1P1P3/1P4pr/6K1/3R1N2 b - - 1 36"]
+[SetUp "1"]
+
+36... Rh4 37. Rd8# *

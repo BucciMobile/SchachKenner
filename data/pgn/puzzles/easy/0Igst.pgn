@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Igst"]
+[Difficulty "easy"]
+[Rating "863"]
+[Themes "epauletteMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/wRadFOYi/black#30"]
+[Solution "f8e7 h8g7"]
+[SolutionSAN "Ke7 Qxg7#"]
+[FEN "rnbqrk1Q/ppp3p1/3bp3/6N1/3P4/2P5/P1PB1PPP/R3K2R b KQ - 6 15"]
+[SetUp "1"]
+
+15... Ke7 16. Qxg7# *

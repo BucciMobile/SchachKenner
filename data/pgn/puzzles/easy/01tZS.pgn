@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01tZS"]
+[Difficulty "easy"]
+[Rating "907"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/YimAxyBC#51"]
+[Solution "a2c4 g4e3 f1f2 e3c4"]
+[SolutionSAN "Bxc4 Ne3+ Kf2 Nxc4"]
+[FEN "r5k1/p4pp1/2pB4/6P1/2p3np/P1N5/BPP5/5K2 w - - 0 26"]
+[SetUp "1"]
+
+26. Bxc4 Ne3+ 27. Kf2 Nxc4 *

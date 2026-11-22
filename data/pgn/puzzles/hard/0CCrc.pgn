@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CCrc"]
+[Difficulty "hard"]
+[Rating "1725"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/vkMy6tAa/black#36"]
+[Solution "h8g8 g5f4 d7c5 f4g3"]
+[SolutionSAN "Rg8 Bf4 Nc5 Bxg3"]
+[FEN "r3k2r/pp1n1p2/2p5/6Bp/3NP1bR/3B2n1/PPP3P1/R3K3 b Qkq - 0 18"]
+[SetUp "1"]
+
+18... Rg8 19. Bf4 Nc5 20. Bxg3 *

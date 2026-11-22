@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00rNc"]
+[Difficulty "medium"]
+[Rating "1370"]
+[Themes "clearance mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/nyOQHpNP#51"]
+[Solution "g1e2 b2a2 c3a2 b8b2"]
+[SolutionSAN "Nge2 Rxa2+ Nxa2 Qb2#"]
+[FEN "1q5r/p3kpp1/2Q1p2p/3pP2P/2n3P1/2N2P2/PrP5/K3R1NR w - - 0 26"]
+[SetUp "1"]
+
+26. Nge2 Rxa2+ 27. Nxa2 Qb2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BaFV"]
+[Difficulty "medium"]
+[Rating "1622"]
+[Themes "advancedPawn crushing defensiveMove endgame promotion quietMove veryLong"]
+[GameUrl "https://lichess.org/game/Hk2IdKmh/black#82"]
+[Solution "c5e4 a2a4 g7g5 a4a5 g8g7 a5a6 g5g4 a6a7 g4g3 a7a8q h3h2 g1h2 g3h2 a8a1"]
+[SolutionSAN "Ne4 a4 g5 a5 Kg7 a6 g4 a7 g3 a8=Q h2 Bxh2 gxh2 Qa1"]
+[FEN "6k1/5pp1/2K1p3/2n1P3/2P5/7p/P7/6B1 b - - 3 41"]
+[SetUp "1"]
+
+41... Ne4 42. a4 g5 43. a5 Kg7 44. a6 g4 45. a7 g3 46. a8=Q h2 47. Bxh2 gxh2 48. Qa1 *

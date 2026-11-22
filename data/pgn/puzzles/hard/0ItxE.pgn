@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ItxE"]
+[Difficulty "hard"]
+[Rating "2596"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/YEdKUPC5#59"]
+[Solution "g2f2 g5d2 f2f1 d2d3 f1e1 d3c3"]
+[SolutionSAN "Kxf2 Qd2+ Kf1 Qxd3+ Ke1 Qxc3+"]
+[FEN "2k3r1/pp6/7R/2p1p1qQ/PP2P3/2PP2P1/5rK1/1R6 w - - 0 30"]
+[SetUp "1"]
+
+30. Kxf2 Qd2+ 31. Kf1 Qxd3+ 32. Ke1 Qxc3+ *

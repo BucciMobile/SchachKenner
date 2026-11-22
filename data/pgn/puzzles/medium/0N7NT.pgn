@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0N7NT"]
+[Difficulty "medium"]
+[Rating "1674"]
+[Themes "endgame mate mateIn2 pin short"]
+[GameUrl "https://lichess.org/game/hrfopmji/black#44"]
+[Solution "a7f2 d5f6 g8h8 e4h7"]
+[SolutionSAN "Qxf2 Nf6+ Kh8 Qxh7#"]
+[FEN "5rk1/q4ppp/p7/3Np3/4Qb2/7P/PPP2P2/1K4R1 b - - 5 22"]
+[SetUp "1"]
+
+22... Qxf2 23. Nf6+ Kh8 24. Qxh7# *

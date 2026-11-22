@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AJvG"]
+[Difficulty "medium"]
+[Rating "1402"]
+[Themes "crushing middlegame sacrifice skewer veryLong"]
+[GameUrl "https://lichess.org/game/DQV899gk/black#50"]
+[Solution "d8d7 g3h5 g6h5 e4h7 g7f8 h7d7 f6g7 d7g7"]
+[SolutionSAN "Rd7 Nh5+ gxh5 Qh7+ Kf8 Qxd7 Qg7+ Qxg7+"]
+[FEN "3r4/pp4k1/2n2qpp/4p3/1P2Qb2/2P2PN1/P1B2P2/4R1K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Rd7 26. Nh5+ gxh5 27. Qh7+ Kf8 28. Qxd7 Qg7+ 29. Qxg7+ *

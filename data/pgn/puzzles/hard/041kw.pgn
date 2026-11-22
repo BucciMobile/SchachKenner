@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "041kw"]
+[Difficulty "hard"]
+[Rating "1900"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/wzQFhqJ5/black#82"]
+[Solution "e6d7 e8e5 g5e5 h8e5"]
+[SolutionSAN "Kd7 Re5 Qxe5 Qxe5"]
+[FEN "4R2Q/1pp2p2/p3k1p1/6q1/6P1/4PK2/r7/8 b - - 5 41"]
+[SetUp "1"]
+
+41... Kd7 42. Re5 Qxe5 43. Qxe5 *

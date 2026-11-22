@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09xul"]
+[Difficulty "hard"]
+[Rating "1905"]
+[Themes "advantage attraction deflection fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/kcNmyWMA#47"]
+[Solution "g7g3 h4e4 c2e4 h3f2 h1g2 f2e4"]
+[SolutionSAN "Rg3 Qxe4+ Qxe4 Nxf2+ Kg2 Nxe4"]
+[FEN "1r3r1k/pp3pRp/2p2P2/3nP3/3PB2q/P6n/1BQ2P1P/R6K w - - 1 24"]
+[SetUp "1"]
+
+24. Rg3 Qxe4+ 25. Qxe4 Nxf2+ 26. Kg2 Nxe4 *

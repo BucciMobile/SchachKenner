@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lup6"]
+[Difficulty "medium"]
+[Rating "1533"]
+[Themes "advancedPawn crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/6lECp932/black#148"]
+[Solution "g6g8 h6h7 g8h8 h5h6"]
+[SolutionSAN "Rg8 h7 Rh8 Kh6"]
+[FEN "5k2/5p2/6rP/7K/5N2/6P1/8/8 b - - 4 74"]
+[SetUp "1"]
+
+74... Rg8 75. h7 Rh8 76. Kh6 *

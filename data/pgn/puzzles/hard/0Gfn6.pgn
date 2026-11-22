@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gfn6"]
+[Difficulty "hard"]
+[Rating "1915"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/eHo7Rl3g#33"]
+[Solution "c6d4 e6d5 f3g3 c5d4"]
+[SolutionSAN "Nd4 Bd5 Qg3 cxd4"]
+[FEN "r3k2r/2p2ppp/2N1b3/1pp1P3/2q5/2P2Q2/P1P2PPP/R4RK1 w kq - 0 17"]
+[SetUp "1"]
+
+17. Nd4 Bd5 18. Qg3 cxd4 *

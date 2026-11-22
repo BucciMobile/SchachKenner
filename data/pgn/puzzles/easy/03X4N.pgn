@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03X4N"]
+[Difficulty "easy"]
+[Rating "1039"]
+[Themes "advantage discoveredAttack discoveredCheck middlegame short"]
+[GameUrl "https://lichess.org/game/LzF54Al9#63"]
+[Solution "d3e2 d5d4 g2f1 d4e3"]
+[SolutionSAN "Be2 d4+ Kf1 dxe3"]
+[FEN "r6r/1b2kp2/1p2p3/1N1pn2p/6pP/2PBN1P1/1R3PK1/3R4 w - - 5 32"]
+[SetUp "1"]
+
+32. Be2 d4+ 33. Kf1 dxe3 *

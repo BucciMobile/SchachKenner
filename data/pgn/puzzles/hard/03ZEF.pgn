@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03ZEF"]
+[Difficulty "hard"]
+[Rating "2537"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/v6W2sPHq#49"]
+[Solution "h1g1 c7c1 d5e7 g8h8"]
+[SolutionSAN "Kg1 Qxc1 Nxe7+ Kh8"]
+[FEN "2r3k1/2q1b1pp/p3P3/1p1N4/8/1Q3rn1/PP3BP1/2R2R1K w - - 1 25"]
+[SetUp "1"]
+
+25. Kg1 Qxc1 26. Nxe7+ Kh8 *

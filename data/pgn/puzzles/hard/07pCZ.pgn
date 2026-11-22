@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07pCZ"]
+[Difficulty "hard"]
+[Rating "1841"]
+[Themes "crushing defensiveMove endgame long rookEndgame skewer"]
+[GameUrl "https://lichess.org/game/sIO3DXs4#55"]
+[Solution "e2e4 c3c1 f1e2 c1h1 d5d6 h1b1"]
+[SolutionSAN "e4 Rc1+ Ke2 Rxh1 d6 Rb1"]
+[FEN "7k/p4p1p/6p1/3P4/8/2r3P1/4PP1P/5K1R w - - 0 28"]
+[SetUp "1"]
+
+28. e4 Rc1+ 29. Ke2 Rxh1 30. d6 Rb1 *

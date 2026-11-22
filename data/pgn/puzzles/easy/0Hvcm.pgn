@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hvcm"]
+[Difficulty "easy"]
+[Rating "1178"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/TpRSwhPk#35"]
+[Solution "g1h1 e4g3"]
+[SolutionSAN "Kh1 Ng3#"]
+[FEN "r1b2rk1/p2n2p1/1pp4p/3p1p2/3Pn3/2NQPP1P/PPB2qPN/R3R1K1 w - - 1 18"]
+[SetUp "1"]
+
+18. Kh1 Ng3# *

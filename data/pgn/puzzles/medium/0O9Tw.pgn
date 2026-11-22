@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0O9Tw"]
+[Difficulty "medium"]
+[Rating "1386"]
+[Themes "endgame mate mateIn2 short xRayAttack"]
+[GameUrl "https://lichess.org/game/GkuoUB1D#53"]
+[Solution "h2h1 e3h3 g4h3 d7h3"]
+[SolutionSAN "Kh1 Rh3+ Qxh3 Qxh3#"]
+[FEN "7k/p2q3p/1p6/8/3p2QP/4r3/PPP2r1K/R5R1 w - - 4 27"]
+[SetUp "1"]
+
+27. Kh1 Rh3+ 28. Qxh3 Qxh3# *

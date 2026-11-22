@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07CVs"]
+[Difficulty "medium"]
+[Rating "1644"]
+[Themes "crushing defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/5ZftBjhH#55"]
+[Solution "b7b8 g8h7 b8c8 h3c8"]
+[SolutionSAN "Qb8+ Kh7 Qc8 Qxc8"]
+[FEN "6k1/pQ3pp1/1p5p/4p3/4P3/2N2P1q/Pr1r2PP/R5RK w - - 1 28"]
+[SetUp "1"]
+
+28. Qb8+ Kh7 29. Qc8 Qxc8 *

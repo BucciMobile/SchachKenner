@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "071RZ"]
+[Difficulty "easy"]
+[Rating "1012"]
+[Themes "crushing endgame long master rookEndgame"]
+[GameUrl "https://lichess.org/game/zxbWn4d6#113"]
+[Solution "f4g5 f7f6 e5f6 g7f7 g5f4 f7f6"]
+[SolutionSAN "Kg5 Rxf6 exf6+ Kf7 Kf4 Kxf6"]
+[FEN "8/5rk1/4pRp1/4P2p/5K1P/6P1/8/8 w - - 9 57"]
+[SetUp "1"]
+
+57. Kg5 Rxf6 58. exf6+ Kf7 59. Kf4 Kxf6 *

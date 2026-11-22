@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DFHD"]
+[Difficulty "easy"]
+[Rating "898"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/FnHqBND6#91"]
+[Solution "e5e6 g4g3 h2g1 e2e1"]
+[SolutionSAN "e6 g3+ Kg1 Re1#"]
+[FEN "8/7R/p2R4/1p2P1k1/1P4pp/7P/4r1PK/8 w - - 2 46"]
+[SetUp "1"]
+
+46. e6 g3+ 47. Kg1 Re1# *

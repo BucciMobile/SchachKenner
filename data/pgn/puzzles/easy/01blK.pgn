@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01blK"]
+[Difficulty "easy"]
+[Rating "881"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/gUVg1MDR#89"]
+[Solution "g2h2 b1h1"]
+[SolutionSAN "Kh2 Rh1#"]
+[FEN "8/p1P5/3p2k1/P1Pq1p1p/1P3Q1P/6P1/5RK1/1r6 w - - 3 45"]
+[SetUp "1"]
+
+45. Kh2 Rh1# *

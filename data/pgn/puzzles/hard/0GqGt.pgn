@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GqGt"]
+[Difficulty "hard"]
+[Rating "1833"]
+[Themes "clearance crushing endgame master pin veryLong"]
+[GameUrl "https://lichess.org/game/okAx79cF#65"]
+[Solution "d1d2 b2d2 c3d2 b7b1 g1f2 b8b2 d2b2 b1b2"]
+[SolutionSAN "Rd2 Rxd2 Qxd2 Qb1+ Kf2 Rb2 Qxb2 Qxb2+"]
+[FEN "1r4k1/1q3p1p/6p1/R1p5/2P2P2/2Q1P3/1r4PP/3R2K1 w - - 5 33"]
+[SetUp "1"]
+
+33. Rd2 Rxd2 34. Qxd2 Qb1+ 35. Kf2 Rb2 36. Qxb2 Qxb2+ *

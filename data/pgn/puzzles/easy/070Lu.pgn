@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "070Lu"]
+[Difficulty "easy"]
+[Rating "1056"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/6wsLff59#57"]
+[Solution "f3g5 e8e1"]
+[SolutionSAN "Ng5 Re1#"]
+[FEN "4r2k/2Rb3p/1n1q2pQ/pp3p2/7P/1B3N2/PP3PP1/6K1 w - - 0 29"]
+[SetUp "1"]
+
+29. Ng5 Re1# *

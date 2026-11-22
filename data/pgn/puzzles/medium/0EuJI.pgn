@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EuJI"]
+[Difficulty "medium"]
+[Rating "1545"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/xR8zhEaJ#49"]
+[Solution "a1b1 f5e4 d2e3 e4d3"]
+[SolutionSAN "Rab1 fxe4 Qe3 exd3+"]
+[FEN "r4rk1/1p5p/p2p2p1/2pP1p2/2PqP1P1/P2B4/3QK1PP/R4R2 w - - 0 25"]
+[SetUp "1"]
+
+25. Rab1 fxe4 26. Qe3 exd3+ *

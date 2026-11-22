@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "029IP"]
+[Difficulty "easy"]
+[Rating "1080"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/J8nKmH4n#69"]
+[Solution "a3d6 e2e1 b1a2 e1a1"]
+[SolutionSAN "Qd6 Re1+ Ka2 Ra1#"]
+[FEN "1r4k1/6b1/2p3R1/p2p4/P7/QP6/2P1r3/1K6 w - - 0 35"]
+[SetUp "1"]
+
+35. Qd6 Re1+ 36. Ka2 Ra1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JBPU"]
+[Difficulty "hard"]
+[Rating "2395"]
+[Themes "crushing fork long middlegame"]
+[GameUrl "https://lichess.org/game/G6q7sox9/black#60"]
+[Solution "e7f8 b5d7 f7f6 d7e7 f8g8 f5d5"]
+[SolutionSAN "Kf8 Qd7 f6 Qe7+ Kg8 Rd5"]
+[FEN "1r6/qp2kppp/r7/pQ3R2/5P2/n7/KP6/4R3 b - - 3 30"]
+[SetUp "1"]
+
+30... Kf8 31. Qd7 f6 32. Qe7+ Kg8 33. Rd5 *

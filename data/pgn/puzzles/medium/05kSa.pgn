@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05kSa"]
+[Difficulty "medium"]
+[Rating "1396"]
+[Themes "endgame mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/Mf3qS8o1/black#76"]
+[Solution "c7e6 a1a8"]
+[SolutionSAN "Ne6 Ra8#"]
+[FEN "2kb4/1pn3p1/1B4p1/1pP2p2/6r1/5K2/8/R2R4 b - - 3 38"]
+[SetUp "1"]
+
+38... Ne6 39. Ra8# *

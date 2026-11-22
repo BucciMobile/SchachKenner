@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BdUG"]
+[Difficulty "easy"]
+[Rating "1089"]
+[Themes "mate mateIn2 middlegame pillsburysMate sacrifice short"]
+[GameUrl "https://lichess.org/game/46xVj5F7#51"]
+[Solution "e1d1 f2f1 h1f1 f8f1"]
+[SolutionSAN "Kd1 Qf1+ Rxf1 Rxf1#"]
+[FEN "r4rk1/1p6/3p3p/p2Pp1b1/4B3/P7/1PQ1NqP1/1R2K2R w K - 1 26"]
+[SetUp "1"]
+
+26. Kd1 Qf1+ 27. Rxf1 Rxf1# *

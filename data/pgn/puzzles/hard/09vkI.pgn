@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09vkI"]
+[Difficulty "hard"]
+[Rating "1874"]
+[Themes "equality opening short"]
+[GameUrl "https://lichess.org/game/AIp1IPkz/black#16"]
+[Solution "d4c3 d2c3 a5c7 e5f6"]
+[SolutionSAN "dxc3 Bxc3 Qc7 exf6"]
+[FEN "rnb1kb1r/pp3ppp/4pn2/q3P3/3p4/P1N5/1PPB2PP/R2QKBNR b KQkq - 2 8"]
+[SetUp "1"]
+
+8... dxc3 9. Bxc3 Qc7 10. exf6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07hjL"]
+[Difficulty "medium"]
+[Rating "1400"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/CxwGzvOK/black#34"]
+[Solution "h5g4 c4b5 d7b5 b3b5"]
+[SolutionSAN "hxg4 Bb5 Qxb5 Qxb5+"]
+[FEN "r3k2r/pp1q1p2/3p1pb1/4p2p/2BpP1P1/1QPP3P/PP3P2/R4RK1 b kq - 1 17"]
+[SetUp "1"]
+
+17... hxg4 18. Bb5 Qxb5 19. Qxb5+ *

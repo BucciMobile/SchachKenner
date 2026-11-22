@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0APab"]
+[Difficulty "medium"]
+[Rating "1569"]
+[Themes "attraction crushing endgame fork sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/KgSomakC/black#58"]
+[Solution "d7c8 e2e8 c6d8 e8d8 c8d8 c5e6 d8e7 e6f4"]
+[SolutionSAN "Kc8 Re8+ Nd8 Rxd8+ Kxd8 Ne6+ Ke7 Nxf4"]
+[FEN "8/2pk2pp/p1n5/1pN5/5q2/2P5/PPK1R2P/8 b - - 0 29"]
+[SetUp "1"]
+
+29... Kc8 30. Re8+ Nd8 31. Rxd8+ Kxd8 32. Ne6+ Ke7 33. Nxf4 *

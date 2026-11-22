@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06UPO"]
+[Difficulty "easy"]
+[Rating "1153"]
+[Themes "crushing fork long middlegame"]
+[GameUrl "https://lichess.org/game/jpEiFjDF#13"]
+[Solution "e5f7 d4f2 e1d1 c8g4 h5g4 h6g4"]
+[SolutionSAN "Nxf7 Qf2+ Kd1 Bg4+ Qxg4 Nxg4"]
+[FEN "rnb1k2r/ppp2ppp/7n/2b1N2Q/2BqpP2/8/PPPP2PP/RNB1K2R w KQkq - 5 7"]
+[SetUp "1"]
+
+7. Nxf7 Qf2+ 8. Kd1 Bg4+ 9. Qxg4 Nxg4 *

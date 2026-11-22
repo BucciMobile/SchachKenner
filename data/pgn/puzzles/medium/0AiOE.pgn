@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AiOE"]
+[Difficulty "medium"]
+[Rating "1569"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/Fv9UQNA1/black#26"]
+[Solution "b2a1 d4b3 c5e3 b3a1"]
+[SolutionSAN "Qxa1 Nb3 Bxe3 Nxa1"]
+[FEN "2r1k1nr/pp1b1p1p/4p3/2bpP1p1/3N4/P3B2P/1qB2PP1/RN1Q1RK1 b k - 1 13"]
+[SetUp "1"]
+
+13... Qxa1 14. Nb3 Bxe3 15. Nxa1 *

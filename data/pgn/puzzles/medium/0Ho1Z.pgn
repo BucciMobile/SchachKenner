@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ho1Z"]
+[Difficulty "medium"]
+[Rating "1676"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/UwJaxbrC/black#26"]
+[Solution "c7c5 f4e3 c5c3 b2c3"]
+[SolutionSAN "Qc5 Be3 Qxc3 bxc3"]
+[FEN "r3k2r/ppq1bppp/4pn2/3pN3/3n1B2/2N5/PPP2PPP/R2QR1K1 b kq - 1 13"]
+[SetUp "1"]
+
+13... Qc5 14. Be3 Qxc3 15. bxc3 *

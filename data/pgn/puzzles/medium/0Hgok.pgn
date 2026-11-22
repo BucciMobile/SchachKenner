@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hgok"]
+[Difficulty "medium"]
+[Rating "1440"]
+[Themes "backRankMate deflection mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/i7QAbRuh#43"]
+[Solution "b4a5 g7d4 g1h1 e1f1"]
+[SolutionSAN "Qxa5 Bd4+ Kh1 Rxf1#"]
+[FEN "2r3k1/1p3pbp/p5p1/q2p4/PQ3P2/8/1P1P2PP/1RB1rRK1 w - - 5 22"]
+[SetUp "1"]
+
+22. Qxa5 Bd4+ 23. Kh1 Rxf1# *

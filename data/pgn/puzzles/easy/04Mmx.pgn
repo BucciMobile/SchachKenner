@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Mmx"]
+[Difficulty "easy"]
+[Rating "409"]
+[Themes "advancedPawn endgame mate mateIn2 promotion short"]
+[GameUrl "https://lichess.org/game/GntOxvvC/black#80"]
+[Solution "a6e6 f3f8 e8f8 e7f8q"]
+[SolutionSAN "Re6 Rf8+ Rxf8 exf8=Q#"]
+[FEN "4r1k1/4P1pb/r6p/p1p1p3/P2p2PP/1P3R2/2P2R2/6K1 b - - 0 40"]
+[SetUp "1"]
+
+40... Re6 41. Rf8+ Rxf8 42. exf8=Q# *

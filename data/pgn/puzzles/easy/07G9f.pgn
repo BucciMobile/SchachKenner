@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07G9f"]
+[Difficulty "easy"]
+[Rating "1180"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/iPAoRy9e/black#24"]
+[Solution "e7b4 a5c7"]
+[SolutionSAN "Qb4 Qc7#"]
+[FEN "2kr1b1r/pp1nqppp/2p1b3/Q2p4/3P1B2/5N2/PPP1BPPP/R4RK1 b - - 1 12"]
+[SetUp "1"]
+
+12... Qb4 13. Qc7# *

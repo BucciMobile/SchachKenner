@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JRFf"]
+[Difficulty "hard"]
+[Rating "1986"]
+[Themes "crushing endgame long pawnEndgame quietMove"]
+[GameUrl "https://lichess.org/game/H9KokgUA#93"]
+[Solution "d3c4 b7b6 a4a5 b6b5 c4c5 e5e4"]
+[SolutionSAN "Kc4 b6 a5 b5+ Kxc5 Kxe4"]
+[FEN "8/1p6/p7/2p1k3/P3P3/3KP3/8/8 w - - 0 47"]
+[SetUp "1"]
+
+47. Kc4 b6 48. a5 b5+ 49. Kxc5 Kxe4 *

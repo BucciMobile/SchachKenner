@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M7ho"]
+[Difficulty "medium"]
+[Rating "1491"]
+[Themes "advantage fork opening short"]
+[GameUrl "https://lichess.org/game/w4Y7KqN6/black#18"]
+[Solution "e7e6 b3b7 a8b8 b7c6"]
+[SolutionSAN "e6 Qxb7 Rb8 Qxc6+"]
+[FEN "r3kb1r/pp2pppp/2n2n2/q7/2B3b1/PQN2N2/1P1P1PPP/R1B1K2R b KQkq - 4 9"]
+[SetUp "1"]
+
+9... e6 10. Qxb7 Rb8 11. Qxc6+ *

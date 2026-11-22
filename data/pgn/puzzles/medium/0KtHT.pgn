@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KtHT"]
+[Difficulty "medium"]
+[Rating "1436"]
+[Themes "advantage deflection endgame long"]
+[GameUrl "https://lichess.org/game/BbEDbWZG/black#62"]
+[Solution "f8e6 f7g8 d8d7 f1f7 d7c6 g8c8"]
+[SolutionSAN "Ne6 Qg8+ Kd7 Rf7+ Kc6 Qxc8"]
+[FEN "2rk1n2/2p2Q1p/1p1q2p1/4p3/8/8/P2P2PP/5R1K b - - 5 31"]
+[SetUp "1"]
+
+31... Ne6 32. Qg8+ Kd7 33. Rf7+ Kc6 34. Qxc8 *

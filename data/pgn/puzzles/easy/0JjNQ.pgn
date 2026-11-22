@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JjNQ"]
+[Difficulty "easy"]
+[Rating "988"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/UaSimRka/black#28"]
+[Solution "a1f6 d6f8"]
+[SolutionSAN "Qf6 Qf8#"]
+[FEN "r1b1k1nr/pp1p1p1p/3Qp1p1/8/2B5/B7/P3KPPP/q6R b kq - 1 14"]
+[SetUp "1"]
+
+14... Qf6 15. Qf8# *

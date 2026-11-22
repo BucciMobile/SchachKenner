@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AdGM"]
+[Difficulty "medium"]
+[Rating "1238"]
+[Themes "advancedPawn crushing endgame short"]
+[GameUrl "https://lichess.org/game/5FczFLKP#69"]
+[Solution "c7c5 b4b3 c5c3 b3b2"]
+[SolutionSAN "Rxc5 b3 Rxc3 b2"]
+[FEN "8/2R2ppk/1r5p/2p5/1p3B2/2p3P1/5P1P/6K1 w - - 2 35"]
+[SetUp "1"]
+
+35. Rxc5 b3 36. Rxc3 b2 *

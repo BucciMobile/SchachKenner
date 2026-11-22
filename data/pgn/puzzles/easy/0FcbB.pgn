@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FcbB"]
+[Difficulty "easy"]
+[Rating "912"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/iFRjnIbd/black#76"]
+[Solution "f4g2 d1h5 e6h6 h5h6"]
+[SolutionSAN "Nxg2 Qxh5+ Rh6 Qxh6#"]
+[FEN "2r4k/8/p1PBr3/4Pp1p/P3pn2/6RP/5qRK/3Q4 b - - 1 38"]
+[SetUp "1"]
+
+38... Nxg2 39. Qxh5+ Rh6 40. Qxh6# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LsO9"]
+[Difficulty "medium"]
+[Rating "1437"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/tcv0RQUI#37"]
+[Solution "c3b5 c7c4 d3c4 b6c4"]
+[SolutionSAN "Nb5 Qxc4 Qxc4 Nxc4"]
+[FEN "r1b1r1k1/ppq2p1p/1n1p1bp1/3P4/1PB5/2NQB1N1/5PPP/R3K2R w KQ - 1 19"]
+[SetUp "1"]
+
+19. Nb5 Qxc4 20. Qxc4 Nxc4 *

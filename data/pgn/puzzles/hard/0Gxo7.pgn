@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gxo7"]
+[Difficulty "hard"]
+[Rating "2160"]
+[Themes "crushing long master middlegame"]
+[GameUrl "https://lichess.org/game/5J3p9Ymb/black#90"]
+[Solution "g7h7 d4d7 e6d7 d2d7 h7h6 d7d8"]
+[SolutionSAN "Kh7 Qd7+ Qxd7 Rxd7+ Kh6 Rd8"]
+[FEN "7r/p1P3k1/4q1p1/5p2/3QbP2/6Pr/3R1K2/5N2 b - - 0 45"]
+[SetUp "1"]
+
+45... Kh7 46. Qd7+ Qxd7 47. Rxd7+ Kh6 48. Rd8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KABf"]
+[Difficulty "hard"]
+[Rating "1821"]
+[Themes "crushing defensiveMove deflection endgame exposedKing rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/IwkK7zpM/black#110"]
+[Solution "h5g5 g4f4 g7g6 b8h8 h6g7 f4g5 g7h8 g5g6"]
+[SolutionSAN "Rg5+ Kf4 g6 Rh8+ Kg7 Kxg5 Kxh8 Kxg6"]
+[FEN "1R6/6p1/7k/5P1r/6K1/8/8/8 b - - 1 55"]
+[SetUp "1"]
+
+55... Rg5+ 56. Kf4 g6 57. Rh8+ Kg7 58. Kxg5 Kxh8 59. Kxg6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08zLJ"]
+[Difficulty "medium"]
+[Rating "1333"]
+[Themes "backRankMate endgame fork long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/GySCAejv/black#48"]
+[Solution "b2c3 e7f7 g8h8 f7f8 a8f8 f1f8"]
+[SolutionSAN "Qxc3 Qf7+ Kh8 Qf8+ Rxf8 Rxf8#"]
+[FEN "r5k1/3bQ1pp/3pp3/p1p5/4P3/2NP3P/1q4P1/5R1K b - - 1 24"]
+[SetUp "1"]
+
+24... Qxc3 25. Qf7+ Kh8 26. Qf8+ Rxf8 27. Rxf8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06N3U"]
+[Difficulty "medium"]
+[Rating "1604"]
+[Themes "advantage long master middlegame pin"]
+[GameUrl "https://lichess.org/game/EaK30gWq#51"]
+[Solution "c3b5 b4b5 c4b5 c7c1 d1c1 c8c1"]
+[SolutionSAN "Nxb5 Qxb5 cxb5 Rxc1 Qxc1 Rxc1+"]
+[FEN "2r3k1/2r1bbpp/3p1p2/1p2pP2/1qP1P3/1PN2RP1/4B2P/2RQ2K1 w - - 0 26"]
+[SetUp "1"]
+
+26. Nxb5 Qxb5 27. cxb5 Rxc1 28. Qxc1 Rxc1+ *

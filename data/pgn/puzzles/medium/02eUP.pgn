@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02eUP"]
+[Difficulty "medium"]
+[Rating "1379"]
+[Themes "crushing fork opening short"]
+[GameUrl "https://lichess.org/game/pdbkEmBv#17"]
+[Solution "c3e4 f5e4 d3e2 e4f3"]
+[SolutionSAN "Nxe4 fxe4 Be2 exf3"]
+[FEN "rn2k2r/pbppq1pp/1p2p3/5p2/2PPn3/2NBPN2/PP3PPP/R2QK2R w KQkq - 0 9"]
+[SetUp "1"]
+
+9. Nxe4 fxe4 10. Be2 exf3 *

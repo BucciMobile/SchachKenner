@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OCGB"]
+[Difficulty "medium"]
+[Rating "1665"]
+[Themes "advantage fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/IpKaju1E/black#40"]
+[Solution "c7b7 e4e6 f7e6 h6e6 b7e7 e6g8"]
+[SolutionSAN "Qb7 Rxe6+ fxe6 Qxe6+ Qe7 Qxg8+"]
+[FEN "r3k1r1/p1q2p1p/3bp2Q/1p6/2p1RB2/7P/PP3PP1/R5K1 b q - 2 20"]
+[SetUp "1"]
+
+20... Qb7 21. Rxe6+ fxe6 22. Qxe6+ Qe7 23. Qxg8+ *

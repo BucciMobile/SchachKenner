@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09gkF"]
+[Difficulty "hard"]
+[Rating "2473"]
+[Themes "crushing hangingPiece long middlegame"]
+[GameUrl "https://lichess.org/game/XQMu7nLh#49"]
+[Solution "g2e4 b7b6 g1g2 e7h4 g3h4 h8h4"]
+[SolutionSAN "Bxe4+ Kxb6 Kg2 Bh4 gxh4 Rxh4"]
+[FEN "1n1r3r/1kq1b1p1/1N2p3/1Pp5/Q2pb3/P3P1P1/1B4B1/2RR2K1 w - - 1 25"]
+[SetUp "1"]
+
+25. Bxe4+ Kxb6 26. Kg2 Bh4 27. gxh4 Rxh4 *

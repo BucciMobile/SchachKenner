@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01BRf"]
+[Difficulty "easy"]
+[Rating "1043"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/3av5uIrJ/black#84"]
+[Solution "g3f4 b5d3 c2b3 d3g6"]
+[SolutionSAN "Bf4 Bd3+ Kb3 Bxg6"]
+[FEN "8/p7/1p3Nnp/1B4p1/1P4P1/P3p1bP/2k1K3/8 b - - 1 42"]
+[SetUp "1"]
+
+42... Bf4 43. Bd3+ Kb3 44. Bxg6 *

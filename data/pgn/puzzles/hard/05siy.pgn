@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05siy"]
+[Difficulty "hard"]
+[Rating "2156"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/OLs9SKGH#67"]
+[Solution "b5c7 d5c4 a6c4 e5c4"]
+[SolutionSAN "Nc7 Bc4 Qxc4 Nxc4"]
+[FEN "4rbk1/5pp1/Q2p2qp/1N1bn3/P3P3/7P/2BBRPP1/6K1 w - - 0 34"]
+[SetUp "1"]
+
+34. Nc7 Bc4 35. Qxc4 Nxc4 *

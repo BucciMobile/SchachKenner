@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Cej"]
+[Difficulty "hard"]
+[Rating "2178"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/ENQckCes#49"]
+[Solution "e1e3 d4e3 c2e2 f6e6"]
+[SolutionSAN "Rxe3 Bxe3 Qe2 Qe6"]
+[FEN "6k1/2p2ppp/2pp1q2/p4b2/2Pb1P2/P3r3/1PQ3PP/4RR1K w - - 2 25"]
+[SetUp "1"]
+
+25. Rxe3 Bxe3 26. Qe2 Qe6 *

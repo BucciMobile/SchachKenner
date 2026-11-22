@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Npb"]
+[Difficulty "hard"]
+[Rating "2089"]
+[Themes "bishopEndgame crushing deflection endgame long"]
+[GameUrl "https://lichess.org/game/Q1lmmoFb#81"]
+[Solution "h4g5 f5f4 e3f4 e4d4 f4f5 g6f5"]
+[SolutionSAN "Kg5 f4 exf4 Kxd4 f5 gxf5"]
+[FEN "8/8/2p3p1/2P2p1b/3Bk2K/4P3/7P/8 w - - 15 41"]
+[SetUp "1"]
+
+41. Kg5 f4 42. exf4 Kxd4 43. f5 gxf5 *

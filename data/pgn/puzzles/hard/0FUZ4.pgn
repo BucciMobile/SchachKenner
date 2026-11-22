@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FUZ4"]
+[Difficulty "hard"]
+[Rating "2092"]
+[Themes "advancedPawn crushing endgame long promotion"]
+[GameUrl "https://lichess.org/game/hSMbNv2u/black#148"]
+[Solution "g6g7 e4e5 e7e5 c5e5 e8e5 b7b8q"]
+[SolutionSAN "Kg7 Qxe5+ Qxe5 Rxe5 Rxe5 b8=Q"]
+[FEN "4r3/KP2q3/6kp/2R1b3/4Q2P/8/8/8 b - - 2 74"]
+[SetUp "1"]
+
+74... Kg7 75. Qxe5+ Qxe5 76. Rxe5 Rxe5 77. b8=Q *

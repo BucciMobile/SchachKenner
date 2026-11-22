@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03pMI"]
+[Difficulty "medium"]
+[Rating "1567"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/beaH1Rfl/black#44"]
+[Solution "d7f5 f4f5 g6f5 b5c6"]
+[SolutionSAN "Qf5 Qxf5 Bxf5 Bxc6"]
+[FEN "6k1/1ppqrpp1/p1n3bp/1BNp4/3P1Q2/2P2P1P/PP4P1/R5K1 b - - 1 22"]
+[SetUp "1"]
+
+22... Qf5 23. Qxf5 Bxf5 24. Bxc6 *

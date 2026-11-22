@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ESpP"]
+[Difficulty "easy"]
+[Rating "924"]
+[Themes "endgame killBoxMate mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/1a6lQcxX#57"]
+[Solution "a1a2 c4a4"]
+[SolutionSAN "Kxa2 Ra4#"]
+[FEN "8/5Qpk/p7/8/2rbP1PP/8/rPq5/KR5R w - - 0 29"]
+[SetUp "1"]
+
+29. Kxa2 Ra4# *

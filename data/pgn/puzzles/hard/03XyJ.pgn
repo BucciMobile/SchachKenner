@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03XyJ"]
+[Difficulty "hard"]
+[Rating "1909"]
+[Themes "advantage discoveredAttack endgame master short"]
+[GameUrl "https://lichess.org/game/R9HLBfdj/black#42"]
+[Solution "e8e7 a5d8 h8d8 a8a4"]
+[SolutionSAN "Ke7 Bd8+ Rhxd8 Qxa4"]
+[FEN "Q3k2r/1p3ppp/4p3/B2r4/q7/2P2P2/1KP4P/7R b k - 1 21"]
+[SetUp "1"]
+
+21... Ke7 22. Bd8+ Rhxd8 23. Qxa4 *

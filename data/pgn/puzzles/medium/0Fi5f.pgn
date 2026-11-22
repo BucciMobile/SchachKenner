@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fi5f"]
+[Difficulty "medium"]
+[Rating "1691"]
+[Themes "advantage discoveredAttack discoveredCheck middlegame short"]
+[GameUrl "https://lichess.org/game/6jC9m4Sf#35"]
+[Solution "d6f8 e6c4 f3e5 d7e5"]
+[SolutionSAN "Bxf8 Bc4+ Ne5+ Nxe5"]
+[FEN "2r1qbr1/p2n1k2/Q2Bbn1p/6p1/3P4/3B1N2/PPP2PPP/RN2K2R w KQ - 3 18"]
+[SetUp "1"]
+
+18. Bxf8 Bc4+ 19. Ne5+ Nxe5 *

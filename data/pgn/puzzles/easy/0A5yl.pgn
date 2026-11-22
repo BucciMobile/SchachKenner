@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A5yl"]
+[Difficulty "easy"]
+[Rating "995"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/IFw1kXDs/black#102"]
+[Solution "a3a2 c5c8"]
+[SolutionSAN "a2 Rc8#"]
+[FEN "7k/1r5p/5K2/2R5/3p4/p3p3/8/8 b - - 0 51"]
+[SetUp "1"]
+
+51... a2 52. Rc8# *

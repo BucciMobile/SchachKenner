@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gx8K"]
+[Difficulty "easy"]
+[Rating "1197"]
+[Themes "clearance crushing endgame short"]
+[GameUrl "https://lichess.org/game/GAUfcc07#43"]
+[Solution "c1c2 c8c2 d3c2 f8c8"]
+[SolutionSAN "Rc2 Rxc2 Bxc2 Rc8"]
+[FEN "2r2rk1/5pp1/pp2p3/3b2p1/1P1P4/P2BR3/5PPP/2R3K1 w - - 2 22"]
+[SetUp "1"]
+
+22. Rc2 Rxc2 23. Bxc2 Rc8 *

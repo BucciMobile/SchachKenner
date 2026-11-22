@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06PGy"]
+[Difficulty "medium"]
+[Rating "1267"]
+[Themes "epauletteMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/tsI7yxTv/black#58"]
+[Solution "h6g4 h3h8 f8e7 e5c7"]
+[SolutionSAN "Ng4 Rh8+ Ke7 Qc7#"]
+[FEN "r3rk2/1p3pp1/pPp1pq1n/R1PpQ3/1P1P1P2/3B3R/6PP/6K1 b - - 2 29"]
+[SetUp "1"]
+
+29... Ng4 30. Rh8+ Ke7 31. Qc7# *

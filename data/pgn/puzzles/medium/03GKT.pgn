@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03GKT"]
+[Difficulty "medium"]
+[Rating "1244"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/P44rSmJn/black#30"]
+[Solution "d4f2 c2f2 b6f2 g1f2"]
+[SolutionSAN "Bxf2+ Qxf2 Qxf2+ Kxf2"]
+[FEN "r4rk1/pp1b1ppp/1qn5/8/3b1B2/2NB3P/PPQ2PP1/R3R1K1 b - - 5 15"]
+[SetUp "1"]
+
+15... Bxf2+ 16. Qxf2 Qxf2+ 17. Kxf2 *

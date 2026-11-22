@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00urx"]
+[Difficulty "medium"]
+[Rating "1671"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/S8w5Y0yO#85"]
+[Solution "h2g1 e5f6 f5f6 g7f6"]
+[SolutionSAN "Kg1 Qxf6 Qxf6+ Kxf6"]
+[FEN "8/4r1k1/2P2R1p/4qQp1/3p4/7P/6PK/8 w - - 5 43"]
+[SetUp "1"]
+
+43. Kg1 Qxf6 44. Qxf6+ Kxf6 *

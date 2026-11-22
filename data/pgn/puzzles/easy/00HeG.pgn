@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00HeG"]
+[Difficulty "easy"]
+[Rating "851"]
+[Themes "crushing endgame master queenEndgame short"]
+[GameUrl "https://lichess.org/game/Fe29uA9P#65"]
+[Solution "f6h4 g6h6 h4h6 h7h6"]
+[SolutionSAN "Qh4+ Qh6+ Qxh6+ Kxh6"]
+[FEN "8/1p5k/p3pQq1/3pP3/2p3P1/2P5/PP6/2K5 w - - 3 33"]
+[SetUp "1"]
+
+33. Qh4+ Qh6+ 34. Qxh6+ Kxh6 *

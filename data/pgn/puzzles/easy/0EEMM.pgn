@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EEMM"]
+[Difficulty "easy"]
+[Rating "632"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/l1gJ4to4#15"]
+[Solution "f7b3 h4f2"]
+[SolutionSAN "Bb3 Qf2#"]
+[FEN "rnb2knr/pppp1B1p/8/2b1N3/4Pppq/8/PPPP2PP/RNBQ1K1R w - - 1 8"]
+[SetUp "1"]
+
+8. Bb3 Qf2# *

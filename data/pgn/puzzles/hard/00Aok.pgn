@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Aok"]
+[Difficulty "hard"]
+[Rating "2231"]
+[Themes "crushing intermezzo middlegame veryLong"]
+[GameUrl "https://lichess.org/game/kVjMAqKr#45"]
+[Solution "f2f7 c3e3 g1h1 f8f7 a7a8 g8g7 f1f7 g7f7 a8e8 f7f6"]
+[SolutionSAN "Rxf7 Qe3+ Kh1 Rxf7 Qa8+ Kg7 Rxf7+ Kxf7 Qe8+ Kf6"]
+[FEN "5rk1/Q2B1p1p/4p1p1/3p4/3N2b1/2q5/Pr3RPP/5RK1 w - - 0 23"]
+[SetUp "1"]
+
+23. Rxf7 Qe3+ 24. Kh1 Rxf7 25. Qa8+ Kg7 26. Rxf7+ Kxf7 27. Qe8+ Kf6 *

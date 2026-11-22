@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ER2R"]
+[Difficulty "easy"]
+[Rating "539"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/rKiYJg16/black#64"]
+[Solution "h7f7 e5e8"]
+[SolutionSAN "Rhf7 Re8#"]
+[FEN "2k5/ppp4r/6p1/4R3/5r2/P1P3K1/1P3P2/3R4 b - - 0 32"]
+[SetUp "1"]
+
+32... Rhf7 33. Re8# *

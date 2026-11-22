@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ib26"]
+[Difficulty "hard"]
+[Rating "2725"]
+[Themes "advantage endgame long quietMove"]
+[GameUrl "https://lichess.org/game/v15yOLYl#49"]
+[Solution "f4e3 c8h3 d1c1 e2f3 c1c8 h3c8"]
+[SolutionSAN "Be3 Bh3 Rc1 Qf3 Rc8+ Bxc8"]
+[FEN "2b3k1/p4pbp/1p4p1/3P4/Q4B2/6P1/P3qP1P/3R2K1 w - - 2 25"]
+[SetUp "1"]
+
+25. Be3 Bh3 26. Rc1 Qf3 27. Rc8+ Bxc8 *

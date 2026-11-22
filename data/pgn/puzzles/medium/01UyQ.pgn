@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01UyQ"]
+[Difficulty "medium"]
+[Rating "1584"]
+[Themes "advancedPawn crushing endgame long pin"]
+[GameUrl "https://lichess.org/game/4Rze3FMZ#67"]
+[Solution "f6f8 d3d2 e1d1 c3c1 g1h2 c1d1"]
+[SolutionSAN "Rf8 d2 Rd1 Rc1 Kh2 Rxd1"]
+[FEN "4r3/3NP1kp/2p2Rp1/5p2/8/2rp3P/5PP1/4R1K1 w - - 2 34"]
+[SetUp "1"]
+
+34. Rf8 d2 35. Rd1 Rc1 36. Kh2 Rxd1 *

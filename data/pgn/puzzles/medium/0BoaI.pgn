@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BoaI"]
+[Difficulty "medium"]
+[Rating "1389"]
+[Themes "advantage long middlegame pin"]
+[GameUrl "https://lichess.org/game/VG8GZBe0/black#56"]
+[Solution "g7g2 b1g1 h2g1 a1g1 g2g1 f2g1"]
+[SolutionSAN "Rxg2 Rg1 Qxg1 Rxg1 Rxg1 Qxg1+"]
+[FEN "5rk1/2p3rp/3p4/2pPpb2/2P1Np2/P4P2/4KQPq/RR6 b - - 1 28"]
+[SetUp "1"]
+
+28... Rxg2 29. Rg1 Qxg1 30. Rxg1 Rxg1 31. Qxg1+ *

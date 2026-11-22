@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05nKb"]
+[Difficulty "medium"]
+[Rating "1448"]
+[Themes "crushing master middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/lZZDPNUo#35"]
+[Solution "c4b3 c5c4 b3c4 b5c4"]
+[SolutionSAN "Bb3 c4 Bxc4 bxc4"]
+[FEN "r3r2k/6pp/p1n2p2/1pp2b2/2B2P2/2P2N1P/PP3PP1/3R1K1R w - - 0 18"]
+[SetUp "1"]
+
+18. Bb3 c4 19. Bxc4 bxc4 *

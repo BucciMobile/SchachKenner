@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0L1ky"]
+[Difficulty "medium"]
+[Rating "1270"]
+[Themes "crushing discoveredAttack middlegame pin short"]
+[GameUrl "https://lichess.org/game/Mr0XCr9b#41"]
+[Solution "e1f1 e4g3 f4g3 h4d4"]
+[SolutionSAN "Rf1 Ng3+ Bxg3 Qxd4"]
+[FEN "r5k1/1b3ppp/p7/3p4/3QnB1q/1B6/PPP3PP/4R2K w - - 3 21"]
+[SetUp "1"]
+
+21. Rf1 Ng3+ 22. Bxg3 Qxd4 *

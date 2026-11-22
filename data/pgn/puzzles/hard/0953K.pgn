@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0953K"]
+[Difficulty "hard"]
+[Rating "1984"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/W5umZq69/black#88"]
+[Solution "b4d2 f1g2 a3g3 h2g3"]
+[SolutionSAN "Bd2 Kg2 Rxg3+ hxg3"]
+[FEN "8/8/6R1/p4ppp/1b3Nk1/r5P1/7P/5K2 b - - 1 44"]
+[SetUp "1"]
+
+44... Bd2 45. Kg2 Rxg3+ 46. hxg3 *

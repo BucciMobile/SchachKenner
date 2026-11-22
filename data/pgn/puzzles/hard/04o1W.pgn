@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04o1W"]
+[Difficulty "hard"]
+[Rating "1939"]
+[Themes "advantage middlegame quietMove short"]
+[GameUrl "https://lichess.org/game/dhV7aAxW#35"]
+[Solution "a6c4 f8c8 c4f7 g8f7"]
+[SolutionSAN "Bc4 Rfc8 Bxf7+ Kxf7"]
+[FEN "1q3rk1/3p1ppp/Bp3n2/2r5/4P3/5P2/PP4PP/2RQ1RK1 w - - 1 18"]
+[SetUp "1"]
+
+18. Bc4 Rfc8 19. Bxf7+ Kxf7 *

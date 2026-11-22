@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J8xt"]
+[Difficulty "medium"]
+[Rating "1566"]
+[Themes "crushing defensiveMove endgame master short"]
+[GameUrl "https://lichess.org/game/yu6QCszY#89"]
+[Solution "f7e6 d7c7 e6c8 c7c8"]
+[SolutionSAN "Qe6+ Kc7 Qxc8+ Kxc8"]
+[FEN "2n5/3kpQ2/3p2R1/p2P1N2/Pp3q1p/1P3P1K/1P4P1/2r5 w - - 2 45"]
+[SetUp "1"]
+
+45. Qe6+ Kc7 46. Qxc8+ Kxc8 *

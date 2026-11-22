@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Imac"]
+[Difficulty "easy"]
+[Rating "639"]
+[Themes "mate mateIn2 middlegame pillsburysMate short"]
+[GameUrl "https://lichess.org/game/00UfaxfO#55"]
+[Solution "f5d7 c7c1 a1c1 c8c1"]
+[SolutionSAN "Bxd7 Rxc1+ Rxc1 Rxc1#"]
+[FEN "2r3k1/p1rb1pp1/7p/5B2/3N4/P3P1bP/3P2P1/R1R3K1 w - - 5 28"]
+[SetUp "1"]
+
+28. Bxd7 Rxc1+ 29. Rxc1 Rxc1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AGsu"]
+[Difficulty "easy"]
+[Rating "851"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/F2aPRhXI#47"]
+[Solution "d1d6 f6e4 d6d5 e4f2"]
+[SolutionSAN "Rxd6 Nxe4 Rd5 Nxf2"]
+[FEN "4rk2/p4ppp/3r1n2/1p6/2p1PPPP/2P5/PP3B2/2KR4 w - - 0 24"]
+[SetUp "1"]
+
+24. Rxd6 Nxe4 25. Rd5 Nxf2 *

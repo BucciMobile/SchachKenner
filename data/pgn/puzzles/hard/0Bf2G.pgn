@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bf2G"]
+[Difficulty "hard"]
+[Rating "2037"]
+[Themes "crushing endgame long pawnEndgame quietMove"]
+[GameUrl "https://lichess.org/game/gYHdonxV/black#106"]
+[Solution "e8d7 c4c5 a3a2 c3b2 a2a1q b2a1"]
+[SolutionSAN "Kd7 c5 a2 Kb2 a1=Q+ Kxa1"]
+[FEN "4k3/1p6/8/3P4/2P5/p1K5/8/8 b - - 1 53"]
+[SetUp "1"]
+
+53... Kd7 54. c5 a2 55. Kb2 a1=Q+ 56. Kxa1 *

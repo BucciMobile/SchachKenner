@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "066Ja"]
+[Difficulty "easy"]
+[Rating "1096"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/MPfnCgPw#51"]
+[Solution "h1g1 e4e2 e1e2 e6e2"]
+[SolutionSAN "Rhg1 Qxe2+ Rxe2 Rxe2#"]
+[FEN "4r1k1/8/4rp2/P2p3p/2pBqPp1/2Q3Pb/1P2PK1P/4R2R w - - 1 26"]
+[SetUp "1"]
+
+26. Rhg1 Qxe2+ 27. Rxe2 Rxe2# *

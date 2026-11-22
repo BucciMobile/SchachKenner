@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01YXn"]
+[Difficulty "easy"]
+[Rating "950"]
+[Themes "crushing hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/5LNdfjMW#27"]
+[Solution "c3e4 f6e4 g5d8 e4d2"]
+[SolutionSAN "Ne4 Nxe4 Bxd8 Nxd2"]
+[FEN "r1bq1rk1/p4pbp/5np1/4p1B1/3p4/2N5/PPPQBPPP/2R2RK1 w - - 0 14"]
+[SetUp "1"]
+
+14. Ne4 Nxe4 15. Bxd8 Nxd2 *

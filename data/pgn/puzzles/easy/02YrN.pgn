@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02YrN"]
+[Difficulty "easy"]
+[Rating "867"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/YAX7QF9F/black#36"]
+[Solution "c6d8 b5e8"]
+[SolutionSAN "Nd8 Qe8#"]
+[FEN "rr4k1/1b3ppp/2np1q2/pQ2p3/Pp2P3/3P1N2/1P2BPPP/R4RK1 b - - 7 18"]
+[SetUp "1"]
+
+18... Nd8 19. Qe8# *

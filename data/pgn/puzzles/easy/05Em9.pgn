@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Em9"]
+[Difficulty "easy"]
+[Rating "602"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/uW2xcw4q/black#30"]
+[Solution "d5e3 e4h7"]
+[SolutionSAN "Nxe3 Qh7#"]
+[FEN "r1b2rk1/ppq2pp1/2p1pb1p/3n2N1/4QP1P/3BB3/PPP3P1/2KR3R b - - 3 15"]
+[SetUp "1"]
+
+15... Nxe3 16. Qh7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CaZo"]
+[Difficulty "easy"]
+[Rating "986"]
+[Themes "advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/D24qxsAH#55"]
+[Solution "g1h2 f3f2 h2h1 f2e1"]
+[SolutionSAN "Kxh2 Qf2+ Kh1 Qxe1+"]
+[FEN "r4b2/p2RP3/1p3k2/2p2pp1/Q7/2P2qP1/P6r/4R1K1 w - - 0 28"]
+[SetUp "1"]
+
+28. Kxh2 Qf2+ 29. Kh1 Qxe1+ *

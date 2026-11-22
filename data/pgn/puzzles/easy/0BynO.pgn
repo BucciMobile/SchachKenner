@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BynO"]
+[Difficulty "easy"]
+[Rating "611"]
+[Themes "kingsideAttack master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/KroKWSQi#43"]
+[Solution "f5d4 c6g2"]
+[SolutionSAN "Nd4 Qxg2#"]
+[FEN "4rbk1/1pp2pp1/2qpb1rp/p4N1Q/1nP2P1R/1P2P3/PB4PP/RB4K1 w - - 2 22"]
+[SetUp "1"]
+
+22. Nd4 Qxg2# *

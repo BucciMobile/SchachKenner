@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04wVs"]
+[Difficulty "hard"]
+[Rating "2182"]
+[Themes "crushing fork hangingPiece intermezzo middlegame pin short"]
+[GameUrl "https://lichess.org/game/ZlZGGJSB#53"]
+[Solution "c1c7 d4a1 a3b1 c8c7"]
+[SolutionSAN "Rxc7 Qxa1+ Nb1 Rxc7"]
+[FEN "2r1b1k1/1pr3p1/p3p1B1/3pPpQ1/3q4/N6P/5PP1/R1R3K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Rxc7 Qxa1+ 28. Nb1 Rxc7 *

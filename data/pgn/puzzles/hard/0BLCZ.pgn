@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BLCZ"]
+[Difficulty "hard"]
+[Rating "1968"]
+[Themes "crushing master masterVsMaster middlegame short superGM trappedPiece"]
+[GameUrl "https://lichess.org/game/5rzWWixt#45"]
+[Solution "e2e4 b8b5 d5b5 b4b5"]
+[SolutionSAN "Re4 Rb5 Qxb5 Qxb5"]
+[FEN "1rr2bk1/5ppp/3p4/p2Q4/1q1B4/1P6/2P1RPPP/1K1R4 w - - 1 23"]
+[SetUp "1"]
+
+23. Re4 Rb5 24. Qxb5 Qxb5 *

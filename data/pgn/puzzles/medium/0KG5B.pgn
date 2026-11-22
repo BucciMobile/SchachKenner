@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KG5B"]
+[Difficulty "medium"]
+[Rating "1612"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/WSVOmfMt#51"]
+[Solution "f3g4 e7g5 d4f5 g5d2"]
+[SolutionSAN "fxg4 Bxg5 Nf5 Bxd2"]
+[FEN "2k3r1/pp1nb3/2p3r1/6Pp/1P1N2b1/q1BP1P2/P1PQ2B1/R3R1K1 w - - 1 26"]
+[SetUp "1"]
+
+26. fxg4 Bxg5 27. Nf5 Bxd2 *

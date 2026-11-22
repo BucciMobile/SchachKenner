@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0PAXo"]
+[Difficulty "medium"]
+[Rating "1220"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/OlVv9ivs/black#46"]
+[Solution "f6e4 f7e8 f5f8 e8f8"]
+[SolutionSAN "Nxe4 Qe8+ Qf8 Qxf8#"]
+[FEN "r1b4k/pp3Qpp/2p2n2/5q2/3PRp2/5P2/PP3BPP/R5K1 b - - 0 23"]
+[SetUp "1"]
+
+23... Nxe4 24. Qe8+ Qf8 25. Qxf8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Abiv"]
+[Difficulty "easy"]
+[Rating "593"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/jgjqPcOC/black#48"]
+[Solution "b2e2 c6c8 b8c8 c5c8"]
+[SolutionSAN "Rxe2 Rc8+ Rxc8 Rxc8#"]
+[FEN "1r4k1/5ppp/2R1p3/2RpPn2/3P4/5P2/1r2NPKP/8 b - - 0 24"]
+[SetUp "1"]
+
+24... Rxe2 25. Rc8+ Rxc8 26. Rxc8# *

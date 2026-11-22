@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ARtb"]
+[Difficulty "hard"]
+[Rating "1915"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame operaMate sacrifice"]
+[GameUrl "https://lichess.org/game/NufG7PcT/black#38"]
+[Solution "g7g6 h5h7 g8h7 g3h3 h7g8 h3h8"]
+[SolutionSAN "g6 Qxh7+ Kxh7 Rh3+ Kg8 Rh8#"]
+[FEN "r5k1/1p1nrppp/pn6/3pB2Q/2qP4/2N3R1/PP3PPP/R5K1 b - - 6 19"]
+[SetUp "1"]
+
+19... g6 20. Qxh7+ Kxh7 21. Rh3+ Kg8 22. Rh8# *

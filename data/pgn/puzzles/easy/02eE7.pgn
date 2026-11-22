@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02eE7"]
+[Difficulty "easy"]
+[Rating "977"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/BTTyTQji/black#44"]
+[Solution "c6a4 b3b8 a8b8 c2a4"]
+[SolutionSAN "Qxa4 Rb8+ Rxb8 Qxa4+"]
+[FEN "r3k2r/p1p1bpp1/2q1p3/4P1p1/P3N3/1Rp1P2P/2Q2PP1/4K2R b Kkq - 3 22"]
+[SetUp "1"]
+
+22... Qxa4 23. Rb8+ Rxb8 24. Qxa4+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FVOL"]
+[Difficulty "hard"]
+[Rating "2291"]
+[Themes "endgame mate mateIn2 short swallowstailMate"]
+[GameUrl "https://lichess.org/game/HHiZR55F#85"]
+[Solution "e1e2 c1d1 e2e3 d1d3"]
+[SolutionSAN "Ke2 Qd1+ Ke3 Qd3#"]
+[FEN "8/pp5k/8/4P2p/b1p2P2/2P4P/P4Q1R/2q1K3 w - - 4 43"]
+[SetUp "1"]
+
+43. Ke2 Qd1+ 44. Ke3 Qd3# *

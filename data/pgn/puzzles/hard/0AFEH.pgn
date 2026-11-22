@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AFEH"]
+[Difficulty "hard"]
+[Rating "2087"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/ePYBiUNH#87"]
+[Solution "a7b8 f8f7 b8c7 f7g6"]
+[SolutionSAN "Qb8+ Kf7 Qc7+ Kg6"]
+[FEN "5k2/Q5p1/p1b1Rp2/1p2p3/4P1P1/2P2Pq1/PPB4r/2K5 w - - 3 44"]
+[SetUp "1"]
+
+44. Qb8+ Kf7 45. Qc7+ Kg6 *

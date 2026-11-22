@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LZQq"]
+[Difficulty "hard"]
+[Rating "1800"]
+[Themes "advantage defensiveMove endgame pin short"]
+[GameUrl "https://lichess.org/game/nOT1DtVO#75"]
+[Solution "b8e5 f6f7 e5b8 c1f1"]
+[SolutionSAN "Qe5+ Kf7 Qb8 Rxf1+"]
+[FEN "1Q6/6pp/4pk2/5p2/3Pp3/4n3/6P1/2r2NK1 w - - 0 38"]
+[SetUp "1"]
+
+38. Qe5+ Kf7 39. Qb8 Rxf1+ *

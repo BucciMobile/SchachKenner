@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "042Gi"]
+[Difficulty "hard"]
+[Rating "2593"]
+[Themes "advancedPawn crushing endgame knightEndgame veryLong"]
+[GameUrl "https://lichess.org/game/9YZsqsrs/black#70"]
+[Solution "f6e6 h4h5 g6h5 g4h5 a2b4 d6d7 b4c6 h5h6 e6f7 e4d5"]
+[SolutionSAN "Ke6 h5 gxh5 gxh5 Nb4 d7 Nc6 h6 Kf7 Kd5"]
+[FEN "8/p7/1p1P1kp1/8/4KPPP/8/nP6/8 b - - 0 35"]
+[SetUp "1"]
+
+35... Ke6 36. h5 gxh5 37. gxh5 Nb4 38. d7 Nc6 39. h6 Kf7 40. Kd5 *

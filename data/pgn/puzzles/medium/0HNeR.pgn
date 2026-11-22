@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HNeR"]
+[Difficulty "medium"]
+[Rating "1638"]
+[Themes "crushing deflection middlegame pin short"]
+[GameUrl "https://lichess.org/game/1OuIBd9P/black#26"]
+[Solution "c8e6 f3g5 f7g6 g5e6"]
+[SolutionSAN "Be6 Ng5+ Kg6 Nxe6"]
+[FEN "rnbq3r/ppp2k1p/1b3p2/8/2QP4/5N2/PPP3PP/RN3RK1 b - - 0 13"]
+[SetUp "1"]
+
+13... Be6 14. Ng5+ Kg6 15. Nxe6 *

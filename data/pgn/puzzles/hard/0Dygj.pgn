@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dygj"]
+[Difficulty "hard"]
+[Rating "2184"]
+[Themes "advancedPawn crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/bDCW05YV/black#146"]
+[Solution "e7h7 a6a7 b8a8 c6c7"]
+[SolutionSAN "Rh7 a7+ Ka8 c7"]
+[FEN "1k6/4r3/PPP5/2K5/8/8/8/8 b - - 0 73"]
+[SetUp "1"]
+
+73... Rh7 74. a7+ Ka8 75. c7 *

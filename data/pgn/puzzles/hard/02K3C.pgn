@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02K3C"]
+[Difficulty "hard"]
+[Rating "2191"]
+[Themes "crushing long opening trappedPiece"]
+[GameUrl "https://lichess.org/game/rSiFHwLh/black#22"]
+[Solution "c8g4 d5c6 b7c6 d2b4 a3b4 b1b4"]
+[SolutionSAN "Bg4 dxc6 bxc6 Bb4 Qxb4+ Rxb4"]
+[FEN "r1b1kb1r/pp2pppp/2n2n2/3P4/2B5/q4N2/P2B1PPP/1R1QK2R b Kkq - 2 11"]
+[SetUp "1"]
+
+11... Bg4 12. dxc6 bxc6 13. Bb4 Qxb4+ 14. Rxb4 *

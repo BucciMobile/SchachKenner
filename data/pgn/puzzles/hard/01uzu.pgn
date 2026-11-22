@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01uzu"]
+[Difficulty "hard"]
+[Rating "1889"]
+[Themes "crushing endgame quietMove rookEndgame short"]
+[GameUrl "https://lichess.org/game/yHuaUKKZ/black#84"]
+[Solution "c5d4 a3a4 b8b7 b2a3"]
+[SolutionSAN "cxd4 a4 Rb7 Ka3"]
+[FEN "1r6/3k4/3p1p2/2p1p1p1/2PBP1Pp/Pp1P1P1P/1K6/1R6 b - - 0 42"]
+[SetUp "1"]
+
+42... cxd4 43. a4 Rb7 44. Ka3 *

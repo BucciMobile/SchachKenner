@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Jpe"]
+[Difficulty "easy"]
+[Rating "926"]
+[Themes "mate mateIn1 middlegame oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/AhvO6fCO/black#60"]
+[Solution "h8g7 h6h7"]
+[SolutionSAN "Kg7 Rh7#"]
+[FEN "3rqr1k/pp1n4/5b1R/2PBp3/1P1p4/P2Q1NP1/6K1/8 b - - 0 30"]
+[SetUp "1"]
+
+30... Kg7 31. Rh7# *

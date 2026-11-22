@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02EhX"]
+[Difficulty "hard"]
+[Rating "1861"]
+[Themes "crushing discoveredAttack discoveredCheck exposedKing long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/Vu1Mbuuk/black#38"]
+[Solution "c7b6 f1b1 a7a6 b5d7 b6a7 d7e8"]
+[SolutionSAN "Kb6 Rb1 a6 Bxd7+ Ka7 Bxe8"]
+[FEN "r1b1r3/ppkn3p/5n2/1B6/4p3/2R2N2/2PP1PPP/5RK1 b - - 1 19"]
+[SetUp "1"]
+
+19... Kb6 20. Rb1 a6 21. Bxd7+ Ka7 22. Bxe8 *

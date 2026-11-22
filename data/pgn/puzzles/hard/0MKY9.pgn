@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MKY9"]
+[Difficulty "hard"]
+[Rating "2560"]
+[Themes "crushing endgame exposedKing skewer veryLong"]
+[GameUrl "https://lichess.org/game/Evr91WUS/black#76"]
+[Solution "e3e4 d1d8 c3g3 d8g8 g6h5 g8g3 e4d4 a1b1"]
+[SolutionSAN "Qxe4 Qd8 Rg3 Qg8+ Kh5 Qxg3 Qd4+ Kb1"]
+[FEN "8/1pp4p/4p1k1/p3p3/4P2P/2r1q3/P5P1/K2Q1R2 b - - 2 38"]
+[SetUp "1"]
+
+38... Qxe4 39. Qd8 Rg3 40. Qg8+ Kh5 41. Qxg3 Qd4+ 42. Kb1 *

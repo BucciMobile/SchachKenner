@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Alkz"]
+[Difficulty "hard"]
+[Rating "1764"]
+[Themes "advantage defensiveMove long middlegame"]
+[GameUrl "https://lichess.org/game/e38aERxK/black#58"]
+[Solution "e5f5 c2f5 g5f5 f3f5 e8e3 h3g2"]
+[SolutionSAN "Rxf5 Qxf5 Qxf5+ Rxf5 Re3+ Kg2"]
+[FEN "4r1k1/ppb2pp1/2p5/3prPqp/P7/2N2R1K/1PQ2N2/R7 b - - 1 29"]
+[SetUp "1"]
+
+29... Rxf5 30. Qxf5 Qxf5+ 31. Rxf5 Re3+ 32. Kg2 *

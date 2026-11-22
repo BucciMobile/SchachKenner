@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Gar"]
+[Difficulty "medium"]
+[Rating "1459"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/ajN1vR8x/black#30"]
+[Solution "c8d7 d1d5 d7e6 d5c5"]
+[SolutionSAN "Bd7 Qxd5+ Be6 Qxc5"]
+[FEN "r1bq2k1/pp4p1/2n3rp/2bp1p2/5P2/2P2N2/PP4PP/RNBQR2K b - - 3 15"]
+[SetUp "1"]
+
+15... Bd7 16. Qxd5+ Be6 17. Qxc5 *

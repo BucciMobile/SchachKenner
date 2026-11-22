@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NzRV"]
+[Difficulty "medium"]
+[Rating "1223"]
+[Themes "crushing endgame long xRayAttack"]
+[GameUrl "https://lichess.org/game/Qge8d61I#75"]
+[Solution "d4d5 f6a1 d2d1 a1d1 d5d1 d8d1"]
+[SolutionSAN "Rxd5 Qa1+ Qd1 Qxd1+ Rxd1 Rxd1+"]
+[FEN "3r2k1/1p3p2/5qpp/3p4/P2R1P2/6P1/3Q2BP/7K w - - 1 38"]
+[SetUp "1"]
+
+38. Rxd5 Qa1+ 39. Qd1 Qxd1+ 40. Rxd1 Rxd1+ *

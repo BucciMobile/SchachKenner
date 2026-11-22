@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03mRM"]
+[Difficulty "hard"]
+[Rating "2080"]
+[Themes "advantage defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/OQRoUsNy/black#50"]
+[Solution "f4h3 g2h3 g5f3 g1f1"]
+[SolutionSAN "Nfh3+ gxh3 Nf3+ Kf1"]
+[FEN "2kr3r/pp4R1/3qp2p/2p3n1/P1BPNnp1/2P5/1P4P1/R3Q1K1 b - - 1 25"]
+[SetUp "1"]
+
+25... Nfh3+ 26. gxh3 Nf3+ 27. Kf1 *

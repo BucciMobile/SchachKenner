@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Jd8"]
+[Difficulty "hard"]
+[Rating "2197"]
+[Themes "crushing defensiveMove endgame hangingPiece master short"]
+[GameUrl "https://lichess.org/game/BC10c2tg#73"]
+[Solution "b5b6 f3d1 b1b2 e7d7"]
+[SolutionSAN "b6 Qxd1+ Kb2 Rd7"]
+[FEN "5k2/4r1p1/P4p2/1PP4p/2Q5/4Pq2/5P2/1K1R4 w - - 1 37"]
+[SetUp "1"]
+
+37. b6 Qxd1+ 38. Kb2 Rd7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IyAr"]
+[Difficulty "medium"]
+[Rating "1305"]
+[Themes "advantage endgame short trappedPiece"]
+[GameUrl "https://lichess.org/game/N0W1Bzmg/black#48"]
+[Solution "a7a5 d1a1 a2a1 c3a1"]
+[SolutionSAN "a5 Ra1 Qxa1+ Qxa1"]
+[FEN "r4rk1/p2p3p/2pNp1p1/5p2/2P5/1PQ5/q4PPP/3R1K2 b - - 3 24"]
+[SetUp "1"]
+
+24... a5 25. Ra1 Qxa1+ 26. Qxa1 *

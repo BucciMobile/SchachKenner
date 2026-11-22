@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BCjS"]
+[Difficulty "medium"]
+[Rating "1602"]
+[Themes "advancedPawn bishopEndgame crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/aAsrN405#93"]
+[Solution "f5f6 b4b3 a5a6 b7a6 e5d6 b3b2 g6g7 f8f7 g7g8b f7g8"]
+[SolutionSAN "f6 b3 a6 Bxa6 Kd6 b2 g7+ Kf7 g8=B+ Kxg8"]
+[FEN "5k2/1bP5/6P1/P3KP1p/1p5P/8/8/8 w - - 0 47"]
+[SetUp "1"]
+
+47. f6 b3 48. a6 Bxa6 49. Kd6 b2 50. g7+ Kf7 51. g8=B+ Kxg8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "042En"]
+[Difficulty "hard"]
+[Rating "2622"]
+[Themes "crushing endgame hangingPiece veryLong"]
+[GameUrl "https://lichess.org/game/JURFdUB0/black#50"]
+[Solution "e8e3 a6c8 g5d5 g2g1 d5e4 e1f1 e3e2 f1f2 e2f2 g1f2"]
+[SolutionSAN "Rxe3 Qxc8 Qd5+ Kg1 Qe4 Rf1 Re2 Rf2 Rxf2 Kxf2"]
+[FEN "2r1r3/5pkp/Q2p2p1/p5q1/8/2P1P1P1/P5KP/R3R3 b - - 0 25"]
+[SetUp "1"]
+
+25... Rxe3 26. Qxc8 Qd5+ 27. Kg1 Qe4 28. Rf1 Re2 29. Rf2 Rxf2 30. Kxf2 *

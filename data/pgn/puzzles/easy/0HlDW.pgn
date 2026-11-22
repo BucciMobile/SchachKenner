@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HlDW"]
+[Difficulty "easy"]
+[Rating "1088"]
+[Themes "advancedPawn crushing endgame fork long promotion"]
+[GameUrl "https://lichess.org/game/rn95RuoL/black#88"]
+[Solution "a2a6 c6b4 d3e3 b4a6 f4f3 a7a8q"]
+[SolutionSAN "Ra6 Nb4+ Ke3 Nxa6 f3 a8=Q"]
+[FEN "8/P5pp/2N5/8/5p2/3k3P/r7/1K6 b - - 1 44"]
+[SetUp "1"]
+
+44... Ra6 45. Nb4+ Ke3 46. Nxa6 f3 47. a8=Q *

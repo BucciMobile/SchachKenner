@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IgJT"]
+[Difficulty "hard"]
+[Rating "1729"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/ZBio1Awe/black#36"]
+[Solution "f6d5 c3d5 c7d5 c4d5"]
+[SolutionSAN "Nfxd5 Nxd5 Nxd5 cxd5"]
+[FEN "q4rk1/2n1Rpbp/3p1np1/2pP4/2P2B2/r1N2N1P/P4PP1/R1Q3K1 b - - 0 18"]
+[SetUp "1"]
+
+18... Nfxd5 19. Nxd5 Nxd5 20. cxd5 *

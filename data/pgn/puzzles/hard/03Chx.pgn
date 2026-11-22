@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Chx"]
+[Difficulty "hard"]
+[Rating "2385"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/Gpg42LQF#121"]
+[Solution "f4g5 h6g5 h4g3 f5f4 g3f2 f6e6"]
+[SolutionSAN "fxg5+ hxg5+ Kg3 f4+ Kf2 Ke6"]
+[FEN "8/8/5k1p/5pp1/5PPK/7P/8/8 w - - 0 61"]
+[SetUp "1"]
+
+61. fxg5+ hxg5+ 62. Kg3 f4+ 63. Kf2 Ke6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EO68"]
+[Difficulty "hard"]
+[Rating "2109"]
+[Themes "crushing interference master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/ljXJo2GK/black#42"]
+[Solution "c4d2 f2f4 g5f6 d3d2"]
+[SolutionSAN "Nd2 f4 Qf6 Qxd2"]
+[FEN "2r1k2r/5pp1/p3p2p/6q1/PpnPP3/3Q4/1PB2P1P/1R3R1K b k - 2 21"]
+[SetUp "1"]
+
+21... Nd2 22. f4 Qf6 23. Qxd2 *

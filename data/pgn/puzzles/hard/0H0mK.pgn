@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H0mK"]
+[Difficulty "hard"]
+[Rating "2234"]
+[Themes "clearance crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/O8f1JAzK/black#184"]
+[Solution "g3g4 e5e6 g4f4 e3e5 e1a1 e5e2"]
+[SolutionSAN "Kg4 Ke6 Kf4 Re5 Ra1 Rxe2"]
+[FEN "8/8/5P2/4K3/8/4R1k1/4p3/4r3 b - - 2 92"]
+[SetUp "1"]
+
+92... Kg4 93. Ke6 Kf4 94. Re5 Ra1 95. Rxe2 *

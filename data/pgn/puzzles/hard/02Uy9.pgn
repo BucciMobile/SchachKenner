@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Uy9"]
+[Difficulty "hard"]
+[Rating "2301"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/p2HhZtaC#57"]
+[Solution "c2f5 b8f8 f5f8 g7f8"]
+[SolutionSAN "Qxf5 Rf8 Qxf8+ Bxf8"]
+[FEN "1r4k1/1r4b1/2p5/q1PpppNp/P2P2p1/4P1PP/2Q2KP1/RR6 w - - 0 29"]
+[SetUp "1"]
+
+29. Qxf5 Rf8 30. Qxf8+ Bxf8 *

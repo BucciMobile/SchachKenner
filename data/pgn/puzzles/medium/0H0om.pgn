@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H0om"]
+[Difficulty "medium"]
+[Rating "1604"]
+[Themes "advantage capturingDefender master middlegame short"]
+[GameUrl "https://lichess.org/game/yk8a9jTY/black#44"]
+[Solution "f5e4 b5c7 e8c8 a6d6"]
+[SolutionSAN "fxe4 Nxc7 Qc8 Qxd6"]
+[FEN "4qrk1/2pb3n/Q2p2p1/1N1Ppp1p/2P1P2B/4bP2/4B1PP/5R1K b - - 3 22"]
+[SetUp "1"]
+
+22... fxe4 23. Nxc7 Qc8 24. Qxd6 *

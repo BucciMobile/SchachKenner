@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04TFa"]
+[Difficulty "hard"]
+[Rating "2682"]
+[Themes "advantage opening sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/o9olxwYP/black#14"]
+[Solution "c8h3 f3h3 g2h1 h3c8 e8e7 e1f1 b8d7 c8a8"]
+[SolutionSAN "Bh3 Qxh3 Qxh1 Qc8+ Ke7 Kf1 Nbd7 Qxa8"]
+[FEN "rnb1kb1r/pp3ppp/2p2n2/4p3/8/1B1P1Q2/PPP2PqP/RNB1K1NR b KQkq - 1 7"]
+[SetUp "1"]
+
+7... Bh3 8. Qxh3 Qxh1 9. Qc8+ Ke7 10. Kf1 Nbd7 11. Qxa8 *

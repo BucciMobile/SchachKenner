@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CMY3"]
+[Difficulty "hard"]
+[Rating "1903"]
+[Themes "mate mateIn2 middlegame pin short"]
+[GameUrl "https://lichess.org/game/KkhstcYK/black#26"]
+[Solution "f8e8 d1b3 d6d5 b3d5"]
+[SolutionSAN "Re8 Qb3+ d5 Qxd5#"]
+[FEN "r2q1r2/pppnbk1p/3p1npB/8/3PP3/2P5/PP4PP/RN1Q1RK1 b - - 2 13"]
+[SetUp "1"]
+
+13... Re8 14. Qb3+ d5 15. Qxd5# *

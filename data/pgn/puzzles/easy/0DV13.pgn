@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DV13"]
+[Difficulty "easy"]
+[Rating "633"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/nsJCxiD7#75"]
+[Solution "e5e6 a2a1"]
+[SolutionSAN "e6 Ra1#"]
+[FEN "3k4/p7/6R1/4P1Np/6n1/8/r4PP1/6K1 w - - 1 38"]
+[SetUp "1"]
+
+38. e6 Ra1# *

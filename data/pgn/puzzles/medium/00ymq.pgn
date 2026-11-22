@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00ymq"]
+[Difficulty "medium"]
+[Rating "1557"]
+[Themes "clearance crushing middlegame short"]
+[GameUrl "https://lichess.org/game/V4mcVabC#61"]
+[Solution "a2a4 e4g3 f2g3 f5c2"]
+[SolutionSAN "a4 Nxg3 fxg3 Qc2"]
+[FEN "Q7/4ppbk/6pp/5q2/4n3/4PNBP/Pr3PP1/3R2K1 w - - 2 31"]
+[SetUp "1"]
+
+31. a4 Nxg3 32. fxg3 Qc2 *

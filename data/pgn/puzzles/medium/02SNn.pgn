@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02SNn"]
+[Difficulty "medium"]
+[Rating "1503"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/jVajhVF7#73"]
+[Solution "g2f3 f5h3 g1h2 h3f1"]
+[SolutionSAN "gxf3 Bxh3 Kh2 Bxf1"]
+[FEN "4r3/7k/6pp/2P2b2/1p1Q4/1P3p1P/P5P1/4rBK1 w - - 0 37"]
+[SetUp "1"]
+
+37. gxf3 Bxh3 38. Kh2 Bxf1 *

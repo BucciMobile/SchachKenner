@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "009YT"]
+[Difficulty "easy"]
+[Rating "687"]
+[Themes "backRankMate hangingPiece mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/EwnhF9QF/black#46"]
+[Solution "d6e5 d1d8"]
+[SolutionSAN "dxe5 Rxd8#"]
+[FEN "rqnr2k1/5ppp/p2p4/4Q3/8/1P5P/PBP2PP1/R2R2K1 b - - 2 23"]
+[SetUp "1"]
+
+23... dxe5 24. Rxd8# *

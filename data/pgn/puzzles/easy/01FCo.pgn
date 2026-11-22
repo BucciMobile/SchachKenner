@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01FCo"]
+[Difficulty "easy"]
+[Rating "979"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/ppE9yTN1/black#44"]
+[Solution "g7f6 d4c6 b8b7 c6e5"]
+[SolutionSAN "Bf6 Nc6+ Kxb7 Nxe5"]
+[FEN "1k2r2r/1Pp2pb1/1n1p3p/3Pq1p1/1Q1NP3/2P2P2/P4R1P/R3K3 b Q - 0 22"]
+[SetUp "1"]
+
+22... Bf6 23. Nc6+ Kxb7 24. Nxe5 *

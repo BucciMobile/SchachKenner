@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Nm9S"]
+[Difficulty "medium"]
+[Rating "1602"]
+[Themes "attraction discoveredCheck doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/FyyUSMB5#63"]
+[Solution "c7f4 g2g1 h1g1 f3g2"]
+[SolutionSAN "Qf4 Rxg1+ Kxg1 Qg2#"]
+[FEN "8/p1Q3pk/1p3p2/8/1P1Pp3/P3Pq1b/2P2PrB/2R3RK w - - 8 32"]
+[SetUp "1"]
+
+32. Qf4 Rxg1+ 33. Kxg1 Qg2# *

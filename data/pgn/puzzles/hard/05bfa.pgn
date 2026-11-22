@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05bfa"]
+[Difficulty "hard"]
+[Rating "2686"]
+[Themes "advancedPawn crushing endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/ThtIaAdC#97"]
+[Solution "h7h6 f4a4 g7g5 a3a2"]
+[SolutionSAN "Kxh6 Ra4 Rg5 a2"]
+[FEN "5k2/6RK/7p/7P/5rP1/p7/8/8 w - - 0 49"]
+[SetUp "1"]
+
+49. Kxh6 Ra4 50. Rg5 a2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Dl6"]
+[Difficulty "hard"]
+[Rating "2524"]
+[Themes "crushing deflection exposedKing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/n2fEcM7n/black#80"]
+[Solution "e7d6 h6f5 d6e5 d1e1 e5f4 f7e6 f4f3 f5h4"]
+[SolutionSAN "Kd6 Nf5+ Ke5 Re1+ Kf4 Qxe6 Kxf3 Nh4+"]
+[FEN "8/bp2kQp1/p3np1N/3r4/P1q3P1/5P2/1P5P/3R3K b - - 3 40"]
+[SetUp "1"]
+
+40... Kd6 41. Nf5+ Ke5 42. Re1+ Kf4 43. Qxe6 Kxf3 44. Nh4+ *

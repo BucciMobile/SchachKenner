@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HEY7"]
+[Difficulty "hard"]
+[Rating "1957"]
+[Themes "crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/hznLvMuP/black#68"]
+[Solution "h6g5 d3d8 h8h7 b5d3 g7g6 d8d7 h7g8 d3c4 g8f8 d7d8"]
+[SolutionSAN "hxg5 Rd8+ Kh7 Bd3+ g6 Rd7+ Kg8 Bc4+ Kf8 Rd8+"]
+[FEN "7k/6p1/7p/1Bb3P1/6P1/2PR2K1/1r3r2/4R3 b - - 0 34"]
+[SetUp "1"]
+
+34... hxg5 35. Rd8+ Kh7 36. Bd3+ g6 37. Rd7+ Kg8 38. Bc4+ Kf8 39. Rd8+ *

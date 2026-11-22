@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FEMA"]
+[Difficulty "easy"]
+[Rating "1111"]
+[Themes "advancedPawn advantage endgame short"]
+[GameUrl "https://lichess.org/game/58xFsIZF/black#96"]
+[Solution "c2c1q c8c1 d2c1 h6h7"]
+[SolutionSAN "c1=Q Rxc1 Kxc1 h7"]
+[FEN "2R5/8/5p1P/p7/6K1/r3P1P1/2pk1P2/8 b - - 0 48"]
+[SetUp "1"]
+
+48... c1=Q 49. Rxc1 Kxc1 50. h7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FsNC"]
+[Difficulty "hard"]
+[Rating "2030"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/py3Ls8MK#41"]
+[Solution "f2f3 c4e3 g2f2 e3c2"]
+[SolutionSAN "f3 Ne3+ Kf2 Nc2"]
+[FEN "rr4k1/4ppb1/3p2pp/1NpP4/P1n1P3/2B3P1/1P3PKP/RR6 w - - 2 21"]
+[SetUp "1"]
+
+21. f3 Ne3+ 22. Kf2 Nc2 *

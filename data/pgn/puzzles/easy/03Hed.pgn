@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Hed"]
+[Difficulty "easy"]
+[Rating "609"]
+[Themes "kingsideAttack master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/OlBrghMq#47"]
+[Solution "h3h6 c6g2"]
+[SolutionSAN "Qh6 Qxg2#"]
+[FEN "1r3r1k/1b5p/p1qbBnp1/4pNB1/3p4/7Q/PP3PPP/R4RK1 w - - 12 24"]
+[SetUp "1"]
+
+24. Qh6 Qxg2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FCtl"]
+[Difficulty "easy"]
+[Rating "940"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/vfDkMYcQ#35"]
+[Solution "f3e5 c6g2"]
+[SolutionSAN "Ne5 Qxg2#"]
+[FEN "r4r2/pb3pkp/1pq1p1p1/2n5/2P5/1P3N2/P1Q1BPPP/2R2RK1 w - - 0 18"]
+[SetUp "1"]
+
+18. Ne5 Qxg2# *

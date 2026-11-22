@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09cDD"]
+[Difficulty "easy"]
+[Rating "924"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/ULKHYUT9#39"]
+[Solution "c4e5 c6g2"]
+[SolutionSAN "Ne5 Qxg2#"]
+[FEN "r4rk1/ppp5/2q1ppbp/6p1/1PNP1n2/P6P/1B1QBPP1/2R2RK1 w - - 6 20"]
+[SetUp "1"]
+
+20. Ne5 Qxg2# *

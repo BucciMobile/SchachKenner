@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "057jr"]
+[Difficulty "medium"]
+[Rating "1206"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/fsR3gRsz#37"]
+[Solution "f3d4 e8e1"]
+[SolutionSAN "Nxd4 Rxe1#"]
+[FEN "r3r1k1/pp3ppp/2q2b2/2p5/3n4/5N2/PPQ2PPP/1RB1R1K1 w - - 4 19"]
+[SetUp "1"]
+
+19. Nxd4 Rxe1# *

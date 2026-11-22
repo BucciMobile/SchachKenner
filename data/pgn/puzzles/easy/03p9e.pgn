@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03p9e"]
+[Difficulty "easy"]
+[Rating "927"]
+[Themes "crushing endgame short skewer"]
+[GameUrl "https://lichess.org/game/oxnsa1E6#71"]
+[Solution "f3e4 f7e7 e4f3 e7e1"]
+[SolutionSAN "Ke4 Re7+ Kf3 Rxe1"]
+[FEN "5k2/5r2/B7/5P1p/P6b/1P3K2/5P2/4R3 w - - 1 36"]
+[SetUp "1"]
+
+36. Ke4 Re7+ 37. Kf3 Rxe1 *

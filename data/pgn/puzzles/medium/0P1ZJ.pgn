@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0P1ZJ"]
+[Difficulty "medium"]
+[Rating "1575"]
+[Themes "crushing deflection master middlegame short"]
+[GameUrl "https://lichess.org/game/j5AcHkmZ#73"]
+[Solution "g2f2 e6e3 f2f1 e3f3"]
+[SolutionSAN "Kxf2 Qxe3+ Kf1 Qxf3+"]
+[FEN "6k1/1p3p2/3bq1p1/1P1R3p/2Q5/r3PNPP/4NnK1/8 w - - 0 37"]
+[SetUp "1"]
+
+37. Kxf2 Qxe3+ 38. Kf1 Qxf3+ *

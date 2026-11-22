@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DOR0"]
+[Difficulty "hard"]
+[Rating "2414"]
+[Themes "crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/0cs4POkx/black#74"]
+[Solution "c4e2 d7f7 g8h8 d6e8 b2b7 g2b7 b8b7 f7b7"]
+[SolutionSAN "Qe2 Qxf7+ Kh8 Ne8 R2b7 Bxb7 Rxb7 Qxb7"]
+[FEN "1r4k1/3Q1pp1/3Np2p/4P2P/2qP4/6P1/1r3PBK/8 b - - 2 37"]
+[SetUp "1"]
+
+37... Qe2 38. Qxf7+ Kh8 39. Ne8 R2b7 40. Bxb7 Rxb7 41. Qxb7 *

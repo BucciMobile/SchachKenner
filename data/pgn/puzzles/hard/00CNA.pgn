@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00CNA"]
+[Difficulty "hard"]
+[Rating "2730"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/FSuTnQiL/black#26"]
+[Solution "h7h8 d1d3 d8g5 f4g5"]
+[SolutionSAN "Kh8 Qd3 Qxg5 fxg5"]
+[FEN "rnbq1r2/pp1n2bk/3pB1p1/4P1N1/5P2/2p5/PPP3P1/R1BQK3 b Q - 1 13"]
+[SetUp "1"]
+
+13... Kh8 14. Qd3 Qxg5 15. fxg5 *

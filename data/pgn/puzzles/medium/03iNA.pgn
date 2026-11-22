@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03iNA"]
+[Difficulty "medium"]
+[Rating "1322"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/RwW78rDF/black#56"]
+[Solution "e5g3 h5f6 g8f8 f6e8"]
+[SolutionSAN "Bxg3 Nf6+ Kf8 Nxe8"]
+[FEN "4q1k1/ppp2p1p/2np4/3Qb1pN/2P5/6BP/P5P1/7K b - - 1 28"]
+[SetUp "1"]
+
+28... Bxg3 29. Nf6+ Kf8 30. Nxe8 *

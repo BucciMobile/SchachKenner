@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cu1y"]
+[Difficulty "easy"]
+[Rating "871"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/WHiQ7QPF#81"]
+[Solution "e4f5 c2c5 d4d5 c5d5"]
+[SolutionSAN "Kf5 Rc5+ Rd5 Rxd5#"]
+[FEN "8/5k2/7R/1p6/p2RKPP1/P2P4/1Pr5/4r3 w - - 8 41"]
+[SetUp "1"]
+
+41. Kf5 Rc5+ 42. Rd5 Rxd5# *

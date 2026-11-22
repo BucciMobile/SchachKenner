@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00agR"]
+[Difficulty "hard"]
+[Rating "1776"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/MUIpGzM3#61"]
+[Solution "h2h3 f6e4 c2e4 e5e4"]
+[SolutionSAN "h3 Ne4+ Bxe4 Kxe4"]
+[FEN "8/5pp1/p4n1p/1p2k3/8/1PK1P3/P1B2P1P/8 w - - 2 31"]
+[SetUp "1"]
+
+31. h3 Ne4+ 32. Bxe4 Kxe4 *

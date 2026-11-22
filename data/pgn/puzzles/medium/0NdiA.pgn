@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NdiA"]
+[Difficulty "medium"]
+[Rating "1286"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/8mP9dBNZ#47"]
+[Solution "g4g5 d7e7 g5g4 h5f6"]
+[SolutionSAN "Kxg5 Qe7+ Kg4 Nf6+"]
+[FEN "2r1k2r/3q2p1/pp1p4/2n2Pbn/2P3K1/1PN2Q1p/PB2N2P/R4R2 w k - 0 24"]
+[SetUp "1"]
+
+24. Kxg5 Qe7+ 25. Kg4 Nf6+ *

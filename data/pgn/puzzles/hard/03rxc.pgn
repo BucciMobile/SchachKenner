@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03rxc"]
+[Difficulty "hard"]
+[Rating "1788"]
+[Themes "crushing fork intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/vizA4Zcv/black#40"]
+[Solution "c4d3 d7e6 g8h8 c2d3"]
+[SolutionSAN "Qxd3 Bxe6+ Kh8 cxd3"]
+[FEN "2r2rk1/1p1B2bp/pB1ppnp1/P7/2q1P1P1/2NQ1P2/1PP5/R3K2R b KQ - 0 20"]
+[SetUp "1"]
+
+20... Qxd3 21. Bxe6+ Kh8 22. cxd3 *

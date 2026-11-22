@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DAb8"]
+[Difficulty "hard"]
+[Rating "2415"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/eQdY6bbh/black#132"]
+[Solution "d5b6 a5b6 a4b4 c5c6"]
+[SolutionSAN "Nxb6 axb6 Rb4 Rc6"]
+[FEN "8/5k2/1B6/P1Rn1P2/r7/8/5K2/8 b - - 2 66"]
+[SetUp "1"]
+
+66... Nxb6 67. axb6 Rb4 68. Rc6 *

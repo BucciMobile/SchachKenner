@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ejxh"]
+[Difficulty "medium"]
+[Rating "1621"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/lhNFMZmb#83"]
+[Solution "c1b1 c4a2 b1a1 e3d4"]
+[SolutionSAN "Kb1 Ba2+ Ka1 Bd4#"]
+[FEN "8/2k5/7R/p1P2BB1/2b2P1P/P3b3/7r/2K5 w - - 5 42"]
+[SetUp "1"]
+
+42. Kb1 Ba2+ 43. Ka1 Bd4# *

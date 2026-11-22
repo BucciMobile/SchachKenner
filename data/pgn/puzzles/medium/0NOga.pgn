@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NOga"]
+[Difficulty "medium"]
+[Rating "1647"]
+[Themes "crushing defensiveMove fork hangingPiece long middlegame"]
+[GameUrl "https://lichess.org/game/6jSL9EmL/black#46"]
+[Solution "f8f3 d5a8 h8h7 a8f3 g3e4 g1h1"]
+[SolutionSAN "Rxf3 Qxa8+ Kh7 Qxf3 Ne4+ Kh1"]
+[FEN "r4r1k/6p1/1p1p2qp/1B1Q4/2P5/4PNnb/PP5P/R3R1K1 b - - 1 23"]
+[SetUp "1"]
+
+23... Rxf3 24. Qxa8+ Kh7 25. Qxf3 Ne4+ 26. Kh1 *

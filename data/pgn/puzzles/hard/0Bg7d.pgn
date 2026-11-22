@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bg7d"]
+[Difficulty "hard"]
+[Rating "1956"]
+[Themes "endgame epauletteMate long mate mateIn3"]
+[GameUrl "https://lichess.org/game/zMC6w8RY/black#80"]
+[Solution "f6g5 f3f4 g5h5 a6a5 d2d5 a5d5"]
+[SolutionSAN "Kg5 f4+ Kh5 Ra5+ Rd5 Rxd5#"]
+[FEN "8/8/R4k1p/8/1P5N/P4PK1/1r1r4/8 b - - 2 40"]
+[SetUp "1"]
+
+40... Kg5 41. f4+ Kh5 42. Ra5+ Rd5 43. Rxd5# *

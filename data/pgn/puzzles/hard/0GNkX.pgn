@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GNkX"]
+[Difficulty "hard"]
+[Rating "2015"]
+[Themes "advancedPawn kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/EyjfGGXk#37"]
+[Solution "g6f8 g3h2 g1h1 e4g3"]
+[SolutionSAN "Nxf8 gxh2+ Kh1 Ng3#"]
+[FEN "r1bq1rk1/pp4p1/2p3N1/2Pp1p2/3PnPn1/P2QB1p1/4P1BP/R4RK1 w - - 0 19"]
+[SetUp "1"]
+
+19. Nxf8 gxh2+ 20. Kh1 Ng3# *

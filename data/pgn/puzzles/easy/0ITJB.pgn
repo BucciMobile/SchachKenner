@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ITJB"]
+[Difficulty "easy"]
+[Rating "881"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/sjRUHO8z#19"]
+[Solution "f3d4 f6d4 d1d4 g7d4"]
+[SolutionSAN "Nxd4 Qxd4 Qxd4 Bxd4"]
+[FEN "rnb2rk1/pp3pbp/2pp1qp1/8/2Pp4/5NP1/PP2PPBP/R1BQ1RK1 w - - 0 10"]
+[SetUp "1"]
+
+10. Nxd4 Qxd4 11. Qxd4 Bxd4 *

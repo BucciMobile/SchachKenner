@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01d2J"]
+[Difficulty "medium"]
+[Rating "1672"]
+[Themes "clearance crushing fork middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/CklaH1ip/black#38"]
+[Solution "g7g6 f5f7 g8h8 f7e8 a8e8 e5f7 h8g7 f7d6"]
+[SolutionSAN "g6 Qf7+ Kh8 Qxe8+ Rxe8 Nf7+ Kg7 Nxd6"]
+[FEN "r3r1k1/pp4pp/2pq4/3nNQ1b/3P4/4pP1P/PP2P1B1/1K1R3R b - - 0 19"]
+[SetUp "1"]
+
+19... g6 20. Qf7+ Kh8 21. Qxe8+ Rxe8 22. Nf7+ Kg7 23. Nxd6 *

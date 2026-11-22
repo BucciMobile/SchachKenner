@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04f2V"]
+[Difficulty "easy"]
+[Rating "961"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/WqhhKmZE#59"]
+[Solution "d3c2 b4b2"]
+[SolutionSAN "Bc2 Qxb2#"]
+[FEN "2r3k1/1p3pp1/1r3b1p/2Np1P2/pq1P2PP/3B4/PP3Q2/1K1R3R w - - 2 30"]
+[SetUp "1"]
+
+30. Bc2 Qxb2# *

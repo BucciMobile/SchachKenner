@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01yU9"]
+[Difficulty "hard"]
+[Rating "1950"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/6zZ2hANU#45"]
+[Solution "d2e3 b6b2 a1f1 b2c3"]
+[SolutionSAN "Be3 Qxb2 Rf1 Qxc3"]
+[FEN "4r1k1/pp3ppb/1qpb4/3pnPP1/3N4/2N4Q/PPPB2B1/R5K1 w - - 4 23"]
+[SetUp "1"]
+
+23. Be3 Qxb2 24. Rf1 Qxc3 *

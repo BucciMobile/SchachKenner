@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01sTk"]
+[Difficulty "hard"]
+[Rating "2081"]
+[Themes "crushing enPassant endgame short"]
+[GameUrl "https://lichess.org/game/FKimk9Dm/black#68"]
+[Solution "g7g5 h5g6 f7g6 e3h6"]
+[SolutionSAN "g5 hxg6 fxg6 Qh6"]
+[FEN "6k1/5pp1/4p3/3p1q1P/2rP3R/4QPK1/8/8 b - - 4 34"]
+[SetUp "1"]
+
+34... g5 35. hxg6 fxg6 36. Qh6 *

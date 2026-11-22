@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JtpL"]
+[Difficulty "easy"]
+[Rating "959"]
+[Themes "endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/Jjo3oILc/black#60"]
+[Solution "b2b3 c6g6 f7g6 g2g6 g8h8 g6h6"]
+[SolutionSAN "Qb3 Rxg6+ fxg6 Qxg6+ Kh8 Qxh6#"]
+[FEN "3r1rk1/5p2/2R3pp/1p2p3/3PP3/2PKP3/1q4Q1/6R1 b - - 1 30"]
+[SetUp "1"]
+
+30... Qb3 31. Rxg6+ fxg6 32. Qxg6+ Kh8 33. Qxh6# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KWMC"]
+[Difficulty "hard"]
+[Rating "1803"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/IkUhM8DU#39"]
+[Solution "c4c5 b8e5 c5b6 e5a1"]
+[SolutionSAN "c5 Bxe5 cxb6 Bxa1"]
+[FEN "1bkr4/p4p1p/bqp1p1r1/3pQ3/1PP5/5N2/P2N1PPP/R1B1R1K1 w - - 5 20"]
+[SetUp "1"]
+
+20. c5 Bxe5 21. cxb6 Bxa1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08VjP"]
+[Difficulty "easy"]
+[Rating "663"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/IBoy02gn#65"]
+[Solution "b2b4 e8e1 g1h2 e1h1"]
+[SolutionSAN "b4 Re1+ Kh2 Rh1#"]
+[FEN "r3r3/3k4/p1p5/R2b4/3B1R2/6PP/1P3P2/6K1 w - - 3 33"]
+[SetUp "1"]
+
+33. b4 Re1+ 34. Kh2 Rh1# *

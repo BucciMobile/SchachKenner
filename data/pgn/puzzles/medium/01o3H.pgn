@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01o3H"]
+[Difficulty "medium"]
+[Rating "1336"]
+[Themes "attraction capturingDefender crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/uIXKzgJg#45"]
+[Solution "c4c5 a8a7 b7a7 d6c5 g1f1 c5a7"]
+[SolutionSAN "c5 Rxa7 Rxa7 Bxc5+ Kf1 Bxa7"]
+[FEN "r4rk1/BRp2pp1/3b3p/8/2P2P2/6P1/P6P/3R2K1 w - - 1 23"]
+[SetUp "1"]
+
+23. c5 Rxa7 24. Rxa7 Bxc5+ 25. Kf1 Bxa7 *

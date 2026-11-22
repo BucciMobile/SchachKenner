@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06nc2"]
+[Difficulty "medium"]
+[Rating "1700"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/6eij0Gn8/black#24"]
+[Solution "f2e4 g5e4 b6e3 g3e3"]
+[SolutionSAN "Nxe4 Nxe4 Bxe3+ Qxe3"]
+[FEN "r1bq1r2/ppp1k1pp/1bnp4/4p1N1/4P3/1BP1B1Q1/PP3nPP/RN3RK1 b - - 1 12"]
+[SetUp "1"]
+
+12... Nxe4 13. Nxe4 Bxe3+ 14. Qxe3 *

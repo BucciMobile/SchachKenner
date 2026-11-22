@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I8mi"]
+[Difficulty "hard"]
+[Rating "1724"]
+[Themes "cornerMate mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/96hYbC6E/black#26"]
+[Solution "e6f5 c3d5"]
+[SolutionSAN "exf5 Nxd5#"]
+[FEN "r2q1bnr/pp1nk1p1/4p1Qp/3pPN2/3p4/2N5/PPP3PP/R1B1K2R b KQ - 3 13"]
+[SetUp "1"]
+
+13... exf5 14. Nxd5# *

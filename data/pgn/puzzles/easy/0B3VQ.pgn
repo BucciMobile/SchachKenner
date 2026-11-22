@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B3VQ"]
+[Difficulty "easy"]
+[Rating "959"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/aUWc5Sbu#47"]
+[Solution "a1e1 d2g2"]
+[SolutionSAN "Rae1 Qg2#"]
+[FEN "3r1rk1/1p3p1p/p1b1p1p1/4P1P1/2P3P1/P3Q1N1/3q3P/R4RK1 w - - 2 24"]
+[SetUp "1"]
+
+24. Rae1 Qg2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02uVT"]
+[Difficulty "medium"]
+[Rating "1253"]
+[Themes "crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/SVG1sQQi/black#24"]
+[Solution "c8g4 e4f6 e7f6 f3g4"]
+[SolutionSAN "Bg4 Nxf6+ Bxf6 Qxg4"]
+[FEN "r1b2rk1/ppq1bpp1/1npp1n1p/8/3PNP2/2PB1Q1N/PP4PP/R1B1R1K1 b - - 5 12"]
+[SetUp "1"]
+
+12... Bg4 13. Nxf6+ Bxf6 14. Qxg4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EI6Y"]
+[Difficulty "medium"]
+[Rating "1390"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/anorK2jK#79"]
+[Solution "d5b5 b6b5 e8b5 f3d4"]
+[SolutionSAN "Rxb5 Rxb5 Bxb5 Nxd4"]
+[FEN "4B3/4b3/1r3k1p/1p1R1p1P/2pRp1p1/1p2PnP1/1P3P2/1K6 w - - 10 40"]
+[SetUp "1"]
+
+40. Rxb5 Rxb5 41. Bxb5 Nxd4 *

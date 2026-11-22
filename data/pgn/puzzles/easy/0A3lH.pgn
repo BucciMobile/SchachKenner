@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A3lH"]
+[Difficulty "easy"]
+[Rating "936"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/SplfuNYp#71"]
+[Solution "e4d4 f4e2 g1f1 e2d4"]
+[SolutionSAN "Rd4 Ne2+ Kf1 Nxd4"]
+[FEN "8/6p1/p1p3k1/1p4p1/1P2Rn2/8/P1P2PPP/6K1 w - - 1 36"]
+[SetUp "1"]
+
+36. Rd4 Ne2+ 37. Kf1 Nxd4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BTWu"]
+[Difficulty "hard"]
+[Rating "2606"]
+[Themes "clearance crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/Llmvp0Y0#53"]
+[Solution "c3e2 h2h3 e2g3 h1h2"]
+[SolutionSAN "Ne2 Qh3+ Ng3 Rh2"]
+[FEN "5rk1/pp4n1/2p3p1/3p2Rp/3P1P2/2NB1K2/PP5q/3Q1R1r w - - 6 27"]
+[SetUp "1"]
+
+27. Ne2 Qh3+ 28. Ng3 Rh2 *

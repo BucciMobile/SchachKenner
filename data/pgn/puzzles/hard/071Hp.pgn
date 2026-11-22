@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "071Hp"]
+[Difficulty "hard"]
+[Rating "2066"]
+[Themes "advancedPawn crushing middlegame short"]
+[GameUrl "https://lichess.org/game/Nud8GMYX/black#68"]
+[Solution "h8g7 f6g7 a4d1 f3d1"]
+[SolutionSAN "Bxg7 fxg7 Qd1+ Qxd1"]
+[FEN "1r1rk2b/4NpBp/3p1Pp1/pp1Pp3/q3P2P/2R2Q2/6P1/7K b - - 1 34"]
+[SetUp "1"]
+
+34... Bxg7 35. fxg7 Qd1+ 36. Qxd1 *

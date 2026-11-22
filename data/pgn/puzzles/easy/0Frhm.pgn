@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Frhm"]
+[Difficulty "easy"]
+[Rating "467"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/HoExhnYK#53"]
+[Solution "g6g7 e8e1"]
+[SolutionSAN "g7 Re1#"]
+[FEN "4r3/pR5R/1p4Pp/2p4P/3p1kn1/2PP4/P1P3P1/6K1 w - - 2 27"]
+[SetUp "1"]
+
+27. g7 Re1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02GGR"]
+[Difficulty "medium"]
+[Rating "1404"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/FAQ5ks9b#63"]
+[Solution "a3b2 a4a2 b2a2 f7a2"]
+[SolutionSAN "Qb2 Ra2 Qxa2 Bxa2"]
+[FEN "6k1/5bpp/p5q1/1pP1p3/r2pP3/Q4P1P/6P1/2R2RK1 w - - 0 32"]
+[SetUp "1"]
+
+32. Qb2 Ra2 33. Qxa2 Bxa2 *

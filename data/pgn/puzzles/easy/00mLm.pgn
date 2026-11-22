@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00mLm"]
+[Difficulty "easy"]
+[Rating "706"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/dfm56Es7/black#70"]
+[Solution "g7h6 e8g8"]
+[SolutionSAN "Bh6 Qxg8#"]
+[FEN "4Q1nk/p5bp/3P2p1/4p3/4Pq2/1B5P/6P1/7K b - - 2 35"]
+[SetUp "1"]
+
+35... Bh6 36. Qxg8# *

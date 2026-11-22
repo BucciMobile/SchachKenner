@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00oNP"]
+[Difficulty "easy"]
+[Rating "710"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/ko1A0ZH7#57"]
+[Solution "e1e5 f2f1 e5e1 f1e1"]
+[SolutionSAN "Rxe5 Rf1+ Re1 Rxe1#"]
+[FEN "6k1/2r5/4p3/p2pb1pP/R5P1/1P6/PP3r2/1K2R3 w - - 0 29"]
+[SetUp "1"]
+
+29. Rxe5 Rf1+ 30. Re1 Rxe1# *

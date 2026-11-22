@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0P9py"]
+[Difficulty "medium"]
+[Rating "1447"]
+[Themes "advantage long opening"]
+[GameUrl "https://lichess.org/game/C6UzlTPc/black#22"]
+[Solution "c6e5 d1d8 e5f3 g2f3 a8d8 f3g4"]
+[SolutionSAN "Nxe5 Qxd8 Nxf3+ gxf3 Raxd8 fxg4"]
+[FEN "r2q1rk1/1pp1bppp/p1n2n2/4P3/6b1/5N2/PPB2PPP/RNBQ1RK1 b - - 0 11"]
+[SetUp "1"]
+
+11... Nxe5 12. Qxd8 Nxf3+ 13. gxf3 Raxd8 14. fxg4 *

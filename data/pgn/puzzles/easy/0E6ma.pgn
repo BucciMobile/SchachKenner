@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E6ma"]
+[Difficulty "easy"]
+[Rating "847"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/ETl85ppI#47"]
+[Solution "f2f4 g5h4 e1d2 h4g3"]
+[SolutionSAN "f4 Bh4 Kd2 Bxg3"]
+[FEN "3q1rk1/1p3pp1/p1p1p2p/P1Pp2bP/1P1P4/1R2P1Q1/5P2/4KBR1 w - - 2 24"]
+[SetUp "1"]
+
+24. f4 Bh4 25. Kd2 Bxg3 *

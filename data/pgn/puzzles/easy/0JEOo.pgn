@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JEOo"]
+[Difficulty "easy"]
+[Rating "924"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/rZn1WOyg/black#30"]
+[Solution "h7g6 f4h4"]
+[SolutionSAN "hxg6 Qh4#"]
+[FEN "rn3r1k/ppp2Bpp/3qb1N1/1n6/2PP1Q2/8/PP3PPP/R4RK1 b - - 2 15"]
+[SetUp "1"]
+
+15... hxg6 16. Qh4# *

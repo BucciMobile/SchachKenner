@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07GoA"]
+[Difficulty "hard"]
+[Rating "2102"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/Ege389B8#61"]
+[Solution "e1e5 g6b1 e5e1 b1b2"]
+[SolutionSAN "Re5 Qb1 Re1 Qxb2"]
+[FEN "6rk/pp2Q1pp/2b3q1/8/7P/1P4P1/PB3P1K/4R3 w - - 6 31"]
+[SetUp "1"]
+
+31. Re5 Qb1 32. Re1 Qxb2 *

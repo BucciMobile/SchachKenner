@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FIZ8"]
+[Difficulty "hard"]
+[Rating "2335"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/kzJSJv7g#53"]
+[Solution "g3f5 g4f5 e4f5 g8g1"]
+[SolutionSAN "Nf5 Bxf5 exf5 Rxg1"]
+[FEN "r5rk/ppp2p2/2n2q2/4p2p/1PPpP1b1/P2P2Np/1B1N1P1K/R3Q1R1 w - - 6 27"]
+[SetUp "1"]
+
+27. Nf5 Bxf5 28. exf5 Rxg1 *

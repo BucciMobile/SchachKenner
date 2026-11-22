@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02YaB"]
+[Difficulty "easy"]
+[Rating "1004"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/Jkw92my4/black#54"]
+[Solution "b6b3 e2c4 g8h8 c4b3"]
+[SolutionSAN "Rb3 Bc4+ Kh8 Bxb3"]
+[FEN "6k1/1p4bp/prn3p1/5p2/4p3/P3P1NP/4B1P1/2R3K1 b - - 1 27"]
+[SetUp "1"]
+
+27... Rb3 28. Bc4+ Kh8 29. Bxb3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Btfj"]
+[Difficulty "easy"]
+[Rating "940"]
+[Themes "advancedPawn crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/T4ev2j3x/black#92"]
+[Solution "c5a5 a6a5 a4a5 g5g6 b4b3 g6g7"]
+[SolutionSAN "Ra5 Rxa5+ Kxa5 g6 b3 g7"]
+[FEN "8/8/R7/2r2pP1/kp2p3/4P1K1/5P2/8 b - - 1 46"]
+[SetUp "1"]
+
+46... Ra5 47. Rxa5+ Kxa5 48. g6 b3 49. g7 *

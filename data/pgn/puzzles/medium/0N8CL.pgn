@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0N8CL"]
+[Difficulty "medium"]
+[Rating "1205"]
+[Themes "crushing discoveredAttack discoveredCheck kingsideAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/bPMEkGHd/black#44"]
+[Solution "c3b1 d5d6 b7d5 b3d5"]
+[SolutionSAN "Nxb1 d6+ Bd5 Qxd5+"]
+[FEN "3q1rk1/rb4pp/p7/2pPNp2/8/1QnN4/P4PPP/1R2R1K1 b - - 2 22"]
+[SetUp "1"]
+
+22... Nxb1 23. d6+ Bd5 24. Qxd5+ *

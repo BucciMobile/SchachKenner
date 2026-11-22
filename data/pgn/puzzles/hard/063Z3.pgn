@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "063Z3"]
+[Difficulty "hard"]
+[Rating "1804"]
+[Themes "crushing defensiveMove endgame rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/5Tu4VKJS#123"]
+[Solution "e5e4 b5g5 f4g5 h6g5 e4f3 g5h5 f3g3 h5g5"]
+[SolutionSAN "Ke4 Rxg5 fxg5+ Kxg5 Kf3 Kxh5 Kg3 Kg5"]
+[FEN "8/6p1/7k/1r2K1RP/5P2/8/8/8 w - - 5 62"]
+[SetUp "1"]
+
+62. Ke4 Rxg5 63. fxg5+ Kxg5 64. Kf3 Kxh5 65. Kg3 Kg5 *

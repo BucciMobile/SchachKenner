@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fxdo"]
+[Difficulty "easy"]
+[Rating "1047"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/ymFsk54t#47"]
+[Solution "h1h2 f3h5 e7h4 h5h4"]
+[SolutionSAN "Kxh2 Qh5+ Qh4 Qxh4#"]
+[FEN "r5k1/p1ppQ1pp/1p2p3/4P3/3P1p2/5q2/PPP3Rr/6RK w - - 0 24"]
+[SetUp "1"]
+
+24. Kxh2 Qh5+ 25. Qh4 Qxh4# *

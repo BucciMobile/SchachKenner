@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BGpX"]
+[Difficulty "medium"]
+[Rating "1662"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/eTsueZia/black#70"]
+[Solution "f7h7 h4h7 f6h7 d6b8"]
+[SolutionSAN "Rh7 Qxh7+ Nxh7 Bxb8"]
+[FEN "1q6/3k1r2/p1pB1np1/3pPb2/3P2PQ/P7/2P4K/5R2 b - - 2 35"]
+[SetUp "1"]
+
+35... Rh7 36. Qxh7+ Nxh7 37. Bxb8 *

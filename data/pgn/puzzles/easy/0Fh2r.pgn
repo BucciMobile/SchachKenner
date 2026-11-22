@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fh2r"]
+[Difficulty "easy"]
+[Rating "998"]
+[Themes "advancedPawn crushing endgame knightEndgame master promotion short underPromotion"]
+[GameUrl "https://lichess.org/game/NxnUb8Zq#131"]
+[Solution "b5c3 f3f2 c3d5 f2f1n"]
+[SolutionSAN "Nc3 f2 Nd5 f1=N+"]
+[FEN "8/8/7p/1N3kpP/8/3p1p2/3K4/8 w - - 0 66"]
+[SetUp "1"]
+
+66. Nc3 f2 67. Nd5 f1=N+ *

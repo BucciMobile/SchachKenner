@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DSjF"]
+[Difficulty "hard"]
+[Rating "1986"]
+[Themes "advancedPawn crushing defensiveMove endgame long promotion queenRookEndgame"]
+[GameUrl "https://lichess.org/game/eLFLVjfH/black#82"]
+[Solution "e5c5 g1h1 c5d6 e7e8q d6d1 h1h2"]
+[SolutionSAN "Qc5+ Kh1 Qxd6 e8=Q Qd1+ Kh2"]
+[FEN "5R2/p3P1pk/3P3p/1p2q3/8/7P/6P1/6K1 b - - 6 41"]
+[SetUp "1"]
+
+41... Qc5+ 42. Kh1 Qxd6 43. e8=Q Qd1+ 44. Kh2 *

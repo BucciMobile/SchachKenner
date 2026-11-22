@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BbZz"]
+[Difficulty "easy"]
+[Rating "974"]
+[Themes "hangingPiece mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/vppUrU1D#59"]
+[Solution "c6d4 g8g1 d2d1 g1d1"]
+[SolutionSAN "Nd4 Rxg1+ Rd1 Rxd1#"]
+[FEN "k5rr/1pp2p1b/p1N5/8/1Q6/4n3/PPPR3R/2K3N1 w - - 1 30"]
+[SetUp "1"]
+
+30. Nd4 Rxg1+ 31. Rd1 Rxd1# *

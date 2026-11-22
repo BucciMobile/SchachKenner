@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Hmm"]
+[Difficulty "medium"]
+[Rating "1451"]
+[Themes "advantage endgame fork long"]
+[GameUrl "https://lichess.org/game/6JS3WuXM/black#54"]
+[Solution "f5e5 d5f6 g8g7 f6d7 b8c8 d7e5"]
+[SolutionSAN "Re5 Nf6+ Kg7 Nd7 Rc8 Nxe5"]
+[FEN "1r4k1/5p2/p2p3p/3N1rp1/8/1P4PP/P1P3P1/3R2K1 b - - 0 27"]
+[SetUp "1"]
+
+27... Re5 28. Nf6+ Kg7 29. Nd7 Rc8 30. Nxe5 *

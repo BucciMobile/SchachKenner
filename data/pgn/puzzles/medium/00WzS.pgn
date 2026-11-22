@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00WzS"]
+[Difficulty "medium"]
+[Rating "1459"]
+[Themes "advantage hangingPiece intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/pGUj7Dyu#33"]
+[Solution "h5g6 g5e3 g1h1 f7g6"]
+[SolutionSAN "Bxg6 Bxe3+ Kh1 fxg6"]
+[FEN "r2qk2r/2pn1p1n/pp1p2bp/3Pp1bB/PPP1P3/2N1B3/3N2PP/R2Q1RK1 w kq - 3 17"]
+[SetUp "1"]
+
+17. Bxg6 Bxe3+ 18. Kh1 fxg6 *

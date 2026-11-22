@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M6uB"]
+[Difficulty "medium"]
+[Rating "1257"]
+[Themes "advantage endgame intermezzo master short"]
+[GameUrl "https://lichess.org/game/UVCcAQIQ/black#58"]
+[Solution "d4f2 d2d6 d8d6 e2f2"]
+[SolutionSAN "Bxf2 Rxd6 Rxd6 Kxf2"]
+[FEN "3r1k2/pp4p1/3r2p1/4pp2/3b4/PB4R1/1P1RKPPP/8 b - - 1 29"]
+[SetUp "1"]
+
+29... Bxf2 30. Rxd6 Rxd6 31. Kxf2 *

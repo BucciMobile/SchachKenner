@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FwsL"]
+[Difficulty "medium"]
+[Rating "1320"]
+[Themes "crushing middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/PXoJJQfp/black#26"]
+[Solution "b8c6 f1d3 e4d3 d2d3"]
+[SolutionSAN "Nc6 Bd3 Qxd3+ Kxd3"]
+[FEN "rnb1k2r/pppp1pp1/4p2p/4P3/2PPqP2/5NP1/3K3P/R2Q1B1R b kq - 0 13"]
+[SetUp "1"]
+
+13... Nc6 14. Bd3 Qxd3+ 15. Kxd3 *

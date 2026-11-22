@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EZDG"]
+[Difficulty "medium"]
+[Rating "1539"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/p2U70V3y/black#62"]
+[Solution "e8e7 h8f8"]
+[SolutionSAN "Ke7 Qf8#"]
+[FEN "4k2Q/3r1p1N/p2R2p1/2p1p3/5q2/7P/P1b2PP1/6K1 b - - 1 31"]
+[SetUp "1"]
+
+31... Ke7 32. Qf8# *

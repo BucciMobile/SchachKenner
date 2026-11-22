@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Ta6"]
+[Difficulty "hard"]
+[Rating "2635"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/ZnXT4vYV/black#74"]
+[Solution "c8c1 h1h2 c1c2 d6f8 e8f8 g7d7"]
+[SolutionSAN "Rc1+ Kh2 Rc2 Bxf8 Kxf8 Rxd7"]
+[FEN "2r1kr2/1p1b2R1/p2Bp2q/3p1p2/1P1Q4/P2P3P/6P1/7K b - - 10 37"]
+[SetUp "1"]
+
+37... Rc1+ 38. Kh2 Rc2 39. Bxf8 Kxf8 40. Rxd7 *

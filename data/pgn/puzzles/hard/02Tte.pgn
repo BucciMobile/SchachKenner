@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Tte"]
+[Difficulty "hard"]
+[Rating "2174"]
+[Themes "advantage exposedKing middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/Y0ZiY8y9#43"]
+[Solution "g2f3 f5f3 h3g2 d8g5 g2f3 a8f8 e2f4 f8f4"]
+[SolutionSAN "gxf3 Rxf3+ Kg2 Qg5+ Kxf3 Rf8+ Nf4 Rxf4+"]
+[FEN "r2q2k1/pp4p1/2n5/3p1r2/1P1P3p/P1N2p1K/4NPP1/R2Q1R2 w - - 0 22"]
+[SetUp "1"]
+
+22. gxf3 Rxf3+ 23. Kg2 Qg5+ 24. Kxf3 Rf8+ 25. Nf4 Rxf4+ *

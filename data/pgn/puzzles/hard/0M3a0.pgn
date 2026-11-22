@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M3a0"]
+[Difficulty "hard"]
+[Rating "2007"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/MxusDu3C/black#34"]
+[Solution "g4h3 f3e5 h3g2 e5d7"]
+[SolutionSAN "Bh3 Nxe5 Bxg2 Nxd7"]
+[FEN "2kr2nr/bppq4/n2p1p2/4p1p1/P1P3b1/2QP1NP1/3NPPB1/1RB2RK1 b - - 0 17"]
+[SetUp "1"]
+
+17... Bh3 18. Nxe5 Bxg2 19. Nxd7 *

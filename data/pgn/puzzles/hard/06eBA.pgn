@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06eBA"]
+[Difficulty "hard"]
+[Rating "1830"]
+[Themes "advantage middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/8iAXIusG/black#30"]
+[Solution "a8b8 e5c4 a3a5 c4a5"]
+[SolutionSAN "Rb8 Nc4 Qa5 Nxa5"]
+[FEN "r1b2k1r/p4ppp/4pb2/1Bp1N3/3P4/q1P5/P1R2PPP/3QK2R b K - 0 15"]
+[SetUp "1"]
+
+15... Rb8 16. Nc4 Qa5 17. Nxa5 *

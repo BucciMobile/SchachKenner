@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GP4b"]
+[Difficulty "hard"]
+[Rating "1936"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/qIvr3LfH#89"]
+[Solution "c3e1 f4f3 g2f3 f7f3"]
+[SolutionSAN "Qe1 f3 gxf3 Rxf3"]
+[FEN "8/4prkp/8/3P2p1/3P1p2/2Q1n3/6PP/7K w - - 1 45"]
+[SetUp "1"]
+
+45. Qe1 f3 46. gxf3 Rxf3 *

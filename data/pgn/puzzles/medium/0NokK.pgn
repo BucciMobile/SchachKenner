@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NokK"]
+[Difficulty "medium"]
+[Rating "1460"]
+[Themes "mate mateIn1 middlegame oneMove pin"]
+[GameUrl "https://lichess.org/game/GjgKQCr3#35"]
+[Solution "d6c8 e5f3"]
+[SolutionSAN "Nxc8 Nxf3#"]
+[FEN "r1b2k1r/pp2q1pp/3N1p2/4n3/1P6/P4P2/1Q2PP1P/3RKBR1 w - - 1 18"]
+[SetUp "1"]
+
+18. Nxc8 Nxf3# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GgrP"]
+[Difficulty "hard"]
+[Rating "2387"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/UEQF8Rfn#113"]
+[Solution "h3h4 a7e7 e4e5 e7e5"]
+[SolutionSAN "Kh4 Re7 e5 Rxe5"]
+[FEN "8/r7/8/2p5/2P1P1R1/3k3K/8/8 w - - 0 57"]
+[SetUp "1"]
+
+57. Kh4 Re7 58. e5 Rxe5 *

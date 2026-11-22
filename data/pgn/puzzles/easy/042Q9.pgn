@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "042Q9"]
+[Difficulty "easy"]
+[Rating "915"]
+[Themes "crushing endgame short skewer"]
+[GameUrl "https://lichess.org/game/em5yCfaR/black#90"]
+[Solution "h6g5 a6g6 g5f4 g6g2"]
+[SolutionSAN "Kg5 Rxg6+ Kf4 Rxg2"]
+[FEN "5b2/8/R5pk/3KpB2/4P3/p4P2/6r1/8 b - - 3 45"]
+[SetUp "1"]
+
+45... Kg5 46. Rxg6+ Kf4 47. Rxg2 *

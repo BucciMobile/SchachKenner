@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01YV3"]
+[Difficulty "medium"]
+[Rating "1444"]
+[Themes "long mate mateIn3 middlegame triangleMate"]
+[GameUrl "https://lichess.org/game/UFUflidH/black#44"]
+[Solution "f8f2 h6h7 g8f8 c1h6 d4g7 h7g7"]
+[SolutionSAN "Rxf2 Qxh7+ Kf8 Bh6+ Bg7 Qxg7#"]
+[FEN "1r3rk1/p3R2p/3p2pQ/3q4/3b4/3p4/PP3PPP/1RB4K b - - 3 22"]
+[SetUp "1"]
+
+22... Rxf2 23. Qxh7+ Kf8 24. Bh6+ Bg7 25. Qxg7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CD09"]
+[Difficulty "hard"]
+[Rating "1724"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/R32Lnp9l/black#48"]
+[Solution "d4e2 g4e2 d3e2 e3b6"]
+[SolutionSAN "Ne2+ Qxe2 dxe2 Bxb6"]
+[FEN "r5k1/1p3pp1/pq5p/8/1P1n2Q1/P2pB2P/2bN1PP1/2R3K1 b - - 3 24"]
+[SetUp "1"]
+
+24... Ne2+ 25. Qxe2 dxe2 26. Bxb6 *

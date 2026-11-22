@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IdZ1"]
+[Difficulty "medium"]
+[Rating "1657"]
+[Themes "crushing endgame short skewer"]
+[GameUrl "https://lichess.org/game/6mea5wCG#63"]
+[Solution "b2b4 a8c8 c3d4 c8c2"]
+[SolutionSAN "b4 Rc8 Bd4 Rxc2"]
+[FEN "r5k1/7p/4p1p1/3p4/6P1/p1B4P/BPP5/5K2 w - - 0 32"]
+[SetUp "1"]
+
+32. b4 Rc8 33. Bd4 Rxc2 *

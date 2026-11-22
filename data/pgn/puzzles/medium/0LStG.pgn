@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LStG"]
+[Difficulty "medium"]
+[Rating "1539"]
+[Themes "deflection kingsideAttack mate mateIn5 middlegame veryLong"]
+[GameUrl "https://lichess.org/game/ctJ21XM6/black#42"]
+[Solution "f5e3 d3h7 g8f7 c2g6 f7f6 c3e4 f6e7 h7g7 f8f7 g7f7"]
+[SolutionSAN "Nxe3 Qh7+ Kf7 Bg6+ Kf6 Ne4+ Ke7 Qxg7+ Rf7 Qxf7#"]
+[FEN "r2q1rk1/2pb2p1/3p3p/p1pPpn2/2P3Pb/P1NQBP1P/1PB2R2/R5K1 b - - 0 21"]
+[SetUp "1"]
+
+21... Nxe3 22. Qh7+ Kf7 23. Bg6+ Kf6 24. Ne4+ Ke7 25. Qxg7+ Rf7 26. Qxf7# *

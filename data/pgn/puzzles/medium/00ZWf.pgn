@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00ZWf"]
+[Difficulty "medium"]
+[Rating "1346"]
+[Themes "crushing middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/bFAkQOCQ#21"]
+[Solution "c2c3 f8d6 c7d6 f6d6"]
+[SolutionSAN "c3 Bd6 Qxd6 Qxd6"]
+[FEN "r1b2bnr/ppQp3p/2n2q1k/6pP/2B1P3/3P4/PPP2PP1/RNB1K2R w KQ - 1 11"]
+[SetUp "1"]
+
+11. c3 Bd6 12. Qxd6 Qxd6 *

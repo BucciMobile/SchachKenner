@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02z98"]
+[Difficulty "medium"]
+[Rating "1537"]
+[Themes "deflection discoveredAttack endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/j5ZYvIp1/black#96"]
+[Solution "e5c4 e6g7 h5h4 a6h6"]
+[SolutionSAN "Nc4 Ng7+ Kh4 Rxh6#"]
+[FEN "8/8/R3N2p/1r2n1pk/p3K3/P4P2/7P/8 b - - 9 48"]
+[SetUp "1"]
+
+48... Nc4 49. Ng7+ Kh4 50. Rxh6# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01wyO"]
+[Difficulty "hard"]
+[Rating "1786"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/rl4A3tVa#81"]
+[Solution "a2a3 b5b4 c3b4 a5b4 a3a4 d5d4"]
+[SolutionSAN "a3 b4 cxb4 axb4 a4 d4"]
+[FEN "8/8/8/pp1p1k2/6pP/1PP3K1/P7/8 w - - 0 41"]
+[SetUp "1"]
+
+41. a3 b4 42. cxb4 axb4 43. a4 d4 *

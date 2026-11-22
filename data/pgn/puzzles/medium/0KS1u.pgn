@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KS1u"]
+[Difficulty "medium"]
+[Rating "1438"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/nGGxZINK#63"]
+[Solution "c1b1 b2b1 c2b1 d2d1"]
+[SolutionSAN "Rb1 Qxb1+ Bxb1 Rd1#"]
+[FEN "r2b4/6kp/p3Qp2/7R/4PP2/2P5/1qBr2PP/2R4K w - - 0 32"]
+[SetUp "1"]
+
+32. Rb1 Qxb1+ 33. Bxb1 Rd1# *

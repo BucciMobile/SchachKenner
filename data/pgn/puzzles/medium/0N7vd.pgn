@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0N7vd"]
+[Difficulty "medium"]
+[Rating "1430"]
+[Themes "attraction crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/Q7hF4C1L/black#74"]
+[Solution "f4f6 a6f6 g7f6 e5d7 f6g7 d7f8"]
+[SolutionSAN "Rf6 Rxf6 Kxf6 Nd7+ Kg7 Nxf8"]
+[FEN "5r2/1R3pk1/R5p1/4N2p/P4r2/7P/4n1PK/8 b - - 1 37"]
+[SetUp "1"]
+
+37... Rf6 38. Rxf6 Kxf6 39. Nd7+ Kg7 40. Nxf8 *

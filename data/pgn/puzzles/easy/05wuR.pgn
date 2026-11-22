@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05wuR"]
+[Difficulty "easy"]
+[Rating "496"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/0N8w99GW#61"]
+[Solution "e1d1 d8d1 b1a2 d1a1"]
+[SolutionSAN "Rxd1 Rxd1+ Ka2 Ra1#"]
+[FEN "3r4/2k3b1/2p4p/5Qp1/8/PP6/2P3PP/1K1rR3 w - - 3 31"]
+[SetUp "1"]
+
+31. Rxd1 Rxd1+ 32. Ka2 Ra1# *

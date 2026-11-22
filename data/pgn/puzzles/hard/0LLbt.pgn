@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LLbt"]
+[Difficulty "hard"]
+[Rating "1790"]
+[Themes "crushing deflection endgame rookEndgame veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/FgYMLZKu/black#90"]
+[Solution "f3h3 e6e4 g4f5 g2h3 f5e4 h3g4 e4d3 g4g5"]
+[SolutionSAN "Rh3 Re4+ Kf5 Kxh3 Kxe4 Kg4 Kd3 Kxg5"]
+[FEN "8/8/4R3/6p1/6k1/5r2/5PK1/8 b - - 0 45"]
+[SetUp "1"]
+
+45... Rh3 46. Re4+ Kf5 47. Kxh3 Kxe4 48. Kg4 Kd3 49. Kxg5 *

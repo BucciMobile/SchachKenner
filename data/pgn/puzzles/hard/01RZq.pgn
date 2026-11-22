@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01RZq"]
+[Difficulty "hard"]
+[Rating "1920"]
+[Themes "advantage discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/u3szL8bV/black#76"]
+[Solution "g7h7 g5h4 h7g7 g4g7"]
+[SolutionSAN "Qh7+ Bh4+ Qg7 Qxg7+"]
+[FEN "6k1/5pq1/8/4rRB1/6Q1/8/6PK/r7 b - - 9 38"]
+[SetUp "1"]
+
+38... Qh7+ 39. Bh4+ Qg7 40. Qxg7+ *

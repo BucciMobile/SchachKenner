@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02UA3"]
+[Difficulty "easy"]
+[Rating "1164"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/iaFvPtoD/black#50"]
+[Solution "e8e3 f1e3 e2e3 f3e3"]
+[SolutionSAN "R8e3 Nxe3 Rxe3 Qxe3"]
+[FEN "4r1k1/p2b1pp1/1p1q1n1p/2pp4/5P2/1NP2Q1P/PP2r1P1/2RR1NK1 b - - 3 25"]
+[SetUp "1"]
+
+25... R8e3 26. Nxe3 Rxe3 27. Qxe3 *

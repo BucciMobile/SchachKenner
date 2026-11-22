@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06kDw"]
+[Difficulty "medium"]
+[Rating "1479"]
+[Themes "clearance endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/GW6x22tY/black#68"]
+[Solution "d4f4 g7h7 f5h7 g2g7"]
+[SolutionSAN "Qxf4 Rh7+ Bxh7 Qg7#"]
+[FEN "r6k/p1pp2R1/1p5P/3PPb2/3q1P2/8/PP4Q1/4K3 b - - 6 34"]
+[SetUp "1"]
+
+34... Qxf4 35. Rh7+ Bxh7 36. Qg7# *

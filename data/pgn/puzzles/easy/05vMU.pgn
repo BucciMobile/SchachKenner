@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05vMU"]
+[Difficulty "easy"]
+[Rating "916"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/Up9N9SIl#49"]
+[Solution "e1e4 f4f2 g1h1 f2f1 d1f1 f8f1"]
+[SolutionSAN "Re4 Qxf2+ Kh1 Qf1+ Rxf1 Rxf1#"]
+[FEN "5r1k/p5pp/1n2Q3/4P3/2p2q2/2N5/PP3PPP/3RR1K1 w - - 1 25"]
+[SetUp "1"]
+
+25. Re4 Qxf2+ 26. Kh1 Qf1+ 27. Rxf1 Rxf1# *

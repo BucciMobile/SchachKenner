@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "066mB"]
+[Difficulty "easy"]
+[Rating "1149"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/XztxjT5S#61"]
+[Solution "d1d2 h4g5 d2c3 g5f6"]
+[SolutionSAN "Kd2 Bxg5+ Kc3 Bxf6"]
+[FEN "2k4r/1p5p/5Rn1/p5P1/P2P2Pb/5b2/2B4P/R1BK4 w - - 1 31"]
+[SetUp "1"]
+
+31. Kd2 Bxg5+ 32. Kc3 Bxf6 *

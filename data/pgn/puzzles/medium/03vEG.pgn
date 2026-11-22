@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03vEG"]
+[Difficulty "medium"]
+[Rating "1267"]
+[Themes "endgame mate mateIn1 oneMove triangleMate"]
+[GameUrl "https://lichess.org/game/vHfNbpx1/black#78"]
+[Solution "b4c6 h4e4"]
+[SolutionSAN "Nc6 Qe4#"]
+[FEN "8/6p1/1q2p2p/3kP3/1nR4Q/7P/r4PP1/6K1 b - - 0 39"]
+[SetUp "1"]
+
+39... Nc6 40. Qe4# *

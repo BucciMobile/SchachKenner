@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06NUk"]
+[Difficulty "easy"]
+[Rating "951"]
+[Themes "advancedPawn crushing discoveredAttack discoveredCheck endgame promotion rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/ZgvY6lpB/black#96"]
+[Solution "a5a4 f4f5 d4c3 g4b4 c3b4 f5f6 a4a3 f6f7 a3a2 f7f8q"]
+[SolutionSAN "a4 f5+ Kc3 Rxb4 Kxb4 f6 a3 f7 a2 f8=Q+"]
+[FEN "8/8/8/pp6/1r1k1PR1/6P1/5K2/8 b - - 0 48"]
+[SetUp "1"]
+
+48... a4 49. f5+ Kc3 50. Rxb4 Kxb4 51. f6 a3 52. f7 a2 53. f8=Q+ *

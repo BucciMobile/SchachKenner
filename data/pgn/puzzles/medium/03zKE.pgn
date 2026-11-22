@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03zKE"]
+[Difficulty "medium"]
+[Rating "1627"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/Ar4W55P1#59"]
+[Solution "c3b4 c6c5 b4b7 e4b7"]
+[SolutionSAN "Qb4 c5 Qxb7+ Qxb7"]
+[FEN "4r3/1b4kp/2p3p1/8/p2pq3/P1Q4P/BP3PP1/1R4K1 w - - 0 30"]
+[SetUp "1"]
+
+30. Qb4 c5 31. Qxb7+ Qxb7 *

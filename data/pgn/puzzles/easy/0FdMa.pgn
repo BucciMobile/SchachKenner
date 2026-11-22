@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FdMa"]
+[Difficulty "easy"]
+[Rating "704"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/AgTypELA/black#24"]
+[Solution "e4d6 f3f8"]
+[SolutionSAN "Nxd6 Qxf8#"]
+[FEN "r1b1kr2/pppp2pp/3N4/4p3/2B1n2q/3K1QP1/PP1P3P/nNB2R2 b q - 1 12"]
+[SetUp "1"]
+
+12... Nxd6 13. Qxf8# *

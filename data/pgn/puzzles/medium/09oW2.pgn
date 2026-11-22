@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09oW2"]
+[Difficulty "medium"]
+[Rating "1370"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/F5B5nhMv#51"]
+[Solution "d2c3 f8c8 c4c8 g4c8"]
+[SolutionSAN "Kc3 Rc8 Qxc8+ Bxc8"]
+[FEN "5rk1/1p3ppp/1p1b3q/1P1N4/2QP2b1/P7/1BPK1RP1/R7 w - - 6 26"]
+[SetUp "1"]
+
+26. Kc3 Rc8 27. Qxc8+ Bxc8 *

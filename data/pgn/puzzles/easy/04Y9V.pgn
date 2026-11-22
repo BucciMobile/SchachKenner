@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Y9V"]
+[Difficulty "easy"]
+[Rating "1198"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+[GameUrl "https://lichess.org/game/loTTJ4ue/black#74"]
+[Solution "g4f4 h3h4"]
+[SolutionSAN "Kf4 Rh4#"]
+[FEN "1r6/8/p2p2p1/2p1q1P1/4P1k1/P5RR/2P3PK/8 b - - 8 37"]
+[SetUp "1"]
+
+37... Kf4 38. Rh4# *

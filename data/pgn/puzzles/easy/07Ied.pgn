@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Ied"]
+[Difficulty "easy"]
+[Rating "1152"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/hW93iquN/black#46"]
+[Solution "f3f8 g5d8"]
+[SolutionSAN "Rf8 Qxd8#"]
+[FEN "2krR3/pp1n3p/2p3p1/3p2Q1/3q2P1/2NP1r2/PP5P/2K1R3 b - - 1 23"]
+[SetUp "1"]
+
+23... Rf8 24. Qxd8# *

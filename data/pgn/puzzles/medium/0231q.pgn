@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0231q"]
+[Difficulty "medium"]
+[Rating "1660"]
+[Themes "advancedPawn advantage endgame long pin promotion"]
+[GameUrl "https://lichess.org/game/ZYyawRJ1/black#90"]
+[Solution "c2d2 g8f8 e7f8 h7h8q d2h6 h8h6"]
+[SolutionSAN "Qd2 Qxf8+ Bxf8 h8=Q Qh6+ Qxh6"]
+[FEN "3k1rQ1/4b2P/2p2p2/4p3/4P3/3P4/p1q3PK/5R2 b - - 1 45"]
+[SetUp "1"]
+
+45... Qd2 46. Qxf8+ Bxf8 47. h8=Q Qh6+ 48. Qxh6 *

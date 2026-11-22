@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MHZF"]
+[Difficulty "medium"]
+[Rating "1464"]
+[Themes "master mate mateIn2 middlegame pin short"]
+[GameUrl "https://lichess.org/game/9V4NHGue#57"]
+[Solution "h1c1 d6a3 a2b1 d2b2"]
+[SolutionSAN "Rhc1 Qxa3+ Kb1 Rxb2#"]
+[FEN "1k6/pp2bp2/3q2p1/6Pr/2R1Q2P/PP2P3/KB1r1P2/7R w - - 1 29"]
+[SetUp "1"]
+
+29. Rhc1 Qxa3+ 30. Kb1 Rxb2# *

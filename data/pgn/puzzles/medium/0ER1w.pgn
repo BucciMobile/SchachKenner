@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ER1w"]
+[Difficulty "medium"]
+[Rating "1631"]
+[Themes "clearance endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/uvZSlpLY/black#56"]
+[Solution "g8h8 e6f6 f8f6 e5e8 f6f8 e8f8"]
+[SolutionSAN "Kh8 Qxf6+ Rxf6 Re8+ Rf8 Rxf8#"]
+[FEN "5rk1/7p/4QppP/2pPR3/8/4P3/1q3PPK/r7 b - - 1 28"]
+[SetUp "1"]
+
+28... Kh8 29. Qxf6+ Rxf6 30. Re8+ Rf8 31. Rxf8# *

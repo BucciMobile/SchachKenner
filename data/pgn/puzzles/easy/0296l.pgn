@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0296l"]
+[Difficulty "easy"]
+[Rating "1188"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/EIE2Vq94#25"]
+[Solution "c2c3 g5d2 b1d2 a5h5"]
+[SolutionSAN "c3 Bd2+ Nxd2 Qxh5"]
+[FEN "r1b1k1n1/p2p1p2/2p5/q5bQ/4P3/6B1/PPP3P1/RN2KB2 w Qq - 1 13"]
+[SetUp "1"]
+
+13. c3 Bd2+ 14. Nxd2 Qxh5 *

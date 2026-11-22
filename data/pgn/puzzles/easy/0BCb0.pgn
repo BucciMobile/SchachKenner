@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BCb0"]
+[Difficulty "easy"]
+[Rating "1047"]
+[Themes "crushing discoveredAttack discoveredCheck fork middlegame short"]
+[GameUrl "https://lichess.org/game/2l8VWaSa/black#40"]
+[Solution "f7f6 h6g7 h8g8 g7f6"]
+[SolutionSAN "Rf6 Bg7+ Kg8 Bxf6+"]
+[FEN "rnbq3k/pp2br1p/2p1p2B/8/3Pp3/6R1/P1P2PPP/Q4RK1 b - - 1 20"]
+[SetUp "1"]
+
+20... Rf6 21. Bg7+ Kg8 22. Bxf6+ *

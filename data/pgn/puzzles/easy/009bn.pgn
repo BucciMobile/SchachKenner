@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "009bn"]
+[Difficulty "easy"]
+[Rating "596"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/Zw4AxPzS#35"]
+[Solution "c5e6 d6h2"]
+[SolutionSAN "Nxe6 Qh2#"]
+[FEN "2kr2r1/ppb2ppp/3qbn2/2Np2B1/P7/2P2Q1P/1PB2PP1/R4RK1 w - - 5 18"]
+[SetUp "1"]
+
+18. Nxe6 Qh2# *

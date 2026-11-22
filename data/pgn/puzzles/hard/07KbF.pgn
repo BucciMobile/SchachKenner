@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07KbF"]
+[Difficulty "hard"]
+[Rating "1945"]
+[Themes "crushing defensiveMove deflection endgame pawnEndgame veryLong"]
+[GameUrl "https://lichess.org/game/Vo3S9KLk#101"]
+[Solution "f3f4 g5g4 g2f2 h5h4 g3h4 g4f4 f2g2 f4g4"]
+[SolutionSAN "f4+ Kg4 Kf2 h4 gxh4 Kxf4 Kg2 Kg4"]
+[FEN "8/p7/1p4p1/1P4kp/P7/5PP1/6K1/8 w - - 0 51"]
+[SetUp "1"]
+
+51. f4+ Kg4 52. Kf2 h4 53. gxh4 Kxf4 54. Kg2 Kg4 *

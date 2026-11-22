@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04gj5"]
+[Difficulty "medium"]
+[Rating "1353"]
+[Themes "advancedPawn crushing endgame short"]
+[GameUrl "https://lichess.org/game/trsb9Oor/black#86"]
+[Solution "e5d4 e6e7 f6e7 e4e7"]
+[SolutionSAN "exd4 e7 Qxe7 Qxe7"]
+[FEN "6k1/6p1/4Pq1p/2p1pP2/2PRQ1P1/1P6/r1B4P/7K b - - 0 43"]
+[SetUp "1"]
+
+43... exd4 44. e7 Qxe7 45. Qxe7 *

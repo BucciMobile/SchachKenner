@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HwNY"]
+[Difficulty "medium"]
+[Rating "1246"]
+[Themes "advantage discoveredAttack long middlegame"]
+[GameUrl "https://lichess.org/game/Ma46Q8VA/black#48"]
+[Solution "e7f6 f5f6 g7f6 c1h6 f8g8 a1e1"]
+[SolutionSAN "Qf6 Qxf6+ gxf6 Bh6+ Kg8 Rxe1"]
+[FEN "r4k2/1pp1q1p1/p1n3B1/b2p1Q2/3P4/2P2PP1/PP4K1/R1B1r3 b - - 3 24"]
+[SetUp "1"]
+
+24... Qf6 25. Qxf6+ gxf6 26. Bh6+ Kg8 27. Rxe1 *

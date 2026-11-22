@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03WUg"]
+[Difficulty "easy"]
+[Rating "444"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/qn4AA4YD/black#32"]
+[Solution "e5d7 c4c7"]
+[SolutionSAN "Nxd7 Qxc7#"]
+[FEN "2kr3r/pppB1pb1/4p2p/4n1p1/2QP4/6Bq/PPP2P1P/2KR2R1 b - - 0 16"]
+[SetUp "1"]
+
+16... Nxd7 17. Qxc7# *

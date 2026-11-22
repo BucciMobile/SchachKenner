@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dct1"]
+[Difficulty "medium"]
+[Rating "1543"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/HSwW5m8r#15"]
+[Solution "h5g5 d8g5 c1g5 g7b2"]
+[SolutionSAN "Qxg5 Qxg5 Bxg5 Bxb2"]
+[FEN "rn1q2nr/pppk2bp/3pp3/6pQ/4P3/8/PPP2PPP/RNB1K1NR w KQ - 2 8"]
+[SetUp "1"]
+
+8. Qxg5 Qxg5 9. Bxg5 Bxb2 *

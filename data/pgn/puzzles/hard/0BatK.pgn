@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BatK"]
+[Difficulty "hard"]
+[Rating "2330"]
+[Themes "endgame exposedKing long mate mateIn3"]
+[GameUrl "https://lichess.org/game/s3qPIwQp#99"]
+[Solution "e2e3 f1f2 e3d3 g2f1 d3e4 f2f4"]
+[SolutionSAN "Ke3 Qf2+ Kd3 Bf1+ Ke4 Qf4#"]
+[FEN "Q7/8/8/3P4/PN6/2P3kP/4K1b1/5q2 w - - 0 50"]
+[SetUp "1"]
+
+50. Ke3 Qf2+ 51. Kd3 Bf1+ 52. Ke4 Qf4# *

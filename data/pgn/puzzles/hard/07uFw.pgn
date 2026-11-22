@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07uFw"]
+[Difficulty "hard"]
+[Rating "2022"]
+[Themes "discoveredCheck doubleCheck kingsideAttack master mate mateIn2 opening short"]
+[GameUrl "https://lichess.org/game/RQu2IwcD/black#24"]
+[Solution "f7g6 d5e7 g8f8 e7g6"]
+[SolutionSAN "fxg6 Ne7+ Kf8 Nxg6#"]
+[FEN "r1bqr1k1/ppp2pb1/2n3Q1/3Np1p1/2B1P3/P7/1PPP1PP1/R1B1K2R b KQ - 0 12"]
+[SetUp "1"]
+
+12... fxg6 13. Ne7+ Kf8 14. Nxg6# *

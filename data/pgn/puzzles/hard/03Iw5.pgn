@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Iw5"]
+[Difficulty "hard"]
+[Rating "1708"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/18PG0ItC#27"]
+[Solution "a1d1 g8h8 h7h8 d8h8"]
+[SolutionSAN "Rad1 Rh8 Qxh8 Rxh8"]
+[FEN "2kr2r1/1ppqn2Q/p1pbp3/8/4P3/2N1B3/PPP2PPP/R4RK1 w - - 4 14"]
+[SetUp "1"]
+
+14. Rad1 Rh8 15. Qxh8 Rxh8 *

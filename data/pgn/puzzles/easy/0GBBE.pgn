@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GBBE"]
+[Difficulty "easy"]
+[Rating "999"]
+[Themes "arabianMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/prJPm123/black#58"]
+[Solution "h7h8 g4g8"]
+[SolutionSAN "Kh8 Rg8#"]
+[FEN "r4b2/p4P1k/bp2RN1p/2p5/3r2R1/8/PP4PP/6K1 b - - 1 29"]
+[SetUp "1"]
+
+29... Kh8 30. Rg8# *

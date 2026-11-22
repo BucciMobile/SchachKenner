@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FeYA"]
+[Difficulty "easy"]
+[Rating "1181"]
+[Themes "advancedPawn crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/an45shN7#105"]
+[Solution "h3h4 b4b3 c3b3 a4b3 h4h5 b3b2"]
+[SolutionSAN "h4 Rb3 Rxb3+ axb3 h5 b2"]
+[FEN "8/8/8/1k3p2/pr6/2R2KPP/8/8 w - - 0 53"]
+[SetUp "1"]
+
+53. h4 Rb3 54. Rxb3+ axb3 55. h5 b2 *

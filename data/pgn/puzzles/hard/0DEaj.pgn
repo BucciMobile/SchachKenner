@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DEaj"]
+[Difficulty "hard"]
+[Rating "2220"]
+[Themes "advantage fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/UFenborW/black#48"]
+[Solution "e7e5 g1g6 f7g6 f4e6 g7h7 e6d8"]
+[SolutionSAN "e5 Rxg6+ fxg6 Ne6+ Kh7 Nxd8"]
+[FEN "2rq1r2/4ppk1/p2p2b1/1ppP3p/5N1P/3P4/P1PQ4/1R2K1R1 b - - 1 24"]
+[SetUp "1"]
+
+24... e5 25. Rxg6+ fxg6 26. Ne6+ Kh7 27. Nxd8 *

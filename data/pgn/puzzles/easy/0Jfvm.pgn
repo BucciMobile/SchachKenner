@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jfvm"]
+[Difficulty "easy"]
+[Rating "937"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/orfBk4As/black#8"]
+[Solution "f6e4 f3f7"]
+[SolutionSAN "Nxe4 Qxf7#"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5Q2/PPPPNPPP/RNB1K2R b KQkq - 5 4"]
+[SetUp "1"]
+
+4... Nxe4 5. Qxf7# *

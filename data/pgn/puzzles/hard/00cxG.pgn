@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00cxG"]
+[Difficulty "hard"]
+[Rating "2027"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/qctk0UXT#83"]
+[Solution "c2b2 f4c1 b2a2 c8c2"]
+[SolutionSAN "Kb2 Qc1+ Ka2 Rc2#"]
+[FEN "2r5/3RQ2p/6pk/8/5q1P/1P6/2K5/8 w - - 16 42"]
+[SetUp "1"]
+
+42. Kb2 Qc1+ 43. Ka2 Rc2# *

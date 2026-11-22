@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03eRy"]
+[Difficulty "easy"]
+[Rating "820"]
+[Themes "backRankMate hangingPiece mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/VWZWzWmK#35"]
+[Solution "d1d6 h4e1"]
+[SolutionSAN "Qxd6 Qxe1#"]
+[FEN "r1b2rk1/pp4pp/2pb4/4p3/2P1B2q/8/PP4PP/R1BQR2K w - - 0 18"]
+[SetUp "1"]
+
+18. Qxd6 Qxe1# *

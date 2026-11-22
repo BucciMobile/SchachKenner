@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ABX8"]
+[Difficulty "easy"]
+[Rating "993"]
+[Themes "crushing endgame fork pin short"]
+[GameUrl "https://lichess.org/game/AbCnzz8f/black#48"]
+[Solution "d8d6 b5e8 e7f8 d1d6"]
+[SolutionSAN "Rxd6 Qe8+ Bf8 Rxd6"]
+[FEN "3r2k1/p3bppp/1p1Pp3/1Q6/1P3P2/8/2q3PP/3RR1K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Rxd6 25. Qe8+ Bf8 26. Rxd6 *

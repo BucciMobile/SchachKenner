@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06f2z"]
+[Difficulty "hard"]
+[Rating "1854"]
+[Themes "advantage defensiveMove middlegame skewer veryLong"]
+[GameUrl "https://lichess.org/game/bg6meZd6/black#28"]
+[Solution "c8b7 b2b4 c5c6 e2f3 c6c4 f3b7 a8b8 b7f3"]
+[SolutionSAN "Bb7 b4 Qc6 Bf3 Qc4 Bxb7 Rab8 Bf3"]
+[FEN "r1b2rk1/p1pp2pp/1p1b4/2q2p2/5P2/4P3/PPPBB1PP/R2Q1RK1 b - - 1 14"]
+[SetUp "1"]
+
+14... Bb7 15. b4 Qc6 16. Bf3 Qc4 17. Bxb7 Rab8 18. Bf3 *

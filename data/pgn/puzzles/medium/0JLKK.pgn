@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JLKK"]
+[Difficulty "medium"]
+[Rating "1569"]
+[Themes "attraction clearance crushing deflection endgame exposedKing long pin"]
+[GameUrl "https://lichess.org/game/7VY7FX8p#53"]
+[Solution "e3f5 h4e1 g2f1 h8h1 g1h1 e1f1"]
+[SolutionSAN "Nf5 Qe1+ Qf1 Rh1+ Kxh1 Qxf1+"]
+[FEN "1k5r/pp6/2pp4/8/4PpBq/3PN3/PPP3Q1/6K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Nf5 Qe1+ 28. Qf1 Rh1+ 29. Kxh1 Qxf1+ *

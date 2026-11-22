@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GpGD"]
+[Difficulty "medium"]
+[Rating "1483"]
+[Themes "advantage endgame fork veryLong"]
+[GameUrl "https://lichess.org/game/r8JxmUQ5#59"]
+[Solution "g3b8 g8h7 h2h3 f5f1 h1h2 f1e2 d7d8q h4d8"]
+[SolutionSAN "Qb8+ Kh7 h3 Qf1+ Kh2 Qxe2 d8=Q Bxd8"]
+[FEN "6k1/pp1P1pp1/2p4p/3p1q2/7b/1PP3Q1/1P2R1PP/7K w - - 0 30"]
+[SetUp "1"]
+
+30. Qb8+ Kh7 31. h3 Qf1+ 32. Kh2 Qxe2 33. d8=Q Bxd8 *

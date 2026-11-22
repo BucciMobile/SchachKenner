@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06tuT"]
+[Difficulty "hard"]
+[Rating "1816"]
+[Themes "advantage long middlegame quietMove trappedPiece"]
+[GameUrl "https://lichess.org/game/Qn0eXBW4/black#52"]
+[Solution "e7c5 b5c5 b6c5 c3c4 a5b7 f3b7"]
+[SolutionSAN "Qxc5 Qxc5 bxc5 c4 Nb7 Bxb7"]
+[FEN "4rr1k/p1p1q1b1/1p6/nQP3p1/5pPp/2P2B2/P2BP3/2R2K1R b - - 0 26"]
+[SetUp "1"]
+
+26... Qxc5 27. Qxc5 bxc5 28. c4 Nb7 29. Bxb7 *

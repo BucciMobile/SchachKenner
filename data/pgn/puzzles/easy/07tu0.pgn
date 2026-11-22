@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07tu0"]
+[Difficulty "easy"]
+[Rating "758"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/JSGEi80E#57"]
+[Solution "b5d4 b4c5 g1f2 c5d4"]
+[SolutionSAN "Nxd4 Bc5 Kf2 Bxd4+"]
+[FEN "6k1/5p1p/6p1/1N6/1b1p1P2/7P/1P4P1/6K1 w - - 0 29"]
+[SetUp "1"]
+
+29. Nxd4 Bc5 30. Kf2 Bxd4+ *

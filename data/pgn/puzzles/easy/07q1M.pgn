@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07q1M"]
+[Difficulty "easy"]
+[Rating "939"]
+[Themes "kingsideAttack mate mateIn2 middlegame operaMate short"]
+[GameUrl "https://lichess.org/game/BYvwipGI#45"]
+[Solution "e2f4 g2g1 f1g1 g8g1"]
+[SolutionSAN "Nf4 Rg1+ Rxg1 Rxg1#"]
+[FEN "k5r1/pp1Rnp1p/2n5/1B6/1P2P3/P7/2Q1NbrP/5R1K w - - 0 23"]
+[SetUp "1"]
+
+23. Nf4 Rg1+ 24. Rxg1 Rxg1# *

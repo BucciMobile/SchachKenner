@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0COYv"]
+[Difficulty "easy"]
+[Rating "1160"]
+[Themes "advantage endgame hangingPiece short trappedPiece"]
+[GameUrl "https://lichess.org/game/CtG3Y5gx#53"]
+[Solution "e1e2 c2e2 h7f6 g7f6"]
+[SolutionSAN "Rxe2 Rxe2 Nxf6+ gxf6"]
+[FEN "6k1/4n1pN/4pp2/p2p4/P2P4/4P3/2r1nPPP/R3R1K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Rxe2 Rxe2 28. Nxf6+ gxf6 *

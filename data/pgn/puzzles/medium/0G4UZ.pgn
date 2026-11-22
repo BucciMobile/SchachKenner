@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G4UZ"]
+[Difficulty "medium"]
+[Rating "1482"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/rxRLSEfE/black#132"]
+[Solution "h7h6 e1h1 e3h3 h1h3"]
+[SolutionSAN "Kxh6 Rh1+ Rh3 Rxh3#"]
+[FEN "8/7k/5KPP/8/8/4r3/4p3/4R3 b - - 0 66"]
+[SetUp "1"]
+
+66... Kxh6 67. Rh1+ Rh3 68. Rxh3# *

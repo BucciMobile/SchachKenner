@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0P2nh"]
+[Difficulty "medium"]
+[Rating "1467"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/uWOfAUyQ#79"]
+[Solution "h1f1 h7g8 c4d4 b2d2"]
+[SolutionSAN "Rf1 Bg8+ Kd4 Rd2#"]
+[FEN "5B2/p6b/1p3k1P/5p2/2K1p1p1/P1P1P1P1/1r3P2/7R w - - 1 40"]
+[SetUp "1"]
+
+40. Rf1 Bg8+ 41. Kd4 Rd2# *

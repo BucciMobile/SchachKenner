@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09zAC"]
+[Difficulty "medium"]
+[Rating "1450"]
+[Themes "crushing fork long middlegame"]
+[GameUrl "https://lichess.org/game/G40o3Zdi#45"]
+[Solution "d2d8 f4e2 g1h2 e2c3 d8e8 g8f7"]
+[SolutionSAN "Rxd8 Ne2+ Kh2 Nxc3 Rxe8+ Kf7"]
+[FEN "3rr1k1/p1q1b1pp/1p3p2/2p1p3/1PP1Pn2/P1Q2N1P/3R1PP1/1B1R2K1 w - - 1 23"]
+[SetUp "1"]
+
+23. Rxd8 Ne2+ 24. Kh2 Nxc3 25. Rxe8+ Kf7 *

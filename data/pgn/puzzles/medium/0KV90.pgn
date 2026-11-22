@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KV90"]
+[Difficulty "medium"]
+[Rating "1393"]
+[Themes "discoveredCheck doubleCheck long mate mateIn3 middlegame sacrifice smotheredMate"]
+[GameUrl "https://lichess.org/game/PLvRbYS1#43"]
+[Solution "a1e1 f2h3 g1h1 d4g1 f1g1 h3f2"]
+[SolutionSAN "Rae1 Nh3+ Kh1 Qg1+ Rxg1 Nf2#"]
+[FEN "1k1r4/pPp3p1/7p/5Q2/1P1q4/P4B2/5nPP/R4RK1 w - - 0 22"]
+[SetUp "1"]
+
+22. Rae1 Nh3+ 23. Kh1 Qg1+ 24. Rxg1 Nf2# *

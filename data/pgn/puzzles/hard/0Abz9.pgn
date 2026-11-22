@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Abz9"]
+[Difficulty "hard"]
+[Rating "1767"]
+[Themes "attraction kingsideAttack mate mateIn5 middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/7JLlQi2F#35"]
+[Solution "c1e3 h8h1 g1h1 d8h4 h1g1 h4h2 g1f1 h2h1 e3g1 h1g1"]
+[SolutionSAN "Be3 Rh1+ Kxh1 Qh4+ Kg1 Qh2+ Kf1 Qh1+ Bg1 Qxg1#"]
+[FEN "r2q1k1r/p4Pp1/b1p5/2b1N3/2p5/3P2p1/PPP1Q1P1/R1B1R1K1 w - - 2 18"]
+[SetUp "1"]
+
+18. Be3 Rh1+ 19. Kxh1 Qh4+ 20. Kg1 Qh2+ 21. Kf1 Qh1+ 22. Bg1 Qxg1# *

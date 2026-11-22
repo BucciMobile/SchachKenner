@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04MT4"]
+[Difficulty "medium"]
+[Rating "1231"]
+[Themes "endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/qspyCaEo/black#68"]
+[Solution "c5c4 g2g4 f5g4 h3g4 h5h4 e5f6"]
+[SolutionSAN "Qc4 g4+ fxg4 hxg4+ Kh4 Bf6#"]
+[FEN "8/p5R1/7p/1pq1Bp1k/5P2/7P/P5PK/8 b - - 1 34"]
+[SetUp "1"]
+
+34... Qc4 35. g4+ fxg4 36. hxg4+ Kh4 37. Bf6# *

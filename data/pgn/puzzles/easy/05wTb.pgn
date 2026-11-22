@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05wTb"]
+[Difficulty "easy"]
+[Rating "627"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+[GameUrl "https://lichess.org/game/NQTNj8zd/black#80"]
+[Solution "g7h6 d7h7"]
+[SolutionSAN "gxh6 Rh7#"]
+[FEN "6rk/1R1R2p1/1p5Q/p1p5/4p2P/1q4P1/5PK1/8 b - - 0 40"]
+[SetUp "1"]
+
+40... gxh6 41. Rh7# *

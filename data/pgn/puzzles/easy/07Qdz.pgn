@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Qdz"]
+[Difficulty "easy"]
+[Rating "1147"]
+[Themes "mate mateIn1 oneMove opening pin smotheredMate"]
+[GameUrl "https://lichess.org/game/43klrOnM#21"]
+[Solution "b2d4 e5d3"]
+[SolutionSAN "Bxd4 Nd3#"]
+[FEN "r1b1k1nr/1pp1qppp/1p6/4n3/1P1p4/P4N2/1B1NPPPP/R2QKB1R w KQkq - 0 11"]
+[SetUp "1"]
+
+11. Bxd4 Nd3# *

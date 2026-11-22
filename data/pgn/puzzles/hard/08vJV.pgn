@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08vJV"]
+[Difficulty "hard"]
+[Rating "1787"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/8H2kpvEN#63"]
+[Solution "f3f4 e5d3 f2g3 d3c1"]
+[SolutionSAN "f4 Nd3+ Kg3 Nxc1"]
+[FEN "8/5pp1/1rpk2bp/2Rpn3/qP6/P1Q1PP2/5KPP/2R5 w - - 0 32"]
+[SetUp "1"]
+
+32. f4 Nd3+ 33. Kg3 Nxc1 *

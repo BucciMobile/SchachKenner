@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DL2q"]
+[Difficulty "easy"]
+[Rating "550"]
+[Themes "endgame master mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/rdaIUVMp/black#80"]
+[Solution "a3a2 d6d8 g8h7 d8h8"]
+[SolutionSAN "Ra2 Rd8+ Kh7 Rh8#"]
+[FEN "6k1/1p3p2/2pRb2p/7K/p2B4/r1P1P3/8/8 b - - 1 40"]
+[SetUp "1"]
+
+40... Ra2 41. Rd8+ Kh7 42. Rh8# *

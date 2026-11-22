@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02cTH"]
+[Difficulty "easy"]
+[Rating "1168"]
+[Themes "crushing endgame fork long master"]
+[GameUrl "https://lichess.org/game/GnDIhFfj#113"]
+[Solution "b5f5 d2f2 f5f2 e3f2 a6a7 f2a7"]
+[SolutionSAN "Qxf5 Rf2+ Qxf2+ Bxf2 a7 Bxa7"]
+[FEN "8/8/P7/1Q3p2/6p1/4b1k1/3r4/5K2 w - - 3 57"]
+[SetUp "1"]
+
+57. Qxf5 Rf2+ 58. Qxf2+ Bxf2 59. a7 Bxa7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CBoL"]
+[Difficulty "medium"]
+[Rating "1267"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/EnCEhDBj#77"]
+[Solution "h4h5 g7h7"]
+[SolutionSAN "Kxh5 Rh7#"]
+[FEN "6k1/1p4r1/p1p5/2Pp3p/1P3R1K/1P1R1P1P/6r1/8 w - - 0 39"]
+[SetUp "1"]
+
+39. Kxh5 Rh7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AmbH"]
+[Difficulty "easy"]
+[Rating "1198"]
+[Themes "endgame hookMate mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/hkBUtVQC/black#86"]
+[Solution "e7d6 e5e6"]
+[SolutionSAN "Kd6 Re6#"]
+[FEN "8/2p1k3/pp4pr/2N1R3/1P1PP2r/8/1P6/1K6 b - - 1 43"]
+[SetUp "1"]
+
+43... Kd6 44. Re6# *

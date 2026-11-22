@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "090UQ"]
+[Difficulty "hard"]
+[Rating "1952"]
+[Themes "advantage opening pin short"]
+[GameUrl "https://lichess.org/game/rp0PRMLr/black#32"]
+[Solution "c6e5 d4e5 d3f1 e5f6"]
+[SolutionSAN "Nxe5 dxe5 Bxf1 exf6"]
+[FEN "r2q1rk1/pp3ppp/2n2b2/4N3/3P4/2Pb1NQ1/PP3PPP/R1B2RK1 b - - 8 16"]
+[SetUp "1"]
+
+16... Nxe5 17. dxe5 Bxf1 18. exf6 *

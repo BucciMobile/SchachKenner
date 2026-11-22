@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "054n8"]
+[Difficulty "medium"]
+[Rating "1520"]
+[Themes "advantage deflection discoveredAttack kingsideAttack master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/Ingpk92C#27"]
+[Solution "e2c2 f4h3 g2h3 f6f3"]
+[SolutionSAN "Qc2 Nxh3+ gxh3 Qxf3"]
+[FEN "r4rk1/pp3ppp/2nbpq2/3p2B1/3P1n2/2PB1N1P/PP2QPP1/R4RK1 w - - 12 14"]
+[SetUp "1"]
+
+14. Qc2 Nxh3+ 15. gxh3 Qxf3 *

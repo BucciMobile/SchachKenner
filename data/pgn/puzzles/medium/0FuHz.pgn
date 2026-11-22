@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FuHz"]
+[Difficulty "medium"]
+[Rating "1687"]
+[Themes "advantage fork long master masterVsMaster middlegame"]
+[GameUrl "https://lichess.org/game/ZCXEKAjd/black#30"]
+[Solution "h8h5 h1h5 g6h5 b3b5 b8d7 b5h5"]
+[SolutionSAN "Rxh5 Rxh5 Bxh5 Qb5+ Nd7 Qxh5"]
+[FEN "rn2k2r/p1p1qpp1/1p2p1b1/7P/3P4/1QP2P2/PP6/R3KBNR b KQkq - 0 15"]
+[SetUp "1"]
+
+15... Rxh5 16. Rxh5 Bxh5 17. Qb5+ Nd7 18. Qxh5 *

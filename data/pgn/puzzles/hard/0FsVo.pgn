@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FsVo"]
+[Difficulty "hard"]
+[Rating "1710"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/hjnFQ6w8/black#56"]
+[Solution "d7c7 a1c1 c3c1 d1c1"]
+[SolutionSAN "Kc7 Rc1 Qxc1+ Kxc1"]
+[FEN "2r5/p2kp3/3p1np1/1B3pB1/P2P1N2/1Pq1PP2/6P1/R2K4 b - - 0 28"]
+[SetUp "1"]
+
+28... Kc7 29. Rc1 Qxc1+ 30. Kxc1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BqNv"]
+[Difficulty "easy"]
+[Rating "851"]
+[Themes "advancedPawn deflection endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/xVSsNMZC/black#88"]
+[Solution "d6d5 f6f7 g8h8 e8f8"]
+[SolutionSAN "Rxd5 f7+ Kh8 Rxf8#"]
+[FEN "4Rbk1/p7/3r1PK1/1ppB4/8/8/P1P5/8 b - - 2 44"]
+[SetUp "1"]
+
+44... Rxd5 45. f7+ Kh8 46. Rxf8# *

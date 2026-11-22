@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HbIl"]
+[Difficulty "easy"]
+[Rating "1125"]
+[Themes "advantage discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/UU8E6TFf/black#78"]
+[Solution "d5b6 c4e5 f6e5 c1c7"]
+[SolutionSAN "Nb6 Ne5+ fxe5 Rxc7"]
+[FEN "8/2r5/5pk1/3n2pp/1pNP4/6P1/5P1P/2R2K2 b - - 2 39"]
+[SetUp "1"]
+
+39... Nb6 40. Ne5+ fxe5 41. Rxc7 *

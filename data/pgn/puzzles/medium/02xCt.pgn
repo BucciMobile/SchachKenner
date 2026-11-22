@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02xCt"]
+[Difficulty "medium"]
+[Rating "1518"]
+[Themes "crushing endgame exposedKing long rookEndgame skewer"]
+[GameUrl "https://lichess.org/game/XgHWCUIA#101"]
+[Solution "h5d5 a2a1 c1d2 a1d1 d2e3 d1d5"]
+[SolutionSAN "Rxd5 Ra1+ Kd2 Rd1+ Ke3 Rxd5"]
+[FEN "2R5/8/p7/3n3R/4p2P/1k6/r1p2P2/2K5 w - - 4 51"]
+[SetUp "1"]
+
+51. Rxd5 Ra1+ 52. Kd2 Rd1+ 53. Ke3 Rxd5 *

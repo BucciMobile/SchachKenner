@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bq5V"]
+[Difficulty "easy"]
+[Rating "675"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/M52svkgm#37"]
+[Solution "b1b2 d2d1 e7e1 d1e1"]
+[SolutionSAN "Rb2 Rd1+ Re1 Rxe1#"]
+[FEN "2k4r/ppp1R2p/6p1/5p2/8/1P6/P1Pr1PPP/1R4K1 w - - 1 19"]
+[SetUp "1"]
+
+19. Rb2 Rd1+ 20. Re1 Rxe1# *

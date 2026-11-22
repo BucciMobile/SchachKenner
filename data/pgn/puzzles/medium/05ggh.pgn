@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ggh"]
+[Difficulty "medium"]
+[Rating "1333"]
+[Themes "deflection endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/AqDabyOZ/black#64"]
+[Solution "c7b6 e5d6 b6a5 d6c5 b7b5 c5b5"]
+[SolutionSAN "Kb6 Qd6+ Ka5 Qxc5+ b5 Qxb5#"]
+[FEN "r5q1/ppk5/8/2pPQ3/2P5/3P2P1/PP5P/n5K1 b - - 12 32"]
+[SetUp "1"]
+
+32... Kb6 33. Qd6+ Ka5 34. Qxc5+ b5 35. Qxb5# *

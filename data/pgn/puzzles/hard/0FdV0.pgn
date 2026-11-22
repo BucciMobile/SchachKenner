@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FdV0"]
+[Difficulty "hard"]
+[Rating "2353"]
+[Themes "advantage fork master opening short"]
+[GameUrl "https://lichess.org/game/J0OctIlS#29"]
+[Solution "d4f5 g7g6 h5h6 c8f5"]
+[SolutionSAN "Nf5 g6 Qxh6 Bxf5"]
+[FEN "r1b2rk1/ppq2pp1/2p2b1p/2nn3Q/2BN4/2P2N2/PP3PPP/R1BR2K1 w - - 4 15"]
+[SetUp "1"]
+
+15. Nf5 g6 16. Qxh6 Bxf5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04ROo"]
+[Difficulty "hard"]
+[Rating "1965"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/sRRRQ4G2/black#50"]
+[Solution "c7d6 e5d5 d6d5 c4d5"]
+[SolutionSAN "Qd6 Rd5 Qxd5 cxd5"]
+[FEN "3r4/p1q2p1p/1p2bkp1/4R3/2Pr1P2/1PQ1R1P1/P4P1P/6K1 b - - 2 25"]
+[SetUp "1"]
+
+25... Qd6 26. Rd5 Qxd5 27. cxd5 *

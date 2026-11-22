@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "021Fv"]
+[Difficulty "hard"]
+[Rating "2168"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/ECQciMRr/black#82"]
+[Solution "d7c6 d4c3 c6d7 c3d2 f3h3 h1g1"]
+[SolutionSAN "Kc6 Qc3+ Kd7 Qxd2 Qh3+ Kg1"]
+[FEN "8/pp1k4/8/8/3Q3P/3P1q2/3r2R1/7K b - - 4 41"]
+[SetUp "1"]
+
+41... Kc6 42. Qc3+ Kd7 43. Qxd2 Qh3+ 44. Kg1 *

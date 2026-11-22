@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Mof"]
+[Difficulty "medium"]
+[Rating "1340"]
+[Themes "crushing defensiveMove endgame pawnEndgame short zugzwang"]
+[GameUrl "https://lichess.org/game/7wfPApSr/black#88"]
+[Solution "h7h6 c2c3 a2a3 c3c4"]
+[SolutionSAN "h6 Kc3 Ka3 Kc4"]
+[FEN "8/7p/1p6/p7/P5Pp/1P5P/k1K5/8 b - - 0 44"]
+[SetUp "1"]
+
+44... h6 45. Kc3 Ka3 46. Kc4 *

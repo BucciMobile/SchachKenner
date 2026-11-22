@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bz05"]
+[Difficulty "medium"]
+[Rating "1258"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/7sENm0V1/black#46"]
+[Solution "c7f4 g5g7"]
+[SolutionSAN "Qf4 Qxg7#"]
+[FEN "4rrk1/p1q3pp/1pp5/6Q1/4p2N/1P2R2P/PBP5/6K1 b - - 1 23"]
+[SetUp "1"]
+
+23... Qf4 24. Qxg7# *

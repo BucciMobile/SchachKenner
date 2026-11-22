@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05iFh"]
+[Difficulty "easy"]
+[Rating "1007"]
+[Themes "endgame fork mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/EMTUAeoj/black#50"]
+[Solution "d4d3 a2f7 g8h8 f7g7"]
+[SolutionSAN "Qxd3 Qxf7+ Kh8 Qxg7#"]
+[FEN "r5k1/p1R2pp1/1p1p2np/1P6/3qPP2/3B2P1/Q6P/7K b - - 2 25"]
+[SetUp "1"]
+
+25... Qxd3 26. Qxf7+ Kh8 27. Qxg7# *

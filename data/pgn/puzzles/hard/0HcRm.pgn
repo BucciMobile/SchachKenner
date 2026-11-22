@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HcRm"]
+[Difficulty "hard"]
+[Rating "2473"]
+[Themes "crushing defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/i2QHSMCq#51"]
+[Solution "g1g2 c7c6 g2h3 e1e5"]
+[SolutionSAN "Kg2 Qc6+ Kh3 R1e5"]
+[FEN "4r2k/ppq3p1/5b1p/1Np5/8/2PQ2P1/PP1R1P1P/3Rr1K1 w - - 2 26"]
+[SetUp "1"]
+
+26. Kg2 Qc6+ 27. Kh3 R1e5 *

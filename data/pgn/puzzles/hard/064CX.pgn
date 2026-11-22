@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "064CX"]
+[Difficulty "hard"]
+[Rating "1877"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/RgidUlAa/black#70"]
+[Solution "a2a1q e6f8 g6f5 d7d5"]
+[SolutionSAN "a1=Q Nf8+ Kf5 Rd5#"]
+[FEN "8/3R4/p3Npk1/6pp/8/2r2PP1/p4K1P/8 b - - 3 35"]
+[SetUp "1"]
+
+35... a1=Q 36. Nf8+ Kf5 37. Rd5# *

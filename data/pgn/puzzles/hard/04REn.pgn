@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04REn"]
+[Difficulty "hard"]
+[Rating "2236"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/tHJXYLJJ#47"]
+[Solution "b1b6 h4e1 d3f1 d8d2 c2d2 e1d2"]
+[SolutionSAN "Rxb6 Qe1+ Bf1 Rd2 Qxd2 Qxd2"]
+[FEN "b2r1r2/R4pk1/1p2p1p1/4P3/7q/2PB1P2/2Q3PP/1R4K1 w - - 4 24"]
+[SetUp "1"]
+
+24. Rxb6 Qe1+ 25. Bf1 Rd2 26. Qxd2 Qxd2 *

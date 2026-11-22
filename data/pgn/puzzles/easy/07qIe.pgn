@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07qIe"]
+[Difficulty "easy"]
+[Rating "468"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/SBePwdKa/black#50"]
+[Solution "g6f5 g3g8"]
+[SolutionSAN "gxf5 Rg8#"]
+[FEN "4rk2/ppp1rp1p/6p1/5Q2/3p4/P2P2R1/KPP5/6R1 b - - 0 25"]
+[SetUp "1"]
+
+25... gxf5 26. Rg8# *

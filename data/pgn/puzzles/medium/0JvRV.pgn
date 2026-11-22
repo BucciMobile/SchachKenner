@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JvRV"]
+[Difficulty "medium"]
+[Rating "1495"]
+[Themes "crushing middlegame short xRayAttack"]
+[GameUrl "https://lichess.org/game/43KUbyZ9#41"]
+[Solution "c5b5 a4b3 b5b3 b8b3"]
+[SolutionSAN "Rxb5 Qxb3 Rxb3 Rxb3"]
+[FEN "rr3nk1/5ppp/4pn2/1pRp4/q2P4/1Q1BPN2/1P3PPP/5RK1 w - - 4 21"]
+[SetUp "1"]
+
+21. Rxb5 Qxb3 22. Rxb3 Rxb3 *

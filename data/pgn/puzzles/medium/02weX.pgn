@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02weX"]
+[Difficulty "medium"]
+[Rating "1208"]
+[Themes "advantage fork opening short"]
+[GameUrl "https://lichess.org/game/XL9mj2V9#25"]
+[Solution "e2c4 e7c5 g3f2 c5c4"]
+[SolutionSAN "Bxc4 Qc5+ Qf2 Qxc4"]
+[FEN "r1b2rk1/pp1pqpbp/6p1/3nP3/2p2P2/P5Q1/1PP1B1PP/RNB2RK1 w - - 0 13"]
+[SetUp "1"]
+
+13. Bxc4 Qc5+ 14. Qf2 Qxc4 *

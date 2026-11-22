@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EkCs"]
+[Difficulty "hard"]
+[Rating "1786"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/Rs6BMUsb#47"]
+[Solution "b5d6 e3f4 d6c8 f4g3"]
+[SolutionSAN "Nd6 Bf4 Nxc8 Bxg3"]
+[FEN "2r3k1/pp1n2p1/4pqpp/1N1p4/8/P3bPQ1/1PP3PP/1K1R3R w - - 0 24"]
+[SetUp "1"]
+
+24. Nd6 Bf4 25. Nxc8 Bxg3 *

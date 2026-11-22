@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HFis"]
+[Difficulty "easy"]
+[Rating "973"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/rym4dWRD#53"]
+[Solution "b5e8 e5e8 c8e8 f7e8"]
+[SolutionSAN "Be8+ Rxe8 Rxe8 Kxe8"]
+[FEN "2R5/1p3kpp/1q1r1b2/1B1pr3/P7/3QP3/6PP/5RK1 w - - 2 27"]
+[SetUp "1"]
+
+27. Be8+ Rxe8 28. Rxe8 Kxe8 *

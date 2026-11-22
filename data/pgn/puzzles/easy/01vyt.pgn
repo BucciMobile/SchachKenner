@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01vyt"]
+[Difficulty "easy"]
+[Rating "683"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/vNqZn4cv#27"]
+[Solution "c5e6 g7g2"]
+[SolutionSAN "Nxe6 Qxg2#"]
+[FEN "2kr2r1/ppp2pqp/2n1b3/2N5/2pp4/5N2/PPP1QPPP/R4RK1 w - - 0 14"]
+[SetUp "1"]
+
+14. Nxe6 Qxg2# *

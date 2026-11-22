@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KvPQ"]
+[Difficulty "medium"]
+[Rating "1679"]
+[Themes "crushing middlegame pin sacrifice short"]
+[GameUrl "https://lichess.org/game/2dUBXIuY/black#80"]
+[Solution "d8e8 e7f6 e8e1 h1h2"]
+[SolutionSAN "Re8 Bxf6 Rxe1+ Kh2"]
+[FEN "2qr2k1/4Bpp1/5n1p/pP3P2/p7/2n3QP/2B3P1/4R2K b - - 1 40"]
+[SetUp "1"]
+
+40... Re8 41. Bxf6 Rxe1+ 42. Kh2 *

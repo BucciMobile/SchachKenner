@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AvkS"]
+[Difficulty "easy"]
+[Rating "1118"]
+[Themes "kingsideAttack mate mateIn2 middlegame pillsburysMate sacrifice short"]
+[GameUrl "https://lichess.org/game/1A7gRgO7#43"]
+[Solution "d3e4 d5d1 a1d1 d8d1"]
+[SolutionSAN "Be4 Qd1+ Rxd1 Rxd1#"]
+[FEN "2kr4/pp6/2p2ppQ/2bqp3/7B/3B1P1b/PPP2P1P/R6K w - - 0 22"]
+[SetUp "1"]
+
+22. Be4 Qd1+ 23. Rxd1 Rxd1# *

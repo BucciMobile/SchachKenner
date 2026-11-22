@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IEcT"]
+[Difficulty "medium"]
+[Rating "1285"]
+[Themes "kingsideAttack long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/cGQYE7li#25"]
+[Solution "g1h1 e4g3 h2g3 e6h6 e2h5 h6h5"]
+[SolutionSAN "Kh1 Ng3+ hxg3 Qh6+ Qh5 Qxh5#"]
+[FEN "r3k2r/p1p2ppp/2p1q3/2bpP3/4nP2/8/PPPNQ1PP/R1B2RK1 w kq - 5 13"]
+[SetUp "1"]
+
+13. Kh1 Ng3+ 14. hxg3 Qh6+ 15. Qh5 Qxh5# *

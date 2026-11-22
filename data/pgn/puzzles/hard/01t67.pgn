@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01t67"]
+[Difficulty "hard"]
+[Rating "2013"]
+[Themes "advantage endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/pSXm71OB#105"]
+[Solution "e1g1 c8h8 h4g4 h8g8"]
+[SolutionSAN "Rg1 Rh8+ Kg4 Rg8+"]
+[FEN "2r5/8/p3P3/5P2/7K/2p4P/P2k1P2/4R3 w - - 4 53"]
+[SetUp "1"]
+
+53. Rg1 Rh8+ 54. Kg4 Rg8+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AgsO"]
+[Difficulty "easy"]
+[Rating "908"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/M4VsU7Cw/black#42"]
+[Solution "c8h3 c2h7"]
+[SolutionSAN "Bh3 Qh7#"]
+[FEN "r1b2rk1/5pp1/p2p3p/1p1PP2q/2pb1P2/P1N3P1/1PQ4P/RB3R1K b - - 0 21"]
+[SetUp "1"]
+
+21... Bh3 22. Qh7# *

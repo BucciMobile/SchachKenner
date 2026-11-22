@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07lM1"]
+[Difficulty "hard"]
+[Rating "1762"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/Dkn1LOYE#51"]
+[Solution "h7f7 h8f8 f7f8 d8f8"]
+[SolutionSAN "Qxf7 Rhf8 Qxf8 Rxf8"]
+[FEN "1k1r3r/pp2Rp1Q/8/3p4/8/8/Pq3PPP/4R1K1 w - - 1 26"]
+[SetUp "1"]
+
+26. Qxf7 Rhf8 27. Qxf8 Rxf8 *

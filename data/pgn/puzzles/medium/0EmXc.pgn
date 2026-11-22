@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EmXc"]
+[Difficulty "medium"]
+[Rating "1525"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/RAEVR9T7#67"]
+[Solution "c2c3 g6e5 c3b4 e5g4"]
+[SolutionSAN "c3 Ne5 cxb4 Nxg4+"]
+[FEN "8/5kp1/3p1pn1/p1p4r/Pp2P1Rp/1P1PK2P/1BP3P1/8 w - - 9 34"]
+[SetUp "1"]
+
+34. c3 Ne5 35. cxb4 Nxg4+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F71n"]
+[Difficulty "hard"]
+[Rating "2495"]
+[Themes "crushing master middlegame pin short"]
+[GameUrl "https://lichess.org/game/MXys0xB7/black#40"]
+[Solution "c6d8 e6g6 b7c6 d6f7"]
+[SolutionSAN "Nd8 Qg6 Bc6 Nxf7"]
+[FEN "r5k1/1b3rb1/p1nNQ3/qp6/3P4/8/PP3PPP/R3R1K1 b - - 4 20"]
+[SetUp "1"]
+
+20... Nd8 21. Qg6 Bc6 22. Nxf7 *

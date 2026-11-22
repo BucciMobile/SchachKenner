@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "077ct"]
+[Difficulty "hard"]
+[Rating "2105"]
+[Themes "advantage clearance middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/MlR58udY/black#30"]
+[Solution "d4c2 g5e6 f7e6 e3h6 g7g5 g3f2 g8h8 f2c2"]
+[SolutionSAN "Nxc2 Nxe6 fxe6 Bh6 g5 Qf2 Kh8 Qxc2"]
+[FEN "r2qr1k1/1p2bppp/p3b3/2ppP1N1/P2n4/2NPB1Q1/1PP3PP/R4RK1 b - - 7 15"]
+[SetUp "1"]
+
+15... Nxc2 16. Nxe6 fxe6 17. Bh6 g5 18. Qf2 Kh8 19. Qxc2 *

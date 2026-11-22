@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LKzq"]
+[Difficulty "medium"]
+[Rating "1200"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/Z5RJ30NZ#57"]
+[Solution "d8e6 d4d1 g1g2 g8f7"]
+[SolutionSAN "Ne6 Rd1+ Kg2 Kxf7"]
+[FEN "3N2k1/pB3R1p/6p1/P7/3r4/b5P1/1n2PP1P/6K1 w - - 1 29"]
+[SetUp "1"]
+
+29. Ne6 Rd1+ 30. Kg2 Kxf7 *

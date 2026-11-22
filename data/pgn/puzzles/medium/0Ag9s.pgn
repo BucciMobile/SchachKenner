@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ag9s"]
+[Difficulty "medium"]
+[Rating "1599"]
+[Themes "crushing endgame hangingPiece intermezzo master short"]
+[GameUrl "https://lichess.org/game/cxOeDVHL/black#52"]
+[Solution "b8b5 c6a8 g8g7 c4b5"]
+[SolutionSAN "Rxb5 Qxa8+ Kg7 cxb5"]
+[FEN "rr4k1/2p1q2p/2Qp2p1/1NpPpp2/2P1P3/P4P2/6PP/4R1K1 b - - 0 26"]
+[SetUp "1"]
+
+26... Rxb5 27. Qxa8+ Kg7 28. cxb5 *

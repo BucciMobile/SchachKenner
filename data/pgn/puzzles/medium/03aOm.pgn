@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03aOm"]
+[Difficulty "medium"]
+[Rating "1402"]
+[Themes "crushing deflection kingsideAttack middlegame veryLong"]
+[GameUrl "https://lichess.org/game/F1zmIdhj/black#42"]
+[Solution "b3d2 g6h7 g8f7 d3g6 f7e7 h7g7 e7d8 g7f8"]
+[SolutionSAN "Nd2 Qh7+ Kf7 Bg6+ Ke7 Qxg7+ Kd8 Qxf8+"]
+[FEN "r4rk1/ppq3p1/4p1Qp/3pP3/8/1n1B4/PP3PPP/5RK1 b - - 1 21"]
+[SetUp "1"]
+
+21... Nd2 22. Qh7+ Kf7 23. Bg6+ Ke7 24. Qxg7+ Kd8 25. Qxf8+ *

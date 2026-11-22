@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JTm0"]
+[Difficulty "hard"]
+[Rating "1807"]
+[Themes "crushing defensiveMove endgame master short"]
+[GameUrl "https://lichess.org/game/LzZ8vYm9/black#88"]
+[Solution "d6d5 g2f3 d5d3 f3e4"]
+[SolutionSAN "Rxd5 Kf3 Rd3+ Ke4"]
+[FEN "8/7R/1p1r1p2/1P1BbPk1/6P1/7P/6K1/8 b - - 0 44"]
+[SetUp "1"]
+
+44... Rxd5 45. Kf3 Rd3+ 46. Ke4 *

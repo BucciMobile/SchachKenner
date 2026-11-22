@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08w2s"]
+[Difficulty "hard"]
+[Rating "2211"]
+[Themes "crushing endgame knightEndgame long"]
+[GameUrl "https://lichess.org/game/xcaZ1ynB#105"]
+[Solution "h2h3 f3e2 h3g4 e2d2 b4a2 d2c2"]
+[SolutionSAN "Kxh3 Ke2 Kg4 Kd2 Na2 Kc2"]
+[FEN "8/8/4p3/3p4/1N1P4/p1P2k1p/7K/8 w - - 12 53"]
+[SetUp "1"]
+
+53. Kxh3 Ke2 54. Kg4 Kd2 55. Na2 Kc2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Hgo"]
+[Difficulty "hard"]
+[Rating "1840"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/f1UzRY4P#79"]
+[Solution "b6b7 a6f1 c6g2 f1g2"]
+[SolutionSAN "b7 Bf1+ Bg2 Bxg2#"]
+[FEN "6k1/7p/bPBB4/5pp1/3P4/4P1PK/5P1P/4n3 w - - 0 40"]
+[SetUp "1"]
+
+40. b7 Bf1+ 41. Bg2 Bxg2# *

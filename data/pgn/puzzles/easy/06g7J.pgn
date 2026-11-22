@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06g7J"]
+[Difficulty "easy"]
+[Rating "695"]
+[Themes "endgame hangingPiece mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/9M0ta8FA#55"]
+[Solution "d5e5 g4d1 e5e1 d1e1"]
+[SolutionSAN "Qxe5 Qxd1+ Qe1 Qxe1#"]
+[FEN "2N2r1k/p4ppp/8/1R1Qn3/P2p2q1/8/P4PPP/3R2K1 w - - 1 28"]
+[SetUp "1"]
+
+28. Qxe5 Qxd1+ 29. Qe1 Qxe1# *

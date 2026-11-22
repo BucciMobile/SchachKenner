@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08hkJ"]
+[Difficulty "medium"]
+[Rating "1330"]
+[Themes "endgame master mate mateIn1 oneMove queenEndgame"]
+[GameUrl "https://lichess.org/game/Ob2oKtrY#103"]
+[Solution "d4d5 f4e5"]
+[SolutionSAN "Kd5 Qe5#"]
+[FEN "8/pp3Q2/5p1k/8/P1PK1qP1/1PP5/8/8 w - - 4 52"]
+[SetUp "1"]
+
+52. Kd5 Qe5# *

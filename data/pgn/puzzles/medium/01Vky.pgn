@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Vky"]
+[Difficulty "medium"]
+[Rating "1258"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/MkPK856n/black#48"]
+[Solution "b1b6 d6f8"]
+[SolutionSAN "Qb6 Qf8#"]
+[FEN "1r2k1nr/3b1ppp/3Qp3/8/8/B3P1P1/5P1P/1q3RK1 b k - 0 24"]
+[SetUp "1"]
+
+24... Qb6 25. Qf8# *

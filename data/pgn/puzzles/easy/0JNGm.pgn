@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JNGm"]
+[Difficulty "easy"]
+[Rating "860"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+[GameUrl "https://lichess.org/game/QOMLIynq#43"]
+[Solution "e3h6 h3f2"]
+[SolutionSAN "Bxh6 Nf2#"]
+[FEN "r3k2r/1b1p1ppp/3bp2q/1p6/1P6/P1P1BN1n/B5PP/R2Q2RK w kq - 4 22"]
+[SetUp "1"]
+
+22. Bxh6 Nf2# *

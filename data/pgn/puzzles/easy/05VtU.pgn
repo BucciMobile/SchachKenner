@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05VtU"]
+[Difficulty "easy"]
+[Rating "1162"]
+[Themes "backRankMate endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/bOCLJzTa#53"]
+[Solution "g3c7 h6e3 g1h1 e2e1 d1e1 e3e1"]
+[SolutionSAN "Qxc7 Qe3+ Kh1 Re1+ Rxe1 Qxe1#"]
+[FEN "7k/1pp2B1p/p5pq/1b3p2/8/2P2PQ1/PP2r1PP/3R2K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Qxc7 Qe3+ 28. Kh1 Re1+ 29. Rxe1 Qxe1# *

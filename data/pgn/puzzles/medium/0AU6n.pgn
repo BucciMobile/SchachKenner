@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AU6n"]
+[Difficulty "medium"]
+[Rating "1462"]
+[Themes "anastasiaMate attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/TGSt468i/black#50"]
+[Solution "e5f4 b1h7 h8h7 e3h3"]
+[SolutionSAN "exf4 Qxh7+ Kxh7 Rh3#"]
+[FEN "1r3r1k/1q1nN1pp/3P1p2/pPp1p3/Pn3B2/1P2R3/5PPP/1Q1R2K1 b - - 7 25"]
+[SetUp "1"]
+
+25... exf4 26. Qxh7+ Kxh7 27. Rh3# *

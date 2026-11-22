@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ixwd"]
+[Difficulty "easy"]
+[Rating "439"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/YuOm4RqY/black#48"]
+[Solution "b2a3 e1e8"]
+[SolutionSAN "Qxa3 Re8#"]
+[FEN "6k1/Bpp2ppp/3p4/3P4/2P5/P4B1P/1q4P1/4RK2 b - - 1 24"]
+[SetUp "1"]
+
+24... Qxa3 25. Re8# *

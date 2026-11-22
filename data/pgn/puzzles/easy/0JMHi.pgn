@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JMHi"]
+[Difficulty "easy"]
+[Rating "1112"]
+[Themes "attackingF2F7 master mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/rapVFmYS/black#14"]
+[Solution "g4d1 c4f7"]
+[SolutionSAN "Bxd1 Bxf7#"]
+[FEN "r2qkb1r/ppp1pppp/5n2/4N3/1PB3b1/4P3/P2P1PPP/RNBQ1RK1 b kq - 0 7"]
+[SetUp "1"]
+
+7... Bxd1 8. Bxf7# *

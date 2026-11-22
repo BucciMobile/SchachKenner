@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LySU"]
+[Difficulty "hard"]
+[Rating "1955"]
+[Themes "advantage kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/BbpnCo3W/black#44"]
+[Solution "f6d4 g2g8 e8g8 g1g8 a8g8 e2d4"]
+[SolutionSAN "Qxd4 Qxg8+ Rxg8 Rxg8+ Rxg8 Nxd4"]
+[FEN "r3r1nk/ppp2p1p/3b1q2/3N3P/2pP4/P2b4/1P2NPQ1/3RKBR1 b - - 6 22"]
+[SetUp "1"]
+
+22... Qxd4 23. Qxg8+ Rxg8 24. Rxg8+ Rxg8 25. Nxd4 *

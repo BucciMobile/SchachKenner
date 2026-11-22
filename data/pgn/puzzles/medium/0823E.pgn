@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0823E"]
+[Difficulty "medium"]
+[Rating "1380"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/CX8mIPyv/black#56"]
+[Solution "e5f5 e2d4 c6c7 d4f5 e3e2 g1f2"]
+[SolutionSAN "Rxf5 Nd4+ Kc7 Nxf5 e2 Kf2"]
+[FEN "8/p6p/2k5/1p1nrPp1/1P6/P2RpP1P/4N3/6K1 b - - 0 28"]
+[SetUp "1"]
+
+28... Rxf5 29. Nd4+ Kc7 30. Nxf5 e2 31. Kf2 *

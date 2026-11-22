@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C44u"]
+[Difficulty "easy"]
+[Rating "974"]
+[Themes "advantage fork master middlegame pin sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/IUGZ3zET#57"]
+[Solution "f7g7 g6g7 b7g7 g8g7 d2c2 d5e3 g2f2 e3c2"]
+[SolutionSAN "Rxg7+ Qxg7 Rxg7+ Kxg7 Qxc2 Ne3+ Kf2 Nxc2"]
+[FEN "3r2k1/pR3Rp1/4p1qp/3nN3/P2P4/5PP1/2rQ2KP/8 w - - 3 29"]
+[SetUp "1"]
+
+29. Rxg7+ Qxg7 30. Rxg7+ Kxg7 31. Qxc2 Ne3+ 32. Kf2 Nxc2 *

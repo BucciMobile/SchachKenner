@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FDEW"]
+[Difficulty "easy"]
+[Rating "877"]
+[Themes "crushing endgame fork master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/NySv8zCx/black#72"]
+[Solution "h4g3 c5e4 f6f5 e4g3"]
+[SolutionSAN "Bg3 Ne4+ Kf5 Nxg3+"]
+[FEN "8/8/2p1pkp1/2N4p/3P3b/2PK1P2/1P6/8 b - - 3 36"]
+[SetUp "1"]
+
+36... Bg3 37. Ne4+ Kf5 38. Nxg3+ *

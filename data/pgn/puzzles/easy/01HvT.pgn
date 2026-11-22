@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01HvT"]
+[Difficulty "easy"]
+[Rating "410"]
+[Themes "mate mateIn1 middlegame oneMove operaMate"]
+[GameUrl "https://lichess.org/game/mOSK58xR/black#20"]
+[Solution "f6e4 d1d8"]
+[SolutionSAN "Ne4 Rd8#"]
+[FEN "r1b1k2r/pp3ppp/2p1pn2/4P1B1/Pbp5/2N1P3/1P3PPP/3RKB1R b Kkq - 0 10"]
+[SetUp "1"]
+
+10... Ne4 11. Rd8# *

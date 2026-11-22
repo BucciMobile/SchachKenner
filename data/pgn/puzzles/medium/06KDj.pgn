@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06KDj"]
+[Difficulty "medium"]
+[Rating "1446"]
+[Themes "bishopEndgame endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/IaoZ6JmL#117"]
+[Solution "f3g4 b5e2 g4h4 g6g5"]
+[SolutionSAN "Kg4 Be2+ Kxh4 g5#"]
+[FEN "4k3/8/6p1/1bBPp3/1P2Pb1p/2p2K1P/2B3P1/8 w - - 2 59"]
+[SetUp "1"]
+
+59. Kg4 Be2+ 60. Kxh4 g5# *

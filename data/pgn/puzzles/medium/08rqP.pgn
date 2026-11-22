@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08rqP"]
+[Difficulty "medium"]
+[Rating "1647"]
+[Themes "bishopEndgame crushing endgame short"]
+[GameUrl "https://lichess.org/game/PzYTPArh#79"]
+[Solution "g3g4 b7d5 e4f5 d5e6"]
+[SolutionSAN "g4 Bxd5+ Kf5 Be6+"]
+[FEN "8/pbP5/3k4/3Pp3/PP2K3/6P1/8/8 w - - 1 40"]
+[SetUp "1"]
+
+40. g4 Bxd5+ 41. Kf5 Be6+ *

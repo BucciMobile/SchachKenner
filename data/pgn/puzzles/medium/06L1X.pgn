@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06L1X"]
+[Difficulty "medium"]
+[Rating "1247"]
+[Themes "middlegame"]
+[GameUrl "https://lichess.org/game/c98dQnih#31"]
+[Solution "d5e7 e8e7 f1c4 g8h8"]
+[SolutionSAN "Ne7+ Rxe7 Bc4+ Kh8"]
+[FEN "r3r1k1/pp4pp/n5q1/3N4/3P1Q2/5P2/PPb2P1P/2KR1B1R w - - 0 16"]
+[SetUp "1"]
+
+16. Ne7+ Rxe7 17. Bc4+ Kh8 *

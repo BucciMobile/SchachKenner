@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BP82"]
+[Difficulty "medium"]
+[Rating "1413"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/LLSustsB/black#98"]
+[Solution "e3e2 h3h2 e2d3 h2d2"]
+[SolutionSAN "Ke2 Rh2+ Kd3 Rxd2+"]
+[FEN "8/8/8/8/4P3/4kp1R/3r4/6K1 b - - 1 49"]
+[SetUp "1"]
+
+49... Ke2 50. Rh2+ Kd3 51. Rxd2+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GbDM"]
+[Difficulty "hard"]
+[Rating "1932"]
+[Themes "discoveredCheck doubleCheck mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/WH3GRzPm#29"]
+[Solution "b3c2 d3e1"]
+[SolutionSAN "Kc2 Ne1#"]
+[FEN "r6r/1pp1qkpp/5n2/3P1b2/pbPN4/NK1n1P2/PP4PP/R1BQ1B1R w - - 0 15"]
+[SetUp "1"]
+
+15. Kc2 Ne1# *

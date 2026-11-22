@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LqPn"]
+[Difficulty "medium"]
+[Rating "1234"]
+[Themes "advancedPawn endgame mate mateIn2 promotion short"]
+[GameUrl "https://lichess.org/game/7auYlpUs#69"]
+[Solution "b7b3 e2e1 d1e1 d2e1q"]
+[SolutionSAN "Qb3 Qe1+ Rxe1 dxe1=Q#"]
+[FEN "4r1k1/1Q3ppp/4p3/2P5/5B2/8/3pq1PP/3R2K1 w - - 4 35"]
+[SetUp "1"]
+
+35. Qb3 Qe1+ 36. Rxe1 dxe1=Q# *

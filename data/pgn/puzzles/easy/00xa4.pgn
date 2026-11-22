@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00xa4"]
+[Difficulty "easy"]
+[Rating "1011"]
+[Themes "advantage endgame hangingPiece long"]
+[GameUrl "https://lichess.org/game/H3LZtXxl#59"]
+[Solution "e3h6 g7h6 g2g8 e8d7 g8c8 d7c8"]
+[SolutionSAN "Bxh6 gxh6 Rg8+ Kd7 Rxc8 Kxc8"]
+[FEN "2r1k3/2p1rpp1/1p1p1b1p/p2P1P1P/P1P5/3KB3/5PR1/6R1 w - - 1 30"]
+[SetUp "1"]
+
+30. Bxh6 gxh6 31. Rg8+ Kd7 32. Rxc8 Kxc8 *

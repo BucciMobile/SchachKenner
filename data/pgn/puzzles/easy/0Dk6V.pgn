@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dk6V"]
+[Difficulty "easy"]
+[Rating "826"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/UDbSDTRu#55"]
+[Solution "b5a6 d5d1 c3e1 d1e1"]
+[SolutionSAN "bxa6 Rd1+ Qe1 Rxe1+"]
+[FEN "2r3k1/5pp1/p2q3p/1P1r4/2B5/1PQ5/2P2PPP/R5K1 w - - 3 28"]
+[SetUp "1"]
+
+28. bxa6 Rd1+ 29. Qe1 Rxe1+ *

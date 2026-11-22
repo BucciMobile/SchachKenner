@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "036ix"]
+[Difficulty "hard"]
+[Rating "1829"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/dH4aTzgg#43"]
+[Solution "b6e3 f5c2 b1a2 b8a8 b3a5 a8a5"]
+[SolutionSAN "Qe3 Bxc2+ Ka2 Ra8+ Na5 Rxa5+"]
+[FEN "1rr3k1/5pp1/1Q5p/5b2/8/1N3P2/1PP3PP/1K2R3 w - - 1 22"]
+[SetUp "1"]
+
+22. Qe3 Bxc2+ 23. Ka2 Ra8+ 24. Na5 Rxa5+ *

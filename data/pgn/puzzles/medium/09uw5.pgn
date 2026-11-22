@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09uw5"]
+[Difficulty "medium"]
+[Rating "1573"]
+[Themes "crushing defensiveMove endgame long pawnEndgame zugzwang"]
+[GameUrl "https://lichess.org/game/yDcxjwYW#85"]
+[Solution "c4d5 c6d5 h2h3 a5a4 b3a4 a6a5"]
+[SolutionSAN "cxd5+ Kxd5 h3 a4 bxa4 a5"]
+[FEN "8/8/p1k4p/p2p2p1/2PPp1P1/1P2K3/7P/8 w - - 0 43"]
+[SetUp "1"]
+
+43. cxd5+ Kxd5 44. h3 a4 45. bxa4 a5 *

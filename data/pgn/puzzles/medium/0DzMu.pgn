@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DzMu"]
+[Difficulty "medium"]
+[Rating "1541"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/vZL3scsA#59"]
+[Solution "h2g1 h4h1 g1h1 g4h3 h1g1 h3g2"]
+[SolutionSAN "Kg1 Rh1+ Kxh1 Qh3+ Kg1 Qg2#"]
+[FEN "3r2k1/pp5p/8/3R4/4p1qr/1QP2pP1/PP3P1K/3R4 w - - 0 30"]
+[SetUp "1"]
+
+30. Kg1 Rh1+ 31. Kxh1 Qh3+ 32. Kg1 Qg2# *

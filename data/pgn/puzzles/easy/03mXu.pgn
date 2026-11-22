@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03mXu"]
+[Difficulty "easy"]
+[Rating "1122"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/ctviTMq0#55"]
+[Solution "b7a7 f6f2 g1h1 f2f1 e1f1 f8f1"]
+[SolutionSAN "Qxa7 Qxf2+ Kh1 Qf1+ Rxf1 Rxf1#"]
+[FEN "2b2r2/pQ5p/3p1qpk/8/8/4R3/PP3PPP/4R1K1 w - - 8 28"]
+[SetUp "1"]
+
+28. Qxa7 Qxf2+ 29. Kh1 Qf1+ 30. Rxf1 Rxf1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BJk5"]
+[Difficulty "medium"]
+[Rating "1551"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/PKHbpbAB/black#100"]
+[Solution "f2h3 d2h6"]
+[SolutionSAN "Nxh3 Bh6#"]
+[FEN "5k2/7p/4KNp1/pp6/8/7P/3B1n2/8 b - - 6 50"]
+[SetUp "1"]
+
+50... Nxh3 51. Bh6# *

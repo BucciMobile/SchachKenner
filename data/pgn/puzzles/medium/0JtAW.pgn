@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JtAW"]
+[Difficulty "medium"]
+[Rating "1599"]
+[Themes "crushing deflection exposedKing fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/79JXQES6/black#42"]
+[Solution "d2g5 h7h8 g8f7 h4h7 f7e8 h7g6 e8d7 h8f8"]
+[SolutionSAN "Bxg5 Rh8+ Kf7 Qh7+ Ke8 Qxg6+ Kd7 Rxf8"]
+[FEN "rn3rk1/pp2p2R/6p1/q2p2N1/7Q/6B1/P2bKPP1/R7 b - - 1 21"]
+[SetUp "1"]
+
+21... Bxg5 22. Rh8+ Kf7 23. Qh7+ Ke8 24. Qxg6+ Kd7 25. Rxf8 *

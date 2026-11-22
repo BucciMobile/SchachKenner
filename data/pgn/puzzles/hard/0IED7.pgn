@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IED7"]
+[Difficulty "hard"]
+[Rating "1729"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/mYhxlo4X#63"]
+[Solution "d3a6 b7a6 c5c6 d5d4 e3d4 e4e3"]
+[SolutionSAN "Bxa6 bxa6 Kxc6 d4 exd4 e3"]
+[FEN "8/1p3k2/p1b2Pp1/2Kp2P1/4p3/P2BP3/P7/8 w - - 0 32"]
+[SetUp "1"]
+
+32. Bxa6 bxa6 33. Kxc6 d4 34. exd4 e3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ARds"]
+[Difficulty "easy"]
+[Rating "969"]
+[Themes "arabianMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/OIlABxP8#37"]
+[Solution "g2h3 f2h2"]
+[SolutionSAN "Bxh3 Rh2#"]
+[FEN "r3n2k/ppp3b1/3p2pp/8/4RB2/1QP2nPq/PP3rB1/RN5K w - - 0 19"]
+[SetUp "1"]
+
+19. Bxh3 Rh2# *

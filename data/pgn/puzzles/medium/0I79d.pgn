@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I79d"]
+[Difficulty "medium"]
+[Rating "1481"]
+[Themes "mate mateIn2 middlegame queensideAttack sacrifice short xRayAttack"]
+[GameUrl "https://lichess.org/game/EeaBRJ51#35"]
+[Solution "c3e4 a8a1 b2a1 f6a1"]
+[SolutionSAN "Ne4 Ra1+ Bxa1 Qxa1#"]
+[FEN "r4kr1/1bpB3p/4pq2/8/1b6/2N2NP1/1BP1QP1P/2KR3R w - - 1 18"]
+[SetUp "1"]
+
+18. Ne4 Ra1+ 19. Bxa1 Qxa1# *

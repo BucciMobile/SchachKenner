@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CcaN"]
+[Difficulty "hard"]
+[Rating "1760"]
+[Themes "crushing endgame sacrifice short"]
+[GameUrl "https://lichess.org/game/r3h3koNK#127"]
+[Solution "g6g2 e1e2 g2e2 f4f3"]
+[SolutionSAN "Rg2 Rxe2 Rxe2 Kf3"]
+[FEN "8/8/1p4R1/1Pp5/2P2k2/4p2P/1K1bB3/4r3 w - - 7 64"]
+[SetUp "1"]
+
+64. Rg2 Rxe2 65. Rxe2 Kf3 *

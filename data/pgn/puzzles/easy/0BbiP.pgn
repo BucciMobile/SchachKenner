@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BbiP"]
+[Difficulty "easy"]
+[Rating "1124"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/VYlFCBRU/black#62"]
+[Solution "e8e4 f3e4 c7f4 e4f3 f4d4 a4d4"]
+[SolutionSAN "R8e4 Bxe4 Qxf4+ Bf3 Qxd4 Rxd4"]
+[FEN "4r3/k1q2ppp/Ppp5/8/R2Q1P2/1P2rB2/2P2KPP/8 b - - 5 31"]
+[SetUp "1"]
+
+31... R8e4 32. Bxe4 Qxf4+ 33. Bf3 Qxd4 34. Rxd4 *

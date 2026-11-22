@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02hSh"]
+[Difficulty "hard"]
+[Rating "2217"]
+[Themes "advancedPawn crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/6qnkQyBX#77"]
+[Solution "d1c1 d3d2 c1a1 d4d3 a1a3 d3c2"]
+[SolutionSAN "Rc1 d2 Ra1 Kd3 Ra3+ Kc2"]
+[FEN "8/P1n5/1p5p/8/3kpp2/3p3P/5PP1/3R1K2 w - - 3 39"]
+[SetUp "1"]
+
+39. Rc1 d2 40. Ra1 Kd3 41. Ra3+ Kc2 *

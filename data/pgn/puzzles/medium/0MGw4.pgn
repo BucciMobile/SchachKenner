@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MGw4"]
+[Difficulty "medium"]
+[Rating "1369"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/nybKDDwA#75"]
+[Solution "e3f4 e5f4 g3f4 g5f4"]
+[SolutionSAN "exf4 exf4 gxf4 gxf4"]
+[FEN "8/8/p7/1p1kp1p1/1P3p2/P1KPP1P1/8/8 w - - 0 38"]
+[SetUp "1"]
+
+38. exf4 exf4 39. gxf4 gxf4 *

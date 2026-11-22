@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00z6j"]
+[Difficulty "hard"]
+[Rating "1949"]
+[Themes "advantage kingsideAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/XsKxGTMs/black#56"]
+[Solution "e5g4 d4g4 f6b2 h3h7"]
+[SolutionSAN "Nxg4 Qxg4 Bxb2 Rxh7"]
+[FEN "r3qrk1/p6p/1p2pbp1/3pn3/3Q2P1/P6R/1B3P2/1B4KR b - - 1 28"]
+[SetUp "1"]
+
+28... Nxg4 29. Qxg4 Bxb2 30. Rxh7 *

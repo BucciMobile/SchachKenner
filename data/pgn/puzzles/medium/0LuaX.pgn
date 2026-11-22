@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LuaX"]
+[Difficulty "medium"]
+[Rating "1360"]
+[Themes "advancedPawn crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/kICmULiX/black#110"]
+[Solution "e3h3 a6a7 h3h8 e5f7 d6c6 f7h8"]
+[SolutionSAN "Rh3 a7 Rh8 Nf7+ Kc6 Nxh8"]
+[FEN "8/8/P2k4/1p1pN3/1P1P4/1KP1r3/8/8 b - - 0 55"]
+[SetUp "1"]
+
+55... Rh3 56. a7 Rh8 57. Nf7+ Kc6 58. Nxh8 *

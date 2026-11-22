@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FVuZ"]
+[Difficulty "medium"]
+[Rating "1340"]
+[Themes "attraction crushing deflection endgame master short"]
+[GameUrl "https://lichess.org/game/udVAFd6G#85"]
+[Solution "d3e3 a1e1 e2e1 b6e3"]
+[SolutionSAN "Qe3 Re1+ Kxe1 Qxe3+"]
+[FEN "5k2/4p2p/1q1p1ppP/3P4/6P1/1P1Q1P2/2PRK3/r7 w - - 7 43"]
+[SetUp "1"]
+
+43. Qe3 Re1+ 44. Kxe1 Qxe3+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07MoH"]
+[Difficulty "medium"]
+[Rating "1648"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/1zvkOzVv#105"]
+[Solution "e1f1 f2f1 c1f1 f7e8"]
+[SolutionSAN "Rf1 Qxf1 Qxf1+ Kxe8"]
+[FEN "4R3/p4k2/2p3pp/3b4/8/2P5/PP3q1r/K1Q1R3 w - - 2 53"]
+[SetUp "1"]
+
+53. Rf1 Qxf1 54. Qxf1+ Kxe8 *

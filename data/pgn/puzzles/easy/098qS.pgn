@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "098qS"]
+[Difficulty "easy"]
+[Rating "655"]
+[Themes "crushing endgame master pawnEndgame short"]
+[GameUrl "https://lichess.org/game/efdCLwR3/black#96"]
+[Solution "g5h5 g3g4 f5g4 h3g4"]
+[SolutionSAN "Kh5 g4+ fxg4+ hxg4+"]
+[FEN "8/8/8/p3ppk1/1p6/1P3KPP/P7/8 b - - 1 48"]
+[SetUp "1"]
+
+48... Kh5 49. g4+ fxg4+ 50. hxg4+ *

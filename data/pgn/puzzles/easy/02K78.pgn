@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02K78"]
+[Difficulty "easy"]
+[Rating "1076"]
+[Themes "crushing endgame master pawnEndgame short"]
+[GameUrl "https://lichess.org/game/5Q0epH73/black#130"]
+[Solution "h4h5 e4f5 h5h6 f5f6"]
+[SolutionSAN "Kh5 Kf5 Kh6 Kxf6"]
+[FEN "8/8/5p2/8/4KP1k/8/8/8 b - - 0 65"]
+[SetUp "1"]
+
+65... Kh5 66. Kf5 Kh6 67. Kxf6 *

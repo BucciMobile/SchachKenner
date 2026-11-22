@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HfDJ"]
+[Difficulty "medium"]
+[Rating "1440"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/LiEmaliX/black#36"]
+[Solution "c5d4 d1e2 c8e6 g5e6"]
+[SolutionSAN "cxd4 Qe2+ Be6 Nxe6"]
+[FEN "r1b1k2r/1p3pp1/p2P3p/2p3N1/3B2P1/8/PPP2P1P/R2QKB1q b Qkq - 0 18"]
+[SetUp "1"]
+
+18... cxd4 19. Qe2+ Be6 20. Nxe6 *

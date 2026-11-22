@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04O6J"]
+[Difficulty "hard"]
+[Rating "2029"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/Qk4h6gRJ#25"]
+[Solution "e4c5 c6d4 c2c4 d6c5"]
+[SolutionSAN "Nxc5 Nxd4 Qc4 Bxc5"]
+[FEN "r1bq2k1/pp3ppp/2nbr3/1Bp5/3PN3/4P3/PPQB1PPP/R3K2R w KQ - 1 13"]
+[SetUp "1"]
+
+13. Nxc5 Nxd4 14. Qc4 Bxc5 *

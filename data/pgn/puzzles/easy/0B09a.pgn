@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B09a"]
+[Difficulty "easy"]
+[Rating "1123"]
+[Themes "advantage discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/eElebbo6#45"]
+[Solution "e6d8 e3f2 g1h1 c3h3"]
+[SolutionSAN "Nxd8 Bxf2+ Kh1 Rxh3"]
+[FEN "3q1rk1/p2p4/1p2N1p1/n3P2p/8/2r1b2Q/P4PPP/R2R2K1 w - - 0 23"]
+[SetUp "1"]
+
+23. Nxd8 Bxf2+ 24. Kh1 Rxh3 *

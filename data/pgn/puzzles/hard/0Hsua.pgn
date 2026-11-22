@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hsua"]
+[Difficulty "hard"]
+[Rating "1905"]
+[Themes "crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/DBC8guMt#63"]
+[Solution "g2g3 e5e4 f3e4 d5e4 b4c4 f5g4"]
+[SolutionSAN "g3 e4 fxe4+ dxe4 Kxc4 Kg4"]
+[FEN "8/7p/6p1/3ppk2/1Kp5/2P2P2/PP4PP/8 w - - 2 32"]
+[SetUp "1"]
+
+32. g3 e4 33. fxe4+ dxe4 34. Kxc4 Kg4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02x7v"]
+[Difficulty "easy"]
+[Rating "1070"]
+[Themes "advancedPawn bishopEndgame crushing endgame short"]
+[GameUrl "https://lichess.org/game/fpK3EPQM/black#100"]
+[Solution "a6b5 a5a6 d7c8 a6a7"]
+[SolutionSAN "axb5 a6 Bc8 a7"]
+[FEN "8/2Pb4/p7/PP6/5p1p/2k2K1P/6P1/8 b - - 0 50"]
+[SetUp "1"]
+
+50... axb5 51. a6 Bc8 52. a7 *

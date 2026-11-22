@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05tsQ"]
+[Difficulty "easy"]
+[Rating "969"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/XBVbcjo1#57"]
+[Solution "d5e4 b2f2 g1h1 f2f1 e1f1 f8f1"]
+[SolutionSAN "Qe4 Qxf2+ Kh1 Qf1+ Rxf1 Rxf1#"]
+[FEN "5r1k/2p4p/1p1p4/3Q4/PP6/8/1q3PPP/4R1K1 w - - 2 29"]
+[SetUp "1"]
+
+29. Qe4 Qxf2+ 30. Kh1 Qf1+ 31. Rxf1 Rxf1# *

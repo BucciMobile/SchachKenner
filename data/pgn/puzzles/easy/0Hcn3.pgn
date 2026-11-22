@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hcn3"]
+[Difficulty "easy"]
+[Rating "780"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/08zmxfYT#61"]
+[Solution "h6h7 f5h5"]
+[SolutionSAN "Kh7 Rh5#"]
+[FEN "5k2/1R3p2/p3r2K/3p1r2/3P4/2N4b/PP5P/6R1 w - - 12 31"]
+[SetUp "1"]
+
+31. Kh7 Rh5# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08cOZ"]
+[Difficulty "easy"]
+[Rating "955"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/Pjhq28hH/black#66"]
+[Solution "b3e6 f3g5 h7h8 g5e6"]
+[SolutionSAN "Qe6 Ng5+ Kh8 Nxe6"]
+[FEN "4rr2/pp4pk/7p/8/P7/1q1P1NP1/3QP1K1/7R b - - 1 33"]
+[SetUp "1"]
+
+33... Qe6 34. Ng5+ Kh8 35. Nxe6 *

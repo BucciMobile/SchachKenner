@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DYrA"]
+[Difficulty "hard"]
+[Rating "2060"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/NMLXdSkd#59"]
+[Solution "h2h1 d2d5 h1g1 d5f7"]
+[SolutionSAN "Kh1 Qd5+ Kg1 Qxf7"]
+[FEN "1Q6/p4R1p/2kp2p1/2p1b3/8/2P3PP/PP1q3K/8 w - - 1 30"]
+[SetUp "1"]
+
+30. Kh1 Qd5+ 31. Kg1 Qxf7 *

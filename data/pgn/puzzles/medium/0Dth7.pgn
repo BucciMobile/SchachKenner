@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dth7"]
+[Difficulty "medium"]
+[Rating "1254"]
+[Themes "advancedPawn crushing endgame promotion short"]
+[GameUrl "https://lichess.org/game/M2ZniPUf#73"]
+[Solution "d4e5 d5e5 f4e5 a2a1q"]
+[SolutionSAN "Be5 Rxe5+ fxe5 a1=Q"]
+[FEN "8/7k/8/3r4/3B1P2/3PK3/p2N4/8 w - - 2 37"]
+[SetUp "1"]
+
+37. Be5 Rxe5+ 38. fxe5 a1=Q *

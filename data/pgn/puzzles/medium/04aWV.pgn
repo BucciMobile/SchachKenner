@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04aWV"]
+[Difficulty "medium"]
+[Rating "1338"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/zlHdb50j#55"]
+[Solution "a6d6 d4e5 g3f3 e5d6"]
+[SolutionSAN "Rd6 Be5+ Kf3 Bxd6"]
+[FEN "5rk1/5ppp/R7/3N4/1P1bP3/3P2KP/1r4P1/3R4 w - - 3 28"]
+[SetUp "1"]
+
+28. Rd6 Be5+ 29. Kf3 Bxd6 *

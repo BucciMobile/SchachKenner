@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04SGs"]
+[Difficulty "hard"]
+[Rating "2585"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/aJ9w6jMl#55"]
+[Solution "c4d4 d6h2 f2f4 h5f3"]
+[SolutionSAN "Qd4 Qh2 f4 Bf3"]
+[FEN "4r1k1/p4pp1/3q1n1p/1PRP3b/2Q5/2BB3P/5PP1/5K2 w - - 1 28"]
+[SetUp "1"]
+
+28. Qd4 Qh2 29. f4 Bf3 *

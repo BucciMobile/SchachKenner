@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CMbt"]
+[Difficulty "medium"]
+[Rating "1320"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/RwnIe26L#27"]
+[Solution "c3d5 f6d5 d4d5 e7g5"]
+[SolutionSAN "Nxd5 Nxd5 Qxd5 Bxg5"]
+[FEN "r2q1rk1/pp1bbppp/5n2/3p2B1/3Q4/2N2BP1/PP2PP1P/R4RK1 w - - 5 14"]
+[SetUp "1"]
+
+14. Nxd5 Nxd5 15. Qxd5 Bxg5 *

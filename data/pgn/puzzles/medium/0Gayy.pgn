@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gayy"]
+[Difficulty "medium"]
+[Rating "1604"]
+[Themes "mate mateIn5 middlegame morphysMate sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/E055blu5#65"]
+[Solution "g2h2 d8h4 g3h4 g7g2 h2h3 b7c8 f7d7 c8d7 c4e6 d7e6"]
+[SolutionSAN "Kh2 Qxh4+ gxh4 Rg2+ Kh3 Bc8+ Rd7 Bxd7+ Be6 Bxe6#"]
+[FEN "3q2rk/1b3Rr1/8/2p5/2BP3P/2P3P1/P4PK1/2Q4R w - - 1 33"]
+[SetUp "1"]
+
+33. Kh2 Qxh4+ 34. gxh4 Rg2+ 35. Kh3 Bc8+ 36. Rd7 Bxd7+ 37. Be6 Bxe6# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H4sd"]
+[Difficulty "medium"]
+[Rating "1537"]
+[Themes "endgame mate mateIn2 short triangleMate"]
+[GameUrl "https://lichess.org/game/xmtjmTaO/black#78"]
+[Solution "h7g7 f1f7 g7g8 h4h7"]
+[SolutionSAN "Kg7 Rf7+ Kg8 Qh7#"]
+[FEN "r7/1p5k/p3P1p1/1b1P4/7Q/7P/2q5/5R1K b - - 11 39"]
+[SetUp "1"]
+
+39... Kg7 40. Rf7+ Kg8 41. Qh7# *

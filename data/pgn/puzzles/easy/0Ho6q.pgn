@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ho6q"]
+[Difficulty "easy"]
+[Rating "1011"]
+[Themes "discoveredAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/czgPmgfV#57"]
+[Solution "a7b7 d4e2 g1f1 d6d1"]
+[SolutionSAN "Rxb7 Ne2+ Kf1 Rxd1#"]
+[FEN "7k/RpN4p/3r1b2/5bp1/3n4/1P2BpP1/1P3P1P/3R2K1 w - - 0 29"]
+[SetUp "1"]
+
+29. Rxb7 Ne2+ 30. Kf1 Rxd1# *

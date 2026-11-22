@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "054QS"]
+[Difficulty "easy"]
+[Rating "815"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/Url9SqlE#75"]
+[Solution "h2h3 f7f1 c1f1 f8f1 d3f1 d4d2"]
+[SolutionSAN "h3 Rf1+ Rxf1 Rxf1+ Bxf1 Qxd2"]
+[FEN "5r2/5r2/p6k/1pNp2pp/1P1q4/P2B4/3Q2PP/2R4K w - - 2 38"]
+[SetUp "1"]
+
+38. h3 Rf1+ 39. Rxf1 Rxf1+ 40. Bxf1 Qxd2 *

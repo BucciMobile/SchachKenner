@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ef3p"]
+[Difficulty "easy"]
+[Rating "433"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/XKExX2pC#69"]
+[Solution "e4g5 b2b1 g1h2 b1h1"]
+[SolutionSAN "Nxg5 Rb1+ Kh2 Rh1#"]
+[FEN "8/1k6/7R/p3p1p1/P3N3/1P3bPP/1r3P2/6K1 w - - 1 35"]
+[SetUp "1"]
+
+35. Nxg5 Rb1+ 36. Kh2 Rh1# *

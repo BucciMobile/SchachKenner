@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08UnG"]
+[Difficulty "medium"]
+[Rating "1399"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/Uj8UyxaP#51"]
+[Solution "h2f1 g3e2"]
+[SolutionSAN "Nxf1 Ne2#"]
+[FEN "r3r1k1/ppp2ppp/3b4/8/2Ppp1P1/PP4n1/5PPN/R1B1NqKR w - - 4 26"]
+[SetUp "1"]
+
+26. Nxf1 Ne2# *

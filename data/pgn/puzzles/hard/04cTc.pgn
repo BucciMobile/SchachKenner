@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04cTc"]
+[Difficulty "hard"]
+[Rating "2746"]
+[Themes "advantage defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/wY7sLjya/black#78"]
+[Solution "b4a5 c8e7 f3e1 c2d1 a5b4 e7d5"]
+[SolutionSAN "Ka5 Ne7 Ne1+ Kd1 Kb4 Nd5+"]
+[FEN "2N4b/8/1p4pp/1Pp2p2/Pk3P2/1P2Pn1P/2K5/8 b - - 2 39"]
+[SetUp "1"]
+
+39... Ka5 40. Ne7 Ne1+ 41. Kd1 Kb4 42. Nd5+ *

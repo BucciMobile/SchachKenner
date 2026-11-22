@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05lD2"]
+[Difficulty "easy"]
+[Rating "865"]
+[Themes "endgame hangingPiece mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/F297PdiQ/black#40"]
+[Solution "f8f5 d1d8 f5f8 d8f8"]
+[SolutionSAN "Rxf5 Rxd8+ Rf8 Rxf8#"]
+[FEN "3b1r1k/pp4pp/2p3B1/5Q2/4PP2/2N5/PqP3PP/3R3K b - - 2 20"]
+[SetUp "1"]
+
+20... Rxf5 21. Rxd8+ Rf8 22. Rxf8# *

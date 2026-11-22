@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ahoy"]
+[Difficulty "easy"]
+[Rating "964"]
+[Themes "mate mateIn1 middlegame oneMove pin"]
+[GameUrl "https://lichess.org/game/mWOKJnQy#79"]
+[Solution "e3c1 c8c1"]
+[SolutionSAN "Qxc1 Rxc1#"]
+[FEN "2r4k/3r2b1/7p/5Pp1/n5PP/Pp2Q3/1N3B2/K1qNR2R w - - 7 40"]
+[SetUp "1"]
+
+40. Qxc1 Rxc1# *

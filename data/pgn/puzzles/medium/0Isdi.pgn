@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Isdi"]
+[Difficulty "medium"]
+[Rating "1484"]
+[Themes "discoveredCheck doubleCheck endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/EUah8xDQ/black#52"]
+[Solution "g8h8 f6h6 h8g8 h6h8"]
+[SolutionSAN "Kxh8 Rh6+ Kg8 Rh8#"]
+[FEN "5rkQ/p1p1qp2/5R2/2p2b2/1P6/7P/PBP3PK/3q4 b - - 1 26"]
+[SetUp "1"]
+
+26... Kxh8 27. Rh6+ Kg8 28. Rh8# *

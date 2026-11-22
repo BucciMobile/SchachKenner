@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IZyJ"]
+[Difficulty "easy"]
+[Rating "893"]
+[Themes "advancedPawn crushing discoveredAttack discoveredCheck endgame long"]
+[GameUrl "https://lichess.org/game/vkbJ72YB/black#62"]
+[Solution "b8c8 c1c8 b6c8 b5b6 e8d8 b6b7"]
+[SolutionSAN "Rxc8 Rxc8+ Nxc8 b6+ Kd8 b7"]
+[FEN "1rR1k3/5ppp/1n2p3/pP6/Bp6/1P1P1P2/5KPP/2R5 b - - 0 31"]
+[SetUp "1"]
+
+31... Rxc8 32. Rxc8+ Nxc8 33. b6+ Kd8 34. b7 *

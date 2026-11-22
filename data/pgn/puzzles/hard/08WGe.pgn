@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08WGe"]
+[Difficulty "hard"]
+[Rating "2090"]
+[Themes "crushing endgame master rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/kxGApHF0/black#122"]
+[Solution "g6g5 a5e5 e6e5 e4e5 g5g4 e5e4 h5h4 g3h4"]
+[SolutionSAN "Kg5 Rxe5+ Rxe5+ Kxe5 Kg4 Ke4 h4 gxh4"]
+[FEN "8/8/4r1k1/R3p2p/4K3/6P1/5P2/8 b - - 15 61"]
+[SetUp "1"]
+
+61... Kg5 62. Rxe5+ Rxe5+ 63. Kxe5 Kg4 64. Ke4 h4 65. gxh4 *

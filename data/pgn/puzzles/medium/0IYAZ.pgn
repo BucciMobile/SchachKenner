@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IYAZ"]
+[Difficulty "medium"]
+[Rating "1406"]
+[Themes "advantage deflection middlegame short"]
+[GameUrl "https://lichess.org/game/9Y4GBTPy#43"]
+[Solution "h3d3 e8e1 d1e1 a6d3"]
+[SolutionSAN "Qxd3 Re1+ Rxe1 Qxd3"]
+[FEN "2k1r3/pp1r1ppp/q4n2/8/3N4/P1Pp3Q/1P3PPP/1R1R2K1 w - - 1 22"]
+[SetUp "1"]
+
+22. Qxd3 Re1+ 23. Rxe1 Qxd3 *

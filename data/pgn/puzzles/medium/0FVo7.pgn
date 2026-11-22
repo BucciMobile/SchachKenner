@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FVo7"]
+[Difficulty "medium"]
+[Rating "1669"]
+[Themes "advancedPawn advantage endgame quietMove short"]
+[GameUrl "https://lichess.org/game/VTduUhgY#69"]
+[Solution "f2e3 h8d8 g1f2 d3d2"]
+[SolutionSAN "fxe3 Rd8 Kf2 d2"]
+[FEN "k6r/4N2p/4R1p1/5p2/8/3pb3/PP3PPP/6K1 w - - 0 35"]
+[SetUp "1"]
+
+35. fxe3 Rd8 36. Kf2 d2 *

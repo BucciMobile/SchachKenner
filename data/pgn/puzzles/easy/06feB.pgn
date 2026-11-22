@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06feB"]
+[Difficulty "easy"]
+[Rating "983"]
+[Themes "crushing endgame master pin short"]
+[GameUrl "https://lichess.org/game/RrwsyA1s/black#102"]
+[Solution "d6e5 f4g6 f8g7 g6e5"]
+[SolutionSAN "Qe5 Ng6+ Kg7 Nxe5"]
+[FEN "1b3k2/1p3p2/p2q4/8/1P3N2/2P2QP1/6K1/8 b - - 6 51"]
+[SetUp "1"]
+
+51... Qe5 52. Ng6+ Kg7 53. Nxe5 *

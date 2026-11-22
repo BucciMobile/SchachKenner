@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "042tk"]
+[Difficulty "hard"]
+[Rating "1839"]
+[Themes "crushing endgame exposedKing fork long"]
+[GameUrl "https://lichess.org/game/W9P8nuKa#69"]
+[Solution "g1f1 g3f3 f1g1 f3d1 g1f2 d1e1"]
+[SolutionSAN "Kf1 Qf3+ Kg1 Qxd1+ Kf2 Qe1+"]
+[FEN "7k/pp2Q2p/7P/5p2/8/1P4q1/P2p4/3R2K1 w - - 0 35"]
+[SetUp "1"]
+
+35. Kf1 Qf3+ 36. Kg1 Qxd1+ 37. Kf2 Qe1+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01efr"]
+[Difficulty "medium"]
+[Rating "1687"]
+[Themes "advantage discoveredAttack discoveredCheck middlegame veryLong"]
+[GameUrl "https://lichess.org/game/cq999euX#41"]
+[Solution "d1g4 h4f2 g4h3 h8h3 g2h3 d8h4 f1f2 h4f2"]
+[SolutionSAN "Qxg4 Bf2+ Qh3 Rxh3+ gxh3 Qh4 Rxf2 Qxf2+"]
+[FEN "r2qk2r/1p3pp1/p1np4/3NpP2/4P1pb/1P1B4/1PP3PK/R1BQ1R2 w kq - 0 21"]
+[SetUp "1"]
+
+21. Qxg4 Bf2+ 22. Qh3 Rxh3+ 23. gxh3 Qh4 24. Rxf2 Qxf2+ *

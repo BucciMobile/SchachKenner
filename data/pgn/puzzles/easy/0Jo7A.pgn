@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jo7A"]
+[Difficulty "easy"]
+[Rating "998"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/xqnDXI61#59"]
+[Solution "f1d1 d8d1 h1h2 g6f5"]
+[SolutionSAN "Rxd1 Rxd1+ Kh2 Kxf5"]
+[FEN "3r4/1pp5/p4pkp/5Np1/P3p3/1PP1R2P/6P1/3r1R1K w - - 2 30"]
+[SetUp "1"]
+
+30. Rxd1 Rxd1+ 31. Kh2 Kxf5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08tUR"]
+[Difficulty "easy"]
+[Rating "977"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/yc9lWOCF#37"]
+[Solution "g3h1 h8h1"]
+[SolutionSAN "Nxh1 Rxh1#"]
+[FEN "2kr2nr/ppp3p1/4p3/2b5/8/5PN1/PPPPQRP1/R1B2K1q w - - 6 19"]
+[SetUp "1"]
+
+19. Nxh1 Rxh1# *

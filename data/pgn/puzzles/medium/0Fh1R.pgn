@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fh1R"]
+[Difficulty "medium"]
+[Rating "1610"]
+[Themes "crushing master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/ldo7zh22/black#44"]
+[Solution "a8e8 e2f3 h5f3 g2f3"]
+[SolutionSAN "Rae8 Qxf3 Qxf3+ Kxf3"]
+[FEN "r4r1k/1pn3bp/p2p2p1/2p2p1q/P1B2P2/2NP1nBP/1PP1QPK1/R3R3 b - - 2 22"]
+[SetUp "1"]
+
+22... Rae8 23. Qxf3 Qxf3+ 24. Kxf3 *

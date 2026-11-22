@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0O7Ej"]
+[Difficulty "medium"]
+[Rating "1416"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/IeSrbRQT#83"]
+[Solution "c5a5 a3a5 b4a5 h6g5"]
+[SolutionSAN "Ra5 Rxa5 bxa5 Kg5"]
+[FEN "8/p5p1/7k/2R2P2/1P1Pp2p/r3Pp1P/5P2/6K1 w - - 0 42"]
+[SetUp "1"]
+
+42. Ra5 Rxa5 43. bxa5 Kg5 *

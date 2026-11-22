@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01pSj"]
+[Difficulty "hard"]
+[Rating "2009"]
+[Themes "advancedPawn crushing endgame fork long quietMove"]
+[GameUrl "https://lichess.org/game/WNAGgVqn#73"]
+[Solution "g1h2 f4h5 g2g3 h4g3 h2g2 g3f2"]
+[SolutionSAN "Kh2 Nh5 g3 hxg3+ Kg2 gxf2"]
+[FEN "8/5k2/8/2N1p1p1/1P2Pn1p/2P2P1P/5RP1/1r4K1 w - - 4 37"]
+[SetUp "1"]
+
+37. Kh2 Nh5 38. g3 hxg3+ 39. Kg2 gxf2 *

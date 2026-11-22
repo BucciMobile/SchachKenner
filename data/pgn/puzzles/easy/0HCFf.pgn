@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HCFf"]
+[Difficulty "easy"]
+[Rating "829"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/FH6HsffR#21"]
+[Solution "a4c6 g6c6 b7a8q c6a8"]
+[SolutionSAN "Qxc6+ Qxc6 bxa8=Q+ Qxa8"]
+[FEN "r3kb1r/pP2pppp/2n3q1/8/Q1P3b1/2n1B3/PP3PPP/R3KBNR w KQkq - 1 11"]
+[SetUp "1"]
+
+11. Qxc6+ Qxc6 12. bxa8=Q+ Qxa8 *

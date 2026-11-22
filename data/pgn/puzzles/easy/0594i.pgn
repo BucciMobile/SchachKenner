@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0594i"]
+[Difficulty "easy"]
+[Rating "1080"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/uCIWjFOl#35"]
+[Solution "c6e7 g6g2"]
+[SolutionSAN "Ne7 Qxg2#"]
+[FEN "2r2r1k/pb1n1ppp/2N1p1q1/1B6/3P1Q2/4P3/PP3PPP/2R2RK1 w - - 5 18"]
+[SetUp "1"]
+
+18. Ne7 Qxg2# *

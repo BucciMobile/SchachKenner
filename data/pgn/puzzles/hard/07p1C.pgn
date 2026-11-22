@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07p1C"]
+[Difficulty "hard"]
+[Rating "1756"]
+[Themes "discoveredCheck doubleCheck master mate mateIn1 middlegame oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/d3PX1xhU#45"]
+[Solution "f4h3 e6c4"]
+[SolutionSAN "Nxh3 Bc4#"]
+[FEN "1r2r1k1/5p1p/4b1p1/2p5/1n1b1N2/1P3PPq/P2BK2P/1BRQ3R w - - 9 23"]
+[SetUp "1"]
+
+23. Nxh3 Bc4# *

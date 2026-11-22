@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I3LS"]
+[Difficulty "medium"]
+[Rating "1549"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/Mf94UINq#53"]
+[Solution "c4c5 c6c5 d1b3 c5d5 b3d5 d7d5"]
+[SolutionSAN "Rxc5 Qxc5 Qb3+ Qd5 Qxd5+ Rxd5"]
+[FEN "3r2k1/p2r2pp/2q2p2/P1p1p3/2RPR3/5P1P/6P1/3Q2K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Rxc5 Qxc5 28. Qb3+ Qd5 29. Qxd5+ Rxd5 *

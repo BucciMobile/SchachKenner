@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08InJ"]
+[Difficulty "easy"]
+[Rating "1189"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/fKF0CKP1#73"]
+[Solution "e3d4 c7c4 c3c4 c8c4"]
+[SolutionSAN "exd4 Rxc4 Rxc4 Rxc4"]
+[FEN "2r5/2r4p/pk6/4p3/p1Rn4/2R1P1PN/PP2KP1P/8 w - - 1 37"]
+[SetUp "1"]
+
+37. exd4 Rxc4 38. Rxc4 Rxc4 *

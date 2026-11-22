@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JlDf"]
+[Difficulty "easy"]
+[Rating "631"]
+[Themes "advancedPawn crushing deflection endgame promotion queenEndgame short"]
+[GameUrl "https://lichess.org/game/1Sumi7MS#97"]
+[Solution "f2e1 d3d2 e1f2 d2d1q"]
+[SolutionSAN "Ke1 d2+ Kf2 d1=Q"]
+[FEN "8/8/p7/8/1Q6/2pp4/P1k2K2/8 w - - 2 49"]
+[SetUp "1"]
+
+49. Ke1 d2+ 50. Kf2 d1=Q *

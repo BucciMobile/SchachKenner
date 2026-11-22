@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00xWX"]
+[Difficulty "easy"]
+[Rating "1069"]
+[Themes "crushing endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/zkGVEaQz/black#90"]
+[Solution "h6h5 f8f3 c3f3 g2f3"]
+[SolutionSAN "Kh5 Qf3+ Qxf3 gxf3"]
+[FEN "5Q2/7p/6pk/8/8/1Pq3pP/6P1/7K b - - 1 45"]
+[SetUp "1"]
+
+45... Kh5 46. Qf3+ Qxf3 47. gxf3 *

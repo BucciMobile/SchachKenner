@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06eep"]
+[Difficulty "easy"]
+[Rating "1101"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[GameUrl "https://lichess.org/game/Bqot2rS1/black#86"]
+[Solution "f4e4 a4a5 e4d4 a5a6 f5f4 a6a7 f4f3 a7a8q"]
+[SolutionSAN "Ke4 a5 Kxd4 a6 f4 a7 f3 a8=Q"]
+[FEN "8/8/1K2p3/5p2/P2P1k2/8/8/8 b - - 1 43"]
+[SetUp "1"]
+
+43... Ke4 44. a5 Kxd4 45. a6 f4 46. a7 f3 47. a8=Q *

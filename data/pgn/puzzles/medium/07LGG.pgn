@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07LGG"]
+[Difficulty "medium"]
+[Rating "1489"]
+[Themes "advantage discoveredAttack discoveredCheck kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/XqWHIWQs/black#44"]
+[Solution "h7g6 f1f7 d7e8 f7e7 g8h7 e7e8"]
+[SolutionSAN "hxg6 Rxf7 Qe8 Re7+ Kh7 Rxe8"]
+[FEN "r5k1/1p1q1pbp/p1n3N1/8/3p4/PQP1r2P/BP4P1/R4RK1 b - - 0 22"]
+[SetUp "1"]
+
+22... hxg6 23. Rxf7 Qe8 24. Re7+ Kh7 25. Rxe8 *

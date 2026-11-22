@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07XDT"]
+[Difficulty "hard"]
+[Rating "2348"]
+[Themes "advancedPawn advantage endgame rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/ehujcYnK/black#142"]
+[Solution "f4f3 c5c6 f3f2 c6c7 h3c3 c1c3 f2f1q c3c4 f1b1 b5a6"]
+[SolutionSAN "f3 c6 f2 c7 Rc3 Rxc3 f1=Q+ Rc4 Qb1+ Ka6"]
+[FEN "8/6p1/7p/pKP1pk2/5p2/7r/8/2R5 b - - 0 71"]
+[SetUp "1"]
+
+71... f3 72. c6 f2 73. c7 Rc3 74. Rxc3 f1=Q+ 75. Rc4 Qb1+ 76. Ka6 *

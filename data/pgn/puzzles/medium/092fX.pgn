@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "092fX"]
+[Difficulty "medium"]
+[Rating "1207"]
+[Themes "crushing discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/HBd4LX7f#25"]
+[Solution "f2f4 e5f3 g2f3 g7d4"]
+[SolutionSAN "f4 Nf3+ gxf3 Bxd4"]
+[FEN "r2qk2r/pp2p1bp/1n1p2p1/3Pnp2/2PQ4/2N4P/PP3PP1/R1B1KB1R w KQkq - 2 13"]
+[SetUp "1"]
+
+13. f4 Nf3+ 14. gxf3 Bxd4 *

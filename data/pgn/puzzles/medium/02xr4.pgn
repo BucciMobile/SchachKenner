@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02xr4"]
+[Difficulty "medium"]
+[Rating "1480"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/3fNCQuNU/black#64"]
+[Solution "f6g4 e3g4 f7f4 g4f6"]
+[SolutionSAN "Nxg4 Nxg4 Qxf4 Nf6+"]
+[FEN "4r1k1/pbp1rq1p/1p1p1np1/3P4/1PPQpPP1/1B2N3/P5K1/R2R4 b - - 0 32"]
+[SetUp "1"]
+
+32... Nxg4 33. Nxg4 Qxf4 34. Nf6+ *

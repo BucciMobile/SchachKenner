@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03SBv"]
+[Difficulty "easy"]
+[Rating "811"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/1JpaEkGg/black#70"]
+[Solution "f5d7 e4f6 h7g7 f6d7"]
+[SolutionSAN "Qd7 Nf6+ Kg7 Nxd7"]
+[FEN "2r5/1p5k/p5pp/2Prnq2/1Q2Np2/5P1P/5P1B/R4K2 b - - 1 35"]
+[SetUp "1"]
+
+35... Qd7 36. Nf6+ Kg7 37. Nxd7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H03K"]
+[Difficulty "easy"]
+[Rating "1155"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/cim98IeL#27"]
+[Solution "g1e2 e4e3 d2e3 a8g2"]
+[SolutionSAN "Ne2 e3 Qxe3 Bxg2"]
+[FEN "bn5r/p4ppp/3kpn2/qp6/2pPp3/2P3P1/PP1Q1PBP/R3K1NR w KQ - 0 14"]
+[SetUp "1"]
+
+14. Ne2 e3 15. Qxe3 Bxg2 *

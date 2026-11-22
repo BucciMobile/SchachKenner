@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GIPx"]
+[Difficulty "easy"]
+[Rating "1143"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/Yr99dV4V/black#28"]
+[Solution "e7g6 g7f7"]
+[SolutionSAN "Ng6 Qf7#"]
+[FEN "r2qk2r/ppp1n1Qp/3b4/3pp3/3P4/2P5/PP1N2PP/R1B2RK1 b kq - 0 14"]
+[SetUp "1"]
+
+14... Ng6 15. Qf7# *

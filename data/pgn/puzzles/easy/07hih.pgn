@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07hih"]
+[Difficulty "easy"]
+[Rating "1029"]
+[Themes "advantage clearance kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/KngnAGPl#43"]
+[Solution "e2e3 d4f3 e3f3 d8d1"]
+[SolutionSAN "Re3 Nxf3+ Rxf3 Rd1+"]
+[FEN "3r1rk1/ppp1qp1p/6p1/4P3/1P1n4/P4B2/1Q2RPP1/RN4K1 w - - 1 22"]
+[SetUp "1"]
+
+22. Re3 Nxf3+ 23. Rxf3 Rd1+ *

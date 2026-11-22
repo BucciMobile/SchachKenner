@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Vky"]
+[Difficulty "easy"]
+[Rating "981"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/SEx2uDuU#53"]
+[Solution "b1e1 g4f2 h1g1 f2h3"]
+[SolutionSAN "Rxe1 Nf2+ Kg1 Nxh3+"]
+[FEN "2r1r1k1/1b2npbp/p5p1/6N1/1Bp3n1/N6Q/PPB3PP/1R2q2K w - - 0 27"]
+[SetUp "1"]
+
+27. Rxe1 Nf2+ 28. Kg1 Nxh3+ *

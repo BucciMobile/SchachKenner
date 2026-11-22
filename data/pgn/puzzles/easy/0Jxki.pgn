@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jxki"]
+[Difficulty "easy"]
+[Rating "1050"]
+[Themes "advantage fork hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/hbtmWtQG/black#60"]
+[Solution "e3c3 g5d8 g8f7 d8d4"]
+[SolutionSAN "Rxc3 Qxd8+ Kf7 Qxd4"]
+[FEN "3r2k1/1q5p/p1b3p1/1pP3Q1/1Ppb2P1/P1N1rP2/6P1/2R2R1K b - - 0 30"]
+[SetUp "1"]
+
+30... Rxc3 31. Qxd8+ Kf7 32. Qxd4 *

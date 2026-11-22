@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HPlZ"]
+[Difficulty "medium"]
+[Rating "1282"]
+[Themes "collinearMove long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/GcTeylX6/black#38"]
+[Solution "g8g7 f1f7 f8f7 h5f7 g7h8 f7h7"]
+[SolutionSAN "Kxg7 Rf7+ Rxf7 Qxf7+ Kh8 Qh7#"]
+[FEN "r2q1rk1/3p2B1/p1n1p2p/1ppn2NQ/8/P2P4/1PP3PP/R4RK1 b - - 0 19"]
+[SetUp "1"]
+
+19... Kxg7 20. Rf7+ Rxf7 21. Qxf7+ Kh8 22. Qh7# *

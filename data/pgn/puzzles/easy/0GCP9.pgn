@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GCP9"]
+[Difficulty "easy"]
+[Rating "935"]
+[Themes "advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/ceMttq1m#81"]
+[Solution "g1a1 g8g3 f3g3 e5g3"]
+[SolutionSAN "Ra1 Rxg3+ Qxg3 Bxg3"]
+[FEN "6rk/1p6/3p1p1q/P1p1bP1p/2Pp3P/P2P1QPK/7N/6R1 w - - 1 41"]
+[SetUp "1"]
+
+41. Ra1 Rxg3+ 42. Qxg3 Bxg3 *

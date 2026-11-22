@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CpmT"]
+[Difficulty "easy"]
+[Rating "1026"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/sP4PKnCP#55"]
+[Solution "g1h1 g4f3 h1g1 f3g2"]
+[SolutionSAN "Kh1 Qf3+ Kg1 Qg2#"]
+[FEN "r6k/5prp/p4Q2/5p2/P1B1p1qn/6P1/2P1NP1P/R4RK1 w - - 3 28"]
+[SetUp "1"]
+
+28. Kh1 Qf3+ 29. Kg1 Qg2# *

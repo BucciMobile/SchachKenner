@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hqfo"]
+[Difficulty "hard"]
+[Rating "1705"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/zQu2wAVW#55"]
+[Solution "c1c7 f5d6 a7b5 d6b7"]
+[SolutionSAN "Rcc7 Nd6 Nb5 Nxb7"]
+[FEN "r7/NR3pkp/r3p1p1/3p1n2/8/4P2P/P4PP1/2R3K1 w - - 1 28"]
+[SetUp "1"]
+
+28. Rcc7 Nd6 29. Nb5 Nxb7 *

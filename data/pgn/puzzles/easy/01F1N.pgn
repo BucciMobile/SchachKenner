@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01F1N"]
+[Difficulty "easy"]
+[Rating "1185"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/OPiXnLpo/black#34"]
+[Solution "e5d3 f4c4 d6d5 c4d3"]
+[SolutionSAN "Nd3 Qc4+ d5 Qxd3"]
+[FEN "r4rk1/pp1q2pp/3p1p2/2p1nP2/5Q2/2P4P/PP1N1PP1/4RRK1 b - - 3 17"]
+[SetUp "1"]
+
+17... Nd3 18. Qc4+ d5 19. Qxd3 *

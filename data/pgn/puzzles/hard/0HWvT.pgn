@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HWvT"]
+[Difficulty "hard"]
+[Rating "1705"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/D0YC0XN3#71"]
+[Solution "a2a3 g4g2 d2e1 e4e3 f6d4 e3d4"]
+[SolutionSAN "a3 Rg2 Ke1 Ke3 Bd4+ Kxd4"]
+[FEN "8/p4p2/2p2Bp1/1p4P1/4k1r1/5p2/PPPK1R2/8 w - - 0 36"]
+[SetUp "1"]
+
+36. a3 Rg2 37. Ke1 Ke3 38. Bd4+ Kxd4 *

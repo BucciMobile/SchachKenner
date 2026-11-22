@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BRJx"]
+[Difficulty "medium"]
+[Rating "1531"]
+[Themes "advancedPawn crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/3USPnulN#73"]
+[Solution "a4a5 d4d3 e2d3 e3e2"]
+[SolutionSAN "a5 d3+ Kxd3 e2"]
+[FEN "6k1/R5p1/8/6P1/P2pr2P/4p3/4K3/8 w - - 0 37"]
+[SetUp "1"]
+
+37. a5 d3+ 38. Kxd3 e2 *

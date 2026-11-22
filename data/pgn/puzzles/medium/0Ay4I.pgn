@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ay4I"]
+[Difficulty "medium"]
+[Rating "1690"]
+[Themes "cornerMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/KyXoeZYs/black#52"]
+[Solution "h8g7 e7f5"]
+[SolutionSAN "Kg7 Nxf5#"]
+[FEN "r4r1k/pp2Np2/3p1N1R/5p2/3p4/8/P5PP/6K1 b - - 0 26"]
+[SetUp "1"]
+
+26... Kg7 27. Nxf5# *

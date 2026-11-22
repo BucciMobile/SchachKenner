@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BTR1"]
+[Difficulty "medium"]
+[Rating "1395"]
+[Themes "advantage discoveredAttack discoveredCheck middlegame short"]
+[GameUrl "https://lichess.org/game/wDgXYE2Y/black#32"]
+[Solution "d7f5 d5f6 e7d6 f6g8"]
+[SolutionSAN "Bxf5 Nf6+ Bd6 Nxg8"]
+[FEN "r2k2r1/pppbbp2/7p/3NpN2/2P5/8/PPP3PP/2KR3R b - - 0 16"]
+[SetUp "1"]
+
+16... Bxf5 17. Nf6+ Bd6 18. Nxg8 *

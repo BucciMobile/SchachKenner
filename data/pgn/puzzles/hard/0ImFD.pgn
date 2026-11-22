@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ImFD"]
+[Difficulty "hard"]
+[Rating "2144"]
+[Themes "advancedPawn crushing defensiveMove kingsideAttack middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/xe7tsh9c#51"]
+[Solution "d1d7 e8e7 d7d5 f3f2 g3f2 e3f2 g1g2 f5e3"]
+[SolutionSAN "Qd7+ Re7 Qd5 Qf2+ Bxf2 exf2+ Kg2 Ne3+"]
+[FEN "r3r3/ppp3k1/1b5p/5np1/1PB5/P3pqB1/4N2P/2RQ2KR w - - 2 26"]
+[SetUp "1"]
+
+26. Qd7+ Re7 27. Qd5 Qf2+ 28. Bxf2 exf2+ 29. Kg2 Ne3+ *

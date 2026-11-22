@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05xK8"]
+[Difficulty "hard"]
+[Rating "2578"]
+[Themes "clearance crushing discoveredAttack discoveredCheck endgame long queenEndgame"]
+[GameUrl "https://lichess.org/game/sw7jl6cB#95"]
+[Solution "a4a3 c4c3 e2f2 b5c4 a3d6 c4d4"]
+[SolutionSAN "Qa3 c3+ Kf2 Qc4 Qxd6 Qd4+"]
+[FEN "k7/8/p2p4/Pq1Pp3/Q1p1P1p1/6Pp/2P1K2P/8 w - - 0 48"]
+[SetUp "1"]
+
+48. Qa3 c3+ 49. Kf2 Qc4 50. Qxd6 Qd4+ *

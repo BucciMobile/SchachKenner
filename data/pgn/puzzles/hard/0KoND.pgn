@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KoND"]
+[Difficulty "hard"]
+[Rating "1705"]
+[Themes "discoveredAttack discoveredCheck mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/HWw9sUKs#31"]
+[Solution "d1d2 g4e3 g3h2 g5g2"]
+[SolutionSAN "Qd2 Ne3+ Kh2 Qxg2#"]
+[FEN "r1b2rk1/p4ppp/2p5/6q1/4p1n1/2B3K1/PPB1NPP1/R2Q1R2 w - - 3 16"]
+[SetUp "1"]
+
+16. Qd2 Ne3+ 17. Kh2 Qxg2# *

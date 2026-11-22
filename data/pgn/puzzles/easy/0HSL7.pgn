@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HSL7"]
+[Difficulty "easy"]
+[Rating "1189"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/MXeHF2Gk/black#72"]
+[Solution "b8b3 a7c7 b3c3 c5c3"]
+[SolutionSAN "Rb3 Rxc7 Rxc3 Rxc3"]
+[FEN "1r1r2k1/R1q2p1p/2P1p1p1/2R5/3n4/2Q2PPK/7P/8 b - - 6 36"]
+[SetUp "1"]
+
+36... Rb3 37. Rxc7 Rxc3 38. Rxc3 *

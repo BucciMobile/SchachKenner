@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02O2z"]
+[Difficulty "easy"]
+[Rating "643"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/4ORg5Qtc#55"]
+[Solution "e4g5 e2e1 c1e1 e8e1"]
+[SolutionSAN "Ng5 Re1+ Rxe1 Rxe1#"]
+[FEN "4r1k1/5ppp/2N5/1p1B4/4N1Pn/P7/2P1rP1P/2R3K1 w - - 1 28"]
+[SetUp "1"]
+
+28. Ng5 Re1+ 29. Rxe1 Rxe1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Gbg"]
+[Difficulty "hard"]
+[Rating "2545"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/S2yYyTbk/black#54"]
+[Solution "b5b3 e1e3 c8b7 e3b3"]
+[SolutionSAN "Qxb3 Re3 Bb7 Rxb3"]
+[FEN "r1bQ4/p4rkn/1p6/1q2pp2/P6B/1P5P/5PP1/R3R1K1 b - - 0 27"]
+[SetUp "1"]
+
+27... Qxb3 28. Re3 Bb7 29. Rxb3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05kbe"]
+[Difficulty "easy"]
+[Rating "1050"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/3bNOptfd/black#68"]
+[Solution "d2h2 e6c8"]
+[SolutionSAN "Rxh2 Bc8#"]
+[FEN "8/p4R1p/k1p1Bp2/Pp3Pp1/1P6/K1P1P3/3r3P/1r6 b - - 7 34"]
+[SetUp "1"]
+
+34... Rxh2 35. Bc8# *

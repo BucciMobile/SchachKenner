@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CSO9"]
+[Difficulty "hard"]
+[Rating "1893"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/zmuyGncA#63"]
+[Solution "e2e3 d5d4 e3e4 b2e2 e4f4 e2h2"]
+[SolutionSAN "Ke3 d4+ Ke4 Qe2+ Kf4 Qh2+"]
+[FEN "3r2k1/p1Q1B1pp/4p3/3p4/8/P2P1P1P/1q2K3/5R2 w - - 5 32"]
+[SetUp "1"]
+
+32. Ke3 d4+ 33. Ke4 Qe2+ 34. Kf4 Qh2+ *

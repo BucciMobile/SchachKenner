@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01NZ8"]
+[Difficulty "easy"]
+[Rating "971"]
+[Themes "crushing fork opening short"]
+[GameUrl "https://lichess.org/game/q5tbSjgO/black#26"]
+[Solution "c8d7 b5c7 a5c7 g3c7"]
+[SolutionSAN "Bd7 Nc7+ Qxc7 Bxc7"]
+[FEN "r1b1kb1r/pp3ppp/4p3/qNpn4/8/P2Q2B1/1PP2PPP/1K1R2NR b kq - 0 13"]
+[SetUp "1"]
+
+13... Bd7 14. Nc7+ Qxc7 15. Bxc7 *

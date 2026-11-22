@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09YGV"]
+[Difficulty "medium"]
+[Rating "1411"]
+[Themes "crushing discoveredAttack kingsideAttack long opening"]
+[GameUrl "https://lichess.org/game/H5lmKXfv#27"]
+[Solution "g1h1 f2f1 h1h2 e1g3 h2g3 f1d1"]
+[SolutionSAN "Kh1 Qf1+ Kh2 Bg3+ Kxg3 Qxd1"]
+[FEN "r1b2rk1/ppp2Np1/7p/3B4/3P4/7P/PP3qP1/RNBQb1K1 w - - 0 14"]
+[SetUp "1"]
+
+14. Kh1 Qf1+ 15. Kh2 Bg3+ 16. Kxg3 Qxd1 *

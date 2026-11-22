@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LFNV"]
+[Difficulty "hard"]
+[Rating "2200"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/n5omvU72/black#84"]
+[Solution "h7g8 f3c6 a4c6 c5c6"]
+[SolutionSAN "Kg8 Bc6 Bxc6 Kxc6"]
+[FEN "2n5/2P2pbk/3Bp1p1/p1K1P1Pp/b4P1P/5B2/p7/N7 b - - 0 42"]
+[SetUp "1"]
+
+42... Kg8 43. Bc6 Bxc6 44. Kxc6 *

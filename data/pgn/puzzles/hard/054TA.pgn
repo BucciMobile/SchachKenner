@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "054TA"]
+[Difficulty "hard"]
+[Rating "2127"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/Dkm0mKhC#53"]
+[Solution "e4d5 f4f2 g1h1 d2d5"]
+[SolutionSAN "Bd5 Qxf2+ Kh1 Rxd5"]
+[FEN "7k/6p1/4Q2p/P4p2/4Bqb1/2P5/1P1r1PPP/4R1K1 w - - 2 27"]
+[SetUp "1"]
+
+27. Bd5 Qxf2+ 28. Kh1 Rxd5 *

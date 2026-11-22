@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05lXO"]
+[Difficulty "easy"]
+[Rating "945"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/29II0SLp/black#40"]
+[Solution "f7f8 e6e8 a8e8 h5e8"]
+[SolutionSAN "Kf8 Rxe8+ Rxe8 Qxe8#"]
+[FEN "r3r3/pp1n1kpp/1qp1Rb2/7Q/8/1PN5/P1P2PPP/4R1K1 b - - 1 20"]
+[SetUp "1"]
+
+20... Kf8 21. Rxe8+ Rxe8 22. Qxe8# *

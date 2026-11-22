@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ib8u"]
+[Difficulty "easy"]
+[Rating "1158"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/XXpabPWq#43"]
+[Solution "d4e5 c6e5 d3e2 e5c4"]
+[SolutionSAN "dxe5 Nxe5+ Kxe2 Nxc4"]
+[FEN "2k4r/ppp5/1qn2p2/4rp2/2QP1b2/1NPK1P1P/PPN1p1P1/R6R w - - 6 22"]
+[SetUp "1"]
+
+22. dxe5 Nxe5+ 23. Kxe2 Nxc4 *

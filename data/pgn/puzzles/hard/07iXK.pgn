@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07iXK"]
+[Difficulty "hard"]
+[Rating "2113"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/IXT75TeA/black#38"]
+[Solution "c7a5 f3e3 a5e1 e3e1"]
+[SolutionSAN "Qa5 Qe3 Qxe1+ Qxe1"]
+[FEN "r4k1r/ppqb2pp/5n2/2p5/8/BB3Q2/P1P2P1P/4R1K1 b - - 3 19"]
+[SetUp "1"]
+
+19... Qa5 20. Qe3 Qxe1+ 21. Qxe1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CE7u"]
+[Difficulty "easy"]
+[Rating "926"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/CDDXzuqZ#31"]
+[Solution "e1e3 g5g2"]
+[SolutionSAN "Re3 Qxg2#"]
+[FEN "4rrk1/pbpp2p1/1p2p2p/4P1q1/8/2PB4/PPQ2PPP/4RRK1 w - - 1 16"]
+[SetUp "1"]
+
+16. Re3 Qxg2# *

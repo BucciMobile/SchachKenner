@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KFAs"]
+[Difficulty "hard"]
+[Rating "1848"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/hMvlU0Vl#33"]
+[Solution "g5h7 g7g6 h5f3 g8h7"]
+[SolutionSAN "Nh7 g6 Qf3 Kxh7"]
+[FEN "r1bq1rk1/pp3pp1/2np3p/5nNQ/3P4/P2BB2P/1P3PP1/R4RK1 w - - 2 17"]
+[SetUp "1"]
+
+17. Nh7 g6 18. Qf3 Kxh7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01RPQ"]
+[Difficulty "easy"]
+[Rating "1021"]
+[Themes "endgame mate mateIn1 oneMove queenEndgame"]
+[GameUrl "https://lichess.org/game/GAWpyeOU/black#84"]
+[Solution "d5c6 b8d8"]
+[SolutionSAN "Qc6 Qd8#"]
+[FEN "1Q6/2Pk4/p3pp1p/3q2p1/1p6/1P2P1P1/5P1P/6K1 b - - 2 42"]
+[SetUp "1"]
+
+42... Qc6 43. Qd8# *

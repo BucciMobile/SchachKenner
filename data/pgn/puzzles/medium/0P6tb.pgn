@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0P6tb"]
+[Difficulty "medium"]
+[Rating "1228"]
+[Themes "advantage hangingPiece long middlegame"]
+[GameUrl "https://lichess.org/game/mNEmFU48#37"]
+[Solution "b3c5 b7c6 b5a7 c6d6 c5d3 e2d3"]
+[SolutionSAN "Nc5+ Kxc6 Na7+ Kd6 Nxd3 Bxd3"]
+[FEN "5b1r/1k3ppp/2R1p3/BN1n4/8/1N1r4/PP2bPPP/2R3K1 w - - 0 19"]
+[SetUp "1"]
+
+19. Nc5+ Kxc6 20. Na7+ Kd6 21. Nxd3 Bxd3 *

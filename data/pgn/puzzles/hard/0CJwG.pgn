@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CJwG"]
+[Difficulty "hard"]
+[Rating "2309"]
+[Themes "advantage discoveredAttack discoveredCheck middlegame short"]
+[GameUrl "https://lichess.org/game/47Pd22Nn/black#48"]
+[Solution "a7b6 e5g6 d8d5 g6e5"]
+[SolutionSAN "axb6 Nxg6 Rd5 Ne5+"]
+[FEN "2rr4/pb3pk1/1P2p1p1/4N1Qp/1q1P3P/5P2/6P1/3RR1K1 b - - 0 24"]
+[SetUp "1"]
+
+24... axb6 25. Nxg6 Rd5 26. Ne5+ *

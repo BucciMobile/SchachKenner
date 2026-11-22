@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HV7e"]
+[Difficulty "medium"]
+[Rating "1565"]
+[Themes "kingsideAttack mate mateIn2 middlegame pin sacrifice short"]
+[GameUrl "https://lichess.org/game/wmGAdjkd/black#42"]
+[Solution "b7f3 d7f7 f8f7 e1e8"]
+[SolutionSAN "Bxf3 Qxf7+ Rxf7 Re8#"]
+[FEN "5rk1/1bpQ1ppp/p7/1p4q1/5b2/1BP2P1P/PP4P1/4RNK1 b - - 3 21"]
+[SetUp "1"]
+
+21... Bxf3 22. Qxf7+ Rxf7 23. Re8# *

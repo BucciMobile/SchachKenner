@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ArwE"]
+[Difficulty "easy"]
+[Rating "1125"]
+[Themes "crushing kingsideAttack long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/Ueu8sTlU#47"]
+[Solution "c2c3 f5f1 a1f1 f8f1 h1h2 c5g1"]
+[SolutionSAN "c3 Qf1+ Rxf1 Rxf1+ Kh2 Bg1+"]
+[FEN "5r2/1p6/p1pp2k1/2b1pqNp/6bP/P2P2B1/1PPQ2P1/R6K w - - 4 24"]
+[SetUp "1"]
+
+24. c3 Qf1+ 25. Rxf1 Rxf1+ 26. Kh2 Bg1+ *

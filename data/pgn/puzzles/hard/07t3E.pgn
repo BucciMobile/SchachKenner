@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07t3E"]
+[Difficulty "hard"]
+[Rating "2178"]
+[Themes "advancedPawn advantage opening short"]
+[GameUrl "https://lichess.org/game/VcPWLL7n#17"]
+[Solution "c1g5 h4h3 e1g1 h3g2"]
+[SolutionSAN "Bg5 h3 O-O hxg2"]
+[FEN "r1b1k2r/ppppqpp1/5n2/2b5/2Pn3p/2NP1NP1/PP2PPBP/R1BQK2R w KQkq - 0 9"]
+[SetUp "1"]
+
+9. Bg5 h3 10. O-O hxg2 *

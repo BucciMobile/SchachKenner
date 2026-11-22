@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CPXH"]
+[Difficulty "medium"]
+[Rating "1501"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/qGzd9Afc#125"]
+[Solution "b6a5 h4h3 g1c1 h2h1"]
+[SolutionSAN "Kxa5 h3 Rc1 Rh1"]
+[FEN "3k4/8/1K1P4/pN6/7p/8/6pr/6R1 w - - 0 63"]
+[SetUp "1"]
+
+63. Kxa5 h3 64. Rc1 Rh1 *

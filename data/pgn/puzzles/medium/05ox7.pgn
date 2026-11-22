@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ox7"]
+[Difficulty "medium"]
+[Rating "1494"]
+[Themes "advantage hangingPiece long opening"]
+[GameUrl "https://lichess.org/game/xP0U5P9e#9"]
+[Solution "b2b4 e7e5 d2d4 e5e4 c1e3 a5b6"]
+[SolutionSAN "b4 Qxe5 d4 Qxe4+ Be3 Bb6"]
+[FEN "rnb1k1nr/ppppqppp/8/b3N3/4P3/P7/1PPP1PPP/RNBQKB1R w KQkq - 1 5"]
+[SetUp "1"]
+
+5. b4 Qxe5 6. d4 Qxe4+ 7. Be3 Bb6 *

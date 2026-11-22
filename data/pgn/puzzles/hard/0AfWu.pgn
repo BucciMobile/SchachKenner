@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AfWu"]
+[Difficulty "hard"]
+[Rating "1743"]
+[Themes "advantage long middlegame trappedPiece"]
+[GameUrl "https://lichess.org/game/ZPOEVOs7#55"]
+[Solution "d7f8 g5f4 b3c3 h8g8 e3f4 e8f8"]
+[SolutionSAN "Nxf8 gxf4 Qc3+ Kg8 exf4 Qxf8"]
+[FEN "r3qr1k/b2N1p2/p1pp3p/6p1/1PP2R2/PQ2P1P1/6KP/4R3 w - - 4 28"]
+[SetUp "1"]
+
+28. Nxf8 gxf4 29. Qc3+ Kg8 30. exf4 Qxf8 *

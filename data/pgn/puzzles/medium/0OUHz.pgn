@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OUHz"]
+[Difficulty "medium"]
+[Rating "1647"]
+[Themes "advantage deflection endgame short"]
+[GameUrl "https://lichess.org/game/UtoAhBXI#73"]
+[Solution "b1g1 e4e3 f2e3 g6g1"]
+[SolutionSAN "Rg1 e3+ Kxe3 Rxg1"]
+[FEN "k7/7R/6r1/3p4/2b1p3/7P/P4K2/1R6 w - - 0 37"]
+[SetUp "1"]
+
+37. Rg1 e3+ 38. Kxe3 Rxg1 *

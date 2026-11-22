@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03mUY"]
+[Difficulty "medium"]
+[Rating "1412"]
+[Themes "crushing long opening skewer"]
+[GameUrl "https://lichess.org/game/tcnm98Jx/black#14"]
+[Solution "h7g6 h5g6 e8e7 c1g5 e7d6 g5d8"]
+[SolutionSAN "hxg6 Qxg6+ Ke7 Bg5+ Kd6 Bxd8"]
+[FEN "rn1qkbnr/p1pp3p/1p2p1P1/7Q/3P4/6P1/PPP2PbP/RNB1K1NR b KQkq - 0 7"]
+[SetUp "1"]
+
+7... hxg6 8. Qxg6+ Ke7 9. Bg5+ Kd6 10. Bxd8 *

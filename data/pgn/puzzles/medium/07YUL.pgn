@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07YUL"]
+[Difficulty "medium"]
+[Rating "1389"]
+[Themes "crushing discoveredAttack long middlegame"]
+[GameUrl "https://lichess.org/game/DNhGYeGY/black#32"]
+[Solution "e7d6 f4d6 c7d6 d3h7 g8h7 d2d6"]
+[SolutionSAN "Bd6 Bxd6 Qxd6 Bh7+ Kxh7 Qxd6"]
+[FEN "r4rk1/pbq1bpp1/1pp1pn1p/8/2P2B2/P1NB4/1P1Q1PPP/4RRK1 b - - 3 16"]
+[SetUp "1"]
+
+16... Bd6 17. Bxd6 Qxd6 18. Bh7+ Kxh7 19. Qxd6 *

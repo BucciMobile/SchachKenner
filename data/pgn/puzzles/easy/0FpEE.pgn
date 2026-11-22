@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FpEE"]
+[Difficulty "easy"]
+[Rating "956"]
+[Themes "advancedPawn crushing endgame knightEndgame promotion short"]
+[GameUrl "https://lichess.org/game/H6ENPGaO#111"]
+[Solution "d3d2 b3b2 f5e3 c2c1q"]
+[SolutionSAN "Kd2 Kb2 Ne3 c1=Q+"]
+[FEN "8/8/6n1/5NP1/8/1k1K4/2p5/8 w - - 0 56"]
+[SetUp "1"]
+
+56. Kd2 Kb2 57. Ne3 c1=Q+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FVLi"]
+[Difficulty "medium"]
+[Rating "1690"]
+[Themes "crushing discoveredAttack discoveredCheck endgame short"]
+[GameUrl "https://lichess.org/game/kJ2rZycX#99"]
+[Solution "d4d5 b5d5 a4b3 d5d2"]
+[SolutionSAN "d5+ Rxd5+ Kb3 Rxd2"]
+[FEN "8/5p2/p1b1k1p1/1r2PpPp/KP1P1P1P/4N3/3R4/8 w - - 3 50"]
+[SetUp "1"]
+
+50. d5+ Rxd5+ 51. Kb3 Rxd2 *

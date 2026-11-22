@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05tr4"]
+[Difficulty "hard"]
+[Rating "2079"]
+[Themes "advantage endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/7SCF7aiP#115"]
+[Solution "e4e5 g5g4 e5e7 f7f6"]
+[SolutionSAN "Rxe5 Rxg4 Re7+ Kf6"]
+[FEN "8/5k2/3K2p1/4p1r1/4R1P1/8/8/8 w - - 8 58"]
+[SetUp "1"]
+
+58. Rxe5 Rxg4 59. Re7+ Kf6 *

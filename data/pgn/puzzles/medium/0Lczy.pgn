@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lczy"]
+[Difficulty "medium"]
+[Rating "1405"]
+[Themes "attraction endgame kingsideAttack long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/zPaOr61n/black#34"]
+[Solution "f8f2 h1h7 h8h7 d1h1 d8h4 h1h4"]
+[SolutionSAN "Rfxf2 Rxh7+ Kxh7 Rh1+ Qh4 Rxh4#"]
+[FEN "3q1r1k/p1p3pp/4Q3/3p4/3Pp3/2P1P1P1/Pr3PP1/2KR3R b - - 1 17"]
+[SetUp "1"]
+
+17... Rfxf2 18. Rxh7+ Kxh7 19. Rh1+ Qh4 20. Rxh4# *

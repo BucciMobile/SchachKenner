@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LhMl"]
+[Difficulty "hard"]
+[Rating "2442"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/6GPtfPU4#101"]
+[Solution "g5h6 d5d4 g4g3 d4a4 a5a4 b5a4"]
+[SolutionSAN "gxh6 Rd4+ Kg3 Ra4 Rxa4 bxa4"]
+[FEN "8/8/2p3k1/Rp1r2Pp/6KP/5P2/8/8 w - h6 0 51"]
+[SetUp "1"]
+
+51. gxh6 Rd4+ 52. Kg3 Ra4 53. Rxa4 bxa4 *

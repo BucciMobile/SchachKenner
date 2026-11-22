@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FyiV"]
+[Difficulty "medium"]
+[Rating "1217"]
+[Themes "advantage middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/NBPgRRMA/black#62"]
+[Solution "a4c3 b7b8 c8d7 b1b7"]
+[SolutionSAN "Nc3 Rb8+ Kd7 R1b7+"]
+[FEN "2k2b1r/pR2n1p1/4p2p/3pP3/n1p3P1/7P/3N1K1N/1R6 b - - 0 31"]
+[SetUp "1"]
+
+31... Nc3 32. Rb8+ Kd7 33. R1b7+ *

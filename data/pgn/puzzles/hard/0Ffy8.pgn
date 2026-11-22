@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ffy8"]
+[Difficulty "hard"]
+[Rating "2790"]
+[Themes "crushing endgame intermezzo quietMove rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/S8jybvSU/black#100"]
+[Solution "a4a8 e2g2 a8f8 g2g8 f8f7 g8c8 c5b5 e6f7 b5a4 f7e6 a4b3 e6d5"]
+[SolutionSAN "Ra8 Rg2 Rf8 Rg8 Rxf7 Rc8+ Kb5 Kxf7 Ka4 Ke6 Kb3 Kd5"]
+[FEN "8/5P1p/4K3/2k5/rp2p3/2p1P2P/4R3/8 b - - 0 50"]
+[SetUp "1"]
+
+50... Ra8 51. Rg2 Rf8 52. Rg8 Rxf7 53. Rc8+ Kb5 54. Kxf7 Ka4 55. Ke6 Kb3 56. Kd5 *

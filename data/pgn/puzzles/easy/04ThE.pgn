@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04ThE"]
+[Difficulty "easy"]
+[Rating "1066"]
+[Themes "crushing fork middlegame pin short"]
+[GameUrl "https://lichess.org/game/efcWvHW9#57"]
+[Solution "e3g5 d4f3 g1g2 f3g5"]
+[SolutionSAN "Qg5 Nxf3+ Kg2 Nxg5"]
+[FEN "2r2rk1/p4p1p/2q3p1/2p1p3/3nN3/P3QPN1/1P3P1P/3R1RK1 w - - 0 29"]
+[SetUp "1"]
+
+29. Qg5 Nxf3+ 30. Kg2 Nxg5 *

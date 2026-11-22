@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08OFg"]
+[Difficulty "easy"]
+[Rating "1107"]
+[Themes "advantage discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/a7NoYBed#39"]
+[Solution "c3c4 d6h2 g1h2 e6c6"]
+[SolutionSAN "c4 Bh2+ Kxh2 Rxc6"]
+[FEN "r2q2k1/2p3p1/p1Qbr2p/1p6/3P4/2P1B2P/P4PP1/1R3RK1 w - - 1 20"]
+[SetUp "1"]
+
+20. c4 Bh2+ 21. Kxh2 Rxc6 *

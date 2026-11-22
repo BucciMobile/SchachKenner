@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AvW9"]
+[Difficulty "hard"]
+[Rating "2091"]
+[Themes "crushing defensiveMove endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/TQs3sZB8#101"]
+[Solution "g1h1 f3f2 e1e2 f2e2 h1h2 e2f2"]
+[SolutionSAN "Kh1 Kf2 Rxe2+ Kxe2 Kh2 Kf2"]
+[FEN "8/7p/P5r1/1P6/8/5k2/4p3/4R1K1 w - - 1 51"]
+[SetUp "1"]
+
+51. Kh1 Kf2 52. Rxe2+ Kxe2 53. Kh2 Kf2 *

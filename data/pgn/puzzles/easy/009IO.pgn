@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "009IO"]
+[Difficulty "easy"]
+[Rating "1178"]
+[Themes "hookMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/LJBrm9Or/black#50"]
+[Solution "e8e7 f2f7 h7f7 f1f7"]
+[SolutionSAN "Ke7 Rxf7+ Rxf7 Rxf7#"]
+[FEN "3rk3/5p1r/p2Np1p1/3bP3/P2n4/8/1P3RPP/5RK1 b - - 4 25"]
+[SetUp "1"]
+
+25... Ke7 26. Rxf7+ Rxf7 27. Rxf7# *

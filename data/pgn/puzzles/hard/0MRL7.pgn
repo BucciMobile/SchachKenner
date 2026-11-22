@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MRL7"]
+[Difficulty "hard"]
+[Rating "1793"]
+[Themes "advantage fork master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/a4jlJVNu#33"]
+[Solution "d2d5 a4e4 f1e2 e4d5"]
+[SolutionSAN "Rxd5 Qe4+ Be2 Qxd5"]
+[FEN "N4k1r/pp1b1ppp/2n5/3pp3/q7/6Q1/2PR1PPP/4KB1R w K - 0 17"]
+[SetUp "1"]
+
+17. Rxd5 Qe4+ 18. Be2 Qxd5 *

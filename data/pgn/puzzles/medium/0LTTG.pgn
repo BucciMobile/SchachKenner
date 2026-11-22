@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LTTG"]
+[Difficulty "medium"]
+[Rating "1306"]
+[Themes "crushing endgame fork queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/Wvkry9Di#85"]
+[Solution "e7f7 a3a2 e1e2 a2f7"]
+[SolutionSAN "Rxf7 Qa2+ Re2 Qxf7"]
+[FEN "8/p3Rppk/3p4/7p/7P/q4PP1/5K2/4R3 w - - 0 43"]
+[SetUp "1"]
+
+43. Rxf7 Qa2+ 44. Re2 Qxf7 *

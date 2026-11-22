@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08BaP"]
+[Difficulty "hard"]
+[Rating "1798"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/XZ7UwJwI/black#36"]
+[Solution "c8h3 e3f4 e5f4 c3h3"]
+[SolutionSAN "Bxh3 Bxf4 exf4 Qxh3"]
+[FEN "r1bq1rnk/2p3bp/1p1p2p1/1N1Pp3/2P1Nn2/2Q1B2P/P1B2PP1/R4RK1 b - - 0 18"]
+[SetUp "1"]
+
+18... Bxh3 19. Bxf4 exf4 20. Qxh3 *

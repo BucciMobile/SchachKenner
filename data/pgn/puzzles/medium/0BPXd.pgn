@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BPXd"]
+[Difficulty "medium"]
+[Rating "1558"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/ACwfRchC#37"]
+[Solution "b1d2 e6d5 b7d5 f6d5"]
+[SolutionSAN "Nd2 Bd5 Qxd5+ Nxd5"]
+[FEN "r5r1/pQ2pk1p/3pbn2/8/8/4B3/P4PPP/bN3RK1 w - - 1 19"]
+[SetUp "1"]
+
+19. Nd2 Bd5 20. Qxd5+ Nxd5 *

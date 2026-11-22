@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06ZIT"]
+[Difficulty "hard"]
+[Rating "2459"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/0YPgX73P/black#34"]
+[Solution "d5c6 g5e4 e5f4 e4g3"]
+[SolutionSAN "Qc6 Nxe4 exf4 Ng3"]
+[FEN "r4rk1/pp2bppp/8/2pqpbN1/4nB2/2P2B2/PP4PP/3RQRK1 b - - 3 17"]
+[SetUp "1"]
+
+17... Qc6 18. Nxe4 exf4 19. Ng3 *

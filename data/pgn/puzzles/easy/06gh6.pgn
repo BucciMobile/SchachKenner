@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06gh6"]
+[Difficulty "easy"]
+[Rating "948"]
+[Themes "crushing endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/sB21m3IJ#111"]
+[Solution "g8h8 h4g3 h3h4 f4f3"]
+[SolutionSAN "Rh8+ Kg3 h4 f3"]
+[FEN "6R1/8/p7/8/1PK2p1k/r6P/8/8 w - - 2 56"]
+[SetUp "1"]
+
+56. Rh8+ Kg3 57. h4 f3 *

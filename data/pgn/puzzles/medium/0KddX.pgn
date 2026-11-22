@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KddX"]
+[Difficulty "medium"]
+[Rating "1557"]
+[Themes "advancedPawn crushing endgame promotion short"]
+[GameUrl "https://lichess.org/game/GmoYQzJ1#83"]
+[Solution "h6h7 a3d3 g3d3 c2c1q"]
+[SolutionSAN "h7 Rxd3 Rxd3 c1=Q+"]
+[FEN "8/2k5/p6P/8/1p6/r2N2R1/2p5/6K1 w - - 2 42"]
+[SetUp "1"]
+
+42. h7 Rxd3 43. Rxd3 c1=Q+ *

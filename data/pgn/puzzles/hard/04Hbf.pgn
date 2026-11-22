@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Hbf"]
+[Difficulty "hard"]
+[Rating "1701"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/wwXGGzjR#75"]
+[Solution "g3g4 b6b5 a4b5 c6b5"]
+[SolutionSAN "Kg4 b5 axb5 cxb5"]
+[FEN "8/5k2/1pp5/p2p4/P2Pp2P/2P1P1K1/2P5/8 w - - 0 38"]
+[SetUp "1"]
+
+38. Kg4 b5 39. axb5 cxb5 *

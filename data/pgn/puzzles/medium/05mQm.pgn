@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05mQm"]
+[Difficulty "medium"]
+[Rating "1425"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/iOrc8Esh#57"]
+[Solution "d5b7 g3h3 g2h3 f3h3"]
+[SolutionSAN "Qb7 Qxh3+ gxh3 Rxh3#"]
+[FEN "7k/6p1/p6p/3Q4/8/5rqP/P4rP1/R5RK w - - 3 29"]
+[SetUp "1"]
+
+29. Qb7 Qxh3+ 30. gxh3 Rxh3# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06u2T"]
+[Difficulty "hard"]
+[Rating "2246"]
+[Themes "advantage kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/PWDR42e3/black#32"]
+[Solution "g7g8 h4e7 d8e7 h1g1 e7g5 g1g5"]
+[SolutionSAN "Kg8 Bxe7 Qxe7 Rg1+ Qg5 Rxg5+"]
+[FEN "r2qr3/ppp1bpk1/2b4p/4Q3/4P2B/2P5/PP1N1P1P/2K4R b - - 0 16"]
+[SetUp "1"]
+
+16... Kg8 17. Bxe7 Qxe7 18. Rg1+ Qg5 19. Rxg5+ *

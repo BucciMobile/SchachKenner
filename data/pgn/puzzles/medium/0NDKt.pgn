@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NDKt"]
+[Difficulty "medium"]
+[Rating "1282"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/cHUYDiTp/black#30"]
+[Solution "b8b2 d3g6 f7g6 d1d4"]
+[SolutionSAN "Rxb2 Bxg6+ Kxg6 Qxd4"]
+[FEN "1r5r/p1p1pkb1/2p1bnpp/8/3q4/2NB1P2/PBP3PP/1R1Q1R1K b - - 7 15"]
+[SetUp "1"]
+
+15... Rxb2 16. Bxg6+ Kxg6 17. Qxd4 *

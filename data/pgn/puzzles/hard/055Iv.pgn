@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "055Iv"]
+[Difficulty "hard"]
+[Rating "2224"]
+[Themes "attraction long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/0EBLR52L#51"]
+[Solution "g2g3 h4h2 g1h2 g5h5 h2g1 h5h1"]
+[SolutionSAN "g3 Qxh2+ Kxh2 Rh5+ Kg1 Rh1#"]
+[FEN "6k1/2Q2pp1/P6p/6r1/3Nb2q/2R1P3/1r3PPP/5RK1 w - - 1 26"]
+[SetUp "1"]
+
+26. g3 Qxh2+ 27. Kxh2 Rh5+ 28. Kg1 Rh1# *

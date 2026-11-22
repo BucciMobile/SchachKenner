@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Edcx"]
+[Difficulty "easy"]
+[Rating "915"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/3Z4C1QCr#67"]
+[Solution "a6a4 a3b2 a4a8 e8e7"]
+[SolutionSAN "Rxa4 Bxb2 Ra8+ Ke7"]
+[FEN "4k3/3n3p/R5pN/3p4/p1pP3P/bpP2P2/1P6/6K1 w - - 0 34"]
+[SetUp "1"]
+
+34. Rxa4 Bxb2 35. Ra8+ Ke7 *

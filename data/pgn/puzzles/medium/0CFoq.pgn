@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CFoq"]
+[Difficulty "medium"]
+[Rating "1450"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/29tOp5n2/black#38"]
+[Solution "c6e5 c2c7 c8c7 c1c7"]
+[SolutionSAN "Ne5 Qxc7 Rxc7 Rxc7"]
+[FEN "2r2r1k/ppq1bpp1/2n1b3/5B2/8/4PN2/PPQ2PPP/2R2RK1 b - - 2 19"]
+[SetUp "1"]
+
+19... Ne5 20. Qxc7 Rxc7 21. Rxc7 *

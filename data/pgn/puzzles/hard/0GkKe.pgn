@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GkKe"]
+[Difficulty "hard"]
+[Rating "1964"]
+[Themes "advantage defensiveMove long middlegame"]
+[GameUrl "https://lichess.org/game/TYPmF4JO/black#46"]
+[Solution "c6e4 e2d3 g7h6 d3e4 h6d2 e4a8"]
+[SolutionSAN "Qe4+ Bd3 Bxh6 Bxe4 Bxd2 Bxa8"]
+[FEN "rn4k1/2p2pb1/1pqpr1pB/7P/p7/Pb3N2/1P1QBPP1/1K4RR b - - 2 23"]
+[SetUp "1"]
+
+23... Qe4+ 24. Bd3 Bxh6 25. Bxe4 Bxd2 26. Bxa8 *

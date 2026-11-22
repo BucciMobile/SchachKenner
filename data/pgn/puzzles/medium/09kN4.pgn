@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09kN4"]
+[Difficulty "medium"]
+[Rating "1418"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/0kBG1HmR#51"]
+[Solution "d2b3 c7c4 f1g1 c4e2"]
+[SolutionSAN "Nb3 Qc4+ Kg1 Qe2"]
+[FEN "4b1k1/2q1n1bp/Q4p2/1p1p2p1/3P1p2/2P4P/PP1N1PPB/4NK2 w - - 1 26"]
+[SetUp "1"]
+
+26. Nb3 Qc4+ 27. Kg1 Qe2 *

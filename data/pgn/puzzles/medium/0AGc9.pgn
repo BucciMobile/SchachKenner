@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AGc9"]
+[Difficulty "medium"]
+[Rating "1690"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/WkGxcxdC/black#28"]
+[Solution "d8g5 d1c2 c8f5 c2c3"]
+[SolutionSAN "Qg5 Qc2+ Bf5 Qxc3"]
+[FEN "r1bq1r2/ppp2p1k/2np4/8/2P5/P1b4P/1p1NPP1B/1R1QKB1R b K - 3 14"]
+[SetUp "1"]
+
+14... Qg5 15. Qc2+ Bf5 16. Qxc3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cl0L"]
+[Difficulty "medium"]
+[Rating "1423"]
+[Themes "advantage deflection middlegame short"]
+[GameUrl "https://lichess.org/game/Vy12P1v4#99"]
+[Solution "c2c3 f2f1 c1f1 d4c3"]
+[SolutionSAN "Qc3 Rf1+ Rxf1 Qxc3"]
+[FEN "2B5/1p2r1kp/p5p1/Pp6/3qP3/7P/2Q2rP1/R1R4K w - - 3 50"]
+[SetUp "1"]
+
+50. Qc3 Rf1+ 51. Rxf1 Qxc3 *

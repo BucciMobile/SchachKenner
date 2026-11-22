@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BNak"]
+[Difficulty "medium"]
+[Rating "1489"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/e6yNs4ga#19"]
+[Solution "f3e5 f6f2"]
+[SolutionSAN "Nxe5 Qxf2#"]
+[FEN "r1b1k1nr/bpp2ppp/3p1q2/p2Pn3/2P5/P1N2N1P/1P3PP1/R1BQKB1R w KQkq - 1 10"]
+[SetUp "1"]
+
+10. Nxe5 Qxf2# *

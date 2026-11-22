@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HFlJ"]
+[Difficulty "medium"]
+[Rating "1551"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/tiFVp1Y4#27"]
+[Solution "d1e2 a6e2 c3e2 b3a1"]
+[SolutionSAN "Qe2 Qxe2 Nxe2 Nxa1"]
+[FEN "2kr1bnr/ppp3pp/q7/5p2/PP2P3/1nN2B1P/2P2PP1/R1BQ1RK1 w - - 1 14"]
+[SetUp "1"]
+
+14. Qe2 Qxe2 15. Nxe2 Nxa1 *

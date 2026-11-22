@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B4jM"]
+[Difficulty "easy"]
+[Rating "953"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/0T6XrbFv#95"]
+[Solution "h3g3 h5h4 g3h3 g5h5 h3g2 h5g4"]
+[SolutionSAN "Kg3 h4+ Kh3 Kh5 Kg2 Kg4"]
+[FEN "8/8/8/6kp/4p3/4P2K/5P2/8 w - - 0 48"]
+[SetUp "1"]
+
+48. Kg3 h4+ 49. Kh3 Kh5 50. Kg2 Kg4 *

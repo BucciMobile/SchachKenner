@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08nK3"]
+[Difficulty "easy"]
+[Rating "997"]
+[Themes "advancedPawn endgame master mate mateIn1 oneMove promotion"]
+[GameUrl "https://lichess.org/game/A0PoqDcl#115"]
+[Solution "a7a8q h2h1q"]
+[SolutionSAN "a8=Q h1=Q#"]
+[FEN "4B3/P1k5/2Np4/2bPp1p1/4Pn2/5P2/7p/5K2 w - - 0 58"]
+[SetUp "1"]
+
+58. a8=Q h1=Q# *

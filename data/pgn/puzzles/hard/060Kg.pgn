@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "060Kg"]
+[Difficulty "hard"]
+[Rating "1992"]
+[Themes "advantage intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/v0G524by/black#48"]
+[Solution "h7f5 d1d6 h2d6 f3f5"]
+[SolutionSAN "Bxf5 Rxd6 Qxd6 Qxf5"]
+[FEN "3rr1k1/pp3ppb/3b3p/2p2P2/8/1BB2Q1P/PPP2KPq/3R1R2 b - - 3 24"]
+[SetUp "1"]
+
+24... Bxf5 25. Rxd6 Qxd6 26. Qxf5 *

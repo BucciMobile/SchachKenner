@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DZRR"]
+[Difficulty "medium"]
+[Rating "1699"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/fnyQBHXu#65"]
+[Solution "b7b5 e8f8 f2f6 d8f6"]
+[SolutionSAN "Qxb5+ Kf8 Rxf6 Qxf6"]
+[FEN "3qk3/1Q3p2/3p1r2/1p1Pp2p/1P1p2p1/3P3P/2P2RPK/8 w - - 0 33"]
+[SetUp "1"]
+
+33. Qxb5+ Kf8 34. Rxf6 Qxf6 *

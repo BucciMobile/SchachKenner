@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Wrf"]
+[Difficulty "hard"]
+[Rating "1830"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/QKw5nvMY#35"]
+[Solution "e1f1 f5h3 b7g2 d8d1"]
+[SolutionSAN "Kf1 Bh3+ Bg2 Rd1#"]
+[FEN "2rr2k1/pB3p1p/5p2/5b2/1b6/6P1/PP2PP1P/R1B1K2R w KQ - 1 18"]
+[SetUp "1"]
+
+18. Kf1 Bh3+ 19. Bg2 Rd1# *

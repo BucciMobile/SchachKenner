@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BmOp"]
+[Difficulty "easy"]
+[Rating "814"]
+[Themes "backRankMate endgame hangingPiece mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/c7FQVvAZ/black#54"]
+[Solution "c2c4 d6b8 c4c8 b8c8"]
+[SolutionSAN "Qc4 Qxb8+ Qc8 Qxc8#"]
+[FEN "1r4k1/1p3ppp/3Q4/p2p4/3P4/Kb2P3/2q2PPP/8 b - - 1 27"]
+[SetUp "1"]
+
+27... Qc4 28. Qxb8+ Qc8 29. Qxc8# *

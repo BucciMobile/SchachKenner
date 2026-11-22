@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LIYU"]
+[Difficulty "hard"]
+[Rating "2443"]
+[Themes "crushing defensiveMove master middlegame veryLong"]
+[GameUrl "https://lichess.org/game/1TVi6n36#87"]
+[Solution "d5d6 c7b6 h8d8 b6a6 a4b5 a6b5 d8d7 e4c6"]
+[SolutionSAN "d6+ Kb6 Qd8+ Ka6 Bb5+ Kxb5 Qd7+ Bc6"]
+[FEN "7Q/ppk1n3/8/3P2b1/B2PbqP1/5N2/PP2p1K1/4R3 w - - 7 44"]
+[SetUp "1"]
+
+44. d6+ Kb6 45. Qd8+ Ka6 46. Bb5+ Kxb5 47. Qd7+ Bc6 *

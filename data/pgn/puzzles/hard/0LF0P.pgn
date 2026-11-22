@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LF0P"]
+[Difficulty "hard"]
+[Rating "2432"]
+[Themes "advantage hangingPiece long middlegame"]
+[GameUrl "https://lichess.org/game/g3R19ZOF/black#62"]
+[Solution "c5c1 e1c1 c8d7 c1d1 d7e6 d1d4"]
+[SolutionSAN "Rxc1 Rxc1+ Kd7 Rd1 Ke6 Rxd4"]
+[FEN "2k4r/pb6/1p6/2r2n2/3n1Q2/P4pP1/5P2/2B1R1K1 b - - 2 31"]
+[SetUp "1"]
+
+31... Rxc1 32. Rxc1+ Kd7 33. Rd1 Ke6 34. Rxd4 *

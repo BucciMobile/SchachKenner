@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E1Dz"]
+[Difficulty "hard"]
+[Rating "2023"]
+[Themes "crushing defensiveMove endgame queenEndgame short"]
+[GameUrl "https://lichess.org/game/6LhurVR1/black#84"]
+[Solution "e5e3 f7f2 e3c1 f2f1"]
+[SolutionSAN "Qe3+ Qf2 Qc1+ Qf1"]
+[FEN "7k/1P3Q2/4p1pp/3pq3/8/7P/6P1/6K1 b - - 2 42"]
+[SetUp "1"]
+
+42... Qe3+ 43. Qf2 Qc1+ 44. Qf1 *

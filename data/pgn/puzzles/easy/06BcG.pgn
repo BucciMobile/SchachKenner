@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06BcG"]
+[Difficulty "easy"]
+[Rating "615"]
+[Themes "kingsideAttack mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/SCLspnEi/black#22"]
+[Solution "f6e4 c3g7"]
+[SolutionSAN "Nfxe4 Qxg7#"]
+[FEN "r2q1rk1/ppp1ppbp/2bp1np1/2n5/2B1P1P1/1PQ2P1P/PBPPN3/RN2K2R b KQ - 2 11"]
+[SetUp "1"]
+
+11... Nfxe4 12. Qxg7# *

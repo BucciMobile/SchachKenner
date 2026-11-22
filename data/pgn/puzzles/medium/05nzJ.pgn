@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05nzJ"]
+[Difficulty "medium"]
+[Rating "1662"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/PyF9atnf#115"]
+[Solution "d8a5 f5f4 g3f3 f4e3"]
+[SolutionSAN "Qxa5 f4+ Kf3 fxe3"]
+[FEN "3Q4/5bk1/6p1/p2p1p2/3q3P/1P2R1K1/5P2/8 w - - 2 58"]
+[SetUp "1"]
+
+58. Qxa5 f4+ 59. Kf3 fxe3 *

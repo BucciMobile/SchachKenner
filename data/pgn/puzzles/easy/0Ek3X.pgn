@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ek3X"]
+[Difficulty "easy"]
+[Rating "1080"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/EMRbQ0GS/black#58"]
+[Solution "d5a2 g3b8 g8g7 b8e5"]
+[SolutionSAN "Qxa2 Qb8+ Kg7 Qe5+"]
+[FEN "6k1/p2r1p1p/1p4p1/3q4/8/2P3Q1/PP4P1/5R1K b - - 0 29"]
+[SetUp "1"]
+
+29... Qxa2 30. Qb8+ Kg7 31. Qe5+ *

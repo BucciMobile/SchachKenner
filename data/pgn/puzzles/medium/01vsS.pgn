@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01vsS"]
+[Difficulty "medium"]
+[Rating "1501"]
+[Themes "crushing endgame knightEndgame short"]
+[GameUrl "https://lichess.org/game/b7zg0CD6#95"]
+[Solution "g5e6 c5e6 d5e6 g6f6"]
+[SolutionSAN "Ne6 Nxe6+ dxe6 Kxf6"]
+[FEN "8/2p5/1p1p1Pk1/p1nP2N1/P1P2K2/8/8/8 w - - 2 48"]
+[SetUp "1"]
+
+48. Ne6 Nxe6+ 49. dxe6 Kxf6 *

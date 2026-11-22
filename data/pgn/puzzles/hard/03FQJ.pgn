@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03FQJ"]
+[Difficulty "hard"]
+[Rating "2169"]
+[Themes "advantage attraction kingsideAttack long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/kepSUgP0/black#32"]
+[Solution "c7c4 d4g7 g8g7 d2g5 g7h8 g5f6"]
+[SolutionSAN "Qxc4 Bxg7 Kxg7 Qg5+ Kh8 Qf6+"]
+[FEN "r1b2rk1/ppq2ppp/4p3/3p4/2BB4/2P5/P1PQ1PPP/R4RK1 b - - 0 16"]
+[SetUp "1"]
+
+16... Qxc4 17. Bxg7 Kxg7 18. Qg5+ Kh8 19. Qf6+ *

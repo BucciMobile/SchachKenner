@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C0Mm"]
+[Difficulty "hard"]
+[Rating "2398"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/4rp7WtNc#35"]
+[Solution "h1g1 c6e5 d4e5 d8d3 f3d5 d3d5"]
+[SolutionSAN "Rg1 Ne5 dxe5 Qxd3 Qd5+ Qxd5"]
+[FEN "r1bq2k1/ppp4p/2n3p1/5n2/2PP4/2PBPQ2/P6P/R3K2R w KQ - 1 18"]
+[SetUp "1"]
+
+18. Rg1 Ne5 19. dxe5 Qxd3 20. Qd5+ Qxd5 *

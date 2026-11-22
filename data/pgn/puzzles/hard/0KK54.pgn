@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KK54"]
+[Difficulty "hard"]
+[Rating "1739"]
+[Themes "advantage defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/PIr4Pm6b/black#84"]
+[Solution "f7f6 e5d5 c7c8 c2e2"]
+[SolutionSAN "f6+ Kd5 Rc8 Re2+"]
+[FEN "8/p1r1kppp/1pP5/4K3/P5PP/8/2R2P2/8 b - - 4 42"]
+[SetUp "1"]
+
+42... f6+ 43. Kd5 Rc8 44. Re2+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HIns"]
+[Difficulty "medium"]
+[Rating "1679"]
+[Themes "crushing endgame long queenRookEndgame skewer"]
+[GameUrl "https://lichess.org/game/G242SNHb#91"]
+[Solution "b3c4 b7b5 c4c5 d3c3 c5b6 c3c8"]
+[SolutionSAN "Kc4 b5+ Kc5 Rc3+ Kb6 Rxc8"]
+[FEN "2Q5/1p3pp1/p3p2p/8/1P5P/PK1r2P1/4kP2/8 w - - 5 46"]
+[SetUp "1"]
+
+46. Kc4 b5+ 47. Kc5 Rc3+ 48. Kb6 Rxc8 *

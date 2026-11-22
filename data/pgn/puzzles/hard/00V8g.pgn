@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00V8g"]
+[Difficulty "hard"]
+[Rating "2366"]
+[Themes "crushing defensiveMove endgame knightEndgame long"]
+[GameUrl "https://lichess.org/game/iPi2LNEj/black#114"]
+[Solution "d5c7 b5c6 e7d8 c6b7 d8d7 a4a5"]
+[SolutionSAN "Nc7+ Kc6 Kd8 Kb7 Kd7 a5"]
+[FEN "8/4k3/8/1K1n4/P7/8/1P6/8 b - - 0 57"]
+[SetUp "1"]
+
+57... Nc7+ 58. Kc6 Kd8 59. Kb7 Kd7 60. a5 *

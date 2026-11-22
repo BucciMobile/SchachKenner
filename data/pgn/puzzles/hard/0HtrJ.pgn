@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HtrJ"]
+[Difficulty "hard"]
+[Rating "2463"]
+[Themes "advantage discoveredAttack discoveredCheck intermezzo middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/9qQpXX4e/black#58"]
+[Solution "c5e7 g5h5 g7h6 d1g1 g8h8 d2h6 e7g5 h6g5"]
+[SolutionSAN "Be7 Qh5 gxh6 Rg1+ Kh8 Bxh6 Bg5+ Bxg5+"]
+[FEN "2rr2k1/pp4p1/7R/2bpqbQ1/8/1B6/PPPB4/2KR4 b - - 4 29"]
+[SetUp "1"]
+
+29... Be7 30. Qh5 gxh6 31. Rg1+ Kh8 32. Bxh6 Bg5+ 33. Bxg5+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IQ8T"]
+[Difficulty "medium"]
+[Rating "1281"]
+[Themes "crushing discoveredAttack discoveredCheck endgame fork long"]
+[GameUrl "https://lichess.org/game/A3BKW842#77"]
+[Solution "h3h6 d1e3 g1f2 e3g4 f2e2 g4h6"]
+[SolutionSAN "Rxh6 Ne3+ Kf2 Nxg4+ Ke2 Nxh6"]
+[FEN "8/5k2/pp2p1pp/2p1P3/P4PP1/1P5R/3N3P/2rn2K1 w - - 4 39"]
+[SetUp "1"]
+
+39. Rxh6 Ne3+ 40. Kf2 Nxg4+ 41. Ke2 Nxh6 *

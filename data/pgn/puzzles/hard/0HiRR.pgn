@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HiRR"]
+[Difficulty "hard"]
+[Rating "1866"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/rnBvzLaC#19"]
+[Solution "g5h6 g7h6 d2h6 c6d4"]
+[SolutionSAN "Bh6 Bxh6 Qxh6 Nxd4"]
+[FEN "r2q1rk1/pppb1pbp/2np1np1/6B1/2BNP3/2N5/PPPQ1PPP/R4RK1 w - - 8 10"]
+[SetUp "1"]
+
+10. Bh6 Bxh6 11. Qxh6 Nxd4 *

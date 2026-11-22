@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EUlY"]
+[Difficulty "hard"]
+[Rating "1809"]
+[Themes "advantage discoveredAttack endgame master pin short"]
+[GameUrl "https://lichess.org/game/AwxBeRtT/black#102"]
+[Solution "c2f5 f3f4 c1f4 h5d1"]
+[SolutionSAN "Bf5 f4+ Bxf4 Qxd1"]
+[FEN "8/6p1/p7/3nk2Q/1P5p/5P1P/NPb2K2/2bq4 b - - 3 51"]
+[SetUp "1"]
+
+51... Bf5 52. f4+ Bxf4 53. Qxd1 *

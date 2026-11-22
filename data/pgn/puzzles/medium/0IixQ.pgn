@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IixQ"]
+[Difficulty "medium"]
+[Rating "1346"]
+[Themes "advantage fork hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/JZm3pnn6#31"]
+[Solution "f1c4 d5e3 c2f2 e3c4"]
+[SolutionSAN "Bxc4 Nxe3 Qf2 Nxc4"]
+[FEN "rn2k2r/p4ppp/2p1p3/qp1nP3/2bP4/P1N1BP2/1PQ3PP/2R1KB1R w Kkq - 1 16"]
+[SetUp "1"]
+
+16. Bxc4 Nxe3 17. Qf2 Nxc4 *

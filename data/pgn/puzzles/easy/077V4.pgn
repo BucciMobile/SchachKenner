@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "077V4"]
+[Difficulty "easy"]
+[Rating "941"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/dtDTvlh2#47"]
+[Solution "g2g3 f8f2"]
+[SolutionSAN "g3 Rf2#"]
+[FEN "1k3r2/ppb3pp/2p1B3/6Q1/8/7P/RPP3PK/3r4 w - - 8 24"]
+[SetUp "1"]
+
+24. g3 Rf2# *

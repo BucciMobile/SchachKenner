@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MA2r"]
+[Difficulty "hard"]
+[Rating "2074"]
+[Themes "crushing discoveredAttack discoveredCheck enPassant endgame veryLong"]
+[GameUrl "https://lichess.org/game/MUzvMcSR#63"]
+[Solution "b4a5 b8b1 g1h2 e8b8 f2f4 g4f3 h2h3 b1h1"]
+[SolutionSAN "Qa5 Rb1+ Kh2 Qb8+ f4 gxf3+ Kh3 Rh1+"]
+[FEN "1r2q3/5pk1/8/2N5/RQ1P2p1/4P3/5PP1/6K1 w - - 1 32"]
+[SetUp "1"]
+
+32. Qa5 Rb1+ 33. Kh2 Qb8+ 34. f4 gxf3+ 35. Kh3 Rh1+ *

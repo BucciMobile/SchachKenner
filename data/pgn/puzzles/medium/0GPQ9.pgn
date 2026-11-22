@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GPQ9"]
+[Difficulty "medium"]
+[Rating "1464"]
+[Themes "crushing defensiveMove endgame long pawnEndgame zugzwang"]
+[GameUrl "https://lichess.org/game/zJzAE5sX#135"]
+[Solution "e4e5 d6d5 f6g6 d5e5 g6h6 e5f4"]
+[SolutionSAN "e5+ Kd5 Kg6 Kxe5 Kxh6 Kf4"]
+[FEN "8/8/3kpK1p/6p1/4P1P1/7P/8/8 w - - 4 68"]
+[SetUp "1"]
+
+68. e5+ Kd5 69. Kg6 Kxe5 70. Kxh6 Kf4 *

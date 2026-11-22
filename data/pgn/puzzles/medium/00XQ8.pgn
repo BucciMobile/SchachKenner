@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00XQ8"]
+[Difficulty "medium"]
+[Rating "1480"]
+[Themes "advantage discoveredAttack endgame long"]
+[GameUrl "https://lichess.org/game/bjvSXgAE#59"]
+[Solution "h1f1 f2e3 c1b1 f8f1 g6g8 e4e8"]
+[SolutionSAN "Rhf1 Qe3+ Kb1 Rxf1 Qg8+ Re8"]
+[FEN "k4r2/pp6/2p3Q1/3p2P1/4r2P/8/PPP2q2/2KR3R w - - 1 30"]
+[SetUp "1"]
+
+30. Rhf1 Qe3+ 31. Kb1 Rxf1 32. Qg8+ Re8 *

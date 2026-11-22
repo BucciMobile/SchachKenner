@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lw7o"]
+[Difficulty "hard"]
+[Rating "2242"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/HAF0t5D3#59"]
+[Solution "f3g3 f5f4 c6e7 d5e7"]
+[SolutionSAN "Qg3 f4 Ne7+ Nxe7"]
+[FEN "2r3k1/6P1/p1Nqpr1p/1pRn1p2/3P4/1P2PQ2/P4P2/5KR1 w - - 1 30"]
+[SetUp "1"]
+
+30. Qg3 f4 31. Ne7+ Nxe7 *

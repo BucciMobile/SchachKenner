@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07uT4"]
+[Difficulty "hard"]
+[Rating "1747"]
+[Themes "balestraMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/gtLohvrG#77"]
+[Solution "e1d1 g3d3 d1e1 g5h4"]
+[SolutionSAN "Kd1 Qd3+ Ke1 Bh4#"]
+[FEN "4R3/1p4pk/p1p1Q2p/3p1Pb1/6P1/6q1/PP6/4K3 w - - 2 39"]
+[SetUp "1"]
+
+39. Kd1 Qd3+ 40. Ke1 Bh4# *

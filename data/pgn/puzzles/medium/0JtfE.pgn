@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JtfE"]
+[Difficulty "medium"]
+[Rating "1569"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/CPrmegO0#59"]
+[Solution "a3a4 d8a5 e1e2 d7g4"]
+[SolutionSAN "a4 Ba5+ Ke2 Qxg4+"]
+[FEN "3b2r1/1p1q3k/6p1/2p1p2P/2Q1N1R1/P3P3/5P2/4K3 w - - 2 30"]
+[SetUp "1"]
+
+30. a4 Ba5+ 31. Ke2 Qxg4+ *

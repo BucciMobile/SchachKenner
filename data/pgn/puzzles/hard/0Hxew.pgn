@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hxew"]
+[Difficulty "hard"]
+[Rating "2608"]
+[Themes "crushing endgame pawnEndgame quietMove veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/fAKixtX7/black#92"]
+[Solution "b2c3 h4g5 c3d4 f3f4 d4e4 h3h4 e4f3 f4f5 f3g3 f5f6 g3h3 h4h5 g6h5 g5h5"]
+[SolutionSAN "Kc3 Kg5 Kd4 f4 Ke4 h4 Kf3 f5 Kg3 f6 Kh3 h5 gxh5 Kxh5"]
+[FEN "8/5p2/6p1/8/7K/5P1P/1k6/8 b - - 0 46"]
+[SetUp "1"]
+
+46... Kc3 47. Kg5 Kd4 48. f4 Ke4 49. h4 Kf3 50. f5 Kg3 51. f6 Kh3 52. h5 gxh5 53. Kxh5 *

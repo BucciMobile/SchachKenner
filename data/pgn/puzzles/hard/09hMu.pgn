@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09hMu"]
+[Difficulty "hard"]
+[Rating "2234"]
+[Themes "advantage fork middlegame skewer veryLong"]
+[GameUrl "https://lichess.org/game/kJl7nVFB/black#66"]
+[Solution "d7d6 b8b6 d6e5 b6e6 e5d4 e6e2 h6g5 c1c6"]
+[SolutionSAN "Kd6 Rxb6+ Ke5 Re6+ Kd4 Rxe2 hxg5 Rc6"]
+[FEN "1R5r/3k4/1p4bp/3p2N1/8/3n2PB/PP2q2P/2R4K b - - 4 33"]
+[SetUp "1"]
+
+33... Kd6 34. Rxb6+ Ke5 35. Re6+ Kd4 36. Rxe2 hxg5 37. Rc6 *

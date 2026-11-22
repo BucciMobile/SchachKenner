@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "000qP"]
+[Difficulty "hard"]
+[Rating "2146"]
+[Themes "crushing endgame exposedKing long skewer"]
+[GameUrl "https://lichess.org/game/r4xUR6fC#101"]
+[Solution "f2f1 f4f3 f1e1 c2c1 e1d2 c1g1"]
+[SolutionSAN "Kf1 Kf3 Ke1 Rc1+ Kd2 Rxg1"]
+[FEN "8/7R/8/5p2/4bk1P/8/2r2K2/6R1 w - - 7 51"]
+[SetUp "1"]
+
+51. Kf1 Kf3 52. Ke1 Rc1+ 53. Kd2 Rxg1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01jwi"]
+[Difficulty "medium"]
+[Rating "1522"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/C64KSo7n/black#44"]
+[Solution "e8f8 d7e6 g8g7 d4b4"]
+[SolutionSAN "Rf8 Be6+ Kg7 Qxb4"]
+[FEN "4r1k1/pbqB3p/1p3pp1/8/1b1Q4/4PpP1/PB3P1P/5RK1 b - - 0 22"]
+[SetUp "1"]
+
+22... Rf8 23. Be6+ Kg7 24. Qxb4 *

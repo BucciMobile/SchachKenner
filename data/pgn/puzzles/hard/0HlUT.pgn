@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HlUT"]
+[Difficulty "hard"]
+[Rating "2016"]
+[Themes "attraction crushing exposedKing fork middlegame pin sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/9b4oi9Ll#45"]
+[Solution "h3f5 d1e1 e3e1 e5f3 g1h1 f3e1 b1d2 c4d5 f5e6 d5e6"]
+[SolutionSAN "Bxf5 Rxe1+ Qxe1 Nf3+ Kh1 Nxe1 Nd2 Qd5 Bxe6+ Qxe6"]
+[FEN "2k5/ppp3pp/4r3/4np2/2q2P2/2P1Q2B/P5R1/RN1rN1K1 w - - 0 23"]
+[SetUp "1"]
+
+23. Bxf5 Rxe1+ 24. Qxe1 Nf3+ 25. Kh1 Nxe1 26. Nd2 Qd5 27. Bxe6+ Qxe6 *

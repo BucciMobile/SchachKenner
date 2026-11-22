@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D7pF"]
+[Difficulty "hard"]
+[Rating "1909"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/hJOCxMJj/black#72"]
+[Solution "e4e3 d1g1 e3e2 g1g3 g8h7 g3e3"]
+[SolutionSAN "e3 Rg1 e2 Rxg3+ Kh7 Re3"]
+[FEN "6k1/5p2/7P/p1r1P3/4pP2/1Pp3p1/P1K5/3R4 b - - 0 36"]
+[SetUp "1"]
+
+36... e3 37. Rg1 e2 38. Rxg3+ Kh7 39. Re3 *

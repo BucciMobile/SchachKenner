@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FNMT"]
+[Difficulty "medium"]
+[Rating "1483"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/pPnUyfL1#67"]
+[Solution "e5f6 e7f6 h6h5 f6f5 h3h4 g5h4 h5h4 f5f4"]
+[SolutionSAN "exf6+ Kxf6 Kh5 Kf5 h4 gxh4 Kxh4 Kf4"]
+[FEN "8/ppp1k3/5p1K/4P1p1/8/P1P2P1P/5P2/8 w - - 0 34"]
+[SetUp "1"]
+
+34. exf6+ Kxf6 35. Kh5 Kf5 36. h4 gxh4 37. Kxh4 Kf4 *

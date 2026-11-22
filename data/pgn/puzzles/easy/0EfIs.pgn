@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EfIs"]
+[Difficulty "easy"]
+[Rating "910"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/Xd9Ng0BT#65"]
+[Solution "f2f4 e5f3 g1h1 f3e1"]
+[SolutionSAN "f4 Nf3+ Kh1 Nxe1"]
+[FEN "2k5/pp6/3pP1rp/2p1n3/7B/8/PP3PP1/4R1K1 w - - 1 33"]
+[SetUp "1"]
+
+33. f4 Nf3+ 34. Kh1 Nxe1 *

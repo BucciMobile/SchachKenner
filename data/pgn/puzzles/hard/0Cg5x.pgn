@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cg5x"]
+[Difficulty "hard"]
+[Rating "2741"]
+[Themes "advancedPawn clearance collinearMove crushing middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/nBMcstzV#57"]
+[Solution "f3e2 f4g3 e1f1 f7f2 f1f2 g3f2 g1g2 d3e2"]
+[SolutionSAN "Bxe2 fxg3 Rf1 Qf2+ Rxf2 gxf2+ Kg2 Bxe2"]
+[FEN "5rk1/2Rn1qp1/4p2p/4P3/3P1p2/P1Qb1BP1/4r2P/4R1K1 w - - 2 29"]
+[SetUp "1"]
+
+29. Bxe2 fxg3 30. Rf1 Qf2+ 31. Rxf2 gxf2+ 32. Kg2 Bxe2 *

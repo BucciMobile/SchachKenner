@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Mbch"]
+[Difficulty "medium"]
+[Rating "1374"]
+[Themes "crushing endgame fork long queenEndgame"]
+[GameUrl "https://lichess.org/game/AFg8TlIP/black#72"]
+[Solution "d5d4 e7f8 h6h5 g3g4 h5g5 g4f5"]
+[SolutionSAN "d4 Qf8+ Kh5 g4+ Kg5 gxf5"]
+[FEN "8/4Q2p/4pppk/3p1q2/8/6PP/5PK1/8 b - - 3 36"]
+[SetUp "1"]
+
+36... d4 37. Qf8+ Kh5 38. g4+ Kg5 39. gxf5 *

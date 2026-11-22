@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "067zA"]
+[Difficulty "hard"]
+[Rating "1828"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/fth2rez1#33"]
+[Solution "a3b4 c5b4 c3a2 a6b5"]
+[SolutionSAN "axb4 cxb4 Na2 axb5"]
+[FEN "r1r3k1/1b1nbppp/p2p4/qPpPp3/1n2P1PP/P1N1BP2/1P1QB3/1K1R2NR w - - 0 17"]
+[SetUp "1"]
+
+17. axb4 cxb4 18. Na2 axb5 *

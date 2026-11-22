@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AH5m"]
+[Difficulty "medium"]
+[Rating "1526"]
+[Themes "blindSwineMate endgame master mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/Mze6VHaE/black#66"]
+[Solution "c3e3 e1h1 f5h4 h1h4"]
+[SolutionSAN "Rxe3 Rh1+ Nh4+ Rhxh4#"]
+[FEN "3r3b/p6p/1p3p1P/5n1k/6R1/2r1BPP1/P5K1/4R3 b - - 1 33"]
+[SetUp "1"]
+
+33... Rxe3 34. Rh1+ Nh4+ 35. Rhxh4# *

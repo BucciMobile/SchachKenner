@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FywU"]
+[Difficulty "medium"]
+[Rating "1364"]
+[Themes "long mate mateIn3 middlegame queensideAttack xRayAttack"]
+[GameUrl "https://lichess.org/game/VLvYQYKb/black#50"]
+[Solution "d6e8 f8e8 e5e8 e1e8 g5d8 d1d8"]
+[SolutionSAN "Ne8 Qxe8+ Rxe8 Rxe8+ Qd8 Rdxd8#"]
+[FEN "r1k2Q2/ppp3p1/3n3p/4r1q1/8/7P/PPP3P1/1K1RR3 b - - 1 25"]
+[SetUp "1"]
+
+25... Ne8 26. Qxe8+ Rxe8 27. Rxe8+ Qd8 28. Rdxd8# *

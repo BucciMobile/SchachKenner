@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07BkM"]
+[Difficulty "hard"]
+[Rating "2521"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/l4p0ojJs/black#66"]
+[Solution "c2e3 c3e3 a4c4 e3c3"]
+[SolutionSAN "Ne3 Qxe3 Qc4 Qc3"]
+[FEN "5rk1/p2p2pp/1p2bp2/6P1/q4P2/P1Q2N2/1Kn4P/3R1R2 b - - 3 33"]
+[SetUp "1"]
+
+33... Ne3 34. Qxe3 Qc4 35. Qc3 *

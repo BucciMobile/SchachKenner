@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D7xm"]
+[Difficulty "hard"]
+[Rating "2778"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/h9UMywel/black#50"]
+[Solution "f7f6 f5e6 c4e6 g5e6 f8e8 e6d8"]
+[SolutionSAN "f6 Qe6 Qxe6 Nxe6+ Ke8 Nxd8"]
+[FEN "3r1k2/pp3pp1/8/4bQN1/P1q1P2P/4p3/1pP3P1/1K5R b - - 1 25"]
+[SetUp "1"]
+
+25... f6 26. Qe6 Qxe6 27. Nxe6+ Ke8 28. Nxd8 *

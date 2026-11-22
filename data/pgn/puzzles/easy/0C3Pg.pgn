@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C3Pg"]
+[Difficulty "easy"]
+[Rating "891"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/ZyRNoBhp#21"]
+[Solution "f1b5 e7b4 d1d2 b4b5"]
+[SolutionSAN "Bb5 Qb4+ Qd2 Qxb5"]
+[FEN "r1b1k2r/ppp1qp1p/2n5/8/3P4/4P3/PP3PPR/R2QKBN1 w Qkq - 1 11"]
+[SetUp "1"]
+
+11. Bb5 Qb4+ 12. Qd2 Qxb5 *

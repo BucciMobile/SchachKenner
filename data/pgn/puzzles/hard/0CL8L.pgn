@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CL8L"]
+[Difficulty "hard"]
+[Rating "1763"]
+[Themes "advancedPawn crushing endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/qOo3e0oa#69"]
+[Solution "a8b8 b4c3 a5a6 c3c2"]
+[SolutionSAN "Rxb8 bxc3 a6 c2"]
+[FEN "Rb6/5kpp/3p1p2/P2r4/1p5P/2B3P1/5P2/6K1 w - - 0 35"]
+[SetUp "1"]
+
+35. Rxb8 bxc3 36. a6 c2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "098id"]
+[Difficulty "easy"]
+[Rating "1176"]
+[Themes "endgame master mate mateIn2 operaMate sacrifice short"]
+[GameUrl "https://lichess.org/game/Hz9QLw1E#73"]
+[Solution "f5e6 g7g1 f1g1 g8g1"]
+[SolutionSAN "Be6 Qg1+ Rxg1 Rxg1#"]
+[FEN "6rk/1p4qp/p4p2/3Q1B2/1P3P2/P7/5b1P/5R1K w - - 0 37"]
+[SetUp "1"]
+
+37. Be6 Qg1+ 38. Rxg1 Rxg1# *

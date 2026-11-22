@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CWi5"]
+[Difficulty "easy"]
+[Rating "841"]
+[Themes "endgame fork mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/QvswehMO#89"]
+[Solution "e4b1 g5c1 f3d1 c1d1"]
+[SolutionSAN "Bxb1 Qc1+ Qd1 Qxd1#"]
+[FEN "6k1/6p1/3p1p2/3PbPqp/4B3/5Q1P/6P1/1r5K w - - 0 45"]
+[SetUp "1"]
+
+45. Bxb1 Qc1+ 46. Qd1 Qxd1# *

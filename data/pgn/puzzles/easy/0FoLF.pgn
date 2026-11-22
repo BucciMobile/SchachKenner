@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FoLF"]
+[Difficulty "easy"]
+[Rating "885"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/LRTO8R7Z#77"]
+[Solution "e2d3 d7c5 d3c3 c5a6"]
+[SolutionSAN "Kd3 Nc5+ Kc3 Nxa6"]
+[FEN "8/3n1pp1/B2k2p1/p7/8/1P2PPP1/4K2P/8 w - - 7 39"]
+[SetUp "1"]
+
+39. Kd3 Nc5+ 40. Kc3 Nxa6 *

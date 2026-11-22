@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hl7t"]
+[Difficulty "medium"]
+[Rating "1226"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/Mpzz8XDo#95"]
+[Solution "d6d7 d2h2"]
+[SolutionSAN "d7 Rh2#"]
+[FEN "8/4R3/3P4/p2k4/7p/B4n1P/PP1r4/7K w - - 4 48"]
+[SetUp "1"]
+
+48. d7 Rh2# *

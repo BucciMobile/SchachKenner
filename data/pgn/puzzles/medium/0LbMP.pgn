@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LbMP"]
+[Difficulty "medium"]
+[Rating "1475"]
+[Themes "advantage attackingF2F7 discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/FNFPoH6n/black#24"]
+[Solution "h4g3 h5f7 e8f7 h1h8"]
+[SolutionSAN "Bxg3 Bxf7+ Kxf7 Rxh8"]
+[FEN "r2qk1nr/1pp2pp1/p1n5/4p2B/P2pP2b/BP4N1/2PP1PP1/R2QK2R b KQkq - 0 12"]
+[SetUp "1"]
+
+12... Bxg3 13. Bxf7+ Kxf7 14. Rxh8 *

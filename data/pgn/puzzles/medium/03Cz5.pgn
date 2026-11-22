@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Cz5"]
+[Difficulty "medium"]
+[Rating "1625"]
+[Themes "crushing intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/OpOW7hZg/black#52"]
+[Solution "c5d6 f3c6 b7c6 f4d6"]
+[SolutionSAN "Bxd6 Qxc6 bxc6 Bxd6"]
+[FEN "3r1r1k/pp4pp/2qPP1p1/2b5/3p1B2/1P3QP1/P6P/R4R1K b - - 2 26"]
+[SetUp "1"]
+
+26... Bxd6 27. Qxc6 bxc6 28. Bxd6 *

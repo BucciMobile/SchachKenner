@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "061gK"]
+[Difficulty "easy"]
+[Rating "719"]
+[Themes "endgame knightEndgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/HntxUAdb#107"]
+[Solution "h4h5 c8b6"]
+[SolutionSAN "h5 Nb6#"]
+[FEN "2n5/3k2p1/3p3p/3Kp3/1N2P1PP/3P4/8/8 w - - 1 54"]
+[SetUp "1"]
+
+54. h5 Nb6# *

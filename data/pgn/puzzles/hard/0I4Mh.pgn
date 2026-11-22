@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I4Mh"]
+[Difficulty "hard"]
+[Rating "1912"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/mkS0rKE3#69"]
+[Solution "a2a4 d7d2 b6b7 g7h6"]
+[SolutionSAN "a4 Rdd2 Rb7+ Kh6"]
+[FEN "8/3r2k1/1R3pp1/6p1/4R3/5PK1/P1r3PP/8 w - - 1 35"]
+[SetUp "1"]
+
+35. a4 Rdd2 36. Rb7+ Kh6 *

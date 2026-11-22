@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0L6e9"]
+[Difficulty "hard"]
+[Rating "2425"]
+[Themes "advantage deflection discoveredAttack discoveredCheck master masterVsMaster middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/YuQf9BfR/black#58"]
+[Solution "h4f4 h3g3 g7f8 f7h6 f4f5 g3g8 f8e7 h6f5"]
+[SolutionSAN "Qf4+ Rg3+ Kf8 Nxh6+ Qxf5 Rxg8+ Ke7 Nxf5+"]
+[FEN "6r1/1bp2Nk1/p3P2p/2pn1Q2/3p3q/3P3R/PPP3PK/8 b - - 7 29"]
+[SetUp "1"]
+
+29... Qf4+ 30. Rg3+ Kf8 31. Nxh6+ Qxf5 32. Rxg8+ Ke7 33. Nxf5+ *

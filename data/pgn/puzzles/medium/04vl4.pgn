@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04vl4"]
+[Difficulty "medium"]
+[Rating "1654"]
+[Themes "advantage long middlegame pin"]
+[GameUrl "https://lichess.org/game/orOBmlxZ#31"]
+[Solution "b4a5 c4d3 c2d3 e5e4 d3e4 f8e8"]
+[SolutionSAN "bxa5 Bxd3 Qxd3 e4 Qxe4 Re8"]
+[FEN "r2q1rk1/pp5p/2pp1ppb/n3p3/1PbP4/2PB1N1P/P1Q2PP1/RN2K2R w KQ - 0 16"]
+[SetUp "1"]
+
+16. bxa5 Bxd3 17. Qxd3 e4 18. Qxe4 Re8 *

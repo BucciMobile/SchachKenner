@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09IRc"]
+[Difficulty "medium"]
+[Rating "1330"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/v4ttW7tU#65"]
+[Solution "g3h5 d4h4"]
+[SolutionSAN "Nxh5 Rxh4#"]
+[FEN "6k1/6p1/pq2p1R1/1p5p/2br3P/P4PN1/1Q4P1/7K w - - 0 33"]
+[SetUp "1"]
+
+33. Nxh5 Rxh4# *

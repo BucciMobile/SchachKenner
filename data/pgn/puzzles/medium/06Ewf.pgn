@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Ewf"]
+[Difficulty "medium"]
+[Rating "1342"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/IaDfnBXz/black#86"]
+[Solution "f6g6 c6e5"]
+[SolutionSAN "Kg6 Ne5#"]
+[FEN "7Q/8/1pN2k2/p1b2pp1/2P5/PP6/3q1PK1/8 b - - 13 43"]
+[SetUp "1"]
+
+43... Kg6 44. Ne5# *

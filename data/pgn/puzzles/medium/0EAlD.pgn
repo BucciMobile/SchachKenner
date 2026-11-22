@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EAlD"]
+[Difficulty "medium"]
+[Rating "1227"]
+[Themes "advancedPawn crushing endgame long promotion rookEndgame"]
+[GameUrl "https://lichess.org/game/VbJJUlH1/black#102"]
+[Solution "c6c5 b6b7 a2a1 g1g2 a1a7 b7b8q"]
+[SolutionSAN "Kxc5 b7 Ra1+ Kg2 Rxa7 b8=Q"]
+[FEN "8/P6p/1Pk5/2P5/5P2/6pP/r7/6K1 b - - 0 51"]
+[SetUp "1"]
+
+51... Kxc5 52. b7 Ra1+ 53. Kg2 Rxa7 54. b8=Q *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KnlQ"]
+[Difficulty "hard"]
+[Rating "2306"]
+[Themes "clearance crushing middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/vXXV5HWJ#49"]
+[Solution "e6d7 e5d4 f1f2 b8g3 d7e8r a8e8 h6e3 d4e3"]
+[SolutionSAN "exd7 Bd4+ Rf2 Qg3 dxe8=R+ Rxe8 Be3 Bxe3"]
+[FEN "rq2r2k/pb1n3p/1p2P2B/2p1b3/P7/3P4/BPPQ2P1/R4RK1 w - - 3 25"]
+[SetUp "1"]
+
+25. exd7 Bd4+ 26. Rf2 Qg3 27. dxe8=R+ Rxe8 28. Be3 Bxe3 *

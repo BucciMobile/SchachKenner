@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GUFM"]
+[Difficulty "hard"]
+[Rating "1798"]
+[Themes "crushing long middlegame trappedPiece"]
+[GameUrl "https://lichess.org/game/zrA5wqz3#31"]
+[Solution "e1g1 f6d5 d1d5 c6d4 d5d4 e5d4"]
+[SolutionSAN "O-O Nxd5 Qxd5 Nd4 Qxd4 exd4"]
+[FEN "r3k2r/1b2qpp1/p1np1n1p/1p1Bp3/8/PN2P1BP/1PP2PP1/R2QK2R w KQkq - 2 16"]
+[SetUp "1"]
+
+16. O-O Nxd5 17. Qxd5 Nd4 18. Qxd4 exd4 *

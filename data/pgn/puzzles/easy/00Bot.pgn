@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Bot"]
+[Difficulty "easy"]
+[Rating "810"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/FWA12ElZ/black#104"]
+[Solution "f4f6 a3a6 e6e5 a6f6"]
+[SolutionSAN "Rxf6 Rxa6+ Ke5 Rxf6"]
+[FEN "8/5p2/p3kP2/8/5r2/R1P5/4P3/4K3 b - - 2 52"]
+[SetUp "1"]
+
+52... Rxf6 53. Rxa6+ Ke5 54. Rxf6 *

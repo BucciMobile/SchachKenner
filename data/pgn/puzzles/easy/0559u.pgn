@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0559u"]
+[Difficulty "easy"]
+[Rating "951"]
+[Themes "crushing endgame short skewer"]
+[GameUrl "https://lichess.org/game/AtT53L6D#91"]
+[Solution "g3f2 g5h4 f2f1 h4e1"]
+[SolutionSAN "Kf2 Bh4+ Kf1 Bxe1"]
+[FEN "8/8/3k1p2/2p3b1/4p3/4P1K1/8/4R3 w - - 0 46"]
+[SetUp "1"]
+
+46. Kf2 Bh4+ 47. Kf1 Bxe1 *

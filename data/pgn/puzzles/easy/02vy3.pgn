@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02vy3"]
+[Difficulty "easy"]
+[Rating "1071"]
+[Themes "advantage endgame master quietMove short"]
+[GameUrl "https://lichess.org/game/rnjhPhdw#91"]
+[Solution "g5h6 a5a4 h6h7 a4a3"]
+[SolutionSAN "Kh6 a4 Kxh7 a3"]
+[FEN "8/7p/2Pk4/p1nB2K1/2P5/6PP/5P2/8 w - - 1 46"]
+[SetUp "1"]
+
+46. Kh6 a4 47. Kxh7 a3 *

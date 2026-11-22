@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08XHD"]
+[Difficulty "easy"]
+[Rating "890"]
+[Themes "crushing endgame kingsideAttack long xRayAttack"]
+[GameUrl "https://lichess.org/game/ATTnvEZU/black#70"]
+[Solution "c6c8 b8c8 c3c8 c1c8 f7f8 c8f8"]
+[SolutionSAN "Rc8 Qxc8+ Rxc8 Rxc8+ Qf8 Rxf8+"]
+[FEN "1Q4k1/p4qpp/2r5/1p3p2/1P1Pp3/P1r1B3/5PPP/2R3K1 b - - 1 35"]
+[SetUp "1"]
+
+35... Rc8 36. Qxc8+ Rxc8 37. Rxc8+ Qf8 38. Rxf8+ *

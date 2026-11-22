@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0L0jB"]
+[Difficulty "medium"]
+[Rating "1454"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+[GameUrl "https://lichess.org/game/b3Lzb7Ot#75"]
+[Solution "a3b2 g6h6"]
+[SolutionSAN "Qb2 Rh6#"]
+[FEN "6r1/pp3k1p/6r1/3P4/P7/QP3P2/7K/5R2 w - - 0 38"]
+[SetUp "1"]
+
+38. Qb2 Rh6# *

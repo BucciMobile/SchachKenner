@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FsZq"]
+[Difficulty "easy"]
+[Rating "1129"]
+[Themes "advancedPawn endgame mate mateIn2 promotion short"]
+[GameUrl "https://lichess.org/game/PeKata6E/black#72"]
+[Solution "e3d1 e1e8 d8e8 d7e8q"]
+[SolutionSAN "Nxd1 Re8+ Rxe8 dxe8=Q#"]
+[FEN "3r3k/1p1P2p1/p4b1p/P1p2B2/8/4n2P/1P6/3RR1K1 b - - 2 36"]
+[SetUp "1"]
+
+36... Nxd1 37. Re8+ Rxe8 38. dxe8=Q# *

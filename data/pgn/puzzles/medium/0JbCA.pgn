@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JbCA"]
+[Difficulty "medium"]
+[Rating "1235"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/CsDXvdBn/black#66"]
+[Solution "d3e5 g8e8 c7e7 e8e7 e6e7 d4e5"]
+[SolutionSAN "Ne5 Re8+ Re7 Rxe7+ Kxe7 Bxe5"]
+[FEN "6R1/2r5/2p1k1p1/2P2p1p/3Bp3/3nP1P1/5P1P/6K1 b - - 3 33"]
+[SetUp "1"]
+
+33... Ne5 34. Re8+ Re7 35. Rxe7+ Kxe7 36. Bxe5 *

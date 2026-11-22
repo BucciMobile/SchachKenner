@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08ymM"]
+[Difficulty "hard"]
+[Rating "2514"]
+[Themes "crushing endgame master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/df5gjWah/black#76"]
+[Solution "a4c2 f2g2 c2e4 f3e4"]
+[SolutionSAN "Bc2 Kg2 Be4 fxe4"]
+[FEN "8/p2q2pk/1p5p/1Pp1Qp1P/bnB5/4PPP1/5K2/B7 b - - 1 38"]
+[SetUp "1"]
+
+38... Bc2 39. Kg2 Be4 40. fxe4 *

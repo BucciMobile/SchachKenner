@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LY2x"]
+[Difficulty "hard"]
+[Rating "2022"]
+[Themes "attraction crushing exposedKing fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/OsZLe7M9#47"]
+[Solution "d2b2 f5e4 h4e4 a2c3 b1c1 c3e4"]
+[SolutionSAN "Rxb2 Bxe4+ Qxe4 Nc3+ Kc1 Nxe4"]
+[FEN "8/pp3kr1/6p1/5b2/q1PPP2Q/8/nb1RB1PP/1K5R w - - 0 24"]
+[SetUp "1"]
+
+24. Rxb2 Bxe4+ 25. Qxe4 Nc3+ 26. Kc1 Nxe4 *

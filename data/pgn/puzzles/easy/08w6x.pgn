@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08w6x"]
+[Difficulty "easy"]
+[Rating "884"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/RawK3kQd/black#62"]
+[Solution "f5e7 g6h7"]
+[SolutionSAN "Ne7 Qh7#"]
+[FEN "b2rr2k/p2q2p1/5pQp/P4n2/R4B2/4P2P/2Bp1PP1/1R4K1 b - - 1 31"]
+[SetUp "1"]
+
+31... Ne7 32. Qh7# *

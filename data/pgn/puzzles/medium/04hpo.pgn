@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04hpo"]
+[Difficulty "medium"]
+[Rating "1396"]
+[Themes "endgame mate mateIn4 veryLong"]
+[GameUrl "https://lichess.org/game/8t2c2FNC#83"]
+[Solution "f2f3 g5g4 h3g4 h5g4 f3f4 a2f2 e3f3 f2f3"]
+[SolutionSAN "Kf3 g4+ hxg4 hxg4+ Kf4 Rf2+ Rf3 Rxf3#"]
+[FEN "8/8/5k2/1B3ppp/P7/4R1PP/r4K2/8 w - - 6 42"]
+[SetUp "1"]
+
+42. Kf3 g4+ 43. hxg4 hxg4+ 44. Kf4 Rf2+ 45. Rf3 Rxf3# *

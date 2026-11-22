@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02pdf"]
+[Difficulty "hard"]
+[Rating "1754"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/kWJHSmQJ/black#52"]
+[Solution "f4h4 e2e8 g8g7 e8f8"]
+[SolutionSAN "Qxh4 Qe8+ Kg7 Qf8#"]
+[FEN "r1b3k1/pp5p/2p3r1/3p4/2Pb1q1P/3P1R2/PP2Q1B1/R4K2 b - - 2 26"]
+[SetUp "1"]
+
+26... Qxh4 27. Qe8+ Kg7 28. Qf8# *

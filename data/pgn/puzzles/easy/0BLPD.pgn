@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BLPD"]
+[Difficulty "easy"]
+[Rating "706"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/MOYG5UPS#79"]
+[Solution "b5b6 g4g1"]
+[SolutionSAN "b6 Rg1#"]
+[FEN "1k6/8/P1R3pp/1P6/6r1/2P2p1n/3B3P/5K2 w - - 0 40"]
+[SetUp "1"]
+
+40. b6 Rg1# *

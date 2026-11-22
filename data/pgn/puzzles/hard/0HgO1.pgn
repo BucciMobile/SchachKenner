@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HgO1"]
+[Difficulty "hard"]
+[Rating "2048"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/OXMUVD0l#63"]
+[Solution "e1e2 h4f3 f2f3 h3f3"]
+[SolutionSAN "Re2 Nf3+ Qxf3 Qxf3"]
+[FEN "3rk1r1/7p/2p1P3/1p6/5B1n/N1P4q/PP3QP1/R3R1K1 w - - 1 32"]
+[SetUp "1"]
+
+32. Re2 Nf3+ 33. Qxf3 Qxf3 *

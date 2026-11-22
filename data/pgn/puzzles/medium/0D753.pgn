@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D753"]
+[Difficulty "medium"]
+[Rating "1217"]
+[Themes "crushing kingsideAttack middlegame pin short"]
+[GameUrl "https://lichess.org/game/kREOVEei#69"]
+[Solution "c2g2 h5g3 g2g3 h3g3"]
+[SolutionSAN "Qg2 Ng3+ Qxg3 Qxg3"]
+[FEN "r6r/4bkp1/8/N2p3n/4Pp2/2PB3q/1PQ4P/R4RBK w - - 3 35"]
+[SetUp "1"]
+
+35. Qg2 Ng3+ 36. Qxg3 Qxg3 *

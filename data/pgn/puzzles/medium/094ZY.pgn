@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "094ZY"]
+[Difficulty "medium"]
+[Rating "1580"]
+[Themes "advantage defensiveMove opening short"]
+[GameUrl "https://lichess.org/game/uSbJtfVB/black#26"]
+[Solution "d6g3 f2g3 c7g3 h4g2"]
+[SolutionSAN "Bxg3 fxg3 Qxg3+ Ng2"]
+[FEN "rn3rk1/ppq2ppb/2pbpn1p/8/7N/1BNP2PP/PPPB1P2/R2QR1K1 b - - 0 13"]
+[SetUp "1"]
+
+13... Bxg3 14. fxg3 Qxg3+ 15. Ng2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0357j"]
+[Difficulty "hard"]
+[Rating "1957"]
+[Themes "crushing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/E1OEn2I3#57"]
+[Solution "c3a2 c8e6 h1h7 g7h7 f3g5 f6g5 g1h1 h7g7 e4e5 f8f6"]
+[SolutionSAN "Na2 Be6 Rh7+ Kxh7 Ng5+ fxg5 Rh1+ Kg7 Qxe5+ Rf6"]
+[FEN "2b2r2/6k1/2p2pp1/4p3/4Q1P1/q1N2N2/1p3P2/1K4RR w - - 0 29"]
+[SetUp "1"]
+
+29. Na2 Be6 30. Rh7+ Kxh7 31. Ng5+ fxg5 32. Rh1+ Kg7 33. Qxe5+ Rf6 *

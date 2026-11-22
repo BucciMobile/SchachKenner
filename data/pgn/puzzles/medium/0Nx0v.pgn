@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Nx0v"]
+[Difficulty "medium"]
+[Rating "1537"]
+[Themes "crushing defensiveMove long middlegame queensideAttack sacrifice"]
+[GameUrl "https://lichess.org/game/V8movDyw#41"]
+[Solution "h2h4 c8c3 b2c3 b3c3 b1c2 f8c8"]
+[SolutionSAN "h4 Rxc3+ bxc3 Qxc3+ Bc2 Rc8"]
+[FEN "2r2rk1/pb3p1p/4p1p1/3pQ3/3P4/1qP5/1P3PPP/1BKR3R w - - 2 21"]
+[SetUp "1"]
+
+21. h4 Rxc3+ 22. bxc3 Qxc3+ 23. Bc2 Rc8 *

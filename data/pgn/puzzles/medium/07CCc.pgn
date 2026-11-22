@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07CCc"]
+[Difficulty "medium"]
+[Rating "1311"]
+[Themes "advantage exposedKing long middlegame skewer"]
+[GameUrl "https://lichess.org/game/hxgs45Ve/black#50"]
+[Solution "f6g5 h4h8 g8f7 h3h7 f7e8 h7e7"]
+[SolutionSAN "fxg5 Qh8+ Kf7 Rh7+ Ke8 Rxe7+"]
+[FEN "r4rk1/pp2q3/2n2pp1/4p1P1/4R1PQ/7R/PPP4P/2K5 b - - 1 25"]
+[SetUp "1"]
+
+25... fxg5 26. Qh8+ Kf7 27. Rh7+ Ke8 28. Rxe7+ *

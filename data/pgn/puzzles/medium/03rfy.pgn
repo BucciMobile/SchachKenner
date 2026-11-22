@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03rfy"]
+[Difficulty "medium"]
+[Rating "1412"]
+[Themes "endgame epauletteMate mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/0bQOCnI2#81"]
+[Solution "d4e5 e8d8"]
+[SolutionSAN "dxe5 Rd8#"]
+[FEN "4r1k1/p4pp1/8/2RKb2Q/q2P4/2R1P3/8/8 w - - 0 41"]
+[SetUp "1"]
+
+41. dxe5 Rd8# *

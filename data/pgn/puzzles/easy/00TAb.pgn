@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00TAb"]
+[Difficulty "easy"]
+[Rating "704"]
+[Themes "advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/vPUJ0Lkg/black#84"]
+[Solution "e6d5 c6e7 g8h7 e7d5"]
+[SolutionSAN "Bd5 Ne7+ Kh7 Nxd5"]
+[FEN "6k1/5pp1/p1N1b3/1n5p/1B4P1/P4P1P/2K5/8 b - - 2 42"]
+[SetUp "1"]
+
+42... Bd5 43. Ne7+ Kh7 44. Nxd5 *

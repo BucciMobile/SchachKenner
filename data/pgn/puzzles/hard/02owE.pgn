@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02owE"]
+[Difficulty "hard"]
+[Rating "1935"]
+[Themes "attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/znnCpN8H#29"]
+[Solution "f3d2 h8h1 g1h1 f8h6 h1g1 h6h2 g1f1 h2h1"]
+[SolutionSAN "Nd2 Rh1+ Kxh1 Qh6+ Kg1 Qh2+ Kf1 Qh1#"]
+[FEN "1nkr1qnr/1pp5/p2b1p2/3N2p1/2B1P1p1/4BN2/PPP1QPP1/R3R1K1 w - - 0 15"]
+[SetUp "1"]
+
+15. Nd2 Rh1+ 16. Kxh1 Qh6+ 17. Kg1 Qh2+ 18. Kf1 Qh1# *

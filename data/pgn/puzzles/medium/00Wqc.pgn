@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Wqc"]
+[Difficulty "medium"]
+[Rating "1632"]
+[Themes "crushing endgame master quietMove short"]
+[GameUrl "https://lichess.org/game/dR2Wb2zs#65"]
+[Solution "d3e3 h3f4 e3f3 h4h3"]
+[SolutionSAN "Ke3 Nf4 Kf3 h3"]
+[FEN "4k3/5p2/3P4/p5p1/6Pp/1P1K3n/P7/2B5 w - - 0 33"]
+[SetUp "1"]
+
+33. Ke3 Nf4 34. Kf3 h3 *

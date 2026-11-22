@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03dIU"]
+[Difficulty "hard"]
+[Rating "2984"]
+[Themes "advantage defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/bICPltU1/black#80"]
+[Solution "d6e6 f5e6 e7e6 e4d3 e6f5 d3e3"]
+[SolutionSAN "Rxe6+ fxe6 Kxe6 Kd3 Kf5 Ke3"]
+[FEN "8/4k3/2prBp2/pp3P2/3PK2p/PPP4P/8/8 b - - 2 40"]
+[SetUp "1"]
+
+40... Rxe6+ 41. fxe6 Kxe6 42. Kd3 Kf5 43. Ke3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EBe5"]
+[Difficulty "hard"]
+[Rating "1721"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/urj9Grrn/black#60"]
+[Solution "h7g5 a1a8 d8a8 g2a8"]
+[SolutionSAN "Ng5 Ra8 Qxa8 Qxa8+"]
+[FEN "3q3k/5r1n/3pp2P/1p2p3/3p4/3P2NP/1PP3QK/R7 b - - 1 30"]
+[SetUp "1"]
+
+30... Ng5 31. Ra8 Qxa8 32. Qxa8+ *

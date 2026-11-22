@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dxl8"]
+[Difficulty "medium"]
+[Rating "1582"]
+[Themes "attraction mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/Ps26ucFq/black#46"]
+[Solution "d8d7 g6h6 h7h6 d4h4"]
+[SolutionSAN "Rd7 Rxh6+ Kxh6 Qh4#"]
+[FEN "3r1r2/pp5k/5pRp/q2n4/3Q4/2PP1P2/P1PK1P1P/6R1 b - - 5 23"]
+[SetUp "1"]
+
+23... Rd7 24. Rxh6+ Kxh6 25. Qh4# *

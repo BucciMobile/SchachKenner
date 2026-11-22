@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ITO1"]
+[Difficulty "easy"]
+[Rating "680"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/rL3aFloQ#35"]
+[Solution "a1e1 e7e1 f3e1 e8e1"]
+[SolutionSAN "Re1 Qxe1+ Nxe1 Rxe1#"]
+[FEN "4r1k1/pbp1qppp/2p5/7Q/3p4/2N2N2/PPP2PPP/R5K1 w - - 0 18"]
+[SetUp "1"]
+
+18. Re1 Qxe1+ 19. Nxe1 Rxe1# *

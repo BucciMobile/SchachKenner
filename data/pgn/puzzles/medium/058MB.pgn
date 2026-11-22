@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "058MB"]
+[Difficulty "medium"]
+[Rating "1662"]
+[Themes "long mate mateIn3 middlegame smotheredMate"]
+[GameUrl "https://lichess.org/game/pOAY9AKF/black#54"]
+[Solution "d7c8 b7f7 g8h8 f7f8 f6g8 e5f7"]
+[SolutionSAN "Bxc8 Qf7+ Kh8 Qf8+ Ng8 Nf7#"]
+[FEN "1rR3k1/pQ1b2pp/1p3n2/q3N3/3P4/P7/1B3PPP/6K1 b - - 0 27"]
+[SetUp "1"]
+
+27... Bxc8 28. Qf7+ Kh8 29. Qf8+ Ng8 30. Nf7# *

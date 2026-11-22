@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "076jI"]
+[Difficulty "hard"]
+[Rating "1852"]
+[Themes "advantage long middlegame trappedPiece"]
+[GameUrl "https://lichess.org/game/1nbx5aLs#33"]
+[Solution "d1d7 a6b5 d7e7 c5c4 b3c4 b5c4"]
+[SolutionSAN "Rxd7 Bxb5 Rxe7 c4 Bxc4 Bxc4"]
+[FEN "r4rk1/3pnpbp/bp4p1/1Np1P3/5B2/1B6/PPP2PPP/R2R2K1 w - - 2 17"]
+[SetUp "1"]
+
+17. Rxd7 Bxb5 18. Rxe7 c4 19. Bxc4 Bxc4 *

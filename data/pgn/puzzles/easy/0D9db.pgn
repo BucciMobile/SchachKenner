@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D9db"]
+[Difficulty "easy"]
+[Rating "1190"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/kUk81cEX#91"]
+[Solution "e3e6 f6e6 h2g3 e6d5 c5c6 d5c6"]
+[SolutionSAN "Rxe6+ Kxe6 Kg3 Kd5 c6 Kxc6"]
+[FEN "8/7p/4rkp1/p1P5/8/1P2R2P/6PK/8 w - - 0 46"]
+[SetUp "1"]
+
+46. Rxe6+ Kxe6 47. Kg3 Kd5 48. c6 Kxc6 *

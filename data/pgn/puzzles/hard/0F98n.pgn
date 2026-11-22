@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F98n"]
+[Difficulty "hard"]
+[Rating "1835"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/0RGBrBMB/black#56"]
+[Solution "a8a2 g3g6 c6g2 g6g2"]
+[SolutionSAN "Ra2 Rxg6 Qxg2+ Rxg2"]
+[FEN "r4r2/1p3p1k/2qp2pp/4p3/1p5Q/2P3RP/1P3PRK/8 b - - 1 28"]
+[SetUp "1"]
+
+28... Ra2 29. Rxg6 Qxg2+ 30. Rxg2 *

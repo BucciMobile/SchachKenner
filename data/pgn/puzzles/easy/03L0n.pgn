@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03L0n"]
+[Difficulty "easy"]
+[Rating "918"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/hIOmOtkQ#77"]
+[Solution "d7d4 e3f5 g3f4 f5d4"]
+[SolutionSAN "Rd4 Nf5+ Kf4 Nxd4"]
+[FEN "6k1/3R2p1/7p/P7/rP6/4nPKP/6P1/8 w - - 5 39"]
+[SetUp "1"]
+
+39. Rd4 Nf5+ 40. Kf4 Nxd4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Keo"]
+[Difficulty "hard"]
+[Rating "2379"]
+[Themes "advantage deflection middlegame short"]
+[GameUrl "https://lichess.org/game/HbLPXIwX#35"]
+[Solution "c1d1 f8b4 f4d2 c6e5"]
+[SolutionSAN "Rd1 Bb4+ Bd2 Nxe5"]
+[FEN "2kr1b1r/ppp2pp1/2n5/3qP3/Q4B1P/5NP1/PP2PP2/2R1K2R w K - 1 18"]
+[SetUp "1"]
+
+18. Rd1 Bb4+ 19. Bd2 Nxe5 *

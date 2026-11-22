@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04X8Q"]
+[Difficulty "easy"]
+[Rating "980"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/RsE5SrlW/black#46"]
+[Solution "g4g2 b7g2 f4g2 f2g2"]
+[SolutionSAN "Qxg2+ Qxg2 Nxg2 Kxg2"]
+[FEN "r4rk1/1Q2Rppp/8/4Pp2/5nq1/8/PP3KPP/RN6 b - - 6 23"]
+[SetUp "1"]
+
+23... Qxg2+ 24. Qxg2 Nxg2 25. Kxg2 *

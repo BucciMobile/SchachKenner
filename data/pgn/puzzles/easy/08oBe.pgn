@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08oBe"]
+[Difficulty "easy"]
+[Rating "650"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/LyzyOUCb/black#26"]
+[Solution "e8g8 d3h7"]
+[SolutionSAN "O-O Qxh7#"]
+[FEN "r2qk2r/1p2nppp/p1n1p2b/3p4/3P4/P1NQ1N2/1PB2PPP/R4RK1 b kq - 5 13"]
+[SetUp "1"]
+
+13... O-O 14. Qxh7# *

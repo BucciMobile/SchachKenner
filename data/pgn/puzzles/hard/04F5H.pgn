@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04F5H"]
+[Difficulty "hard"]
+[Rating "2293"]
+[Themes "advantage clearance long middlegame"]
+[GameUrl "https://lichess.org/game/2lps8HHD#47"]
+[Solution "d5b7 d8b7 c5b7 e8c8 g1h1 c8b7"]
+[SolutionSAN "Bxb7 Nxb7 Nxb7 Qc8 Kh1 Qxb7"]
+[FEN "r2nqr1k/1pp4p/p4b2/2NB2p1/1P1Pp3/P3Pp1P/1Q3P1P/2R2RK1 w - - 2 24"]
+[SetUp "1"]
+
+24. Bxb7 Nxb7 25. Nxb7 Qc8 26. Kh1 Qxb7 *

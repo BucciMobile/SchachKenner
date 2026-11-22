@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DIB4"]
+[Difficulty "medium"]
+[Rating "1442"]
+[Themes "crushing discoveredAttack opening short"]
+[GameUrl "https://lichess.org/game/WOWEdUv5#23"]
+[Solution "d1c2 e5c3 c2c3 a5g5"]
+[SolutionSAN "Qc2 Bxc3+ Qxc3 Qxg5"]
+[FEN "rnb1r1k1/pp2Pp1p/6p1/q3b1B1/2P5/2N5/PP3PPP/R2QKB1R w KQ - 1 12"]
+[SetUp "1"]
+
+12. Qc2 Bxc3+ 13. Qxc3 Qxg5 *

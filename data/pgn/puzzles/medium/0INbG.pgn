@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0INbG"]
+[Difficulty "medium"]
+[Rating "1543"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/vLBScYdJ/black#30"]
+[Solution "f5e4 f3g4 h4g4 h3g4"]
+[SolutionSAN "fxe4 Qxg4 Qxg4 hxg4"]
+[FEN "r4rk1/ppp4p/2bp2p1/5p2/3bPPnq/5QNP/PPP1N1P1/R1B2R1K b - - 1 15"]
+[SetUp "1"]
+
+15... fxe4 16. Qxg4 Qxg4 17. hxg4 *

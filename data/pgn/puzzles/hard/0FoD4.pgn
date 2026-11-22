@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FoD4"]
+[Difficulty "hard"]
+[Rating "2026"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/BuyJPeiF#61"]
+[Solution "f3g5 e6d6 d2c1 d6d1 c1d1 f7g5"]
+[SolutionSAN "Nxg5 Rd6 Qc1 Rxd1+ Qxd1 Nxg5"]
+[FEN "3r2k1/3pnn1p/1q2r3/1p2p1p1/p3P3/P1P2NB1/2PQRPP1/3R2K1 w - - 0 31"]
+[SetUp "1"]
+
+31. Nxg5 Rd6 32. Qc1 Rxd1+ 33. Qxd1 Nxg5 *

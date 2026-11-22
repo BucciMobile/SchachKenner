@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Am1"]
+[Difficulty "hard"]
+[Rating "1745"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/riDyBQqn#107"]
+[Solution "c7c8q f4g2"]
+[SolutionSAN "c8=Q Ng2#"]
+[FEN "8/2P1R3/5k2/1B1p4/N2Ppn2/4K3/2r5/8 w - - 1 54"]
+[SetUp "1"]
+
+54. c8=Q Ng2# *

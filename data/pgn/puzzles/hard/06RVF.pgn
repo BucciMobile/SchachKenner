@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06RVF"]
+[Difficulty "hard"]
+[Rating "2134"]
+[Themes "advantage clearance master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/AOVskTfe/black#34"]
+[Solution "f5e4 f3e5 f7f8 d3g3"]
+[SolutionSAN "fxe4 Nxe5+ Kf8 Qg3"]
+[FEN "2bq3r/2p1nkb1/p2p1n1p/2BPpp2/1r2P3/2NQ1N1P/1PP2P2/1K1R1BR1 b - - 3 17"]
+[SetUp "1"]
+
+17... fxe4 18. Nxe5+ Kf8 19. Qg3 *

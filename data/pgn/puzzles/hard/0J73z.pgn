@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J73z"]
+[Difficulty "hard"]
+[Rating "2351"]
+[Themes "advantage attraction exposedKing middlegame pin queensideAttack veryLong"]
+[GameUrl "https://lichess.org/game/OOZBmtYt#61"]
+[Solution "c4e3 d8d1 c1d1 f5d3 d1c1 f4e3 e1e3 d3e3"]
+[SolutionSAN "Ne3 Rxd1+ Kxd1 Qd3+ Kc1 Bxe3+ Rxe3 Qxe3+"]
+[FEN "3rk1nQ/pp3p2/4p3/5q1p/2N2b2/1P6/PB6/2KRR3 w - - 2 31"]
+[SetUp "1"]
+
+31. Ne3 Rxd1+ 32. Kxd1 Qd3+ 33. Kc1 Bxe3+ 34. Rxe3 Qxe3+ *

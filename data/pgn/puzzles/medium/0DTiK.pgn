@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DTiK"]
+[Difficulty "medium"]
+[Rating "1660"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/QLMNIzTr/black#44"]
+[Solution "f6e5 a3e7 e8b8 e7d7"]
+[SolutionSAN "fxe5 Qxe7 Rxb8 Qxd7"]
+[FEN "1R2r1k1/p2br1p1/2p2pqp/3pB3/3P1P2/Q1P3Pn/P3P1BP/4RK2 b - - 1 22"]
+[SetUp "1"]
+
+22... fxe5 23. Qxe7 Rxb8 24. Qxd7 *

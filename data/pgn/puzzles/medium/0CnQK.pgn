@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CnQK"]
+[Difficulty "medium"]
+[Rating "1600"]
+[Themes "discoveredCheck doubleCheck endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/XqSeGKD3/black#68"]
+[Solution "g7g5 e8f6 g8g7 a8g8"]
+[SolutionSAN "g5 Nf6+ Kg7 Rg8#"]
+[FEN "R3N1k1/3nBpp1/1p2p2p/3p4/1P1P4/8/6PK/1q6 b - - 4 34"]
+[SetUp "1"]
+
+34... g5 35. Nf6+ Kg7 36. Rg8# *

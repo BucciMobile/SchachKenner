@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LSaC"]
+[Difficulty "hard"]
+[Rating "1821"]
+[Themes "advantage hangingPiece middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/rqf25X3z#57"]
+[Solution "b5b6 a7a6 c1c5 c8c6"]
+[SolutionSAN "b6+ Kxa6 Rxc5 Rxc6"]
+[FEN "1rr5/k4p1p/B1Qp3q/1PnPp1p1/8/8/P4P1N/R1R3K1 w - - 3 29"]
+[SetUp "1"]
+
+29. b6+ Kxa6 30. Rxc5 Rxc6 *

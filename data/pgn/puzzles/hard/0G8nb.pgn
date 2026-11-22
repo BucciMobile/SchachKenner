@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G8nb"]
+[Difficulty "hard"]
+[Rating "2075"]
+[Themes "crushing fork master middlegame short"]
+[GameUrl "https://lichess.org/game/O5lZW4Ox/black#40"]
+[Solution "d8e8 b5c7 e6e1 g1h2"]
+[SolutionSAN "Qe8 Nc7 Re1+ Kh2"]
+[FEN "3q2k1/5pbp/4rnp1/1N1p4/3B4/5Q1P/2P2PP1/R5K1 b - - 0 20"]
+[SetUp "1"]
+
+20... Qe8 21. Nc7 Re1+ 22. Kh2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CDhk"]
+[Difficulty "hard"]
+[Rating "2239"]
+[Themes "attraction crushing deflection middlegame veryLong"]
+[GameUrl "https://lichess.org/game/rE8tVHI8#59"]
+[Solution "d1c2 e4e2 g2h3 f5g4 h3g4 h7h5 g4h5 e2f3"]
+[SolutionSAN "Qc2 Qxe2+ Kh3 fxg4+ Kxg4 h5+ Kxh5 Qxf3+"]
+[FEN "6k1/r6p/p2p4/2p2pp1/P2bq1P1/1P3RP1/3BP1KP/2RQ4 w - - 0 30"]
+[SetUp "1"]
+
+30. Qc2 Qxe2+ 31. Kh3 fxg4+ 32. Kxg4 h5+ 33. Kxh5 Qxf3+ *

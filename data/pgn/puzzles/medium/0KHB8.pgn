@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KHB8"]
+[Difficulty "medium"]
+[Rating "1473"]
+[Themes "advantage middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/9VD2aWGy/black#30"]
+[Solution "g8f6 a4b6 c7b6 a7b6"]
+[SolutionSAN "Nf6 Nb6+ Qxb6 Qxb6"]
+[FEN "2kr2nr/Qpqb1pp1/2p4p/8/NbP1P3/5P2/PP2KP1P/3R1BR1 b - - 2 15"]
+[SetUp "1"]
+
+15... Nf6 16. Nb6+ Qxb6 17. Qxb6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04MrK"]
+[Difficulty "hard"]
+[Rating "1959"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/g4wQ0DX0#63"]
+[Solution "g3h4 c5f2 h4f2 b6f2"]
+[SolutionSAN "Qh4 Bf2 Qxf2 Qxf2"]
+[FEN "5k2/6pp/pq1p4/2bB1b2/2P2P2/2P3Q1/P2B2PP/7K w - - 3 32"]
+[SetUp "1"]
+
+32. Qh4 Bf2 33. Qxf2 Qxf2 *

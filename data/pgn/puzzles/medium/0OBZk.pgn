@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OBZk"]
+[Difficulty "medium"]
+[Rating "1670"]
+[Themes "advantage exposedKing long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/TQVaVFoC/black#52"]
+[Solution "e5f3 f1f3 f8f3 h4h6 g7f7 h6h5"]
+[SolutionSAN "Nf3+ Rxf3 Rxf3 Qh6+ Kf7 Qh5+"]
+[FEN "r4r1b/3q2kP/p2p4/1p2n1B1/3p3Q/3P3P/PPP5/R4RK1 b - - 0 26"]
+[SetUp "1"]
+
+26... Nf3+ 27. Rxf3 Rxf3 28. Qh6+ Kf7 29. Qh5+ *

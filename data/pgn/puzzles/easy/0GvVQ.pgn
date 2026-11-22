@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GvVQ"]
+[Difficulty "easy"]
+[Rating "971"]
+[Themes "advancedPawn advantage endgame long pin"]
+[GameUrl "https://lichess.org/game/yfAGiwAm/black#64"]
+[Solution "g6e7 d6e7 d8e8 d1d8 f7f6 d8e8"]
+[SolutionSAN "Nxe7 dxe7 Re8 Rd8 f6 Rxe8+"]
+[FEN "3r2k1/pp2Npp1/3P2np/4p3/1P6/1r4P1/6KP/3RR3 b - - 4 32"]
+[SetUp "1"]
+
+32... Nxe7 33. dxe7 Re8 34. Rd8 f6 35. Rxe8+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "067tQ"]
+[Difficulty "easy"]
+[Rating "1040"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/GI4A0foQ/black#70"]
+[Solution "g7e6 f7h7"]
+[SolutionSAN "Nxe6 Rxh7#"]
+[FEN "7k/5Rnp/p3RNp1/1p6/3P2P1/P5KP/5r2/3n4 b - - 1 35"]
+[SetUp "1"]
+
+35... Nxe6 36. Rxh7# *

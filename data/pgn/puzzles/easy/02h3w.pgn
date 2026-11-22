@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02h3w"]
+[Difficulty "easy"]
+[Rating "1104"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/TMmK0HOu/black#64"]
+[Solution "f6e5 d4e5 d6e4 f3e4"]
+[SolutionSAN "fxe5 dxe5 Ne4+ fxe4"]
+[FEN "r7/pp1rbk2/2pnpp2/P3P1pp/3P4/5P1P/4NKPB/R2R4 b - - 0 32"]
+[SetUp "1"]
+
+32... fxe5 33. dxe5 Ne4+ 34. fxe4 *

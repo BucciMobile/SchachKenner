@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00E29"]
+[Difficulty "easy"]
+[Rating "997"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/tWRCApub/black#34"]
+[Solution "d8d5 d3h7 g8h7 d1d5"]
+[SolutionSAN "Qxd5 Bxh7+ Kxh7 Qxd5"]
+[FEN "r1bq1rk1/4bppp/p1n5/3P4/Pp6/3B1N2/1B3PPP/R2Q1RK1 b - - 0 17"]
+[SetUp "1"]
+
+17... Qxd5 18. Bxh7+ Kxh7 19. Qxd5 *

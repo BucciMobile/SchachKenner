@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IeVE"]
+[Difficulty "medium"]
+[Rating "1419"]
+[Themes "crushing deflection discoveredAttack discoveredCheck kingsideAttack middlegame veryLong"]
+[GameUrl "https://lichess.org/game/Uj2PwkVA/black#38"]
+[Solution "f8f6 h7g6 h8g8 h3h7 g8f8 h7h8 f8e7 h8g7 e7d6 g7f6"]
+[SolutionSAN "Rf6 Bg6+ Kg8 Qh7+ Kf8 Qh8+ Ke7 Qxg7+ Kd6 Qxf6"]
+[FEN "2r2r1k/pp1b2pB/1q2p3/3p1p2/8/2P4Q/PP1N2PP/4RK2 b - - 1 19"]
+[SetUp "1"]
+
+19... Rf6 20. Bg6+ Kg8 21. Qh7+ Kf8 22. Qh8+ Ke7 23. Qxg7+ Kd6 24. Qxf6 *

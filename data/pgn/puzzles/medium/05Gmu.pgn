@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Gmu"]
+[Difficulty "medium"]
+[Rating "1231"]
+[Themes "killBoxMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/6yy0ES9D/black#52"]
+[Solution "g8g7 f3f6"]
+[SolutionSAN "Kxg7 Qf6#"]
+[FEN "2r2rkR/2qb1pP1/4p3/pp2P1P1/8/2p1PQ2/PP3P2/2KR4 b - - 2 26"]
+[SetUp "1"]
+
+26... Kxg7 27. Qf6# *

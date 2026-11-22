@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04hML"]
+[Difficulty "medium"]
+[Rating "1315"]
+[Themes "advantage fork opening short"]
+[GameUrl "https://lichess.org/game/5kB107AR#23"]
+[Solution "d1c2 e5f3 e1d1 f3d4"]
+[SolutionSAN "Qxc2 Nf3+ Kd1 Nxd4"]
+[FEN "r2qk1nr/pp3ppp/4p3/3pn3/3B1PP1/2N5/PPb4P/R2QKB1R w KQkq - 0 12"]
+[SetUp "1"]
+
+12. Qxc2 Nf3+ 13. Kd1 Nxd4 *

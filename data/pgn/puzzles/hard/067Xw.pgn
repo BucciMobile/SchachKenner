@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "067Xw"]
+[Difficulty "hard"]
+[Rating "1972"]
+[Themes "advancedPawn advantage endgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/AgRMnp0M#53"]
+[Solution "e7c6 a4a3 d5d6 a3a2 d6d7 g7f6 d7d8q f6d8"]
+[SolutionSAN "Nc6 a3 d6 a2 d7 Bf6 d8=Q+ Bxd8"]
+[FEN "5k2/p3Npbp/6p1/3P1p2/p1P5/5B2/1r3PPP/5RK1 w - - 2 27"]
+[SetUp "1"]
+
+27. Nc6 a3 28. d6 a2 29. d7 Bf6 30. d8=Q+ Bxd8 *

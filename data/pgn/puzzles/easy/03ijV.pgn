@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03ijV"]
+[Difficulty "easy"]
+[Rating "998"]
+[Themes "kingsideAttack mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/bOsDecsL/black#28"]
+[Solution "f6h7 c2h7"]
+[SolutionSAN "Nxh7 Qxh7#"]
+[FEN "r2q1rk1/pb1n1ppB/1p2pn2/3p2N1/2PP4/4P3/P1Q2PPP/R1B2RK1 b - - 0 14"]
+[SetUp "1"]
+
+14... Nxh7 15. Qxh7# *

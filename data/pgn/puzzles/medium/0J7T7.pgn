@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J7T7"]
+[Difficulty "medium"]
+[Rating "1292"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/IRGoa5er/black#46"]
+[Solution "g7h6 d3h7"]
+[SolutionSAN "gxh6 Qh7#"]
+[FEN "5rk1/bbqp2p1/p6N/1p1P4/1P3n2/P2Q1N2/5PPP/1B2R1K1 b - - 0 23"]
+[SetUp "1"]
+
+23... gxh6 24. Qh7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08TXc"]
+[Difficulty "easy"]
+[Rating "1114"]
+[Themes "killBoxMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/H6n9P8lY/black#78"]
+[Solution "c1g5 h7h8"]
+[SolutionSAN "Qg5 Rh8#"]
+[FEN "6k1/1b2rp1R/5Q2/p1pPr3/2P3P1/8/P4PK1/1Bq5 b - - 4 39"]
+[SetUp "1"]
+
+39... Qg5 40. Rh8# *

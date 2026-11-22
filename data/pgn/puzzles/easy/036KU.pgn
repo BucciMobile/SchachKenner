@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "036KU"]
+[Difficulty "easy"]
+[Rating "791"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/N4nHim8p#85"]
+[Solution "d2c2 c4e3 c2d3 e3f1"]
+[SolutionSAN "Kc2 Ne3+ Kd3 Nxf1"]
+[FEN "8/5k2/3P1p2/6p1/ppn1P3/8/PP1K4/5R2 w - - 3 43"]
+[SetUp "1"]
+
+43. Kc2 Ne3+ 44. Kd3 Nxf1 *

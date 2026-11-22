@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LmCW"]
+[Difficulty "hard"]
+[Rating "2145"]
+[Themes "advantage discoveredAttack exposedKing long middlegame"]
+[GameUrl "https://lichess.org/game/odaNa1yl#43"]
+[Solution "e4e6 f6e6 f4e6 f8b4 c2c3 d8h8"]
+[SolutionSAN "Qe6+ Qxe6+ Nxe6 Bb4+ c3 Rxh8"]
+[FEN "2kr1b1R/p5p1/1pp2qp1/3n4/4QNP1/5P2/PPP5/2R1K3 w - - 0 22"]
+[SetUp "1"]
+
+22. Qe6+ Qxe6+ 23. Nxe6 Bb4+ 24. c3 Rxh8 *

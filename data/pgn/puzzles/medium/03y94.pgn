@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03y94"]
+[Difficulty "medium"]
+[Rating "1664"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/z51DMyhd/black#26"]
+[Solution "c6d4 a4d4 b6d4 f3d4"]
+[SolutionSAN "Nd4 Qxd4 Qxd4 Nxd4"]
+[FEN "r3kb1r/1p1bpppp/pqnP3n/8/Q3NP2/5N1P/PP1B2P1/2R1KB1R b Kkq - 0 13"]
+[SetUp "1"]
+
+13... Nd4 14. Qxd4 Qxd4 15. Nxd4 *

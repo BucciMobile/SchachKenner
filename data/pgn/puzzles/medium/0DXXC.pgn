@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DXXC"]
+[Difficulty "medium"]
+[Rating "1444"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/pPMNygom/black#56"]
+[Solution "g3f4 d5f7"]
+[SolutionSAN "Bxf4 Qxf7#"]
+[FEN "4rk2/1pp2ppp/8/p2QN3/5P2/2P3bP/PP2q1P1/3R3K b - - 3 28"]
+[SetUp "1"]
+
+28... Bxf4 29. Qxf7# *

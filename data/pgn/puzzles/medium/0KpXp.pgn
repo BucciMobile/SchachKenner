@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KpXp"]
+[Difficulty "medium"]
+[Rating "1296"]
+[Themes "exposedKing long mate mateIn3 opening"]
+[GameUrl "https://lichess.org/game/byi3cHwZ#19"]
+[Solution "f5e6 d8h4 g2g3 h4g3 e1f1 g3f2"]
+[SolutionSAN "fxe6 Qh4+ g3 Qxg3+ Kf1 Qf2#"]
+[FEN "r2qkb1r/pp1n1pp1/2p1b2p/3p1P2/3Pn3/2NBP2P/PP4P1/R1BQK1NR w KQkq - 1 10"]
+[SetUp "1"]
+
+10. fxe6 Qh4+ 11. g3 Qxg3+ 12. Kf1 Qf2# *

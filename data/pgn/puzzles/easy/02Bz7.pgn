@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Bz7"]
+[Difficulty "easy"]
+[Rating "1061"]
+[Themes "advancedPawn crushing long middlegame"]
+[GameUrl "https://lichess.org/game/YFDEnaZu/black#46"]
+[Solution "d4d5 f5g6 h7g8 h6h7 g8h8 g6g7"]
+[SolutionSAN "Qxd5 fxg6+ Kg8 h7+ Kh8 g7+"]
+[FEN "r1b2r2/1p5k/p2p2pP/3NpP2/3q4/3B4/PPPQ4/3K3R b - - 0 23"]
+[SetUp "1"]
+
+23... Qxd5 24. fxg6+ Kg8 25. h7+ Kh8 26. g7+ *

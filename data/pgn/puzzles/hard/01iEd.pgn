@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01iEd"]
+[Difficulty "hard"]
+[Rating "2423"]
+[Themes "crushing endgame long pin quietMove"]
+[GameUrl "https://lichess.org/game/4GyeUC25#61"]
+[Solution "b2c1 d2d1 c1b2 g6b1 b5c6 b7c6"]
+[SolutionSAN "Bc1 Rd1 Bb2 Bb1 bxc6 bxc6"]
+[FEN "6k1/1p6/p1p3bp/1P2b3/P5P1/2P2p1P/1B1r1P2/R4BK1 w - - 1 31"]
+[SetUp "1"]
+
+31. Bc1 Rd1 32. Bb2 Bb1 33. bxc6 bxc6 *

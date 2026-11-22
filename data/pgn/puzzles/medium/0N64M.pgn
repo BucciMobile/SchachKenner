@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0N64M"]
+[Difficulty "medium"]
+[Rating "1299"]
+[Themes "crushing intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/WqcOhvk6/black#32"]
+[Solution "c8c1 e4f6 g7f6 d1c1"]
+[SolutionSAN "Rxc1 Nxf6+ gxf6 Qxc1"]
+[FEN "2r2rk1/pp4pp/1q1p1np1/3p4/1P1PN3/P3P3/5PPP/2RQKB1R b K - 0 16"]
+[SetUp "1"]
+
+16... Rxc1 17. Nxf6+ gxf6 18. Qxc1 *

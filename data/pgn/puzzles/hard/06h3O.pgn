@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06h3O"]
+[Difficulty "hard"]
+[Rating "1975"]
+[Themes "deflection mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/AzFBzrhZ/black#38"]
+[Solution "d7d8 c7d6 d8d6 e1e8"]
+[SolutionSAN "Qxd8 Bd6+ Qxd6 Rxe8#"]
+[FEN "rn1Qbk1r/ppBq1ppp/5N2/8/8/P7/2P3PP/R3R2K b - - 0 19"]
+[SetUp "1"]
+
+19... Qxd8 20. Bd6+ Qxd6 21. Rxe8# *

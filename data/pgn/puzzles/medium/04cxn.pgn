@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04cxn"]
+[Difficulty "medium"]
+[Rating "1403"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/q5Of8a3K#25"]
+[Solution "e3h6 c6d4 b3f7 g8f7"]
+[SolutionSAN "Bh6 Nxd4 Bxf7+ Kxf7"]
+[FEN "2rqr1k1/pp1bppb1/2np1np1/7p/3NP2P/1BN1BP2/PPPQ2P1/2KR3R w - - 0 13"]
+[SetUp "1"]
+
+13. Bh6 Nxd4 14. Bxf7+ Kxf7 *

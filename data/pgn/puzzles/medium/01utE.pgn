@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01utE"]
+[Difficulty "medium"]
+[Rating "1415"]
+[Themes "discoveredAttack discoveredCheck mate mateIn4 middlegame veryLong"]
+[GameUrl "https://lichess.org/game/Vx6I0drZ/black#56"]
+[Solution "h8g8 g6h7 g8h8 h7g8 d4h4 h1h4 g5h4 c2h7"]
+[SolutionSAN "Kg8 Bh7+ Kh8 Bg8+ Qh4 Rxh4+ gxh4 Qh7#"]
+[FEN "r1b2r1k/5pp1/p3p1B1/1p1p2p1/3q4/P7/1PQ2PK1/7R b - - 3 28"]
+[SetUp "1"]
+
+28... Kg8 29. Bh7+ Kh8 30. Bg8+ Qh4 31. Rxh4+ gxh4 32. Qh7# *

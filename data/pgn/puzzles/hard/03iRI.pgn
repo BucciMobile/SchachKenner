@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03iRI"]
+[Difficulty "hard"]
+[Rating "1884"]
+[Themes "advantage defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/YvbrrL2J/black#70"]
+[Solution "a5a1 g1h2 g6g2 h2g2 b3b2 f5f2"]
+[SolutionSAN "Qa1+ Kh2 Rxg2+ Kxg2 Rb2+ Rf2"]
+[FEN "8/5pkp/3p1Nr1/q1p1pR2/4P2Q/1r1P3P/6P1/6K1 b - - 0 35"]
+[SetUp "1"]
+
+35... Qa1+ 36. Kh2 Rxg2+ 37. Kxg2 Rb2+ 38. Rf2 *

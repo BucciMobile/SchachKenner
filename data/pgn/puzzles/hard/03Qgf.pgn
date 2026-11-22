@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Qgf"]
+[Difficulty "hard"]
+[Rating "2673"]
+[Themes "advantage middlegame pin sacrifice trappedPiece veryLong"]
+[GameUrl "https://lichess.org/game/GLhv9UcT#51"]
+[Solution "d2c2 f8h8 g6h8 a8h8 g5g6 f7f8 h7h8 g7h8 h1h8 f8g7"]
+[SolutionSAN "Kc2 Rh8 Nxh8+ Rxh8 g6+ Kf8 Qxh8+ Bxh8 Rxh8+ Kg7"]
+[FEN "r4r2/p4kbQ/1p4N1/2p2pP1/3p2n1/2PP4/PP1KPq2/R1B4R w - - 0 26"]
+[SetUp "1"]
+
+26. Kc2 Rh8 27. Nxh8+ Rxh8 28. g6+ Kf8 29. Qxh8+ Bxh8 30. Rxh8+ Kg7 *

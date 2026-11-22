@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E0zT"]
+[Difficulty "medium"]
+[Rating "1556"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/FWK2TQrq/black#42"]
+[Solution "e6d5 g6e7"]
+[SolutionSAN "exd5 Ne7#"]
+[FEN "r4rk1/pp4p1/1q2p1N1/1b1B2pQ/8/6P1/PPP2b1P/R6K b - - 3 21"]
+[SetUp "1"]
+
+21... exd5 22. Ne7# *

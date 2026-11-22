@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ikfj"]
+[Difficulty "easy"]
+[Rating "709"]
+[Themes "crushing endgame fork master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/s1ScuLzQ/black#70"]
+[Solution "c6e8 f5f8 h8g7 f8e8"]
+[SolutionSAN "Be8 Rf8+ Kg7 Rxe8"]
+[FEN "7k/pp5p/2b5/1P3R2/8/P1r1P1KP/5PP1/8 b - - 0 35"]
+[SetUp "1"]
+
+35... Be8 36. Rf8+ Kg7 37. Rxe8 *

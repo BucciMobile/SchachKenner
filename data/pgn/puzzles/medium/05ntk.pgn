@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ntk"]
+[Difficulty "medium"]
+[Rating "1502"]
+[Themes "attraction crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/s3voQwEQ#43"]
+[Solution "e4g2 g6g2 h1g2 e8e2"]
+[SolutionSAN "Qg2 Qxg2+ Kxg2 Rxe2+"]
+[FEN "1k2r3/ppp3pp/2nb2q1/5r2/PP1PQP2/B1P5/4N2P/R4R1K w - - 3 22"]
+[SetUp "1"]
+
+22. Qg2 Qxg2+ 23. Kxg2 Rxe2+ *

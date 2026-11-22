@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LboL"]
+[Difficulty "medium"]
+[Rating "1384"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/WyG7butE/black#76"]
+[Solution "f8f7 e6g5 f7f8 g5h7"]
+[SolutionSAN "Kf7 Ng5+ Kf8 Nxh7#"]
+[FEN "1r3k2/1p4bp/pP2N1p1/3B1p2/2P5/4R1PP/3q1PK1/8 b - - 3 38"]
+[SetUp "1"]
+
+38... Kf7 39. Ng5+ Kf8 40. Nxh7# *

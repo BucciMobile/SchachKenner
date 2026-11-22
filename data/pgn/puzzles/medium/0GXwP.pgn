@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GXwP"]
+[Difficulty "medium"]
+[Rating "1377"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/LuDNfVcP/black#62"]
+[Solution "b4e1 a1c3 e1f2 c2f2 c5f2 g2f2"]
+[SolutionSAN "Qe1 Bc3 Qxf2+ Qxf2 Bxf2 Kxf2"]
+[FEN "6k1/5p1p/2p1p1p1/2b1P3/1qP5/p5P1/P1Q2PKP/B7 b - - 1 31"]
+[SetUp "1"]
+
+31... Qe1 32. Bc3 Qxf2+ 33. Qxf2 Bxf2 34. Kxf2 *

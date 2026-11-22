@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00gsT"]
+[Difficulty "medium"]
+[Rating "1467"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/Uwrjbb82#37"]
+[Solution "c1a1 a2a1 f1a1 b8b5"]
+[SolutionSAN "Ra1 Qxa1 Rxa1 Rxb5"]
+[FEN "1r3rk1/p4pp1/4p2p/1Q2Pn2/1b1P4/4BN2/q4PPP/2R2RK1 w - - 1 19"]
+[SetUp "1"]
+
+19. Ra1 Qxa1 20. Rxa1 Rxb5 *

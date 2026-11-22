@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09PjX"]
+[Difficulty "hard"]
+[Rating "2825"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/SlpMJaVO/black#56"]
+[Solution "g6h5 e2h5 d6f8 e8c8 a8c8 h5g4"]
+[SolutionSAN "gxh5 Qxh5 Bf8 Rxc8 Rxc8 Qg4+"]
+[FEN "r1b1R3/6k1/2pb1qp1/4N2R/1nBP1p2/pPp3P1/P3QP2/K7 b - - 0 28"]
+[SetUp "1"]
+
+28... gxh5 29. Qxh5 Bf8 30. Rxc8 Rxc8 31. Qg4+ *

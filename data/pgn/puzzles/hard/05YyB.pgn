@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05YyB"]
+[Difficulty "hard"]
+[Rating "2333"]
+[Themes "crushing fork middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/qtvKo0OM#53"]
+[Solution "f1g1 f4h3 g2h3 h5f3 h1h2 g5d2 h2g3 f3e4"]
+[SolutionSAN "Rg1 Nxh3 gxh3 Bf3+ Kh2 Qd2 Kg3 Bxe4"]
+[FEN "6k1/pp2rpp1/2p4p/6qb/P2PRn2/1QP4P/1PB2PP1/5R1K w - - 1 27"]
+[SetUp "1"]
+
+27. Rg1 Nxh3 28. gxh3 Bf3+ 29. Kh2 Qd2 30. Kg3 Bxe4 *

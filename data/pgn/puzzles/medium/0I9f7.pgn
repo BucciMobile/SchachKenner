@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I9f7"]
+[Difficulty "medium"]
+[Rating "1587"]
+[Themes "crushing deflection master middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/fZOM1dom/black#42"]
+[Solution "b8a8 c1c8 d8c8 e4d5"]
+[SolutionSAN "Ka8 Rc8+ Rxc8 Qxd5"]
+[FEN "1k1rr3/pp3ppp/8/1P1qn3/3pQB2/5P2/P4P1P/2R2RK1 b - - 3 21"]
+[SetUp "1"]
+
+21... Ka8 22. Rc8+ Rxc8 23. Qxd5 *

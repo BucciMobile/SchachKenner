@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "099ld"]
+[Difficulty "easy"]
+[Rating "1008"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/EnSTIbOI/black#94"]
+[Solution "e6f6 e3d5 f6g7 d5c3"]
+[SolutionSAN "Kf6 Nd5+ Kg7 Nxc3"]
+[FEN "8/p7/4k1P1/8/2p1K3/2b1N3/P7/8 b - - 0 47"]
+[SetUp "1"]
+
+47... Kf6 48. Nd5+ Kg7 49. Nxc3 *

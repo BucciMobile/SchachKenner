@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "059Mb"]
+[Difficulty "easy"]
+[Rating "916"]
+[Themes "crushing discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/XmtxClEG#83"]
+[Solution "c2a2 c4c1 g1h2 e6a2"]
+[SolutionSAN "Ra2 Rc1+ Kh2 Bxa2"]
+[FEN "5k2/5p1p/p3bBp1/4P3/2r4P/8/2R2PP1/6K1 w - - 1 42"]
+[SetUp "1"]
+
+42. Ra2 Rc1+ 43. Kh2 Bxa2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GpKC"]
+[Difficulty "easy"]
+[Rating "729"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+[GameUrl "https://lichess.org/game/2cceRUKk/black#110"]
+[Solution "g3f3 f5f6 g4g3 f6f7 f3e2 f7f8q"]
+[SolutionSAN "Kf3 f6 g3 f7 Ke2 f8=Q"]
+[FEN "8/8/8/5PK1/6p1/6k1/8/8 b - - 0 55"]
+[SetUp "1"]
+
+55... Kf3 56. f6 g3 57. f7 Ke2 58. f8=Q *

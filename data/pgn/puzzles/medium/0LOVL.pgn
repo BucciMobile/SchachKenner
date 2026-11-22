@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LOVL"]
+[Difficulty "medium"]
+[Rating "1312"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/A82kxyjR/black#48"]
+[Solution "b8a8 d3e4 a8a7 d6c7"]
+[SolutionSAN "Ka8 Be4+ Ka7 Qc7#"]
+[FEN "1k1r2r1/3n4/p2Q1p2/1p3P2/2p5/3B4/PPP2qPP/4R2K b - - 0 24"]
+[SetUp "1"]
+
+24... Ka8 25. Be4+ Ka7 26. Qc7# *

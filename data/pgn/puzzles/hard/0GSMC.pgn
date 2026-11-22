@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GSMC"]
+[Difficulty "hard"]
+[Rating "1964"]
+[Themes "deflection endgame master mate mateIn4 sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/cWHf7XD0/black#70"]
+[Solution "e3e2 f6g7 f8g7 d1d8 g7f8 g4f6 g8h8 d8f8"]
+[SolutionSAN "Qe2 Qg7+ Bxg7 Rd8+ Bf8 Nf6+ Kh8 Rxf8#"]
+[FEN "5bk1/1p3p1p/p3pQpP/4P1P1/6N1/4qPK1/P1r5/3R4 b - - 3 35"]
+[SetUp "1"]
+
+35... Qe2 36. Qg7+ Bxg7 37. Rd8+ Bf8 38. Nf6+ Kh8 39. Rxf8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ek4a"]
+[Difficulty "hard"]
+[Rating "2597"]
+[Themes "crushing defensiveMove middlegame pin short"]
+[GameUrl "https://lichess.org/game/BibIhv2d#47"]
+[Solution "d2d3 f6g5 d3d5 e8e6"]
+[SolutionSAN "Qxd3 fxg5 Qd5+ Re6"]
+[FEN "r3r1k1/pp5p/5pp1/4b1B1/5RqP/2Nb4/PP1QN2K/4R3 w - - 0 24"]
+[SetUp "1"]
+
+24. Qxd3 fxg5 25. Qd5+ Re6 *

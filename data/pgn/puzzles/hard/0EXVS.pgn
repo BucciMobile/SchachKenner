@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EXVS"]
+[Difficulty "hard"]
+[Rating "2255"]
+[Themes "advancedPawn crushing endgame master short"]
+[GameUrl "https://lichess.org/game/n8okx6wu#101"]
+[Solution "f5e4 f3f2 e4h7 g8f8"]
+[SolutionSAN "Be4 f2 Bh7+ Kf8"]
+[FEN "6k1/1R6/8/5Bp1/8/5p1P/1p1r2PK/8 w - - 0 51"]
+[SetUp "1"]
+
+51. Be4 f2 52. Bh7+ Kf8 *

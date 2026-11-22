@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DRin"]
+[Difficulty "hard"]
+[Rating "1825"]
+[Themes "advantage kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/o9CPEZ3Y/black#34"]
+[Solution "f6h7 g5g6 f7g6 e5d7"]
+[SolutionSAN "Nh7 Qxg6+ fxg6 Nxd7"]
+[FEN "r3r1k1/pp1qbp2/2p2nn1/3pN1Q1/3P4/2N5/PPP2PPP/R3R1K1 b - - 2 17"]
+[SetUp "1"]
+
+17... Nh7 18. Qxg6+ fxg6 19. Nxd7 *

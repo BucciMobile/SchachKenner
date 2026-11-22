@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Pb8"]
+[Difficulty "hard"]
+[Rating "1873"]
+[Themes "crushing defensiveMove endgame knightEndgame long master"]
+[GameUrl "https://lichess.org/game/NezqMtKE/black#116"]
+[Solution "e7f8 f4e6 d4e6 d5e6 f8e7 h4h5"]
+[SolutionSAN "Kf8 Ne6+ Nxe6 dxe6 Ke7 h5"]
+[FEN "8/4k3/1p1p2K1/3P4/3n1N1P/8/8/8 b - - 3 58"]
+[SetUp "1"]
+
+58... Kf8 59. Ne6+ Nxe6 60. dxe6 Ke7 61. h5 *

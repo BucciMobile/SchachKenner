@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "067Ep"]
+[Difficulty "hard"]
+[Rating "1953"]
+[Themes "crushing endgame quietMove short"]
+[GameUrl "https://lichess.org/game/EfACzniO/black#94"]
+[Solution "e5f4 f7e6 f4f3 e4f3"]
+[SolutionSAN "exf4 Be6 f3 Kxf3"]
+[FEN "8/2k2B2/p2p3n/1ppPp2P/4KP2/8/PP6/8 b - - 0 47"]
+[SetUp "1"]
+
+47... exf4 48. Be6 f3 49. Kxf3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "048Kv"]
+[Difficulty "hard"]
+[Rating "2639"]
+[Themes "middlegame"]
+[GameUrl "https://lichess.org/game/DSdD3mf6#43"]
+[Solution "c4b3 f2b2 h1e1 b2a1 d1c2 a1d4"]
+[SolutionSAN "Bb3 Qxb2 Re1 Qxa1+ Kc2 Qd4"]
+[FEN "r1N2r1k/p5pp/2p1Q3/3p4/2B5/8/PP3qPP/R2K3R w - - 1 22"]
+[SetUp "1"]
+
+22. Bb3 Qxb2 23. Re1 Qxa1+ 24. Kc2 Qd4 *

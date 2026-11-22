@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ETIU"]
+[Difficulty "hard"]
+[Rating "2615"]
+[Themes "advancedPawn advantage endgame short"]
+[GameUrl "https://lichess.org/game/lsvqAX38/black#88"]
+[Solution "b3e6 c7e7 e6e7 f6e7"]
+[SolutionSAN "Qe6 Qe7 Qxe7 fxe7"]
+[FEN "2R5/p1Q2p1k/5Ppp/6r1/8/1qR4P/6bK/8 b - - 2 44"]
+[SetUp "1"]
+
+44... Qe6 45. Qe7 Qxe7 46. fxe7 *

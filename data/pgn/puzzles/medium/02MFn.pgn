@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02MFn"]
+[Difficulty "medium"]
+[Rating "1668"]
+[Themes "advantage collinearMove middlegame short"]
+[GameUrl "https://lichess.org/game/XTzhEzlC/black#68"]
+[Solution "e6f7 e2e7 e8e7 e1e7"]
+[SolutionSAN "Bf7 Re7 Rxe7 Rxe7"]
+[FEN "3rr2b/1p1q3k/p1pBbppP/2Pp4/1P4P1/P4P2/3QR3/4R1K1 b - - 1 34"]
+[SetUp "1"]
+
+34... Bf7 35. Re7 Rxe7 36. Rxe7 *

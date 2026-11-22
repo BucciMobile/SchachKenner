@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IRTj"]
+[Difficulty "easy"]
+[Rating "1099"]
+[Themes "blindSwineMate endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/5Zlq525U#59"]
+[Solution "c3c2 d8d3"]
+[SolutionSAN "R3c2 R8d3#"]
+[FEN "1k1r4/1p6/1p6/4p3/4P2p/2R1KP2/PP1r3P/2R5 w - - 2 30"]
+[SetUp "1"]
+
+30. R3c2 R8d3# *

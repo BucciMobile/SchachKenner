@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K3Aw"]
+[Difficulty "medium"]
+[Rating "1393"]
+[Themes "deflection endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/Jf5BHdqo/black#58"]
+[Solution "g7h6 g4g5 h6h5 b7h7"]
+[SolutionSAN "Kh6 g5+ Kh5 Rxh7#"]
+[FEN "2r5/1R4kp/p1r3p1/R7/6P1/7P/5P2/6K1 b - - 2 29"]
+[SetUp "1"]
+
+29... Kh6 30. g5+ Kh5 31. Rxh7# *

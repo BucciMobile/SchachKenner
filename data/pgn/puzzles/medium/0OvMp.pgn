@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OvMp"]
+[Difficulty "medium"]
+[Rating "1202"]
+[Themes "crushing doubleCheck endgame long"]
+[GameUrl "https://lichess.org/game/BdRqHM3k#71"]
+[Solution "d6d7 h4g3 h2g2 h6h2 g2f3 h2f2"]
+[SolutionSAN "d7 hxg3+ Kg2 Qh2+ Kf3 Qxf2+"]
+[FEN "2b5/6kp/p2P1p1q/PppQb3/7p/6P1/1P3P1K/1R1R4 w - - 2 36"]
+[SetUp "1"]
+
+36. d7 hxg3+ 37. Kg2 Qh2+ 38. Kf3 Qxf2+ *

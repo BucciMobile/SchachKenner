@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GAUo"]
+[Difficulty "hard"]
+[Rating "1834"]
+[Themes "crushing endgame long pin skewer"]
+[GameUrl "https://lichess.org/game/5p9UUh34/black#70"]
+[Solution "d5c3 a7c6 b8c8 a5a8 c8d7 a8d8"]
+[SolutionSAN "Nc3 Nc6+ Kc8 Ra8+ Kd7 Rxd8+"]
+[FEN "1k1r4/Npp5/3p4/R2n4/P6p/4r2P/2P3P1/1R4K1 b - - 1 35"]
+[SetUp "1"]
+
+35... Nc3 36. Nc6+ Kc8 37. Ra8+ Kd7 38. Rxd8+ *

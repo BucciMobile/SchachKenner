@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ktcl"]
+[Difficulty "hard"]
+[Rating "2314"]
+[Themes "advancedPawn bishopEndgame crushing endgame long master masterVsMaster"]
+[GameUrl "https://lichess.org/game/DIsNs3iy#107"]
+[Solution "b6c5 e4e3 c5d5 f4f3 d5e4 f3f2"]
+[SolutionSAN "Kc5 e3 Kd5 f3 Ke4 f2"]
+[FEN "8/8/1K6/4B3/4ppk1/8/7P/8 w - - 0 54"]
+[SetUp "1"]
+
+54. Kc5 e3 55. Kd5 f3 56. Ke4 f2 *

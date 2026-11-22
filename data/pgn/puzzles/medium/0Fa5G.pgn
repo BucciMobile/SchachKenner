@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fa5G"]
+[Difficulty "medium"]
+[Rating "1369"]
+[Themes "mate mateIn2 middlegame pin short"]
+[GameUrl "https://lichess.org/game/Ymxum4IR#55"]
+[Solution "g1f1 h5g3 f1g1 f3h1"]
+[SolutionSAN "Kxf1 Ng3+ Kg1 Qh1#"]
+[FEN "2B3k1/7p/2Np2p1/1Pn1p2n/2P1P3/P3Qq2/5P2/4RqK1 w - - 0 28"]
+[SetUp "1"]
+
+28. Kxf1 Ng3+ 29. Kg1 Qh1# *

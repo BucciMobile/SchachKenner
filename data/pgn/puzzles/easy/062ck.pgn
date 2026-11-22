@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "062ck"]
+[Difficulty "easy"]
+[Rating "1045"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/fDjrBr5k/black#50"]
+[Solution "e5f3 e2f3 e4f3 h5f6"]
+[SolutionSAN "Nf3+ Bxf3 exf3 Nf6+"]
+[FEN "4k1r1/1p1b1p1p/p3p3/4nn1N/1B2p3/P5P1/2r1BP1P/3RK2R b K - 3 25"]
+[SetUp "1"]
+
+25... Nf3+ 26. Bxf3 exf3 27. Nf6+ *

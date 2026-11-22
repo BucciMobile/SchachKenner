@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BndM"]
+[Difficulty "easy"]
+[Rating "1093"]
+[Themes "crushing fork opening short"]
+[GameUrl "https://lichess.org/game/PYZpSP2Z/black#18"]
+[Solution "f8b4 d1a4 c8d7 a4b4"]
+[SolutionSAN "Bb4 Qa4+ Bd7 Qxb4"]
+[FEN "r1bqkbnr/1p3ppp/p3p3/3Pp3/4P3/2N5/PP2BPPP/R1BQK2R b KQkq - 1 9"]
+[SetUp "1"]
+
+9... Bb4 10. Qa4+ Bd7 11. Qxb4 *

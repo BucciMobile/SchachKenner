@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "079O8"]
+[Difficulty "medium"]
+[Rating "1669"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/qTSwZs12#51"]
+[Solution "e4f5 e6d5 f3d5 d4d5"]
+[SolutionSAN "exf5 Bd5 Qxd5 Qxd5"]
+[FEN "1kr4r/pp4b1/3pb3/P3pp1p/BP1qPp1B/3P1Q1P/5PP1/R4RK1 w - - 0 26"]
+[SetUp "1"]
+
+26. exf5 Bd5 27. Qxd5 Qxd5 *

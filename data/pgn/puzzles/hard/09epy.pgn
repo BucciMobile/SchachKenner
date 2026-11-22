@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09epy"]
+[Difficulty "hard"]
+[Rating "2778"]
+[Themes "advancedPawn advantage endgame exposedKing promotion veryLong"]
+[GameUrl "https://lichess.org/game/YY3Fb6xB#75"]
+[Solution "e5e6 a4a3 e6e7 d8a5 c3d3 a3a2 e7e8q b2b1q"]
+[SolutionSAN "e6 a3 e7 Ba5+ Kd3 a2 e8=Q b1=Q+"]
+[FEN "3b4/6kp/3P2p1/1r2P3/p3R1P1/2K5/1p3P2/3R4 w - - 1 38"]
+[SetUp "1"]
+
+38. e6 a3 39. e7 Ba5+ 40. Kd3 a2 41. e8=Q b1=Q+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Gc1"]
+[Difficulty "hard"]
+[Rating "2458"]
+[Themes "advantage middlegame veryLong"]
+[GameUrl "https://lichess.org/game/ZMyaM6S4#41"]
+[Solution "h6g7 e8e6 h3h8 g8f7 c2g6 f7g6 h8h6 g6f7"]
+[SolutionSAN "Bxg7 Rxe6 Qh8+ Kf7 Bg6+ Kxg6 Qh6+ Kf7"]
+[FEN "2r1r1k1/1p1b2p1/q2bNn1B/p2p4/3n4/PPN4Q/2B2PPP/R3R1K1 w - - 0 21"]
+[SetUp "1"]
+
+21. Bxg7 Rxe6 22. Qh8+ Kf7 23. Bg6+ Kxg6 24. Qh6+ Kf7 *

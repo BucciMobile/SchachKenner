@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JFfD"]
+[Difficulty "easy"]
+[Rating "954"]
+[Themes "advancedPawn advantage endgame promotion short"]
+[GameUrl "https://lichess.org/game/1AdkKGq2#87"]
+[Solution "g7h6 b3b2 h7e7 b2b1q"]
+[SolutionSAN "Bh6 b2 Re7 b1=Q"]
+[FEN "8/6BR/2b3p1/5p2/1k6/1p3P2/5KPP/8 w - - 2 44"]
+[SetUp "1"]
+
+44. Bh6 b2 45. Re7 b1=Q *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MQGL"]
+[Difficulty "hard"]
+[Rating "1766"]
+[Themes "crushing endgame hangingPiece long"]
+[GameUrl "https://lichess.org/game/i0DO1jIS#79"]
+[Solution "f3f8 e7f8 d1f1 f8e7 h4e7 e8e7"]
+[SolutionSAN "Rf8+ Qxf8 Rf1 Qe7 Qxe7 Rxe7"]
+[FEN "r3r2k/4q2p/3p2pP/4p3/1pP1P2Q/1P3R2/6P1/3R2K1 w - - 0 40"]
+[SetUp "1"]
+
+40. Rf8+ Qxf8 41. Rf1 Qe7 42. Qxe7 Rxe7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07azx"]
+[Difficulty "hard"]
+[Rating "1920"]
+[Themes "advantage middlegame veryLong"]
+[GameUrl "https://lichess.org/game/eoLNaneV#43"]
+[Solution "f3f7 f8f7 f1f7 g7f7 e4d6 e7d6 d3g6 f7f8"]
+[SolutionSAN "Rxf7+ Rxf7 Rxf7+ Kxf7 Nd6+ Bxd6 Qxg6+ Kf8"]
+[FEN "r4r2/p2qbpk1/1pn1p1pp/4P3/3PN3/P2Q1R1P/1P4P1/1B3RK1 w - - 7 22"]
+[SetUp "1"]
+
+22. Rxf7+ Rxf7 23. Rxf7+ Kxf7 24. Nd6+ Bxd6 25. Qxg6+ Kf8 *

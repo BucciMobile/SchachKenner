@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KCOt"]
+[Difficulty "hard"]
+[Rating "2650"]
+[Themes "crushing endgame pawnEndgame veryLong"]
+[GameUrl "https://lichess.org/game/fWDVDSjQ/black#90"]
+[Solution "f6e6 a2a4 b5a4 f4e4 e6d6 e4d4 a4a3 b2a3"]
+[SolutionSAN "Ke6 a4 bxa4 Ke4 Kd6 Kd4 a3 bxa3"]
+[FEN "8/8/5kp1/pp6/2p2K1P/2P5/PP6/8 b - - 6 45"]
+[SetUp "1"]
+
+45... Ke6 46. a4 bxa4 47. Ke4 Kd6 48. Kd4 a3 49. bxa3 *

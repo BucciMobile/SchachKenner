@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CKBk"]
+[Difficulty "hard"]
+[Rating "2861"]
+[Themes "advantage endgame fork veryLong"]
+[GameUrl "https://lichess.org/game/mJ3aK971/black#94"]
+[Solution "b4b3 d5b4 d3e4 b4a2 a4a3 a2c3 e4f5 c3b5 f5f6 b5a3"]
+[SolutionSAN "b3 Nb4+ Ke4 Nxa2 a3 Nc3+ Kf5 Nb5 Kxf6 Nxa3"]
+[FEN "8/8/5B2/3N3p/pp6/3k3P/r5PK/8 b - - 3 47"]
+[SetUp "1"]
+
+47... b3 48. Nb4+ Ke4 49. Nxa2 a3 50. Nc3+ Kf5 51. Nb5 Kxf6 52. Nxa3 *

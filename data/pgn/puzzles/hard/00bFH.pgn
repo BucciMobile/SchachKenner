@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00bFH"]
+[Difficulty "hard"]
+[Rating "1885"]
+[Themes "deflection equality middlegame short"]
+[GameUrl "https://lichess.org/game/E8lzVecv#53"]
+[Solution "f3b3 e8e1 b1e1 b7b3"]
+[SolutionSAN "Qxb3 Re1+ Rxe1 Qxb3"]
+[FEN "4r1k1/1q3ppp/3B1n2/p2P4/8/Pp3Q1P/5PPN/1R4K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Qxb3 Re1+ 28. Rxe1 Qxb3 *

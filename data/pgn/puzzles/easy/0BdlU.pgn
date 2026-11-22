@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BdlU"]
+[Difficulty "easy"]
+[Rating "679"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/v1Jml1Nx#93"]
+[Solution "d4c6 h8a8 c6a7 a8a7"]
+[SolutionSAN "Nc6 Ra8+ Na7 Rxa7#"]
+[FEN "7r/8/8/KPk5/3N4/8/4R3/8 w - - 7 47"]
+[SetUp "1"]
+
+47. Nc6 Ra8+ 48. Na7 Rxa7# *

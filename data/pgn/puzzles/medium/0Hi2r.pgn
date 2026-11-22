@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hi2r"]
+[Difficulty "medium"]
+[Rating "1340"]
+[Themes "crushing endgame long pin"]
+[GameUrl "https://lichess.org/game/b97POm9o#73"]
+[Solution "g2g1 c4c1 b2d2 c1e1 d2e1 c6b7"]
+[SolutionSAN "Kg1 Rc1 Qd2 Rxe1+ Qxe1 Qxb7"]
+[FEN "5nk1/1R4p1/2q1p2p/4Pp2/2rP4/6P1/1Q3PKP/4N3 w - - 3 37"]
+[SetUp "1"]
+
+37. Kg1 Rc1 38. Qd2 Rxe1+ 39. Qxe1 Qxb7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02ksF"]
+[Difficulty "easy"]
+[Rating "908"]
+[Themes "crushing defensiveMove endgame master pawnEndgame short"]
+[GameUrl "https://lichess.org/game/feAeF1cc#121"]
+[Solution "f3f4 h4g4 e3e4 h5h4"]
+[SolutionSAN "f4 Kg4 Ke4 h4"]
+[FEN "8/8/8/1p5p/1P5k/4KP2/8/8 w - - 0 61"]
+[SetUp "1"]
+
+61. f4 Kg4 62. Ke4 h4 *

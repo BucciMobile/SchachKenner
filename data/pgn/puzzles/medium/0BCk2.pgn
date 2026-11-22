@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BCk2"]
+[Difficulty "medium"]
+[Rating "1232"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/k2OYYIXr#61"]
+[Solution "f3h2 b2h2"]
+[SolutionSAN "Nxh2 Rxh2#"]
+[FEN "5bk1/4pp2/6p1/3Q3p/2P1BPn1/5NP1/Pr5q/6RK w - - 0 31"]
+[SetUp "1"]
+
+31. Nxh2 Rxh2# *

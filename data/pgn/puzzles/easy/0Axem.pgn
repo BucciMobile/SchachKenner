@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Axem"]
+[Difficulty "easy"]
+[Rating "770"]
+[Themes "attackingF2F7 epauletteMate mate mateIn2 opening short"]
+[GameUrl "https://lichess.org/game/8YEjt931#13"]
+[Solution "b1d2 c5f2 e1e2 b6e3"]
+[SolutionSAN "Nbd2 Bxf2+ Ke2 Qe3#"]
+[FEN "rnb1k2r/pp2nppp/1q2p3/2bpP3/8/2P2N2/PP3PPP/RNBQKB1R w KQkq - 1 7"]
+[SetUp "1"]
+
+7. Nbd2 Bxf2+ 8. Ke2 Qe3# *

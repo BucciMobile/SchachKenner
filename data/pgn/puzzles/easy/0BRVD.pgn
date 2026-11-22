@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BRVD"]
+[Difficulty "easy"]
+[Rating "794"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/vzy5ms5E/black#76"]
+[Solution "c6d5 e5d6 c5d6 g3d6"]
+[SolutionSAN "cxd5 Bxd6+ Qxd6 Qxd6+"]
+[FEN "1k1n4/pp6/2pr4/2qPB3/4P3/6Q1/1P1K4/8 b - - 5 38"]
+[SetUp "1"]
+
+38... cxd5 39. Bxd6+ Qxd6 40. Qxd6+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08hwn"]
+[Difficulty "easy"]
+[Rating "714"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/TE8CeaWL#53"]
+[Solution "f2f3 d7e5 f3f4 e5g6"]
+[SolutionSAN "Kxf3 Ne5+ Kf4 Nxg6+"]
+[FEN "4k3/3n3r/p5R1/1p3p1p/1Bp5/P1P2p1P/2P2KP1/8 w - - 0 27"]
+[SetUp "1"]
+
+27. Kxf3 Ne5+ 28. Kf4 Nxg6+ *

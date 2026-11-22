@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G3GF"]
+[Difficulty "hard"]
+[Rating "2500"]
+[Themes "advantage middlegame veryLong"]
+[GameUrl "https://lichess.org/game/PLm15raX/black#34"]
+[Solution "h8g8 g4h4 d8d7 b1b2 g8g2 g1g2 a8g8 h4g3 g8g3 f2g3"]
+[SolutionSAN "Rg8 Qh4+ Kd7 Rxb2 Rxg2+ Kxg2 Rg8+ Qg3 Rxg3+ fxg3"]
+[FEN "r2k3r/ppp2q1p/3pn2p/3N4/4P1Q1/3P4/Pb3PPP/1R3RK1 b - - 1 17"]
+[SetUp "1"]
+
+17... Rg8 18. Qh4+ Kd7 19. Rxb2 Rxg2+ 20. Kxg2 Rg8+ 21. Qg3 Rxg3+ 22. fxg3 *

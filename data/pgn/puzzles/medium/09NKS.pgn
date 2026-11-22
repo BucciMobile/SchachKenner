@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09NKS"]
+[Difficulty "medium"]
+[Rating "1574"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/OBgGK76X/black#36"]
+[Solution "c5d4 c2h7 g8h7 d2b2"]
+[SolutionSAN "cxd4 Bxh7+ Kxh7 Qxb2"]
+[FEN "3rrnk1/pp3ppp/4bp2/b1p5/3P4/2P1BN1P/PqBQ1PP1/2R1R1K1 b - - 0 18"]
+[SetUp "1"]
+
+18... cxd4 19. Bxh7+ Kxh7 20. Qxb2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DMqA"]
+[Difficulty "medium"]
+[Rating "1666"]
+[Themes "crushing endgame long trappedPiece"]
+[GameUrl "https://lichess.org/game/O1RRK1Vg/black#62"]
+[Solution "e4e3 d4d1 c1d1 e2d1 e3e2 d1e1"]
+[SolutionSAN "e3 Rd1 Qxd1 Qxd1 e2 Qe1"]
+[FEN "4r1k1/p4p1p/1p4p1/8/P2Rp3/2P2P1P/1P2Q1PK/2q5 b - - 2 31"]
+[SetUp "1"]
+
+31... e3 32. Rd1 Qxd1 33. Qxd1 e2 34. Qe1 *

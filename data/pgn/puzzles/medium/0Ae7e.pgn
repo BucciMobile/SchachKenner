@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ae7e"]
+[Difficulty "medium"]
+[Rating "1600"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/HtTmpuyc#49"]
+[Solution "d4c6 d7c6 b5c6 f4e3"]
+[SolutionSAN "Nxc6+ Qxc6 bxc6 fxe3"]
+[FEN "1k1r4/p2q1p2/1pp1b2b/1P1pP2r/P2N1p2/2P1Q1Pp/7P/R3RBK1 w - - 0 25"]
+[SetUp "1"]
+
+25. Nxc6+ Qxc6 26. bxc6 fxe3 *

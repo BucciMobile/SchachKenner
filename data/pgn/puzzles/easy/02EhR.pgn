@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02EhR"]
+[Difficulty "easy"]
+[Rating "957"]
+[Themes "discoveredAttack kingsideAttack master mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/YPrgeQdp#39"]
+[Solution "e4b7 d4e2 g1h1 a4h4"]
+[SolutionSAN "Qxb7 Ne2+ Kh1 Qxh4#"]
+[FEN "3rk2r/pp3pp1/4p3/4P2p/q2nQ2P/P3B3/5PP1/R4RK1 w k - 0 20"]
+[SetUp "1"]
+
+20. Qxb7 Ne2+ 21. Kh1 Qxh4# *

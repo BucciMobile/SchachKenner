@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03ZGI"]
+[Difficulty "easy"]
+[Rating "926"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/0KFOdJqB/black#60"]
+[Solution "d5f4 d1d8"]
+[SolutionSAN "Nf4 Rxd8#"]
+[FEN "3r1k2/pb2rpq1/4p3/1P1n4/4B3/Q7/5PPP/3RR1K1 b - - 2 30"]
+[SetUp "1"]
+
+30... Nf4 31. Rxd8# *

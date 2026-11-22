@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EOWL"]
+[Difficulty "easy"]
+[Rating "912"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/TgxMHo1e#57"]
+[Solution "b2b3 d6a3 c1b1 a3b2"]
+[SolutionSAN "b3 Qa3+ Kb1 Qb2#"]
+[FEN "r3r1k1/6pp/3qP3/pp1P1p2/n2Q1N2/2p2P1P/PPP2P2/2KR3R w - - 0 29"]
+[SetUp "1"]
+
+29. b3 Qa3+ 30. Kb1 Qb2# *

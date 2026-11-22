@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lx1o"]
+[Difficulty "medium"]
+[Rating "1476"]
+[Themes "crushing defensiveMove fork opening pin short"]
+[GameUrl "https://lichess.org/game/UXhd9YxS/black#22"]
+[Solution "h7g6 c2g6 h6g7 f3g5"]
+[SolutionSAN "hxg6 Qxg6+ Bg7 Ng5"]
+[FEN "r2q1rk1/pbpnp2p/1p1p2Bb/4P3/8/2P2N2/PPQ2PPP/RN3RK1 b - - 0 11"]
+[SetUp "1"]
+
+11... hxg6 12. Qxg6+ Bg7 13. Ng5 *

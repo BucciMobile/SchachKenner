@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00UOA"]
+[Difficulty "medium"]
+[Rating "1657"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/DUwr5LiX/black#60"]
+[Solution "f6d4 b2b3 c4c2 e2c2"]
+[SolutionSAN "Bxd4 b3 Rc2 Rxc2"]
+[FEN "6k1/5p1p/4pbp1/p2p4/2rP1P2/P3B1P1/1P2R1KP/8 b - - 0 30"]
+[SetUp "1"]
+
+30... Bxd4 31. b3 Rc2 32. Rxc2 *

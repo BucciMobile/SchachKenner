@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02gOI"]
+[Difficulty "hard"]
+[Rating "2103"]
+[Themes "crushing master middlegame veryLong"]
+[GameUrl "https://lichess.org/game/uZRMSB81/black#48"]
+[Solution "h2h1q b1h1 h6h1 g2f2 c8d7 a8b6 h1f3 f2e1"]
+[SolutionSAN "h1=Q+ Rxh1 Qxh1+ Kxf2 Bd7 Nb6 Qf3+ Ke1"]
+[FEN "N1b4r/1p2k2p/p2p3q/5p2/3PpP2/1B2P1P1/P1Q1NnKp/1R6 b - - 1 24"]
+[SetUp "1"]
+
+24... h1=Q+ 25. Rxh1 Qxh1+ 26. Kxf2 Bd7 27. Nb6 Qf3+ 28. Ke1 *

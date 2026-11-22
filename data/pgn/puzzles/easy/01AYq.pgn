@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01AYq"]
+[Difficulty "easy"]
+[Rating "829"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/aIGFaJ1u/black#26"]
+[Solution "a5a6 a4c5"]
+[SolutionSAN "Ka6 Nc5#"]
+[FEN "r1b4r/p1B1ppbp/2p2np1/kp6/N2RP3/8/PPP2PPP/2K2B1R b - - 1 13"]
+[SetUp "1"]
+
+13... Ka6 14. Nc5# *

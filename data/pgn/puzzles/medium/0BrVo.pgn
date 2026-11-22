@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BrVo"]
+[Difficulty "medium"]
+[Rating "1399"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/806mWlqA#97"]
+[Solution "g4g5 a2a3 f3f4 a3b3"]
+[SolutionSAN "g5 Ra3+ Kf4 Rb3"]
+[FEN "8/5k2/7P/1R6/p5P1/5K2/rp3P2/8 w - - 1 49"]
+[SetUp "1"]
+
+49. g5 Ra3+ 50. Kf4 Rb3 *

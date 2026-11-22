@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NZMY"]
+[Difficulty "medium"]
+[Rating "1582"]
+[Themes "crushing deflection endgame short"]
+[GameUrl "https://lichess.org/game/2LX2IAdw#65"]
+[Solution "b7e7 f8f1 e1f1 h4e7"]
+[SolutionSAN "Qe7 Rf1+ Rxf1 Qxe7"]
+[FEN "5rk1/pQ4pp/8/3p4/PPbN3q/2P4P/6P1/4R2K w - - 1 33"]
+[SetUp "1"]
+
+33. Qe7 Rf1+ 34. Rxf1 Qxe7 *

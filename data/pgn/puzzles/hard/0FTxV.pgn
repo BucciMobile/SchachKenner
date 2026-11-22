@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FTxV"]
+[Difficulty "hard"]
+[Rating "1736"]
+[Themes "advancedPawn crushing endgame pawnEndgame quietMove veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/LildxDzf/black#70"]
+[Solution "e6d5 d2c3 f5f4 g3f4 g7g6 f4f5 g6f5 f3f4 d5e4 c3c4 e4f4 d4d5 f4g3 d5d6 f5f4 d6d7"]
+[SolutionSAN "Kd5 Kc3 f4 gxf4 g6 f5 gxf5 f4 Ke4 Kxc4 Kxf4 d5 Kg3 d6 f4 d7"]
+[FEN "8/6p1/4k3/5p1p/2pP3P/5PP1/3K4/8 b - - 0 35"]
+[SetUp "1"]
+
+35... Kd5 36. Kc3 f4 37. gxf4 g6 38. f5 gxf5 39. f4 Ke4 40. Kxc4 Kxf4 41. d5 Kg3 42. d6 f4 43. d7 *

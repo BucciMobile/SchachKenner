@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HD14"]
+[Difficulty "medium"]
+[Rating "1645"]
+[Themes "crushing long master middlegame"]
+[GameUrl "https://lichess.org/game/XIoogpWj#33"]
+[Solution "e3g5 g7c3 d2d5 d7e6 g5d8 e6d5"]
+[SolutionSAN "Bg5 Bxc3 Qd5+ Be6 Bxd8 Bxd5"]
+[FEN "r2qr1k1/1ppb2bp/2np2p1/p1n2p2/2P1P3/1PN1BP2/P1NQB1PP/1R3RK1 w - - 0 17"]
+[SetUp "1"]
+
+17. Bg5 Bxc3 18. Qd5+ Be6 19. Bxd8 Bxd5 *

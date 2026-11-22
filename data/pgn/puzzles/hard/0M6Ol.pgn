@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M6Ol"]
+[Difficulty "hard"]
+[Rating "1708"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/CwiGbCpt#47"]
+[Solution "c7g3 e4d2 f3d3 d2f1 d3f1 e1f1"]
+[SolutionSAN "Bg3 Nd2 Qd3 Nf1+ Qxf1 Qxf1"]
+[FEN "6k1/ppB2pp1/7p/3P4/2Ppn3/1P3Q1P/P1P2PPK/4q3 w - - 2 24"]
+[SetUp "1"]
+
+24. Bg3 Nd2 25. Qd3 Nf1+ 26. Qxf1 Qxf1 *

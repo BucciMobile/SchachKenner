@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08rpW"]
+[Difficulty "medium"]
+[Rating "1545"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/tXmYLZ6K#51"]
+[Solution "g5f3 a8f8 g1g2 f8f4"]
+[SolutionSAN "Nf3 Rf8 Kg2 Rxf4"]
+[FEN "r5k1/1r1b2bp/8/p2p2N1/3p1BP1/1P5P/P4P2/3RR1K1 w - - 0 26"]
+[SetUp "1"]
+
+26. Nf3 Rf8 27. Kg2 Rxf4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06wEM"]
+[Difficulty "hard"]
+[Rating "2413"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/vsDsU8a3#83"]
+[Solution "f3f4 g4g3 e5e6 e8f8 c7c3 h4g4"]
+[SolutionSAN "f4 g3 Ke6 Kf8 Rc3 Rg4"]
+[FEN "4k3/2R5/6p1/4K3/6pr/5P2/2P5/8 w - - 2 42"]
+[SetUp "1"]
+
+42. f4 g3 43. Ke6 Kf8 44. Rc3 Rg4 *

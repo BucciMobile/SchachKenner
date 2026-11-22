@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HsgB"]
+[Difficulty "easy"]
+[Rating "910"]
+[Themes "advantage long middlegame skewer"]
+[GameUrl "https://lichess.org/game/8rNsWXvh#39"]
+[Solution "c1b1 b4b1 d2b1 b8b1 e1e2 b1h1"]
+[SolutionSAN "Rb1 Qxb1+ Nxb1 Rxb1+ Ke2 Rxh1"]
+[FEN "1r4k1/Q1p2ppp/p3rn2/8/1q1P4/4P3/P2N1PPP/2R1K2R w K - 5 20"]
+[SetUp "1"]
+
+20. Rb1 Qxb1+ 21. Nxb1 Rxb1+ 22. Ke2 Rxh1 *

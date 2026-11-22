@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FoVw"]
+[Difficulty "medium"]
+[Rating "1337"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/YKH705kq#47"]
+[Solution "e7f5 h6f4 h2h1 d8d2"]
+[SolutionSAN "Nf5 Qf4+ Kh1 Rd2"]
+[FEN "3r1r1k/b3Nppp/p1p4q/1p2p3/4P3/P4P1P/BP2QP1K/R5R1 w - - 2 24"]
+[SetUp "1"]
+
+24. Nf5 Qf4+ 25. Kh1 Rd2 *

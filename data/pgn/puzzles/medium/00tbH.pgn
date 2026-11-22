@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00tbH"]
+[Difficulty "medium"]
+[Rating "1264"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/KnvUoTQB/black#52"]
+[Solution "b2d2 e2d2 b7b2 a4c2"]
+[SolutionSAN "Rxd2+ Kxd2 Qb2+ Qc2"]
+[FEN "8/1q1r1k1p/p1p1p1p1/2p2pRn/Q1P2P1P/3PPP2/Pr1BK3/6R1 b - - 0 26"]
+[SetUp "1"]
+
+26... Rxd2+ 27. Kxd2 Qb2+ 28. Qc2 *

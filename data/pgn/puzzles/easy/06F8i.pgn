@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06F8i"]
+[Difficulty "easy"]
+[Rating "1083"]
+[Themes "advantage kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/UkYx182p#31"]
+[Solution "e5d7 e7e1 a1e1 e8e1"]
+[SolutionSAN "Nxd7 Rxe1+ Rxe1 Qxe1+"]
+[FEN "r3q1k1/pppnrppp/3b1n2/3pN1B1/3P1P2/2PQ3P/PP1N2P1/R3R1K1 w - - 3 16"]
+[SetUp "1"]
+
+16. Nxd7 Rxe1+ 17. Rxe1 Qxe1+ *

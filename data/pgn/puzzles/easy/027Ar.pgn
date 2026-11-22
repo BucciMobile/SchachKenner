@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "027Ar"]
+[Difficulty "easy"]
+[Rating "1192"]
+[Themes "crushing discoveredAttack discoveredCheck master middlegame short"]
+[GameUrl "https://lichess.org/game/uvj6KJdY/black#36"]
+[Solution "e6d5 e4d5 e5e4 g2e4"]
+[SolutionSAN "Bxd5 exd5+ e4 Bxe4+"]
+[FEN "2q2r2/1pp2rpk/p1npbn1p/3Np3/4P2N/P2QP1PP/1PP3BK/3R1R2 b - - 6 18"]
+[SetUp "1"]
+
+18... Bxd5 19. exd5+ e4 20. Bxe4+ *

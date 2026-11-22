@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HaCA"]
+[Difficulty "medium"]
+[Rating "1453"]
+[Themes "backRankMate deflection endgame mate mateIn4 pin sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/tUoW2QvQ/black#62"]
+[Solution "b2c1 c4f7 f8f7 e7e8 f7f8 f3d5 g8h8 e8f8"]
+[SolutionSAN "Qc1 Qxf7+ Rxf7 Re8+ Rf8 Bd5+ Kh8 Rxf8#"]
+[FEN "5rk1/4Rppp/8/p7/2Q2P2/5B1P/1q4PK/r7 b - - 1 31"]
+[SetUp "1"]
+
+31... Qc1 32. Qxf7+ Rxf7 33. Re8+ Rf8 34. Bd5+ Kh8 35. Rxf8# *

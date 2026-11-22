@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LWfm"]
+[Difficulty "hard"]
+[Rating "1823"]
+[Themes "crushing endgame master veryLong"]
+[GameUrl "https://lichess.org/game/DSQBJSkG#139"]
+[Solution "f2f3 c2e1 f3f2 e1g2 f2g2 f6e6 h4h5 g6h5"]
+[SolutionSAN "Kf3 Ne1+ Kf2 Nxg2 Kxg2 Ke6 h5 gxh5"]
+[FEN "8/8/5kp1/5p2/5P1P/8/2n2KB1/8 w - - 12 70"]
+[SetUp "1"]
+
+70. Kf3 Ne1+ 71. Kf2 Nxg2 72. Kxg2 Ke6 73. h5 gxh5 *

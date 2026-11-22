@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08EWN"]
+[Difficulty "easy"]
+[Rating "1092"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/kf0Tiu6x/black#138"]
+[Solution "c3c2 e7e8 g8g7 f5f6"]
+[SolutionSAN "c2 Re8+ Kg7 f6#"]
+[FEN "6k1/4R3/6P1/5PK1/2r5/1bp5/8/8 b - - 2 69"]
+[SetUp "1"]
+
+69... c2 70. Re8+ Kg7 71. f6# *

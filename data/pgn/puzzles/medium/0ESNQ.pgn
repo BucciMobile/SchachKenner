@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ESNQ"]
+[Difficulty "medium"]
+[Rating "1314"]
+[Themes "advantage kingsideAttack middlegame pin short"]
+[GameUrl "https://lichess.org/game/gnXWhRt7#49"]
+[Solution "a2a4 h7h3 h1g1 d5d4"]
+[SolutionSAN "a4 Rxh3+ Kg1 Qd4+"]
+[FEN "4R3/ppkr2pr/2pb2p1/3q1p2/1P3P2/3P3P/P1PB2P1/R3Q2K w - - 0 25"]
+[SetUp "1"]
+
+25. a4 Rxh3+ 26. Kg1 Qd4+ *

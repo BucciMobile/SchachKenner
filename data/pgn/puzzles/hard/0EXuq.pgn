@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EXuq"]
+[Difficulty "hard"]
+[Rating "2519"]
+[Themes "crushing defensiveMove endgame fork long"]
+[GameUrl "https://lichess.org/game/zKWJaEoK/black#94"]
+[Solution "d5d4 e3f5 d4e5 f5g3 h5h4 g3e2"]
+[SolutionSAN "Kd4 Nf5+ Ke5 Nxg3 h4 Ne2"]
+[FEN "8/8/8/3k2pp/4p3/1P2N1b1/P2K4/8 b - - 1 47"]
+[SetUp "1"]
+
+47... Kd4 48. Nf5+ Ke5 49. Nxg3 h4 50. Ne2 *

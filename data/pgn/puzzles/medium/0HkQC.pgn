@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HkQC"]
+[Difficulty "medium"]
+[Rating "1632"]
+[Themes "advantage fork long middlegame pin"]
+[GameUrl "https://lichess.org/game/mRrlMpj1/black#22"]
+[Solution "b7c6 a1a8 c6b5 a8b8 d8b8 f4b8"]
+[SolutionSAN "Bc6 Rxa8 Bxb5 Rxb8 Qxb8 Bxb8"]
+[FEN "rn1qk1nr/1b3pbp/4p1p1/1Q1p4/3P1B2/2P1PN2/1P1N1PPP/R3K2R b KQkq - 0 11"]
+[SetUp "1"]
+
+11... Bc6 12. Rxa8 Bxb5 13. Rxb8 Qxb8 14. Bxb8 *

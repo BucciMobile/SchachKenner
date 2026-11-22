@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09cHt"]
+[Difficulty "easy"]
+[Rating "1117"]
+[Themes "crushing defensiveMove endgame master short"]
+[GameUrl "https://lichess.org/game/H16xWt8g/black#108"]
+[Solution "a2b2 d4b2 a3b2 d3d4"]
+[SolutionSAN "Rb2 Bxb2 axb2 d4"]
+[FEN "8/2p2k2/1p1p4/1P1P4/3BB3/p2P1K2/r7/8 b - - 1 54"]
+[SetUp "1"]
+
+54... Rb2 55. Bxb2 axb2 56. d4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08slT"]
+[Difficulty "hard"]
+[Rating "2477"]
+[Themes "advancedPawn attraction crushing defensiveMove endgame veryLong"]
+[GameUrl "https://lichess.org/game/qqgNWOis/black#54"]
+[Solution "d8d4 h5g6 d4f4 g6f7 f6f7 g4e6 f7g7 e1d1"]
+[SolutionSAN "Rd4 hxg6 Rxf4 gxf7 Kxf7 Qxe6+ Kg7 Rd1"]
+[FEN "3r4/ppq2p2/2p1pkpp/7P/1PP2PQ1/8/P5P1/4R1K1 b - - 2 27"]
+[SetUp "1"]
+
+27... Rd4 28. hxg6 Rxf4 29. gxf7 Kxf7 30. Qxe6+ Kg7 31. Rd1 *

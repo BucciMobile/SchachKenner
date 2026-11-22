@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00TTm"]
+[Difficulty "easy"]
+[Rating "822"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/KVkwZhJj/black#30"]
+[Solution "f7g8 g6f7"]
+[SolutionSAN "Kg8 Bf7#"]
+[FEN "r4b1r/pppqpkpp/6B1/7Q/2PP4/2N1P2P/PP4P1/R5K1 b - - 0 15"]
+[SetUp "1"]
+
+15... Kg8 16. Bf7# *

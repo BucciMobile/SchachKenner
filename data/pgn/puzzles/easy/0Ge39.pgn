@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ge39"]
+[Difficulty "easy"]
+[Rating "1120"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/WEzAeEGs#75"]
+[Solution "f2e3 g2e2 e3d4 c1b3"]
+[SolutionSAN "Ke3 Re2+ Kd4 Nb3#"]
+[FEN "6k1/R5p1/1P6/4N1p1/2N1b3/2P5/5Kr1/2n5 w - - 0 38"]
+[SetUp "1"]
+
+38. Ke3 Re2+ 39. Kd4 Nb3# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kw4g"]
+[Difficulty "hard"]
+[Rating "2656"]
+[Themes "advantage discoveredAttack discoveredCheck exposedKing kingsideAttack middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/Xc5O55kf/black#62"]
+[Solution "f8g7 g5h7 g7g1 h7g5 h8g7 h4h7 g7f6 h7f5"]
+[SolutionSAN "Qg7 Nxh7 Qxg1 Ng5+ Kg7 Qh7+ Kf6 Qf5+"]
+[FEN "r4q1k/1pp2b1n/1bnp4/p3p1N1/1P2P2Q/P1NP3P/1KP5/6R1 b - - 3 31"]
+[SetUp "1"]
+
+31... Qg7 32. Nxh7 Qxg1 33. Ng5+ Kg7 34. Qh7+ Kf6 35. Qf5+ *

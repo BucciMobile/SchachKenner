@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ALPr"]
+[Difficulty "easy"]
+[Rating "1131"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/PHqthoG5#49"]
+[Solution "g7h8 e5f3 g2f3 b2h8"]
+[SolutionSAN "Qxh8 Nf3+ gxf3 Qxh8"]
+[FEN "r1b4r/p5Qp/1kpp4/1p2n3/5B2/1B6/Pq3PPP/3R1RK1 w - - 1 25"]
+[SetUp "1"]
+
+25. Qxh8 Nf3+ 26. gxf3 Qxh8 *

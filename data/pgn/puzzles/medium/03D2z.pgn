@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03D2z"]
+[Difficulty "medium"]
+[Rating "1548"]
+[Themes "crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/AcjAxQX0#39"]
+[Solution "f4e5 h4g3 g1h1 g3h3"]
+[SolutionSAN "fxe5 Qg3+ Kh1 Qxh3+"]
+[FEN "3r1rk1/ppp2ppp/4b3/4n3/1PP1PPPq/P6P/2QNB3/R4RK1 w - - 1 20"]
+[SetUp "1"]
+
+20. fxe5 Qg3+ 21. Kh1 Qxh3+ *

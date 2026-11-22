@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03xW3"]
+[Difficulty "hard"]
+[Rating "2558"]
+[Themes "attraction crushing endgame fork master veryLong"]
+[GameUrl "https://lichess.org/game/IJAQ7ZFY/black#100"]
+[Solution "g7g6 f5g6 h7g6 e5e6 g6g7 e6c6 d8d1 e3f3 f7f3 c6f3"]
+[SolutionSAN "g6 fxg6+ Kxg6 Qe6+ Kg7 Qxc6 Qd1+ Rf3 Rxf3 Qxf3"]
+[FEN "3q4/p4rpk/1pb5/4QPP1/2P3K1/1P2R2P/P7/8 b - - 2 50"]
+[SetUp "1"]
+
+50... g6 51. fxg6+ Kxg6 52. Qe6+ Kg7 53. Qxc6 Qd1+ 54. Rf3 Rxf3 55. Qxf3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02hgA"]
+[Difficulty "hard"]
+[Rating "2303"]
+[Themes "bishopEndgame crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/Q3FMCmtd/black#60"]
+[Solution "e6f5 g4f5 g6f5 e4f5 h6h5 e5e6 f7e6 f5e6"]
+[SolutionSAN "exf5+ gxf5 gxf5+ Kxf5 h5 e6 fxe6+ Kxe6"]
+[FEN "8/p1k1bp2/1p2p1pp/4PP2/2p1K1P1/P1P1B3/1P4P1/8 b - - 0 30"]
+[SetUp "1"]
+
+30... exf5+ 31. gxf5 gxf5+ 32. Kxf5 h5 33. e6 fxe6+ 34. Kxe6 *

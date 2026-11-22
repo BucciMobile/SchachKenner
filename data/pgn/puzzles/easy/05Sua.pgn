@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Sua"]
+[Difficulty "easy"]
+[Rating "1136"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/FxpS3pxw#49"]
+[Solution "a3a7 d8d1 g2f1 d1c1 a7b8 g8h7"]
+[SolutionSAN "Qxa7 Rd1+ Bf1 Rxc1 Qb8+ Kh7"]
+[FEN "3r2k1/pp3pp1/2b4p/7q/4p3/Q3P1P1/PP3PBP/2R3K1 w - - 0 25"]
+[SetUp "1"]
+
+25. Qxa7 Rd1+ 26. Bf1 Rxc1 27. Qb8+ Kh7 *

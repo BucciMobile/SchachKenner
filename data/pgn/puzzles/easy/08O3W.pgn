@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08O3W"]
+[Difficulty "easy"]
+[Rating "614"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/4670pvOx#69"]
+[Solution "g2e4 b5f1"]
+[SolutionSAN "Bxe4 Qxf1#"]
+[FEN "3r4/3P2pk/7p/1q3p2/4nP2/P3Q1P1/5PBP/5R1K w - - 3 35"]
+[SetUp "1"]
+
+35. Bxe4 Qxf1# *

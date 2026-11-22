@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KrP2"]
+[Difficulty "hard"]
+[Rating "1941"]
+[Themes "crushing deflection endgame pawnEndgame veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/t9lYId1V/black#82"]
+[Solution "d5d6 f4e4 d6c7 e4d5 c7d7 a4a5 b6a5 d5c5"]
+[SolutionSAN "Kd6 Ke4 Kc7 Kd5 Kd7 a5 bxa5 Kxc5"]
+[FEN "8/p7/1p3p2/1Ppk1P2/P2p1K2/3P4/2P5/8 b - - 1 41"]
+[SetUp "1"]
+
+41... Kd6 42. Ke4 Kc7 43. Kd5 Kd7 44. a5 bxa5 45. Kxc5 *

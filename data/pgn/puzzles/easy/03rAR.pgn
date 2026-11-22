@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03rAR"]
+[Difficulty "easy"]
+[Rating "1156"]
+[Themes "discoveredCheck doubleCheck endgame mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/P8QgcLOi#75"]
+[Solution "f4g4 h5g4"]
+[SolutionSAN "Rxg4+ hxg4#"]
+[FEN "b6r/4Q1p1/p3p1k1/2p2p1p/5Rq1/P5BK/1P5P/8 w - - 2 38"]
+[SetUp "1"]
+
+38. Rxg4+ hxg4# *

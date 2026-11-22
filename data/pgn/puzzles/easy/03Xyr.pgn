@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Xyr"]
+[Difficulty "easy"]
+[Rating "818"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/BHoPeeWL#63"]
+[Solution "f5h7 e7e1 d1e1 e8e1"]
+[SolutionSAN "Qh7 Re1+ Rxe1 Rxe1#"]
+[FEN "4rk2/1pq1rpb1/2p4p/5Q1P/p2P2R1/P7/BP3PP1/3R2K1 w - - 3 32"]
+[SetUp "1"]
+
+32. Qh7 Re1+ 33. Rxe1 Rxe1# *

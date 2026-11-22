@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0L2jl"]
+[Difficulty "hard"]
+[Rating "2037"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/MSpOWsRW/black#100"]
+[Solution "h6h5 g6f6 a1e1 a7a2"]
+[SolutionSAN "h5 Kxf6 Re1 Rxa2"]
+[FEN "5k2/R7/5pKp/8/6P1/5P2/p7/r7 b - - 7 50"]
+[SetUp "1"]
+
+50... h5 51. Kxf6 Re1 52. Rxa2 *

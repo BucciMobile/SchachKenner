@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05JKA"]
+[Difficulty "hard"]
+[Rating "1798"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/P2IcicUT#75"]
+[Solution "f7h7 h4g5 h7e7 e4e7"]
+[SolutionSAN "Qxh7+ Kg5 Qxe7+ Qxe7"]
+[FEN "8/3NpQ1p/3p2p1/3P4/1p2qn1k/1P6/5PP1/5K2 w - - 0 38"]
+[SetUp "1"]
+
+38. Qxh7+ Kg5 39. Qxe7+ Qxe7 *

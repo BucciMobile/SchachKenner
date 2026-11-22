@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BheF"]
+[Difficulty "hard"]
+[Rating "2282"]
+[Themes "advantage attraction kingsideAttack long middlegame pin sacrifice"]
+[GameUrl "https://lichess.org/game/mS7m3Ogb/black#58"]
+[Solution "a8f8 h6h7 g8h7 d3g6 h7g8 g6h7"]
+[SolutionSAN "Rf8 Rxh7 Kxh7 Bxg6+ Kg8 Bh7+"]
+[FEN "r5k1/1ppb2rp/4p1pR/1P1pP3/pq3PQ1/3B4/2PbN2P/6RK b - - 8 29"]
+[SetUp "1"]
+
+29... Rf8 30. Rxh7 Kxh7 31. Bxg6+ Kg8 32. Bh7+ *

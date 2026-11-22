@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00xNH"]
+[Difficulty "hard"]
+[Rating "1895"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/69SEvfvy/black#28"]
+[Solution "e8e3 g5e3 f2e3 d3e3"]
+[SolutionSAN "Re3 Bxe3 Bxe3+ Qxe3"]
+[FEN "r2qr1k1/p4ppp/2p2n2/3p2B1/6b1/2NQ1N1P/PPP2bP1/2KR3R b - - 0 14"]
+[SetUp "1"]
+
+14... Re3 15. Bxe3 Bxe3+ 16. Qxe3 *

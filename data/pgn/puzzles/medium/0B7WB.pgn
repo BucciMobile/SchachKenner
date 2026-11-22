@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B7WB"]
+[Difficulty "medium"]
+[Rating "1540"]
+[Themes "crushing endgame exposedKing long"]
+[GameUrl "https://lichess.org/game/RIFusAB0/black#86"]
+[Solution "h5h4 g7g8 f3f8 g8e6 e8d8 e6d6"]
+[SolutionSAN "h4 Qg8+ Rf8 Qe6+ Kd8 Qxd6+"]
+[FEN "4k3/1p4Q1/p2p4/4p2p/8/5r2/1PP3RK/4q3 b - - 3 43"]
+[SetUp "1"]
+
+43... h4 44. Qg8+ Rf8 45. Qe6+ Kd8 46. Qxd6+ *

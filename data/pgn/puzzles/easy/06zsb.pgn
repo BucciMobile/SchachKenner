@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06zsb"]
+[Difficulty "easy"]
+[Rating "1131"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/es1uJiLA#55"]
+[Solution "d1d2 c3a1"]
+[SolutionSAN "Rd2 Qa1#"]
+[FEN "8/2r1kpp1/p3p2p/8/1p3P2/1Pq3P1/P1P1Q2P/2KR4 w - - 1 28"]
+[SetUp "1"]
+
+28. Rd2 Qa1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KVKW"]
+[Difficulty "medium"]
+[Rating "1603"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/OLrPe8Ru#53"]
+[Solution "e3e4 e8e4 e1e4 a8d8 d6b4 c6b4"]
+[SolutionSAN "Rxe4 Rxe4 Rxe4 Rd8 Bb4 Nxb4"]
+[FEN "r3r3/pp3k2/2nB3p/6p1/4p3/P3R3/5PPP/4R1K1 w - - 2 27"]
+[SetUp "1"]
+
+27. Rxe4 Rxe4 28. Rxe4 Rd8 29. Bb4 Nxb4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07jP3"]
+[Difficulty "medium"]
+[Rating "1513"]
+[Themes "middlegame"]
+[GameUrl "https://lichess.org/game/WvxeqmZA#35"]
+[Solution "c2c3 d4b5 d2d8 h8d8 d1d8 e7d8"]
+[SolutionSAN "c3 Nxb5 Rxd8 Rxd8 Rxd8 Kxd8"]
+[FEN "3r3r/ppp1kp2/4bp1p/1B2p3/3nP2N/1P3P2/P1PR2PP/2KR4 w - - 1 18"]
+[SetUp "1"]
+
+18. c3 Nxb5 19. Rxd8 Rxd8 20. Rxd8 Kxd8 *

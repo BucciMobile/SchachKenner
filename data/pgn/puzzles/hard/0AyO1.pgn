@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AyO1"]
+[Difficulty "hard"]
+[Rating "1747"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/BETUreAR#53"]
+[Solution "f3h4 b2c3 f1c1 d8d1 c1d1 c3a5"]
+[SolutionSAN "Nh4 Bc3 Rc1 Rd1+ Rxd1 Bxa5"]
+[FEN "3r4/2n3k1/p4ppp/Qpq5/8/1P3NP1/Pb2PPBP/5RK1 w - - 0 27"]
+[SetUp "1"]
+
+27. Nh4 Bc3 28. Rc1 Rd1+ 29. Rxd1 Bxa5 *

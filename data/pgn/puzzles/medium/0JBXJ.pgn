@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JBXJ"]
+[Difficulty "medium"]
+[Rating "1271"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/gUQtSado/black#36"]
+[Solution "d8g5 h5f7 g8h8 f7h7"]
+[SolutionSAN "Qg5 Qxf7+ Kh8 Qh7#"]
+[FEN "r2qr1k1/pbp2p2/1pn1p2p/4P2Q/3P4/2PB2P1/P5PP/1R3RK1 b - - 1 18"]
+[SetUp "1"]
+
+18... Qg5 19. Qxf7+ Kh8 20. Qh7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01TSj"]
+[Difficulty "easy"]
+[Rating "1066"]
+[Themes "advantage fork master middlegame short"]
+[GameUrl "https://lichess.org/game/URzdXeO5#45"]
+[Solution "f3e4 f5g4 e2e3 g4h5"]
+[SolutionSAN "fxe4 Bg4+ Ke3 Bxh5"]
+[FEN "3r1r1k/ppp2Pb1/7p/4pbNR/4n3/BPP2P2/P3K1P1/R7 w - - 0 23"]
+[SetUp "1"]
+
+23. fxe4 Bg4+ 24. Ke3 Bxh5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03MuM"]
+[Difficulty "easy"]
+[Rating "877"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/obE4zTFL#31"]
+[Solution "f3d4 c6d4 b2d4 d8d4"]
+[SolutionSAN "Nxd4 Nxd4 Bxd4 Qxd4"]
+[FEN "r2q1rk1/1pp2ppb/2n1pn1p/p7/2Pp4/PP1P1NPP/1B1QPPB1/R4RK1 w - - 1 16"]
+[SetUp "1"]
+
+16. Nxd4 Nxd4 17. Bxd4 Qxd4 *

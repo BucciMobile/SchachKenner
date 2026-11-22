@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GM9S"]
+[Difficulty "easy"]
+[Rating "540"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/y3JigKot/black#116"]
+[Solution "a4c6 a7g7"]
+[SolutionSAN "Bc6 Qxg7#"]
+[FEN "8/Q5pk/7p/p2q4/b2B4/4P2P/6PK/8 b - - 3 58"]
+[SetUp "1"]
+
+58... Bc6 59. Qxg7# *

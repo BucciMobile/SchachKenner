@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ga8y"]
+[Difficulty "hard"]
+[Rating "1870"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/LQEYe8jm/black#64"]
+[Solution "a7f7 h6h8 f8e7 h5e2"]
+[SolutionSAN "Rf7 Rh8+ Ke7 Qe2+"]
+[FEN "4rk2/r7/p1p2p1R/1p1p3Q/3P1q1P/2N5/PPK5/8 b - - 0 32"]
+[SetUp "1"]
+
+32... Rf7 33. Rh8+ Ke7 34. Qe2+ *

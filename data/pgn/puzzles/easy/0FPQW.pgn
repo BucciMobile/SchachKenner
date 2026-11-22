@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FPQW"]
+[Difficulty "easy"]
+[Rating "907"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/aolTDA7R/black#110"]
+[Solution "c3d5 d3c5 b7c7 c5d7"]
+[SolutionSAN "Nxd5 Nc5+ Kc7 Nxd7"]
+[FEN "8/1k1r3p/7R/3P4/1p4K1/2nN1PP1/8/8 b - - 1 55"]
+[SetUp "1"]
+
+55... Nxd5 56. Nc5+ Kc7 57. Nxd7 *

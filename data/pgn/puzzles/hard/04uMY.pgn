@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04uMY"]
+[Difficulty "hard"]
+[Rating "2102"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/0qx8yoGA#75"]
+[Solution "c5e6 f7e6 e1e6 e8e7 e6e7 d6e7"]
+[SolutionSAN "Ne6 fxe6 Rxe6 Rxe7 Rxe7+ Bxe7"]
+[FEN "4r3/pp2Pp1k/2qb2pp/2N5/3Q4/1P4P1/P4P1P/4R1K1 w - - 1 38"]
+[SetUp "1"]
+
+38. Ne6 fxe6 39. Rxe6 Rxe7 40. Rxe7+ Bxe7 *

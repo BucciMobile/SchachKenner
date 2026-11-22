@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08lAo"]
+[Difficulty "hard"]
+[Rating "2449"]
+[Themes "crushing discoveredAttack discoveredCheck endgame master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/lT3jdOTD#89"]
+[Solution "d4f3 g4f2 h1g1 f2e4"]
+[SolutionSAN "Nf3 Nxf2+ Kg1 Nxe4+"]
+[FEN "8/8/7k/2b4p/2PNBpnq/3P4/1Q3P1P/7K w - - 9 45"]
+[SetUp "1"]
+
+45. Nf3 Nxf2+ 46. Kg1 Nxe4+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IGJh"]
+[Difficulty "medium"]
+[Rating "1303"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/s8XhYP4G#103"]
+[Solution "f3f4 g5f4 h2g2 c4c3 g2f3 c3c2"]
+[SolutionSAN "Qxf4 gxf4 Kg2 c3 Kf3 c2"]
+[FEN "6k1/8/5pp1/p5p1/2pP1qP1/5Q1P/P4P1K/8 w - - 5 52"]
+[SetUp "1"]
+
+52. Qxf4 gxf4 53. Kg2 c3 54. Kf3 c2 *

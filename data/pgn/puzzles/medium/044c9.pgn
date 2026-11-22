@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "044c9"]
+[Difficulty "medium"]
+[Rating "1435"]
+[Themes "advantage clearance endgame exposedKing fork long"]
+[GameUrl "https://lichess.org/game/UhBDboRX#81"]
+[Solution "c3c4 b4c4 c1c4 b8b1 f1f2 b1a1"]
+[SolutionSAN "Rc4 Rxc4 Rxc4 Rb1+ Kf2 Rxa1"]
+[FEN "1r4k1/2n2p2/2P1p1p1/8/1r2P2P/2R2P2/8/B1R2K2 w - - 2 41"]
+[SetUp "1"]
+
+41. Rc4 Rxc4 42. Rxc4 Rb1+ 43. Kf2 Rxa1 *

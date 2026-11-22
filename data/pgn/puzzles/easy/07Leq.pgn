@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Leq"]
+[Difficulty "easy"]
+[Rating "833"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/0XCnPKpA/black#76"]
+[Solution "d2c2 c4c2 d4c2 b1c2"]
+[SolutionSAN "Qxc2+ Qxc2 Nxc2 Kxc2"]
+[FEN "1r6/5pk1/3p4/6p1/2QnP3/1P3P2/P1Bq4/1K1R4 b - - 8 38"]
+[SetUp "1"]
+
+38... Qxc2+ 39. Qxc2 Nxc2 40. Kxc2 *

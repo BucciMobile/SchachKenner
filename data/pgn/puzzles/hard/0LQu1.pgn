@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LQu1"]
+[Difficulty "hard"]
+[Rating "2439"]
+[Themes "advancedPawn advantage attraction endgame promotion queenRookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/1ywauyuC#73"]
+[Solution "h5f5 f4f5 h8h5 f5f4 h5g6 e1c1 b1c1 f2f1q"]
+[SolutionSAN "Rxf5+ Kxf5 Qh5+ Kf4 Qxg6 Rxc1+ Kxc1 f1=Q+"]
+[FEN "7Q/pp2p3/3p2r1/3P1q1R/5kp1/1P6/P1P2p2/1KR1r3 w - - 10 37"]
+[SetUp "1"]
+
+37. Rxf5+ Kxf5 38. Qh5+ Kf4 39. Qxg6 Rxc1+ 40. Kxc1 f1=Q+ *

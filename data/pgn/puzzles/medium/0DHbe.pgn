@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DHbe"]
+[Difficulty "medium"]
+[Rating "1514"]
+[Themes "advantage clearance middlegame veryLong"]
+[GameUrl "https://lichess.org/game/ZrElIjd7#55"]
+[Solution "d2b2 b4b3 a2a3 b7b4 a3b4 b8b4 f1h3 a4a3"]
+[SolutionSAN "Rb2 b3 Qa3 Qb4 Qxb4 Rxb4 Bh3 a3"]
+[FEN "1r5k/rq4pp/2p2p2/8/pp1P1P2/4P3/Q2R1P1P/2K2BR1 w - - 2 28"]
+[SetUp "1"]
+
+28. Rb2 b3 29. Qa3 Qb4 30. Qxb4 Rxb4 31. Bh3 a3 *

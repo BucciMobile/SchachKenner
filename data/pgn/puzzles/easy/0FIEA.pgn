@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FIEA"]
+[Difficulty "easy"]
+[Rating "962"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/rMoJply7/black#96"]
+[Solution "h6h5 c7h7 h5g4 h7h4"]
+[SolutionSAN "Kh5 Rh7+ Kg4 Rh4#"]
+[FEN "8/2R5/6pk/5p2/5P2/6P1/6K1/r7 b - - 13 48"]
+[SetUp "1"]
+
+48... Kh5 49. Rh7+ Kg4 50. Rh4# *

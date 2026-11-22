@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08fCe"]
+[Difficulty "easy"]
+[Rating "1037"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/AsASQk50#59"]
+[Solution "b7e7 c3c1 b1c1 c8c1"]
+[SolutionSAN "Re7 Rc1+ Rxc1 Rxc1#"]
+[FEN "2r4k/1R3Qpp/p7/4q3/8/2r4P/5PP1/1R4K1 w - - 1 30"]
+[SetUp "1"]
+
+30. Re7 Rc1+ 31. Rxc1 Rxc1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ItEX"]
+[Difficulty "easy"]
+[Rating "690"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/o5o7cEQ7/black#18"]
+[Solution "e8f8 h5f7"]
+[SolutionSAN "Kf8 Qf7#"]
+[FEN "rnbqk1nr/ppp3bp/3p1p2/7Q/2B1P3/8/PPPP2PP/RNB2RK1 b kq - 3 9"]
+[SetUp "1"]
+
+9... Kf8 10. Qf7# *

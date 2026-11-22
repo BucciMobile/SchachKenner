@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02SQK"]
+[Difficulty "hard"]
+[Rating "1986"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame operaMate pin sacrifice"]
+[GameUrl "https://lichess.org/game/cFnIZHq6/black#38"]
+[Solution "g7g6 h5h7 g8h7 e5h5 h7g8 h5h8"]
+[SolutionSAN "g6 Qxh7+ Kxh7 Rh5+ Kg8 Rh8#"]
+[FEN "1r2r1k1/3nbppp/p1q1p3/3pR2Q/3B4/3B4/PPP2PPP/R5K1 b - - 9 19"]
+[SetUp "1"]
+
+19... g6 20. Qxh7+ Kxh7 21. Rh5+ Kg8 22. Rh8# *

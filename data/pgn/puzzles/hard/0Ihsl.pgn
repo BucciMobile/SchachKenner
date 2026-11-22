@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ihsl"]
+[Difficulty "hard"]
+[Rating "2295"]
+[Themes "discoveredAttack discoveredCheck endgame exposedKing mate mateIn4 veryLong"]
+[GameUrl "https://lichess.org/game/laqIAhCl#89"]
+[Solution "f2e1 e2c3 c7e7 e8e7 d6e7 f4e3 f1e2 e3e2"]
+[SolutionSAN "Ke1 Nc3+ Re7 Rxe7+ dxe7 Qe3+ Qe2 Qxe2#"]
+[FEN "4r2k/P1R2Bp1/3P4/8/5q2/7P/4nK1P/5Q2 w - - 5 45"]
+[SetUp "1"]
+
+45. Ke1 Nc3+ 46. Re7 Rxe7+ 47. dxe7 Qe3+ 48. Qe2 Qxe2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HbZn"]
+[Difficulty "medium"]
+[Rating "1673"]
+[Themes "advancedPawn crushing defensiveMove endgame promotion rookEndgame short"]
+[GameUrl "https://lichess.org/game/SPpRPyYh/black#120"]
+[Solution "a4a3 f3g2 b2b1q g7g8q"]
+[SolutionSAN "Ra3+ Kg2 b1=Q g8=Q+"]
+[FEN "8/6PP/4k3/8/r7/5K2/1p3P2/8 b - - 2 60"]
+[SetUp "1"]
+
+60... Ra3+ 61. Kg2 b1=Q 62. g8=Q+ *

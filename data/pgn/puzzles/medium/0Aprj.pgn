@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Aprj"]
+[Difficulty "medium"]
+[Rating "1598"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/OH2IdbAe#107"]
+[Solution "g3g2 f6e5 h2g1 e2e1"]
+[SolutionSAN "Qg2 Be5+ Kg1 Qe1+"]
+[FEN "8/3R2pk/1pP2bp1/1P6/8/3p2Q1/4q2K/8 w - - 6 54"]
+[SetUp "1"]
+
+54. Qg2 Be5+ 55. Kg1 Qe1+ *

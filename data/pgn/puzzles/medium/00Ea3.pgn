@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Ea3"]
+[Difficulty "medium"]
+[Rating "1315"]
+[Themes "crushing fork long middlegame"]
+[GameUrl "https://lichess.org/game/6TJRc5H1/black#58"]
+[Solution "g6e5 d4e5 d6c5 b5c5 b6c5 e5f6"]
+[SolutionSAN "Nxe5 dxe5 Qc5+ Qxc5 bxc5 exf6+"]
+[FEN "3r4/p5k1/1p1qprnp/1Q1pN1p1/3P1pP1/1PP5/P5PP/4RRK1 b - - 3 29"]
+[SetUp "1"]
+
+29... Nxe5 30. dxe5 Qc5+ 31. Qxc5 bxc5 32. exf6+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07np6"]
+[Difficulty "hard"]
+[Rating "2426"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/P7LrlVBY#45"]
+[Solution "f1c1 d5c5 c1b1 c5f5"]
+[SolutionSAN "Rc1 Rc5 Rb1 Rxf5"]
+[FEN "4r1k1/p4ppp/1pN5/3r1B2/8/8/PP3PPP/5RK1 w - - 3 23"]
+[SetUp "1"]
+
+23. Rc1 Rc5 24. Rb1 Rxf5 *

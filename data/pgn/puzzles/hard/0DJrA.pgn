@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DJrA"]
+[Difficulty "hard"]
+[Rating "2255"]
+[Themes "crushing master middlegame veryLong"]
+[GameUrl "https://lichess.org/game/39MH2yKJ#71"]
+[Solution "e2d2 b4b3 a2a1 a3c4 e6e7 f8e7 d2g5 g7f6 g5f6 e7f6"]
+[SolutionSAN "Qd2 Qb3+ Ka1 Nc4 e7+ Kxe7 Qg5+ Bf6 Qxf6+ Kxf6"]
+[FEN "5k2/6b1/3pP3/1P6/pq2B2r/n4P2/KP2Q2P/3R3R w - - 2 36"]
+[SetUp "1"]
+
+36. Qd2 Qb3+ 37. Ka1 Nc4 38. e7+ Kxe7 39. Qg5+ Bf6 40. Qxf6+ Kxf6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jozb"]
+[Difficulty "easy"]
+[Rating "1014"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove operaMate"]
+[GameUrl "https://lichess.org/game/pPuyZjxk#43"]
+[Solution "d5e7 c1f1"]
+[SolutionSAN "Nxe7 Rxf1#"]
+[FEN "3k1b1r/3nq1pp/p7/1p1N4/3P1B2/1Q1bP2B/PP3PPP/2r2RK1 w - - 0 22"]
+[SetUp "1"]
+
+22. Nxe7 Rxf1# *

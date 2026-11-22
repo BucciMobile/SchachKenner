@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GVwr"]
+[Difficulty "medium"]
+[Rating "1468"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/99TnC9ft#83"]
+[Solution "e4e5 g5f7 e5d5 f7d6"]
+[SolutionSAN "Ke5 Nf7+ Kd5 Nxd6"]
+[FEN "8/pp6/3R1rk1/2P3n1/1P2K2p/5p2/P7/5R2 w - - 2 42"]
+[SetUp "1"]
+
+42. Ke5 Nf7+ 43. Kd5 Nxd6 *

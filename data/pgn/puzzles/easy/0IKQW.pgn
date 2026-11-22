@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IKQW"]
+[Difficulty "easy"]
+[Rating "1010"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/JnjMBKSI#83"]
+[Solution "c3e1 e6e1"]
+[SolutionSAN "Qxe1 Qxe1#"]
+[FEN "8/7k/2p1q2p/8/5P2/1PQP2Pb/P1P4P/4r1K1 w - - 11 42"]
+[SetUp "1"]
+
+42. Qxe1 Qxe1# *

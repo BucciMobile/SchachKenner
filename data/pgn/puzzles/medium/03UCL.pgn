@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03UCL"]
+[Difficulty "medium"]
+[Rating "1249"]
+[Themes "master mate mateIn2 middlegame pillsburysMate short"]
+[GameUrl "https://lichess.org/game/9Y2yoTS4#65"]
+[Solution "a3b2 c8a8 f3a8 f8a8"]
+[SolutionSAN "Bb2 Ra8+ Qxa8 Rxa8#"]
+[FEN "2r2rk1/5p2/6P1/5b2/3q4/B4Q2/8/K5RR w - - 0 33"]
+[SetUp "1"]
+
+33. Bb2 Ra8+ 34. Qxa8 Rxa8# *

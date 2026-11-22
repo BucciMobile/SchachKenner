@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02li3"]
+[Difficulty "easy"]
+[Rating "640"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/dl612mnu#27"]
+[Solution "h1g1 c7h2"]
+[SolutionSAN "Kxg1 Qh2#"]
+[FEN "rn2k2r/ppq2pp1/2p1pnp1/8/4N3/P2P1B2/1PP2PP1/R1BQ1RbK w kq - 4 14"]
+[SetUp "1"]
+
+14. Kxg1 Qh2# *

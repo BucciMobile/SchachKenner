@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OnT2"]
+[Difficulty "medium"]
+[Rating "1471"]
+[Themes "capturingDefender crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/yG4OD0F6/black#62"]
+[Solution "e6e5 e2e5 d7e5 f3d5"]
+[SolutionSAN "Rxe5 Rxe5 Nxe5 Qxd5+"]
+[FEN "4q1k1/pp1n2r1/4r2p/3pP1pP/2p2p2/2P2Q2/PP2RPP1/2B1R1K1 b - - 2 31"]
+[SetUp "1"]
+
+31... Rxe5 32. Rxe5 Nxe5 33. Qxd5+ *

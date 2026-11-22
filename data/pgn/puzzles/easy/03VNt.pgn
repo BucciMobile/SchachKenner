@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03VNt"]
+[Difficulty "easy"]
+[Rating "1185"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/WZaAAakv/black#42"]
+[Solution "d7d6 e2e8 a8e8 e1e8"]
+[SolutionSAN "Qxd6 Rxe8+ Rxe8 Rxe8#"]
+[FEN "r3rk2/ppNq1ppp/2pQ2n1/3P4/2P5/7P/PP2RPP1/4R1K1 b - - 3 21"]
+[SetUp "1"]
+
+21... Qxd6 22. Rxe8+ Rxe8 23. Rxe8# *

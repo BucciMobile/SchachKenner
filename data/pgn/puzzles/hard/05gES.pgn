@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05gES"]
+[Difficulty "hard"]
+[Rating "2135"]
+[Themes "advantage hangingPiece long middlegame"]
+[GameUrl "https://lichess.org/game/ppQl8hai#63"]
+[Solution "e3d5 c7d8 d5e7 f8e7 d1d8 e7d8"]
+[SolutionSAN "Nd5 Qxd8 Ne7+ Bxe7 Rxd8+ Bxd8"]
+[FEN "3R1bk1/2q2n1p/rn2rPp1/2p1p3/p3P3/1P2NN1P/PBQ2P2/3R2K1 w - - 1 32"]
+[SetUp "1"]
+
+32. Nd5 Qxd8 33. Ne7+ Bxe7 34. Rxd8+ Bxd8 *

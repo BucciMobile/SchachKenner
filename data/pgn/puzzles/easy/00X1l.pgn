@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00X1l"]
+[Difficulty "easy"]
+[Rating "848"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/IPGWdtue/black#60"]
+[Solution "f3g2 f1f8"]
+[SolutionSAN "fxg2 Rxf8#"]
+[FEN "5r1k/Q6p/1pb3p1/4q3/4p3/1BP2p1P/PP4P1/5RK1 b - - 0 30"]
+[SetUp "1"]
+
+30... fxg2 31. Rxf8# *

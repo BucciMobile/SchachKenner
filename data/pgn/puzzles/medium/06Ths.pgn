@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Ths"]
+[Difficulty "medium"]
+[Rating "1678"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/Wjfd2Uzr#89"]
+[Solution "a1a3 a8a3 c3a3 d5d4"]
+[SolutionSAN "Rxa3 Rxa3 Qxa3 Qxd4+"]
+[FEN "r5k1/5p2/6p1/2Pq3p/3P4/p1Q3RP/4r1P1/R5K1 w - - 0 45"]
+[SetUp "1"]
+
+45. Rxa3 Rxa3 46. Qxa3 Qxd4+ *

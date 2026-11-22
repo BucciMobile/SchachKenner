@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GSvU"]
+[Difficulty "hard"]
+[Rating "2405"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/urK5oVHo/black#42"]
+[Solution "c7e7 f3e5 e7e6 e5c6 d8d1 a1d1"]
+[SolutionSAN "Re7 Ne5 Rxe6 Nxc6 Rxd1+ Rxd1"]
+[FEN "3r2k1/p1r2ppp/bpn1P3/2p5/2P2B2/2P2N2/P5PP/R2R2K1 b - - 0 21"]
+[SetUp "1"]
+
+21... Re7 22. Ne5 Rxe6 23. Nxc6 Rxd1+ 24. Rxd1 *

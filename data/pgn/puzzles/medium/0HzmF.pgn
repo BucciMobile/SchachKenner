@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HzmF"]
+[Difficulty "medium"]
+[Rating "1610"]
+[Themes "crushing endgame long skewer"]
+[GameUrl "https://lichess.org/game/SrL89wsG/black#74"]
+[Solution "h5f7 a4a6 b6c7 a6a7 c7d6 a7f7"]
+[SolutionSAN "Qxf7 Qa6+ Kc7 Qa7+ Kd6 Qxf7"]
+[FEN "3r3r/5Rp1/1k5p/1Bp4q/QpP1P3/4K3/1P4P1/8 b - - 3 37"]
+[SetUp "1"]
+
+37... Qxf7 38. Qa6+ Kc7 39. Qa7+ Kd6 40. Qxf7 *

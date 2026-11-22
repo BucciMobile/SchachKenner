@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07zgd"]
+[Difficulty "medium"]
+[Rating "1639"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/Eo3vLfY6#23"]
+[Solution "a2a3 a5a4"]
+[SolutionSAN "a3 a4#"]
+[FEN "r3kb1r/1p3ppp/8/p7/1nP1n1b1/1K2BN2/PP3PPP/RN3B1R w kq - 0 12"]
+[SetUp "1"]
+
+12. a3 a4# *

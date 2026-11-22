@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ia3k"]
+[Difficulty "hard"]
+[Rating "1893"]
+[Themes "advancedPawn crushing middlegame quietMove short"]
+[GameUrl "https://lichess.org/game/MSH5gvDd/black#52"]
+[Solution "f8f7 b1e1 a6c7 d6c7"]
+[SolutionSAN "Rf7 Re1 Nc7 dxc7"]
+[FEN "2b2r1k/p2p2pp/n1pP1p2/2q2N2/6Q1/P6P/5PP1/1R4K1 b - - 1 26"]
+[SetUp "1"]
+
+26... Rf7 27. Re1 Nc7 28. dxc7 *

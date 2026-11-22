@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0421L"]
+[Difficulty "medium"]
+[Rating "1555"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/qhRlerYE/black#78"]
+[Solution "a1c1 f6h4"]
+[SolutionSAN "Qc1 Qh4#"]
+[FEN "r7/p7/bp2NQpk/2p5/3p4/3P4/PPP1K2P/q7 b - - 0 39"]
+[SetUp "1"]
+
+39... Qc1 40. Qh4# *

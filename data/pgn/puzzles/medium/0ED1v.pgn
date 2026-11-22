@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ED1v"]
+[Difficulty "medium"]
+[Rating "1476"]
+[Themes "crushing endgame pawnEndgame quietMove short zugzwang"]
+[GameUrl "https://lichess.org/game/at6JQw8E#117"]
+[Solution "f2e2 g5g4 e2f2 e4d3"]
+[SolutionSAN "Ke2 g4 Kf2 Kd3"]
+[FEN "8/8/8/5pp1/4k3/4P1P1/5K2/8 w - - 0 59"]
+[SetUp "1"]
+
+59. Ke2 g4 60. Kf2 Kd3 *

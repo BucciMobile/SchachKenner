@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AT9p"]
+[Difficulty "hard"]
+[Rating "2628"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/SYzUtQ3Q#43"]
+[Solution "e8d8 d5c4 f3h3 h4f4"]
+[SolutionSAN "Qd8 dxc4 Rh3 Qxf4"]
+[FEN "4Q3/pbp2rkp/1p3np1/3p1p2/2PP1P1q/2BB1R2/PP4PP/6K1 w - - 3 22"]
+[SetUp "1"]
+
+22. Qd8 dxc4 23. Rh3 Qxf4 *

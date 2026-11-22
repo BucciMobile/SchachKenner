@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LaAP"]
+[Difficulty "hard"]
+[Rating "2749"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[GameUrl "https://lichess.org/game/jt3tVo3M#75"]
+[Solution "f3f4 d5d4 f4e4 c5c4"]
+[SolutionSAN "Kf4 d4 Ke4 c4"]
+[FEN "8/5p2/6k1/2pp4/pp4PP/P4K2/1PP5/8 w - - 1 38"]
+[SetUp "1"]
+
+38. Kf4 d4 39. Ke4 c4 *

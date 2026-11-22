@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GH0o"]
+[Difficulty "hard"]
+[Rating "1867"]
+[Themes "crushing endgame long skewer"]
+[GameUrl "https://lichess.org/game/IQkarB9U/black#46"]
+[Solution "e7a7 d5e5 e8d7 e5e7 d7c6 e7a7"]
+[SolutionSAN "Qa7 Rxe5+ Kd7 Re7+ Kc6 Rxa7"]
+[FEN "4k2r/4qp2/3p2pP/1p1Rp1Q1/1p5P/5P2/rPP5/1K5R b k - 1 23"]
+[SetUp "1"]
+
+23... Qa7 24. Rxe5+ Kd7 25. Re7+ Kc6 26. Rxa7 *

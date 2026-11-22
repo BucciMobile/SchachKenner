@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ImOp"]
+[Difficulty "hard"]
+[Rating "2298"]
+[Themes "advancedPawn advantage endgame master short"]
+[GameUrl "https://lichess.org/game/AnCObGrD/black#84"]
+[Solution "b6b5 h5h6 g8h8 h6g7"]
+[SolutionSAN "Rb5 h6 Kh8 hxg7+"]
+[FEN "3r2k1/R5p1/1r6/p3N1KP/5P2/6P1/8/8 b - - 10 42"]
+[SetUp "1"]
+
+42... Rb5 43. h6 Kh8 44. hxg7+ *

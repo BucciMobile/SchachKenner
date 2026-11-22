@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LZlW"]
+[Difficulty "medium"]
+[Rating "1368"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/pwvDDHqt/black#114"]
+[Solution "e2e4 d4e4 f5e4 b5c4"]
+[SolutionSAN "Re4 Rxe4 fxe4 Kc4"]
+[FEN "8/4k3/4p3/1K3p2/1P1R1P2/8/4r3/8 b - - 0 57"]
+[SetUp "1"]
+
+57... Re4 58. Rxe4 fxe4 59. Kc4 *

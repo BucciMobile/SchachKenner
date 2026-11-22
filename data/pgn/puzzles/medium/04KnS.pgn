@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04KnS"]
+[Difficulty "medium"]
+[Rating "1485"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/666qd033#43"]
+[Solution "c1c2 g8h8 h7h8 a8h8"]
+[SolutionSAN "Rc2 Rh8 Qxh8 Rxh8"]
+[FEN "r5r1/3kn2Q/p2qp3/1p1p1p2/8/1B2P3/PP3PPP/2R2RK1 w - - 1 22"]
+[SetUp "1"]
+
+22. Rc2 Rh8 23. Qxh8 Rxh8 *

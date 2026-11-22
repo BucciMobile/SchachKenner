@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Q0S"]
+[Difficulty "hard"]
+[Rating "2113"]
+[Themes "crushing endgame long quietMove"]
+[GameUrl "https://lichess.org/game/mxQ6q5Ky#85"]
+[Solution "b2c2 c3c2 d5c4 e5e4 h6h7 e4e3"]
+[SolutionSAN "Rc2+ Kxc2 Kxc4 e4 Rh7 e3"]
+[FEN "8/1p6/1P5R/3Kp1p1/2r2b2/2k5/1R6/8 w - - 2 43"]
+[SetUp "1"]
+
+43. Rc2+ Kxc2 44. Kxc4 e4 45. Rh7 e3 *

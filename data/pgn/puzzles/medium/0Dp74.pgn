@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dp74"]
+[Difficulty "medium"]
+[Rating "1660"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/nkFJRzQ4#77"]
+[Solution "c7f7 h2h1"]
+[SolutionSAN "Rf7 Rh1#"]
+[FEN "3k1b2/2R5/3p4/1P1N3p/2P2P2/4R2P/1r5r/5K2 w - - 2 39"]
+[SetUp "1"]
+
+39. Rf7 Rh1# *

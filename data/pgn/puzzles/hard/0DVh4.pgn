@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DVh4"]
+[Difficulty "hard"]
+[Rating "2181"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/sN68hCJr#57"]
+[Solution "d3e4 f5e4 g2g8 h4h3 h2g1 h3e3"]
+[SolutionSAN "Bxe4 fxe4 Rxg8 Qxh3+ Kg1 Qxe3+"]
+[FEN "1bb3r1/1p3k2/1Pp5/2Pp1p1p/3NnP1q/2BBP2P/6RK/Q7 w - - 7 29"]
+[SetUp "1"]
+
+29. Bxe4 fxe4 30. Rxg8 Qxh3+ 31. Kg1 Qxe3+ *

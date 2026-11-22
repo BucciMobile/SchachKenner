@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ba1k"]
+[Difficulty "easy"]
+[Rating "805"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/MlCQQLKB#43"]
+[Solution "g1h1 e4f2 h1g2 f2d1"]
+[SolutionSAN "Kh1 Nf2+ Kg2 Nxd1"]
+[FEN "r6r/3k1pp1/1q5p/2bp4/3Nn3/2B3P1/PPP4P/R2QR1K1 w - - 0 22"]
+[SetUp "1"]
+
+22. Kh1 Nf2+ 23. Kg2 Nxd1 *

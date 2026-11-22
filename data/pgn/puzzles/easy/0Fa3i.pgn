@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fa3i"]
+[Difficulty "easy"]
+[Rating "947"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/enUHhev4/black#56"]
+[Solution "b7b6 h3f5 b1f5 e5f5"]
+[SolutionSAN "b6 Bxf5+ Qxf5 Rxf5"]
+[FEN "2k3r1/pp3p1p/2p5/4Rp2/5B2/6PB/1P3PKP/1q6 b - - 5 28"]
+[SetUp "1"]
+
+28... b6 29. Bxf5+ Qxf5 30. Rxf5 *

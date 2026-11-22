@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05OHS"]
+[Difficulty "medium"]
+[Rating "1355"]
+[Themes "mate mateIn2 middlegame pillsburysMate sacrifice short"]
+[GameUrl "https://lichess.org/game/qUJgvMYT/black#52"]
+[Solution "e6f5 e2e8 a8e8 e1e8"]
+[SolutionSAN "Bxf5 Qe8+ Rxe8 Rxe8#"]
+[FEN "r5k1/p1q2p1p/1p2b2B/2p2B2/1P1b4/7P/P3Q1P1/4R2K b - - 0 26"]
+[SetUp "1"]
+
+26... Bxf5 27. Qe8+ Rxe8 28. Rxe8# *

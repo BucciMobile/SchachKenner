@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MaZV"]
+[Difficulty "medium"]
+[Rating "1387"]
+[Themes "deflection endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/5qZdDtuU/black#42"]
+[Solution "a8e8 f3f7 e7f7 e1e8 f7f8 f1f8"]
+[SolutionSAN "Rae8 Qxf7+ Rxf7 Rxe8+ Rf8 Rfxf8#"]
+[FEN "r5k1/1p2rppp/2p5/p7/2Pq4/1P3Q2/1P4PP/4RR1K b - - 1 21"]
+[SetUp "1"]
+
+21... Rae8 22. Qxf7+ Rxf7 23. Rxe8+ Rf8 24. Rfxf8# *

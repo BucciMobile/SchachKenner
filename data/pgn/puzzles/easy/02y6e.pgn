@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02y6e"]
+[Difficulty "easy"]
+[Rating "659"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/gbV43O6e#53"]
+[Solution "d2d8 b8d8 d1d8 a8d8"]
+[SolutionSAN "Rxd8+ Rxd8 Rxd8+ Qxd8"]
+[FEN "qr1r2k1/5p2/4p1p1/p3P1Np/5nPQ/P7/1P1R1P1P/3R2K1 w - - 1 27"]
+[SetUp "1"]
+
+27. Rxd8+ Rxd8 28. Rxd8+ Qxd8 *

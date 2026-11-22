@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BOa5"]
+[Difficulty "medium"]
+[Rating "1409"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/YwGcmgDm/black#70"]
+[Solution "d6e7 h6g7"]
+[SolutionSAN "Qe7 Bg7#"]
+[FEN "4r2k/bb3Q1p/p2q1ppB/8/1n2P3/5P2/P1n1N1PP/5RRK b - - 2 35"]
+[SetUp "1"]
+
+35... Qe7 36. Bg7# *

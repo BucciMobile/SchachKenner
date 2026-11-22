@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BzIr"]
+[Difficulty "easy"]
+[Rating "1134"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/oDZnqWKA/black#126"]
+[Solution "b3a3 d4c2 b4c2 b6b1"]
+[SolutionSAN "Ka3 Nc2+ Nxc2 Rxb1"]
+[FEN "8/8/1R5p/8/pn1N2pP/1k4P1/5PK1/1r6 b - - 1 63"]
+[SetUp "1"]
+
+63... Ka3 64. Nc2+ Nxc2 65. Rxb1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EfAU"]
+[Difficulty "hard"]
+[Rating "2160"]
+[Themes "advancedPawn bishopEndgame crushing endgame exposedKing long sacrifice"]
+[GameUrl "https://lichess.org/game/HStikYtW/black#96"]
+[Solution "e6e5 f6f7 e5f4 g5g6 h7h6 g6g7"]
+[SolutionSAN "e5 Kf7 exf4 g6+ Kh6 g7"]
+[FEN "8/7k/p3pK2/3p2P1/5B2/3p4/PP3b2/8 b - - 1 48"]
+[SetUp "1"]
+
+48... e5 49. Kf7 exf4 50. g6+ Kh6 51. g7 *

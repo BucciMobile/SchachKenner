@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IXRF"]
+[Difficulty "medium"]
+[Rating "1264"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/4veKRhBp#35"]
+[Solution "d4c6 e7b7 g2g1 b7c6"]
+[SolutionSAN "Nc6 Qb7 Kg1 Qxc6"]
+[FEN "r4rk1/p3qppp/1p2pn2/2n5/2PN4/Q1NP2P1/4PPKP/R4R2 w - - 0 18"]
+[SetUp "1"]
+
+18. Nc6 Qb7 19. Kg1 Qxc6 *

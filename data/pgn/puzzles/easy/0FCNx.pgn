@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FCNx"]
+[Difficulty "easy"]
+[Rating "971"]
+[Themes "endgame master"]
+[GameUrl "https://lichess.org/game/SMzvROdi/black#104"]
+[Solution "g7h6 d8f8"]
+[SolutionSAN "Kh6 Qf8#"]
+[FEN "3Q4/p3R1k1/1b3pp1/1K5p/1n5P/5PP1/2qr4/8 b - - 2 52"]
+[SetUp "1"]
+
+52... Kh6 53. Qf8# *

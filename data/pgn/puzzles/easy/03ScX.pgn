@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03ScX"]
+[Difficulty "easy"]
+[Rating "872"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/dhlyPqqa#53"]
+[Solution "f2g3 f5f1"]
+[SolutionSAN "fxg3 Qf1#"]
+[FEN "8/1p3ppk/p3p3/4bq2/2P5/4B1pb/PPRQ1P1P/6KB w - - 0 27"]
+[SetUp "1"]
+
+27. fxg3 Qf1# *

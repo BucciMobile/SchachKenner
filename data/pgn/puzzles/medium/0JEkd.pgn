@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JEkd"]
+[Difficulty "medium"]
+[Rating "1353"]
+[Themes "advantage kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/JvDWMODN/black#36"]
+[Solution "f5h3 f4f8 d8f8 f1f8 a8f8 g2h3"]
+[SolutionSAN "Bxh3 Qxf8+ Qxf8 Rxf8+ Rxf8 gxh3"]
+[FEN "r2q1rk1/6pp/p3p3/1p1pPb2/3PpQ1b/1NP4P/PP4P1/R1B2RK1 b - - 6 18"]
+[SetUp "1"]
+
+18... Bxh3 19. Qxf8+ Qxf8 20. Rxf8+ Rxf8 21. gxh3 *

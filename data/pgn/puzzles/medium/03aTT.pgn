@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03aTT"]
+[Difficulty "medium"]
+[Rating "1299"]
+[Themes "kingsideAttack mate mateIn2 middlegame pillsburysMate short"]
+[GameUrl "https://lichess.org/game/UawCyq1v#41"]
+[Solution "f1e1 e6e1 a1e1 e8e1"]
+[SolutionSAN "Rfe1 Qxe1+ Rxe1 Rxe1#"]
+[FEN "2rkr3/Q2n3p/1p1bq3/6p1/3B4/2P4P/PP3PP1/R4RK1 w - - 0 21"]
+[SetUp "1"]
+
+21. Rfe1 Qxe1+ 22. Rxe1 Rxe1# *

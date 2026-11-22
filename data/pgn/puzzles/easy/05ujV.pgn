@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ujV"]
+[Difficulty "easy"]
+[Rating "1119"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/pZHgWvnh#83"]
+[Solution "e6e7 f7e7 a7e7 c5e7"]
+[SolutionSAN "Rexe7 Rxe7 Rxe7 Qxe7"]
+[FEN "2r2nk1/R3pr1p/1p2R1p1/2qP1p2/2P5/2Q3PP/5PB1/6K1 w - - 2 42"]
+[SetUp "1"]
+
+42. Rexe7 Rxe7 43. Rxe7 Qxe7 *

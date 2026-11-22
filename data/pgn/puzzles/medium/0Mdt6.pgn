@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Mdt6"]
+[Difficulty "medium"]
+[Rating "1264"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/lBoGNuAE/black#46"]
+[Solution "e7e3 f4h5 g7f7 h5f6"]
+[SolutionSAN "Re3 Nh5+ Kf7 Nxf6"]
+[FEN "4r3/2nbr1kp/p2p1qp1/2pP1p2/PpP2N2/1P3P2/2BQ3P/R5RK b - - 6 23"]
+[SetUp "1"]
+
+23... Re3 24. Nh5+ Kf7 25. Nxf6 *

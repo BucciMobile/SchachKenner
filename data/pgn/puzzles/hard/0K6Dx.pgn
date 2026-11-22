@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K6Dx"]
+[Difficulty "hard"]
+[Rating "1950"]
+[Themes "attraction discoveredCheck doubleCheck endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/jPXYhZ9R/black#46"]
+[Solution "a8d8 g3g7 g8h8 g7g8 h8g8 f5g5"]
+[SolutionSAN "Rad8 Rxg7+ Kh8 Rg8+ Kxg8 Rg5#"]
+[FEN "r4rk1/1p3ppp/p7/5R2/3Q4/6R1/PPPK1P1P/5q2 b - - 0 23"]
+[SetUp "1"]
+
+23... Rad8 24. Rxg7+ Kh8 25. Rg8+ Kxg8 26. Rg5# *

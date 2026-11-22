@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03URI"]
+[Difficulty "medium"]
+[Rating "1578"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
+[GameUrl "https://lichess.org/game/UCIhACJi/black#60"]
+[Solution "f5g5 g6h6"]
+[SolutionSAN "Rg5 Qxh6#"]
+[FEN "3n2rk/pp4p1/3qp1Qp/5r2/2p3N1/1P5P/PB3PP1/5RK1 b - - 5 30"]
+[SetUp "1"]
+
+30... Rg5 31. Qxh6# *

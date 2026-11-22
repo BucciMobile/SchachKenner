@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OB12"]
+[Difficulty "medium"]
+[Rating "1449"]
+[Themes "endgame master"]
+[GameUrl "https://lichess.org/game/zRK9fGcZ#137"]
+[Solution "f3e3 f1e1 e3f3 e1e4 f3e4 d3d2"]
+[SolutionSAN "Ke3 Re1+ Kf3 Rxe4 Kxe4 d2"]
+[FEN "8/8/8/4B3/4R3/3p1K2/2k5/5r2 w - - 8 69"]
+[SetUp "1"]
+
+69. Ke3 Re1+ 70. Kf3 Rxe4 71. Kxe4 d2 *

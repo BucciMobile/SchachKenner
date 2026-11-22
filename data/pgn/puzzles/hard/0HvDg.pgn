@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HvDg"]
+[Difficulty "hard"]
+[Rating "1751"]
+[Themes "crushing enPassant endgame short"]
+[GameUrl "https://lichess.org/game/WleFSGFG/black#56"]
+[Solution "c5a3 c1d1 f7f5 e5f6"]
+[SolutionSAN "Qa3+ Kd1 f5 exf6"]
+[FEN "1r3r1k/5pR1/p1p1p2P/2q1P3/4QP2/1Pp4P/P1P5/2K5 b - - 2 28"]
+[SetUp "1"]
+
+28... Qa3+ 29. Kd1 f5 30. exf6 *

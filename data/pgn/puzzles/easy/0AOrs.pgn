@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AOrs"]
+[Difficulty "easy"]
+[Rating "904"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/v9UGKkAO#65"]
+[Solution "e2g4 f4g4"]
+[SolutionSAN "Bxg4 Qxg4#"]
+[FEN "5r2/p3Q2p/3R1p1k/4p3/4bqr1/1PP5/P3BP1P/5RK1 w - - 0 33"]
+[SetUp "1"]
+
+33. Bxg4 Qxg4# *

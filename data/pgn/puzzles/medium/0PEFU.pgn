@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0PEFU"]
+[Difficulty "medium"]
+[Rating "1417"]
+[Themes "clearance crushing long middlegame trappedPiece"]
+[GameUrl "https://lichess.org/game/H3G2d4OY#47"]
+[Solution "b7a7 b8a8 a7b7 f8b8 b7b8 a8b8"]
+[SolutionSAN "Qxa7 Ra8 Qb7 Rfb8 Qxb8+ Rxb8"]
+[FEN "1r3rk1/pQpq1p2/4pb2/3p3p/3P1PpP/2P3B1/PP4P1/4RRK1 w - - 1 24"]
+[SetUp "1"]
+
+24. Qxa7 Ra8 25. Qb7 Rfb8 26. Qxb8+ Rxb8 *

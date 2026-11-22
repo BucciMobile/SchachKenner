@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Ux4"]
+[Difficulty "medium"]
+[Rating "1570"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/sVG3Xl8p#85"]
+[Solution "a6d6 a7c5 d6d8 a8d8"]
+[SolutionSAN "Rxd6 Bc5 Rd8+ Rxd8"]
+[FEN "r4k2/b4p1p/R2n2p1/3P4/4PP2/3N4/6PP/7K w - - 0 43"]
+[SetUp "1"]
+
+43. Rxd6 Bc5 44. Rd8+ Rxd8 *

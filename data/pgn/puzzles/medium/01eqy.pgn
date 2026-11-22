@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01eqy"]
+[Difficulty "medium"]
+[Rating "1450"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/DH25wLla#63"]
+[Solution "h2g3 c7g3 g1f1 g3g2"]
+[SolutionSAN "hxg3 Qxg3+ Kf1 Qg2#"]
+[FEN "6r1/p1qk4/QbN5/3p1p2/8/4P1r1/P6P/1R2R1K1 w - - 0 32"]
+[SetUp "1"]
+
+32. hxg3 Qxg3+ 33. Kf1 Qg2# *

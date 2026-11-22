@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07TBM"]
+[Difficulty "hard"]
+[Rating "2064"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/r1ylMYlz/black#72"]
+[Solution "c6b5 f3f7 d7d8 a7b7"]
+[SolutionSAN "Qxb5 Qxf7+ Kd8 Rxb7"]
+[FEN "r7/Rp1k1p2/1nq1p2p/1N1pP2P/2nP4/5Q2/4BP2/7K b - - 2 36"]
+[SetUp "1"]
+
+36... Qxb5 37. Qxf7+ Kd8 38. Rxb7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LPBi"]
+[Difficulty "hard"]
+[Rating "2116"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/li6rKgid/black#70"]
+[Solution "h7h5 f4f5 g6f5 e4f5"]
+[SolutionSAN "h5 f5 gxf5+ Kxf5"]
+[FEN "8/1p5p/p2k1pp1/2p5/P1P1KPPP/1PbN4/8/8 b - - 0 35"]
+[SetUp "1"]
+
+35... h5 36. f5 gxf5+ 37. Kxf5 *

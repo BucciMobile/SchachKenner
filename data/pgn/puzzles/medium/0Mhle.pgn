@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Mhle"]
+[Difficulty "medium"]
+[Rating "1331"]
+[Themes "endgame mate mateIn2 pin short"]
+[GameUrl "https://lichess.org/game/42zRCnSJ/black#46"]
+[Solution "f8f7 c7c8 f6d8 c8d8"]
+[SolutionSAN "Rxf7 Rc8+ Bd8 Rxd8#"]
+[FEN "5rk1/2R2Rpp/5b2/p7/1rB5/5P1P/P4PK1/8 b - - 0 23"]
+[SetUp "1"]
+
+23... Rxf7 24. Rc8+ Bd8 25. Rxd8# *

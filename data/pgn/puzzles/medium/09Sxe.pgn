@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Sxe"]
+[Difficulty "medium"]
+[Rating "1657"]
+[Themes "advantage enPassant endgame short"]
+[GameUrl "https://lichess.org/game/nr1dFHGS/black#44"]
+[Solution "g7g5 d1b3 b7b5 a5b6"]
+[SolutionSAN "g5 Qb3 b5 axb6"]
+[FEN "1k1r3r/ppp2pp1/2p4p/P1N1p3/4Pq2/2PP1P2/1P2KP2/R2Q4 b - - 2 22"]
+[SetUp "1"]
+
+22... g5 23. Qb3 b5 24. axb6 *

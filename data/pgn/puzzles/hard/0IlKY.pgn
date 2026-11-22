@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IlKY"]
+[Difficulty "hard"]
+[Rating "2210"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/sMY7QBhL#55"]
+[Solution "d3e2 d7d1 e2d1 f8d8"]
+[SolutionSAN "Be2 Qxd1+ Bxd1 Rd8"]
+[FEN "5rk1/3q1p1p/6p1/4p3/5n2/P1pB1R2/2P2PPP/3Q2K1 w - - 0 28"]
+[SetUp "1"]
+
+28. Be2 Qxd1+ 29. Bxd1 Rd8 *

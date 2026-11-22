@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "015Qo"]
+[Difficulty "easy"]
+[Rating "992"]
+[Themes "advantage kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/PSbrZihY#49"]
+[Solution "a3b2 c3e2 c2e2 c4e2"]
+[SolutionSAN "Bb2 Ne2+ Qxe2 Qxe2"]
+[FEN "r3k2r/1p2ppb1/2p3p1/p1N5/2qPP3/B1n3Pp/2Q2P1P/RR4KB w kq - 0 25"]
+[SetUp "1"]
+
+25. Bb2 Ne2+ 26. Qxe2 Qxe2 *

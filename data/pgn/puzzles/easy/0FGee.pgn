@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FGee"]
+[Difficulty "easy"]
+[Rating "986"]
+[Themes "advantage endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/JF19cN9z/black#114"]
+[Solution "c6d5 d1d5 a2a1 g3e1"]
+[SolutionSAN "Qxd5+ Rxd5 Ra1+ Be1"]
+[FEN "6k1/6p1/2qP1p2/3R1P2/6PQ/6B1/r3r3/3R3K b - - 2 57"]
+[SetUp "1"]
+
+57... Qxd5+ 58. Rxd5 Ra1+ 59. Be1 *

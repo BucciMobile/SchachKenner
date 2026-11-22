@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I0bA"]
+[Difficulty "hard"]
+[Rating "2655"]
+[Themes "crushing defensiveMove endgame master sacrifice short"]
+[GameUrl "https://lichess.org/game/u6Vo5jf5#101"]
+[Solution "f6e6 c8c1 d1c1 f3e2"]
+[SolutionSAN "Re6 Rxc1+ Kxc1 Ke2"]
+[FEN "2r5/8/5R2/p7/5p2/1P2pk2/P7/2BK4 w - - 0 51"]
+[SetUp "1"]
+
+51. Re6 Rxc1+ 52. Kxc1 Ke2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Ysb"]
+[Difficulty "hard"]
+[Rating "2116"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/DFIa93pt#55"]
+[Solution "d1d3 e5e4 b1e1 e4f3 e1e7 f6e7"]
+[SolutionSAN "Rd3 e4 Re1 exf3 Rxe7 Bxe7"]
+[FEN "1rb1r1k1/2p1qp1p/p4bpB/1p2p3/1P6/PB3Q1P/N1P2PP1/1R1R2K1 w - - 6 28"]
+[SetUp "1"]
+
+28. Rd3 e4 29. Re1 exf3 30. Rxe7 Bxe7 *

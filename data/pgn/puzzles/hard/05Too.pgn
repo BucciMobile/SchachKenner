@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Too"]
+[Difficulty "hard"]
+[Rating "2136"]
+[Themes "advantage clearance endgame short"]
+[GameUrl "https://lichess.org/game/aphFXvrp#71"]
+[Solution "d1d3 c3c1 d3d2 c8c3"]
+[SolutionSAN "Rd3 Qc1 Rd2 Rc3"]
+[FEN "2r3k1/5pp1/4p2p/1p2P1b1/pP1PB3/P1q1P1P1/Q4K1P/3R4 w - - 3 36"]
+[SetUp "1"]
+
+36. Rd3 Qc1 37. Rd2 Rc3 *

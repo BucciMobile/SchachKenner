@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09qHq"]
+[Difficulty "medium"]
+[Rating "1545"]
+[Themes "advantage middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/93AO8eb2#35"]
+[Solution "c3b5 d7f8 g6g7 h8g7"]
+[SolutionSAN "Nb5 Nf8 Qxg7+ Qxg7"]
+[FEN "r6q/pbpnk1n1/1p1pppQp/6p1/1b1PP3/2NB2B1/PPP2PPP/2KR3R w - - 2 18"]
+[SetUp "1"]
+
+18. Nb5 Nf8 19. Qxg7+ Qxg7 *

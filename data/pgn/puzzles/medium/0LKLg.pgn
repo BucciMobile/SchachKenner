@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LKLg"]
+[Difficulty "medium"]
+[Rating "1474"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/SVJ15Hz7#77"]
+[Solution "g1h2 f7f2 e3g2 f2g1"]
+[SolutionSAN "Kh2 Qxf2+ Ng2 Qg1#"]
+[FEN "6k1/P4q2/6pp/4Q1p1/1p6/1P2N1PP/3p1P2/R1r3K1 w - - 1 39"]
+[SetUp "1"]
+
+39. Kh2 Qxf2+ 40. Ng2 Qg1# *

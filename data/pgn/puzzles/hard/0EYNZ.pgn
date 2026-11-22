@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EYNZ"]
+[Difficulty "hard"]
+[Rating "2135"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/S2Bzq3Wq#45"]
+[Solution "g1g2 d7c6 d2f3 h3f4"]
+[SolutionSAN "Kg2 Bc6+ Nf3 Nf4+"]
+[FEN "2k4r/pppb1Q2/3p2p1/4p1q1/2B5/2P3Pn/PP1N1P1P/R4RK1 w - - 1 23"]
+[SetUp "1"]
+
+23. Kg2 Bc6+ 24. Nf3 Nf4+ *

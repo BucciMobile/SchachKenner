@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09C7E"]
+[Difficulty "hard"]
+[Rating "2658"]
+[Themes "advancedPawn crushing defensiveMove endgame master masterVsMaster quietMove veryLong"]
+[GameUrl "https://lichess.org/game/KYZhN28F#121"]
+[Solution "d5d1 h3h2 e6e5 g6g5 d1d8 g3e1 d8g8 g5h4 g8h8 h4g3"]
+[SolutionSAN "Rd1 h2 Ke5 Kg5 Rd8 Be1 Rg8+ Kh4 Rh8+ Kg3"]
+[FEN "8/8/1p2K1k1/p2R4/P4p2/1P3Pbp/8/8 w - - 0 61"]
+[SetUp "1"]
+
+61. Rd1 h2 62. Ke5 Kg5 63. Rd8 Be1 64. Rg8+ Kh4 65. Rh8+ Kg3 *

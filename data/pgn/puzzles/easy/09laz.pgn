@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09laz"]
+[Difficulty "easy"]
+[Rating "1164"]
+[Themes "crushing endgame queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/MdwuiqOM/black#74"]
+[Solution "f8f3 g6e8 h8h7 e8e4"]
+[SolutionSAN "Rxf3 Qe8+ Kh7 Qe4+"]
+[FEN "5r1k/6p1/6Qp/3r4/1P4P1/5P1P/7K/8 b - - 0 37"]
+[SetUp "1"]
+
+37... Rxf3 38. Qe8+ Kh7 39. Qe4+ *

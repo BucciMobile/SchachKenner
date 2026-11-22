@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04poP"]
+[Difficulty "hard"]
+[Rating "2000"]
+[Themes "advantage attraction middlegame short"]
+[GameUrl "https://lichess.org/game/FynXqOpM/black#84"]
+[Solution "c6c2 h4h5 g6h5 f1f5"]
+[SolutionSAN "Rc2 h5+ Kxh5 Rf5+"]
+[FEN "8/2r3pp/p1r3k1/1p2b3/1n2N2P/4B3/1P6/1K1R1R2 b - - 10 42"]
+[SetUp "1"]
+
+42... Rc2 43. h5+ Kxh5 44. Rf5+ *

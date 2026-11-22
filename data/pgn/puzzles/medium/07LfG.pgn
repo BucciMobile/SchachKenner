@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07LfG"]
+[Difficulty "medium"]
+[Rating "1323"]
+[Themes "endgame mate mateIn2 queensideAttack short"]
+[GameUrl "https://lichess.org/game/5qiNIbYi#51"]
+[Solution "f3d3 a5a1 b1c2 a8a2"]
+[SolutionSAN "Qxd3 Qa1+ Kc2 Ra2#"]
+[FEN "r5k1/2p2p2/2p3pp/q7/4N1PP/1PPp1Q2/3P4/1K1R3R w - - 1 26"]
+[SetUp "1"]
+
+26. Qxd3 Qa1+ 27. Kc2 Ra2# *

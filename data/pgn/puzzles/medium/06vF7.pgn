@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06vF7"]
+[Difficulty "medium"]
+[Rating "1592"]
+[Themes "advantage hangingPiece intermezzo opening short"]
+[GameUrl "https://lichess.org/game/IQTJw5sl#23"]
+[Solution "h5g6 e6c4 f1g1 f7g6"]
+[SolutionSAN "Qxg6 Bxc4+ Kg1 fxg6"]
+[FEN "rn2k1nr/1pp2p1p/p2pb1q1/7Q/2BPPp2/2N5/PPP3P1/R1B2K1R w kq - 1 12"]
+[SetUp "1"]
+
+12. Qxg6 Bxc4+ 13. Kg1 fxg6 *

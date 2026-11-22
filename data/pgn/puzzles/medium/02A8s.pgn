@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02A8s"]
+[Difficulty "medium"]
+[Rating "1610"]
+[Themes "advancedPawn crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/TFMMblS4/black#86"]
+[Solution "g8f8 b5b8 f8f7 d6d7"]
+[SolutionSAN "Kf8 Rb8+ Kf7 d7"]
+[FEN "6k1/7p/3P2p1/1R6/8/7r/K7/8 b - - 0 43"]
+[SetUp "1"]
+
+43... Kf8 44. Rb8+ Kf7 45. d7 *

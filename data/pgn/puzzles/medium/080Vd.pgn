@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "080Vd"]
+[Difficulty "medium"]
+[Rating "1689"]
+[Themes "crushing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/0YJgDnbk#49"]
+[Solution "f4d6 c8d8 d6e7 d8d2 d1d2 e8e7 d2d8 e7e8"]
+[SolutionSAN "Bxd6 Rcd8 Bxe7 Rxd2 Rxd2 Rxe7 Rd8+ Re8"]
+[FEN "2r1r1k1/1b2bppp/p1qpp3/1p6/1P2PB2/PB5P/2PQ1PP1/3RR1K1 w - - 1 25"]
+[SetUp "1"]
+
+25. Bxd6 Rcd8 26. Bxe7 Rxd2 27. Rxd2 Rxe7 28. Rd8+ Re8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I0KU"]
+[Difficulty "hard"]
+[Rating "2325"]
+[Themes "crushing kingsideAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/3qvMWsqh/black#72"]
+[Solution "b6d6 g2g7 g8h8 g7d7"]
+[SolutionSAN "Qd6 Rxg7+ Kh8 Rxd7"]
+[FEN "1r4k1/3r2p1/1q2p2p/1p1p1p1b/1Q1N4/P1P5/1P4RP/K5R1 b - - 7 36"]
+[SetUp "1"]
+
+36... Qd6 37. Rxg7+ Kh8 38. Rxd7 *

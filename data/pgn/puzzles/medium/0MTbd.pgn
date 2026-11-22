@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MTbd"]
+[Difficulty "medium"]
+[Rating "1401"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/tMimHQ4a/black#22"]
+[Solution "b8c6 d4f6 e7f6 f3f6"]
+[SolutionSAN "Nc6 Qxf6 Qxf6 Rxf6"]
+[FEN "rnb1k2r/1pppq3/5n2/p5Np/1bPQ3P/2N1PR2/PP3PP1/R3KB2 b Qkq - 3 11"]
+[SetUp "1"]
+
+11... Nc6 12. Qxf6 Qxf6 13. Rxf6 *

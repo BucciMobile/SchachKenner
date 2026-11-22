@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Kia"]
+[Difficulty "medium"]
+[Rating "1596"]
+[Themes "advantage discoveredAttack endgame fork long"]
+[GameUrl "https://lichess.org/game/hH8qwFYM/black#74"]
+[Solution "g7g6 h5e5 h8g8 e4d5 e7d5 e5e1"]
+[SolutionSAN "g6 Qe5+ Kg8 Bd5+ Nxd5 Qxe1"]
+[FEN "5r1k/4n1pp/1p6/pP5Q/P2pB2K/6P1/2P4P/4q3 b - - 4 37"]
+[SetUp "1"]
+
+37... g6 38. Qe5+ Kg8 39. Bd5+ Nxd5 40. Qxe1 *

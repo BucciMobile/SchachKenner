@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Q6Q"]
+[Difficulty "hard"]
+[Rating "2739"]
+[Themes "advancedPawn advantage deflection endgame fork long promotion"]
+[GameUrl "https://lichess.org/game/CwteutNM/black#78"]
+[Solution "f8g7 b5b2 d6f6 b7b8q a7b8 b2b8"]
+[SolutionSAN "Kg7 Qb2+ Qf6 b8=Q Bxb8 Qxb8"]
+[FEN "5k1R/bP6/3q2p1/1Q1p1p2/4p3/7P/6P1/r4N1K b - - 2 39"]
+[SetUp "1"]
+
+39... Kg7 40. Qb2+ Qf6 41. b8=Q Bxb8 42. Qxb8 *

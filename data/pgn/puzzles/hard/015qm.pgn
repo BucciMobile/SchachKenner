@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "015qm"]
+[Difficulty "hard"]
+[Rating "1969"]
+[Themes "advantage exposedKing long master middlegame"]
+[GameUrl "https://lichess.org/game/ZaaeYWsF/black#44"]
+[Solution "e6d5 a6a8 d8a8 e2e7 f7g6 e7e6"]
+[SolutionSAN "exd5 Rxa8 Qxa8 Qe7+ Kg6 Qe6+"]
+[FEN "r2q3r/5k2/R2Pp3/1pbR2pp/8/1P4B1/1P2QPPP/6K1 b - - 0 22"]
+[SetUp "1"]
+
+22... exd5 23. Rxa8 Qxa8 24. Qe7+ Kg6 25. Qe6+ *

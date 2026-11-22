@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M45S"]
+[Difficulty "hard"]
+[Rating "1720"]
+[Themes "crushing deflection fork long middlegame"]
+[GameUrl "https://lichess.org/game/QIiwnBj0/black#50"]
+[Solution "a5a4 c5e6 f7e6 d3g6 e8d7 g6h5"]
+[SolutionSAN "a4 Nxe6 fxe6 Qxg6+ Kd7 Qxh5"]
+[FEN "2r1k3/q3bpp1/2n1p1p1/ppNpP2r/1PnP4/P2QBN1P/5PP1/R3R1K1 b - - 1 25"]
+[SetUp "1"]
+
+25... a4 26. Nxe6 fxe6 27. Qxg6+ Kd7 28. Qxh5 *

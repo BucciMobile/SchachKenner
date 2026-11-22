@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ntrs"]
+[Difficulty "medium"]
+[Rating "1493"]
+[Themes "crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/ju8JWFzn#55"]
+[Solution "h3h4 a4a3 e4a8 g8g7 a8a3 c3c2"]
+[SolutionSAN "h4 a3 Qa8+ Kg7 Qxa3 Qxc2+"]
+[FEN "6k1/4pp1p/6p1/8/p3Q1P1/1Pq2P1P/P1Pr4/1K5R w - - 0 28"]
+[SetUp "1"]
+
+28. h4 a3 29. Qa8+ Kg7 30. Qxa3 Qxc2+ *

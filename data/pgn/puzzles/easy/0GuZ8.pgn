@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GuZ8"]
+[Difficulty "easy"]
+[Rating "1118"]
+[Themes "endgame master mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/zL5U50NF/black#76"]
+[Solution "d8c8 g7g8"]
+[SolutionSAN "Kc8 Rg8#"]
+[FEN "3k4/1p4Rp/3K1p2/r2p4/8/p6P/6P1/8 b - - 1 38"]
+[SetUp "1"]
+
+38... Kc8 39. Rg8# *

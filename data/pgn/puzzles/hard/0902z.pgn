@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0902z"]
+[Difficulty "hard"]
+[Rating "1725"]
+[Themes "crushing discoveredAttack long middlegame"]
+[GameUrl "https://lichess.org/game/ZH29XrtE/black#30"]
+[Solution "d4d3 g3h3 c8b8 e3a7 b8a7 h3d3"]
+[SolutionSAN "Qxd3 Qh3+ Kb8 Bxa7+ Kxa7 Qxd3"]
+[FEN "2k1rbr1/ppp3pp/3p4/8/3qP3/2NPB1Q1/PP4PP/n4R1K b - - 1 15"]
+[SetUp "1"]
+
+15... Qxd3 16. Qh3+ Kb8 17. Bxa7+ Kxa7 18. Qxd3 *

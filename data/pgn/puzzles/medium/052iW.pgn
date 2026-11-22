@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "052iW"]
+[Difficulty "medium"]
+[Rating "1388"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/HGj890T6/black#64"]
+[Solution "h8b8 b2a3 c6c5 d4c5"]
+[SolutionSAN "Rhb8 Ba3+ c5 dxc5#"]
+[FEN "r6r/pQ3pp1/2pk1q1p/3b4/P2P4/1p3P2/1B4PP/R3R1K1 b - - 0 32"]
+[SetUp "1"]
+
+32... Rhb8 33. Ba3+ c5 34. dxc5# *

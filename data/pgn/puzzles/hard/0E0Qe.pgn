@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E0Qe"]
+[Difficulty "hard"]
+[Rating "1943"]
+[Themes "crushing defensiveMove endgame rookEndgame veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/YtZbXmkJ/black#82"]
+[Solution "d7d6 d5d6 d8d6 d2d6 e6d6 e3d4 d6e6 d4c5 e6d7 c5d5"]
+[SolutionSAN "Rxd6 Rxd6+ Rxd6 Rxd6+ Kxd6 Kd4 Ke6 Kc5 Kd7 Kd5"]
+[FEN "3r4/3r4/3Pk1p1/3R1p1p/5P1P/4K3/3R2P1/8 b - - 9 41"]
+[SetUp "1"]
+
+41... Rxd6 42. Rxd6+ Rxd6 43. Rxd6+ Kxd6 44. Kd4 Ke6 45. Kc5 Kd7 46. Kd5 *

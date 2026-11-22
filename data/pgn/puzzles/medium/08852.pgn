@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08852"]
+[Difficulty "medium"]
+[Rating "1400"]
+[Themes "master opening"]
+[GameUrl "https://lichess.org/game/auGIWLuH#27"]
+[Solution "b1c3 d5g2"]
+[SolutionSAN "Nc3 Qxg2#"]
+[FEN "2kr1b1r/pbp2pp1/5n1p/3qN3/5B2/3p4/PPP2PPP/RN1QR1K1 w - - 0 14"]
+[SetUp "1"]
+
+14. Nc3 Qxg2# *

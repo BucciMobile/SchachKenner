@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09SUO"]
+[Difficulty "medium"]
+[Rating "1549"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/G7XMTG3l#71"]
+[Solution "f4f7 h7g8 h5e5 e6e5"]
+[SolutionSAN "Rxf7+ Kg8 Qxe5 Qxe5"]
+[FEN "8/5p1k/2p1q2p/pp2r2Q/5R2/P1P5/5KPP/8 w - - 0 36"]
+[SetUp "1"]
+
+36. Rxf7+ Kg8 37. Qxe5 Qxe5 *

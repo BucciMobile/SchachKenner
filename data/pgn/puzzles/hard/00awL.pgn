@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00awL"]
+[Difficulty "hard"]
+[Rating "1739"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/TPaROV8B#69"]
+[Solution "c5c6 d7f7 f1f7 e8f7"]
+[SolutionSAN "Qxc6 Rxf7 Rxf7+ Qxf7"]
+[FEN "4q1r1/k2r1Rp1/ppp4p/2Qp4/3P4/2P1P3/PP4P1/2K2R2 w - - 0 35"]
+[SetUp "1"]
+
+35. Qxc6 Rxf7 36. Rxf7+ Qxf7 *

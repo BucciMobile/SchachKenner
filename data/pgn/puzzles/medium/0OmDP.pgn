@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OmDP"]
+[Difficulty "medium"]
+[Rating "1674"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/JBVBLuIh#45"]
+[Solution "e6d5 e8e1 g1g2 a5d5 d4d5 e1d1"]
+[SolutionSAN "Qd5 Re1+ Kg2 Qxd5+ Rxd5 Rxd1"]
+[FEN "4rr1k/pp4pp/4Q3/q7/3R4/3P2PP/PPP2P2/3R2K1 w - - 1 23"]
+[SetUp "1"]
+
+23. Qd5 Re1+ 24. Kg2 Qxd5+ 25. Rxd5 Rxd1 *

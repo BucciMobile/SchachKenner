@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Nmp"]
+[Difficulty "hard"]
+[Rating "1879"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/qQHbDl3s/black#52"]
+[Solution "g3h3 b5a7 c8d8 a7c6"]
+[SolutionSAN "Rxh3 Na7+ Kd8 Nc6+"]
+[FEN "Rnk3r1/2pn3p/8/1N2p3/8/4P1rP/5RB1/6K1 b - - 2 26"]
+[SetUp "1"]
+
+26... Rxh3 27. Na7+ Kd8 28. Nc6+ *

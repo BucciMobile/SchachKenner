@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ObLF"]
+[Difficulty "medium"]
+[Rating "1243"]
+[Themes "master mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/sIdiPkia#33"]
+[Solution "g3h3 f2h4"]
+[SolutionSAN "Kh3 Qxh4#"]
+[FEN "r1b2rk1/pp2b1pp/4p3/3pN3/7P/P5K1/1P2NqP1/R1BQ1B1R w - - 1 17"]
+[SetUp "1"]
+
+17. Kh3 Qxh4# *

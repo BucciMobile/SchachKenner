@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07xoQ"]
+[Difficulty "medium"]
+[Rating "1350"]
+[Themes "advantage attraction endgame queensideAttack sacrifice short"]
+[GameUrl "https://lichess.org/game/gXVvdAfm/black#44"]
+[Solution "a4b5 a1a7 a8a7 h1a1"]
+[SolutionSAN "Qb5 Rxa7+ Kxa7 Ra1+"]
+[FEN "k2r3r/ppQ5/5p2/4pPpp/q3P1P1/3P3P/1P2K3/R6R b - - 2 22"]
+[SetUp "1"]
+
+22... Qb5 23. Rxa7+ Kxa7 24. Ra1+ *

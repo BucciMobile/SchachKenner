@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07UT2"]
+[Difficulty "easy"]
+[Rating "796"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/LarmcX3i/black#24"]
+[Solution "d2f1 f5h7"]
+[SolutionSAN "Nxf1 Qxh7#"]
+[FEN "rn3rk1/pppq1ppp/8/3p1Q2/3P4/2NBP3/PPPn1PPP/R4RK1 b - - 0 12"]
+[SetUp "1"]
+
+12... Nxf1 13. Qxh7# *

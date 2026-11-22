@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DHSG"]
+[Difficulty "easy"]
+[Rating "1172"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/WVt4uuvq#41"]
+[Solution "f2g3 c7g3 e2g2 g3f3"]
+[SolutionSAN "fxg3 Qxg3+ Rg2 Qxf3"]
+[FEN "4rrk1/p1q2ppp/1p6/2pP4/2P5/5Nb1/PP1QRP2/R5K1 w - - 0 21"]
+[SetUp "1"]
+
+21. fxg3 Qxg3+ 22. Rg2 Qxf3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GcyI"]
+[Difficulty "medium"]
+[Rating "1303"]
+[Themes "crushing endgame exposedKing fork long sacrifice"]
+[GameUrl "https://lichess.org/game/AdQNKq3k#53"]
+[Solution "f1f7 e7f7 g5f7 d4f3 g1f2 f3d2"]
+[SolutionSAN "Rf7+ Qxf7 Nxf7 Nf3+ Kf2 Nxd2"]
+[FEN "r7/1p2q1k1/p2p2pp/P1pP2N1/2Pn2P1/7P/1P1Q4/5RK1 w - - 0 27"]
+[SetUp "1"]
+
+27. Rf7+ Qxf7 28. Nxf7 Nf3+ 29. Kf2 Nxd2 *

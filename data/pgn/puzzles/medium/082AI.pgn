@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "082AI"]
+[Difficulty "medium"]
+[Rating "1691"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/PzCNxZVY#37"]
+[Solution "f4g5 f6f2 e1d1 h5g4"]
+[SolutionSAN "fxg5 Qf2+ Kd1 hxg4"]
+[FEN "r4rk1/1pp3p1/p3pqp1/3p2np/3P1PQ1/2PBP1P1/PP4P1/R3K2R w KQ - 0 19"]
+[SetUp "1"]
+
+19. fxg5 Qf2+ 20. Kd1 hxg4 *

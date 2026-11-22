@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Zn4"]
+[Difficulty "hard"]
+[Rating "2099"]
+[Themes "endgame master"]
+[GameUrl "https://lichess.org/game/2MZRxrgT/black#100"]
+[Solution "d6e5 c4b4 h6g5 a2a4"]
+[SolutionSAN "Be5 Kxb4 Kg5 a4"]
+[FEN "8/8/3b3k/2B5/1pK5/8/P7/8 b - - 1 50"]
+[SetUp "1"]
+
+50... Be5 51. Kxb4 Kg5 52. a4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EgUI"]
+[Difficulty "medium"]
+[Rating "1632"]
+[Themes "advantage endgame long pin"]
+[GameUrl "https://lichess.org/game/gYi7gMPW/black#60"]
+[Solution "f1c1 f4b8 c5f8 f5e7 g8g7 e7g6"]
+[SolutionSAN "Rxc1 Qb8+ Bf8 Ne7+ Kg7 Nxg6"]
+[FEN "6k1/5p1p/pp4q1/2bb1N2/5Q1P/1P3P2/P5PK/2N2r2 b - - 1 30"]
+[SetUp "1"]
+
+30... Rxc1 31. Qb8+ Bf8 32. Ne7+ Kg7 33. Nxg6 *

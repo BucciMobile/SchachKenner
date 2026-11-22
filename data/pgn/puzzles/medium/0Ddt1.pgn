@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ddt1"]
+[Difficulty "medium"]
+[Rating "1301"]
+[Themes "crushing endgame pin sacrifice short"]
+[GameUrl "https://lichess.org/game/O6aoNLYD/black#36"]
+[Solution "g7g5 e5e7 d7e7 f4d6"]
+[SolutionSAN "g5 Rxe7 Rxe7 Bd6"]
+[FEN "5k1r/p2rbpp1/2p4p/3pR3/1P3B2/2P5/P4PPP/4R1K1 b - - 0 18"]
+[SetUp "1"]
+
+18... g5 19. Rxe7 Rxe7 20. Bd6 *

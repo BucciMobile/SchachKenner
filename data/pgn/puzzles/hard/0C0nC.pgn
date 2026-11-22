@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C0nC"]
+[Difficulty "hard"]
+[Rating "1708"]
+[Themes "crushing enPassant endgame short"]
+[GameUrl "https://lichess.org/game/2hrTruVo/black#58"]
+[Solution "c4c3 f5f6 g7g5 h5g6"]
+[SolutionSAN "Rc3 f6 g5 hxg6"]
+[FEN "2r3k1/p4pp1/1p2p2p/3pPP1P/2r5/3R2Q1/2q3P1/5RK1 b - - 0 29"]
+[SetUp "1"]
+
+29... Rc3 30. f6 g5 31. hxg6 *

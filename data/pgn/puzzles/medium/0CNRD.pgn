@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CNRD"]
+[Difficulty "medium"]
+[Rating "1399"]
+[Themes "advantage deflection master middlegame short"]
+[GameUrl "https://lichess.org/game/glvv3vGj#45"]
+[Solution "f4g3 d5e3 f2e3 f3g3"]
+[SolutionSAN "Bg3 Nxe3 fxe3 Qxg3+"]
+[FEN "5rk1/4pp1p/6p1/p2n4/2R2B2/4Pq1P/Pb3P2/3R1QK1 w - - 0 23"]
+[SetUp "1"]
+
+23. Bg3 Nxe3 24. fxe3 Qxg3+ *

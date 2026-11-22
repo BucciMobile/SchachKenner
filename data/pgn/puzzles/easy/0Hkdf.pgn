@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hkdf"]
+[Difficulty "easy"]
+[Rating "651"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/jGE7xzRh#113"]
+[Solution "e5d5 f5e3 g4f3 e3d5"]
+[SolutionSAN "Rd5 Ne3+ Kf3 Nxd5"]
+[FEN "8/5k2/3n2p1/4RnP1/5PK1/8/8/8 w - - 19 57"]
+[SetUp "1"]
+
+57. Rd5 Ne3+ 58. Kf3 Nxd5 *

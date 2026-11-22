@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DOTr"]
+[Difficulty "easy"]
+[Rating "1150"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/5CxU3Usa/black#98"]
+[Solution "h7h8 f5f8 h8h7 f8g7"]
+[SolutionSAN "Kh8 Qf8+ Kh7 Qxg7#"]
+[FEN "8/6pk/4N2p/3p1Q2/q1bPp3/7P/6PK/q7 b - - 3 49"]
+[SetUp "1"]
+
+49... Kh8 50. Qf8+ Kh7 51. Qxg7# *

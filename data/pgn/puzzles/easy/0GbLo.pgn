@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GbLo"]
+[Difficulty "easy"]
+[Rating "709"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/r4GMmk1u/black#88"]
+[Solution "g8f7 c4d6 f7e7 d6b5"]
+[SolutionSAN "Kf7 Nd6+ Ke7 Nxb5"]
+[FEN "6k1/6p1/5p2/1r1Pp2p/2N1P2P/5P2/4K1P1/8 b - - 1 44"]
+[SetUp "1"]
+
+44... Kf7 45. Nd6+ Ke7 46. Nxb5 *

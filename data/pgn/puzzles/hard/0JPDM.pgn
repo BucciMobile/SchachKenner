@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JPDM"]
+[Difficulty "hard"]
+[Rating "2480"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/ltKbQJD5#57"]
+[Solution "f3d1 e7f5 f1f5 d4f5"]
+[SolutionSAN "Qd1 Nef5 Rxf5 Nxf5"]
+[FEN "3q1r2/4n1k1/6b1/pp1p2p1/3n4/PBN2QP1/1P4K1/R4R2 w - - 0 29"]
+[SetUp "1"]
+
+29. Qd1 Nef5 30. Rxf5 Nxf5 *

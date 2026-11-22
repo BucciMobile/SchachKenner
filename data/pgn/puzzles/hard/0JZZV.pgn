@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JZZV"]
+[Difficulty "hard"]
+[Rating "2313"]
+[Themes "advantage defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/NsGD9Mka#61"]
+[Solution "c8e8 d6h2 g1f1 e4g6"]
+[SolutionSAN "Qe8 Qh2+ Kf1 Bg6"]
+[FEN "1bQ5/1p3p1k/pB1qp3/P2p2P1/3Pb2p/4P2P/1P4P1/4N1K1 w - - 3 31"]
+[SetUp "1"]
+
+31. Qe8 Qh2+ 32. Kf1 Bg6 *

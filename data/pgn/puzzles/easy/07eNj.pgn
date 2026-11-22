@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07eNj"]
+[Difficulty "easy"]
+[Rating "960"]
+[Themes "crushing defensiveMove endgame master masterVsMaster queenEndgame short"]
+[GameUrl "https://lichess.org/game/6NoNw7EO#103"]
+[Solution "c8b7 b5c4 b7c8 c4d3"]
+[SolutionSAN "Qb7+ Kc4 Qc8+ Kd3"]
+[FEN "2Q5/8/4pp2/1k1p1p1p/3P3P/pqP1P1P1/5P2/6K1 w - - 6 52"]
+[SetUp "1"]
+
+52. Qb7+ Kc4 53. Qc8+ Kd3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AeYD"]
+[Difficulty "hard"]
+[Rating "2602"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/GX6s1DBJ#51"]
+[Solution "g1h2 g6e4 f2f3 e5g4 h2h1 g4f2"]
+[SolutionSAN "Kh2 Qe4 f3 Ng4+ Kh1 Nf2+"]
+[FEN "2k3rr/Qp1n4/5pq1/2PPn3/2P2B2/6Pp/P3BP2/R3R1K1 w - - 0 26"]
+[SetUp "1"]
+
+26. Kh2 Qe4 27. f3 Ng4+ 28. Kh1 Nf2+ *

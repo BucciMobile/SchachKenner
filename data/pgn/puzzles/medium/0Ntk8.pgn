@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ntk8"]
+[Difficulty "medium"]
+[Rating "1699"]
+[Themes "crushing kingsideAttack opening short"]
+[GameUrl "https://lichess.org/game/GwFjSrWX/black#26"]
+[Solution "h7g8 e2h5 f8e8 h5f7"]
+[SolutionSAN "Kg8 Qh5 Re8 Qxf7+"]
+[FEN "r1b2r2/p1qn1ppk/1pn1p3/2bpP1N1/8/2P5/PP1NQPPP/R1B2RK1 b - - 1 13"]
+[SetUp "1"]
+
+13... Kg8 14. Qh5 Re8 15. Qxf7+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "097tV"]
+[Difficulty "hard"]
+[Rating "2094"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/neHX545T/black#82"]
+[Solution "h5h4 e5e6 f7e8 h6h7"]
+[SolutionSAN "h4 e6+ Ke8 Qh7"]
+[FEN "6r1/4pk2/p4ppQ/3PP2p/3q4/2p1R3/Pb2RK2/8 b - - 3 41"]
+[SetUp "1"]
+
+41... h4 42. e6+ Ke8 43. Qh7 *

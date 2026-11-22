@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DrMF"]
+[Difficulty "hard"]
+[Rating "1898"]
+[Themes "advantage defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/GkFRatGg/black#46"]
+[Solution "d2e3 g3f2 e3f4 a4f4"]
+[SolutionSAN "Qxe3+ Bf2 Qf4 Qxf4"]
+[FEN "r7/1b1nkp2/3pp3/p5p1/Q7/4PPB1/P2q2P1/1R3BK1 b - - 3 23"]
+[SetUp "1"]
+
+23... Qxe3+ 24. Bf2 Qf4 25. Qxf4 *

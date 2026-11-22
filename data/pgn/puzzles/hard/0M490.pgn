@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M490"]
+[Difficulty "hard"]
+[Rating "2171"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/j7oGIe0R/black#40"]
+[Solution "c8a6 f5f6 g7h6 e1a1"]
+[SolutionSAN "Ba6 f6 Bh6 Ra1"]
+[FEN "r1b2rk1/p4pbp/2p3p1/3p1P2/8/3B1Q1P/q1P1N1PK/4RR2 b - - 0 20"]
+[SetUp "1"]
+
+20... Ba6 21. f6 Bh6 22. Ra1 *

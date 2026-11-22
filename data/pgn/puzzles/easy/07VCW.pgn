@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07VCW"]
+[Difficulty "easy"]
+[Rating "874"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/JY0aamsb#35"]
+[Solution "c2d3 e5d3 e1f1 b2f2"]
+[SolutionSAN "cxd3 Nxd3+ Kf1 Rf2#"]
+[FEN "4k2r/p1p2pp1/7p/4n3/8/3b2P1/PrP4P/R2BK1NR w KQk - 0 18"]
+[SetUp "1"]
+
+18. cxd3 Nxd3+ 19. Kf1 Rf2# *

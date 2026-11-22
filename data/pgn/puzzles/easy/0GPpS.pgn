@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GPpS"]
+[Difficulty "easy"]
+[Rating "716"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/jUz4KqVq/black#56"]
+[Solution "d8d5 f5e7 g8h7 e7d5"]
+[SolutionSAN "Rxd5 Ne7+ Kh7 Nxd5"]
+[FEN "3r2k1/5pp1/p6p/1p1P1N2/3b4/5PP1/P3K2P/1R6 b - - 2 28"]
+[SetUp "1"]
+
+28... Rxd5 29. Ne7+ Kh7 30. Nxd5 *

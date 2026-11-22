@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ekvz"]
+[Difficulty "easy"]
+[Rating "1177"]
+[Themes "crushing discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/yVRYaIwT/black#26"]
+[Solution "c6e5 f3e5 d6e5 g2b7"]
+[SolutionSAN "Nxe5 Nxe5 Qxe5 Bxb7"]
+[FEN "r3k1nr/1b3pp1/p1nqp3/1pp1P2p/8/2NP1NP1/PPP3BP/R2Q1RK1 b kq - 0 13"]
+[SetUp "1"]
+
+13... Nxe5 14. Nxe5 Qxe5 15. Bxb7 *

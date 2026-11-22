@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03yaI"]
+[Difficulty "easy"]
+[Rating "1090"]
+[Themes "dovetailMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/923uC8SW#61"]
+[Solution "d4d5 b1f1"]
+[SolutionSAN "d5 Qf1#"]
+[FEN "3r1r1k/1p4pp/p1p5/PbR1N3/1P1P1P2/4Q1P1/3R2KP/1q6 w - - 7 31"]
+[SetUp "1"]
+
+31. d5 Qf1# *

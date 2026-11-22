@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KPPb"]
+[Difficulty "medium"]
+[Rating "1557"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/W0t7INJv#87"]
+[Solution "b5c6 f6c6 c5c6 b7c6"]
+[SolutionSAN "bxc6 Rxc6 Qxc6 bxc6"]
+[FEN "8/1p2qrk1/2p2r2/1PQp1Pp1/3Pp1Pp/4P2P/1R6/2R3K1 w - - 1 44"]
+[SetUp "1"]
+
+44. bxc6 Rxc6 45. Qxc6 bxc6 *

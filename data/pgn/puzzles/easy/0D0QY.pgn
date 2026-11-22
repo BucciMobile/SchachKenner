@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D0QY"]
+[Difficulty "easy"]
+[Rating "565"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/QvSVSe2S/black#52"]
+[Solution "a8e8 e2e8 c6e8 e1e8"]
+[SolutionSAN "Rxe8 Qxe8+ Qxe8 Rxe8#"]
+[FEN "r3R1k1/1p3ppp/p1q5/2n3P1/7P/2B5/PPP1Q3/1K2R3 b - - 0 26"]
+[SetUp "1"]
+
+26... Rxe8 27. Qxe8+ Qxe8 28. Rxe8# *

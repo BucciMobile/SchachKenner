@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BuC1"]
+[Difficulty "medium"]
+[Rating "1642"]
+[Themes "crushing defensiveMove endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/ZSW2cw0t/black#96"]
+[Solution "f6f5 g4f5 g6f5 e4d4"]
+[SolutionSAN "f5+ gxf5+ gxf5+ Kd4"]
+[FEN "8/8/4kppp/8/4KPPP/8/8/8 b - - 4 48"]
+[SetUp "1"]
+
+48... f5+ 49. gxf5+ gxf5+ 50. Kd4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IsT4"]
+[Difficulty "hard"]
+[Rating "2663"]
+[Themes "crushing endgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/MJSYhis0#61"]
+[Solution "g3g4 f8d6 g4h5 f6f5 h3h4 d6f4 a5d8 g8h7 h2h3 c2g2"]
+[SolutionSAN "g4 Bd6 gxh5 f5 Kh4 Bf4 Qd8+ Kh7 h3 Rg2"]
+[FEN "5bk1/3p2p1/5p2/Q2P3p/8/2N3PK/P1r4P/8 w - - 4 31"]
+[SetUp "1"]
+
+31. g4 Bd6 32. gxh5 f5 33. Kh4 Bf4 34. Qd8+ Kh7 35. h3 Rg2 *

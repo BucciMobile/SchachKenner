@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K2qb"]
+[Difficulty "hard"]
+[Rating "2307"]
+[Themes "advantage endgame short trappedPiece"]
+[GameUrl "https://lichess.org/game/L3Wfc51c#67"]
+[Solution "c1f1 h3g4 h5g6 g8g6"]
+[SolutionSAN "Rcf1 Bg4 Qxg6 Qxg6"]
+[FEN "6qk/4p2p/pp1p2r1/2pP3Q/2P1P2P/1P5b/P4RP1/2R3K1 w - - 2 34"]
+[SetUp "1"]
+
+34. Rcf1 Bg4 35. Qxg6 Qxg6 *

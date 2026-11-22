@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08M8E"]
+[Difficulty "medium"]
+[Rating "1250"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/ZjY2VucZ#49"]
+[Solution "d3g6 f8g6 e5f6 e7f6"]
+[SolutionSAN "Bxg6 Nxg6 Bxf6 Qxf6"]
+[FEN "2r2nk1/pb1rq2p/1p2pnpQ/4B1N1/3P3R/3B4/P4PPP/4R1K1 w - - 6 25"]
+[SetUp "1"]
+
+25. Bxg6 Nxg6 26. Bxf6 Qxf6 *

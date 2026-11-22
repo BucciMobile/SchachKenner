@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04FZu"]
+[Difficulty "hard"]
+[Rating "2371"]
+[Themes "advantage endgame exposedKing long quietMove"]
+[GameUrl "https://lichess.org/game/0lmuD2Td/black#84"]
+[Solution "d3c4 g2f3 g6f7 f3h5 f7f8 h5h6"]
+[SolutionSAN "Qxc4 Qf3 Kf7 Qh5+ Kf8 Qh6+"]
+[FEN "2b5/8/3p1Pk1/2p1p1P1/2P1P2K/2Pq4/6Q1/8 b - - 4 42"]
+[SetUp "1"]
+
+42... Qxc4 43. Qf3 Kf7 44. Qh5+ Kf8 45. Qh6+ *

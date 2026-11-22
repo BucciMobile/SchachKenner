@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CuLb"]
+[Difficulty "easy"]
+[Rating "1062"]
+[Themes "advantage middlegame pin queensideAttack short"]
+[GameUrl "https://lichess.org/game/1diKpKKe#43"]
+[Solution "d5b7 c5b3 c1b1 b3d2"]
+[SolutionSAN "Bxb7 Nb3+ Kb1 Nxd2+"]
+[FEN "2r1kr2/1b3p1p/p2qp1p1/2nB4/8/N4P1N/1PPQ2PP/2KRR3 w - - 1 22"]
+[SetUp "1"]
+
+22. Bxb7 Nb3+ 23. Kb1 Nxd2+ *

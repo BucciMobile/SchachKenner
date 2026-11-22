@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KjnW"]
+[Difficulty "medium"]
+[Rating "1406"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/IVRSPsIf/black#24"]
+[Solution "b8b5 h1e1 d7e6 c7c6"]
+[SolutionSAN "Rxb5 Re1 Be6 Qxc6+"]
+[FEN "1r2kb1r/p1Qbqppp/2n5/1B6/5P2/8/PPP2KPP/RNB4R b k - 0 12"]
+[SetUp "1"]
+
+12... Rxb5 13. Re1 Be6 14. Qxc6+ *

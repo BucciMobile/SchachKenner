@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GyQx"]
+[Difficulty "hard"]
+[Rating "2114"]
+[Themes "advantage fork long opening"]
+[GameUrl "https://lichess.org/game/kaUGWX24#35"]
+[Solution "f4e3 c5e3 d2e3 d5d4 e3d2 d4c3"]
+[SolutionSAN "Be3 Bxe3 Qxe3 d4 Qd2 dxc3"]
+[FEN "r1nqk3/pp3pp1/2p1p1p1/2bpP1Pr/5B2/2N2P2/PP1Q3P/R3KBR1 w Qq - 0 18"]
+[SetUp "1"]
+
+18. Be3 Bxe3 19. Qxe3 d4 20. Qd2 dxc3 *

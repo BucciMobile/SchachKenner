@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AyxN"]
+[Difficulty "medium"]
+[Rating "1328"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/ooThDA72/black#72"]
+[Solution "f2b2 d4f5 g7g8 f5e7"]
+[SolutionSAN "Qxb2 Nf5+ Kg8 Ne7+"]
+[FEN "8/5pk1/1p3pp1/3b4/3N4/2P3QP/1P3qPK/8 b - - 1 36"]
+[SetUp "1"]
+
+36... Qxb2 37. Nf5+ Kg8 38. Ne7+ *

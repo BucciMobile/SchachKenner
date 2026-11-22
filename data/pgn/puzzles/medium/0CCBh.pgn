@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CCBh"]
+[Difficulty "medium"]
+[Rating "1642"]
+[Themes "crushing kingsideAttack middlegame pin short"]
+[GameUrl "https://lichess.org/game/F5mGO08s/black#42"]
+[Solution "e8e4 g4g6 g8h8 g6h6"]
+[SolutionSAN "Re4 Qxg6+ Kh8 Qxh6+"]
+[FEN "r2qr1k1/pb3p2/1p4pp/2p5/2B3Q1/8/PPP1NPPP/R5K1 b - - 1 21"]
+[SetUp "1"]
+
+21... Re4 22. Qxg6+ Kh8 23. Qxh6+ *

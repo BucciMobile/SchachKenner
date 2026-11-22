@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02lQd"]
+[Difficulty "easy"]
+[Rating "1135"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/ANThSdxV#65"]
+[Solution "d1e1 d4f2 c7g3 f2e1"]
+[SolutionSAN "Re1 Bf2+ Bg3 Bxe1"]
+[FEN "8/p1B5/1pn3k1/2p4p/3b3K/5P2/P7/3R4 w - - 1 33"]
+[SetUp "1"]
+
+33. Re1 Bf2+ 34. Bg3 Bxe1 *

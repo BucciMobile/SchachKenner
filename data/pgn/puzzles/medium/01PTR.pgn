@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01PTR"]
+[Difficulty "medium"]
+[Rating "1256"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/eVOlQeMa/black#42"]
+[Solution "d8d6 d5g8 f8g8 d1d6"]
+[SolutionSAN "Qxd6 Bg8+ Rxg8 Qxd6"]
+[FEN "2bq1r2/r5bk/1p1P3p/pPpBppp1/P1P5/5PB1/6PP/R2Q1RK1 b - - 0 21"]
+[SetUp "1"]
+
+21... Qxd6 22. Bg8+ Rxg8 23. Qxd6 *

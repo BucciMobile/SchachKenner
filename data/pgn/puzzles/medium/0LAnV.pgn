@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LAnV"]
+[Difficulty "medium"]
+[Rating "1273"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/q0fvmEaI#35"]
+[Solution "d2e3 e7f5 e3d2 e4f3"]
+[SolutionSAN "Qe3 Nf5 Qd2 Bxf3"]
+[FEN "2rqk2r/1p2npp1/p2bp3/3p2Pp/3PbB1P/P1P2B2/1P1QNP2/R3K2R w KQk - 1 18"]
+[SetUp "1"]
+
+18. Qe3 Nf5 19. Qd2 Bxf3 *

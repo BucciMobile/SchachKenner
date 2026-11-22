@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-21",
+ "generated": "2026-11-22",
  "seed": 20261121,
- "perLevel": 800,
+ "perLevel": 3000,
  "source": "https://database.lichess.org/lichess_db_puzzle.csv.zst",
  "license": "CC0 1.0 — licenses/lichess-database-cc0.md",
  "bands": {
@@ -11,26 +11,26 @@
  },
  "levels": {
   "easy": {
-   "count": 800,
-   "pgnFiles": 800,
+   "count": 3000,
+   "pgnFiles": 3000,
    "skippedInvalid": 0
   },
   "medium": {
-   "count": 800,
-   "pgnFiles": 800,
+   "count": 3000,
+   "pgnFiles": 3000,
    "skippedInvalid": 0
   },
   "hard": {
-   "count": 800,
-   "pgnFiles": 800,
+   "count": 3000,
+   "pgnFiles": 3000,
    "skippedInvalid": 0
   }
  },
  "sha256": {
-  "index.json": "18ba451ffbd974f2933fbb6ff1980f5ecab2b6db8ac014d2289a3e9fa8cb221b",
-  "easy.json": "4ef4d8543dea6a67c2ee3edc5a8c960c64ca86d77f2e1061b24e51869844ce8d",
-  "medium.json": "54e8172bd138fa73f592c59fcdd6557c3d8de25ca354b83077809537f9653414",
-  "hard.json": "01f1fb8e49567908d15ce7b3b6f1254f9c12ddd65a7a00a7fed37d1082fcee36"
+  "index.json": "edfaca1bbece99d27e613b170eb019714ae5e4190211a0c5efb8748232e63008",
+  "easy.json": "c2ec61c7e4bd23ced6bccc9ec0fe37ed1d86d1190d62dfb16660ea2763b2d013",
+  "medium.json": "bb74d238d97508a8afec4a303096fc84fcfe76964072c69704093334d4041f50",
+  "hard.json": "59d11ff39da407d25f943b8020806953cc0ccf3284d3bca5bfb98a9de66c0e62"
  },
- "count": 2400
+ "count": 9000
 }

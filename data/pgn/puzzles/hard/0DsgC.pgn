@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DsgC"]
+[Difficulty "hard"]
+[Rating "2617"]
+[Themes "crushing endgame exposedKing master pawnEndgame veryLong"]
+[GameUrl "https://lichess.org/game/1WhvF0Eq/black#94"]
+[Solution "b5a4 b3a4 e7f6 h6h5 f6f5 g3g4 f5f4 h3h4 g5h4 h5h4"]
+[SolutionSAN "bxa4 bxa4 Kf6 Kh5 Kf5 g4+ Kf4 h4 gxh4 Kxh4"]
+[FEN "8/4k3/2p4K/pp1p2p1/P7/1P4PP/2P2P2/8 b - - 0 47"]
+[SetUp "1"]
+
+47... bxa4 48. bxa4 Kf6 49. Kh5 Kf5 50. g4+ Kf4 51. h4 gxh4 52. Kxh4 *

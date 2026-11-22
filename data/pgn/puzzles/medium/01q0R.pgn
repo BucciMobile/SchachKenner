@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01q0R"]
+[Difficulty "medium"]
+[Rating "1647"]
+[Themes "advantage long middlegame trappedPiece"]
+[GameUrl "https://lichess.org/game/kPHFbMCc/black#36"]
+[Solution "c5d4 h1e1 e4f5 g2g4 f5f3 f2f3"]
+[SolutionSAN "cxd4 Re1 Qf5 g4 Qxf3+ Kxf3"]
+[FEN "r3k2r/pp1n1pp1/4p1p1/2ppP3/3Pq3/1P3N1P/P1P2KP1/R1Q4R b kq - 3 18"]
+[SetUp "1"]
+
+18... cxd4 19. Re1 Qf5 20. g4 Qxf3+ 21. Kxf3 *

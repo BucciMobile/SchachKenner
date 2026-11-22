@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hou3"]
+[Difficulty "easy"]
+[Rating "1036"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/fkqo0wJG#61"]
+[Solution "b7f7 d3b2 a4a5 e3a3"]
+[SolutionSAN "Rbf7 Nxb2+ Ka5 Ra3#"]
+[FEN "k7/1R5R/p4p2/2b5/K1P5/3nrP2/PP5P/8 w - - 1 31"]
+[SetUp "1"]
+
+31. Rbf7 Nxb2+ 32. Ka5 Ra3# *

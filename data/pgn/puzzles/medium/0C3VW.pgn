@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C3VW"]
+[Difficulty "medium"]
+[Rating "1356"]
+[Themes "crushing opening pin short"]
+[GameUrl "https://lichess.org/game/L25NlIQi#23"]
+[Solution "d1d4 d6c5 c1e3 c5d4"]
+[SolutionSAN "Qxd4 Bc5 Be3 Bxd4"]
+[FEN "r1bqk2r/pp3ppp/2pb4/8/3pnP2/1N6/PPP1B1PP/R1BQ1RK1 w kq - 0 12"]
+[SetUp "1"]
+
+12. Qxd4 Bc5 13. Be3 Bxd4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FTba"]
+[Difficulty "easy"]
+[Rating "1098"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/nat29bYG/black#54"]
+[Solution "e6g4 f3g4 f7f1 g2f1"]
+[SolutionSAN "Bxg4 fxg4 Rxf1+ Bxf1"]
+[FEN "5rk1/pp3rb1/3pb2p/PPp1p1q1/2P3P1/2BP1P2/2QR2B1/5RK1 b - - 0 27"]
+[SetUp "1"]
+
+27... Bxg4 28. fxg4 Rxf1+ 29. Bxf1 *

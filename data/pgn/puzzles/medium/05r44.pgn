@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05r44"]
+[Difficulty "medium"]
+[Rating "1525"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/zuYRRJsM#27"]
+[Solution "e3f2 g7h6 g2g4 h6d2"]
+[SolutionSAN "Bf2 Bh6 g4 Bxd2+"]
+[FEN "r1bq1rk1/pp1n1pbp/4p1p1/4Pn2/8/2N1BN2/PPPQB1PP/2KR3R w - - 3 14"]
+[SetUp "1"]
+
+14. Bf2 Bh6 15. g4 Bxd2+ *

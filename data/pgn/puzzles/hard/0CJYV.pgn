@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CJYV"]
+[Difficulty "hard"]
+[Rating "1986"]
+[Themes "advancedPawn crushing endgame promotion quietMove veryLong"]
+[GameUrl "https://lichess.org/game/lsQj3J1U/black#84"]
+[Solution "c6c1 b4e1 a8e8 d6d7 e8d7 e7e8q d7e8 e5e8"]
+[SolutionSAN "Rc1 Be1 Qe8 d7 Qxd7 e8=Q Qxe8 Rxe8"]
+[FEN "q7/4P2k/2rP2p1/1p2Rp1p/pB3P1P/P5P1/5P1K/8 b - - 2 42"]
+[SetUp "1"]
+
+42... Rc1 43. Be1 Qe8 44. d7 Qxd7 45. e8=Q Qxe8 46. Rxe8 *

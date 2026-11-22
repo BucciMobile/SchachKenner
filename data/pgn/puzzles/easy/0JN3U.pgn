@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JN3U"]
+[Difficulty "easy"]
+[Rating "889"]
+[Themes "crushing defensiveMove endgame knightEndgame master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/MrHdFPKo/black#124"]
+[Solution "c5e4 f6f5 e4g3 f5g4"]
+[SolutionSAN "Nxe4+ Kf5 Ng3+ Kg4"]
+[FEN "8/1P1k4/3p1K2/N1nPp3/4P3/8/8/8 b - - 0 62"]
+[SetUp "1"]
+
+62... Nxe4+ 63. Kf5 Ng3+ 64. Kg4 *

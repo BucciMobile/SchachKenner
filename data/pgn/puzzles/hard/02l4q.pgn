@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02l4q"]
+[Difficulty "hard"]
+[Rating "2275"]
+[Themes "crushing defensiveMove middlegame quietMove short"]
+[GameUrl "https://lichess.org/game/TJKSKzw3/black#42"]
+[Solution "a4g4 d1h1 h7h5 e3e4"]
+[SolutionSAN "Qg4 Rdh1 h5 e4"]
+[FEN "r4rk1/ppp2p1p/2n2Pp1/4p3/q7/P3P1BR/1PPQ1P2/2KR4 b - - 0 21"]
+[SetUp "1"]
+
+21... Qg4 22. Rdh1 h5 23. e4 *

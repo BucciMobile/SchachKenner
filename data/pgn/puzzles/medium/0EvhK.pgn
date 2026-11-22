@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EvhK"]
+[Difficulty "medium"]
+[Rating "1396"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/K5Hr26f3#67"]
+[Solution "e2b5 d8d6 a3a4 c6b5"]
+[SolutionSAN "Qb5 Rxd6 a4 Qxb5"]
+[FEN "3r2k1/p5np/2qNpbp1/2Pp4/5B2/P6P/4QPP1/2R3K1 w - - 2 34"]
+[SetUp "1"]
+
+34. Qb5 Rxd6 35. a4 Qxb5 *

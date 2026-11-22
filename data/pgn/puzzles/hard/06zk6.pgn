@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06zk6"]
+[Difficulty "hard"]
+[Rating "2053"]
+[Themes "advantage defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/ESsyVOax/black#48"]
+[Solution "e5c4 d2c3 c4d6 c5d6"]
+[SolutionSAN "Nc4+ Kc3 Nxd6 cxd6"]
+[FEN "r5k1/4r1p1/b1pNp2p/p1P1n2B/P7/8/3K2PP/1R2R3 b - - 3 24"]
+[SetUp "1"]
+
+24... Nc4+ 25. Kc3 Nxd6 26. cxd6 *

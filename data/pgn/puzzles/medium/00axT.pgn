@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00axT"]
+[Difficulty "medium"]
+[Rating "1692"]
+[Themes "crushing endgame long master rookEndgame"]
+[GameUrl "https://lichess.org/game/g4Wa6pYc/black#96"]
+[Solution "e2f2 d8d3 f2g2 d3d2 g2d2 d1d2"]
+[SolutionSAN "Rxf2 Rxd3 Rxg2 Rd2+ Rxd2+ Kxd2"]
+[FEN "3R4/8/8/5p2/8/3p3P/1k2rPP1/3K4 b - - 25 48"]
+[SetUp "1"]
+
+48... Rxf2 49. Rxd3 Rxg2 50. Rd2+ Rxd2+ 51. Kxd2 *

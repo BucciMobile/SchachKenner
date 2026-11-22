@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EyEU"]
+[Difficulty "hard"]
+[Rating "2196"]
+[Themes "advantage hangingPiece long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/c5Eh26Ae#49"]
+[Solution "c6d7 c8c1 e2f1 h6f7 b1d2 c1a1"]
+[SolutionSAN "cxd7 Rxc1+ Bf1 Nf7 Nbd2 Rxa1"]
+[FEN "2r3k1/3q2bp/2P2p1n/4p1p1/1p2b3/5N2/P3BPPP/RNR3K1 w - - 0 25"]
+[SetUp "1"]
+
+25. cxd7 Rxc1+ 26. Bf1 Nf7 27. Nbd2 Rxa1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00UEs"]
+[Difficulty "medium"]
+[Rating "1495"]
+[Themes "advantage deflection endgame master short"]
+[GameUrl "https://lichess.org/game/Owc0qiXL/black#80"]
+[Solution "f6e5 d7d5 e5f4 d5d4"]
+[SolutionSAN "Ke5 Rd5+ Kf4 Rxd4"]
+[FEN "8/3R3p/5kp1/8/2Bnp3/1P5P/P6r/4K3 b - - 1 40"]
+[SetUp "1"]
+
+40... Ke5 41. Rd5+ Kf4 42. Rxd4 *

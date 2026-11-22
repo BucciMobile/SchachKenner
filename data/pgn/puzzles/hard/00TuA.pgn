@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00TuA"]
+[Difficulty "hard"]
+[Rating "2173"]
+[Themes "crushing defensiveMove endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/qtped91w#73"]
+[Solution "e3f2 f4g3 f2g3 e5f5"]
+[SolutionSAN "Kf2 fxg3+ Kxg3 Kf5"]
+[FEN "8/6p1/8/pp2k1p1/2p2p2/2P1KPPP/PP6/8 w - - 0 37"]
+[SetUp "1"]
+
+37. Kf2 fxg3+ 38. Kxg3 Kf5 *

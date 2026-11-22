@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EA28"]
+[Difficulty "medium"]
+[Rating "1690"]
+[Themes "crushing endgame fork long master quietMove"]
+[GameUrl "https://lichess.org/game/RNeL6n3d/black#70"]
+[Solution "h7g6 e1f1 c6e7 f1f6 d6f6 g5f6"]
+[SolutionSAN "Kg6 Rf1 Ne7 Rf6+ Qxf6 gxf6"]
+[FEN "8/7k/2nq3P/p2pp1Pp/Pp1p4/1B1P4/1PPB2K1/4R3 b - - 2 35"]
+[SetUp "1"]
+
+35... Kg6 36. Rf1 Ne7 37. Rf6+ Qxf6 38. gxf6 *

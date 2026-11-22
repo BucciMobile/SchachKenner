@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03TUS"]
+[Difficulty "medium"]
+[Rating "1602"]
+[Themes "advantage attraction master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/9O0X27Qu/black#54"]
+[Solution "f8f7 c7f7 g8f7 e2f3"]
+[SolutionSAN "Rxf7 Rxf7 Kxf7 Qf3+"]
+[FEN "r4rk1/p1R2Npp/1p2p3/4P3/6Pb/3R3P/qP2QP2/6K1 b - - 0 27"]
+[SetUp "1"]
+
+27... Rxf7 28. Rxf7 Kxf7 29. Qf3+ *

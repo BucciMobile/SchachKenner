@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JJS0"]
+[Difficulty "easy"]
+[Rating "547"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/HHeCp3KV#47"]
+[Solution "d4c6 d8d1"]
+[SolutionSAN "Nxc6 Rd1#"]
+[FEN "1b1r3k/pp4p1/2n4p/2P5/3NR3/2P1B2P/PP3PP1/6K1 w - - 4 24"]
+[SetUp "1"]
+
+24. Nxc6 Rd1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09uC7"]
+[Difficulty "hard"]
+[Rating "2361"]
+[Themes "advantage fork long opening"]
+[GameUrl "https://lichess.org/game/NB6nJuuZ/black#20"]
+[Solution "f6e4 d1h5 f7f6 d2d3 e6f5 d3c4"]
+[SolutionSAN "Ne4 Qh5+ Kf6 d3 exf5 dxc4"]
+[FEN "rnb4r/pp2bkpp/4pn2/2p2P2/2q5/8/PPPP1RPP/RNBQ2K1 b - - 0 10"]
+[SetUp "1"]
+
+10... Ne4 11. Qh5+ Kf6 12. d3 exf5 13. dxc4 *

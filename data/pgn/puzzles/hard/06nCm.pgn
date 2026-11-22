@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06nCm"]
+[Difficulty "hard"]
+[Rating "1827"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/1URjhPTM/black#28"]
+[Solution "g4f3 d2h6 g7g6 d3g6"]
+[SolutionSAN "Bxf3 Bxh6 g6 Bxg6"]
+[FEN "r2q1rk1/ppp2pp1/2np3p/4P3/3P2b1/3B1N2/P2B1P1P/1Q2K1R1 b - - 1 14"]
+[SetUp "1"]
+
+14... Bxf3 15. Bxh6 g6 16. Bxg6 *

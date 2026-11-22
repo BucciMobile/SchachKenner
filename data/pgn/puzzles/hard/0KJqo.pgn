@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KJqo"]
+[Difficulty "hard"]
+[Rating "2153"]
+[Themes "attraction discoveredAttack long mate mateIn3 middlegame queensideAttack sacrifice"]
+[GameUrl "https://lichess.org/game/c9mCxbYp#43"]
+[Solution "c2c3 e3c3 c1b1 c3c1 b1c1 f6b2"]
+[SolutionSAN "c3 Rxc3+ Kb1 Rc1+ Kxc1 Qxb2#"]
+[FEN "6k1/ppp2ppp/1r3q1P/3p4/5P2/P3rBQ1/1PP3P1/2KRR3 w - - 4 22"]
+[SetUp "1"]
+
+22. c3 Rxc3+ 23. Kb1 Rc1+ 24. Kxc1 Qxb2# *

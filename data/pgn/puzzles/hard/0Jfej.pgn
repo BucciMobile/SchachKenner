@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jfej"]
+[Difficulty "hard"]
+[Rating "1943"]
+[Themes "advancedPawn crushing endgame queenEndgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/flaxu1nD/black#94"]
+[Solution "c5c4 h3c3 d4c3 c2c3 h8g7 a3a4 g7f8 a4a5 f8e7 a5a6 e7d6 a6a7"]
+[SolutionSAN "c4 Qc3 Qxc3+ Kxc3 Kg7 a4 Kf8 a5 Ke7 a6 Kd6 a7"]
+[FEN "7k/8/7p/2pp4/3q4/P6Q/2K4P/8 b - - 7 47"]
+[SetUp "1"]
+
+47... c4 48. Qc3 Qxc3+ 49. Kxc3 Kg7 50. a4 Kf8 51. a5 Ke7 52. a6 Kd6 53. a7 *

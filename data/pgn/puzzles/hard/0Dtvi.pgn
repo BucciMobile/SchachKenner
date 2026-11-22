@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dtvi"]
+[Difficulty "hard"]
+[Rating "1836"]
+[Themes "crushing defensiveMove kingsideAttack opening short"]
+[GameUrl "https://lichess.org/game/qR7aocaU/black#28"]
+[Solution "e4f2 d3h7 g8h8 d1h5"]
+[SolutionSAN "Nxf2 Bxh7+ Kh8 Qh5"]
+[FEN "r2q1rk1/pbp1b1pp/1p2p3/3pP1N1/4n2P/2PB4/PP3PP1/R1BQK2R b KQ - 2 14"]
+[SetUp "1"]
+
+14... Nxf2 15. Bxh7+ Kh8 16. Qh5 *

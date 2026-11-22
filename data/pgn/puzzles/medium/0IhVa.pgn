@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IhVa"]
+[Difficulty "medium"]
+[Rating "1556"]
+[Themes "advancedPawn advantage endgame promotion queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/qdNlYkP2/black#78"]
+[Solution "d4d3 a6b5 c6b5 b7b8q"]
+[SolutionSAN "d3 Qxb5 cxb5 b8=Q"]
+[FEN "8/1P3pk1/Q1p2pp1/1r6/3pr1P1/7P/5PK1/8 b - - 0 39"]
+[SetUp "1"]
+
+39... d3 40. Qxb5 cxb5 41. b8=Q *

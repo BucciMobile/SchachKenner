@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KA2Q"]
+[Difficulty "hard"]
+[Rating "2000"]
+[Themes "mate mateIn2 middlegame operaMate sacrifice short"]
+[GameUrl "https://lichess.org/game/oF9kfJrp#61"]
+[Solution "h7f5 g4g3 h2g3 h8h1"]
+[SolutionSAN "Bf5 Qxg3+ hxg3 Rh1#"]
+[FEN "2k4r/pb1R3B/1p6/2p5/1PP3q1/6P1/P2Qr2P/5RK1 w - - 1 31"]
+[SetUp "1"]
+
+31. Bf5 Qxg3+ 32. hxg3 Rh1# *

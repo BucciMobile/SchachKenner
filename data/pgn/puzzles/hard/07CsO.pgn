@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07CsO"]
+[Difficulty "hard"]
+[Rating "1846"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/9Af0XRXt/black#50"]
+[Solution "c3e4 d4c6 c8c6 c1c6"]
+[SolutionSAN "Nxe4 Nc6 Rxc6 Rxc6"]
+[FEN "2rr2k1/5p1p/1p4p1/p4p2/3NQ3/2n1P2P/P4PP1/2R1R1K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Nxe4 26. Nc6 Rxc6 27. Rxc6 *

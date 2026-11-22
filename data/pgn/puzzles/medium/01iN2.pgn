@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01iN2"]
+[Difficulty "medium"]
+[Rating "1549"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/nX88Xou5#17"]
+[Solution "d5d6 g7h6"]
+[SolutionSAN "d6 Bh6#"]
+[FEN "r1b1k1nr/pp1p1pbp/4p1p1/2pPP3/4q3/2P5/PP1K2PP/RNBQ1BNR w kq - 0 9"]
+[SetUp "1"]
+
+9. d6 Bh6# *

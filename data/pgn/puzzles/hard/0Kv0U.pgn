@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kv0U"]
+[Difficulty "hard"]
+[Rating "2347"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/cy8mx44o/black#54"]
+[Solution "d7e5 c1b1 b4b1 c3b1"]
+[SolutionSAN "Nxe5 Rb1 Qxb1 Nxb1"]
+[FEN "1r2b1k1/3nPppp/2r1p3/4P3/1q6/2N1B1PP/3Q4/2R2RK1 b - - 0 27"]
+[SetUp "1"]
+
+27... Nxe5 28. Rb1 Qxb1 29. Nxb1 *

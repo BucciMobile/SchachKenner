@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06H8E"]
+[Difficulty "medium"]
+[Rating "1357"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/IhmeFYDg#73"]
+[Solution "a3a4 e4c4 c2c4 c5c4"]
+[SolutionSAN "a4 Rxc4 Rxc4 Qxc4"]
+[FEN "6k1/5pb1/6bp/2qP1p2/2N1rP2/P4QPP/2R3BK/8 w - - 3 37"]
+[SetUp "1"]
+
+37. a4 Rxc4 38. Rxc4 Qxc4 *

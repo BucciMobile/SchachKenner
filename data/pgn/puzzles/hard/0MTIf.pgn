@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MTIf"]
+[Difficulty "hard"]
+[Rating "2765"]
+[Themes "advantage middlegame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/ix98WSCb#35"]
+[Solution "d3e4 e5g6 d4e3 g6f4 e3f4 g5f4 f2f3 d6d5"]
+[SolutionSAN "Be4 Ng6 Be3 Nf4 Bxf4 Qxf4 f3 d5"]
+[FEN "3rr1k1/1bp2pp1/pp1p3p/4n1q1/3B4/P1PB3P/2P1QPPN/R4RK1 w - - 2 18"]
+[SetUp "1"]
+
+18. Be4 Ng6 19. Be3 Nf4 20. Bxf4 Qxf4 21. f3 d5 *

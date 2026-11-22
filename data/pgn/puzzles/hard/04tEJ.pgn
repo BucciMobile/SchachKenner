@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04tEJ"]
+[Difficulty "hard"]
+[Rating "2231"]
+[Themes "advancedPawn advantage endgame hangingPiece long"]
+[GameUrl "https://lichess.org/game/gMOaeG21/black#70"]
+[Solution "b3b5 c5b5 a4a3 b5b6 a3a2 d6d7"]
+[SolutionSAN "Rxb5+ Kxb5 a3 Kb6 a2 d7"]
+[FEN "5k2/1p3p1p/3P2p1/1NK5/p1P5/1r4PP/5P2/8 b - - 0 35"]
+[SetUp "1"]
+
+35... Rxb5+ 36. Kxb5 a3 37. Kb6 a2 38. d7 *

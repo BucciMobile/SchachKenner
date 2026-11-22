@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HeTA"]
+[Difficulty "hard"]
+[Rating "2418"]
+[Themes "crushing kingsideAttack long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/poPUPBC5/black#38"]
+[Solution "h6g5 d6g6 g8h7 e2h5 f5e4 f4g5"]
+[SolutionSAN "hxg5 Rxg6+ Kh7 Bh5 fxe4 fxg5"]
+[FEN "r1b2rk1/pp2q3/1n1R2pp/2p2pN1/2P1NP2/1P2P3/PQ2B1PP/6K1 b - - 1 19"]
+[SetUp "1"]
+
+19... hxg5 20. Rxg6+ Kh7 21. Bh5 fxe4 22. fxg5 *

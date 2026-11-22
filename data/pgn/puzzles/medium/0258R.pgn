@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0258R"]
+[Difficulty "medium"]
+[Rating "1457"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/LPUpfznj/black#44"]
+[Solution "g4e6 e2e3 b6e3 e1e3"]
+[SolutionSAN "Be6 Qxe3 Qxe3 Rxe3"]
+[FEN "2r1r1k1/pp3ppp/1q6/8/6b1/1BP1nN2/P3Q1PP/3RR2K b - - 7 22"]
+[SetUp "1"]
+
+22... Be6 23. Qxe3 Qxe3 24. Rxe3 *

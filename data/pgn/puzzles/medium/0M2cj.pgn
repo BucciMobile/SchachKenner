@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M2cj"]
+[Difficulty "medium"]
+[Rating "1459"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/W2DIwZFp/black#66"]
+[Solution "f4e5 d6f7"]
+[SolutionSAN "Ke5 Nf7#"]
+[FEN "r6r/p7/3Npp1p/3p4/q4kQ1/5P2/5P1P/6K1 b - - 7 33"]
+[SetUp "1"]
+
+33... Ke5 34. Nf7# *

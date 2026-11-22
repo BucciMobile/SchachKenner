@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IHWA"]
+[Difficulty "easy"]
+[Rating "719"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/HSecJKaB/black#46"]
+[Solution "c5d4 d3h7"]
+[SolutionSAN "cxd4 Qxh7#"]
+[FEN "3r1rk1/1bn1qppp/p3pb2/P1p5/1pPP4/3QBP2/1PB1N1PP/R4RK1 b - - 1 23"]
+[SetUp "1"]
+
+23... cxd4 24. Qxh7# *

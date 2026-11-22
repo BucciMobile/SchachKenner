@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03sAx"]
+[Difficulty "medium"]
+[Rating "1554"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/d0ofnTuB#53"]
+[Solution "f3g3 c5f2 g3g7 f2h4"]
+[SolutionSAN "Rg3 Bf2 Rxg7 Bxh4"]
+[FEN "7k/p4prp/3q1p2/1pbppP2/7Q/1B1P1R1P/PPP3P1/7K w - - 0 27"]
+[SetUp "1"]
+
+27. Rg3 Bf2 28. Rxg7 Bxh4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0PAxJ"]
+[Difficulty "medium"]
+[Rating "1469"]
+[Themes "advancedPawn crushing endgame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/wSZ4IHfq/black#78"]
+[Solution "c3c2 b3c2 b4c2 c5c6 b7c6 b5c6 c2b4 c6c7"]
+[SolutionSAN "c2 Bxc2 Nxc2 c6 bxc6 bxc6 Nb4 c7"]
+[FEN "8/1p6/6k1/1PP3p1/1n2p1P1/1Bp1P3/5K2/8 b - - 3 39"]
+[SetUp "1"]
+
+39... c2 40. Bxc2 Nxc2 41. c6 bxc6 42. bxc6 Nb4 43. c7 *

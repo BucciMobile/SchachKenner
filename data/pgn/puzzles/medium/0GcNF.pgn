@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GcNF"]
+[Difficulty "medium"]
+[Rating "1390"]
+[Themes "endgame kingsideAttack mate mateIn2 pin sacrifice short"]
+[GameUrl "https://lichess.org/game/847VIb4C#45"]
+[Solution "e4d6 d4f2 f1f2 c2c1"]
+[SolutionSAN "Nd6 Qxf2+ Rxf2 Rc1#"]
+[FEN "5k2/pp4pp/1b2Qp2/4p3/3qN3/1P1P4/P1r2PPP/5RK1 w - - 0 23"]
+[SetUp "1"]
+
+23. Nd6 Qxf2+ 24. Rxf2 Rc1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Ag8"]
+[Difficulty "easy"]
+[Rating "968"]
+[Themes "advantage defensiveMove hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/CYR8EW66#55"]
+[Solution "g5g7 g8g7 e3g5 e7g6"]
+[SolutionSAN "Rxg7+ Kxg7 Qg5+ Ng6"]
+[FEN "r4rk1/4npp1/p2p4/2p1p1R1/4P3/1BPPQNPq/P3K2N/8 w - - 5 28"]
+[SetUp "1"]
+
+28. Rxg7+ Kxg7 29. Qg5+ Ng6 *

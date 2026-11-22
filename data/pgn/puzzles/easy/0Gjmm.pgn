@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gjmm"]
+[Difficulty "easy"]
+[Rating "1128"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/DsQqs6Le#33"]
+[Solution "e4d5 d4c2 e1f1 c2a3"]
+[SolutionSAN "exd5 Nc2+ Kf1 Nxa3"]
+[FEN "5rk1/5pp1/3p1q1p/3np3/2pnP3/Q4B2/PP3PPP/R1B1K2R w KQ - 0 17"]
+[SetUp "1"]
+
+17. exd5 Nc2+ 18. Kf1 Nxa3 *

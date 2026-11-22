@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CM57"]
+[Difficulty "medium"]
+[Rating "1661"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/S2FiECDx#21"]
+[Solution "d2c3 c5b4 c3b4 b2b4"]
+[SolutionSAN "Qc3 Bb4 Qxb4 Qxb4+"]
+[FEN "r1b1k1nr/pp4pp/5p2/2bpp3/7B/4PN2/1qPQ1PPP/RN2KB1R w KQkq - 2 11"]
+[SetUp "1"]
+
+11. Qc3 Bb4 12. Qxb4 Qxb4+ *

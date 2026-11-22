@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06w9M"]
+[Difficulty "medium"]
+[Rating "1613"]
+[Themes "advantage deflection endgame master short"]
+[GameUrl "https://lichess.org/game/09nOwsu0#77"]
+[Solution "c8c7 d1f3 f2e1 f3g3"]
+[SolutionSAN "Rc7 Qf3+ Ke1 Qxg3+"]
+[FEN "2R5/6pk/6p1/pB3p2/P3p3/2B3PP/1P3K2/3q4 w - - 2 39"]
+[SetUp "1"]
+
+39. Rc7 Qf3+ 40. Ke1 Qxg3+ *

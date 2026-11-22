@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NiAS"]
+[Difficulty "medium"]
+[Rating "1397"]
+[Themes "crushing defensiveMove endgame long pawnEndgame quietMove"]
+[GameUrl "https://lichess.org/game/zJqgVAyl#53"]
+[Solution "e1f2 f5g4 f2g3 h7h5 g3h4 g7g6"]
+[SolutionSAN "Kf2 fxg4 Kg3 h5 Kh4 g6"]
+[FEN "6k1/p5pp/1p6/2p2p2/3p1PP1/1P1P4/P1P4P/4K3 w - - 0 27"]
+[SetUp "1"]
+
+27. Kf2 fxg4 28. Kg3 h5 29. Kh4 g6 *

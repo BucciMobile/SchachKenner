@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A9Wa"]
+[Difficulty "medium"]
+[Rating "1609"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/STlPmu9e#59"]
+[Solution "d7b7 c4f4 f1g1 e8e1"]
+[SolutionSAN "Rxb7 Rf4+ Kg1 Re1#"]
+[FEN "2k1r3/pp1R2Rp/8/8/2r5/8/6PP/5K2 w - - 0 30"]
+[SetUp "1"]
+
+30. Rxb7 Rf4+ 31. Kg1 Re1# *

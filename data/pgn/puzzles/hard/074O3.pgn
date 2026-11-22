@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "074O3"]
+[Difficulty "hard"]
+[Rating "2716"]
+[Themes "crushing discoveredAttack discoveredCheck long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/wgl3tgCl/black#52"]
+[Solution "g7g6 c2g6 c5e6 g5g3 c8c4 g6e4"]
+[SolutionSAN "g6 Bxg6 Ne6 Qg3 Rxc4 Be4+"]
+[FEN "2r1r1k1/4bpp1/3p1n1B/p1nqp1Q1/PpR5/1P3P2/N1B3PP/5RK1 b - - 1 26"]
+[SetUp "1"]
+
+26... g6 27. Bxg6 Ne6 28. Qg3 Rxc4 29. Be4+ *

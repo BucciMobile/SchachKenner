@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FVN6"]
+[Difficulty "hard"]
+[Rating "1769"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/LQGkOtTY#55"]
+[Solution "f1b5 d4f3 g2f3 d5d2"]
+[SolutionSAN "Bxb5 Nf3+ gxf3 Qxd2"]
+[FEN "1k1r3r/6pp/3p4/1p1qp3/1P1n4/R6P/3Q1PP1/R4BK1 w - - 0 28"]
+[SetUp "1"]
+
+28. Bxb5 Nf3+ 29. gxf3 Qxd2 *

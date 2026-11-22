@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HSTS"]
+[Difficulty "medium"]
+[Rating "1646"]
+[Themes "master mate mateIn1 middlegame oneMove pin"]
+[GameUrl "https://lichess.org/game/HiWcV2cm#49"]
+[Solution "d2e4 g5g1"]
+[SolutionSAN "Nxe4 Qg1#"]
+[FEN "r4r2/6k1/2nP2pp/p1p3q1/1pP1b3/PP3N1n/3NB2P/R2QRK2 w - - 7 25"]
+[SetUp "1"]
+
+25. Nxe4 Qg1# *

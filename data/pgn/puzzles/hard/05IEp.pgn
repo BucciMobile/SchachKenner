@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05IEp"]
+[Difficulty "hard"]
+[Rating "2106"]
+[Themes "crushing endgame fork pin veryLong"]
+[GameUrl "https://lichess.org/game/KBIRamqJ/black#64"]
+[Solution "f4g3 g6h6 h8g8 e1e6 c7g7 e6g6 g3f2 g1f1"]
+[SolutionSAN "fxg3 Qh6+ Kg8 Re6 Qg7 Rg6 gxf2+ Kf1"]
+[FEN "5r1k/p1q5/2p3Q1/1p1p4/5pp1/2P3P1/PP3P2/4R1K1 b - - 0 32"]
+[SetUp "1"]
+
+32... fxg3 33. Qh6+ Kg8 34. Re6 Qg7 35. Rg6 gxf2+ 36. Kf1 *

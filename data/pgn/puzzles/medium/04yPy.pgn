@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04yPy"]
+[Difficulty "medium"]
+[Rating "1405"]
+[Themes "advancedPawn discoveredCheck doubleCheck mate mateIn2 middlegame promotion short"]
+[GameUrl "https://lichess.org/game/uh2bAjD5#51"]
+[Solution "b2a3 b3b2 a1a2 b2b1q"]
+[SolutionSAN "bxa3 b2+ Ka2 b1=Q#"]
+[FEN "2r3kb/4pp1p/3p1npB/4PN1P/6P1/rp3P2/1PqQ4/K2R3R w - - 0 26"]
+[SetUp "1"]
+
+26. bxa3 b2+ 27. Ka2 b1=Q# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JGfV"]
+[Difficulty "medium"]
+[Rating "1289"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/DLASx5Fl/black#44"]
+[Solution "e8g8 g5h4 g7h5 f3h5"]
+[SolutionSAN "Rg8 Qh4+ Ngh5 Bxh5"]
+[FEN "r3r3/1bp1qpnk/1p3n2/p3pPQ1/4P3/2N2B2/PPP4P/R2R3K b - - 1 22"]
+[SetUp "1"]
+
+22... Rg8 23. Qh4+ Ngh5 24. Bxh5 *

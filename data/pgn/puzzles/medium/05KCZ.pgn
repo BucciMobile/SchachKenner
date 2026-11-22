@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05KCZ"]
+[Difficulty "medium"]
+[Rating "1648"]
+[Themes "advantage enPassant endgame long"]
+[GameUrl "https://lichess.org/game/4SNJq7Ag/black#60"]
+[Solution "g7g5 f5g6 e5g6 f4f5 g6e7 f5f6"]
+[SolutionSAN "g5+ fxg6 Nxg6+ Kf5 Ne7+ Kxf6"]
+[FEN "8/ppp3p1/3k1p1p/4nP2/5KP1/1BP4P/P7/8 b - - 0 30"]
+[SetUp "1"]
+
+30... g5+ 31. fxg6 Nxg6+ 32. Kf5 Ne7+ 33. Kxf6 *

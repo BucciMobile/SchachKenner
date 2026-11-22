@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GTKr"]
+[Difficulty "easy"]
+[Rating "824"]
+[Themes "middlegame"]
+[GameUrl "https://lichess.org/game/p5iDF7jl/black#36"]
+[Solution "h6h5 d5e7 c8b8 e7f5"]
+[SolutionSAN "h5 Ne7+ Kb8 Nxf5"]
+[FEN "2kr3r/1pp3b1/p2p2pp/3N1q2/8/5P2/PPPQ2PP/2KR3R b - - 1 18"]
+[SetUp "1"]
+
+18... h5 19. Ne7+ Kb8 20. Nxf5 *

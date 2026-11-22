@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "003Ec"]
+[Difficulty "hard"]
+[Rating "2245"]
+[Themes "crushing long middlegame pin"]
+[GameUrl "https://lichess.org/game/qnd2dxXz/black#64"]
+[Solution "d3f5 e5e3 f5f4 h2h4 g5f5 e3h3"]
+[SolutionSAN "Qf5 Qe3+ Qf4 h4+ Kf5 Qh3+"]
+[FEN "3r4/p4R2/1pb2Pp1/n1p1Q1kp/8/P2q4/1P4PP/6RK b - - 2 32"]
+[SetUp "1"]
+
+32... Qf5 33. Qe3+ Qf4 34. h4+ Kf5 35. Qh3+ *

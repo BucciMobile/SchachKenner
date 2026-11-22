@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0An38"]
+[Difficulty "easy"]
+[Rating "949"]
+[Themes "mate mateIn1 oneMove opening pin"]
+[GameUrl "https://lichess.org/game/BpVLSWST/black#22"]
+[Solution "d8d7 c1c8"]
+[SolutionSAN "Qxd7 Rc8#"]
+[FEN "rn1qkb1r/3Bpp1p/p4np1/8/Q2P1B2/4P3/PP3PPP/2R1K1NR b Kkq - 0 11"]
+[SetUp "1"]
+
+11... Qxd7 12. Rc8# *

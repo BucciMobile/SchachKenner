@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I1Ia"]
+[Difficulty "hard"]
+[Rating "2157"]
+[Themes "crushing endgame master pawnEndgame short"]
+[GameUrl "https://lichess.org/game/bsVWzAh4/black#82"]
+[Solution "a7a5 c5c6 b7c6 b4a5"]
+[SolutionSAN "a5 c6 bxc6 bxa5"]
+[FEN "8/pp5p/6p1/2P5/1P1k4/P2p4/6PP/4K3 b - - 0 41"]
+[SetUp "1"]
+
+41... a5 42. c6 bxc6 43. bxa5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "090Fl"]
+[Difficulty "easy"]
+[Rating "707"]
+[Themes "kingsideAttack master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/ZyqGOzjv/black#40"]
+[Solution "b4c5 g3g7"]
+[SolutionSAN "Bc5 Qxg7#"]
+[FEN "r2r2k1/1pq2ppp/p3b3/5p2/1b1B1P2/2N3Q1/PPP3PP/3R1RK1 b - - 3 20"]
+[SetUp "1"]
+
+20... Bc5 21. Qxg7# *

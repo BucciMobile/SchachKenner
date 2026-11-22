@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09BFI"]
+[Difficulty "hard"]
+[Rating "1966"]
+[Themes "crushing endgame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/En1XORET/black#72"]
+[Solution "g7h6 d6f5 g6f5 f7f6 h6h5 f6f5 h5h6 f5f6"]
+[SolutionSAN "Kh6 Nf5+ gxf5 Qf6+ Kh5 Qxf5+ Kh6 Qf6+"]
+[FEN "1r6/5Qkp/3N2p1/4p3/n2q4/7P/2P2PPK/8 b - - 0 36"]
+[SetUp "1"]
+
+36... Kh6 37. Nf5+ gxf5 38. Qf6+ Kh5 39. Qxf5+ Kh6 40. Qf6+ *

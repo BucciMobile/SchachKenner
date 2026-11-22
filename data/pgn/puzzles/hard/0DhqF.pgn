@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DhqF"]
+[Difficulty "hard"]
+[Rating "2654"]
+[Themes "crushing defensiveMove endgame master short"]
+[GameUrl "https://lichess.org/game/VauTAw0k#91"]
+[Solution "g7f7 f5g4 g5g6 a2a1"]
+[SolutionSAN "Rxf7 Kg4 g6 Ra1"]
+[FEN "8/5pR1/p3pB2/4PkPp/2P5/1P2b3/r5PK/8 w - - 5 46"]
+[SetUp "1"]
+
+46. Rxf7 Kg4 47. g6 Ra1 *

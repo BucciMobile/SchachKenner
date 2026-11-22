@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I43C"]
+[Difficulty "medium"]
+[Rating "1604"]
+[Themes "crushing kingsideAttack long middlegame pin"]
+[GameUrl "https://lichess.org/game/FoomRTHe#43"]
+[Solution "d4f3 b7f3 h4g5 f3d1 c1d1 h6g5"]
+[SolutionSAN "Nf3 Qxf3 Qxg5 Qxd1+ Rxd1 hxg5"]
+[FEN "5rk1/1q3pp1/p3pn1p/1p4r1/3N3Q/1P2P3/P4PPP/2RR2K1 w - - 0 22"]
+[SetUp "1"]
+
+22. Nf3 Qxf3 23. Qxg5 Qxd1+ 24. Rxd1 hxg5 *

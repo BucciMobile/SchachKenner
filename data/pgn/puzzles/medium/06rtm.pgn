@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06rtm"]
+[Difficulty "medium"]
+[Rating "1204"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/cLRbC8eW#43"]
+[Solution "g1g6 f7g6 d4d8 f8d8"]
+[SolutionSAN "Rxg6+ fxg6 Rxd8 Rxd8"]
+[FEN "3r1rk1/1bq2p1n/p3p1pP/1p2P3/3R1P1P/2N1P3/PPQ1B3/4K1R1 w - - 0 22"]
+[SetUp "1"]
+
+22. Rxg6+ fxg6 23. Rxd8 Rxd8 *

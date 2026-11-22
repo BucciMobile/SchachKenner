@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E3g5"]
+[Difficulty "hard"]
+[Rating "2159"]
+[Themes "bishopEndgame crushing defensiveMove endgame hangingPiece master short"]
+[GameUrl "https://lichess.org/game/qMVdeBh9/black#118"]
+[Solution "d6d5 e2d2 f5f4 g3g4"]
+[SolutionSAN "d5 Kxd2 f4 g4"]
+[FEN "8/5B2/3p1p2/4kp2/7P/6P1/3bK3/8 b - - 4 59"]
+[SetUp "1"]
+
+59... d5 60. Kxd2 f4 61. g4 *

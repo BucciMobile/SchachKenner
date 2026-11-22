@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00sKJ"]
+[Difficulty "hard"]
+[Rating "2372"]
+[Themes "crushing endgame fork quietMove sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/fldTxHoO/black#80"]
+[Solution "c5d6 a6d6 e7d6 a5c6 b2b7 c6d8 f7f6 d8b7"]
+[SolutionSAN "Bd6 Rxd6 exd6 Nc6 Rxb7 Nd8+ Kf6 Nxb7"]
+[FEN "8/1P2pk2/R7/N1b2pp1/8/3K2P1/1r4P1/8 b - - 2 40"]
+[SetUp "1"]
+
+40... Bd6 41. Rxd6 exd6 42. Nc6 Rxb7 43. Nd8+ Kf6 44. Nxb7 *

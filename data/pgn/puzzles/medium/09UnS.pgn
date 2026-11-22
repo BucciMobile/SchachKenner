@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09UnS"]
+[Difficulty "medium"]
+[Rating "1581"]
+[Themes "advantage long middlegame pin"]
+[GameUrl "https://lichess.org/game/Q73hBaow/black#38"]
+[Solution "g8h8 h4h5 h6g7 e3d4 f7f6 h5g5"]
+[SolutionSAN "Rh8 Qxh5+ Kg7 Bd4+ f6 Qxg5+"]
+[FEN "r2q2r1/1pp1bp2/p2p3k/6pn/P1P1P1PQ/2N1B2P/1PP5/R5K1 b - - 0 19"]
+[SetUp "1"]
+
+19... Rh8 20. Qxh5+ Kg7 21. Bd4+ f6 22. Qxg5+ *

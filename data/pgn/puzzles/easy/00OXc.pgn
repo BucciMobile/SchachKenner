@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00OXc"]
+[Difficulty "easy"]
+[Rating "841"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/Dp1LJyaZ/black#100"]
+[Solution "g6g5 f3h3"]
+[SolutionSAN "g5 Rh3#"]
+[FEN "8/5K1p/1p4pk/8/3brp2/5R2/8/8 b - - 5 50"]
+[SetUp "1"]
+
+50... g5 51. Rh3# *

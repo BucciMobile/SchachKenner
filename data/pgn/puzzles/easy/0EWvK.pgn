@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EWvK"]
+[Difficulty "easy"]
+[Rating "655"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/a2evbJ2U/black#50"]
+[Solution "f2c2 c1c2"]
+[SolutionSAN "Qc2 Rxc2#"]
+[FEN "2krr3/pR3ppp/8/4P3/4B3/7P/P4qP1/2R4K b - - 2 25"]
+[SetUp "1"]
+
+25... Qc2 26. Rxc2# *

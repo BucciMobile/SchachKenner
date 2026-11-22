@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Azi3"]
+[Difficulty "medium"]
+[Rating "1409"]
+[Themes "cornerMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/iQCsMI5z#43"]
+[Solution "f1g1 h3f2"]
+[SolutionSAN "Rg1 Nf2#"]
+[FEN "r4rk1/1pp5/4p3/p1PpNpqp/3P3b/P3PP1n/1PQ1B2B/R4R1K w - - 1 22"]
+[SetUp "1"]
+
+22. Rg1 Nf2# *

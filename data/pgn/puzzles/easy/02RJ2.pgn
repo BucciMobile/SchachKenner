@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02RJ2"]
+[Difficulty "easy"]
+[Rating "1062"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/Q13LMaJo/black#52"]
+[Solution "g5h4 g1g8 f8e7 g8g7"]
+[SolutionSAN "gxh4 Rg8+ Ke7 Rg7+"]
+[FEN "1rr2k2/2q5/3p1p2/p3b1p1/2BpPp1R/PP1P1P1P/2PQ1K2/6R1 b - - 0 26"]
+[SetUp "1"]
+
+26... gxh4 27. Rg8+ Ke7 28. Rg7+ *

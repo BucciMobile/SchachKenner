@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JknN"]
+[Difficulty "medium"]
+[Rating "1674"]
+[Themes "advantage kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/L1LfknB8/black#54"]
+[Solution "g6e5 d3e5 d7d2 f3f7"]
+[SolutionSAN "Nxe5 Nxe5 Rxd2 Qxf7+"]
+[FEN "3r2k1/p1qrbpp1/1pp3np/4P3/4N3/2PN1Q1P/PP1R1PP1/3R2K1 b - - 0 27"]
+[SetUp "1"]
+
+27... Nxe5 28. Nxe5 Rxd2 29. Qxf7+ *

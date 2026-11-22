@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DZ4c"]
+[Difficulty "medium"]
+[Rating "1209"]
+[Themes "advantage deflection endgame long"]
+[GameUrl "https://lichess.org/game/LtMdVlEg/black#50"]
+[Solution "d7c7 g3g6 f7g8 e6e8 d8e8 g6e8"]
+[SolutionSAN "Qc7 Qg6+ Kg8 Rxe8+ Rxe8 Qxe8+"]
+[FEN "3rn3/p2q1kp1/1p1pR2p/3P1p2/8/B5Q1/P5PP/6K1 b - - 2 25"]
+[SetUp "1"]
+
+25... Qc7 26. Qg6+ Kg8 27. Rxe8+ Rxe8 28. Qxe8+ *

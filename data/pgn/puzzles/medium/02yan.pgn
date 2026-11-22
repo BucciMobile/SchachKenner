@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02yan"]
+[Difficulty "medium"]
+[Rating "1681"]
+[Themes "advantage defensiveMove long middlegame pin"]
+[GameUrl "https://lichess.org/game/qA8ED0cN#47"]
+[Solution "c2a4 g4d7 a4c2 c8c7 c2b2 c7c1"]
+[SolutionSAN "Qa4+ Bd7 Qc2 Rxc7 Qb2 Rxc1"]
+[FEN "2r1k3/ppB4p/7q/8/3PP1b1/P4nP1/P1Q4P/2R2R1K w - - 3 24"]
+[SetUp "1"]
+
+24. Qa4+ Bd7 25. Qc2 Rxc7 26. Qb2 Rxc1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09quc"]
+[Difficulty "hard"]
+[Rating "1932"]
+[Themes "advantage defensiveMove endgame fork long"]
+[GameUrl "https://lichess.org/game/dsyvZyVS#77"]
+[Solution "g4f4 f7h5 h1g1 h5e2 f4f5 f8g7"]
+[SolutionSAN "Qf4 Qxh5+ Kg1 Qxe2 Qxf5+ Kg7"]
+[FEN "4rk2/3Rbq2/7p/1p3p1P/1P4Q1/2P5/4R1P1/7K w - - 0 39"]
+[SetUp "1"]
+
+39. Qf4 Qxh5+ 40. Kg1 Qxe2 41. Qxf5+ Kg7 *

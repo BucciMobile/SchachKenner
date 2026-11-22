@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DlkW"]
+[Difficulty "hard"]
+[Rating "2044"]
+[Themes "advancedPawn advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/CzKTq9OQ/black#74"]
+[Solution "d3d2 e5e6 f7e8 e6d7"]
+[SolutionSAN "d2 e6+ Ke8 exd7+"]
+[FEN "2r5/3rpk1p/7R/4PNP1/5P2/1P1p4/PK6/8 b - - 2 37"]
+[SetUp "1"]
+
+37... d2 38. e6+ Ke8 39. exd7+ *

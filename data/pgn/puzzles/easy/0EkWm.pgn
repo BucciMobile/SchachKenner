@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EkWm"]
+[Difficulty "easy"]
+[Rating "744"]
+[Themes "master masterVsMaster mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/T4BRu7Pf#79"]
+[Solution "c7c8q d2h2"]
+[SolutionSAN "c8=Q Rxh2#"]
+[FEN "4bn2/2P4r/Q3p2k/4Np1P/2B2P1q/p5R1/3r3P/6RK w - - 1 40"]
+[SetUp "1"]
+
+40. c8=Q Rxh2# *

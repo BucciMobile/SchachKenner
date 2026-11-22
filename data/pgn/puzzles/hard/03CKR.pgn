@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03CKR"]
+[Difficulty "hard"]
+[Rating "2087"]
+[Themes "crushing defensiveMove endgame long master masterVsMaster rookEndgame"]
+[GameUrl "https://lichess.org/game/qU8FAuEC/black#162"]
+[Solution "h6h5 g4g5 f6f8 f5f6 f8g8 f4f5"]
+[SolutionSAN "h5 g5 Rf8 f6 Rg8 Kf5"]
+[FEN "8/R5pk/5r1p/5P2/5KP1/8/8/8 b - - 32 81"]
+[SetUp "1"]
+
+81... h5 82. g5 Rf8 83. f6 Rg8 84. Kf5 *

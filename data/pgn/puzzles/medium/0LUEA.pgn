@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LUEA"]
+[Difficulty "medium"]
+[Rating "1576"]
+[Themes "crushing endgame long pawnEndgame quietMove"]
+[GameUrl "https://lichess.org/game/DOP9WMZY/black#102"]
+[Solution "f7f6 e5e6 g6g5 h4h5 g7f8 e6f6"]
+[SolutionSAN "f6+ Kxe6 g5 h5 Kf8 Kxf6"]
+[FEN "8/5pk1/4p1pp/4K3/6PP/5P2/8/8 b - - 0 51"]
+[SetUp "1"]
+
+51... f6+ 52. Kxe6 g5 53. h5 Kf8 54. Kxf6 *

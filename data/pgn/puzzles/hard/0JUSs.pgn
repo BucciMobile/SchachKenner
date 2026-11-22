@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JUSs"]
+[Difficulty "hard"]
+[Rating "1895"]
+[Themes "advancedPawn crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/VRIpoNON/black#78"]
+[Solution "f4e3 e2e3 f8f1 g1f1 d4e3 d5d6 e7d6 e6e7"]
+[SolutionSAN "Qe3+ Qxe3 Rxf1+ Kxf1 dxe3 d6 exd6 e7"]
+[FEN "5r1k/4p2p/4P1p1/p2P4/1p1p1q2/8/P3Q1PP/5RK1 b - - 2 39"]
+[SetUp "1"]
+
+39... Qe3+ 40. Qxe3 Rxf1+ 41. Kxf1 dxe3 42. d6 exd6 43. e7 *

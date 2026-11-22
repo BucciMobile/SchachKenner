@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EHiT"]
+[Difficulty "easy"]
+[Rating "893"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/DOHKmiOS/black#38"]
+[Solution "a5e5 d2h6"]
+[SolutionSAN "Qxe5 Qh6#"]
+[FEN "rnb2r1k/pp3p2/2p1p3/q3B2p/2N4P/2NB1n2/PPPQ1P2/2K3R1 b - - 5 19"]
+[SetUp "1"]
+
+19... Qxe5 20. Qh6# *

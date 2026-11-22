@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KTA2"]
+[Difficulty "medium"]
+[Rating "1481"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/aml0qf2E/black#42"]
+[Solution "c7c5 f5e7 g8h7 e7c8"]
+[SolutionSAN "c5 Ne7+ Kh7 Nxc8"]
+[FEN "b1r2rk1/2p2pp1/p4q1p/1p3N2/6Q1/8/P1P2PPP/1R2R1K1 b - - 3 21"]
+[SetUp "1"]
+
+21... c5 22. Ne7+ Kh7 23. Nxc8 *

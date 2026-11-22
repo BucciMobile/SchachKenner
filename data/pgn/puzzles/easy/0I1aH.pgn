@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I1aH"]
+[Difficulty "easy"]
+[Rating "656"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/petN9sav#23"]
+[Solution "g1f2 g5g2"]
+[SolutionSAN "Kf2 Qg2#"]
+[FEN "r3k1nr/ppp2pp1/3p3p/3Np1q1/2B1P3/3PPP1b/PPP4P/R2QR1K1 w kq - 1 12"]
+[SetUp "1"]
+
+12. Kf2 Qg2# *

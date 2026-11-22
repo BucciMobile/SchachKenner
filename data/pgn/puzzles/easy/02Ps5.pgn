@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Ps5"]
+[Difficulty "easy"]
+[Rating "1144"]
+[Themes "advantage endgame long skewer"]
+[GameUrl "https://lichess.org/game/CcsRDtwu#45"]
+[Solution "a3c4 g7g2 f2e3 g8e8 e3d3 e8e1"]
+[SolutionSAN "Nc4 Rg2+ Ke3 Re8+ Kxd3 Rxe1"]
+[FEN "2k3r1/p4prp/8/2p5/8/NPPp1P2/PB1P1K1P/4R3 w - - 6 23"]
+[SetUp "1"]
+
+23. Nc4 Rg2+ 24. Ke3 Re8+ 25. Kxd3 Rxe1 *

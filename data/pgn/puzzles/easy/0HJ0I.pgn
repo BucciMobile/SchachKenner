@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HJ0I"]
+[Difficulty "easy"]
+[Rating "964"]
+[Themes "master mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/MOTbhVp9#37"]
+[Solution "e2f3 a5b3 a2b3 b7a6"]
+[SolutionSAN "Bf3 Nb3+ axb3 Qa6#"]
+[FEN "3rk2r/pq3pp1/4pb1p/np2Nb2/2pP1B2/2P1Q2P/PP2BPP1/K2R3R w k - 4 19"]
+[SetUp "1"]
+
+19. Bf3 Nb3+ 20. axb3 Qa6# *

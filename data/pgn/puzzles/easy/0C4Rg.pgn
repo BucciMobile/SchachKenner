@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C4Rg"]
+[Difficulty "easy"]
+[Rating "1167"]
+[Themes "endgame master mate mateIn1 oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/QNtt8q5k/black#44"]
+[Solution "f7f5 a7c7"]
+[SolutionSAN "Qxf5 Qxc7#"]
+[FEN "2krr3/Q1p2q1p/1p1p4/1N3B2/7P/5P2/PPP2P2/2K4R b - - 0 22"]
+[SetUp "1"]
+
+22... Qxf5 23. Qxc7# *

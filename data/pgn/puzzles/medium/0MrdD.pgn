@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MrdD"]
+[Difficulty "medium"]
+[Rating "1300"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/PcQu0wMf#55"]
+[Solution "f4f2 e3e2 f2e2 e1e2"]
+[SolutionSAN "Qf2 Re2 Qxe2 Qxe2+"]
+[FEN "5r1k/ppR3pp/3R4/5P2/5QP1/4r3/P5KP/4q3 w - - 0 28"]
+[SetUp "1"]
+
+28. Qf2 Re2 29. Qxe2 Qxe2+ *

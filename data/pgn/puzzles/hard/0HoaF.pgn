@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HoaF"]
+[Difficulty "hard"]
+[Rating "2379"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/zgouWfSo#39"]
+[Solution "a1d1 d5f3 a3a5 f3f4"]
+[SolutionSAN "Rad1 Qf3 Qa5 Qxf4"]
+[FEN "r5k1/p1p2ppp/6r1/3q1n2/5B2/Q1P3P1/P4P1P/R4RK1 w - - 1 20"]
+[SetUp "1"]
+
+20. Rad1 Qf3 21. Qa5 Qxf4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "007OE"]
+[Difficulty "medium"]
+[Rating "1281"]
+[Themes "advantage endgame hangingPiece long quietMove"]
+[GameUrl "https://lichess.org/game/1c7uOUzp#57"]
+[Solution "a2b3 d4d1 a1a2 h2h1 a4c5 b7b6"]
+[SolutionSAN "axb3 Qxd1+ Ka2 Rh1 Nc5+ Kb6"]
+[FEN "8/pkp5/2p1p3/3p4/N2q4/1n4Q1/PPP3Pr/K2R4 w - - 2 29"]
+[SetUp "1"]
+
+29. axb3 Qxd1+ 30. Ka2 Rh1 31. Nc5+ Kb6 *

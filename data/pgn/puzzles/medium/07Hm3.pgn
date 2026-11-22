@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Hm3"]
+[Difficulty "medium"]
+[Rating "1484"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/pRdSJNVV#65"]
+[Solution "h1h2 g7g2 g1g2 f5h3 h2g1 h3g2"]
+[SolutionSAN "Kh2 Rxg2+ Rxg2 Qxh3+ Kg1 Qxg2#"]
+[FEN "4Q3/p5rp/3ppp1k/4pq2/5n2/2P2P1P/PP4P1/R5RK w - - 9 33"]
+[SetUp "1"]
+
+33. Kh2 Rxg2+ 34. Rxg2 Qxh3+ 35. Kg1 Qxg2# *

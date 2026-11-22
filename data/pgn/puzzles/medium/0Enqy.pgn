@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Enqy"]
+[Difficulty "medium"]
+[Rating "1388"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/z5BlzBk3#37"]
+[Solution "d1d6 c3e1 d6d8 f8d8"]
+[SolutionSAN "Rxd6 Bxe1 Rxd8 Rxd8"]
+[FEN "3r1rk1/ppp2ppn/3qb2p/8/2P5/1Pb4P/PBQ2PP1/3RR1K1 w - - 0 19"]
+[SetUp "1"]
+
+19. Rxd6 Bxe1 20. Rxd8 Rxd8 *

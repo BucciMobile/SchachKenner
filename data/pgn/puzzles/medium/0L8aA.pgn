@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0L8aA"]
+[Difficulty "medium"]
+[Rating "1283"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/LwqZQoCs/black#36"]
+[Solution "f5e6 e2b5 e8c8 b5c6"]
+[SolutionSAN "Be6 Bb5 O-O-O Bxc6"]
+[FEN "r3kn2/ppp5/2q3p1/4Qb2/3Pp3/8/P3BPPP/5RK1 b q - 2 18"]
+[SetUp "1"]
+
+18... Be6 19. Bb5 O-O-O 20. Bxc6 *

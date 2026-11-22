@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FUmt"]
+[Difficulty "hard"]
+[Rating "2473"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/wehFKb1r/black#42"]
+[Solution "d7c8 b7c7 c8d8 g3b3 f8b4 b3b4"]
+[SolutionSAN "Kc8 Rc7+ Kd8 Qb3 Bb4 Qxb4"]
+[FEN "5b1r/pR1k1ppp/2p1pqn1/3p4/5BP1/6Q1/P2N1P1P/6K1 b - - 4 21"]
+[SetUp "1"]
+
+21... Kc8 22. Rc7+ Kd8 23. Qb3 Bb4 24. Qxb4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05hMr"]
+[Difficulty "easy"]
+[Rating "1101"]
+[Themes "attraction endgame kingsideAttack mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/iOYGa5KK/black#76"]
+[Solution "e8f8 f1f8 g8f8 g6f7"]
+[SolutionSAN "Rf8 Rxf8+ Kxf8 Qf7#"]
+[FEN "4r1k1/p2b2p1/1p1Np1Qp/3p4/3Pp3/P1P4P/3q2PK/5R2 b - - 0 38"]
+[SetUp "1"]
+
+38... Rf8 39. Rxf8+ Kxf8 40. Qf7# *

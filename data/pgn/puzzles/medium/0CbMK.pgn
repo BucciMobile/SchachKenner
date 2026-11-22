@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CbMK"]
+[Difficulty "medium"]
+[Rating "1513"]
+[Themes "advancedPawn advantage endgame long"]
+[GameUrl "https://lichess.org/game/fHBUf54K/black#58"]
+[Solution "a3b4 d2b4 a4b4 c5d6 b4b6 d6e7"]
+[SolutionSAN "Qxb4 Qxb4 Rxb4 cxd6 Rb6 dxe7"]
+[FEN "6k1/1p2n1pp/3p1p2/2PPpP2/rP4B1/q7/3Q2PP/5R1K b - - 0 29"]
+[SetUp "1"]
+
+29... Qxb4 30. Qxb4 Rxb4 31. cxd6 Rb6 32. dxe7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hfnp"]
+[Difficulty "medium"]
+[Rating "1641"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/wuhTerED/black#44"]
+[Solution "e7c5 d4c5 c7c5 e3c5"]
+[SolutionSAN "Bc5 Qxc5 Qxc5 Bxc5"]
+[FEN "3rk3/1pq1bp2/p4np1/3p1P2/3Q4/2N1B2r/PPP5/2K2RR1 b - - 0 22"]
+[SetUp "1"]
+
+22... Bc5 23. Qxc5 Qxc5 24. Bxc5 *

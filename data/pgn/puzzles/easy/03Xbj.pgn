@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Xbj"]
+[Difficulty "easy"]
+[Rating "1109"]
+[Themes "mate mateIn2 middlegame operaMate pillsburysMate queensideAttack short"]
+[GameUrl "https://lichess.org/game/BEzQwEp8#55"]
+[Solution "c5c6 d5d1 f1d1 d8d1"]
+[SolutionSAN "c6 Rd1+ Rxd1 Rxd1#"]
+[FEN "3r2k1/5pb1/4p1pp/2Pr4/1PQ1N1bP/4P1P1/2P5/2K2R2 w - - 1 28"]
+[SetUp "1"]
+
+28. c6 Rd1+ 29. Rxd1 Rxd1# *

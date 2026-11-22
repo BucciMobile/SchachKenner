@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EOTf"]
+[Difficulty "hard"]
+[Rating "2117"]
+[Themes "advantage endgame exposedKing pin veryLong"]
+[GameUrl "https://lichess.org/game/CpRZuE5n#57"]
+[Solution "a1b1 b4b1 g1g2 a5a2 g2g3 b1b3 g7b7 b3f3"]
+[SolutionSAN "Rxb1 Rxb1+ Kg2 Qxa2+ Kg3 Rb3 Rb7 Rxf3+"]
+[FEN "7k/p5Rp/4p1pP/q1ppP1P1/1r4P1/5Q2/P7/Rr4K1 w - - 5 29"]
+[SetUp "1"]
+
+29. Rxb1 Rxb1+ 30. Kg2 Qxa2+ 31. Kg3 Rb3 32. Rb7 Rxf3+ *

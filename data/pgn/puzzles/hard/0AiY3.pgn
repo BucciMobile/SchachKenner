@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AiY3"]
+[Difficulty "hard"]
+[Rating "1965"]
+[Themes "crushing deflection endgame exposedKing long sacrifice"]
+[GameUrl "https://lichess.org/game/LEZwlstf/black#56"]
+[Solution "e7d7 d6f7 d7f7 h4h5 g6h5 f1f7"]
+[SolutionSAN "Rd7 Nxf7 Rxf7 h5+ Kxh5 Rxf7"]
+[FEN "5n2/4rpp1/r1pNp1k1/2pp2P1/p6P/1P1P4/P1P3P1/R4RK1 b - - 2 28"]
+[SetUp "1"]
+
+28... Rd7 29. Nxf7 Rxf7 30. h5+ Kxh5 31. Rxf7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Ohg"]
+[Difficulty "hard"]
+[Rating "1933"]
+[Themes "advancedPawn crushing endgame short"]
+[GameUrl "https://lichess.org/game/QB2CRGUu#81"]
+[Solution "g3f3 c2d4 f3e4 a3a2"]
+[SolutionSAN "Kf3 Nd4+ Ke4 a2"]
+[FEN "8/8/3Bp1k1/8/5PP1/p5K1/2n5/8 w - - 0 41"]
+[SetUp "1"]
+
+41. Kf3 Nd4+ 42. Ke4 a2 *

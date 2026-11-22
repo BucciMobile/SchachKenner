@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NCTQ"]
+[Difficulty "medium"]
+[Rating "1487"]
+[Themes "advancedPawn crushing endgame fork long promotion skewer"]
+[GameUrl "https://lichess.org/game/CKBRbFAV#69"]
+[Solution "d3c5 c4c1 d1e2 c1g1 c5d3 d2d1q"]
+[SolutionSAN "Nxc5 Rc1+ Ke2 Rxg1 Nd3 d1=Q+"]
+[FEN "5k2/1p3p2/8/1Br4p/P1r4P/3Np1P1/RP1p4/3K2R1 w - - 3 35"]
+[SetUp "1"]
+
+35. Nxc5 Rc1+ 36. Ke2 Rxg1 37. Nd3 d1=Q+ *

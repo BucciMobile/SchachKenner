@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EZp8"]
+[Difficulty "hard"]
+[Rating "1734"]
+[Themes "crushing endgame long pin"]
+[GameUrl "https://lichess.org/game/CM0CeMb0/black#54"]
+[Solution "d7d8 c5b6 d8e8 f7c7 c8c7 b6c7"]
+[SolutionSAN "Kd8 Bb6 Ke8 Rxc7 Rxc7 Bxc7"]
+[FEN "2r5/2rk1R1p/p3p1p1/1pBp4/1P1Pn2P/P7/2P2P2/2K4R b - - 0 27"]
+[SetUp "1"]
+
+27... Kd8 28. Bb6 Ke8 29. Rxc7 Rxc7 30. Bxc7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03RbG"]
+[Difficulty "easy"]
+[Rating "919"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/fOXMJ5QF/black#96"]
+[Solution "e6d6 g5g6 f2f1q e2f1"]
+[SolutionSAN "Kd6 g6 f1=Q+ Kxf1"]
+[FEN "5N2/8/1p2k3/pP2p1P1/P3P3/6b1/4Kp2/8 b - - 2 48"]
+[SetUp "1"]
+
+48... Kd6 49. g6 f1=Q+ 50. Kxf1 *

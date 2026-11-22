@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06KGy"]
+[Difficulty "hard"]
+[Rating "2188"]
+[Themes "advancedPawn crushing endgame promotion queenEndgame veryLong"]
+[GameUrl "https://lichess.org/game/pPPun6bj#99"]
+[Solution "g3f4 e1c1 f4g3 c1c7 f3f4 a2a1q g4g5 h6g7"]
+[SolutionSAN "Kf4 Qc1+ Kg3 Qc7+ f4 a1=Q g5+ Kg7"]
+[FEN "8/7p/4Q1pk/8/3pP1PP/3P1PK1/p7/4q3 w - - 1 50"]
+[SetUp "1"]
+
+50. Kf4 Qc1+ 51. Kg3 Qc7+ 52. f4 a1=Q 53. g5+ Kg7 *

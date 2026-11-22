@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04rTR"]
+[Difficulty "hard"]
+[Rating "2041"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/56BmSADA#55"]
+[Solution "e7b7 d3c2 b7c6 c2c6"]
+[SolutionSAN "Qxb7 Qc2 Qxc6 Qxc6"]
+[FEN "3r4/pp2Qppk/2p5/8/4P3/3q1PP1/PP5P/K1R5 w - - 5 28"]
+[SetUp "1"]
+
+28. Qxb7 Qc2 29. Qxc6 Qxc6 *

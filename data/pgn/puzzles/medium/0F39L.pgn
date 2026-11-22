@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F39L"]
+[Difficulty "medium"]
+[Rating "1536"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/Rlwgvm1F/black#30"]
+[Solution "d6e5 c4e6 c8b8 e6e5"]
+[SolutionSAN "Be5 Qe6+ Kb8 Qxe5"]
+[FEN "2kr3r/ppp2Rpp/2pb4/8/2Q1P3/2N1q3/PPP4P/1K1R4 b - - 0 15"]
+[SetUp "1"]
+
+15... Be5 16. Qe6+ Kb8 17. Qxe5 *

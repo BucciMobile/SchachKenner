@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Tnt"]
+[Difficulty "medium"]
+[Rating "1508"]
+[Themes "crushing discoveredAttack endgame rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/aM9Ki1zO/black#82"]
+[Solution "d6d5 c5d5 c6d5 c1c8 d7c8 g4f5 d5d4 f5e4"]
+[SolutionSAN "Rd5 Rxd5+ cxd5 Rxc8 Kxc8 Kf5 d4 Ke4"]
+[FEN "2r5/3k2p1/2pr3p/2R5/5PK1/6P1/7P/2R5 b - - 6 41"]
+[SetUp "1"]
+
+41... Rd5 42. Rxd5+ cxd5 43. Rxc8 Kxc8 44. Kf5 d4 45. Ke4 *

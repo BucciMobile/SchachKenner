@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02yBt"]
+[Difficulty "hard"]
+[Rating "2521"]
+[Themes "crushing defensiveMove endgame knightEndgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/8eujxUBs#107"]
+[Solution "f3e4 a7a5 e4e3 c4b3 a2c1 b3c2 c1d3 c2c3 d3f4 a5a4"]
+[SolutionSAN "Ke4 a5 Ke3 Kb3 Nc1+ Kc2 Nd3 Kc3 Nf4 a4"]
+[FEN "8/p4p2/1p6/8/2k3P1/5K2/N7/8 w - - 1 54"]
+[SetUp "1"]
+
+54. Ke4 a5 55. Ke3 Kb3 56. Nc1+ Kc2 57. Nd3 Kc3 58. Nf4 a4 *

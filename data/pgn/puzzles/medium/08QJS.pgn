@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08QJS"]
+[Difficulty "medium"]
+[Rating "1566"]
+[Themes "attraction capturingDefender crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/Nii9BXT9/black#42"]
+[Solution "a8f8 g1g7 h8g7 e3d4"]
+[SolutionSAN "Rf8 Rxg7 Kxg7 Qxd4+"]
+[FEN "r6k/pp4bp/3qp2p/3p4/b2n4/3BQP2/PP3P1P/2R3RK b - - 3 21"]
+[SetUp "1"]
+
+21... Rf8 22. Rxg7 Kxg7 23. Qxd4+ *

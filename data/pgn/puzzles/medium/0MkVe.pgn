@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MkVe"]
+[Difficulty "medium"]
+[Rating "1266"]
+[Themes "crushing opening short trappedPiece"]
+[GameUrl "https://lichess.org/game/QvpSOCsI/black#18"]
+[Solution "f8e8 e2c4 d5c4 b3c4"]
+[SolutionSAN "Re8 Bc4 Qxc4 bxc4"]
+[FEN "r1b2rk1/pp3ppp/2nb1n2/2pqp3/8/1PP2N1P/P2PBPP1/RNBQR1K1 b - - 0 9"]
+[SetUp "1"]
+
+9... Re8 10. Bc4 Qxc4 11. bxc4 *

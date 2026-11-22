@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E03v"]
+[Difficulty "hard"]
+[Rating "2323"]
+[Themes "crushing defensiveMove endgame long pin"]
+[GameUrl "https://lichess.org/game/GJUZCLUX/black#78"]
+[Solution "c1f1 b5b6 b2b4 b6c7 f1c1 h6c1"]
+[SolutionSAN "Qf1+ Kb6 Rxb4+ Kc7 Qc1+ Qxc1"]
+[FEN "4Rbk1/1p3p2/3p2pQ/1K1P4/1P4P1/5P2/1r6/2q5 b - - 10 39"]
+[SetUp "1"]
+
+39... Qf1+ 40. Kb6 Rxb4+ 41. Kc7 Qc1+ 42. Qxc1 *

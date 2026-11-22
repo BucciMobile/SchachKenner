@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05W8l"]
+[Difficulty "hard"]
+[Rating "2001"]
+[Themes "advantage deflection endgame short"]
+[GameUrl "https://lichess.org/game/ydFHEafN#53"]
+[Solution "d5b6 d8d2 g2h3 c6f3"]
+[SolutionSAN "Nxb6 Rd2+ Kh3 Qxf3"]
+[FEN "3r2k1/p4pp1/1bq4p/1R1N4/8/1Q2PPP1/PP4KP/8 w - - 1 27"]
+[SetUp "1"]
+
+27. Nxb6 Rd2+ 28. Kh3 Qxf3 *

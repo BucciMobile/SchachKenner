@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KigA"]
+[Difficulty "hard"]
+[Rating "2948"]
+[Themes "crushing discoveredAttack middlegame pin sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/Zq722lAV/black#58"]
+[Solution "f7e6 e3d3 f6g5 e1e4 f5e4 d3e4 e6f7 f4g5"]
+[SolutionSAN "Ke6 Qxd3 Bxg5 Rxe4+ fxe4 Qxe4+ Kf7 fxg5"]
+[FEN "7r/p4kq1/2p2br1/5pB1/4pP1P/2PbQ3/PP4P1/3RR2K b - - 2 29"]
+[SetUp "1"]
+
+29... Ke6 30. Qxd3 Bxg5 31. Rxe4+ fxe4 32. Qxe4+ Kf7 33. fxg5 *

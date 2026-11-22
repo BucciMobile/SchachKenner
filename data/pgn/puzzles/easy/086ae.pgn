@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "086ae"]
+[Difficulty "easy"]
+[Rating "959"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/cjkX57ah#37"]
+[Solution "f1e1 d6h2 g1h2 d8d2"]
+[SolutionSAN "Rfe1 Bxh2+ Kxh2 Qxd2"]
+[FEN "r2q3r/p3kppp/3bb3/1B6/8/4N3/PP1Q1PPP/R4RK1 w - - 2 19"]
+[SetUp "1"]
+
+19. Rfe1 Bxh2+ 20. Kxh2 Qxd2 *

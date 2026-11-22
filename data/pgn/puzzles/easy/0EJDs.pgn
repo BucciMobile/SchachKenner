@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EJDs"]
+[Difficulty "easy"]
+[Rating "1100"]
+[Themes "blindSwineMate endgame master mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/k1M6zrVr#61"]
+[Solution "g1c1 d7d3"]
+[SolutionSAN "Rc1 R7d3#"]
+[FEN "8/p2r1p1p/R3p3/5kp1/8/1P2KP2/P2r1P1P/6R1 w - - 1 31"]
+[SetUp "1"]
+
+31. Rc1 R7d3# *

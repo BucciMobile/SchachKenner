@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Lkx"]
+[Difficulty "hard"]
+[Rating "1964"]
+[Themes "exposedKing long mate mateIn3 middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/2yY3zUgy/black#64"]
+[Solution "b6b7 a1a8 b7b8 a8b8 c7b8 b5d7"]
+[SolutionSAN "Rxb7 Ra8+ Rb8 Rxb8+ Qxb8 Qd7#"]
+[FEN "2k4r/1Pq2p2/1r2p2p/1QNp2p1/2n5/2P2P1P/1P4P1/R5K1 b - - 0 32"]
+[SetUp "1"]
+
+32... Rxb7 33. Ra8+ Rb8 34. Rxb8+ Qxb8 35. Qd7# *

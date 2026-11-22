@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09mHi"]
+[Difficulty "easy"]
+[Rating "585"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/CNU745RN/black#36"]
+[Solution "c6d4 d3h7"]
+[SolutionSAN "Nxd4 Qxh7#"]
+[FEN "r4rk1/3qbppp/b1n1p3/pN1pP3/1p1P4/3Q4/P1BB1PPP/2R2RK1 b - - 7 18"]
+[SetUp "1"]
+
+18... Nxd4 19. Qxh7# *

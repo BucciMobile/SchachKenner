@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02ZYT"]
+[Difficulty "easy"]
+[Rating "617"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/WQqidVJR#37"]
+[Solution "f3e5 d7d1 c1d1 d8d1"]
+[SolutionSAN "Ne5 Rxd1+ Rxd1 Rxd1#"]
+[FEN "3r2k1/1n1rbppp/pp2p3/2p5/1PP1P3/P3BN2/5PPP/2RR2K1 w - - 3 19"]
+[SetUp "1"]
+
+19. Ne5 Rxd1+ 20. Rxd1 Rxd1# *

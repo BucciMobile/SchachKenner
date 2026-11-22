@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03BFA"]
+[Difficulty "easy"]
+[Rating "400"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/yuSKpAS3/black#92"]
+[Solution "d4d6 a7h7 d6h6 h7h6"]
+[SolutionSAN "Rxd6 Rh7+ Rh6 Rxh6#"]
+[FEN "8/R7/3P4/4p1p1/3rPp1k/5P2/5K2/8 b - - 0 46"]
+[SetUp "1"]
+
+46... Rxd6 47. Rh7+ Rh6 48. Rxh6# *

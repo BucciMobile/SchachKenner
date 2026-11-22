@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IBNE"]
+[Difficulty "medium"]
+[Rating "1644"]
+[Themes "capturingDefender crushing endgame master short"]
+[GameUrl "https://lichess.org/game/H7I19R8Q#55"]
+[Solution "g1h2 a7d4 d5d4 c1a1"]
+[SolutionSAN "Kh2 Qxd4 Rxd4 Rxa1"]
+[FEN "2r3k1/q4pp1/P6p/3R4/3Q4/7P/5PP1/R1r3K1 w - - 2 28"]
+[SetUp "1"]
+
+28. Kh2 Qxd4 29. Rxd4 Rxa1 *

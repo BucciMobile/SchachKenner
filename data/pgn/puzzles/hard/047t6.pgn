@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "047t6"]
+[Difficulty "hard"]
+[Rating "1701"]
+[Themes "advantage endgame master masterVsMaster pin short superGM"]
+[GameUrl "https://lichess.org/game/QiFqZaNg/black#72"]
+[Solution "a5c5 d8c8 d5e7 c8c5"]
+[SolutionSAN "Rc5 Rxc8 Ne7 Rxc5"]
+[FEN "2bR4/6pk/1p5p/r2nBp2/8/p2B3P/5PP1/6K1 b - - 5 36"]
+[SetUp "1"]
+
+36... Rc5 37. Rxc8 Ne7 38. Rxc5 *

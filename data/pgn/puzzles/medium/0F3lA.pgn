@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F3lA"]
+[Difficulty "medium"]
+[Rating "1331"]
+[Themes "backRankMate endgame mate mateIn2 short xRayAttack"]
+[GameUrl "https://lichess.org/game/NHQIVSIj#57"]
+[Solution "d7f7 b5f1 f7f1 f8f1"]
+[SolutionSAN "Rdxf7 Qxf1+ Rxf1 Rxf1#"]
+[FEN "5rk1/1Q1R1pp1/pb2p2p/1q6/8/2P5/P5PP/5R1K w - - 2 29"]
+[SetUp "1"]
+
+29. Rdxf7 Qxf1+ 30. Rxf1 Rxf1# *

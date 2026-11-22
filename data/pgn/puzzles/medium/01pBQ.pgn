@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01pBQ"]
+[Difficulty "medium"]
+[Rating "1332"]
+[Themes "advantage fork master middlegame short"]
+[GameUrl "https://lichess.org/game/oWbSNJ9g/black#50"]
+[Solution "h5c5 b4a6 c5c8 a6b8"]
+[SolutionSAN "Qc5 Na6 Qc8 Nxb8"]
+[FEN "1r4k1/3b1p1p/3pp1p1/Pp5q/1N6/1Pr1PP2/4QP1P/1R3R1K b - - 4 25"]
+[SetUp "1"]
+
+25... Qc5 26. Na6 Qc8 27. Nxb8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09nvK"]
+[Difficulty "hard"]
+[Rating "2142"]
+[Themes "advancedPawn advantage endgame long promotion"]
+[GameUrl "https://lichess.org/game/stAirNMq/black#76"]
+[Solution "h8g8 e5e6 d8d7 e6d7 g8f7 d7d8q"]
+[SolutionSAN "Kg8 e6 Rxd7 exd7 Kxf7 d8=Q"]
+[FEN "3r3k/p2N1R2/1p5p/2p1P1p1/P7/1Pr5/6PK/8 b - - 0 38"]
+[SetUp "1"]
+
+38... Kg8 39. e6 Rxd7 40. exd7 Kxf7 41. d8=Q *

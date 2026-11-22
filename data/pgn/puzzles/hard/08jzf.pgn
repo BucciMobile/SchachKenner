@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08jzf"]
+[Difficulty "hard"]
+[Rating "2612"]
+[Themes "advantage defensiveMove hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/4BdZLVhe/black#48"]
+[Solution "f4d3 f3d3 d5f4 d3f1"]
+[SolutionSAN "Nxd3 Qxd3 Nf4 Qf1"]
+[FEN "2kr3r/ppp5/5p1p/1PqnpP2/P1B2n1B/2PP1Q2/2K2P2/R6R b - - 0 24"]
+[SetUp "1"]
+
+24... Nxd3 25. Qxd3 Nf4 26. Qf1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EPDA"]
+[Difficulty "hard"]
+[Rating "2181"]
+[Themes "advancedPawn attraction crushing master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/NwcpXEj2/black#62"]
+[Solution "d6f4 g6f7 g8f7 e1e7"]
+[SolutionSAN "Bxf4 gxf7+ Kxf7 Re7+"]
+[FEN "3r2k1/1bq2p1p/3b1PP1/1B1p2P1/P1p2N2/8/1P1Q4/4R1K1 b - - 0 31"]
+[SetUp "1"]
+
+31... Bxf4 32. gxf7+ Kxf7 33. Re7+ *

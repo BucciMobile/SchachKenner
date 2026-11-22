@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BHiX"]
+[Difficulty "hard"]
+[Rating "2490"]
+[Themes "advantage attraction exposedKing fork middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/9rG9D85L#31"]
+[Solution "g1g2 h8h2 g2h2 d4f2 g4g2 f2h4 h2g1 h4e1"]
+[SolutionSAN "Kg2 Rxh2+ Kxh2 Qf2+ Qg2 Qh4+ Kg1 Qxe1+"]
+[FEN "r3k2r/4bpp1/p1p2p2/2p5/3q1PQ1/8/PPPP3N/R1B1R1K1 w kq - 1 16"]
+[SetUp "1"]
+
+16. Kg2 Rxh2+ 17. Kxh2 Qf2+ 18. Qg2 Qh4+ 19. Kg1 Qxe1+ *

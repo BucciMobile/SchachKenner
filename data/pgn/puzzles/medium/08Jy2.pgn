@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Jy2"]
+[Difficulty "medium"]
+[Rating "1610"]
+[Themes "crushing exposedKing long middlegame"]
+[GameUrl "https://lichess.org/game/E8GP8JoE#71"]
+[Solution "g2f1 c6h1 g4g1 h1g1 f1g1 e3e2"]
+[SolutionSAN "Kf1 Qh1+ Qg1 Qxg1+ Kxg1 Rxe2"]
+[FEN "4r2k/pp4p1/2q4p/5PpP/P1P3Q1/3Pr2P/4RRK1/1B6 w - - 8 36"]
+[SetUp "1"]
+
+36. Kf1 Qh1+ 37. Qg1 Qxg1+ 38. Kxg1 Rxe2 *

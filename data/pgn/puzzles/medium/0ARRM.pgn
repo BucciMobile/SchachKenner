@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ARRM"]
+[Difficulty "medium"]
+[Rating "1219"]
+[Themes "crushing discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/n4HxQvlQ#53"]
+[Solution "e1b1 e7e4 e2e4 f8c5"]
+[SolutionSAN "Rb1 Rxe4 Qxe4 Bxc5"]
+[FEN "2rq1bk1/4rpp1/p1n4p/1pR2P2/3pNp2/PB1P1P2/1P2Q1PP/4R1K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Rb1 Rxe4 28. Qxe4 Bxc5 *

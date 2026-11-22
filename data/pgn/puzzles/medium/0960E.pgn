@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0960E"]
+[Difficulty "medium"]
+[Rating "1549"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/x8pU8QvQ/black#52"]
+[Solution "b6b2 a1b1 b2b1 f1b1 b7b1 d3b1"]
+[SolutionSAN "Qb2 Rab1 Qxb1 Rxb1 Rxb1+ Qxb1"]
+[FEN "3r2k1/1r3ppp/1q2p3/3pP3/8/3Q4/5PPP/R4RK1 b - - 6 26"]
+[SetUp "1"]
+
+26... Qb2 27. Rab1 Qxb1 28. Rxb1 Rxb1+ 29. Qxb1 *

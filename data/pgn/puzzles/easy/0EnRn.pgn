@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EnRn"]
+[Difficulty "easy"]
+[Rating "1154"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/mXg1wx88/black#128"]
+[Solution "d6c6 d8c7 c6b5 b6b7 d5b7 c7b7"]
+[SolutionSAN "Kc6 Qc7+ Kb5 b7 Bxb7 Qxb7+"]
+[FEN "3Q4/8/1P1kq3/3b1p2/7P/6P1/6PK/8 b - - 4 64"]
+[SetUp "1"]
+
+64... Kc6 65. Qc7+ Kb5 66. b7 Bxb7 67. Qxb7+ *

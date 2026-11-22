@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HX2O"]
+[Difficulty "easy"]
+[Rating "1034"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/C98pCVLC/black#38"]
+[Solution "e7f5 h4g6"]
+[SolutionSAN "Nxf5 Ng6#"]
+[FEN "3r1r1k/1pp1n1pn/p2p1p1p/4pR2/2B1P2N/P2PP2P/1PP3P1/5RK1 b - - 3 19"]
+[SetUp "1"]
+
+19... Nxf5 20. Ng6# *

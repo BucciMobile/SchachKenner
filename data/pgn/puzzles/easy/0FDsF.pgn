@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FDsF"]
+[Difficulty "easy"]
+[Rating "989"]
+[Themes "mate mateIn1 middlegame oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/1xlA1hWR/black#62"]
+[Solution "a2f7 c1c8"]
+[SolutionSAN "Qf7 Rc8#"]
+[FEN "k7/1p6/pB5p/8/3r1P1N/8/q2r2PP/2R1R1K1 b - - 3 31"]
+[SetUp "1"]
+
+31... Qf7 32. Rc8# *

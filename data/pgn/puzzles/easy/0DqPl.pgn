@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DqPl"]
+[Difficulty "easy"]
+[Rating "1056"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/RewXuERz#61"]
+[Solution "h5g6 h8h1 d2d1 h1g1"]
+[SolutionSAN "hxg6 Rxh1 Qd1 Rxg1"]
+[FEN "7r/4ppk1/2qp2b1/p6P/1p6/3P4/PP1Q4/1K4RR w - - 1 31"]
+[SetUp "1"]
+
+31. hxg6 Rxh1 32. Qd1 Rxg1 *

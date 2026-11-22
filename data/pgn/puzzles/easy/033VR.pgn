@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "033VR"]
+[Difficulty "easy"]
+[Rating "901"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/eu8A0mk7#67"]
+[Solution "g2h3 f3h3"]
+[SolutionSAN "gxh3 Rxh3#"]
+[FEN "6k1/p4pp1/2p5/8/PPQ4p/5r1q/3r2P1/3B2RK w - - 0 34"]
+[SetUp "1"]
+
+34. gxh3 Rxh3# *

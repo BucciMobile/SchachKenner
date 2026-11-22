@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MDjK"]
+[Difficulty "hard"]
+[Rating "1891"]
+[Themes "bishopEndgame crushing endgame quietMove short"]
+[GameUrl "https://lichess.org/game/kYIeythq#115"]
+[Solution "e6f6 h5h4 e5d4 g4f4"]
+[SolutionSAN "Kf6 h4 Bd4 Kxf4"]
+[FEN "8/8/4K3/4Bp1p/5Pk1/8/8/8 w - - 1 58"]
+[SetUp "1"]
+
+58. Kf6 h4 59. Bd4 Kxf4 *

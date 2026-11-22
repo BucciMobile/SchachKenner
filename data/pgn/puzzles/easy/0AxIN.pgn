@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AxIN"]
+[Difficulty "easy"]
+[Rating "1187"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/q8kX9ur6#75"]
+[Solution "a7c5 a8a1 g1f2 d8h4"]
+[SolutionSAN "Qc5 Ra1+ Kf2 Qh4+"]
+[FEN "r2q4/Q2P1kp1/2R1p2p/3p1p2/5P2/4P3/6PP/6K1 w - - 5 38"]
+[SetUp "1"]
+
+38. Qc5 Ra1+ 39. Kf2 Qh4+ *

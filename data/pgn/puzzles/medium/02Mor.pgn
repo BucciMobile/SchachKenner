@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Mor"]
+[Difficulty "medium"]
+[Rating "1415"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/J5j4XntC#49"]
+[Solution "d2g5 f7f6 g5f6 g7f6"]
+[SolutionSAN "Bg5 f6 Bxf6 gxf6"]
+[FEN "r4rk1/2p1qppp/p3p3/P1bpQ3/6N1/5P2/1P1B1P1P/R4RK1 w - - 3 25"]
+[SetUp "1"]
+
+25. Bg5 f6 26. Bxf6 gxf6 *

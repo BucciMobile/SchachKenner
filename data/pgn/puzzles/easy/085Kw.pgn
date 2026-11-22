@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "085Kw"]
+[Difficulty "easy"]
+[Rating "1061"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/exFpetUw#77"]
+[Solution "b4a4 a5b5 a4b4 b5c5"]
+[SolutionSAN "Rxa4+ Kb5 Rb4+ Kc5"]
+[FEN "8/5p1p/5p2/k3p3/pRp3P1/K4P2/2N1r3/8 w - - 0 39"]
+[SetUp "1"]
+
+39. Rxa4+ Kb5 40. Rb4+ Kc5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J1XU"]
+[Difficulty "medium"]
+[Rating "1386"]
+[Themes "advantage opening pin short"]
+[GameUrl "https://lichess.org/game/IXGTQjp2/black#28"]
+[Solution "c8e6 c4b5 e8g8 b5c6"]
+[SolutionSAN "Be6 Bb5 O-O Bxc6"]
+[FEN "rnb1k2r/ppp1bp1p/2q3p1/4P2n/1PB2p2/N1P5/P2N2PP/R1BQ1K1R b kq - 2 14"]
+[SetUp "1"]
+
+14... Be6 15. Bb5 O-O 16. Bxc6 *

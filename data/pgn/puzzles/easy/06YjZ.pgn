@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06YjZ"]
+[Difficulty "easy"]
+[Rating "1001"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/HCdRtnd4#23"]
+[Solution "c1b2 e5f3 d1f3 g7b2"]
+[SolutionSAN "Bb2 Nxf3+ Qxf3 Bxb2"]
+[FEN "r2q1rk1/ppp2pbp/6p1/3pn3/8/1P2PN1P/P1P2PP1/R1BQ1RK1 w - - 0 12"]
+[SetUp "1"]
+
+12. Bb2 Nxf3+ 13. Qxf3 Bxb2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02k6v"]
+[Difficulty "hard"]
+[Rating "2211"]
+[Themes "advantage middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/VGogLWOo#45"]
+[Solution "h1f1 f2e3 c2d2 e3d2"]
+[SolutionSAN "Rf1 Qe3+ Qd2 Qxd2+"]
+[FEN "r5k1/pb2Brpp/1p2p3/4n3/3RP2P/2P5/PPQ1BqP1/2K4R w - - 3 23"]
+[SetUp "1"]
+
+23. Rf1 Qe3+ 24. Qd2 Qxd2+ *

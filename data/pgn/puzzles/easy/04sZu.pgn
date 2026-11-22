@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04sZu"]
+[Difficulty "easy"]
+[Rating "1193"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/e2qP0ot6/black#94"]
+[Solution "e8e1 f6h5 g7h6 h5f4"]
+[SolutionSAN "Re1 Nh5+ Kh6 Nxf4"]
+[FEN "4r3/5pkp/5N2/8/5bPK/8/3R4/8 b - - 0 47"]
+[SetUp "1"]
+
+47... Re1 48. Nh5+ Kh6 49. Nxf4 *

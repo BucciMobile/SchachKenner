@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05bWa"]
+[Difficulty "medium"]
+[Rating "1675"]
+[Themes "advantage kingsideAttack middlegame pin short"]
+[GameUrl "https://lichess.org/game/EFcum3DT#33"]
+[Solution "b3b4 c5f2 f1f2 e8e2"]
+[SolutionSAN "b4 Bxf2+ Qxf2 Rxe2"]
+[FEN "3rr1k1/pp3ppp/1qn5/2bp1b2/2P5/PP3N1P/1B1NBRP1/R4QK1 w - - 3 17"]
+[SetUp "1"]
+
+17. b4 Bxf2+ 18. Qxf2 Rxe2 *

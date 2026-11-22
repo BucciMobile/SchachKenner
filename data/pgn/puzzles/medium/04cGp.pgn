@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04cGp"]
+[Difficulty "medium"]
+[Rating "1515"]
+[Themes "advancedPawn attraction crushing endgame long promotion rookEndgame"]
+[GameUrl "https://lichess.org/game/32FTlrRv#75"]
+[Solution "b2c3 d4c3 f3d3 d6d3 e2d3 d2d1q"]
+[SolutionSAN "bxc3 dxc3 Rd3 Rxd3 Kxd3 d1=Q+"]
+[FEN "8/6p1/3r2kp/8/p2pR3/2p2R1P/PP1pKPP1/8 w - - 0 38"]
+[SetUp "1"]
+
+38. bxc3 dxc3 39. Rd3 Rxd3 40. Kxd3 d1=Q+ *

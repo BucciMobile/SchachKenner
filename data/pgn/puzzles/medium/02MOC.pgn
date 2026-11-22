@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02MOC"]
+[Difficulty "medium"]
+[Rating "1252"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/OHbsTOYD/black#38"]
+[Solution "d8d5 b5c4 d5c4 c5c4"]
+[SolutionSAN "Qxd5 Bc4 Qxc4 Qxc4+"]
+[FEN "r2q2k1/ppp3pp/8/1BQN1r2/8/8/PP1P1P1P/n1B3K1 b - - 0 19"]
+[SetUp "1"]
+
+19... Qxd5 20. Bc4 Qxc4 21. Qxc4+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CMTx"]
+[Difficulty "medium"]
+[Rating "1233"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/A6TrYvsI/black#84"]
+[Solution "b2b7 e6e7 g7g6 d7f5"]
+[SolutionSAN "Rb7 Qe7+ Kg6 Bf5#"]
+[FEN "7r/2qB2k1/3pQp1p/p3p1b1/4Pp2/3P1P1R/1r3PK1/5R2 b - - 9 42"]
+[SetUp "1"]
+
+42... Rb7 43. Qe7+ Kg6 44. Bf5# *

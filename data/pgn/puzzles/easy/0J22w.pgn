@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J22w"]
+[Difficulty "easy"]
+[Rating "1132"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/PCLaQFwj#67"]
+[Solution "h2h4 a2g2"]
+[SolutionSAN "Rxh4 Qxg2#"]
+[FEN "2r3k1/1b3pp1/p6p/1p2Pp2/1PpP1P1b/P1Q1B1N1/q5PR/6K1 w - - 14 34"]
+[SetUp "1"]
+
+34. Rxh4 Qxg2# *

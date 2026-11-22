@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dh6K"]
+[Difficulty "easy"]
+[Rating "1003"]
+[Themes "advantage endgame intermezzo short"]
+[GameUrl "https://lichess.org/game/ASUHlxJ8/black#46"]
+[Solution "e5d3 e1e8 f8e8 d1d3"]
+[SolutionSAN "Nxd3 Rxe8 Rxe8 Rxd3"]
+[FEN "4rr1k/pBp3p1/7p/2p1np2/2Pp3P/3P2P1/PP3P2/3RR1K1 b - - 0 23"]
+[SetUp "1"]
+
+23... Nxd3 24. Rxe8 Rxe8 25. Rxd3 *

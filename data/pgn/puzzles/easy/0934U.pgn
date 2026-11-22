@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0934U"]
+[Difficulty "easy"]
+[Rating "1007"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/a4F1heL5#61"]
+[Solution "e1e6 h4h1 e6e1 h1e1"]
+[SolutionSAN "Ree6 Rh1+ Re1 Rxe1#"]
+[FEN "8/3k4/3p2R1/pp1p4/3P3r/P1P3P1/1P4r1/2K1R3 w - - 0 31"]
+[SetUp "1"]
+
+31. Ree6 Rh1+ 32. Re1 Rxe1# *

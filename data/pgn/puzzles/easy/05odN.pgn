@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05odN"]
+[Difficulty "easy"]
+[Rating "1139"]
+[Themes "advancedPawn crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/OpKGc4Tj/black#80"]
+[Solution "g5g4 c5c6 b7c6 b5c6 h4h3 c6c7"]
+[SolutionSAN "Kg4 c6 bxc6 bxc6 h3 c7"]
+[FEN "8/pp6/8/1PP3k1/7p/3K4/P7/8 b - - 0 40"]
+[SetUp "1"]
+
+40... Kg4 41. c6 bxc6 42. bxc6 h3 43. c7 *

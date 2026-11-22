@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HWVR"]
+[Difficulty "medium"]
+[Rating "1253"]
+[Themes "kingsideAttack master mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/prG6m7jc/black#40"]
+[Solution "f7f6 d3h7 g8h8 e5g6"]
+[SolutionSAN "f6 Bxh7+ Kh8 Ng6#"]
+[FEN "3rr1k1/1b3ppp/pbn1p3/1p1nN1N1/8/1P1B4/PBP2PPP/3R1RK1 b - - 15 20"]
+[SetUp "1"]
+
+20... f6 21. Bxh7+ Kh8 22. Ng6# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04r6f"]
+[Difficulty "hard"]
+[Rating "1908"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/HiroeRL8/black#74"]
+[Solution "e4d4 c6e8 g8g7 e8e5"]
+[SolutionSAN "Rd4 Qe8+ Kg7 Qe5+"]
+[FEN "6k1/p6p/2QP2p1/1p3p2/2p1r3/q6P/6P1/6RK b - - 0 37"]
+[SetUp "1"]
+
+37... Rd4 38. Qe8+ Kg7 39. Qe5+ *

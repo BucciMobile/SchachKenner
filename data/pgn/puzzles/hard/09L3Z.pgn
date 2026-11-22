@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09L3Z"]
+[Difficulty "hard"]
+[Rating "1921"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/Xw2Q9b84#43"]
+[Solution "h4h6 c6c5 d3g6 c5d4"]
+[SolutionSAN "Qh6 c5 Bxg6 cxd4"]
+[FEN "1r3rk1/pq5p/2p2pp1/b2b4/3B3Q/P2B4/1PP2PPP/2KR3R w - - 0 22"]
+[SetUp "1"]
+
+22. Qh6 c5 23. Bxg6 cxd4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DlC2"]
+[Difficulty "easy"]
+[Rating "953"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/VwQnw3BG#87"]
+[Solution "c4c5 f3d3 b3c4 d3d4 c4c3 d4b4"]
+[SolutionSAN "c5 Rxd3+ Kc4 Rd4+ Kc3 Rxb4"]
+[FEN "8/p7/7p/k3p2P/PRP1Pp2/1K1P1r2/1P6/8 w - - 0 44"]
+[SetUp "1"]
+
+44. c5 Rxd3+ 45. Kc4 Rd4+ 46. Kc3 Rxb4 *

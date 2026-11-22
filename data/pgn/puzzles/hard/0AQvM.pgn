@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AQvM"]
+[Difficulty "hard"]
+[Rating "2223"]
+[Themes "crushing exposedKing long middlegame"]
+[GameUrl "https://lichess.org/game/7FbvPGwb/black#62"]
+[Solution "a3d3 c1c6 c8b7 c6c7 b7a8 d5b6"]
+[SolutionSAN "Qxd3 Rxc6+ Kb7 Rc7+ Ka8 Nb6+"]
+[FEN "2k1r3/6b1/2p1n1p1/3N1pP1/3P4/q2NPPQ1/5K2/2R5 b - - 0 31"]
+[SetUp "1"]
+
+31... Qxd3 32. Rxc6+ Kb7 33. Rc7+ Ka8 34. Nb6+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FAHG"]
+[Difficulty "hard"]
+[Rating "1742"]
+[Themes "advancedPawn crushing endgame short"]
+[GameUrl "https://lichess.org/game/klq1SC9Y#75"]
+[Solution "f7g7 g5h4 g7a7 c3c2"]
+[SolutionSAN "Rxg7 gxh4 Rxa7 c2"]
+[FEN "2r4k/p4Rqp/3p4/P2B2p1/4P2Q/2p4P/6P1/7K w - - 0 38"]
+[SetUp "1"]
+
+38. Rxg7 gxh4 39. Rxa7 c2 *

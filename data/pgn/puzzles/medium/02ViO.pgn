@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02ViO"]
+[Difficulty "medium"]
+[Rating "1425"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/j6cr9Itz/black#60"]
+[Solution "d7d5 h4g4 g8f8 e3c5 f8e8 g4g8"]
+[SolutionSAN "d5 Rg4+ Kf8 Qc5+ Ke8 Rg8+"]
+[FEN "6k1/pbpp1r1p/2p4P/8/4PN1R/4QKP1/q7/8 b - - 0 30"]
+[SetUp "1"]
+
+30... d5 31. Rg4+ Kf8 32. Qc5+ Ke8 33. Rg8+ *

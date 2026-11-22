@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01u1D"]
+[Difficulty "easy"]
+[Rating "825"]
+[Themes "mate mateIn1 middlegame oneMove pin"]
+[GameUrl "https://lichess.org/game/DVuLGJSS/black#44"]
+[Solution "f8f7 d1d8"]
+[SolutionSAN "Rxf7 Rd8#"]
+[FEN "5rk1/5Qpp/1r3p2/6q1/1PB4n/P6P/5PP1/3R1R1K b - - 0 22"]
+[SetUp "1"]
+
+22... Rxf7 23. Rd8# *

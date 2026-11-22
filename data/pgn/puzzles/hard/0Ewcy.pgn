@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ewcy"]
+[Difficulty "hard"]
+[Rating "1839"]
+[Themes "fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/xsnuLHJm/black#48"]
+[Solution "h6h5 f5h7 f8h6 h7h6"]
+[SolutionSAN "Kh5 Qh7+ Bh6 Qxh6#"]
+[FEN "r2q1br1/ppp5/1n1pp2k/5QP1/5n2/8/PPP2P1P/RN2K1R1 b Q - 0 24"]
+[SetUp "1"]
+
+24... Kh5 25. Qh7+ Bh6 26. Qxh6# *

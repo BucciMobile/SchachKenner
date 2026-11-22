@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AiwF"]
+[Difficulty "easy"]
+[Rating "1117"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/PebRbG81#57"]
+[Solution "f3e5 d7f5 e4f5 f8f5"]
+[SolutionSAN "Nxe5 Bf5 Qxf5 Rxf5"]
+[FEN "3k1r2/pp1b2p1/3q4/4p3/3PQ3/2P2NP1/PP3PP1/1K2R3 w - - 0 29"]
+[SetUp "1"]
+
+29. Nxe5 Bf5 30. Qxf5 Rxf5 *

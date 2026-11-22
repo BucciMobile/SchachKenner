@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08bDX"]
+[Difficulty "medium"]
+[Rating "1613"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/AtA39RZj/black#78"]
+[Solution "c5b4 g5b5 b4a3 b5b2 a3b2 a6b6"]
+[SolutionSAN "Kb4 Rb5+ Ka3 Rxb2 Kxb2 Kxb6"]
+[FEN "8/8/Kp6/p1k3R1/P7/8/1r6/8 b - - 2 39"]
+[SetUp "1"]
+
+39... Kb4 40. Rb5+ Ka3 41. Rxb2 Kxb2 42. Kxb6 *

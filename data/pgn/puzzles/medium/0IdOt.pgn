@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IdOt"]
+[Difficulty "medium"]
+[Rating "1269"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/r8ApG4O7/black#30"]
+[Solution "f6d5 f3f7 e8d8 f7d7"]
+[SolutionSAN "Nxd5 Qf7+ Kd8 Qd7#"]
+[FEN "r3kb1r/1pp3pb/p1n1Pn1p/3N4/7q/2Pp1Q2/PP1P3P/R1BK1BNR b kq - 2 15"]
+[SetUp "1"]
+
+15... Nxd5 16. Qf7+ Kd8 17. Qd7# *

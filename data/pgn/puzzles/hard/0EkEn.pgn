@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EkEn"]
+[Difficulty "hard"]
+[Rating "1773"]
+[Themes "advantage defensiveMove fork long middlegame"]
+[GameUrl "https://lichess.org/game/fiq99snK/black#34"]
+[Solution "f4f3 c2c6 e8d8 c6a8 d8d7 g2g3"]
+[SolutionSAN "Qxf3 Qc6+ Kd8 Qxa8+ Kd7 g3"]
+[FEN "r3kbr1/2p2p1p/p3p3/1p1pP3/3P1q2/5B2/PPQ2PPP/R3R1K1 b q - 1 17"]
+[SetUp "1"]
+
+17... Qxf3 18. Qc6+ Kd8 19. Qxa8+ Kd7 20. g3 *

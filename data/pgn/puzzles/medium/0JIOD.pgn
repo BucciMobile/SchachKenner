@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JIOD"]
+[Difficulty "medium"]
+[Rating "1525"]
+[Themes "clearance kingsideAttack long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/2qHUuO9S/black#42"]
+[Solution "d7b8 f5e7 f8e7 c2h7 g8f8 h7h8"]
+[SolutionSAN "Nb8 Ne7+ Bxe7 Qh7+ Kf8 Qh8#"]
+[FEN "r1b1rbk1/pp1n1pp1/1n3q2/3p1NN1/2pP4/4P2P/PPQ1BP2/R1B1K1R1 b Q - 0 21"]
+[SetUp "1"]
+
+21... Nb8 22. Ne7+ Bxe7 23. Qh7+ Kf8 24. Qh8# *

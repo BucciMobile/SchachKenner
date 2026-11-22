@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BUDM"]
+[Difficulty "easy"]
+[Rating "802"]
+[Themes "hangingPiece kingsideAttack master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/HrG1pIMM/black#36"]
+[Solution "g8h8 f7f8"]
+[SolutionSAN "Kh8 Qxf8#"]
+[FEN "r1b2bk1/pp3Qp1/4p2r/3pq1Np/7P/2P5/PP3PP1/RN3RK1 b - - 1 18"]
+[SetUp "1"]
+
+18... Kh8 19. Qxf8# *

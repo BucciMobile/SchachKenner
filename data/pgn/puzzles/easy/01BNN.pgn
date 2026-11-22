@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01BNN"]
+[Difficulty "easy"]
+[Rating "955"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/8LHFibnx/black#48"]
+[Solution "c5a3 f3f7 g8h8 f7g7"]
+[SolutionSAN "Qa3 Qxf7+ Kh8 Qxg7#"]
+[FEN "1r4k1/3R1pbp/1p2p1p1/p1q5/P1P5/1B3Q2/5PPP/6K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Qa3 25. Qxf7+ Kh8 26. Qxg7# *

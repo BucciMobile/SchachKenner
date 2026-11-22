@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MH7T"]
+[Difficulty "medium"]
+[Rating "1538"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/6qXBymwE/black#60"]
+[Solution "f6g6 e1e5 e8e5 d4e5"]
+[SolutionSAN "Kg6 Rxe5 Rxe5 Qxe5"]
+[FEN "4r3/3q1bp1/p2P1k1p/3Pn3/2PQ2p1/B7/5P1P/4R1K1 b - - 0 30"]
+[SetUp "1"]
+
+30... Kg6 31. Rxe5 Rxe5 32. Qxe5 *

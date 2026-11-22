@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JeR5"]
+[Difficulty "hard"]
+[Rating "1724"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/qKRQ55YI/black#62"]
+[Solution "a1e1 d2e2 e3f1 h2g1 f1g3 e2e1"]
+[SolutionSAN "Qe1 Re2 Nf1+ Kg1 Ng3+ Rxe1"]
+[FEN "k6r/pp5p/2p3p1/8/P3Q3/2N1n2P/1P1R2PK/q7 b - - 8 31"]
+[SetUp "1"]
+
+31... Qe1 32. Re2 Nf1+ 33. Kg1 Ng3+ 34. Rxe1 *

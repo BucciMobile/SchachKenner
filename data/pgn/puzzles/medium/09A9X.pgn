@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09A9X"]
+[Difficulty "medium"]
+[Rating "1369"]
+[Themes "crushing long middlegame skewer"]
+[GameUrl "https://lichess.org/game/QXCPhays#41"]
+[Solution "e2d3 c3d3 d1d3 b2b1 f1e2 b1h1"]
+[SolutionSAN "Qd3 Qxd3+ Rxd3 Rb1+ Ke2 Rxh1"]
+[FEN "4k2r/p3pp2/2pp3p/6p1/4P3/2q3B1/Pr2QPPP/3R1K1R w k - 10 21"]
+[SetUp "1"]
+
+21. Qd3 Qxd3+ 22. Rxd3 Rb1+ 23. Ke2 Rxh1 *

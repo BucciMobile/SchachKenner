@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Q8c"]
+[Difficulty "easy"]
+[Rating "585"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/ca7orS72/black#46"]
+[Solution "e4g5 e3e8 a8e8 e1e8"]
+[SolutionSAN "Nxg5 Re8+ Rxe8 Rxe8#"]
+[FEN "r5k1/p4ppp/q1p3b1/3p1PQ1/4n3/2P1R3/P1P4P/4R1K1 b - - 0 23"]
+[SetUp "1"]
+
+23... Nxg5 24. Re8+ Rxe8 25. Rxe8# *

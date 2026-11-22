@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GMzx"]
+[Difficulty "easy"]
+[Rating "1106"]
+[Themes "advantage hangingPiece opening short"]
+[GameUrl "https://lichess.org/game/JHHeYDDs/black#22"]
+[Solution "e4f2 e1f2 f5c2 d1c2"]
+[SolutionSAN "Nxf2 Kxf2 Bxc2 Qxc2"]
+[FEN "r2qk2r/2p2ppp/p1nbp3/1p3b2/1P1Pn3/P1N1P2P/1BB2PP1/R2QK1NR b KQkq - 2 11"]
+[SetUp "1"]
+
+11... Nxf2 12. Kxf2 Bxc2 13. Qxc2 *

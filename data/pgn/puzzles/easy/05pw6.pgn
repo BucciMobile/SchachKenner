@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05pw6"]
+[Difficulty "easy"]
+[Rating "1102"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/av8MGkFa/black#90"]
+[Solution "g7c3 d6e4 g5g4 e4c3"]
+[SolutionSAN "Bc3 Ne4+ Kg4 Nxc3"]
+[FEN "8/6b1/3N3p/p5k1/P6p/8/6P1/5K2 b - - 0 45"]
+[SetUp "1"]
+
+45... Bc3 46. Ne4+ Kg4 47. Nxc3 *

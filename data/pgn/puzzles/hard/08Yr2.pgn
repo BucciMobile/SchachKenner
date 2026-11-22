@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Yr2"]
+[Difficulty "hard"]
+[Rating "2060"]
+[Themes "advantage endgame pin veryLong"]
+[GameUrl "https://lichess.org/game/Hua48tOm/black#74"]
+[Solution "f3f2 g4c8 f6f8 c8e6 g8h8 h1h3 f2d2 c2d2 h7h3 e6h3"]
+[SolutionSAN "Rxf2 Qc8+ Rf8 Qe6+ Kh8 Rxh3 Rxd2+ Kxd2 Qxh3 Qxh3+"]
+[FEN "6k1/ppp3pq/3p1r2/3P4/2P3Q1/3P1r1p/P1KR1P2/7R b - - 3 37"]
+[SetUp "1"]
+
+37... Rxf2 38. Qc8+ Rf8 39. Qe6+ Kh8 40. Rxh3 Rxd2+ 41. Kxd2 Qxh3 42. Qxh3+ *

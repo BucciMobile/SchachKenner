@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IH3V"]
+[Difficulty "hard"]
+[Rating "1860"]
+[Themes "crushing deflection middlegame skewer veryLong"]
+[GameUrl "https://lichess.org/game/Avaz4T0t/black#36"]
+[Solution "d7e7 a4d7 e7f6 d7f7 f6e5 f7g7 e5d6 g7c3"]
+[SolutionSAN "Ke7 Qd7+ Kf6 Qxf7+ Kxe5 Qxg7+ Kd6 Qxc3"]
+[FEN "r6r/pp1k1ppp/4p3/3pN3/Q7/2q1b3/P3KPPP/R6R b - - 1 18"]
+[SetUp "1"]
+
+18... Ke7 19. Qd7+ Kf6 20. Qxf7+ Kxe5 21. Qxg7+ Kd6 22. Qxc3 *

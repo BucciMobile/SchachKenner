@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03QN9"]
+[Difficulty "easy"]
+[Rating "1099"]
+[Themes "advancedPawn advantage discoveredAttack endgame fork short"]
+[GameUrl "https://lichess.org/game/VsjAz09Q/black#54"]
+[Solution "e3d2 f6g7 b7g7 f1f8"]
+[SolutionSAN "Bxd2 fxg7+ Rxg7 Rxf8+"]
+[FEN "5r1k/pr4p1/2p2P1p/3nP3/6R1/1P2b3/P1PB2PP/5R1K b - - 0 27"]
+[SetUp "1"]
+
+27... Bxd2 28. fxg7+ Rxg7 29. Rxf8+ *

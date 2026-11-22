@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00761"]
+[Difficulty "medium"]
+[Rating "1379"]
+[Themes "attraction crushing endgame exposedKing fork long sacrifice"]
+[GameUrl "https://lichess.org/game/vu70Maig/black#56"]
+[Solution "f7g6 h7g7 g8g7 g5e6 g7g8 e6d8"]
+[SolutionSAN "fxg6 Rxg7+ Kxg7 Ne6+ Kg8 Nxd8"]
+[FEN "3r2k1/1b3pbR/p2P2P1/3p2N1/2p5/2P2N2/PP6/2K5 b - - 0 28"]
+[SetUp "1"]
+
+28... fxg6 29. Rxg7+ Kxg7 30. Ne6+ Kg8 31. Nxd8 *

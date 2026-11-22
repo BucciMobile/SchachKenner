@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A15l"]
+[Difficulty "easy"]
+[Rating "1009"]
+[Themes "crushing endgame long rookEndgame skewer"]
+[GameUrl "https://lichess.org/game/RyldNAF1#111"]
+[Solution "c4d5 c8c5 d5e4 c5h5 h7h8q h5h8"]
+[SolutionSAN "Kd5 Rc5+ Ke4 Rxh5 h8=Q Rxh8"]
+[FEN "2r5/7P/1k6/p6R/P1K5/1P6/8/8 w - - 1 56"]
+[SetUp "1"]
+
+56. Kd5 Rc5+ 57. Ke4 Rxh5 58. h8=Q Rxh8 *

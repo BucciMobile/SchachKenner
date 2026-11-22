@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D1jg"]
+[Difficulty "easy"]
+[Rating "907"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/uunCXvu1/black#58"]
+[Solution "c6e4 e1e4 g4e4 f3e4"]
+[SolutionSAN "Bxe4+ Rxe4 Rxe4 Kxe4"]
+[FEN "7k/1p4p1/2bp4/p1b1P2p/2P1R1r1/PP3K2/1B3P1P/4R3 b - - 4 29"]
+[SetUp "1"]
+
+29... Bxe4+ 30. Rxe4 Rxe4 31. Kxe4 *

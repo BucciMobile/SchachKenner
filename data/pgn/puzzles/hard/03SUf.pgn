@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03SUf"]
+[Difficulty "hard"]
+[Rating "1849"]
+[Themes "capturingDefender crushing deflection middlegame short"]
+[GameUrl "https://lichess.org/game/V6XSIpyo/black#38"]
+[Solution "f6e5 e1e5 c6e5 g4d4"]
+[SolutionSAN "Be5 Rxe5 Nxe5 Qxd4"]
+[FEN "r2q3r/pp2kpp1/2n1pb2/3p4/3n2Q1/2NB4/PPPB1PPP/3RR1K1 b - - 6 19"]
+[SetUp "1"]
+
+19... Be5 20. Rxe5 Nxe5 21. Qxd4 *

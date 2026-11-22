@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IzqQ"]
+[Difficulty "medium"]
+[Rating "1632"]
+[Themes "crushing endgame master pin short"]
+[GameUrl "https://lichess.org/game/QtBb06Vv/black#58"]
+[Solution "g8g7 f1g1 f7f4 g1g5"]
+[SolutionSAN "Kxg7 Rg1 Rxf4 Rxg5+"]
+[FEN "6k1/pp3rPp/8/6n1/2p2P2/2P5/PP5K/3B1R2 b - - 0 29"]
+[SetUp "1"]
+
+29... Kxg7 30. Rg1 Rxf4 31. Rxg5+ *

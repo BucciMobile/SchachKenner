@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07RrK"]
+[Difficulty "medium"]
+[Rating "1564"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame operaMate sacrifice"]
+[GameUrl "https://lichess.org/game/SbyiON5x#51"]
+[Solution "d7c7 h6h2 g1h2 e5h5 h2g1 h5h1"]
+[SolutionSAN "Qxc7 Qxh2+ Kxh2 Rh5+ Kg1 Rh1#"]
+[FEN "1r5k/RbpQ1p1p/1p1p3q/1P2r3/2PN4/4P1P1/5P1P/5RK1 w - - 4 26"]
+[SetUp "1"]
+
+26. Qxc7 Qxh2+ 27. Kxh2 Rh5+ 28. Kg1 Rh1# *

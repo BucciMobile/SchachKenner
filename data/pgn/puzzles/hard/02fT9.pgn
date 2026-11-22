@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02fT9"]
+[Difficulty "hard"]
+[Rating "1998"]
+[Themes "advantage defensiveMove fork long middlegame"]
+[GameUrl "https://lichess.org/game/mOszGc41/black#32"]
+[Solution "e7f5 d1d5 g8h8 d5c6 a7a6 b5a3"]
+[SolutionSAN "Nxf5 Qd5+ Kh8 Qxc6 a6 Na3"]
+[FEN "r2q1rk1/p1p1n1pp/1pnp4/bN2pP2/P1P5/5NB1/5PPP/1R1Q1RK1 b - - 0 16"]
+[SetUp "1"]
+
+16... Nxf5 17. Qd5+ Kh8 18. Qxc6 a6 19. Na3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09BUS"]
+[Difficulty "easy"]
+[Rating "1178"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/SI3FPVfs/black#44"]
+[Solution "c4e3 h5h6 f6g7 h6e3"]
+[SolutionSAN "Nxe3 Qh6+ Bg7 Qxe3"]
+[FEN "2qr1k2/p4p2/bp3b2/2pp1p1Q/2nP4/2P1P1P1/PP3RBP/R6K b - - 1 22"]
+[SetUp "1"]
+
+22... Nxe3 23. Qh6+ Bg7 24. Qxe3 *

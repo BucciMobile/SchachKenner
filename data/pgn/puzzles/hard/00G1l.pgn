@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00G1l"]
+[Difficulty "hard"]
+[Rating "1841"]
+[Themes "crushing defensiveMove endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/IWYBiMcT/black#120"]
+[Solution "c4c1 f4g5 c1g1 g5f6"]
+[SolutionSAN "Rc1 Kg5 Rg1+ Kf6"]
+[FEN "5k2/1R6/3pp1P1/2p5/1pr1PK2/5P2/8/8 b - - 0 60"]
+[SetUp "1"]
+
+60... Rc1 61. Kg5 Rg1+ 62. Kf6 *

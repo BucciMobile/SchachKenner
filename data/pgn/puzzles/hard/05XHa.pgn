@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05XHa"]
+[Difficulty "hard"]
+[Rating "1800"]
+[Themes "advantage middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/EYqBVIFg#35"]
+[Solution "c1e3 b8b7 a7b7 c5b7"]
+[SolutionSAN "Be3 Rb7 Qxb7 Nxb7"]
+[FEN "1r1q1rk1/Q3ppbp/1p1pb1p1/1Nn5/P1P1P3/1P3PP1/6BP/1RBR2K1 w - - 1 18"]
+[SetUp "1"]
+
+18. Be3 Rb7 19. Qxb7 Nxb7 *

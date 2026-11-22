@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EJCp"]
+[Difficulty "easy"]
+[Rating "682"]
+[Themes "hangingPiece kingsideAttack master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/cekn4wEx/black#40"]
+[Solution "g8h8 e8f8"]
+[SolutionSAN "Kh8 Qxf8#"]
+[FEN "r1b1Qbk1/pp3Ppp/2n5/3p4/6P1/2NB4/PP1K3P/q7 b - - 0 20"]
+[SetUp "1"]
+
+20... Kh8 21. Qxf8# *

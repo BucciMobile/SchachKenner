@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GShW"]
+[Difficulty "easy"]
+[Rating "974"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/A6z6lioq/black#24"]
+[Solution "d6c6 b7c8"]
+[SolutionSAN "Qc6 Qc8#"]
+[FEN "rn2k2r/1Qp1ppbp/p2q2p1/6Bn/7P/2NP4/PP2PP2/R3K1NR b KQkq - 0 12"]
+[SetUp "1"]
+
+12... Qc6 13. Qc8# *

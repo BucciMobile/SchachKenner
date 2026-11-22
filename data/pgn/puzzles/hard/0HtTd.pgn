@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HtTd"]
+[Difficulty "hard"]
+[Rating "2480"]
+[Themes "crushing middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/nqoYv0RJ/black#38"]
+[Solution "f6e7 c6b7 c7c6 b7c8"]
+[SolutionSAN "Qxe7 Qb7 c6 Qxc8"]
+[FEN "2rb1k1r/2p1Bppp/p1Q1pq2/1p6/2p2P2/2N5/PP4PP/R3R1K1 b - - 0 19"]
+[SetUp "1"]
+
+19... Qxe7 20. Qb7 c6 21. Qxc8 *

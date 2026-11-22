@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GekT"]
+[Difficulty "medium"]
+[Rating "1450"]
+[Themes "attraction long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/Yb4GX7SO#55"]
+[Solution "c1c2 h8h2 g2h2 d4f2 h2h1 d8h8"]
+[SolutionSAN "R1c2 Rxh2+ Kxh2 Qf2+ Kh1 Rh8#"]
+[FEN "1knr3r/p1p2p2/Qp1p4/3P4/3qP1p1/2R3P1/PP1N2KP/2R5 w - - 7 28"]
+[SetUp "1"]
+
+28. R1c2 Rxh2+ 29. Kxh2 Qf2+ 30. Kh1 Rh8# *

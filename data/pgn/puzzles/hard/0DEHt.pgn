@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DEHt"]
+[Difficulty "hard"]
+[Rating "2180"]
+[Themes "advantage long master middlegame pin"]
+[GameUrl "https://lichess.org/game/iKqn3dTy/black#36"]
+[Solution "e4c5 d3d5 e8g8 e1e6 c5b3 d5b3"]
+[SolutionSAN "Nc5 Qxd5 O-O Rxe6 Nxb3 Qxb3"]
+[FEN "r3k2r/1p4pp/p3bb2/q2p1p2/4n3/1B1Q1P1P/PP1N2P1/R1B1R1K1 b kq - 0 18"]
+[SetUp "1"]
+
+18... Nc5 19. Qxd5 O-O 20. Rxe6 Nxb3 21. Qxb3 *

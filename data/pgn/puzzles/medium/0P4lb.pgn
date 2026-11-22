@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0P4lb"]
+[Difficulty "medium"]
+[Rating "1448"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/iAeml1CM/black#64"]
+[Solution "e4c2 a2b1 c2b1 d1b1"]
+[SolutionSAN "Qc2 Bb1 Qxb1 Rxb1"]
+[FEN "6r1/pp1R1prk/2p1p2p/7Q/P3qp2/2P1b1P1/BP5P/3R1K2 b - - 1 32"]
+[SetUp "1"]
+
+32... Qc2 33. Bb1 Qxb1 34. Rxb1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04NfX"]
+[Difficulty "easy"]
+[Rating "908"]
+[Themes "attackingF2F7 mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/7SqvAFdr/black#22"]
+[Solution "h5g4 f3f7 e8d8 f7f8"]
+[SolutionSAN "hxg4 Qxf7+ Kd8 Qf8#"]
+[FEN "rn2k1nr/p1pp1p2/4p3/1p5p/4P1Pq/5Q2/PPPP2KP/RNB2R2 b kq - 1 11"]
+[SetUp "1"]
+
+11... hxg4 12. Qxf7+ Kd8 13. Qf8# *

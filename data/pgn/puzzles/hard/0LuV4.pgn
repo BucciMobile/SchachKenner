@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LuV4"]
+[Difficulty "hard"]
+[Rating "2243"]
+[Themes "advantage long master middlegame"]
+[GameUrl "https://lichess.org/game/cbvB4s3U#37"]
+[Solution "b1b7 f5e4 d3e4 f4g3 f2g3 g6g3"]
+[SolutionSAN "Rxb7 Bxe4 dxe4 fxg3 fxg3 Rxg3"]
+[FEN "r6k/pp2n1p1/3p2rp/4pb1q/2P1Np1P/3P2P1/P3PPB1/1R1QR1K1 w - - 4 19"]
+[SetUp "1"]
+
+19. Rxb7 Bxe4 20. dxe4 fxg3 21. fxg3 Rxg3 *

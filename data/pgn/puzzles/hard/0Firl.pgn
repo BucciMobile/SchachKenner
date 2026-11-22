@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Firl"]
+[Difficulty "hard"]
+[Rating "2087"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/bCf1AdEU#63"]
+[Solution "f6f7 f2h3 g1f1 f5d3 f1e1 d2e2"]
+[SolutionSAN "f7 Nh3+ Kf1 Bd3+ Ke1 Re2+"]
+[FEN "4r2k/6R1/p4P1p/5b2/P4B2/4P1P1/3r1n1P/1R4KB w - - 1 32"]
+[SetUp "1"]
+
+32. f7 Nh3+ 33. Kf1 Bd3+ 34. Ke1 Re2+ *

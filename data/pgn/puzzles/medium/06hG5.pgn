@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06hG5"]
+[Difficulty "medium"]
+[Rating "1275"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/rdXU6Tlc#71"]
+[Solution "a6a7 f4d4 e2d3 d4a1"]
+[SolutionSAN "a7 Qxd4+ Qd3 Qxa1"]
+[FEN "2r2k2/5pp1/P3p1p1/3pP3/3P1q2/1P2N3/3KQ3/R7 w - - 2 36"]
+[SetUp "1"]
+
+36. a7 Qxd4+ 37. Qd3 Qxa1 *

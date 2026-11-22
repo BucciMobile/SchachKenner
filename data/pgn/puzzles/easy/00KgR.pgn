@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00KgR"]
+[Difficulty "easy"]
+[Rating "782"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/8f0kmTFT/black#70"]
+[Solution "f8f6 f5h7"]
+[SolutionSAN "Rxf6 Qh7#"]
+[FEN "5r1k/1pq3p1/2p2P1p/3pPQ2/1p1P4/7P/1rB4K/5R2 b - - 1 35"]
+[SetUp "1"]
+
+35... Rxf6 36. Qh7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03NmB"]
+[Difficulty "easy"]
+[Rating "896"]
+[Themes "crushing master middlegame pin short"]
+[GameUrl "https://lichess.org/game/iXQvBdqA#47"]
+[Solution "a7d4 e5f3 g1h1 f3d4"]
+[SolutionSAN "Qd4 Nf3+ Kh1 Nxd4"]
+[FEN "2r3rk/Qp1q3p/5n2/3pnp2/4pN2/PNP4P/1P3PP1/3R1RK1 w - - 5 24"]
+[SetUp "1"]
+
+24. Qd4 Nf3+ 25. Kh1 Nxd4 *

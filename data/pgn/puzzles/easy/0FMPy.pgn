@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FMPy"]
+[Difficulty "easy"]
+[Rating "966"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/tABEUssn/black#58"]
+[Solution "e7f8 c7c8 f6d8 c8d8"]
+[SolutionSAN "Kf8 Qc8+ Qd8 Qxd8#"]
+[FEN "8/2Qnkppp/2p2q2/7B/7P/6Pb/P1r2P2/4R1K1 b - - 5 29"]
+[SetUp "1"]
+
+29... Kf8 30. Qc8+ Qd8 31. Qxd8# *

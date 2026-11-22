@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OlYn"]
+[Difficulty "medium"]
+[Rating "1461"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/cr51N5JD/black#60"]
+[Solution "d8f8 e7f8"]
+[SolutionSAN "Rxf8 Qxf8#"]
+[FEN "3r1R1k/p2PQ1pp/1q2B3/1p6/3p2P1/3P3P/PP6/6K1 b - - 0 30"]
+[SetUp "1"]
+
+30... Rxf8 31. Qxf8# *

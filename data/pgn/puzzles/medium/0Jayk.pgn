@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jayk"]
+[Difficulty "medium"]
+[Rating "1235"]
+[Themes "crushing middlegame queensideAttack short skewer"]
+[GameUrl "https://lichess.org/game/CgDvStRS/black#62"]
+[Solution "d7c8 h1h8 c8b7 h8b8"]
+[SolutionSAN "Kc8 Rh8+ Kb7 Rxb8+"]
+[FEN "1q6/3kn1p1/1P2pp2/1BPp4/1p1P2K1/4P1b1/r7/3Q3R b - - 2 31"]
+[SetUp "1"]
+
+31... Kc8 32. Rh8+ Kb7 33. Rxb8+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FDaB"]
+[Difficulty "medium"]
+[Rating "1521"]
+[Themes "crushing deflection endgame long"]
+[GameUrl "https://lichess.org/game/UAPSwAXz#73"]
+[Solution "g2f2 h7h2 f2f1 h2g3 e3g1 g3g1"]
+[SolutionSAN "Kf2 Qh2+ Kf1 Qxg3 Qg1 Qxg1+"]
+[FEN "7r/pp5q/5bk1/3p1p2/2pP4/2P1QPN1/PP2R1K1/8 w - - 1 37"]
+[SetUp "1"]
+
+37. Kf2 Qh2+ 38. Kf1 Qxg3 39. Qg1 Qxg1+ *

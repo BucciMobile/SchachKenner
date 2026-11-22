@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MAN2"]
+[Difficulty "hard"]
+[Rating "1894"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/hkpHDMS2#27"]
+[Solution "f1e2 f4g4 e2e1 h4g2"]
+[SolutionSAN "Ke2 Qxg4+ Ke1 Ng2+"]
+[FEN "r3kb1r/1p2pppp/p1p5/2p1P3/5qPn/6N1/PPPP3P/R1BQ1KNR w kq - 5 14"]
+[SetUp "1"]
+
+14. Ke2 Qxg4+ 15. Ke1 Ng2+ *

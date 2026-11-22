@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EoeY"]
+[Difficulty "easy"]
+[Rating "939"]
+[Themes "advancedPawn crushing endgame promotion queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/xzKEgwe3/black#70"]
+[Solution "g5g3 d6d7 g3f4 d7d8q"]
+[SolutionSAN "Qxg3 d7 Qf4 d8=Q"]
+[FEN "4R3/5ppk/1p1P3p/p5q1/8/5PBP/P5P1/6K1 b - - 0 35"]
+[SetUp "1"]
+
+35... Qxg3 36. d7 Qf4 37. d8=Q *

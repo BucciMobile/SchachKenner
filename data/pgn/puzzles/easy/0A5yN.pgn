@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A5yN"]
+[Difficulty "easy"]
+[Rating "1128"]
+[Themes "advantage master middlegame pin short"]
+[GameUrl "https://lichess.org/game/RAP10DGH#45"]
+[Solution "d2f1 e8e1 a1e1 g3e1"]
+[SolutionSAN "Nf1 Rxe1 Rxe1 Qxe1"]
+[FEN "4rrk1/1p4p1/2n2np1/p1p5/2Pp4/PP4qP/1BQN2B1/R3R1K1 w - - 0 23"]
+[SetUp "1"]
+
+23. Nf1 Rxe1 24. Rxe1 Qxe1 *

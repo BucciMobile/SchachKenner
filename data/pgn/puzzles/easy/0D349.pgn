@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D349"]
+[Difficulty "easy"]
+[Rating "691"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/01Gf2CuB/black#66"]
+[Solution "f8e8 g7h8"]
+[SolutionSAN "Ke8 Qh8#"]
+[FEN "1r3k2/1b1q1pQ1/pp2r3/3pPN2/8/7P/P4PP1/4R1K1 b - - 3 33"]
+[SetUp "1"]
+
+33... Ke8 34. Qh8# *

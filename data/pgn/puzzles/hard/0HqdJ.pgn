@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HqdJ"]
+[Difficulty "hard"]
+[Rating "2646"]
+[Themes "advantage middlegame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/FgZ1kScR#91"]
+[Solution "e1g1 e8a8 c5c1 d3e4 c1e3 a8a2 e5e6 f7e6 g3f4 a2e2 e3e2 h5e2"]
+[SolutionSAN "Rg1 Ra8 Qc1 Be4 Qe3 Ra2 e6 fxe6 Kf4 Re2 Qxe2 Qxe2"]
+[FEN "4r3/4Np1k/2p2Bp1/2QpP1Pq/3P4/3b2K1/8/4R3 w - - 9 46"]
+[SetUp "1"]
+
+46. Rg1 Ra8 47. Qc1 Be4 48. Qe3 Ra2 49. e6 fxe6 50. Kf4 Re2 51. Qxe2 Qxe2 *

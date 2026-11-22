@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01I9O"]
+[Difficulty "medium"]
+[Rating "1306"]
+[Themes "crushing discoveredAttack long middlegame"]
+[GameUrl "https://lichess.org/game/zDjiIG17/black#44"]
+[Solution "g5h6 f4g4 h5g4 d2h6 f7f1 g1f1"]
+[SolutionSAN "Qh6 Rg4+ hxg4 Qxh6 Rxf1+ Kxf1"]
+[FEN "r5k1/1pp2r2/p3n3/3pP1qp/2P2R1P/8/PP1Q2P1/5RK1 b - - 0 22"]
+[SetUp "1"]
+
+22... Qh6 23. Rg4+ hxg4 24. Qxh6 Rxf1+ 25. Kxf1 *

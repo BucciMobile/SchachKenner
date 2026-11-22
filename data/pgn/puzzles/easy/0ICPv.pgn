@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ICPv"]
+[Difficulty "easy"]
+[Rating "992"]
+[Themes "advantage master middlegame pin short"]
+[GameUrl "https://lichess.org/game/dzrZ1ffR/black#54"]
+[Solution "f6e4 b3c2 h7h8 c2e4"]
+[SolutionSAN "Ne4 Bc2 Kh8 Bxe4"]
+[FEN "r4n2/p2q2pk/1p3n1p/2pP4/2P5/1B4B1/PP3PPP/2RR2K1 b - - 0 27"]
+[SetUp "1"]
+
+27... Ne4 28. Bc2 Kh8 29. Bxe4 *

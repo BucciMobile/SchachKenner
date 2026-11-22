@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hufa"]
+[Difficulty "easy"]
+[Rating "952"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/ObaJpcVZ/black#98"]
+[Solution "b5a5 e5c6 a5b6 c6b8"]
+[SolutionSAN "Kxa5 Nc6+ Kb6 Nxb8"]
+[FEN "1r6/8/7p/Pk2N3/3Kp3/7P/8/8 b - - 3 49"]
+[SetUp "1"]
+
+49... Kxa5 50. Nc6+ Kb6 51. Nxb8 *

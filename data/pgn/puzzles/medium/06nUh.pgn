@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06nUh"]
+[Difficulty "medium"]
+[Rating "1346"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/smcjtnNu#41"]
+[Solution "e2g3 e7e5 c2c3 e5g3"]
+[SolutionSAN "Ng3 Qe5 c3 Qxg3"]
+[FEN "r4rk1/pppbqpb1/3p4/3P2p1/4P1P1/3B3P/PPPQN3/1K1R3R w - - 0 21"]
+[SetUp "1"]
+
+21. Ng3 Qe5 22. c3 Qxg3 *

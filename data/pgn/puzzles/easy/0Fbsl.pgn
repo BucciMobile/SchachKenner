@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fbsl"]
+[Difficulty "easy"]
+[Rating "942"]
+[Themes "crushing endgame master masterVsMaster rookEndgame short"]
+[GameUrl "https://lichess.org/game/X5EbgRNR/black#62"]
+[Solution "g7f6 a6a7 c7c6 a7d7"]
+[SolutionSAN "gxf6 Ra7+ Kc6 Rxd7"]
+[FEN "8/2kr1pp1/R2p1B2/5P2/1K1pP3/8/7P/8 b - - 0 31"]
+[SetUp "1"]
+
+31... gxf6 32. Ra7+ Kc6 33. Rxd7 *

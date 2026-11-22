@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KBEC"]
+[Difficulty "hard"]
+[Rating "1806"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/eZY3ps5s#37"]
+[Solution "e4g5 e7g5 f3g5 b7h1"]
+[SolutionSAN "Neg5 Bxg5 Nxg5 Bxh1"]
+[FEN "r3nrk1/pbq1b2p/4p1p1/1pp1P3/4N1P1/4PN2/PPQ1BP2/3RK2R w K - 0 19"]
+[SetUp "1"]
+
+19. Neg5 Bxg5 20. Nxg5 Bxh1 *

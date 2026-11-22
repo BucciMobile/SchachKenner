@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ElXH"]
+[Difficulty "easy"]
+[Rating "1135"]
+[Themes "attraction crushing endgame fork long sacrifice"]
+[GameUrl "https://lichess.org/game/gE9hTz9C#97"]
+[Solution "c4d3 c2c3 d3c3 d6b5 c3b2 b5a7"]
+[SolutionSAN "Kd3 Rxc3+ Kxc3 Nb5+ Kb2 Nxa7"]
+[FEN "8/R1P3p1/3n2kp/8/2KP4/P1B5/2r5/8 w - - 1 49"]
+[SetUp "1"]
+
+49. Kd3 Rxc3+ 50. Kxc3 Nb5+ 51. Kb2 Nxa7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gm6u"]
+[Difficulty "easy"]
+[Rating "905"]
+[Themes "anastasiaMate endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/BkcxnxGc#65"]
+[Solution "c5d6 e5h5 g4h5 f4h4"]
+[SolutionSAN "Bd6 Rh5+ gxh5 Rh4#"]
+[FEN "6k1/6p1/7p/P1B1r3/2Pp1rP1/1Q1P4/1P2n1PK/R7 w - - 0 33"]
+[SetUp "1"]
+
+33. Bd6 Rh5+ 34. gxh5 Rh4# *

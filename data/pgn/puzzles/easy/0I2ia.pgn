@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I2ia"]
+[Difficulty "easy"]
+[Rating "875"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/jbcr55al#89"]
+[Solution "c5a6 g4e4 c4c5 d6d5"]
+[SolutionSAN "Nxa6 Rxe4 c5+ Kxd5"]
+[FEN "8/8/p2k1p2/P1NPpP2/2P1P1r1/6p1/6K1/8 w - - 5 45"]
+[SetUp "1"]
+
+45. Nxa6 Rxe4 46. c5+ Kxd5 *

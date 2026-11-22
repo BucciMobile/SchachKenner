@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Btz"]
+[Difficulty "medium"]
+[Rating "1528"]
+[Themes "advantage defensiveMove middlegame pin short"]
+[GameUrl "https://lichess.org/game/FMeNuY7a#33"]
+[Solution "a2a4 b6b3 f1b5 e8f8"]
+[SolutionSAN "a4 Qxb3 Bb5+ Kf8"]
+[FEN "2r1k2r/1p2bppp/1q1p4/p2Pp1P1/5n1P/1N3P2/PPPQ4/2KR1B1R w k - 0 17"]
+[SetUp "1"]
+
+17. a4 Qxb3 18. Bb5+ Kf8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E6as"]
+[Difficulty "easy"]
+[Rating "916"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/GLay25SD#49"]
+[Solution "f3e5 c3e2 c2e2 c4e2"]
+[SolutionSAN "Ne5 Ne2+ Qxe2 Qxe2"]
+[FEN "8/5pk1/5n1p/6p1/1pqP4/2n1PN1P/2Q2PP1/5RK1 w - - 0 25"]
+[SetUp "1"]
+
+25. Ne5 Ne2+ 26. Qxe2 Qxe2 *

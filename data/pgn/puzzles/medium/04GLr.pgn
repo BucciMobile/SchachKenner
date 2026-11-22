@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04GLr"]
+[Difficulty "medium"]
+[Rating "1214"]
+[Themes "crushing endgame fork pin short"]
+[GameUrl "https://lichess.org/game/URUVWSz2#43"]
+[Solution "a1d1 h3f3 g1g2 f3d1"]
+[SolutionSAN "Rd1 Qf3+ Rg2 Qxd1"]
+[FEN "5r1k/p1p3pp/1p6/2p5/4P3/2P1B2q/PP3P1P/R4NRK w - - 0 22"]
+[SetUp "1"]
+
+22. Rd1 Qf3+ 23. Rg2 Qxd1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01kUc"]
+[Difficulty "easy"]
+[Rating "937"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/ESQYQ2LN/black#112"]
+[Solution "h6g6 h8g8 g6f7 g8g4 h5g4 f3g4"]
+[SolutionSAN "Kg6 Rg8+ Kf7 Rxg4 hxg4+ Kxg4"]
+[FEN "7R/8/5p1k/7p/4P1r1/5KP1/8/8 b - - 16 56"]
+[SetUp "1"]
+
+56... Kg6 57. Rg8+ Kf7 58. Rxg4 hxg4+ 59. Kxg4 *

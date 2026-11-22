@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H7CJ"]
+[Difficulty "hard"]
+[Rating "2433"]
+[Themes "crushing endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/MdzyvAPj#93"]
+[Solution "c3b3 e6e3 b3b2 e3c3"]
+[SolutionSAN "Kb3 R6e3+ Kb2 Rc3"]
+[FEN "8/R6R/2p1r3/2k5/3p4/2K5/P1P1r3/8 w - - 0 47"]
+[SetUp "1"]
+
+47. Kb3 R6e3+ 48. Kb2 Rc3 *

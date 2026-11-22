@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Pw1"]
+[Difficulty "easy"]
+[Rating "1064"]
+[Themes "endgame master mate mateIn1 oneMove operaMate"]
+[GameUrl "https://lichess.org/game/WAkWH6IK/black#56"]
+[Solution "f2e2 g7h7"]
+[SolutionSAN "Re2 Rxh7#"]
+[FEN "5r1k/2p3Rp/3p4/p2Pn3/1p2B3/1P6/PKP2r1P/6R1 b - - 1 28"]
+[SetUp "1"]
+
+28... Re2 29. Rxh7# *

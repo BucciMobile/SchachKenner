@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "016fz"]
+[Difficulty "hard"]
+[Rating "1712"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/jAbGFT6B#125"]
+[Solution "h4g3 d4e5"]
+[SolutionSAN "Kg3 Be5#"]
+[FEN "8/8/3R4/1P3k2/2Bb2pK/8/7r/8 w - - 1 63"]
+[SetUp "1"]
+
+63. Kg3 Be5# *

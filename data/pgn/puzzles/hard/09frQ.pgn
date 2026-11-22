@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09frQ"]
+[Difficulty "hard"]
+[Rating "1916"]
+[Themes "attraction crushing deflection endgame long"]
+[GameUrl "https://lichess.org/game/EYK4nLdL/black#70"]
+[Solution "e7f7 f8d6 f6g7 h8g8 g7g8 d6g6"]
+[SolutionSAN "Rf7 Qd6+ Kg7 Rg8+ Kxg8 Qxg6+"]
+[FEN "5Q1R/p3r3/2p2kqp/1p1p2p1/3P4/2P3P1/PP2p1PP/6K1 b - - 5 35"]
+[SetUp "1"]
+
+35... Rf7 36. Qd6+ Kg7 37. Rg8+ Kxg8 38. Qxg6+ *

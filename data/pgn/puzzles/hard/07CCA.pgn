@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07CCA"]
+[Difficulty "hard"]
+[Rating "2195"]
+[Themes "advancedPawn advantage discoveredAttack discoveredCheck exposedKing long opening"]
+[GameUrl "https://lichess.org/game/WBMFRcXX#27"]
+[Solution "c2c3 d4c3 d1c1 c3c2 e1f2 b4a4"]
+[SolutionSAN "c3 dxc3 Qc1 c2+ Kf2 Qxa4"]
+[FEN "2kr2nr/pp4pp/4pp2/4Pb2/Bq1p1P2/5N2/PPP1N1PP/R2QK2R w KQ - 2 14"]
+[SetUp "1"]
+
+14. c3 dxc3 15. Qc1 c2+ 16. Kf2 Qxa4 *

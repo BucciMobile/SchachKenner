@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Ldf"]
+[Difficulty "medium"]
+[Rating "1330"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/bMBf1RZs/black#34"]
+[Solution "h7g6 f1d3"]
+[SolutionSAN "Kxg6 Bd3#"]
+[FEN "rn1q2r1/pb3p1k/1p2pPP1/3pP3/8/2p2N2/PPP2P2/R3KB1R b KQ - 0 17"]
+[SetUp "1"]
+
+17... Kxg6 18. Bd3# *

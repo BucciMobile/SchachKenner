@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EyEZ"]
+[Difficulty "hard"]
+[Rating "1953"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/NVOpW7gN/black#80"]
+[Solution "d4d3 c4c3 h8g8 a1e1"]
+[SolutionSAN "d3 Qc3+ Kg8 Re1"]
+[FEN "4r2k/7p/2P3p1/5p2/2Qp4/4qP2/6PP/R4K2 b - - 10 40"]
+[SetUp "1"]
+
+40... d3 41. Qc3+ Kg8 42. Re1 *

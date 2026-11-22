@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "092FX"]
+[Difficulty "medium"]
+[Rating "1310"]
+[Themes "advancedPawn bishopEndgame crushing endgame promotion short"]
+[GameUrl "https://lichess.org/game/1wHCMuMW#145"]
+[Solution "b6c5 g3g2 a5a6 g2g1q"]
+[SolutionSAN "Kc5 g2 a6 g1=Q"]
+[FEN "8/6p1/1K6/P2p4/8/4Bkp1/5P2/8 w - - 0 73"]
+[SetUp "1"]
+
+73. Kc5 g2 74. a6 g1=Q *

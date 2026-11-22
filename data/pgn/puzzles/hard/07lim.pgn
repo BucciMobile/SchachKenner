@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07lim"]
+[Difficulty "hard"]
+[Rating "2322"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/7wErKDZY#83"]
+[Solution "c5d5 a8b6 d5e5 b6a4 c6c7 f7g6"]
+[SolutionSAN "Kxd5 Nxb6+ Ke5 Nxa4 Rc7+ Kg6"]
+[FEN "nr6/5k2/1PR2P2/2Kp2pp/B2P4/2p4P/8/8 w - - 1 42"]
+[SetUp "1"]
+
+42. Kxd5 Nxb6+ 43. Ke5 Nxa4 44. Rc7+ Kg6 *

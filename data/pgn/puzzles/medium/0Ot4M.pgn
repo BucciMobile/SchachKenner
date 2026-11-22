@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ot4M"]
+[Difficulty "medium"]
+[Rating "1612"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/nvCBKHzr#99"]
+[Solution "g2f3 b2f2 f3g3 f2f4"]
+[SolutionSAN "Kf3 Rxf2+ Kg3 Rxf4"]
+[FEN "1R6/6p1/5k1p/8/1p1b1NPP/8/1r3PK1/8 w - - 3 50"]
+[SetUp "1"]
+
+50. Kf3 Rxf2+ 51. Kg3 Rxf4 *

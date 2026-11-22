@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "076oK"]
+[Difficulty "easy"]
+[Rating "1072"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/uvXdkfdd/black#160"]
+[Solution "g4f4 d1f3"]
+[SolutionSAN "Kf4 Qf3#"]
+[FEN "8/8/8/4prb1/6kp/8/6K1/3Q4 b - - 1 80"]
+[SetUp "1"]
+
+80... Kf4 81. Qf3# *

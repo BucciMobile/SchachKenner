@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Alx2"]
+[Difficulty "medium"]
+[Rating "1301"]
+[Themes "advantage attraction endgame master skewer veryLong"]
+[GameUrl "https://lichess.org/game/9ynnC3Gr/black#60"]
+[Solution "g8f7 c4f4 d6f6 f4f6 f7f6 c1b2 f6f7 b2h8"]
+[SolutionSAN "Kf7 Rf4+ Rf6 Rxf6+ Kxf6 Bb2+ Kf7 Bxh8"]
+[FEN "6kr/p7/1b1r2p1/7p/2R4P/5P2/4R3/2B1K3 b - - 3 30"]
+[SetUp "1"]
+
+30... Kf7 31. Rf4+ Rf6 32. Rxf6+ Kxf6 33. Bb2+ Kf7 34. Bxh8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HhQb"]
+[Difficulty "medium"]
+[Rating "1534"]
+[Themes "crushing discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/0vXovVQX/black#50"]
+[Solution "d8d5 f3g5 h6g5 g2d5"]
+[SolutionSAN "Qxd5 Ng5+ hxg5 Bxd5"]
+[FEN "3q1r2/1r2ppbk/6pp/1ppP1b2/2n4P/4BNP1/1P2RPB1/2Q1R1K1 b - - 1 25"]
+[SetUp "1"]
+
+25... Qxd5 26. Ng5+ hxg5 27. Bxd5 *

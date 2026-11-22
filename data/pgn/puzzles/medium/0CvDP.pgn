@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CvDP"]
+[Difficulty "medium"]
+[Rating "1221"]
+[Themes "endgame kingsideAttack master masterVsMaster mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/mzc99wu8/black#80"]
+[Solution "h7h8 e6h6 h8g8 h6h7"]
+[SolutionSAN "Kh8 Qxh6+ Kg8 Qh7#"]
+[FEN "5r2/2p4k/1pP1Q2p/4b1p1/p1PpBqP1/3P1p1P/P4P2/6K1 b - - 2 40"]
+[SetUp "1"]
+
+40... Kh8 41. Qxh6+ Kg8 42. Qh7# *

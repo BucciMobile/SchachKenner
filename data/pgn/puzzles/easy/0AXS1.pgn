@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AXS1"]
+[Difficulty "easy"]
+[Rating "1115"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/e8l9cFRg#63"]
+[Solution "c2c3 a8a2 c3d2 a2d2"]
+[SolutionSAN "Qc3 R8a2+ Qd2 Rxd2#"]
+[FEN "r7/1p2b1k1/3p1p1p/2pP1PpB/2P4P/1P2PRR1/2Q2KP1/r7 w - - 1 32"]
+[SetUp "1"]
+
+32. Qc3 R8a2+ 33. Qd2 Rxd2# *

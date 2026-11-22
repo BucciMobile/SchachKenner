@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00UqU"]
+[Difficulty "hard"]
+[Rating "2039"]
+[Themes "advantage exposedKing long middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/TjspGxP2/black#50"]
+[Solution "a7c7 a1a6 c7c4 b4c4 c8d7 a6a7"]
+[SolutionSAN "Qc7 Rxa6 Qxc4 Rxc4+ Kd7 Ra7+"]
+[FEN "2k4r/q5p1/p2rpn1p/8/1RQP4/2P1P3/1P4PP/R5K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Qc7 26. Rxa6 Qxc4 27. Rxc4+ Kd7 28. Ra7+ *

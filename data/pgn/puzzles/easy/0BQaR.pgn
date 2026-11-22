@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BQaR"]
+[Difficulty "easy"]
+[Rating "567"]
+[Themes "crushing endgame master queensideAttack short"]
+[GameUrl "https://lichess.org/game/KpXSKmOV#61"]
+[Solution "c3b4 c4c1 e1c1 c7c1"]
+[SolutionSAN "cxb4 Rc1+ Rxc1 Qxc1+"]
+[FEN "2r3k1/2q2ppp/4p3/8/pprPQ3/P1P5/1P1R1PPP/1K2R3 w - - 0 31"]
+[SetUp "1"]
+
+31. cxb4 Rc1+ 32. Rxc1 Qxc1+ *

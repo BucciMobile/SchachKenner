@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FvMl"]
+[Difficulty "hard"]
+[Rating "1826"]
+[Themes "deflection discoveredCheck doubleCheck long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/acGh6A6k/black#48"]
+[Solution "c6d8 c4b6 c8b8 d1d8 e6c8 c1c8"]
+[SolutionSAN "Nxd8 Nb6+ Kb8 Rxd8+ Bc8 Rcxc8#"]
+[FEN "r1kQ4/pp5p/2n1b1rq/8/2N5/8/P4PPP/2RR2K1 b - - 7 24"]
+[SetUp "1"]
+
+24... Nxd8 25. Nb6+ Kb8 26. Rxd8+ Bc8 27. Rcxc8# *

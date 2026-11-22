@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04lUr"]
+[Difficulty "medium"]
+[Rating "1675"]
+[Themes "deflection endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/QGSiNym8#59"]
+[Solution "h1h7 d8d1 e2d1 a4a2"]
+[SolutionSAN "Rxh7 Rd1+ Qxd1 Qxa2#"]
+[FEN "3r4/p4knp/4p3/4B1P1/qp2PP2/1p6/P3Q3/K6R w - - 0 30"]
+[SetUp "1"]
+
+30. Rxh7 Rd1+ 31. Qxd1 Qxa2# *

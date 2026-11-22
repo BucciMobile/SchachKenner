@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Iojs"]
+[Difficulty "medium"]
+[Rating "1652"]
+[Themes "advantage middlegame veryLong"]
+[GameUrl "https://lichess.org/game/MQQnGc2L#51"]
+[Solution "g2h2 d5e3 c1e3 e4e3 f2e3 f6f1 a1f1 f8f1"]
+[SolutionSAN "Kh2 Nxe3 Qxe3 Qxe3 fxe3 Rxf1 Rxf1 Rxf1"]
+[FEN "5rk1/p1p5/2pp1r2/3n2p1/4q1Pp/PP1NN2P/2P2PK1/R1Q2R2 w - - 1 26"]
+[SetUp "1"]
+
+26. Kh2 Nxe3 27. Qxe3 Qxe3 28. fxe3 Rxf1 29. Rxf1 Rxf1 *

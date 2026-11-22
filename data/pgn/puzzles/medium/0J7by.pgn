@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J7by"]
+[Difficulty "medium"]
+[Rating "1406"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/sHCGdvYI/black#52"]
+[Solution "a8d8 d4e4 h7g8 h1c1"]
+[SolutionSAN "Rad8 Qe4+ Kg8 Rxc1"]
+[FEN "r3r3/1pp2ppk/p7/4P3/3Q3P/5P2/4K3/2q4R b - - 0 26"]
+[SetUp "1"]
+
+26... Rad8 27. Qe4+ Kg8 28. Rxc1 *

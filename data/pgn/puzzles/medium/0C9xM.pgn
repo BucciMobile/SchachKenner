@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C9xM"]
+[Difficulty "medium"]
+[Rating "1337"]
+[Themes "endgame mate mateIn1 oneMove operaMate"]
+[GameUrl "https://lichess.org/game/SPu25FKa#55"]
+[Solution "g7g3 d1h1"]
+[SolutionSAN "Rg3 Rh1#"]
+[FEN "2k5/ppp2pR1/2b4p/2R5/5B1n/7P/PPP2P1K/3r4 w - - 3 28"]
+[SetUp "1"]
+
+28. Rg3 Rh1# *

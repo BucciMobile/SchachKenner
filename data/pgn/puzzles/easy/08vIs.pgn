@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08vIs"]
+[Difficulty "easy"]
+[Rating "790"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/SuS7vxnL/black#50"]
+[Solution "c8f8 h6f8"]
+[SolutionSAN "Rf8 Qxf8#"]
+[FEN "2r3k1/4n2p/1q2p1pQ/1p2P3/p7/2PB3P/P4RP1/6K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Rf8 26. Qxf8# *

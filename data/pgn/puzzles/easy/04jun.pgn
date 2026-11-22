@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04jun"]
+[Difficulty "easy"]
+[Rating "764"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/9LV3kAxR/black#146"]
+[Solution "g4g3 b8h8"]
+[SolutionSAN "g3 Rh8#"]
+[FEN "1R6/8/8/8/6p1/8/r6k/5K2 b - - 3 73"]
+[SetUp "1"]
+
+73... g3 74. Rh8# *

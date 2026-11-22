@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JP13"]
+[Difficulty "hard"]
+[Rating "1916"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/NiU0P46o#21"]
+[Solution "h3g4 h5g4 d3e2 d4e2"]
+[SolutionSAN "hxg4 Bxg4 Be2 Nxe2"]
+[FEN "r2qkb1r/pp3ppp/4p3/3p3b/2Pn2n1/1PNB1N1P/P4P2/R1BQK2R w KQkq - 0 11"]
+[SetUp "1"]
+
+11. hxg4 Bxg4 12. Be2 Nxe2 *

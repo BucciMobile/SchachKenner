@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "035Y0"]
+[Difficulty "medium"]
+[Rating "1359"]
+[Themes "advantage middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/gyt9Cqnm/black#34"]
+[Solution "g8h8 c1g5 h4g5 g1g5"]
+[SolutionSAN "Kh8 Bg5 Qxg5 Rxg5"]
+[FEN "r4rk1/pp1b1p1p/3p1n2/2p1pp2/4P2q/3P1B1P/PPP1Q2K/R1B3R1 b - - 1 17"]
+[SetUp "1"]
+
+17... Kh8 18. Bg5 Qxg5 19. Rxg5 *

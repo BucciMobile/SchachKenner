@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CSTB"]
+[Difficulty "hard"]
+[Rating "2631"]
+[Themes "crushing defensiveMove long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/nlW1sZFV#67"]
+[Solution "c5d5 h4g3 c6e7 g6h7 e7g6 f8g8"]
+[SolutionSAN "Qxd5 hxg3 Nxe7 Qh7 Ng6+ Kg8"]
+[FEN "2r1rk2/1R2pp2/1RN3q1/2QpP1p1/5Pbp/2P1P1P1/6P1/6K1 w - - 0 34"]
+[SetUp "1"]
+
+34. Qxd5 hxg3 35. Nxe7 Qh7 36. Ng6+ Kg8 *

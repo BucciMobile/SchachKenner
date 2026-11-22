@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cqh1"]
+[Difficulty "hard"]
+[Rating "2366"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/j9tkl1Pl#53"]
+[Solution "h5f3 g6g3 f3g3 g7g3"]
+[SolutionSAN "Qf3 Rg3 Qxg3 Rxg3"]
+[FEN "5k2/pp3qr1/2p2br1/3p3Q/5P2/2Pp3P/PP1N1RP1/4R1K1 w - - 4 27"]
+[SetUp "1"]
+
+27. Qf3 Rg3 28. Qxg3 Rxg3 *

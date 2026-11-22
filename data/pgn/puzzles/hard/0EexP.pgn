@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EexP"]
+[Difficulty "hard"]
+[Rating "1913"]
+[Themes "crushing endgame master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/PmyQaKLM/black#118"]
+[Solution "a1h8 f3f4 h8a1 f4f5"]
+[SolutionSAN "Bh8 Kf4 Ba1 Kxf5"]
+[FEN "8/8/4N2P/2p2p2/1k6/1P3K2/8/b7 b - - 0 59"]
+[SetUp "1"]
+
+59... Bh8 60. Kf4 Ba1 61. Kxf5 *

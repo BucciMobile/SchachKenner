@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05aIr"]
+[Difficulty "easy"]
+[Rating "1147"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/UbVuo5Cj#57"]
+[Solution "e2g4 e5d3 e1f1 d3b2"]
+[SolutionSAN "Bxg4 Nd3+ Kf1 Nxb2"]
+[FEN "1r3rk1/p4p2/1p1p2qp/4n3/P1PBPpbP/2P5/1Q2B1P1/R3K2R w KQ - 2 29"]
+[SetUp "1"]
+
+29. Bxg4 Nd3+ 30. Kf1 Nxb2 *

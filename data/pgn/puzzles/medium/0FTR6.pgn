@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FTR6"]
+[Difficulty "medium"]
+[Rating "1412"]
+[Themes "endgame mate mateIn4 operaMate veryLong"]
+[GameUrl "https://lichess.org/game/arCRPc4j/black#48"]
+[Solution "a8a4 e1e8 g8h7 f3e4 f7f5 e4f5 g7g6 e8h8"]
+[SolutionSAN "Rxa4 Re8+ Kh7 Be4+ f5 Bxf5+ g6 Rh8#"]
+[FEN "r5k1/1b3pp1/2p4p/3n4/P2B1P2/5BP1/2P4P/4R1K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Rxa4 25. Re8+ Kh7 26. Be4+ f5 27. Bxf5+ g6 28. Rh8# *

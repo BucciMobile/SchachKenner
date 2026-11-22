@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LzAA"]
+[Difficulty "medium"]
+[Rating "1591"]
+[Themes "long master mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/ODaEI4HN/black#50"]
+[Solution "e6e2 f3g5 f7f6 d8f8 e7f7 f8f7"]
+[SolutionSAN "Qxe2 Ng5+ Kxf6 Rf8+ Rf7 Rxf7#"]
+[FEN "3R4/4rkpp/p3qP2/1pb4P/2n2B2/5N2/PP2QPP1/6K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Qxe2 26. Ng5+ Kxf6 27. Rf8+ Rf7 28. Rxf7# *

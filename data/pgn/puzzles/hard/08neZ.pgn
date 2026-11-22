@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08neZ"]
+[Difficulty "hard"]
+[Rating "1910"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/Qr03wEC7/black#64"]
+[Solution "a4b3 c2b3 f8f6 f4f6"]
+[SolutionSAN "axb3 cxb3 Rxf6 Qxf6"]
+[FEN "2kr1r2/1p6/2p1PPB1/7p/pq1p1Q2/1Nb5/P1P5/1K1R1R2 b - - 0 32"]
+[SetUp "1"]
+
+32... axb3 33. cxb3 Rxf6 34. Qxf6 *

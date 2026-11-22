@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02ffy"]
+[Difficulty "easy"]
+[Rating "1086"]
+[Themes "attraction crushing deflection fork long middlegame"]
+[GameUrl "https://lichess.org/game/cCLPbTtZ#51"]
+[Solution "a1e1 d4f2 f1f2 e5e1 g1h2 e1f2"]
+[SolutionSAN "Rae1 Bxf2+ Rxf2 Qxe1+ Kh2 Qxf2"]
+[FEN "5rk1/1p3rpp/p5p1/2pBq3/2Pb4/1Q4P1/PP3PP1/R4RK1 w - - 10 26"]
+[SetUp "1"]
+
+26. Rae1 Bxf2+ 27. Rxf2 Qxe1+ 28. Kh2 Qxf2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EbRz"]
+[Difficulty "easy"]
+[Rating "967"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/XGLtlVId/black#46"]
+[Solution "g6e4 e3a7 b8a7 e1e4"]
+[SolutionSAN "Qxe4 Ba7+ Kxa7 Rxe4"]
+[FEN "1k5r/1pp2ppp/p2bp1q1/3r4/4N3/P3B2P/1P3PPn/R1Q1R2K b - - 0 23"]
+[SetUp "1"]
+
+23... Qxe4 24. Ba7+ Kxa7 25. Rxe4 *

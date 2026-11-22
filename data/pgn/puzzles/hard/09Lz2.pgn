@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Lz2"]
+[Difficulty "hard"]
+[Rating "2297"]
+[Themes "advantage attraction exposedKing interference middlegame veryLong"]
+[GameUrl "https://lichess.org/game/KXfJQnnp#75"]
+[Solution "e1d2 e6a2 d2e3 g7g3 e4f3 g3f3 e3f3 b1f1 f3g3 a2d5 d4d5 c6d5"]
+[SolutionSAN "Kd2 Qa2+ Ke3 Rxg3+ Bf3 Rxf3+ Kxf3 Rxf1+ Kg3 Qd5 Qxd5 cxd5"]
+[FEN "8/1pk2pr1/p1p1q3/8/3QBP2/P2R2P1/8/1r2KR2 w - - 4 38"]
+[SetUp "1"]
+
+38. Kd2 Qa2+ 39. Ke3 Rxg3+ 40. Bf3 Rxf3+ 41. Kxf3 Rxf1+ 42. Kg3 Qd5 43. Qxd5 cxd5 *

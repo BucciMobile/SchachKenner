@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CvdY"]
+[Difficulty "easy"]
+[Rating "1191"]
+[Themes "crushing discoveredAttack discoveredCheck endgame fork veryLong"]
+[GameUrl "https://lichess.org/game/RB1vMwdL/black#56"]
+[Solution "g5h4 g3h4 g8f8 g2g7 f8e7 g1e1 f6e4 e1e4"]
+[SolutionSAN "gxh4 gxh4+ Kf8 Qg7+ Ke7 Re1+ Ne4 Rxe4+"]
+[FEN "4r1k1/ppq2p2/5n2/6p1/P2P3R/6P1/1P4Q1/6RK b - - 1 28"]
+[SetUp "1"]
+
+28... gxh4 29. gxh4+ Kf8 30. Qg7+ Ke7 31. Re1+ Ne4 32. Rxe4+ *

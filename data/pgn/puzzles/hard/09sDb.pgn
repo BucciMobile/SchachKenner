@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09sDb"]
+[Difficulty "hard"]
+[Rating "2204"]
+[Themes "advantage capturingDefender long middlegame"]
+[GameUrl "https://lichess.org/game/ERbXKRCN#41"]
+[Solution "e2d4 f5f2 g1h1 e4c3 d1f3 f2d4"]
+[SolutionSAN "Nxd4 Qxf2+ Kh1 Nxc3 Qf3 Qxd4"]
+[FEN "3r1rk1/5ppp/p1p5/5q2/1P1bn3/P1P4P/4NPP1/R2QR1K1 w - - 0 21"]
+[SetUp "1"]
+
+21. Nxd4 Qxf2+ 22. Kh1 Nxc3 23. Qf3 Qxd4 *

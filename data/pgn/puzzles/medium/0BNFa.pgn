@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BNFa"]
+[Difficulty "medium"]
+[Rating "1401"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/lob0KR8p/black#48"]
+[Solution "e2f4 g6f4 f7h5 f4h5"]
+[SolutionSAN "Nf4 Nxf4 Qxh5 Nxh5"]
+[FEN "2r1r1k1/p3pqb1/3p1pN1/1ppP1PPQ/4P3/3P3P/PP2n3/1K1R3R b - - 0 24"]
+[SetUp "1"]
+
+24... Nf4 25. Nxf4 Qxh5 26. Nxh5 *

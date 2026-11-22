@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JgOx"]
+[Difficulty "hard"]
+[Rating "1745"]
+[Themes "crushing endgame rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/7s4Vur5X#149"]
+[Solution "b1b2 e3e2 c2c1 e2b2 c1b2 c5d4 b2c2 d4e4"]
+[SolutionSAN "Rxb2 Re2+ Kc1 Rxb2 Kxb2 Kd4 Kc2 Kxe4"]
+[FEN "8/8/8/2k1p3/4P3/4r3/1pK5/1R6 w - - 8 75"]
+[SetUp "1"]
+
+75. Rxb2 Re2+ 76. Kc1 Rxb2 77. Kxb2 Kd4 78. Kc2 Kxe4 *

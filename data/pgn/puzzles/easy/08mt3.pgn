@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08mt3"]
+[Difficulty "easy"]
+[Rating "1144"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/ANyF48on/black#30"]
+[Solution "c4d5 e3b6"]
+[SolutionSAN "Qxd5 Bb6#"]
+[FEN "N1bk3r/1p1p1ppp/p1n5/3Q4/2q5/2P1B3/P1P2PPP/R3R1K1 b - - 0 15"]
+[SetUp "1"]
+
+15... Qxd5 16. Bb6# *

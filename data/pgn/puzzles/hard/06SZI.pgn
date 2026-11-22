@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06SZI"]
+[Difficulty "hard"]
+[Rating "2143"]
+[Themes "crushing opening quietMove short trappedPiece"]
+[GameUrl "https://lichess.org/game/RJ6iNIkt#19"]
+[Solution "e2f3 h7h6 h8g6 f6g6"]
+[SolutionSAN "Bf3 h6 Nxg6 Qxg6"]
+[FEN "rnbk1b1N/pppp3p/5qp1/8/8/3P4/PPP1BPPP/RNBKR3 w - - 1 10"]
+[SetUp "1"]
+
+10. Bf3 h6 11. Nxg6 Qxg6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lumu"]
+[Difficulty "medium"]
+[Rating "1407"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/v4S6wG44/black#98"]
+[Solution "f6f5 e6c5 e4e5 c5d3 e5e6 d3b2"]
+[SolutionSAN "f5 Nc5+ Ke5 Nd3+ Ke6 Nxb2"]
+[FEN "8/8/4Np2/3p3p/4k1pP/4P1P1/1r3PK1/8 b - - 2 49"]
+[SetUp "1"]
+
+49... f5 50. Nc5+ Ke5 51. Nd3+ Ke6 52. Nxb2 *

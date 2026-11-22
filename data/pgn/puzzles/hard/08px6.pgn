@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08px6"]
+[Difficulty "hard"]
+[Rating "1983"]
+[Themes "advancedPawn crushing endgame exposedKing long rookEndgame"]
+[GameUrl "https://lichess.org/game/jDtpvWmi/black#118"]
+[Solution "e7f7 h6h8 f7f8 h8f8 e8f8 c6c7"]
+[SolutionSAN "Rf7 Rh8+ Rf8 Rxf8+ Kxf8 c7"]
+[FEN "4k3/4r3/2PK3R/r2P4/8/8/8/8 b - - 2 59"]
+[SetUp "1"]
+
+59... Rf7 60. Rh8+ Rf8 61. Rxf8+ Kxf8 62. c7 *

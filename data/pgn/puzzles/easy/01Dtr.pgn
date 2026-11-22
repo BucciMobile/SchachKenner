@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Dtr"]
+[Difficulty "easy"]
+[Rating "727"]
+[Themes "long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/ZvCTnCI7#53"]
+[Solution "d1d7 g6b1 e3c1 b1c1 d7d1 c1d1"]
+[SolutionSAN "Rxd7 Qb1+ Bc1 Qxc1+ Rd1 Qxd1#"]
+[FEN "b4rk1/2pn2p1/1p4q1/6N1/7Q/4B3/1P3PPP/3R2K1 w - - 6 27"]
+[SetUp "1"]
+
+27. Rxd7 Qb1+ 28. Bc1 Qxc1+ 29. Rd1 Qxd1# *

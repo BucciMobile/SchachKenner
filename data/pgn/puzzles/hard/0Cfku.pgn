@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cfku"]
+[Difficulty "hard"]
+[Rating "2067"]
+[Themes "bishopEndgame crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/PzOlKbw7#77"]
+[Solution "c6d7 c4e6 d7e6 f6e6 g4f3 e6f5 f3e3 f5g4"]
+[SolutionSAN "Bd7 Be6+ Bxe6 Kxe6 Kf3 Kf5 Ke3 Kg4"]
+[FEN "8/8/2B2kpp/1p6/p1b2PKP/P1P5/8/8 w - - 0 39"]
+[SetUp "1"]
+
+39. Bd7 Be6+ 40. Bxe6 Kxe6 41. Kf3 Kf5 42. Ke3 Kg4 *

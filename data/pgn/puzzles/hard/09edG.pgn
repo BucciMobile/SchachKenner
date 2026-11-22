@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09edG"]
+[Difficulty "hard"]
+[Rating "2086"]
+[Themes "crushing master middlegame pin short"]
+[GameUrl "https://lichess.org/game/49R94gRJ/black#56"]
+[Solution "e7e3 f3d5 e8e6 d4e3"]
+[SolutionSAN "Qe3 Bd5+ Re6 Qxe3"]
+[FEN "3rr1k1/1p2q2b/p2P3p/6p1/3Q1pP1/2N2B1P/PPP5/3R3K b - - 0 28"]
+[SetUp "1"]
+
+28... Qe3 29. Bd5+ Re6 30. Qxe3 *

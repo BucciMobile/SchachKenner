@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ld5e"]
+[Difficulty "medium"]
+[Rating "1233"]
+[Themes "advantage endgame rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/CMTSy6ix/black#66"]
+[Solution "g7g6 h4h5 g6g7 e4e5 f6e5 f4e5 d6e5 f5e5"]
+[SolutionSAN "Kg6 h5+ Kg7 e5 fxe5 fxe5 dxe5 Rxe5"]
+[FEN "8/1r4k1/2pp1p1p/2p2R2/2K1PP1P/1PP5/8/8 b - - 0 33"]
+[SetUp "1"]
+
+33... Kg6 34. h5+ Kg7 35. e5 fxe5 36. fxe5 dxe5 37. Rxe5 *

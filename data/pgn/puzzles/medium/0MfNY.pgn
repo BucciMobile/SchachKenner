@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MfNY"]
+[Difficulty "medium"]
+[Rating "1632"]
+[Themes "crushing endgame long xRayAttack"]
+[GameUrl "https://lichess.org/game/5DMNJwMv#69"]
+[Solution "d1f3 d8h8 c4h4 h8h4 g3h4 e1h4"]
+[SolutionSAN "Qf3 Rh8+ Rh4 Rxh4+ gxh4 Qxh4+"]
+[FEN "k2r4/p1p3p1/2p5/8/2R5/PP4P1/2Rp2PK/3Qq3 w - - 7 35"]
+[SetUp "1"]
+
+35. Qf3 Rh8+ 36. Rh4 Rxh4+ 37. gxh4 Qxh4+ *

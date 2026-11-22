@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HPVk"]
+[Difficulty "hard"]
+[Rating "2210"]
+[Themes "advantage defensiveMove endgame hangingPiece long"]
+[GameUrl "https://lichess.org/game/nqARXUzl/black#66"]
+[Solution "c4e3 h3e3 c7c2 d1d2 c2c1 g1h2"]
+[SolutionSAN "Ne3 Rxe3 Rc2 Rd2 Rc1+ Kh2"]
+[FEN "6k1/2rp3p/p3p1p1/1p2Pp2/2nQ1Pq1/7R/P5P1/3R2K1 b - - 4 33"]
+[SetUp "1"]
+
+33... Ne3 34. Rxe3 Rc2 35. Rd2 Rc1+ 36. Kh2 *

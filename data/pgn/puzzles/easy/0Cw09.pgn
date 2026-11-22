@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cw09"]
+[Difficulty "easy"]
+[Rating "859"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/1IrlIpen/black#22"]
+[Solution "c5c4 b3c4"]
+[SolutionSAN "c4 Qxc4#"]
+[FEN "r1bq2kr/pp1nb1pp/2n5/2p1p1N1/4P3/1QPP4/PP4PP/RNB2RK1 b - - 2 11"]
+[SetUp "1"]
+
+11... c4 12. Qxc4# *

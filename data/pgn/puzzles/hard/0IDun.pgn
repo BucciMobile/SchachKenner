@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IDun"]
+[Difficulty "hard"]
+[Rating "2564"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/TeNTnOfq/black#30"]
+[Solution "c5d4 e3d4 g5f5 f1h3 e5f3 g1g2"]
+[SolutionSAN "Bxd4 exd4 Qf5 Bxh3 Nf3+ Kg2"]
+[FEN "r4rk1/ppp3pp/8/2b1n1q1/3Np3/P1P1P1Pb/5P1P/R1BQRBK1 b - - 4 15"]
+[SetUp "1"]
+
+15... Bxd4 16. exd4 Qf5 17. Bxh3 Nf3+ 18. Kg2 *

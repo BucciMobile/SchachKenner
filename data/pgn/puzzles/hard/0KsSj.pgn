@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KsSj"]
+[Difficulty "hard"]
+[Rating "2181"]
+[Themes "clearance crushing middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/XSNFp7ku/black#38"]
+[Solution "g8h8 g4f6 e7f6 e5f6 e8g8 f3g5 g8g5 g2e4"]
+[SolutionSAN "Kh8 Nf6 Bxf6 exf6 Rg8 Ng5 Rxg5 Be4"]
+[FEN "3rr1k1/pbq1bp1n/1pn1p2Q/2p1P2P/3p2N1/3P1NP1/PPP2PB1/R3R1K1 b - - 0 19"]
+[SetUp "1"]
+
+19... Kh8 20. Nf6 Bxf6 21. exf6 Rg8 22. Ng5 Rxg5 23. Be4 *

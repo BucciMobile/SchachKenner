@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G7KP"]
+[Difficulty "hard"]
+[Rating "2615"]
+[Themes "advantage defensiveMove hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/mvfWcmzl/black#34"]
+[Solution "d8e7 e4a8 e8f7 g4f2"]
+[SolutionSAN "Qe7 Qxa8+ Kf7 Nf2"]
+[FEN "r2qkb1r/2p4p/p3bp2/1p6/3PQ1N1/2P1P3/PP4PP/RN4K1 b kq - 1 17"]
+[SetUp "1"]
+
+17... Qe7 18. Qxa8+ Kf7 19. Nf2 *

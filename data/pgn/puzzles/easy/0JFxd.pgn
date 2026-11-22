@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JFxd"]
+[Difficulty "easy"]
+[Rating "1098"]
+[Themes "mate mateIn1 middlegame oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/d3CEFnnC/black#54"]
+[Solution "f4d2 h3h8"]
+[SolutionSAN "Qxd2 Rh8#"]
+[FEN "r4rk1/1pp2Np1/pb1p2B1/3P4/5q2/7R/PP1Q1PP1/5RK1 b - - 0 27"]
+[SetUp "1"]
+
+27... Qxd2 28. Rh8# *

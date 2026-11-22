@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DHA2"]
+[Difficulty "easy"]
+[Rating "1170"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/YtCJNxD2#43"]
+[Solution "g1h1 d5c4 h5f6 c6f6"]
+[SolutionSAN "Kh1 dxc4 Nxf6+ Qxf6"]
+[FEN "1r3rk1/pp2np1p/2q2b2/2PppP1N/2B5/P1PP4/6PP/R2Q1RK1 w - - 1 22"]
+[SetUp "1"]
+
+22. Kh1 dxc4 23. Nxf6+ Qxf6 *

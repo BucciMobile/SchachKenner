@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06HLv"]
+[Difficulty "hard"]
+[Rating "1753"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/PD7pGAPo#49"]
+[Solution "f4e6 g5e3 g1h1 d8d6"]
+[SolutionSAN "Nxe6 Qe3+ Kh1 Rxd6"]
+[FEN "3rr1k1/1p3ppp/p2Qb3/2p3q1/2P1PN2/1P3P2/P5PP/R4RK1 w - - 1 25"]
+[SetUp "1"]
+
+25. Nxe6 Qe3+ 26. Kh1 Rxd6 *

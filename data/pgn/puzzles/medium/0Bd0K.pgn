@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bd0K"]
+[Difficulty "medium"]
+[Rating "1485"]
+[Themes "clearance killBoxMate mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/cPwUQfC1/black#58"]
+[Solution "d6b8 a8c6 b8c7 a1a8"]
+[SolutionSAN "Qb8 Qc6+ Qc7 Ra8#"]
+[FEN "Q1kr4/4bp1p/1p1q4/2nP2r1/8/4PP2/3N3P/RR5K b - - 6 29"]
+[SetUp "1"]
+
+29... Qb8 30. Qc6+ Qc7 31. Ra8# *

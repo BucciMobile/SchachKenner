@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01jhf"]
+[Difficulty "medium"]
+[Rating "1546"]
+[Themes "advantage intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/fVJJYXzY/black#30"]
+[Solution "e5d3 b3e6 f7e6 c2d3"]
+[SolutionSAN "Nxd3 Bxe6+ fxe6 cxd3"]
+[FEN "2kr2nr/ppp2ppp/3pb3/q3n3/7Q/PBNPB2P/1PP3P1/R4K1R b - - 2 15"]
+[SetUp "1"]
+
+15... Nxd3 16. Bxe6+ fxe6 17. cxd3 *

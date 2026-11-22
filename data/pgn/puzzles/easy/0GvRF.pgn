@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GvRF"]
+[Difficulty "easy"]
+[Rating "1089"]
+[Themes "hookMate master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/vVoszQs3/black#66"]
+[Solution "g8g7 h1h7"]
+[SolutionSAN "Kg7 Rxh7#"]
+[FEN "2r2bk1/1p5r/p2pPNp1/4p1P1/P1n1P3/8/1P3PK1/2B4R b - - 1 33"]
+[SetUp "1"]
+
+33... Kg7 34. Rxh7# *

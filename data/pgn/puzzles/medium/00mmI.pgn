@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00mmI"]
+[Difficulty "medium"]
+[Rating "1271"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/flZyNmmd/black#98"]
+[Solution "h6h5 g3h3"]
+[SolutionSAN "Kxh5 Rh3#"]
+[FEN "8/5p2/7k/5K1P/5P2/6R1/8/5r2 b - - 4 49"]
+[SetUp "1"]
+
+49... Kxh5 50. Rh3# *

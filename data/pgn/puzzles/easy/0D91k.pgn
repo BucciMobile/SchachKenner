@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D91k"]
+[Difficulty "easy"]
+[Rating "962"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/F90sdTlv#53"]
+[Solution "e3d4 e6e2 g2f1 e2d2"]
+[SolutionSAN "exd4 Re2+ Kf1 Rxd2"]
+[FEN "7r/pp3pkp/4rbp1/2p5/3p2P1/2P1PPPR/PP1B2K1/7R w - - 0 27"]
+[SetUp "1"]
+
+27. exd4 Re2+ 28. Kf1 Rxd2 *

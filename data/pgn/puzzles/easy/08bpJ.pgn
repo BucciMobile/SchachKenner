@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08bpJ"]
+[Difficulty "easy"]
+[Rating "860"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/MFzqLa6r#41"]
+[Solution "b2b4 c8c1 f1c1 d2c1"]
+[SolutionSAN "b4 Rxc1 Rxc1 Qxc1+"]
+[FEN "2r2r2/pp3pk1/4p2p/3p2p1/3P4/P3PQ1P/1P1q1PP1/2R2RK1 w - - 3 21"]
+[SetUp "1"]
+
+21. b4 Rxc1 22. Rxc1 Qxc1+ *

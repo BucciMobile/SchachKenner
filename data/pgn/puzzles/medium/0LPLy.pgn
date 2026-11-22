@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LPLy"]
+[Difficulty "medium"]
+[Rating "1518"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/4HcYMrYN#43"]
+[Solution "d1e3 c4f1 g1f1 d8d6"]
+[SolutionSAN "Ne3 Qxf1+ Kxf1 Rxd6"]
+[FEN "3r1r2/1p3pkp/3Q2p1/p1nP4/P1q5/7P/5PP1/R2N1RK1 w - - 1 22"]
+[SetUp "1"]
+
+22. Ne3 Qxf1+ 23. Kxf1 Rxd6 *

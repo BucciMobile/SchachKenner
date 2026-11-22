@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07qbh"]
+[Difficulty "medium"]
+[Rating "1546"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/TrIrRX5g#53"]
+[Solution "c1c5 e5f3 d2f3 e7b7"]
+[SolutionSAN "Qc5 Nxf3+ Nxf3 Qxb7"]
+[FEN "6k1/pN2qpp1/1n2p1bp/4n3/8/P2P1BP1/3NPP1P/2Q3K1 w - - 3 27"]
+[SetUp "1"]
+
+27. Qc5 Nxf3+ 28. Nxf3 Qxb7 *

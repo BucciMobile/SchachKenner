@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08QKf"]
+[Difficulty "medium"]
+[Rating "1241"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/CqwGBJWW/black#40"]
+[Solution "c7d6 h4g6 h7g6 g3h3"]
+[SolutionSAN "Qxd6 Ng6+ hxg6 Qh3#"]
+[FEN "4r1rk/pbqn2pp/1p1N1p2/8/3PpP1N/6Q1/PP4PP/R1B2RK1 b - - 0 20"]
+[SetUp "1"]
+
+20... Qxd6 21. Ng6+ hxg6 22. Qh3# *

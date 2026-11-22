@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KXPi"]
+[Difficulty "medium"]
+[Rating "1391"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/sM4tFtZa/black#70"]
+[Solution "b2b3 f1d2 b3e3 d2e4"]
+[SolutionSAN "Rxb3 Nd2 Rbe3 Nxe4"]
+[FEN "8/3R2pk/4p3/8/4r2p/1P5P/1r2n1PK/4RN2 b - - 1 35"]
+[SetUp "1"]
+
+35... Rxb3 36. Nd2 Rbe3 37. Nxe4 *

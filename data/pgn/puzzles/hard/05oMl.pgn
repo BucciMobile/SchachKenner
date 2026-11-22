@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05oMl"]
+[Difficulty "hard"]
+[Rating "2792"]
+[Themes "crushing endgame pawnEndgame veryLong"]
+[GameUrl "https://lichess.org/game/Vev76ecP/black#62"]
+[Solution "d7e7 d5c5 b5c4 b3c4 e7e6 c5b6 e6e5 b6b7 e5d4 b7a6"]
+[SolutionSAN "Ke7 Kc5 bxc4 bxc4 Ke6 Kb6 Kxe5 Kxb7 Kd4 Kxa6"]
+[FEN "8/1p1k1p2/p6p/1p1KP1p1/2P3P1/PP5P/8/8 b - - 0 31"]
+[SetUp "1"]
+
+31... Ke7 32. Kc5 bxc4 33. bxc4 Ke6 34. Kb6 Kxe5 35. Kxb7 Kd4 36. Kxa6 *

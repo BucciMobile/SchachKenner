@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02NlV"]
+[Difficulty "medium"]
+[Rating "1461"]
+[Themes "crushing discoveredAttack long middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/uTyxamBO/black#48"]
+[Solution "d8d4 d1d4 e5d4 e4d6 c7d6 e3e8"]
+[SolutionSAN "Rd4 Rxd4 exd4 Nd6+ Qxd6 Qxe8+"]
+[FEN "2krr3/ppq3pb/2p4p/4p2P/4N1P1/1P2Q3/P1P2P2/1K1R3R b - - 2 24"]
+[SetUp "1"]
+
+24... Rd4 25. Rxd4 exd4 26. Nd6+ Qxd6 27. Qxe8+ *

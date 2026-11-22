@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04TYh"]
+[Difficulty "medium"]
+[Rating "1225"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/FNMrvmZu/black#44"]
+[Solution "g8h8 f4f8 d8f8 f1f8"]
+[SolutionSAN "Kh8 Qxf8+ Qxf8 Rxf8#"]
+[FEN "rn1q1rk1/p1b3pp/2p4N/P2pp3/1pPP1QP1/7P/1P6/R4RK1 b - - 1 22"]
+[SetUp "1"]
+
+22... Kh8 23. Qxf8+ Qxf8 24. Rxf8# *

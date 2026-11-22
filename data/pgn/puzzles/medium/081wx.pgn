@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "081wx"]
+[Difficulty "medium"]
+[Rating "1412"]
+[Themes "advantage clearance kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/2ujdSyfJ/black#32"]
+[Solution "h7g5 g6h5 g5h7 f7g6 g7h6 h5h6"]
+[SolutionSAN "Nxg5 Qh5+ Nh7 Bg6 Bh6 Qxh6"]
+[FEN "r1bq1r1k/1p3Bbn/p1np2Q1/2pNp1N1/4P3/P2P3P/1PP2PP1/R3K2R b KQ - 4 16"]
+[SetUp "1"]
+
+16... Nxg5 17. Qh5+ Nh7 18. Bg6 Bh6 19. Qxh6 *

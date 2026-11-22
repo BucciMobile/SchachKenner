@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08sTB"]
+[Difficulty "medium"]
+[Rating "1324"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/OTWtatJT/black#66"]
+[Solution "g8g4 f4g4 h4g4 f7h7"]
+[SolutionSAN "Rg4 Rxg4+ Kxg4 Rxh7"]
+[FEN "6r1/pp3R1r/n7/4n2p/2P2R1k/3P4/PP4P1/6K1 b - - 1 33"]
+[SetUp "1"]
+
+33... Rg4 34. Rxg4+ Kxg4 35. Rxh7 *

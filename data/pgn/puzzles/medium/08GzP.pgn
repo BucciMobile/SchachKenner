@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08GzP"]
+[Difficulty "medium"]
+[Rating "1501"]
+[Themes "crushing long master middlegame"]
+[GameUrl "https://lichess.org/game/Ew0UgPmK#43"]
+[Solution "d2d7 a8g8 g2h1 h4f2 e2g4 g8g4"]
+[SolutionSAN "Qxd7 Rg8+ Kh1 Qf2 Bg4 Rxg4"]
+[FEN "r6k/pppbb2p/4p3/4Pp2/2P1pP1q/1PB1P3/P2QB1KP/R7 w - - 7 22"]
+[SetUp "1"]
+
+22. Qxd7 Rg8+ 23. Kh1 Qf2 24. Bg4 Rxg4 *

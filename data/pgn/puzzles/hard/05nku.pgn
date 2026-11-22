@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05nku"]
+[Difficulty "hard"]
+[Rating "1799"]
+[Themes "crushing endgame pawnEndgame quietMove short"]
+[GameUrl "https://lichess.org/game/ZLuB3pst/black#72"]
+[Solution "f5e5 b3b4 d5d4 c3d4"]
+[SolutionSAN "Ke5 b4 d4+ cxd4+"]
+[FEN "8/6p1/p7/3p1kp1/2p5/1PP1K1PP/P7/8 b - - 0 36"]
+[SetUp "1"]
+
+36... Ke5 37. b4 d4+ 38. cxd4+ *

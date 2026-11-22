@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04wkA"]
+[Difficulty "medium"]
+[Rating "1240"]
+[Themes "advantage deflection endgame veryLong"]
+[GameUrl "https://lichess.org/game/9EjBTiZK/black#52"]
+[Solution "h4h2 e3e8 b8a7 d5d4 c7b6 e8a8 a7a8 d4b6 h2h1 c1d2"]
+[SolutionSAN "Rh2 Re8+ Ka7 Qd4+ Qb6 Ra8+ Kxa8 Qxb6 Rh1+ Kd2"]
+[FEN "1k6/1pq2pp1/p5p1/3Q2P1/7r/4R3/PPP5/2K5 b - - 1 26"]
+[SetUp "1"]
+
+26... Rh2 27. Re8+ Ka7 28. Qd4+ Qb6 29. Ra8+ Kxa8 30. Qxb6 Rh1+ 31. Kd2 *

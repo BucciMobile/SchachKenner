@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02agm"]
+[Difficulty "hard"]
+[Rating "1897"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/PEkw5z0O/black#72"]
+[Solution "h7h8 e4e8 h8h7 e8h5"]
+[SolutionSAN "Kh8 Qe8+ Kh7 Qh5+"]
+[FEN "8/6pk/p7/8/1P2QP2/q2p4/3r3P/3R2K1 b - - 4 36"]
+[SetUp "1"]
+
+36... Kh8 37. Qe8+ Kh7 38. Qh5+ *

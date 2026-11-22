@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IRJO"]
+[Difficulty "hard"]
+[Rating "2083"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/ZW6Ciw9x/black#78"]
+[Solution "e7d8 b6d8 b8d8 a6c8"]
+[SolutionSAN "Bd8 Bxd8 Rxd8 Bc8"]
+[FEN "1r6/3Pbk1p/BB4p1/P3pp2/6P1/7P/5P2/6K1 b - - 0 39"]
+[SetUp "1"]
+
+39... Bd8 40. Bxd8 Rxd8 41. Bc8 *

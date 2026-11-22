@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ATIX"]
+[Difficulty "medium"]
+[Rating "1355"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/IX2F7Cyl#67"]
+[Solution "b4b5 b6b5 b1b5 b8b5 a4b5 c3e1"]
+[SolutionSAN "Qxb5 Qxb5 Rxb5 Rxb5 Bxb5 Bxe1"]
+[FEN "1r4k1/7p/1q2p1p1/1n1p4/BQp5/2b2P2/6PP/1R2R2K w - - 4 34"]
+[SetUp "1"]
+
+34. Qxb5 Qxb5 35. Rxb5 Rxb5 36. Bxb5 Bxe1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CqxM"]
+[Difficulty "easy"]
+[Rating "1024"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/myHmf6XW/black#86"]
+[Solution "e4a4 h5h8"]
+[SolutionSAN "Rxa4 Rh8#"]
+[FEN "3k4/1p4R1/1rp5/3p3R/P3r1P1/8/P6K/8 b - - 0 43"]
+[SetUp "1"]
+
+43... Rxa4 44. Rh8# *

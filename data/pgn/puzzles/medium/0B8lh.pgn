@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B8lh"]
+[Difficulty "medium"]
+[Rating "1308"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/Cn5xh9eH#61"]
+[Solution "g1g3 b4e1 b1a2 e1g3"]
+[SolutionSAN "Rg3 Qe1+ Ka2 Qxg3"]
+[FEN "k1r5/1p6/4p2p/p2pQ2P/Pq1PbPP1/1B6/1PP5/1K4R1 w - - 3 31"]
+[SetUp "1"]
+
+31. Rg3 Qe1+ 32. Ka2 Qxg3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06RCv"]
+[Difficulty "medium"]
+[Rating "1505"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/vpuX5APF/black#64"]
+[Solution "g8e8 a7a8 c8c7 c3a5"]
+[SolutionSAN "Re8 Ra8+ Kc7 Ba5#"]
+[FEN "2k3r1/R5p1/2pn3p/2N5/P4bPP/1PB2P2/1KP1q3/8 b - - 0 32"]
+[SetUp "1"]
+
+32... Re8 33. Ra8+ Kc7 34. Ba5# *

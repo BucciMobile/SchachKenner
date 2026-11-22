@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06ctM"]
+[Difficulty "hard"]
+[Rating "2569"]
+[Themes "attraction crushing kingsideAttack middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/bFFimehm/black#48"]
+[Solution "g7h6 c7h7 h8h7 c1c7 h6g7 g3f5 g6f5 d3f5"]
+[SolutionSAN "Bh6 Rxh7+ Kxh7 Rc7+ Bg7 Nf5 gxf5 Qxf5+"]
+[FEN "1r2r2k/ppR3bp/6p1/3qp3/3p4/3Q2N1/PP4PP/2R3K1 b - - 1 24"]
+[SetUp "1"]
+
+24... Bh6 25. Rxh7+ Kxh7 26. Rc7+ Bg7 27. Nf5 gxf5 28. Qxf5+ *

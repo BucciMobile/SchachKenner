@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ih04"]
+[Difficulty "medium"]
+[Rating "1443"]
+[Themes "clearance endgame mate mateIn4 sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/uXJGgXIK#37"]
+[Solution "c1c3 d4f2 f1f2 d8d1 e6e1 d1e1 f2f1 e1f1"]
+[SolutionSAN "Rc3 Qxf2+ Rxf2 Rd1+ Qe1 Rxe1+ Rf1 Rexf1#"]
+[FEN "3r1r1k/ppp3pp/4Q3/8/3q4/8/PP3PPP/2R2RK1 w - - 1 19"]
+[SetUp "1"]
+
+19. Rc3 Qxf2+ 20. Rxf2 Rd1+ 21. Qe1 Rxe1+ 22. Rf1 Rexf1# *

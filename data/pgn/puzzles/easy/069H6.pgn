@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "069H6"]
+[Difficulty "easy"]
+[Rating "979"]
+[Themes "crushing endgame long rookEndgame xRayAttack"]
+[GameUrl "https://lichess.org/game/36ZbdrWa/black#68"]
+[Solution "b6b7 c1c8 b7d7 c8d8 d7d8 d1d8"]
+[SolutionSAN "Rb7 Rc8 Rxd7 Rxd8+ Rxd8 Rxd8+"]
+[FEN "3r2k1/3P1pp1/1r5p/8/8/8/6PP/2RR3K b - - 0 34"]
+[SetUp "1"]
+
+34... Rb7 35. Rc8 Rxd7 36. Rxd8+ Rxd8 37. Rxd8+ *

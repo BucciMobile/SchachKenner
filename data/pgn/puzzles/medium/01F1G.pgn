@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01F1G"]
+[Difficulty "medium"]
+[Rating "1618"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/I15Vgant/black#36"]
+[Solution "d8d1 a1d1 f6e6 c6a8"]
+[SolutionSAN "Qxd1+ Rxd1 Rxe6 Bxa8"]
+[FEN "r2q3k/4n1bp/bpB1Qrp1/pN3p2/P4B2/5N2/1P3PPP/R2R2K1 b - - 0 18"]
+[SetUp "1"]
+
+18... Qxd1+ 19. Rxd1 Rxe6 20. Bxa8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Sp9"]
+[Difficulty "easy"]
+[Rating "1121"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/jkEtbUk1/black#44"]
+[Solution "a5c3 f3b7 c8b7 g3c3"]
+[SolutionSAN "Qxc3 Bxb7+ Kxb7 Qxc3"]
+[FEN "2kr3r/pp2bp1p/1n4pB/q3Pb2/P1p5/2P2BQ1/3N1PPP/R3K2R b KQ - 2 22"]
+[SetUp "1"]
+
+22... Qxc3 23. Bxb7+ Kxb7 24. Qxc3 *

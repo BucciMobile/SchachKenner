@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00mF3"]
+[Difficulty "hard"]
+[Rating "2036"]
+[Themes "crushing endgame exposedKing fork long"]
+[GameUrl "https://lichess.org/game/MmowlWby#75"]
+[Solution "d3h3 c5c4 e2f2 c4e2 f2g1 e2d1"]
+[SolutionSAN "Qh3 Qxc4+ Kf2 Qe2+ Kg1 Qd1+"]
+[FEN "1r6/6k1/b2p1p2/2qP1Pp1/1pP1P1P1/3Q4/3BK3/7R w - - 4 38"]
+[SetUp "1"]
+
+38. Qh3 Qxc4+ 39. Kf2 Qe2+ 40. Kg1 Qd1+ *

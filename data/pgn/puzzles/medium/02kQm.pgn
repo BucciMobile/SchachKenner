@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02kQm"]
+[Difficulty "medium"]
+[Rating "1574"]
+[Themes "crushing endgame pawnEndgame quietMove short zugzwang"]
+[GameUrl "https://lichess.org/game/CleDTYpC#105"]
+[Solution "f2e2 a5a4 b2b3 a4b3"]
+[SolutionSAN "Ke2 a4 b3 axb3"]
+[FEN "8/8/8/pp6/4k1p1/P1P3P1/1P3K2/8 w - - 2 53"]
+[SetUp "1"]
+
+53. Ke2 a4 54. b3 axb3 *

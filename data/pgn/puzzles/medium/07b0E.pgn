@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07b0E"]
+[Difficulty "medium"]
+[Rating "1212"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/HDMNZ6Z8#27"]
+[Solution "c3b5 c6b5 c4c7 d6c7"]
+[SolutionSAN "Nxb5 cxb5 Qxc7 Bxc7"]
+[FEN "r4rk1/p1qn1ppp/2pbpn2/Pp6/1PQP4/2N1P3/4NPPP/R1B2R1K w - b6 0 14"]
+[SetUp "1"]
+
+14. Nxb5 cxb5 15. Qxc7 Bxc7 *

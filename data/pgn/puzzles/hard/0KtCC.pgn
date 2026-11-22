@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KtCC"]
+[Difficulty "hard"]
+[Rating "2200"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/D0wQ5QTI/black#72"]
+[Solution "b6d4 c1f1 f2e4 g3e4"]
+[SolutionSAN "Qd4 Rf1 Nxe4 Nxe4"]
+[FEN "r7/1p3pkp/1q1p2p1/3Pp1P1/4P2P/Pp3QN1/1P3n1K/2R5 b - - 1 36"]
+[SetUp "1"]
+
+36... Qd4 37. Rf1 Nxe4 38. Nxe4 *

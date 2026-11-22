@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DqRu"]
+[Difficulty "hard"]
+[Rating "2155"]
+[Themes "advantage endgame exposedKing intermezzo long"]
+[GameUrl "https://lichess.org/game/AdOgCpaB#59"]
+[Solution "f3d3 c7e5 f5e5 d4d3 g3f2 f6e5"]
+[SolutionSAN "Rxd3 Qxe5+ Qxe5 Rxd3+ Kf2 fxe5"]
+[FEN "6k1/p1q3pp/2p2p2/4RQ2/2Pr4/1PNr1RK1/P5PP/8 w - - 17 30"]
+[SetUp "1"]
+
+30. Rxd3 Qxe5+ 31. Qxe5 Rxd3+ 32. Kf2 fxe5 *

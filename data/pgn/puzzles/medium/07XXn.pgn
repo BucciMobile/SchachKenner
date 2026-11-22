@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07XXn"]
+[Difficulty "medium"]
+[Rating "1565"]
+[Themes "crushing discoveredAttack discoveredCheck endgame long"]
+[GameUrl "https://lichess.org/game/5OsQXTiD#53"]
+[Solution "f6e6 g1d1 b3a3 e3c2 a3a4 c2d4"]
+[SolutionSAN "Qxe6 Qd1+ Ka3 Nc2+ Ka4 Nxd4+"]
+[FEN "8/2p4p/2p1pQpk/p7/3PN3/1KP1n1P1/PP6/6q1 w - - 2 27"]
+[SetUp "1"]
+
+27. Qxe6 Qd1+ 28. Ka3 Nc2+ 29. Ka4 Nxd4+ *

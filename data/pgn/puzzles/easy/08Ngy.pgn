@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Ngy"]
+[Difficulty "easy"]
+[Rating "546"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/mbGZfGQ4#53"]
+[Solution "c1d1 d8d1 f3e1 d1e1"]
+[SolutionSAN "Rxd1 Rxd1+ Ne1 Rxe1#"]
+[FEN "3r2k1/5ppp/1R6/8/PP2n3/4BN2/5PPP/2Rq2K1 w - - 0 27"]
+[SetUp "1"]
+
+27. Rxd1 Rxd1+ 28. Ne1 Rxe1# *

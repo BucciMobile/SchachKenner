@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JUOU"]
+[Difficulty "hard"]
+[Rating "1764"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/ieXPJ3wq/black#26"]
+[Solution "d7f5 h1e1 c8e6 f3d4"]
+[SolutionSAN "Qf5 Re1+ Be6 Nd4"]
+[FEN "r1b1kb1Q/pppq4/3p1Bp1/8/8/5N2/PP3PPP/n2K3R b q - 2 13"]
+[SetUp "1"]
+
+13... Qf5 14. Re1+ Be6 15. Nd4 *

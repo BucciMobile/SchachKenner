@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0687E"]
+[Difficulty "medium"]
+[Rating "1341"]
+[Themes "deflection kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/f98ojHHO/black#64"]
+[Solution "g6f5 h6h7 g7h7 g4g8"]
+[SolutionSAN "gxf5 Rxh7+ Rxh7 Qxg8#"]
+[FEN "2b3rk/4qprp/3p2pR/1p3P2/p1n1PPQ1/P1PB2R1/1PK4P/8 b - - 7 32"]
+[SetUp "1"]
+
+32... gxf5 33. Rxh7+ Rxh7 34. Qxg8# *

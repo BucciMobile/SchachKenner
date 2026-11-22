@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GUDm"]
+[Difficulty "easy"]
+[Rating "475"]
+[Themes "backRankMate endgame hangingPiece master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/ARoQMDar#57"]
+[Solution "g4d1 f1d1"]
+[SolutionSAN "Bd1 Rxd1#"]
+[FEN "2r4k/2P1R1pp/p7/8/1p4B1/8/PPP3PP/1K3r2 w - - 1 29"]
+[SetUp "1"]
+
+29. Bd1 Rxd1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B8Ti"]
+[Difficulty "easy"]
+[Rating "1167"]
+[Themes "advancedPawn crushing endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/dUZcswCq#65"]
+[Solution "h5h6 d1b1 b3a2 d3d2"]
+[SolutionSAN "h6 Rb1+ Ka2 d2"]
+[FEN "8/1pk5/p1p5/P6P/1P6/1KPp1R2/8/3r4 w - - 1 33"]
+[SetUp "1"]
+
+33. h6 Rb1+ 34. Ka2 d2 *

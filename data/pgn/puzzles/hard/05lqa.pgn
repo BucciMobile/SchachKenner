@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05lqa"]
+[Difficulty "hard"]
+[Rating "2523"]
+[Themes "advantage long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/VhiBhscu/black#54"]
+[Solution "f2f4 b7b8 g8g7 b6b4 g5e7 b4e7"]
+[SolutionSAN "Qf4 Rxb8+ Kg7 Qb4 Be7 Qxe7"]
+[FEN "1r4k1/1R3p1p/pQ4p1/3p2b1/3P2n1/P2B4/1P3qPP/5N1K b - - 1 27"]
+[SetUp "1"]
+
+27... Qf4 28. Rxb8+ Kg7 29. Qb4 Be7 30. Qxe7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ibuy"]
+[Difficulty "medium"]
+[Rating "1548"]
+[Themes "advantage fork long middlegame pin"]
+[GameUrl "https://lichess.org/game/CaqwruXi/black#42"]
+[Solution "g5g4 d1g4 h5g4 f5h6 g8g7 h6g4"]
+[SolutionSAN "Qxg4+ Qxg4 Bxg4 Nxh6+ Kg7 Nxg4"]
+[FEN "r4rk1/ppb2p2/2pp2pp/P3pNqb/1P1PP1PP/1BP5/5P2/R2Q1RK1 b - - 0 21"]
+[SetUp "1"]
+
+21... Qxg4+ 22. Qxg4 Bxg4 23. Nxh6+ Kg7 24. Nxg4 *

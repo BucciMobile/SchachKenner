@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06jPB"]
+[Difficulty "hard"]
+[Rating "1826"]
+[Themes "advantage master opening short"]
+[GameUrl "https://lichess.org/game/3NrRTecH#21"]
+[Solution "f1e1 g8h8 h7e4 e5h2"]
+[SolutionSAN "Re1 Rh8 Qe4 Bxh2+"]
+[FEN "r1bqk1r1/pp1pnp1Q/8/1Bp1b3/3p4/N7/PPPP1PPP/R1B2RK1 w q - 0 11"]
+[SetUp "1"]
+
+11. Re1 Rh8 12. Qe4 Bxh2+ *

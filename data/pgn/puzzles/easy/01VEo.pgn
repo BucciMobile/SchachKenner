@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01VEo"]
+[Difficulty "easy"]
+[Rating "774"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/TfS8CNW4#29"]
+[Solution "c5b7 d6h2"]
+[SolutionSAN "Nxb7 Qxh2#"]
+[FEN "r3k2r/pp3pp1/2pqpn2/2N3p1/2P5/8/PPP1QPPP/R4RK1 w kq - 1 15"]
+[SetUp "1"]
+
+15. Nxb7 Qxh2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "082i1"]
+[Difficulty "hard"]
+[Rating "2062"]
+[Themes "crushing fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/SNMWMReL#69"]
+[Solution "d4c2 d7d3 e2f2 d3e2 f2g3 f8g8 g3h3 e2f3"]
+[SolutionSAN "Nxc2 Qxd3+ Kf2 Qe2+ Kg3 Rg8+ Kh3 Qf3+"]
+[FEN "5r2/p2q1p1p/bp2pk2/8/1Q1N1P1P/P2PP3/2r1K3/R5R1 w - - 21 35"]
+[SetUp "1"]
+
+35. Nxc2 Qxd3+ 36. Kf2 Qe2+ 37. Kg3 Rg8+ 38. Kh3 Qf3+ *

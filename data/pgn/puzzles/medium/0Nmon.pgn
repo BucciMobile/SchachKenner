@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Nmon"]
+[Difficulty "medium"]
+[Rating "1231"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/BijpZKZ8/black#72"]
+[Solution "e5d5 e3d3 c3c2 d3c2"]
+[SolutionSAN "Kd5 Kd3 c2 Kxc2"]
+[FEN "8/8/7p/1p2k3/1P4P1/2p1K2P/8/8 b - - 0 36"]
+[SetUp "1"]
+
+36... Kd5 37. Kd3 c2 38. Kxc2 *

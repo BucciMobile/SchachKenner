@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DMt9"]
+[Difficulty "hard"]
+[Rating "2227"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/WFyy5Vh4#39"]
+[Solution "f6e5 b6f2 c3e2 f2e2"]
+[SolutionSAN "Bxe5 Qf2 Ne2 Qxe2"]
+[FEN "2r2b1Q/pp1k1p2/1q1p1B2/4p2p/4P2P/2N2P2/PPP3r1/2KR3R w - - 3 20"]
+[SetUp "1"]
+
+20. Bxe5 Qf2 21. Ne2 Qxe2 *

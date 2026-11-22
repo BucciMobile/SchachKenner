@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Haoh"]
+[Difficulty "hard"]
+[Rating "2167"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/0gFa9b0K#77"]
+[Solution "b5g5 e6e1 g1g2 e1e4"]
+[SolutionSAN "Qxg5 Qe1+ Kg2 Qe4+"]
+[FEN "3r4/1R2bk2/4q3/1Q4p1/8/P5P1/5P1P/6K1 w - - 1 39"]
+[SetUp "1"]
+
+39. Qxg5 Qe1+ 40. Kg2 Qe4+ *

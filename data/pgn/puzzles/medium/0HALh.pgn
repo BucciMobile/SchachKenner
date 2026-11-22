@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HALh"]
+[Difficulty "medium"]
+[Rating "1208"]
+[Themes "advancedPawn crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/hTzaa0xo/black#70"]
+[Solution "b3b8 d6d7 b2c4 c1c4 b8b1 g1f2 b1d1 c4c8"]
+[SolutionSAN "Rxb8 d7 Nc4 Rxc4 Rb1+ Kf2 Rd1 Rc8+"]
+[FEN "1B4k1/6p1/3Pp2p/8/8/1r6/1n4PP/2R3K1 b - - 0 35"]
+[SetUp "1"]
+
+35... Rxb8 36. d7 Nc4 37. Rxc4 Rb1+ 38. Kf2 Rd1 39. Rc8+ *

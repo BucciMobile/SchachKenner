@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07dFi"]
+[Difficulty "hard"]
+[Rating "2360"]
+[Themes "advantage defensiveMove long middlegame"]
+[GameUrl "https://lichess.org/game/Z22EHuvt#53"]
+[Solution "d7b6 a7b6 c1g5 h5g4 a5b6 a8b8"]
+[SolutionSAN "Nb6+ axb6 Bg5 hxg4 axb6+ Kb8"]
+[FEN "k3r3/pp1N4/5pr1/P2pp2p/1PqP2BP/2P3Q1/6K1/R1B5 w - - 0 27"]
+[SetUp "1"]
+
+27. Nb6+ axb6 28. Bg5 hxg4 29. axb6+ Kb8 *

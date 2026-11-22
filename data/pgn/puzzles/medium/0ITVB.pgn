@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ITVB"]
+[Difficulty "medium"]
+[Rating "1565"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/5NgOsYLC/black#62"]
+[Solution "e7f6 e4e5 f6e5 b2e5"]
+[SolutionSAN "Bxf6 e5 Bxe5 Qxe5"]
+[FEN "2r3k1/4bpp1/2q1pB1p/1p6/1P2P3/6P1/1Q3PBP/1R4K1 b - - 0 31"]
+[SetUp "1"]
+
+31... Bxf6 32. e5 Bxe5 33. Qxe5 *

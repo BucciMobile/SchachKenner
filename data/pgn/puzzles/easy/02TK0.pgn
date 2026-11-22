@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02TK0"]
+[Difficulty "easy"]
+[Rating "882"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/RsfkBelB/black#62"]
+[Solution "d6e5 d3g6 f7g8 g6g7"]
+[SolutionSAN "dxe5 Qg6+ Kg8 Qxg7#"]
+[FEN "5r2/4pkn1/3pqp2/p3P3/6R1/2PQ3P/Pr4P1/5R1K b - - 0 31"]
+[SetUp "1"]
+
+31... dxe5 32. Qg6+ Kg8 33. Qxg7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GvbG"]
+[Difficulty "easy"]
+[Rating "804"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/kCWbkmwd/black#38"]
+[Solution "e8d8 e5f7 d8e7 f7h8"]
+[SolutionSAN "Kxd8 Nf7+ Ke7 Nxh8"]
+[FEN "3Bk2r/p5pp/1p2p3/n1p1N3/4P3/2P5/P4PPP/2K4R b - - 0 19"]
+[SetUp "1"]
+
+19... Kxd8 20. Nf7+ Ke7 21. Nxh8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HfmD"]
+[Difficulty "hard"]
+[Rating "1975"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/iOxLCweu/black#32"]
+[Solution "f6e4 g5e7 e4c3 b2c3"]
+[SolutionSAN "Ne4 Bxe7 Nxc3 bxc3"]
+[FEN "2r1r1k1/pp2bppp/5n2/q2pp1B1/P2n4/2NQ3P/BPP2PP1/3RR1K1 b - - 7 16"]
+[SetUp "1"]
+
+16... Ne4 17. Bxe7 Nxc3 18. bxc3 *

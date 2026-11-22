@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J5VU"]
+[Difficulty "hard"]
+[Rating "2572"]
+[Themes "crushing discoveredAttack discoveredCheck long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/lNITM4Mv/black#70"]
+[Solution "a8e8 f3g3 f7f6 g7f6 g8f7 f6d8"]
+[SolutionSAN "Rae8 Rg3 f6 Bxf6+ Kf7 Bd8"]
+[FEN "r5k1/5pBn/2p4P/p1Pp1P1K/P2P1Q1P/5R2/4r3/7q b - - 4 35"]
+[SetUp "1"]
+
+35... Rae8 36. Rg3 f6 37. Bxf6+ Kf7 38. Bd8 *

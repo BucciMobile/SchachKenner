@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IF5K"]
+[Difficulty "hard"]
+[Rating "2334"]
+[Themes "advancedPawn advantage attraction fork master middlegame veryLong"]
+[GameUrl "https://lichess.org/game/TZZg3SPZ#61"]
+[Solution "b6c7 d7c7 c1c7 h3h2 g1h2 h8e5 h2g1 e5c7"]
+[SolutionSAN "Qc7 Qxc7 Rxc7 h2+ Kxh2 Be5+ Kg1 Bxc7"]
+[FEN "6kb/1p1q1p1p/1Q4p1/3P4/3Nb3/1P2B2p/r4P2/2R2BK1 w - - 0 31"]
+[SetUp "1"]
+
+31. Qc7 Qxc7 32. Rxc7 h2+ 33. Kxh2 Be5+ 34. Kg1 Bxc7 *

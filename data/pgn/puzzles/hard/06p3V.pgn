@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06p3V"]
+[Difficulty "hard"]
+[Rating "1902"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/lcZQAOTu#89"]
+[Solution "c2e3 a4a3 e3c2 a3a2 h5h6 g7h6"]
+[SolutionSAN "Ne3 a3 Nc2 a2 h6 Bxh6"]
+[FEN "8/6b1/6P1/5p1P/p7/1k1K4/2N5/8 w - - 1 45"]
+[SetUp "1"]
+
+45. Ne3 a3 46. Nc2 a2 47. h6 Bxh6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FQd1"]
+[Difficulty "hard"]
+[Rating "2068"]
+[Themes "crushing defensiveMove endgame pawnEndgame short zugzwang"]
+[GameUrl "https://lichess.org/game/Mk2CnJaS/black#92"]
+[Solution "a6a5 b4a5 b6a5 e4d4"]
+[SolutionSAN "a5 bxa5 bxa5 Kd4"]
+[FEN "8/8/pp1k3p/6p1/PP2K1P1/6P1/8/8 b - - 0 46"]
+[SetUp "1"]
+
+46... a5 47. bxa5 bxa5 48. Kd4 *

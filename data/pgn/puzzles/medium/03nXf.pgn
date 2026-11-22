@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03nXf"]
+[Difficulty "medium"]
+[Rating "1442"]
+[Themes "deflection mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/WaWVIi04#57"]
+[Solution "g1h2 g5g2 h2h1 f3h3"]
+[SolutionSAN "Kh2 Rg2+ Kh1 Qxh3#"]
+[FEN "1r4k1/6p1/n2p4/p1pP2rp/2P1Q3/P4q1P/3P1P2/1BR2RK1 w - - 1 29"]
+[SetUp "1"]
+
+29. Kh2 Rg2+ 30. Kh1 Qxh3# *

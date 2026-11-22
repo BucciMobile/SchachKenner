@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EO0w"]
+[Difficulty "hard"]
+[Rating "2137"]
+[Themes "crushing defensiveMove endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/NCSzXbp3#89"]
+[Solution "g6f5 b4b3 f6g6 g8f8"]
+[SolutionSAN "Kf5 b3 Rg6+ Kf8"]
+[FEN "6k1/p7/4PRK1/6P1/1p6/8/8/4r3 w - - 0 45"]
+[SetUp "1"]
+
+45. Kf5 b3 46. Rg6+ Kf8 *

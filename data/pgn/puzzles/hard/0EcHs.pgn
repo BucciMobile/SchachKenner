@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EcHs"]
+[Difficulty "hard"]
+[Rating "2062"]
+[Themes "advantage master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/v89RMmE4/black#26"]
+[Solution "c3b2 f4f6 d8f6 g5f6"]
+[SolutionSAN "cxb2 Rxf6+ Qxf6 Bxf6"]
+[FEN "r1bq1k1r/ppp3pp/2np1b2/3Q2B1/5R2/2p2N2/PPP2PPP/4R1K1 b - - 6 13"]
+[SetUp "1"]
+
+13... cxb2 14. Rxf6+ Qxf6 15. Bxf6 *

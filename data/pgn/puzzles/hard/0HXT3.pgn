@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HXT3"]
+[Difficulty "hard"]
+[Rating "2074"]
+[Themes "crushing defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/C5gMovhb/black#44"]
+[Solution "f4e6 e5f7 f6f5 b1a1"]
+[SolutionSAN "Ne6 Nxf7 Qf5+ Ka1"]
+[FEN "2r3k1/pb3ppp/5q2/1p2N3/5n2/P3Q3/BP4PP/1K1R4 b - - 0 22"]
+[SetUp "1"]
+
+22... Ne6 23. Nxf7 Qf5+ 24. Ka1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D1B0"]
+[Difficulty "easy"]
+[Rating "754"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/yenHp4Ku/black#28"]
+[Solution "c6e7 d5f7"]
+[SolutionSAN "Ne7 Qf7#"]
+[FEN "r2qk2r/pppb2pp/1bn5/3Q1pN1/4pP2/1P2P2P/PBP3P1/RN2K2R b KQkq - 0 14"]
+[SetUp "1"]
+
+14... Ne7 15. Qf7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04F09"]
+[Difficulty "medium"]
+[Rating "1632"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/AdfVqwj1/black#30"]
+[Solution "b4c3 a1c1 c7b6 b2c3"]
+[SolutionSAN "Bxc3 Rc1 Qb6 Bxc3"]
+[FEN "r4rk1/ppq2ppp/4pn2/3p4/Pb3P2/2P1PB2/PB4PP/R2Q1RK1 b - - 0 15"]
+[SetUp "1"]
+
+15... Bxc3 16. Rc1 Qb6 17. Bxc3 *

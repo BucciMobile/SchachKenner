@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "038xL"]
+[Difficulty "easy"]
+[Rating "973"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/xmm4LKB8#41"]
+[Solution "c4d5 g5e3 g1h1 e3d4"]
+[SolutionSAN "cxd5 Bxe3+ Kh1 Bxd4"]
+[FEN "3rr3/1kp2Rpp/p1pq4/Q2p2b1/2PN2b1/3PP1P1/PP4BP/R5K1 w - - 1 21"]
+[SetUp "1"]
+
+21. cxd5 Bxe3+ 22. Kh1 Bxd4 *

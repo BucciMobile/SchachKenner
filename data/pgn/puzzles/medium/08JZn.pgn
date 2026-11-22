@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08JZn"]
+[Difficulty "medium"]
+[Rating "1511"]
+[Themes "crushing hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/LgMoKtPB#47"]
+[Solution "g3h5 g6h5 e3g3 f4g3"]
+[SolutionSAN "Nh5 gxh5 Rg3 fxg3"]
+[FEN "3r1rk1/pb1p2q1/4p1pp/2P5/1PB2p2/P1b1R1N1/Q4PPP/3R2K1 w - - 0 24"]
+[SetUp "1"]
+
+24. Nh5 gxh5 25. Rg3 fxg3 *

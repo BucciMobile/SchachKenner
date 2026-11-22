@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BV7I"]
+[Difficulty "medium"]
+[Rating "1623"]
+[Themes "discoveredCheck doubleCheck endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/slASlhFJ#79"]
+[Solution "c7f7 d3c2 d1c1 d8d1"]
+[SolutionSAN "Rxf7 Bc2+ Kc1 Rd1#"]
+[FEN "3r2k1/2R2p1p/1Q2p1p1/4P3/4pP2/B2b2P1/1P4rP/3K4 w - - 10 40"]
+[SetUp "1"]
+
+40. Rxf7 Bc2+ 41. Kc1 Rd1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hoh1"]
+[Difficulty "hard"]
+[Rating "2749"]
+[Themes "advantage endgame veryLong"]
+[GameUrl "https://lichess.org/game/svnMNzc9#63"]
+[Solution "f7d7 c3c2 g2g3 g5h5 h2h3 h5g5 g1h1 g5g3"]
+[SolutionSAN "Qxd7 Rc2 g3 Qh5 h3 Qg5 Kh1 Qxg3"]
+[FEN "5N1k/3b1Qp1/4p2p/1p1pP1q1/3Pp3/2r5/6PP/5RK1 w - - 8 32"]
+[SetUp "1"]
+
+32. Qxd7 Rc2 33. g3 Qh5 34. h3 Qg5 35. Kh1 Qxg3 *

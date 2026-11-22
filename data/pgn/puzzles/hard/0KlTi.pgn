@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KlTi"]
+[Difficulty "hard"]
+[Rating "1709"]
+[Themes "advantage endgame long pin sacrifice"]
+[GameUrl "https://lichess.org/game/j3GBUrzS#57"]
+[Solution "b7d5 e8e2 h2g1 e2f2 f1f2 h6e3"]
+[SolutionSAN "Bd5 Re2 Kg1 Rxf2 Qxf2 Be3"]
+[FEN "4r1k1/pB3p1p/6pb/8/P2p4/1P1P2PP/2q2P1K/3R1Q2 w - - 0 29"]
+[SetUp "1"]
+
+29. Bd5 Re2 30. Kg1 Rxf2 31. Qxf2 Be3 *

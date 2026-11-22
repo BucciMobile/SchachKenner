@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EzRX"]
+[Difficulty "easy"]
+[Rating "1094"]
+[Themes "advantage fork master opening short"]
+[GameUrl "https://lichess.org/game/J90AD22K#13"]
+[Solution "c3b5 d8a5 c2c3 a5b5"]
+[SolutionSAN "Nb5 Qa5+ c3 Qxb5"]
+[FEN "r1bqkb1r/pp2pp1p/2n2p2/2P5/3p4/2N2N2/PPP1PPPP/R2QKB1R w KQkq - 0 7"]
+[SetUp "1"]
+
+7. Nb5 Qa5+ 8. c3 Qxb5 *

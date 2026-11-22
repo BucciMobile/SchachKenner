@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HfAB"]
+[Difficulty "easy"]
+[Rating "856"]
+[Themes "advantage endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/J867qwid#61"]
+[Solution "f3e4 b5a3 d3d8 g8h7"]
+[SolutionSAN "fxe4 Nxa3 Rd8+ Kh7"]
+[FEN "6k1/p3rpp1/7p/1np1p3/2P1n3/BP1RPPP1/P6P/6K1 w - - 0 31"]
+[SetUp "1"]
+
+31. fxe4 Nxa3 32. Rd8+ Kh7 *

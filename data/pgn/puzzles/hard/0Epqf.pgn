@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Epqf"]
+[Difficulty "hard"]
+[Rating "2055"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/mQQd6qyn#109"]
+[Solution "b5b2 d2e3 c5b4 e3f3"]
+[SolutionSAN "Rb2+ Ke3 Kb4 Kf3"]
+[FEN "8/7p/7P/1RK5/2p3p1/3b2P1/3k4/8 w - - 3 55"]
+[SetUp "1"]
+
+55. Rb2+ Ke3 56. Kb4 Kf3 *

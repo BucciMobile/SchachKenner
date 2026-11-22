@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dwxm"]
+[Difficulty "easy"]
+[Rating "404"]
+[Themes "doubleBishopMate kingsideAttack mate mateIn2 opening short"]
+[GameUrl "https://lichess.org/game/i7IBYHli/black#20"]
+[Solution "d8d5 c4d5 c8e6 d5e6"]
+[SolutionSAN "Qxd5 Bxd5+ Be6 Bxe6#"]
+[FEN "r1bq1bkr/pp4pp/2n5/3Qp3/2Bp4/8/PPP2PPP/RNB2RK1 b - - 0 10"]
+[SetUp "1"]
+
+10... Qxd5 11. Bxd5+ Be6 12. Bxe6# *

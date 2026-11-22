@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KjfC"]
+[Difficulty "medium"]
+[Rating "1447"]
+[Themes "advantage endgame short skewer"]
+[GameUrl "https://lichess.org/game/LyXNL0Ga/black#86"]
+[Solution "d4d3 e5f5 d3c3 f5b1"]
+[SolutionSAN "Kd3 Qf5+ Kc3 Qxb1"]
+[FEN "8/8/8/1p1pQ3/2pk1P2/6PK/r6P/1q6 b - - 4 43"]
+[SetUp "1"]
+
+43... Kd3 44. Qf5+ Kc3 45. Qxb1 *

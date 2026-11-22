@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BRQO"]
+[Difficulty "medium"]
+[Rating "1325"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/43H2f3od#79"]
+[Solution "e5e7 h1h5"]
+[SolutionSAN "Re7 Qh5#"]
+[FEN "5r1k/p7/1p4pp/4R3/1P3PK1/P5P1/4Q1P1/7q w - - 0 40"]
+[SetUp "1"]
+
+40. Re7 Qh5# *

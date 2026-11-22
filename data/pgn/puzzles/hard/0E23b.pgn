@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E23b"]
+[Difficulty "hard"]
+[Rating "2249"]
+[Themes "advantage endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/EGSQ5Bmf/black#86"]
+[Solution "e6e7 g4h5 g6h5 e4f5"]
+[SolutionSAN "Ke7 gxh5 gxh5 Kf5"]
+[FEN "8/p7/1p1pk1p1/6pp/P1P1K1P1/2P2P1P/8/8 b - - 0 43"]
+[SetUp "1"]
+
+43... Ke7 44. gxh5 gxh5 45. Kf5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dl4g"]
+[Difficulty "hard"]
+[Rating "2776"]
+[Themes "crushing endgame quietMove sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/oUJ5LjbB/black#56"]
+[Solution "b2e2 d5f6 g6g5 f6h5 e2f1 h1h2 f1f4 h5f4"]
+[SolutionSAN "Qe2 Nf6 g5 Nh5 Qxf1+ Kh2 Qf4+ Nxf4"]
+[FEN "4r2k/1p3p1p/p5pQ/3N1b2/P1p5/2P4P/1q4P1/5R1K b - - 0 28"]
+[SetUp "1"]
+
+28... Qe2 29. Nf6 g5 30. Nh5 Qxf1+ 31. Kh2 Qf4+ 32. Nxf4 *

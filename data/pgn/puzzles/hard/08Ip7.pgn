@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Ip7"]
+[Difficulty "hard"]
+[Rating "2606"]
+[Themes "crushing endgame long quietMove rookEndgame zugzwang"]
+[GameUrl "https://lichess.org/game/ppxZM29O/black#76"]
+[Solution "d6d5 g4g5 d4d3 e3d3 d5c6 d3c4"]
+[SolutionSAN "Kd5 g5 Rxd3+ Kxd3 Kc6 Kc4"]
+[FEN "8/7p/1p1k2p1/2p2p2/P2r1PP1/1P1RK2P/8/8 b - - 1 38"]
+[SetUp "1"]
+
+38... Kd5 39. g5 Rxd3+ 40. Kxd3 Kc6 41. Kc4 *

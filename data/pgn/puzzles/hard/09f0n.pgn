@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09f0n"]
+[Difficulty "hard"]
+[Rating "2070"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/NuuLVmao/black#66"]
+[Solution "g7e5 b1b7 a8a7 b7a7"]
+[SolutionSAN "Be5 Rb7 Rxa7 Rxa7"]
+[FEN "r6k/P5bp/2p3p1/2P5/3P4/4P2K/8/1R6 b - - 2 33"]
+[SetUp "1"]
+
+33... Be5 34. Rb7 Rxa7 35. Rxa7 *

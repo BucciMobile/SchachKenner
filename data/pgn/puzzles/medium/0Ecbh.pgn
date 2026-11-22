@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ecbh"]
+[Difficulty "medium"]
+[Rating "1686"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/aNgk9PwS#43"]
+[Solution "d2d5 c6b6 g1h1 b7d5"]
+[SolutionSAN "Qd5 Qb6+ Kh1 Bxd5"]
+[FEN "2rr2k1/1b3pp1/p1qp3p/1p2pPb1/4P3/P1N5/BPPQR1PP/4R1K1 w - - 1 22"]
+[SetUp "1"]
+
+22. Qd5 Qb6+ 23. Kh1 Bxd5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A4K2"]
+[Difficulty "easy"]
+[Rating "1198"]
+[Themes "crushing middlegame pin short skewer"]
+[GameUrl "https://lichess.org/game/7bHVg6Kg#55"]
+[Solution "e2d2 h4d4 d2e2 d4d1"]
+[SolutionSAN "Kd2 Rxd4+ Ke2 Rxd1"]
+[FEN "r5k1/1p6/p1p1p1bq/1PPp1p2/P2P3r/2N1PB2/4K1P1/2RQ1R2 w - - 2 28"]
+[SetUp "1"]
+
+28. Kd2 Rxd4+ 29. Ke2 Rxd1 *

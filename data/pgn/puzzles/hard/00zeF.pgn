@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00zeF"]
+[Difficulty "hard"]
+[Rating "1789"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/ZFl1I0x7/black#40"]
+[Solution "c7b8 c1c8 b8a7 c8a8"]
+[SolutionSAN "Kb8 Rc8+ Ka7 Ra8#"]
+[FEN "5b1r/1pk3pp/pN2p3/8/4n1Pq/3r3P/PQ3P2/2R1K2R b K - 1 20"]
+[SetUp "1"]
+
+20... Kb8 21. Rc8+ Ka7 22. Ra8# *

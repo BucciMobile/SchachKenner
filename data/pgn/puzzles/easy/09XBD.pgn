@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09XBD"]
+[Difficulty "easy"]
+[Rating "804"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/pBDjN2la#27"]
+[Solution "d2d3 d4c2 e1d1 c2a1"]
+[SolutionSAN "d3 Nc2+ Kd1 Nxa1"]
+[FEN "2kr1b1r/ppp3pp/8/8/3n4/P1N5/1P1PPP1P/R1B1K2R w KQ - 0 14"]
+[SetUp "1"]
+
+14. d3 Nc2+ 15. Kd1 Nxa1 *

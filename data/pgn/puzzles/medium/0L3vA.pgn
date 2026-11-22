@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0L3vA"]
+[Difficulty "medium"]
+[Rating "1547"]
+[Themes "kingsideAttack long mate mateIn3 opening"]
+[GameUrl "https://lichess.org/game/sdarHQQJ#35"]
+[Solution "c1f4 h4f3 e1f3 e5f3 g1h1 h5h2"]
+[SolutionSAN "Bxf4 Nhf3+ Nxf3 Nxf3+ Kh1 Qxh2#"]
+[FEN "r1b1k2r/ppp3b1/3P3p/4n2q/4Pppn/2N3P1/PPQ2P1P/R1BRNBK1 w kq - 1 18"]
+[SetUp "1"]
+
+18. Bxf4 Nhf3+ 19. Nxf3 Nxf3+ 20. Kh1 Qxh2# *

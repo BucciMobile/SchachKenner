@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DGes"]
+[Difficulty "medium"]
+[Rating "1277"]
+[Themes "crushing endgame long queenRookEndgame quietMove"]
+[GameUrl "https://lichess.org/game/glZeWyt9#117"]
+[Solution "b2b4 h5h4 h2h3 f3h3 g2h2 h3f3"]
+[SolutionSAN "b4 h4 h3 Qxh3+ Rh2 Qf3+"]
+[FEN "8/1kp5/p7/7p/8/P4q2/1P4RP/6RK w - - 0 59"]
+[SetUp "1"]
+
+59. b4 h4 60. h3 Qxh3+ 61. Rh2 Qf3+ *

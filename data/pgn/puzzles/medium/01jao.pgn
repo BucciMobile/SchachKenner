@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01jao"]
+[Difficulty "medium"]
+[Rating "1314"]
+[Themes "deflection kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/SuiO7G4H#27"]
+[Solution "e2f1 d6h2 g1h1 g4f2"]
+[SolutionSAN "Bf1 Bh2+ Kh1 Nxf2#"]
+[FEN "2kr3r/ppp2ppp/2nbp3/6B1/P2P2n1/2N2N1q/1PP1BP2/R2QR1K1 w - - 2 14"]
+[SetUp "1"]
+
+14. Bf1 Bh2+ 15. Kh1 Nxf2# *

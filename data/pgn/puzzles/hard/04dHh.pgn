@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04dHh"]
+[Difficulty "hard"]
+[Rating "2393"]
+[Themes "attraction crushing discoveredCheck doubleCheck long middlegame pin sacrifice"]
+[GameUrl "https://lichess.org/game/dP8ECnjH/black#48"]
+[Solution "b7d5 e7e8 f8e8 c2e2 f6e4 d3b5"]
+[SolutionSAN "Bd5 Re8+ Kxe8 Qe2+ Ne4 Bxb5+"]
+[FEN "r4k2/pb2Rpp1/q2B1n1p/1p6/8/2PB4/P1Q2PPP/6K1 b - - 6 24"]
+[SetUp "1"]
+
+24... Bd5 25. Re8+ Kxe8 26. Qe2+ Ne4 27. Bxb5+ *

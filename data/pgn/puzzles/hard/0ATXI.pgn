@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ATXI"]
+[Difficulty "hard"]
+[Rating "1901"]
+[Themes "advantage endgame sacrifice skewer veryLong"]
+[GameUrl "https://lichess.org/game/RskFlOhX#49"]
+[Solution "f3d5 d6a6 d5d3 e8d8 d3a6 d8d1 f1e2 d1d2 e2f3 b7a6"]
+[SolutionSAN "Qxd5 Qa6+ Qd3 Rd8 Qxa6 Rxd1+ Ke2 Rd2+ Kf3 bxa6"]
+[FEN "4r1k1/pp3p2/3q2p1/b2p4/8/P3PQPp/1P3P1P/3R1K1R w - - 2 25"]
+[SetUp "1"]
+
+25. Qxd5 Qa6+ 26. Qd3 Rd8 27. Qxa6 Rxd1+ 28. Ke2 Rd2+ 29. Kf3 bxa6 *

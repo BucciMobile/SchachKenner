@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IKM9"]
+[Difficulty "easy"]
+[Rating "1120"]
+[Themes "deflection endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/uysvflHn#85"]
+[Solution "g2f1 e1f2 g1h1 f2f1"]
+[SolutionSAN "Bf1 Qf2+ Kh1 Qxf1#"]
+[FEN "8/3P2pk/2Q3p1/p6p/P2P1Pn1/2P3P1/6B1/4q1K1 w - - 7 43"]
+[SetUp "1"]
+
+43. Bf1 Qf2+ 44. Kh1 Qxf1# *

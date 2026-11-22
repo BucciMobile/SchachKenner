@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CYEp"]
+[Difficulty "medium"]
+[Rating "1694"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/FaT4uigt/black#36"]
+[Solution "e5f3 e2f3 c5c1 f3d3"]
+[SolutionSAN "Nf3+ Qxf3 Qxc1 Qxd3"]
+[FEN "5rk1/pp3ppp/4p3/2q1n3/4P3/1B1r4/PP2QP1P/2R2RK1 b - - 4 18"]
+[SetUp "1"]
+
+18... Nf3+ 19. Qxf3 Qxc1 20. Qxd3 *

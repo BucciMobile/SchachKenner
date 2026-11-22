@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04vgD"]
+[Difficulty "easy"]
+[Rating "1035"]
+[Themes "backRankMate endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/PgNKpStA#71"]
+[Solution "e3f4 a2a1 f4c1 a1c1 e6e1 c1e1"]
+[SolutionSAN "Bxf4 Ra1+ Bc1 Rxc1+ Re1 Rxe1#"]
+[FEN "3N4/6pk/2p1R2p/8/5n2/4B3/r5PP/7K w - - 2 36"]
+[SetUp "1"]
+
+36. Bxf4 Ra1+ 37. Bc1 Rxc1+ 38. Re1 Rxe1# *

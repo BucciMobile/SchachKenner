@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07LnK"]
+[Difficulty "hard"]
+[Rating "1770"]
+[Themes "crushing defensiveMove endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/6RUR37oX#103"]
+[Solution "b2c3 b3c3 a1a2 c3c2"]
+[SolutionSAN "bxc3 Kxc3 Ka2 Kc2"]
+[FEN "8/8/8/8/1p6/1kp5/1P6/K7 w - - 0 52"]
+[SetUp "1"]
+
+52. bxc3 Kxc3 53. Ka2 Kc2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F2i4"]
+[Difficulty "easy"]
+[Rating "523"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/7svwol4f/black#22"]
+[Solution "g6f5 d1h5"]
+[SolutionSAN "gxf5 Qh5#"]
+[FEN "rnb1kb1r/ppB1p2p/1np1Ppp1/3p1P2/3P4/2P4N/Pq4PP/RN1QKB1R b KQkq - 1 11"]
+[SetUp "1"]
+
+11... gxf5 12. Qh5# *

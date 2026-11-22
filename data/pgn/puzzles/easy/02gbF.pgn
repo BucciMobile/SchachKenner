@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02gbF"]
+[Difficulty "easy"]
+[Rating "962"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/JrCgKPrQ#65"]
+[Solution "g1g5 f8h6 f2f4 h6g5"]
+[SolutionSAN "Rxg5 Bh6 f4 Bxg5"]
+[FEN "2k2b1r/7p/p2p4/2pB2p1/3pP3/1P1P4/2PK1P2/6R1 w - - 0 33"]
+[SetUp "1"]
+
+33. Rxg5 Bh6 34. f4 Bxg5 *

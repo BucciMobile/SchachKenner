@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04hhS"]
+[Difficulty "medium"]
+[Rating "1614"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/7kdfBXdq#49"]
+[Solution "c5d6 f4f3 g2h2 g5d2"]
+[SolutionSAN "cxd6 f3+ Kh2 Qxd2"]
+[FEN "2r2rk1/B1pn2pp/3p2n1/1NP1p1q1/P4p2/3P2PP/3QPPK1/R4R2 w - - 1 25"]
+[SetUp "1"]
+
+25. cxd6 f3+ 26. Kh2 Qxd2 *

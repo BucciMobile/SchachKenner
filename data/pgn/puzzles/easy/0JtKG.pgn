@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JtKG"]
+[Difficulty "easy"]
+[Rating "573"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/OaIhwILs/black#36"]
+[Solution "d8d4 b5e8"]
+[SolutionSAN "Qd4 Qxe8#"]
+[FEN "r1bqr1k1/pp3ppp/4pb2/1Q6/4B3/B5P1/P3PP1P/1N3RK1 b - - 0 18"]
+[SetUp "1"]
+
+18... Qd4 19. Qxe8# *

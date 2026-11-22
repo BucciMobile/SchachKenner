@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HENq"]
+[Difficulty "hard"]
+[Rating "2400"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/fLbHIPgS#77"]
+[Solution "f3f4 e5e6 g4g5 e6d5 g5g6 h7h6"]
+[SolutionSAN "f4+ Ke6 g5 Kd5 g6 h6"]
+[FEN "8/6pp/8/p3kp2/P5PP/4KP2/8/8 w - - 0 39"]
+[SetUp "1"]
+
+39. f4+ Ke6 40. g5 Kd5 41. g6 h6 *

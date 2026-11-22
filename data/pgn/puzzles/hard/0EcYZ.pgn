@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EcYZ"]
+[Difficulty "hard"]
+[Rating "2034"]
+[Themes "crushing defensiveMove endgame long pawnEndgame quietMove zugzwang"]
+[GameUrl "https://lichess.org/game/T4dlaNBc/black#84"]
+[Solution "c7c5 c3c4 a7a6 a2a4 f5e6 f3e4"]
+[SolutionSAN "c5 c4 a6 a4 Ke6 Ke4"]
+[FEN "8/p1p3p1/1p4p1/5kPp/5P1P/2P2K2/PP6/8 b - - 4 42"]
+[SetUp "1"]
+
+42... c5 43. c4 a6 44. a4 Ke6 45. Ke4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "072FX"]
+[Difficulty "medium"]
+[Rating "1513"]
+[Themes "advantage defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/RXM9f7i1#77"]
+[Solution "e8e7 g5e7 d6e7 d7f6"]
+[SolutionSAN "Re7 Bxe7 dxe7 Nf6"]
+[FEN "4R3/pp1n1p2/3P2k1/6b1/1P6/P5K1/6P1/8 w - - 0 39"]
+[SetUp "1"]
+
+39. Re7 Bxe7 40. dxe7 Nf6 *

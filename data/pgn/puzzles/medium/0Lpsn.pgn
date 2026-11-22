@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lpsn"]
+[Difficulty "medium"]
+[Rating "1292"]
+[Themes "discoveredCheck doubleCheck epauletteMate mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/T5zvxUVi/black#16"]
+[Solution "g6f4 e4f6"]
+[SolutionSAN "Nxf4 Nf6#"]
+[FEN "r2qkbnr/ppp2ppp/6n1/5b2/4NB2/3P4/PPP1Q1PP/R3KBNR b KQkq - 4 8"]
+[SetUp "1"]
+
+8... Nxf4 9. Nf6# *

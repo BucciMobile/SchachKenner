@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ALUW"]
+[Difficulty "easy"]
+[Rating "1091"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+[GameUrl "https://lichess.org/game/qlIC64I0/black#36"]
+[Solution "e8c8 e4c6 b7c6 f1a6"]
+[SolutionSAN "O-O-O Qxc6+ bxc6 Ba6#"]
+[FEN "r3k2r/pp1nqpp1/2p1p3/8/1b1PQB1P/8/PPP5/2KR1B1R b kq - 0 18"]
+[SetUp "1"]
+
+18... O-O-O 19. Qxc6+ bxc6 20. Ba6# *

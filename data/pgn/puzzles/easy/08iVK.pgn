@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08iVK"]
+[Difficulty "easy"]
+[Rating "1196"]
+[Themes "advantage discoveredAttack endgame master short"]
+[GameUrl "https://lichess.org/game/dtlfIbte/black#70"]
+[Solution "e4g3 d1g4 d7d6 f1b1"]
+[SolutionSAN "Ng3 Bg4+ Kd6 Rxb1"]
+[FEN "5r2/2pk3p/p5pP/3Pp3/P3np2/2pK4/2P5/1r1B1RR1 b - - 1 35"]
+[SetUp "1"]
+
+35... Ng3 36. Bg4+ Kd6 37. Rxb1 *

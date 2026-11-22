@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JqLM"]
+[Difficulty "easy"]
+[Rating "959"]
+[Themes "advancedPawn mate mateIn1 middlegame oneMove pin"]
+[GameUrl "https://lichess.org/game/VaVjNCMn#65"]
+[Solution "e2c2 e3e2"]
+[SolutionSAN "Qc2 e2#"]
+[FEN "4r1k1/6P1/8/2P5/q4p1p/P1bPpP2/4Q3/1RBK3R w - - 1 33"]
+[SetUp "1"]
+
+33. Qc2 e2# *

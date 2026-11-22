@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LGvb"]
+[Difficulty "hard"]
+[Rating "2478"]
+[Themes "crushing endgame long master"]
+[GameUrl "https://lichess.org/game/iERaIEJV#91"]
+[Solution "g2f2 c4c5 f2g2 c5e3 d1f1 e3d2"]
+[SolutionSAN "Kf2 Qc5+ Kg2 Qe3 Qf1 Qd2"]
+[FEN "8/8/3p3p/3PkPp1/2q1pbP1/2p4P/2P1N1K1/3Q4 w - - 15 46"]
+[SetUp "1"]
+
+46. Kf2 Qc5+ 47. Kg2 Qe3 48. Qf1 Qd2 *

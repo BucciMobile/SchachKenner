@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06X4V"]
+[Difficulty "easy"]
+[Rating "801"]
+[Themes "advancedPawn crushing deflection endgame exposedKing knightEndgame long"]
+[GameUrl "https://lichess.org/game/GqqjBV55/black#106"]
+[Solution "d8e8 f6f7 e8e7 f5f6 e7e6 g7f8"]
+[SolutionSAN "Ke8 f7+ Ke7 f6+ Ke6 Kxf8"]
+[FEN "3k1n2/6K1/5P2/5P2/8/8/8/8 b - - 6 53"]
+[SetUp "1"]
+
+53... Ke8 54. f7+ Ke7 55. f6+ Ke6 56. Kxf8 *

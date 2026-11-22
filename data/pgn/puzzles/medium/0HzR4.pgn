@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HzR4"]
+[Difficulty "medium"]
+[Rating "1214"]
+[Themes "advancedPawn crushing endgame master short"]
+[GameUrl "https://lichess.org/game/hP23fNpg/black#90"]
+[Solution "b7a7 c5a7 d7a7 d6d7"]
+[SolutionSAN "Qa7 Qxa7 Rxa7 d7"]
+[FEN "8/1q1r1kp1/3Pp3/p1Q2p2/P3pP1p/7P/6PK/3R4 b - - 7 45"]
+[SetUp "1"]
+
+45... Qa7 46. Qxa7 Rxa7 47. d7 *

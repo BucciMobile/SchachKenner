@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "071Uj"]
+[Difficulty "hard"]
+[Rating "1931"]
+[Themes "collinearMove crushing endgame exposedKing long"]
+[GameUrl "https://lichess.org/game/etwKoZeE#37"]
+[Solution "a1d1 e7b4 e1f2 d8d2 d1d2 b4d2"]
+[SolutionSAN "Rd1 Qb4+ Kf2 Rd2+ Rxd2 Qxd2+"]
+[FEN "3r1rk1/Qp2qppp/8/4Pp2/5P2/6PP/PPP5/R3K2R w KQ - 1 19"]
+[SetUp "1"]
+
+19. Rd1 Qb4+ 20. Kf2 Rd2+ 21. Rxd2 Qxd2+ *

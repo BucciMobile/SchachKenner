@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Ack"]
+[Difficulty "easy"]
+[Rating "1048"]
+[Themes "mate mateIn2 opening short"]
+[GameUrl "https://lichess.org/game/IoxsFELU/black#28"]
+[Solution "e8f8 d1d8 f6e8 d8e8"]
+[SolutionSAN "Kf8 Rd8+ Ne8 Rxe8#"]
+[FEN "1rb1k2r/npN1ppb1/5npp/4p3/8/5N2/PPP2PPP/2KR1B1R b - - 1 14"]
+[SetUp "1"]
+
+14... Kf8 15. Rd8+ Ne8 16. Rxe8# *

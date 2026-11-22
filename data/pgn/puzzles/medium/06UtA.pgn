@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06UtA"]
+[Difficulty "medium"]
+[Rating "1634"]
+[Themes "advancedPawn crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/HONphEp5#79"]
+[Solution "f7f5 e4e3 f5f4 e3e2"]
+[SolutionSAN "Rxf5 e3 Rxf4 e2"]
+[FEN "4r3/5R2/2kp4/5p2/4pp2/5P1P/5P1K/8 w - - 0 40"]
+[SetUp "1"]
+
+40. Rxf5 e3 41. Rxf4 e2 *

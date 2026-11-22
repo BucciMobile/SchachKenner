@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IxHc"]
+[Difficulty "medium"]
+[Rating "1238"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/Gygn8FFS/black#76"]
+[Solution "a5b4 a3b4 c5c4 g6c6"]
+[SolutionSAN "axb4 axb4+ Kc4 Rc6#"]
+[FEN "8/8/6R1/ppkpr3/1P4P1/P1P4r/2K5/R7 b - - 0 38"]
+[SetUp "1"]
+
+38... axb4 39. axb4+ Kc4 40. Rc6# *

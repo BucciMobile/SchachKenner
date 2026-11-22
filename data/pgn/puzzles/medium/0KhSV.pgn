@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KhSV"]
+[Difficulty "medium"]
+[Rating "1505"]
+[Themes "advantage long middlegame pin"]
+[GameUrl "https://lichess.org/game/P3hcmoSO/black#28"]
+[Solution "b8c6 g2d5 e8c8 d5c6 d4b2 b1b2"]
+[SolutionSAN "Nc6 Bxd5 O-O-O Bxc6 Bxb2 Rxb2"]
+[FEN "rn2k2r/p1p2ppp/1p2p3/3p4/3b4/6P1/PBP1RPBP/1R4K1 b kq - 1 14"]
+[SetUp "1"]
+
+14... Nc6 15. Bxd5 O-O-O 16. Bxc6 Bxb2 17. Rxb2 *

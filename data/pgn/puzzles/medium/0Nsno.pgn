@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Nsno"]
+[Difficulty "medium"]
+[Rating "1626"]
+[Themes "crushing long middlegame queensideAttack sacrifice"]
+[GameUrl "https://lichess.org/game/5ol5AUzy/black#64"]
+[Solution "c8c7 c1c5 b6c5 b5b6 a7b6 a3a8"]
+[SolutionSAN "Rc7 Rxc5 bxc5 b6 axb6 Ra8+"]
+[FEN "1kr4r/p2b4/1p2p3/1Pbp4/4pPp1/R7/Q6P/2R4K b - - 1 32"]
+[SetUp "1"]
+
+32... Rc7 33. Rxc5 bxc5 34. b6 axb6 35. Ra8+ *

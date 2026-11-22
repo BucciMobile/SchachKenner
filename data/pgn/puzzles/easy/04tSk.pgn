@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04tSk"]
+[Difficulty "easy"]
+[Rating "806"]
+[Themes "endgame epauletteMate master mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/aZofPYkU#169"]
+[Solution "g6g7 a8a6"]
+[SolutionSAN "g7 Ra6#"]
+[FEN "r7/7R/6PK/5k1P/8/8/8/8 w - - 3 85"]
+[SetUp "1"]
+
+85. g7 Ra6# *

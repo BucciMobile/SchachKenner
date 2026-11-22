@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07NHb"]
+[Difficulty "hard"]
+[Rating "1778"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/rr9yCubV#39"]
+[Solution "e5c6 e8e4 c2e4 b8c6"]
+[SolutionSAN "Nxc6 Rxe4 Qxe4 Nxc6"]
+[FEN "rn1qr1k1/pp3p1p/2p2bpB/4N3/4R3/8/PPQ2PPP/4R1K1 w - - 5 20"]
+[SetUp "1"]
+
+20. Nxc6 Rxe4 21. Qxe4 Nxc6 *

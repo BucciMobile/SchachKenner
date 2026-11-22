@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00JsQ"]
+[Difficulty "hard"]
+[Rating "1987"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/5HP9frAd/black#28"]
+[Solution "d7c5 d2d8 e8f7 d8f8"]
+[SolutionSAN "Nxc5 Rd8+ Kf7 Rf8#"]
+[FEN "r1b1k1nr/pp1np2p/2q1Npp1/2P1p3/2B5/2N3B1/PPPR1PPP/2K4R b kq - 2 14"]
+[SetUp "1"]
+
+14... Nxc5 15. Rd8+ Kf7 16. Rf8# *

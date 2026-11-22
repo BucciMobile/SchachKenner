@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06zbS"]
+[Difficulty "easy"]
+[Rating "727"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/U7285HLi#59"]
+[Solution "c7c5 e5e1 g1h2 e1h1"]
+[SolutionSAN "Rc5 Re1+ Kh2 Rh1#"]
+[FEN "6k1/2R2p1p/8/3br3/1P1N1p1P/6P1/2P2P2/6K1 w - - 1 30"]
+[SetUp "1"]
+
+30. Rc5 Re1+ 31. Kh2 Rh1# *

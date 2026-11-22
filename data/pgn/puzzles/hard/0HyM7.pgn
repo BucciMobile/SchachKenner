@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HyM7"]
+[Difficulty "hard"]
+[Rating "2091"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/dsIyrHus#47"]
+[Solution "b7c7 f4f3 g2f3 d2e3 g1h1 e3f3"]
+[SolutionSAN "Rc7 f3 gxf3 Qe3+ Kh1 Qxf3+"]
+[FEN "2r2r1k/pR4pp/8/2Q5/3P1p2/2P5/P2q2PP/R5K1 w - - 1 24"]
+[SetUp "1"]
+
+24. Rc7 f3 25. gxf3 Qe3+ 26. Kh1 Qxf3+ *

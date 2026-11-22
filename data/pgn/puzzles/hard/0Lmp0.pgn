@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lmp0"]
+[Difficulty "hard"]
+[Rating "1833"]
+[Themes "crushing endgame quietMove rookEndgame skewer veryLong"]
+[GameUrl "https://lichess.org/game/kSE6GqHP#79"]
+[Solution "e5e6 d8e8 e6f6 e8e1 d5d6 e1e8 d3g3 g8f8"]
+[SolutionSAN "Ke6 Re8+ Kf6 Rxe1 d6 Re8 Rg3+ Kf8"]
+[FEN "3r2k1/7p/8/3PK3/1p3P1P/3R4/1r6/4R3 w - - 2 40"]
+[SetUp "1"]
+
+40. Ke6 Re8+ 41. Kf6 Rxe1 42. d6 Re8 43. Rg3+ Kf8 *

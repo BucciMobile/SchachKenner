@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G5Sr"]
+[Difficulty "medium"]
+[Rating "1487"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/SfgK5KKT/black#72"]
+[Solution "e6e2 c5f5"]
+[SolutionSAN "Rxe2 Qf5#"]
+[FEN "8/5pq1/4r1kp/1pQ3n1/6P1/P2R4/4PPK1/8 b - - 6 36"]
+[SetUp "1"]
+
+36... Rxe2 37. Qf5# *

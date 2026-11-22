@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03hmP"]
+[Difficulty "easy"]
+[Rating "599"]
+[Themes "crushing endgame master queenRookEndgame short skewer"]
+[GameUrl "https://lichess.org/game/EOJt62Ns#83"]
+[Solution "h2g2 b8b2 d2c3 b2g2"]
+[SolutionSAN "Qxg2 Rxb2+ Kc3 Rxg2"]
+[FEN "1r6/5pk1/6p1/6P1/4P3/3P2P1/PP1K2pQ/8 w - - 3 42"]
+[SetUp "1"]
+
+42. Qxg2 Rxb2+ 43. Kc3 Rxg2 *

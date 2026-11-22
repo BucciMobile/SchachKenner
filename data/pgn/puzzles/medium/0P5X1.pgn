@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0P5X1"]
+[Difficulty "medium"]
+[Rating "1594"]
+[Themes "clearance crushing long middlegame pin"]
+[GameUrl "https://lichess.org/game/FlcmCQIW#33"]
+[Solution "b1d2 g5g4 f3g4 e7h4 g3h4 h8h4"]
+[SolutionSAN "Nd2 g4 fxg4 Bh4 Qxh4 Rxh4"]
+[FEN "2kr3r/pppbbpp1/2p3q1/4P1p1/3P4/2P2PQ1/PP2BKP1/RNB2R2 w - - 3 17"]
+[SetUp "1"]
+
+17. Nd2 g4 18. fxg4 Bh4 19. Qxh4 Rxh4 *

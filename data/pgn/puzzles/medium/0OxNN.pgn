@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OxNN"]
+[Difficulty "medium"]
+[Rating "1279"]
+[Themes "crushing endgame master masterVsMaster rookEndgame short"]
+[GameUrl "https://lichess.org/game/In5YqWxL/black#152"]
+[Solution "d4b4 g7g5 c5c4 g5g4"]
+[SolutionSAN "Rb4 Rg5+ Kc4 Rg4+"]
+[FEN "8/1p4R1/p7/P1k5/3r4/K7/8/8 b - - 51 76"]
+[SetUp "1"]
+
+76... Rb4 77. Rg5+ Kc4 78. Rg4+ *

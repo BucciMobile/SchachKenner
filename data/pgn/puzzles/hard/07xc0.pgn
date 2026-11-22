@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07xc0"]
+[Difficulty "hard"]
+[Rating "2305"]
+[Themes "advancedPawn crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/77VzgRLK/black#100"]
+[Solution "a4a3 f2e3 f4e3 e6e7 g6f7 d6d7"]
+[SolutionSAN "a3 Bxe3 fxe3 e7 Kf7 Kd7"]
+[FEN "8/8/3KP1k1/7p/p4p1P/4n3/5B2/8 b - - 0 50"]
+[SetUp "1"]
+
+50... a3 51. Bxe3 fxe3 52. e7 Kf7 53. Kd7 *

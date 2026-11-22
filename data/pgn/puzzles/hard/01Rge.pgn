@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Rge"]
+[Difficulty "hard"]
+[Rating "2160"]
+[Themes "advantage attraction long middlegame pin"]
+[GameUrl "https://lichess.org/game/7DovSzOm#55"]
+[Solution "c2d2 f4d2 c1d2 d4c3 b2c3 f8h7"]
+[SolutionSAN "Qd2 Qxd2+ Kxd2 Bxc3+ bxc3 Nxh7"]
+[FEN "2r1rn1k/1p5B/p7/6R1/3b1q2/2B5/PPQ3P1/2K4R w - - 1 28"]
+[SetUp "1"]
+
+28. Qd2 Qxd2+ 29. Kxd2 Bxc3+ 30. bxc3 Nxh7 *

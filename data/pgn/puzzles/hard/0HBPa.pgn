@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HBPa"]
+[Difficulty "hard"]
+[Rating "1749"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/FTE3C92J#43"]
+[Solution "d6c7 d8d1 e1d1 e8e6 d1d8 e6e8"]
+[SolutionSAN "dxc7 Qxd1+ Rxd1 Rxe6 Rd8 Re8"]
+[FEN "r2qr3/2p3kp/3PQpp1/4p3/pp6/8/PPP2PPP/2KRR3 w - - 1 22"]
+[SetUp "1"]
+
+22. dxc7 Qxd1+ 23. Rxd1 Rxe6 24. Rd8 Re8 *

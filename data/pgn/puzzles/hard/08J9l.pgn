@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08J9l"]
+[Difficulty "hard"]
+[Rating "2469"]
+[Themes "crushing deflection endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/Xz3yILDi#115"]
+[Solution "d3c4 e2e4 c4c5 f2c2 c5d5 e4b4"]
+[SolutionSAN "Kc4 Re4+ Kc5 Rc2+ Kd5 Rxb4"]
+[FEN "8/1R6/8/k7/1R6/3K2P1/4rr2/8 w - - 4 58"]
+[SetUp "1"]
+
+58. Kc4 Re4+ 59. Kc5 Rc2+ 60. Kd5 Rxb4 *

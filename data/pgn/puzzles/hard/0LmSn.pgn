@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LmSn"]
+[Difficulty "hard"]
+[Rating "2099"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/HVhfmkl4/black#88"]
+[Solution "g6d3 e5e6 f7e6 c6e5 g4f5 e5d3"]
+[SolutionSAN "Bd3 e6 fxe6 Ne5+ Kf5 Nxd3"]
+[FEN "8/5p2/p1N3b1/3pP3/PP4kp/8/5K2/8 b - - 0 44"]
+[SetUp "1"]
+
+44... Bd3 45. e6 fxe6 46. Ne5+ Kf5 47. Nxd3 *

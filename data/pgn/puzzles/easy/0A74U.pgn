@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A74U"]
+[Difficulty "easy"]
+[Rating "803"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/Dw4vyeNT#67"]
+[Solution "f2g1 a8a1 e2e1 a1e1"]
+[SolutionSAN "Kg1 Qa1+ Re1 Qxe1+"]
+[FEN "q5k1/5pp1/5r1p/2p5/2P1P3/1P1Q2P1/4RK1P/8 w - - 5 34"]
+[SetUp "1"]
+
+34. Kg1 Qa1+ 35. Re1 Qxe1+ *

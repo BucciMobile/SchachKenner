@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OkpU"]
+[Difficulty "medium"]
+[Rating "1437"]
+[Themes "advantage middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/eRIBLBKW#19"]
+[Solution "a2a3 f6e4 c3e4 b4d2"]
+[SolutionSAN "a3 Ne4 Nxe4 Bxd2+"]
+[FEN "r2qk2r/1pp2pp1/p1n1pnp1/3p4/1b1P1B2/2N1PN2/PPPQ1PPP/2KR3R w kq - 2 10"]
+[SetUp "1"]
+
+10. a3 Ne4 11. Nxe4 Bxd2+ *

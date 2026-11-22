@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03qSg"]
+[Difficulty "medium"]
+[Rating "1619"]
+[Themes "advancedPawn crushing endgame promotion veryLong"]
+[GameUrl "https://lichess.org/game/rGGCJKXp/black#82"]
+[Solution "a6a5 h6h7 e2e1 g1h2 d6f7 a7f7 e6f7 h7h8q"]
+[SolutionSAN "a5 h7 Re1+ Kh2 Nf7 Rxf7 Kxf7 h8=Q"]
+[FEN "8/R7/pp1nk2P/2p1p3/P7/2P5/4r1P1/6K1 b - - 1 41"]
+[SetUp "1"]
+
+41... a5 42. h7 Re1+ 43. Kh2 Nf7 44. Rxf7 Kxf7 45. h8=Q *

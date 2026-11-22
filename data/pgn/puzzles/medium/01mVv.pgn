@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01mVv"]
+[Difficulty "medium"]
+[Rating "1576"]
+[Themes "advantage middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/1kDyJqxz/black#40"]
+[Solution "d4d7 c3e5 b8a7 e6d7"]
+[SolutionSAN "Qd7 Bxe5+ Ka7 Qxd7"]
+[FEN "1k1r2nr/1p5p/p3Qpb1/4n3/3q4/2BB4/PPP2PPP/R4RK1 b - - 1 20"]
+[SetUp "1"]
+
+20... Qd7 21. Bxe5+ Ka7 22. Qxd7 *

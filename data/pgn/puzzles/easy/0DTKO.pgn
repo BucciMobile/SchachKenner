@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DTKO"]
+[Difficulty "easy"]
+[Rating "701"]
+[Themes "killBoxMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/MalsXp29/black#66"]
+[Solution "f7f8 e1e8"]
+[SolutionSAN "Kf8 Re8#"]
+[FEN "8/p1q2kp1/2p2bQ1/2p2P2/2Pp3N/1Pn5/1r3P2/4R1K1 b - - 1 33"]
+[SetUp "1"]
+
+33... Kf8 34. Re8# *

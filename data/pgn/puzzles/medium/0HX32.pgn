@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HX32"]
+[Difficulty "medium"]
+[Rating "1436"]
+[Themes "attraction endgame mate mateIn4 sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/rNqGNhCp/black#62"]
+[Solution "a8c8 h5h7 h8h7 f3h3 e2h5 h3h5 h7g6 h5h6"]
+[SolutionSAN "Rac8 Qxh7+ Kxh7 Rh3+ Qh5 Rxh5+ Kg6 Rh6#"]
+[FEN "r5rk/p2p1p1p/1p2pP2/5pPQ/5P2/5R2/P3q2P/6K1 b - - 2 31"]
+[SetUp "1"]
+
+31... Rac8 32. Qxh7+ Kxh7 33. Rh3+ Qh5 34. Rxh5+ Kg6 35. Rh6# *

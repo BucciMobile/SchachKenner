@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AW2A"]
+[Difficulty "hard"]
+[Rating "2259"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/IC4Ky8ju/black#58"]
+[Solution "d2e2 f2e2 e5g6 h4e4"]
+[SolutionSAN "Rxe2+ Kxe2 Nxg6+ Re4"]
+[FEN "4r1k1/p5p1/5pP1/4nP2/2p4R/5P2/P2rBK2/7R b - - 3 29"]
+[SetUp "1"]
+
+29... Rxe2+ 30. Kxe2 Nxg6+ 31. Re4 *

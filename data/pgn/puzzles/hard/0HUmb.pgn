@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HUmb"]
+[Difficulty "hard"]
+[Rating "2162"]
+[Themes "advantage master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/GvKktwDG#93"]
+[Solution "d5b6 d7c7 b6d5 c7c1"]
+[SolutionSAN "Nxb6 Qc7 Nd5 Qc1+"]
+[FEN "5rrk/3q3p/1p1pn2P/1P1Np1b1/4P1B1/P7/Q4RR1/6K1 w - - 8 47"]
+[SetUp "1"]
+
+47. Nxb6 Qc7 48. Nd5 Qc1+ *

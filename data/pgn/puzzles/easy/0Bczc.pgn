@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bczc"]
+[Difficulty "easy"]
+[Rating "805"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/PzR6uIsH/black#32"]
+[Solution "b7b6 e2a6"]
+[SolutionSAN "b6 Ba6#"]
+[FEN "2kr3r/pp1n1ppp/2pB2n1/2P5/3P4/5P2/P3BP1P/2KR3R b - - 0 16"]
+[SetUp "1"]
+
+16... b6 17. Ba6# *

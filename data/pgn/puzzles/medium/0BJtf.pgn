@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BJtf"]
+[Difficulty "medium"]
+[Rating "1435"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/6I9hyrXI#81"]
+[Solution "f3f1 g8g2 f1g2 g1g2"]
+[SolutionSAN "Qf1 Rg2+ Qxg2 Qxg2+"]
+[FEN "1k4r1/1p3p2/3p1p2/p2P1P2/P1P2R1P/1P3Q2/1K5P/6q1 w - - 5 41"]
+[SetUp "1"]
+
+41. Qf1 Rg2+ 42. Qxg2 Qxg2+ *

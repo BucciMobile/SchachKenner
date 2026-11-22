@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Sdi"]
+[Difficulty "hard"]
+[Rating "2213"]
+[Themes "crushing long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/lNZ7WE95/black#64"]
+[Solution "h5f7 d5e5 g7g8 d6f5 d7f5 e5f5"]
+[SolutionSAN "Bf7 Qxe5+ Kg8 Nf5 Qxf5 Qxf5"]
+[FEN "r4r2/p1Pq2kp/1p1N4/3Qp2b/6pP/6P1/PP6/2R3K1 b - - 4 32"]
+[SetUp "1"]
+
+32... Bf7 33. Qxe5+ Kg8 34. Nf5 Qxf5 35. Qxf5 *

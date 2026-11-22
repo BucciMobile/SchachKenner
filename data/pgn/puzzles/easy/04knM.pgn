@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04knM"]
+[Difficulty "easy"]
+[Rating "1184"]
+[Themes "crushing endgame long skewer"]
+[GameUrl "https://lichess.org/game/Hav8Ldim/black#62"]
+[Solution "e6f5 e2e7 f7g6 e1g1 g6h6 g1g8"]
+[SolutionSAN "exf5 Re7+ Kg6 Rg1+ Kh6 Rxg8"]
+[FEN "5nr1/1p3k1p/pr2pp2/3p1P2/3P3P/2P2N1K/1P2R3/4R3 b - - 4 31"]
+[SetUp "1"]
+
+31... exf5 32. Re7+ Kg6 33. Rg1+ Kh6 34. Rxg8 *

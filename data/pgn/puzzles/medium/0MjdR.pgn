@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MjdR"]
+[Difficulty "medium"]
+[Rating "1577"]
+[Themes "attraction long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/pep8oy2c#77"]
+[Solution "g7c3 h2h1 g1h1 b4h4 h1g1 h4h2"]
+[SolutionSAN "Qxc3 Rh1+ Kxh1 Qh4+ Kg1 Qh2#"]
+[FEN "8/2R3Q1/bp2P3/1k1p1P2/1q6/2r1P1p1/3N2Pr/5RK1 w - - 3 39"]
+[SetUp "1"]
+
+39. Qxc3 Rh1+ 40. Kxh1 Qh4+ 41. Kg1 Qh2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0375g"]
+[Difficulty "easy"]
+[Rating "874"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/hjGcVenw/black#54"]
+[Solution "e6d7 d5d6 d7d6 d1d6"]
+[SolutionSAN "Qd7 Rxd6 Qxd6 Rxd6"]
+[FEN "3r2k1/p5p1/1p1rqp1p/2pRp3/P1P1P3/4Q2P/5PP1/3R2K1 b - - 0 27"]
+[SetUp "1"]
+
+27... Qd7 28. Rxd6 Qxd6 29. Rxd6 *

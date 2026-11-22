@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00kud"]
+[Difficulty "medium"]
+[Rating "1573"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/rRLLo0ej/black#64"]
+[Solution "d6e6 e3d4 e6e5 d4e5 e8e5 b2e5"]
+[SolutionSAN "Qxe6 Qd4 Qe5 Qxe5 Rxe5 Bxe5"]
+[FEN "r3r1k1/7p/p2qP1p1/1pRp1p2/8/1P2Q2P/PB3PP1/7K b - - 0 32"]
+[SetUp "1"]
+
+32... Qxe6 33. Qd4 Qe5 34. Qxe5 Rxe5 35. Bxe5 *

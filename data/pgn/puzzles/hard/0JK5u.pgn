@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JK5u"]
+[Difficulty "hard"]
+[Rating "1730"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/uyd92AN2/black#80"]
+[Solution "e7f6 c7d8"]
+[SolutionSAN "Kf6 Qd8#"]
+[FEN "8/2Q1kpp1/8/p3pPq1/2pp1nB1/Pr1P2K1/5P2/7R b - - 2 40"]
+[SetUp "1"]
+
+40... Kf6 41. Qd8# *

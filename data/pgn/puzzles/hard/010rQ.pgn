@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "010rQ"]
+[Difficulty "hard"]
+[Rating "2393"]
+[Themes "advantage long middlegame pin quietMove"]
+[GameUrl "https://lichess.org/game/vbymThWp/black#38"]
+[Solution "a5c4 d2f2 e6e5 d4e6 c5f2 g1f2"]
+[SolutionSAN "Nc4 Qf2 e5 Ne6 Qxf2+ Kxf2"]
+[FEN "r3kb1r/1p1b1p2/p2ppp1p/n1q2P1B/3NP3/2N3R1/P1PQ2PP/1R4K1 b kq - 0 19"]
+[SetUp "1"]
+
+19... Nc4 20. Qf2 e5 21. Ne6 Qxf2+ 22. Kxf2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CVCa"]
+[Difficulty "easy"]
+[Rating "970"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/MaAiiP4Z#53"]
+[Solution "d5e4 f6f1 a1f1 f8f1"]
+[SolutionSAN "Qe4 Qf1+ Rxf1 Rxf1#"]
+[FEN "r4r1k/p6p/5q2/3Q4/6P1/2P1n3/PP2R1PP/R5K1 w - - 1 27"]
+[SetUp "1"]
+
+27. Qe4 Qf1+ 28. Rxf1 Rxf1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ITYo"]
+[Difficulty "hard"]
+[Rating "2266"]
+[Themes "crushing endgame pawnEndgame veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/bgocy4YK#79"]
+[Solution "a2a4 b5a4 b3a4 c6d6 g3g4 h5g4 h4h5 d6e7 e4f4 c5c4"]
+[SolutionSAN "a4 bxa4 bxa4 Kd6 g4 hxg4 h5 Ke7 Kf4 c4"]
+[FEN "8/8/2k2p2/ppp2P1p/3pK2P/1P1P2P1/P7/8 w - - 0 40"]
+[SetUp "1"]
+
+40. a4 bxa4 41. bxa4 Kd6 42. g4 hxg4 43. h5 Ke7 44. Kf4 c4 *

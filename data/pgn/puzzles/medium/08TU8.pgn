@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08TU8"]
+[Difficulty "medium"]
+[Rating "1520"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/ouGRASn8/black#62"]
+[Solution "e4e7 d2h2 h8g8 d3c4 e7f7 c4f7"]
+[SolutionSAN "Qe7 Rh2+ Kg8 Bc4+ Qf7 Bxf7+"]
+[FEN "7k/ppp3p1/2np4/8/3Pq3/2PB4/PPKR4/8 b - - 5 31"]
+[SetUp "1"]
+
+31... Qe7 32. Rh2+ Kg8 33. Bc4+ Qf7 34. Bxf7+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AuI5"]
+[Difficulty "medium"]
+[Rating "1276"]
+[Themes "advancedPawn crushing endgame kingsideAttack short"]
+[GameUrl "https://lichess.org/game/IyicL3m4#47"]
+[Solution "g4d7 e3f2 g1f1 e8e1"]
+[SolutionSAN "Qd7 exf2+ Kf1 Re1+"]
+[FEN "4r1k1/1p5p/pq1p2p1/3P2N1/6Q1/4p3/PbP2PPP/1R4K1 w - - 0 24"]
+[SetUp "1"]
+
+24. Qd7 exf2+ 25. Kf1 Re1+ *

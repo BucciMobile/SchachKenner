@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LZdy"]
+[Difficulty "hard"]
+[Rating "2031"]
+[Themes "crushing discoveredAttack long middlegame"]
+[GameUrl "https://lichess.org/game/uN5p6kDc#59"]
+[Solution "g1f3 f6e4 d3e4 f8f3 g2f3 d4d2"]
+[SolutionSAN "Nf3 Nxe4+ dxe4 Rxf3+ Bxf3 Qxd2"]
+[FEN "5r2/1R4bk/1Np1bnpp/4p3/3qP3/3P2KP/3Q1PB1/6N1 w - - 1 30"]
+[SetUp "1"]
+
+30. Nf3 Nxe4+ 31. dxe4 Rxf3+ 32. Bxf3 Qxd2 *

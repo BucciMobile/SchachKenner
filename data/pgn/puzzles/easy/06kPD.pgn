@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06kPD"]
+[Difficulty "easy"]
+[Rating "668"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/AMvTZXGd#63"]
+[Solution "h3e3 e5h2"]
+[SolutionSAN "Qe3 Qxh2#"]
+[FEN "8/5p1k/p6p/4q3/4P3/P6Q/5r1P/6RK w - - 1 32"]
+[SetUp "1"]
+
+32. Qe3 Qxh2# *

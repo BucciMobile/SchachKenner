@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BngD"]
+[Difficulty "medium"]
+[Rating "1345"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/4WXfMADy/black#40"]
+[Solution "f4g3 d1g4 f7f5 g4g3 c7g3 f2g3"]
+[SolutionSAN "Bxg3 Qg4+ f5 Qxg3 Qxg3+ Bxg3"]
+[FEN "2krr3/ppq2pp1/6p1/1Pnp4/P4b2/3B2PP/2P2B2/R2Q1RK1 b - - 0 20"]
+[SetUp "1"]
+
+20... Bxg3 21. Qg4+ f5 22. Qxg3 Qxg3+ 23. Bxg3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Qs6"]
+[Difficulty "hard"]
+[Rating "1918"]
+[Themes "advancedPawn advantage defensiveMove endgame long promotion"]
+[GameUrl "https://lichess.org/game/PobTSlWC/black#86"]
+[Solution "e4e3 c6c7 b1d1 d6c6 h7h6 c7c8q"]
+[SolutionSAN "e3 c7 Rd1+ Kc6 h6 c8=Q+"]
+[FEN "6k1/1N3ppp/p1PK4/8/4p3/7P/8/1r6 b - - 0 43"]
+[SetUp "1"]
+
+43... e3 44. c7 Rd1+ 45. Kc6 h6 46. c8=Q+ *

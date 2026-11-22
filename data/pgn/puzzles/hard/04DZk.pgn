@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04DZk"]
+[Difficulty "hard"]
+[Rating "1944"]
+[Themes "crushing discoveredAttack discoveredCheck kingsideAttack long opening sacrifice"]
+[GameUrl "https://lichess.org/game/VbByWpEu#17"]
+[Solution "f3e5 d5g2 g1g2 c6e5 g2g1 e5c4"]
+[SolutionSAN "Ne5 Qxg2+ Kxg2 Nxe5+ Kg1 Nxc4"]
+[FEN "r3kb1r/pbp1p1pp/1pn2n2/3q1p2/2QP4/5NP1/PP2PPBP/RNB2RK1 w kq - 1 9"]
+[SetUp "1"]
+
+9. Ne5 Qxg2+ 10. Kxg2 Nxe5+ 11. Kg1 Nxc4 *

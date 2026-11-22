@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06LbM"]
+[Difficulty "easy"]
+[Rating "1078"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/vpn4PuM6/black#36"]
+[Solution "e7f6 d5f7"]
+[SolutionSAN "Bf6 Qf7#"]
+[FEN "r2qrk2/3nb1p1/p2p2P1/nppQ4/8/7P/PPP2P2/RNB1R1K1 b - - 0 18"]
+[SetUp "1"]
+
+18... Bf6 19. Qf7# *

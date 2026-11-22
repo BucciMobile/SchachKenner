@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "061ui"]
+[Difficulty "easy"]
+[Rating "1067"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/6ep3ZORb/black#72"]
+[Solution "b7b4 g4c8 g8f7 c8c7"]
+[SolutionSAN "Qxb4 Qc8+ Kf7 Qxc7+"]
+[FEN "6k1/1qn4p/3p2p1/3Pp3/1P2PpQ1/8/1B3PPP/6K1 b - - 1 36"]
+[SetUp "1"]
+
+36... Qxb4 37. Qc8+ Kf7 38. Qxc7+ *

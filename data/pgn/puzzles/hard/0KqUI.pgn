@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KqUI"]
+[Difficulty "hard"]
+[Rating "1728"]
+[Themes "advantage deflection long middlegame"]
+[GameUrl "https://lichess.org/game/gemPZteT#57"]
+[Solution "f2f3 e8e3 f3e3 g6g4 e3d2 g4d4"]
+[SolutionSAN "Kf3 Rxe3+ Kxe3 Qxg4 Kxd2 Qd4+"]
+[FEN "4r1k1/5ppp/p5q1/2R5/P5Q1/N3N1P1/1PPr1K2/R7 w - - 1 29"]
+[SetUp "1"]
+
+29. Kf3 Rxe3+ 30. Kxe3 Qxg4 31. Kxd2 Qd4+ *

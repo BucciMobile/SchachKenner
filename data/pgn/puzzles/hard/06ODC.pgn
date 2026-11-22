@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06ODC"]
+[Difficulty "hard"]
+[Rating "2028"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/UWYTI5V9/black#56"]
+[Solution "h5g4 d6f7 h8g8 f7g5"]
+[SolutionSAN "Bxg4 Ndf7+ Kg8 Nxg5"]
+[FEN "r6k/1p4rp/p1pNp3/2PnN1qb/1P1Pp1R1/4P3/3Q3P/4R2K b - - 0 28"]
+[SetUp "1"]
+
+28... Bxg4 29. Ndf7+ Kg8 30. Nxg5 *

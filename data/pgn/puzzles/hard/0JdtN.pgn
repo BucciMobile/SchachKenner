@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JdtN"]
+[Difficulty "hard"]
+[Rating "1989"]
+[Themes "crushing defensiveMove fork hangingPiece middlegame veryLong"]
+[GameUrl "https://lichess.org/game/DWNBhXKM/black#50"]
+[Solution "g8g4 e5h8 c8d7 f2f3 g4g2 g1g2 c6g6 g2f2 g6g3 f2e2 g3g2 e2e1"]
+[SolutionSAN "Rxg4 Qxh8+ Kd7 f3 Rxg2+ Kxg2 Qg6+ Kf2 Qg3+ Ke2 Qg2+ Ke1"]
+[FEN "2k3rr/1pp5/2q5/3pQ3/4b1Pp/2P1P3/P4PP1/2R2RK1 b - - 0 25"]
+[SetUp "1"]
+
+25... Rxg4 26. Qxh8+ Kd7 27. f3 Rxg2+ 28. Kxg2 Qg6+ 29. Kf2 Qg3+ 30. Ke2 Qg2+ 31. Ke1 *

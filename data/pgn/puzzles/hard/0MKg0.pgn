@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MKg0"]
+[Difficulty "hard"]
+[Rating "1729"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/sapx9F8N#51"]
+[Solution "g1f2 e2c3 d1d6 c3e4 f3e4 d8d6"]
+[SolutionSAN "Kf2 Nxc3 Rxd6 Nxe4+ fxe4 Rxd6"]
+[FEN "3r3k/1p4p1/p1nr3p/8/4B3/P1N2P2/1P2n1PP/3R1RK1 w - - 5 26"]
+[SetUp "1"]
+
+26. Kf2 Nxc3 27. Rxd6 Nxe4+ 28. fxe4 Rxd6 *

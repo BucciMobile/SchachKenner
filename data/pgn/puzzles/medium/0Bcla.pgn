@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bcla"]
+[Difficulty "medium"]
+[Rating "1682"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/TnlAyPRL#51"]
+[Solution "h2f3 h4f2 g1h2 f2g2"]
+[SolutionSAN "Nf3 Qf2+ Kh2 Qxg2#"]
+[FEN "6k1/pp3pp1/3p4/P2QB2p/5P1q/7P/P1r3PN/4R1K1 w - - 1 26"]
+[SetUp "1"]
+
+26. Nf3 Qf2+ 27. Kh2 Qxg2# *

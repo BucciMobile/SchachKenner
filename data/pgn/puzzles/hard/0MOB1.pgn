@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MOB1"]
+[Difficulty "hard"]
+[Rating "1826"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/TM57UPFk#81"]
+[Solution "f6f7 g4e6 f7g8q e6g8"]
+[SolutionSAN "f7 Qxe6 fxg8=Q Qxg8"]
+[FEN "1k2b1r1/2p5/4QP2/1P1p4/1P3Pq1/2P3Pp/7P/5RK1 w - - 7 41"]
+[SetUp "1"]
+
+41. f7 Qxe6 42. fxg8=Q Qxg8 *

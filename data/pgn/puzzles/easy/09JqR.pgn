@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09JqR"]
+[Difficulty "easy"]
+[Rating "973"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/Y96Pi3qM/black#110"]
+[Solution "d3a3 g4g6"]
+[SolutionSAN "Qxa3 Qg6#"]
+[FEN "8/8/2K4k/5P2/2P3Q1/P2q4/8/4r3 b - - 10 55"]
+[SetUp "1"]
+
+55... Qxa3 56. Qg6# *

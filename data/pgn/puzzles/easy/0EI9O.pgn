@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EI9O"]
+[Difficulty "easy"]
+[Rating "1111"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/noTQAAiV#81"]
+[Solution "d5c5 e5d4 g1g2 d4c5"]
+[SolutionSAN "Qdc5 Bd4+ Kg2 Bxc5"]
+[FEN "2Q2nrk/q5p1/3P3p/1p1Qb3/1P6/6P1/7P/2R3K1 w - - 0 41"]
+[SetUp "1"]
+
+41. Qdc5 Bd4+ 42. Kg2 Bxc5 *

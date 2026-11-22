@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EUEK"]
+[Difficulty "hard"]
+[Rating "1956"]
+[Themes "advancedPawn crushing deflection endgame fork long master"]
+[GameUrl "https://lichess.org/game/rlwCX4Jx#69"]
+[Solution "c1c2 b3c2 d3c2 a3a2 b1a2 c5c2"]
+[SolutionSAN "Rxc2 bxc2+ Qxc2 a2+ Kxa2 Qxc2"]
+[FEN "6k1/5pb1/6p1/2qp2P1/8/pp1QP3/1Pn2P2/1KRR4 w - - 0 35"]
+[SetUp "1"]
+
+35. Rxc2 bxc2+ 36. Qxc2 a2+ 37. Kxa2 Qxc2 *

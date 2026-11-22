@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04UHZ"]
+[Difficulty "medium"]
+[Rating "1523"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/vefs2m4v/black#94"]
+[Solution "h4h2 g2h2 g3h2 e2h2"]
+[SolutionSAN "Rxh2+ Rxh2+ Bxh2 Rxh2+"]
+[FEN "5r1k/6q1/3pQ3/p1pPp3/1p2Pp1r/1P1P1Pb1/P3R1RN/7K b - - 0 47"]
+[SetUp "1"]
+
+47... Rxh2+ 48. Rxh2+ Bxh2 49. Rxh2+ *

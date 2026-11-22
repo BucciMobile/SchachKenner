@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0O3gk"]
+[Difficulty "medium"]
+[Rating "1232"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/lR6Ddg5I/black#60"]
+[Solution "d3d4 h7h8"]
+[SolutionSAN "Rxd4 Rh8#"]
+[FEN "2r2k2/1R5R/p1p3p1/1p1p4/2PP4/3r4/P1K3PP/8 b - - 1 30"]
+[SetUp "1"]
+
+30... Rxd4 31. Rh8# *

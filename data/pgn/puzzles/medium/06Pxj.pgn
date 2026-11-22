@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Pxj"]
+[Difficulty "medium"]
+[Rating "1367"]
+[Themes "advantage deflection endgame short"]
+[GameUrl "https://lichess.org/game/wQNmAfqv#43"]
+[Solution "f3c6 e8e1 c1e1 a4c6"]
+[SolutionSAN "Qxc6 Re1+ Rxe1 Qxc6"]
+[FEN "4r1k1/p1p2ppp/2p5/8/q7/P4Q1P/1P3PP1/2R3K1 w - - 0 22"]
+[SetUp "1"]
+
+22. Qxc6 Re1+ 23. Rxe1 Qxc6 *

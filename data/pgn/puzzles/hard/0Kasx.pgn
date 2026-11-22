@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kasx"]
+[Difficulty "hard"]
+[Rating "1711"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/sn9ah9Pt/black#66"]
+[Solution "d3d2 g2g3 h4g4 f7e6"]
+[SolutionSAN "d2 g3+ Kg4 Be6#"]
+[FEN "3r4/4RBp1/2b2n2/1p4Np/1p3P1k/3p4/1P3KP1/8 b - - 3 33"]
+[SetUp "1"]
+
+33... d2 34. g3+ Kg4 35. Be6# *

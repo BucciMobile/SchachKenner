@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gupr"]
+[Difficulty "medium"]
+[Rating "1415"]
+[Themes "advantage defensiveMove long middlegame"]
+[GameUrl "https://lichess.org/game/BfsYLltt#39"]
+[Solution "b3b1 a1c3 d3c3 b4c3 b1b3 c3b4"]
+[SolutionSAN "Rb1 Qxc3 Qxc3 Bxc3 Rb3 Bb4"]
+[FEN "2kr3r/1p3pp1/2p1pn1p/p2p4/1b1P1BPP/1RNQPP2/2P1K3/q5NR w - - 0 20"]
+[SetUp "1"]
+
+20. Rb1 Qxc3 21. Qxc3 Bxc3 22. Rb3 Bb4 *

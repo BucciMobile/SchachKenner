@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "022pe"]
+[Difficulty "hard"]
+[Rating "2045"]
+[Themes "crushing endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/Phc12VkL/black#76"]
+[Solution "b4b3 h2h4 g4h3 f2f4"]
+[SolutionSAN "b3 h4+ gxh3 f4+"]
+[FEN "8/8/1R6/5rkp/1p4p1/6P1/1r3P1P/5RK1 b - - 1 38"]
+[SetUp "1"]
+
+38... b3 39. h4+ gxh3 40. f4+ *

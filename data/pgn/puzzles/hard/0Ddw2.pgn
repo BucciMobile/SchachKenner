@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ddw2"]
+[Difficulty "hard"]
+[Rating "2350"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/pz0UZUmu/black#70"]
+[Solution "e7c7 f2d4 g5f5 f1f5"]
+[SolutionSAN "Rc7 Qd4 Qxf5 Rxf5"]
+[FEN "6k1/4rp1p/p2p2n1/5Nq1/8/2P5/5Q1P/5R1K b - - 1 35"]
+[SetUp "1"]
+
+35... Rc7 36. Qd4 Qxf5 37. Rxf5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05zrE"]
+[Difficulty "medium"]
+[Rating "1644"]
+[Themes "crushing discoveredCheck doubleCheck interference master middlegame short"]
+[GameUrl "https://lichess.org/game/ILbq2dAJ/black#62"]
+[Solution "c4a3 g5e6 g7h8 h3f5"]
+[SolutionSAN "Nxa3 Ne6+ Kh8 Bxf5"]
+[FEN "2r1r3/1p1q1pk1/p4n2/P2ppbN1/2n5/B1P1P2B/1P2Q3/R4KR1 b - - 1 31"]
+[SetUp "1"]
+
+31... Nxa3 32. Ne6+ Kh8 33. Bxf5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IEP3"]
+[Difficulty "hard"]
+[Rating "2333"]
+[Themes "advantage middlegame queensideAttack veryLong"]
+[GameUrl "https://lichess.org/game/WRTBuYJw/black#58"]
+[Solution "c3d3 e7e8 h8e8 e1e8 c8d7 d5d3 c5d3 e8b8"]
+[SolutionSAN "Qd3 Re8+ Rxe8 Rxe8+ Kd7 Qxd3 Nxd3 Rxb8"]
+[FEN "1nk4r/p1p1R2p/1p1p4/2nQ1p2/P1P5/2q5/6PP/4R1K1 b - - 1 29"]
+[SetUp "1"]
+
+29... Qd3 30. Re8+ Rxe8 31. Rxe8+ Kd7 32. Qxd3 Nxd3 33. Rxb8 *

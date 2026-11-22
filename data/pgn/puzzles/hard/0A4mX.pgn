@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A4mX"]
+[Difficulty "hard"]
+[Rating "2017"]
+[Themes "crushing deflection endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/EgDCJ7qJ#75"]
+[Solution "a3a4 c5c4 b3c4 b5a4"]
+[SolutionSAN "a4 c4 bxc4 bxa4"]
+[FEN "8/8/5k2/1ppp1p1p/5K1P/PPP3P1/8/8 w - - 0 38"]
+[SetUp "1"]
+
+38. a4 c4 39. bxc4 bxa4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08CEA"]
+[Difficulty "easy"]
+[Rating "924"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/w1AkMw8E#85"]
+[Solution "g2f1 f4f1"]
+[SolutionSAN "Bxf1 Qxf1#"]
+[FEN "8/5p1k/6p1/4P3/5q2/2Q3pP/6B1/5r1K w - - 5 43"]
+[SetUp "1"]
+
+43. Bxf1 Qxf1# *

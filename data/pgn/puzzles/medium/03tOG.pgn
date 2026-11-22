@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03tOG"]
+[Difficulty "medium"]
+[Rating "1442"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/5jykGIoK#63"]
+[Solution "e6e7 h6h2 h1h2 f5h5"]
+[SolutionSAN "e7 Qxh2+ Kxh2 Rh5#"]
+[FEN "3r2k1/1p5p/1b2P1pq/pP1P1r2/P7/3Q2P1/6PN/R3R2K w - - 1 32"]
+[SetUp "1"]
+
+32. e7 Qxh2+ 33. Kxh2 Rh5# *

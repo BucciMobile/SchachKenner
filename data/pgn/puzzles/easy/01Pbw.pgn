@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Pbw"]
+[Difficulty "easy"]
+[Rating "717"]
+[Themes "backRankMate endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/ishxOTLS#51"]
+[Solution "b1b2 d3d1"]
+[SolutionSAN "Rxb2 Rd1#"]
+[FEN "6k1/ppp2pp1/7p/8/2R5/2Pr4/Pr4PP/1R5K w - - 0 26"]
+[SetUp "1"]
+
+26. Rxb2 Rd1# *

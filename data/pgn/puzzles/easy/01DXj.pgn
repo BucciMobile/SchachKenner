@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01DXj"]
+[Difficulty "easy"]
+[Rating "815"]
+[Themes "advantage endgame master short skewer"]
+[GameUrl "https://lichess.org/game/kyzVQnHB/black#78"]
+[Solution "d4g1 b7g7 g4f5 g7g1"]
+[SolutionSAN "Bg1 Rg7+ Kf5 Rxg1"]
+[FEN "8/pR6/8/P7/2Pb1rk1/1P1K4/8/8 b - - 0 39"]
+[SetUp "1"]
+
+39... Bg1 40. Rg7+ Kf5 41. Rxg1 *

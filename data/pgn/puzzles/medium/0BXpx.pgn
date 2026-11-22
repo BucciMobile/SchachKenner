@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BXpx"]
+[Difficulty "medium"]
+[Rating "1440"]
+[Themes "advantage fork opening short"]
+[GameUrl "https://lichess.org/game/w1bZV1Fx#17"]
+[Solution "f3d4 d8a5 c2c3 a5d5"]
+[SolutionSAN "Nxd4 Qa5+ c3 Qxd5"]
+[FEN "r1bqkb1r/1p1p1ppp/p1n5/3BP3/3p4/5N2/PPP2PPP/R1BQK2R w KQkq - 0 9"]
+[SetUp "1"]
+
+9. Nxd4 Qa5+ 10. c3 Qxd5 *

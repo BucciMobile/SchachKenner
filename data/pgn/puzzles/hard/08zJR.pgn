@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08zJR"]
+[Difficulty "hard"]
+[Rating "2075"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/GtDT0D0R/black#60"]
+[Solution "h7h6 d2f4 a8f8 e7f7 h4h3 g5h3"]
+[SolutionSAN "h6 Qf4 Rf8 Rxf7 Qh3+ Nxh3"]
+[FEN "r5k1/1p2Rp1p/p5p1/3p2N1/2p3Pq/2P5/PP1Q1P2/5K1b b - - 1 30"]
+[SetUp "1"]
+
+30... h6 31. Qf4 Rf8 32. Rxf7 Qh3+ 33. Nxh3 *

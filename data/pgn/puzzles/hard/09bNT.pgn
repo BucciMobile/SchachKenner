@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09bNT"]
+[Difficulty "hard"]
+[Rating "2505"]
+[Themes "advantage attraction deflection endgame pin veryLong"]
+[GameUrl "https://lichess.org/game/dcuCfBg2#81"]
+[Solution "g3g4 h6h5 h3g3 h5g4 f3g4 d2g2 g3g2 d7g4"]
+[SolutionSAN "g4 h5 Kg3 hxg4 Qxg4 Rg2+ Kxg2 Qxg4+"]
+[FEN "6k1/p2q2p1/1p5p/8/4RP2/1P3QPK/P2r3P/8 w - - 5 41"]
+[SetUp "1"]
+
+41. g4 h5 42. Kg3 hxg4 43. Qxg4 Rg2+ 44. Kxg2 Qxg4+ *

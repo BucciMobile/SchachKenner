@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NmnR"]
+[Difficulty "medium"]
+[Rating "1347"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/QzyttbfN#63"]
+[Solution "g4f5 g7h6 b3g8 d8g8"]
+[SolutionSAN "gxf5 Bxh6 Bxg8 Rxg8"]
+[FEN "2qr2rk/4R1b1/2p2nQB/p1P2n2/Pp4P1/1B5P/1P3P2/4R1K1 w - - 1 32"]
+[SetUp "1"]
+
+32. gxf5 Bxh6 33. Bxg8 Rxg8 *

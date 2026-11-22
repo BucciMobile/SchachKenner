@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05375"]
+[Difficulty "medium"]
+[Rating "1547"]
+[Themes "advantage deflection endgame short"]
+[GameUrl "https://lichess.org/game/0DMopPJF/black#74"]
+[Solution "c6b5 a3a4 b5a4 g6b6"]
+[SolutionSAN "Kb5 a4+ Kxa4 Rxb6"]
+[FEN "r7/8/pbk3RB/8/2b5/P7/5PPP/6K1 b - - 0 37"]
+[SetUp "1"]
+
+37... Kb5 38. a4+ Kxa4 39. Rxb6 *

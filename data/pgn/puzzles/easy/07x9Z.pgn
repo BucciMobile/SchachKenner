@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07x9Z"]
+[Difficulty "easy"]
+[Rating "1198"]
+[Themes "attraction mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/AbEDoxiZ/black#40"]
+[Solution "h8f8 f1f8 e8f8 d3d8"]
+[SolutionSAN "Rxf8 Rxf8+ Kxf8 Qxd8#"]
+[FEN "3rkR1r/pp2n1p1/2p4p/4q3/4P1b1/1BNQ4/PPP3PP/5R1K b - - 9 20"]
+[SetUp "1"]
+
+20... Rxf8 21. Rxf8+ Kxf8 22. Qxd8# *

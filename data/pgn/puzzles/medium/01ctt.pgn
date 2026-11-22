@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01ctt"]
+[Difficulty "medium"]
+[Rating "1569"]
+[Themes "crushing endgame long trappedPiece"]
+[GameUrl "https://lichess.org/game/PpkgBgMQ/black#46"]
+[Solution "e5g6 f4d6 e7d6 g2g4 g6f4 g4h5"]
+[SolutionSAN "Ng6 Bxd6+ Kxd6 g4 Nf4 gxh5"]
+[FEN "8/ppp1kpp1/3b3p/3pn2b/3P1B2/2P4P/PPBN1PP1/5K2 b - - 0 23"]
+[SetUp "1"]
+
+23... Ng6 24. Bxd6+ Kxd6 25. g4 Nf4 26. gxh5 *

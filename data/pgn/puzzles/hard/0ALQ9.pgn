@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ALQ9"]
+[Difficulty "hard"]
+[Rating "2156"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/xGnJkyhs#65"]
+[Solution "a1c1 f7e6 c4c6 d7d6"]
+[SolutionSAN "Rac1 Ke6 Rc6+ R7d6"]
+[FEN "8/p2r1kpp/8/3rp3/1PR1KpP1/1P3P1P/8/R7 w - - 4 33"]
+[SetUp "1"]
+
+33. Rac1 Ke6 34. Rc6+ R7d6 *

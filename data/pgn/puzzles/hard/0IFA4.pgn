@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IFA4"]
+[Difficulty "hard"]
+[Rating "1731"]
+[Themes "advancedPawn crushing endgame long"]
+[GameUrl "https://lichess.org/game/YK2KlUi6/black#72"]
+[Solution "b4b7 d7b7 e7b7 e6e7 b7e7 e1e7"]
+[SolutionSAN "Rb7 Rxb7 Rxb7 e7 Rxe7 Rxe7"]
+[FEN "6k1/3Rr1b1/4P2p/5P2/1r6/1p4P1/1P3K1P/4R3 b - - 1 36"]
+[SetUp "1"]
+
+36... Rb7 37. Rxb7 Rxb7 38. e7 Rxe7 39. Rxe7 *

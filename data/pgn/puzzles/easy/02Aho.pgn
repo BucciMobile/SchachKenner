@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Aho"]
+[Difficulty "easy"]
+[Rating "969"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/4Gn1PjYA/black#72"]
+[Solution "g8h8 e7e8 h8g7 e8g8"]
+[SolutionSAN "Kh8 Re8+ Kg7 Rg8#"]
+[FEN "6k1/4R2p/1q1p2p1/1pnBP1P1/1p2P2P/6K1/2r5/1R6 b - - 0 36"]
+[SetUp "1"]
+
+36... Kh8 37. Re8+ Kg7 38. Rg8# *

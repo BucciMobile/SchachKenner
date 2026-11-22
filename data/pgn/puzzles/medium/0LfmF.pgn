@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LfmF"]
+[Difficulty "medium"]
+[Rating "1640"]
+[Themes "attraction long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/8FlqvNQm/black#42"]
+[Solution "e7f8 h8g8 f8g8 h2h7 g8f8 h7h8"]
+[SolutionSAN "Kf8 Rxg8+ Kxg8 Qh7+ Kf8 Qh8#"]
+[FEN "r1bqr1nR/p3kpp1/2p5/1p1p1B2/3P1Nn1/8/PPP2PPQ/2K1R3 b - - 3 21"]
+[SetUp "1"]
+
+21... Kf8 22. Rxg8+ Kxg8 23. Qh7+ Kf8 24. Qh8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Ouj"]
+[Difficulty "hard"]
+[Rating "1717"]
+[Themes "attraction endgame mate mateIn4 sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/TNlpQILm/black#58"]
+[Solution "g5e3 c2c8 g8h7 c8h8 h7h8 f1f8 h8h7 f8g7"]
+[SolutionSAN "Qe3 Rc8+ Kh7 Rh8+ Kxh8 Qf8+ Kh7 Qxg7#"]
+[FEN "6k1/pp4p1/4p1p1/3p2q1/1P4r1/P7/1BR4P/5Q1K b - - 3 29"]
+[SetUp "1"]
+
+29... Qe3 30. Rc8+ Kh7 31. Rh8+ Kxh8 32. Qf8+ Kh7 33. Qxg7# *

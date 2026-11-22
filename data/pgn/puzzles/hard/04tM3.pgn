@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04tM3"]
+[Difficulty "hard"]
+[Rating "1704"]
+[Themes "advantage intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/R5Wzo2Iw/black#54"]
+[Solution "b8e5 c5c8 a8c8 d4e5"]
+[SolutionSAN "Qxe5 Rxc8+ Rxc8 dxe5"]
+[FEN "rqr3k1/3n1ppp/N7/2R1Q3/3P4/P7/1P3PPP/4R1K1 b - - 8 27"]
+[SetUp "1"]
+
+27... Qxe5 28. Rxc8+ Rxc8 29. dxe5 *

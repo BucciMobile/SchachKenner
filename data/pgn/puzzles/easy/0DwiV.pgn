@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DwiV"]
+[Difficulty "easy"]
+[Rating "1119"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/TfXTSWTe#73"]
+[Solution "g1h1 d4h4 h1g1 h4e7"]
+[SolutionSAN "Kh1 Qh4+ Kg1 Qxe7"]
+[FEN "6rk/4R3/p6p/1P3p2/3q4/P4P2/1PP3P1/5QK1 w - - 0 37"]
+[SetUp "1"]
+
+37. Kh1 Qh4+ 38. Kg1 Qxe7 *

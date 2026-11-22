@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05r9M"]
+[Difficulty "easy"]
+[Rating "1018"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/g5eF0LMo/black#70"]
+[Solution "d6c5 h4e7"]
+[SolutionSAN "Kc5 Be7#"]
+[FEN "8/6bp/1ppkb3/p4p2/P1PnpP1B/1P2N2P/3N1KP1/8 b - - 7 35"]
+[SetUp "1"]
+
+35... Kc5 36. Be7# *

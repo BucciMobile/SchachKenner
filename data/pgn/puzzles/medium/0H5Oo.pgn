@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H5Oo"]
+[Difficulty "medium"]
+[Rating "1650"]
+[Themes "advantage defensiveMove long middlegame trappedPiece"]
+[GameUrl "https://lichess.org/game/gx6mMA11/black#34"]
+[Solution "e6d5 d1a1 d7f5 c2c3 a2a1 b3a1"]
+[SolutionSAN "exd5 Ra1 Bf5+ Kc3 Qxa1 Nxa1"]
+[FEN "rn5k/p2b1pp1/1p2p3/3B4/5B2/1N2P3/qPK2PPP/3R2NR b - - 0 17"]
+[SetUp "1"]
+
+17... exd5 18. Ra1 Bf5+ 19. Kc3 Qxa1 20. Nxa1 *

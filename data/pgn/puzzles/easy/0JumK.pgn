@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JumK"]
+[Difficulty "easy"]
+[Rating "1135"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/hhqVQ91c#101"]
+[Solution "g8c8 g7a1"]
+[SolutionSAN "Qc8 Qa1#"]
+[FEN "6Q1/5pq1/4p1k1/6pp/1B6/KP6/8/8 w - - 4 51"]
+[SetUp "1"]
+
+51. Qc8 Qa1# *

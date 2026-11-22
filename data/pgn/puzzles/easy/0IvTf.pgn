@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IvTf"]
+[Difficulty "easy"]
+[Rating "1033"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/KxXFtkor/black#72"]
+[Solution "a7a6 c4c5 b6c5 b4c5 d6e6 d5e6"]
+[SolutionSAN "a6 c5 bxc5 bxc5 Rxe6+ dxe6"]
+[FEN "8/p7/1p1rBk2/3P3p/PPP3pP/8/4K1P1/8 b - - 2 36"]
+[SetUp "1"]
+
+36... a6 37. c5 bxc5 38. bxc5 Rxe6+ 39. dxe6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kdkm"]
+[Difficulty "medium"]
+[Rating "1604"]
+[Themes "crushing endgame long queenEndgame skewer"]
+[GameUrl "https://lichess.org/game/9Yt0F96b#105"]
+[Solution "e3f3 c1f1 f3e3 f1e1 e3d4 e1e8"]
+[SolutionSAN "Kf3 Qf1+ Ke3 Qe1+ Kd4 Qxe8"]
+[FEN "4Q3/5pk1/2P3p1/5p1p/5P1P/4K1P1/8/2q5 w - - 1 53"]
+[SetUp "1"]
+
+53. Kf3 Qf1+ 54. Ke3 Qe1+ 55. Kd4 Qxe8 *

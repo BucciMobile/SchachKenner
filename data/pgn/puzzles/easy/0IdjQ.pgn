@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IdjQ"]
+[Difficulty "easy"]
+[Rating "844"]
+[Themes "crushing endgame master masterVsMaster queenEndgame short"]
+[GameUrl "https://lichess.org/game/zdFvT0lJ#81"]
+[Solution "c8d7 d6d7 c6d7 f7e7"]
+[SolutionSAN "Qd7+ Qxd7 cxd7 Ke7"]
+[FEN "2Q5/5k2/p1Pqpp1p/1p4pP/8/P3P3/1P4P1/6K1 w - - 3 41"]
+[SetUp "1"]
+
+41. Qd7+ Qxd7 42. cxd7 Ke7 *

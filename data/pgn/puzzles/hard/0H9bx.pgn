@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H9bx"]
+[Difficulty "hard"]
+[Rating "1724"]
+[Themes "clearance crushing deflection endgame veryLong"]
+[GameUrl "https://lichess.org/game/qPCaULNw/black#48"]
+[Solution "d8d7 e3e4 d4f6 d2h6 f6g7 e4e8 f8e8 h6g7"]
+[SolutionSAN "Rd7 Re4 Qf6 Qh6+ Qg7 Re8+ Kxe8 Qxg7"]
+[FEN "3r1k2/pp3p1p/2p3p1/8/3q4/1P1PR2P/P2Q1PP1/6K1 b - - 2 24"]
+[SetUp "1"]
+
+24... Rd7 25. Re4 Qf6 26. Qh6+ Qg7 27. Re8+ Kxe8 28. Qxg7 *

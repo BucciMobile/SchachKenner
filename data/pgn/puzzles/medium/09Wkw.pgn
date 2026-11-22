@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Wkw"]
+[Difficulty "medium"]
+[Rating "1418"]
+[Themes "attraction crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/nNcwPMbk#49"]
+[Solution "f1f2 e2f2 g2f2 g5h3 f2g2 h3f4"]
+[SolutionSAN "Rf2 Rxf2+ Kxf2 Nh3+ Kg2 Nxf4+"]
+[FEN "6k1/ppp3pp/2qp4/6n1/5Q2/2P2PP1/PP2r1KP/R4R2 w - - 6 25"]
+[SetUp "1"]
+
+25. Rf2 Rxf2+ 26. Kxf2 Nh3+ 27. Kg2 Nxf4+ *

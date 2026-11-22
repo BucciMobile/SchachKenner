@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DyNg"]
+[Difficulty "easy"]
+[Rating "399"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+[GameUrl "https://lichess.org/game/qwhQ99hR#45"]
+[Solution "a1f1 f8f1"]
+[SolutionSAN "Rxf1 Rxf1#"]
+[FEN "r4r1k/pp4pp/2p1Q3/3p4/8/8/PP4PP/R4q1K w - - 0 23"]
+[SetUp "1"]
+
+23. Rxf1 Rxf1# *

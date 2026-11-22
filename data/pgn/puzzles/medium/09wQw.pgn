@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09wQw"]
+[Difficulty "medium"]
+[Rating "1470"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/bKFZCGfC#43"]
+[Solution "c3d4 d6b4 e1e2 d8d5"]
+[SolutionSAN "cxd4 Bb4+ Ke2 Rxd5"]
+[FEN "3rr1k1/p4p1p/3b1qp1/3Q4/2Bp2PP/1PP1P3/P4P2/R3K2R w KQ - 0 22"]
+[SetUp "1"]
+
+22. cxd4 Bb4+ 23. Ke2 Rxd5 *

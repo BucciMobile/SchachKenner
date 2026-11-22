@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HjbR"]
+[Difficulty "hard"]
+[Rating "2114"]
+[Themes "clearance crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/gNBc4gpY#95"]
+[Solution "h3h4 g4g3 e2g2 f4g4 h4h5 e6e5"]
+[SolutionSAN "h4 g3 Rg2 Rg4 h5 Kxe5"]
+[FEN "8/8/4k3/2K1P3/5rp1/7P/4R3/8 w - - 0 48"]
+[SetUp "1"]
+
+48. h4 g3 49. Rg2 Rg4 50. h5 Kxe5 *

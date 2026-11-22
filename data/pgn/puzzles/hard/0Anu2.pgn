@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Anu2"]
+[Difficulty "hard"]
+[Rating "2449"]
+[Themes "crushing fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/vhxkdyJ3/black#48"]
+[Solution "f1d3 e5g7 f8e7 g7e5 e7d7 a4c5 d7c8 c5d3"]
+[SolutionSAN "Qxd3 Qxg7+ Ke7 Qe5+ Kd7 Nc5+ Kc8 Nxd3"]
+[FEN "3r1k1r/pp3ppp/2p5/4Q1R1/N2pP3/1P1Rn2P/PP4PK/5q2 b - - 8 24"]
+[SetUp "1"]
+
+24... Qxd3 25. Qxg7+ Ke7 26. Qe5+ Kd7 27. Nc5+ Kc8 28. Nxd3 *

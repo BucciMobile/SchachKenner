@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MIwj"]
+[Difficulty "hard"]
+[Rating "1858"]
+[Themes "crushing endgame exposedKing long rookEndgame"]
+[GameUrl "https://lichess.org/game/B5nXdIst#49"]
+[Solution "f1f2 e6e3 f3f4 g7g5 f4g5 e2f2"]
+[SolutionSAN "Rf2 R6e3+ Kf4 g5+ Kxg5 Rxf2"]
+[FEN "6k1/pp3ppp/4r3/8/8/3P1K2/PPP1r1PP/2R2R2 w - - 2 25"]
+[SetUp "1"]
+
+25. Rf2 R6e3+ 26. Kf4 g5+ 27. Kxg5 Rxf2 *

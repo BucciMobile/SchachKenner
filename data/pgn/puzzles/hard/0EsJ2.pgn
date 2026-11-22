@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EsJ2"]
+[Difficulty "hard"]
+[Rating "1937"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/ou9JrnSw#65"]
+[Solution "f2f3 h5f5 f6f5 h4e7"]
+[SolutionSAN "Kf3 Rf5+ Rxf5 Qxe7"]
+[FEN "6rk/p3Q1pp/2p2R2/3P3r/7q/2B5/PP3KR1/8 w - - 3 33"]
+[SetUp "1"]
+
+33. Kf3 Rf5+ 34. Rxf5 Qxe7 *

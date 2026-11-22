@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04dSw"]
+[Difficulty "easy"]
+[Rating "684"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/VtakylJp#37"]
+[Solution "f2e3 g5e3 g1h1 e3d4"]
+[SolutionSAN "fxe3 Bxe3+ Kh1 Bxd4"]
+[FEN "r4k1N/pp4pp/2p5/6b1/2PR2b1/4n3/PP3PPP/RN4K1 w - - 0 19"]
+[SetUp "1"]
+
+19. fxe3 Bxe3+ 20. Kh1 Bxd4 *

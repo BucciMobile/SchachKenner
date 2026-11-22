@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Ffe"]
+[Difficulty "hard"]
+[Rating "2349"]
+[Themes "advancedPawn crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/EpayYpDn#91"]
+[Solution "h3h4 d3d2 g3g1 b4c2"]
+[SolutionSAN "h4 d2 Rg1 Nc2"]
+[FEN "8/8/8/1p2k3/1n6/1P1p2RP/7K/8 w - - 0 46"]
+[SetUp "1"]
+
+46. h4 d2 47. Rg1 Nc2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Adsy"]
+[Difficulty "medium"]
+[Rating "1344"]
+[Themes "advantage opening short trappedPiece"]
+[GameUrl "https://lichess.org/game/h4RDH2r1#23"]
+[Solution "b1c3 f8d6 c7d6 f6d6"]
+[SolutionSAN "Nc3 Bd6 Qxd6 Qxd6"]
+[FEN "r1b1kb1r/ppQ2ppp/1n3q2/3p4/8/1P2P3/P3BPPP/RNB2RK1 w kq - 1 12"]
+[SetUp "1"]
+
+12. Nc3 Bd6 13. Qxd6 Qxd6 *

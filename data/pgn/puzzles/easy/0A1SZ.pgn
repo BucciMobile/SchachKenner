@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A1SZ"]
+[Difficulty "easy"]
+[Rating "1184"]
+[Themes "crushing deflection endgame queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/ixxKQEqt#99"]
+[Solution "d2f2 f1h3 h2g1 h3g3"]
+[SolutionSAN "Rf2 Qh3+ Kg1 Qxg3+"]
+[FEN "8/2p5/2p3k1/7p/2P3pP/6P1/2RR3K/5q2 w - - 3 50"]
+[SetUp "1"]
+
+50. Rf2 Qh3+ 51. Kg1 Qxg3+ *

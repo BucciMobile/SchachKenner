@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OAxl"]
+[Difficulty "medium"]
+[Rating "1541"]
+[Themes "crushing fork master middlegame short"]
+[GameUrl "https://lichess.org/game/iE5sLDNn#39"]
+[Solution "h5h6 c6e5 f3g2 e5d3"]
+[SolutionSAN "h6 Ne5+ Kg2 Nxd3"]
+[FEN "r4rk1/2qp2p1/p1n1p3/5p1P/3Nn3/3QBK1P/2P1B3/6RR w - - 4 20"]
+[SetUp "1"]
+
+20. h6 Ne5+ 21. Kg2 Nxd3 *

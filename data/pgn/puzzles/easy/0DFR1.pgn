@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DFR1"]
+[Difficulty "easy"]
+[Rating "923"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/00E5cZlM/black#66"]
+[Solution "e8e5 d1d8 e5e8 d8e8"]
+[SolutionSAN "Rxe5 Rd8+ Re8 Rxe8#"]
+[FEN "4r1k1/ppR4p/6p1/4Bp2/4p3/2P3K1/1q4PP/3R4 b - - 0 33"]
+[SetUp "1"]
+
+33... Rxe5 34. Rd8+ Re8 35. Rxe8# *

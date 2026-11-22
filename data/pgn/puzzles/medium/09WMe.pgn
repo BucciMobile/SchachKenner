@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09WMe"]
+[Difficulty "medium"]
+[Rating "1449"]
+[Themes "crushing kingsideAttack long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/Le2rrbKb/black#30"]
+[Solution "d8c7 d3h7 f6h7 d1h5 f7f6 h5h7"]
+[SolutionSAN "Qc7 Bxh7+ Nxh7 Qh5 f6 Qxh7+"]
+[FEN "r2q1rk1/pb3ppp/1pp2n2/8/8/2NB3R/PPP2PPP/R2Q2K1 b - - 4 15"]
+[SetUp "1"]
+
+15... Qc7 16. Bxh7+ Nxh7 17. Qh5 f6 18. Qxh7+ *

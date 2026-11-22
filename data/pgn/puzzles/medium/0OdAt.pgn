@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OdAt"]
+[Difficulty "medium"]
+[Rating "1537"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/OW2RzEXO#55"]
+[Solution "g1h2 h6f4 g2g3 c1h1"]
+[SolutionSAN "Kh2 Bxf4+ g3 Rh1#"]
+[FEN "8/pB3k1p/1p2p1pb/3bPp2/3B1P2/1P5P/P3Q1P1/2r3K1 w - - 1 28"]
+[SetUp "1"]
+
+28. Kh2 Bxf4+ 29. g3 Rh1# *

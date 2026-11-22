@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JwED"]
+[Difficulty "hard"]
+[Rating "2287"]
+[Themes "crushing defensiveMove endgame long sacrifice"]
+[GameUrl "https://lichess.org/game/mBIAxViP/black#54"]
+[Solution "c5a3 d3g6 f7g6 e1e6 a3a1 g1h2"]
+[SolutionSAN "Qxa3 Bxg6 fxg6 Re6 Qa1+ Kh2"]
+[FEN "r7/5pk1/2p3p1/p1qn2Qp/3p3P/PP1B4/2P2PP1/4R1K1 b - - 0 27"]
+[SetUp "1"]
+
+27... Qxa3 28. Bxg6 fxg6 29. Re6 Qa1+ 30. Kh2 *

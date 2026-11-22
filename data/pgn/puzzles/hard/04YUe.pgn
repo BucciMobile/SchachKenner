@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04YUe"]
+[Difficulty "hard"]
+[Rating "2609"]
+[Themes "attraction crushing interference middlegame veryLong"]
+[GameUrl "https://lichess.org/game/0jJPRtle#75"]
+[Solution "f3f4 h5g5 f4f3 g5f5 f3e2 f8e8 e2d2 e8e1 d2e1 f5b1 e1e2 b1b2"]
+[SolutionSAN "Kf4 Qg5+ Kf3 Qf5+ Ke2 Re8+ Kd2 Rxe1 Kxe1 Qb1+ Ke2 Qxb2+"]
+[FEN "1r1b1r1k/Rp6/3P1p2/2P4q/1P6/5Kp1/1B4Q1/4R3 w - - 2 38"]
+[SetUp "1"]
+
+38. Kf4 Qg5+ 39. Kf3 Qf5+ 40. Ke2 Re8+ 41. Kd2 Rxe1 42. Kxe1 Qb1+ 43. Ke2 Qxb2+ *

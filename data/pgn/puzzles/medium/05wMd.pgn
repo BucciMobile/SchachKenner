@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05wMd"]
+[Difficulty "medium"]
+[Rating "1456"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/xaItrbzz/black#48"]
+[Solution "a6d3 e4e8"]
+[SolutionSAN "Bd3 Qe8#"]
+[FEN "6k1/p1q3pp/bp1p1b2/3r4/4Q3/1Pr1B1PP/P1P2P2/1RK4R b - - 3 24"]
+[SetUp "1"]
+
+24... Bd3 25. Qe8# *

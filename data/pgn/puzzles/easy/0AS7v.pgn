@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AS7v"]
+[Difficulty "easy"]
+[Rating "871"]
+[Themes "crushing kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/axXuDa38#35"]
+[Solution "e2g3 e7e1 a1e1 e8e1"]
+[SolutionSAN "Ng3 Rxe1+ Rxe1 Rxe1+"]
+[FEN "4r1k1/pp1brpp1/1qp2b1p/3p4/1P1P4/2PB1Q2/P3NPPP/R3R1K1 w - - 1 18"]
+[SetUp "1"]
+
+18. Ng3 Rxe1+ 19. Rxe1 Rxe1+ *

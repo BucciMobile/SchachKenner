@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "018Bi"]
+[Difficulty "easy"]
+[Rating "1100"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/OqMLoW8f/black#110"]
+[Solution "d7e8 d4d8"]
+[SolutionSAN "Ke8 Qd8#"]
+[FEN "8/3k1r2/p7/1p3p1P/3Q1PPB/P1n4K/1b1p4/3q4 b - - 10 55"]
+[SetUp "1"]
+
+55... Ke8 56. Qd8# *

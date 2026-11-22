@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MGix"]
+[Difficulty "hard"]
+[Rating "1912"]
+[Themes "advancedPawn crushing exposedKing long middlegame"]
+[GameUrl "https://lichess.org/game/ZcfxYDxm#81"]
+[Solution "e3h6 h4h3 d2g5 h3h2 b2h2 g3h2"]
+[SolutionSAN "Bh6 h3 Qg5 h2+ Rxh2 gxh2+"]
+[FEN "1r4k1/6b1/4P3/4P3/r1pPq2p/PpP1B1p1/1R1Q4/5RK1 w - - 2 41"]
+[SetUp "1"]
+
+41. Bh6 h3 42. Qg5 h2+ 43. Rxh2 gxh2+ *

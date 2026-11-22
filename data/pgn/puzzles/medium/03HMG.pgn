@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03HMG"]
+[Difficulty "medium"]
+[Rating "1672"]
+[Themes "crushing endgame pawnEndgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/KRCPsQwA/black#102"]
+[Solution "h7h6 g5h6 g7h6 f4f5 g4g5 e4e5 h6h5 f5f6"]
+[SolutionSAN "h6 gxh6 gxh6 f5 Kg5 Ke5 h5 f6"]
+[FEN "8/6pp/8/6P1/4KPk1/8/8/8 b - - 5 51"]
+[SetUp "1"]
+
+51... h6 52. gxh6 gxh6 53. f5 Kg5 54. Ke5 h5 55. f6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06LGK"]
+[Difficulty "medium"]
+[Rating "1330"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/LYkO52wU#59"]
+[Solution "f3d4 f4e3 g1g2 e3d4"]
+[SolutionSAN "Nxd4 Be3+ Kg2 Bxd4"]
+[FEN "2r3k1/6p1/R4p1p/1p3P2/3p1bP1/P2P1N1P/1P6/6K1 w - - 1 30"]
+[SetUp "1"]
+
+30. Nxd4 Be3+ 31. Kg2 Bxd4 *

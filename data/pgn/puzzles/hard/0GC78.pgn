@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GC78"]
+[Difficulty "hard"]
+[Rating "2226"]
+[Themes "crushing defensiveMove endgame knightEndgame master quietMove short"]
+[GameUrl "https://lichess.org/game/7uBcjcF7/black#110"]
+[Solution "b5c4 f4f5 c4d5 g5g6"]
+[SolutionSAN "Kc4 f5 Kd5 Kg6"]
+[FEN "6n1/6P1/2p5/1k4K1/3P1P2/8/8/8 b - - 0 55"]
+[SetUp "1"]
+
+55... Kc4 56. f5 Kd5 57. Kg6 *

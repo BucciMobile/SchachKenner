@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04vB5"]
+[Difficulty "medium"]
+[Rating "1594"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/FNBTSrfZ/black#40"]
+[Solution "f8f1 g6h7"]
+[SolutionSAN "Rxf1 Qh7#"]
+[FEN "5r1k/ppp3p1/1bn3Qp/8/1q2B3/2NP2PP/PPP4K/5R2 b - - 6 20"]
+[SetUp "1"]
+
+20... Rxf1 21. Qh7# *

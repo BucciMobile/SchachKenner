@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GXjE"]
+[Difficulty "hard"]
+[Rating "1939"]
+[Themes "advancedPawn advantage endgame long promotion"]
+[GameUrl "https://lichess.org/game/SEeaPR7M/black#66"]
+[Solution "e6d5 e4f6 f7f6 e5f6 f8f6 c7c8q"]
+[SolutionSAN "Bd5 Nf6+ Qxf6 Qxf6 Rxf6 c8=Q+"]
+[FEN "5rk1/p1P2q2/4b2p/1p2Q1p1/4N3/1P4PP/1PP3P1/6K1 b - - 0 33"]
+[SetUp "1"]
+
+33... Bd5 34. Nf6+ Qxf6 35. Qxf6 Rxf6 36. c8=Q+ *

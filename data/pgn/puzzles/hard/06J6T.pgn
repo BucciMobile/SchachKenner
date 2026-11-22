@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06J6T"]
+[Difficulty "hard"]
+[Rating "2171"]
+[Themes "crushing master middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/2YLRti4c/black#64"]
+[Solution "g3e3 d5e5 g7e5 a6g6"]
+[SolutionSAN "Qe3 Rxe5 Bxe5 Qg6"]
+[FEN "4r2k/6b1/Q7/P2Rn3/2p1B2p/6qP/1r4P1/5R1K b - - 1 32"]
+[SetUp "1"]
+
+32... Qe3 33. Rxe5 Bxe5 34. Qg6 *

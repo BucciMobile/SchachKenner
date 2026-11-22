@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09SS5"]
+[Difficulty "medium"]
+[Rating "1545"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/nzEg5nBY/black#64"]
+[Solution "d5d4 e7e8 a8e8 e3e8"]
+[SolutionSAN "d4 Qe8+ Rxe8 Rxe8#"]
+[FEN "r5k1/4Qpp1/6P1/3p4/2q5/p3R3/5P2/6K1 b - - 0 32"]
+[SetUp "1"]
+
+32... d4 33. Qe8+ Rxe8 34. Rxe8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02MkW"]
+[Difficulty "easy"]
+[Rating "1186"]
+[Themes "crushing endgame long master skewer"]
+[GameUrl "https://lichess.org/game/QEnUWJkR/black#90"]
+[Solution "d1e1 c6c1 e1d2 c1d1 d2c3 d1d4"]
+[SolutionSAN "Ke1 Rc1+ Kd2 Rd1+ Kc3 Rxd4"]
+[FEN "8/6p1/2R4p/p7/1p1q3P/1P3BP1/5PK1/3k4 b - - 14 45"]
+[SetUp "1"]
+
+45... Ke1 46. Rc1+ Kd2 47. Rd1+ Kc3 48. Rxd4 *

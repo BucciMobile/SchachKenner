@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OSnT"]
+[Difficulty "medium"]
+[Rating "1510"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/qrb0HjKv#65"]
+[Solution "b4b5 c6g2"]
+[SolutionSAN "b5 Qxg2#"]
+[FEN "1Q6/6pk/2q4p/8/1P6/6N1/P1r3PP/5RK1 w - - 3 33"]
+[SetUp "1"]
+
+33. b5 Qxg2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07TY1"]
+[Difficulty "easy"]
+[Rating "1184"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/m28AHDME/black#18"]
+[Solution "f7f6 e2h5 h8h5 d1h5"]
+[SolutionSAN "f6 Bxh5+ Rxh5 Qxh5+"]
+[FEN "r1bqk1nr/ppp2pp1/1bn5/4p1Np/4N3/3P4/PPP1BPPP/R1BQ1RK1 b kq - 5 9"]
+[SetUp "1"]
+
+9... f6 10. Bxh5+ Rxh5 11. Qxh5+ *

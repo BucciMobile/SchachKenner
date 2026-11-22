@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HH3a"]
+[Difficulty "easy"]
+[Rating "1073"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/q3olRotC#87"]
+[Solution "f1d3 b2c1 d3d1 c1d1"]
+[SolutionSAN "Qd3 Qc1+ Qd1 Qxd1#"]
+[FEN "8/1p4kp/p4pp1/2P5/1P3P2/P7/1q4PP/1B3Q1K w - - 4 44"]
+[SetUp "1"]
+
+44. Qd3 Qc1+ 45. Qd1 Qxd1# *

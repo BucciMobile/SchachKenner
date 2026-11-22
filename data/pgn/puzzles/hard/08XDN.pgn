@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08XDN"]
+[Difficulty "hard"]
+[Rating "1982"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/uFmgsd0w/black#52"]
+[Solution "e2c2 a4c2 e1c2 e5e6 c2a3 b1c1 g7g6 e6e7"]
+[SolutionSAN "Qc2+ Qxc2 Nxc2 e6 Na3+ Kc1 g6 e7"]
+[FEN "5r1k/2p2Bpp/8/4P3/Q2P4/2P3P1/P3q2P/1K2n3 b - - 2 26"]
+[SetUp "1"]
+
+26... Qc2+ 27. Qxc2 Nxc2 28. e6 Na3+ 29. Kc1 g6 30. e7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IvJq"]
+[Difficulty "hard"]
+[Rating "1905"]
+[Themes "advantage attraction deflection long middlegame queensideAttack sacrifice"]
+[GameUrl "https://lichess.org/game/x347XB7k#45"]
+[Solution "h4h5 b8b2 b1b2 a8b8 b2c1 a4a3"]
+[SolutionSAN "h5 Rxb2+ Kxb2 Rb8+ Kc1 Qxa3+"]
+[FEN "rr4k1/4bppp/p1np4/2pQ2P1/q3PP1P/P3B3/1P2B3/1K4RR w - - 3 23"]
+[SetUp "1"]
+
+23. h5 Rxb2+ 24. Kxb2 Rb8+ 25. Kc1 Qxa3+ *

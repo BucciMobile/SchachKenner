@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CfXe"]
+[Difficulty "hard"]
+[Rating "2259"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/knMGHAxS/black#56"]
+[Solution "g5f5 g3g4 d5f4 g4f5 f4e2 c2e2"]
+[SolutionSAN "Qf5 g4 Nf4 gxf5 Nxe2+ Rxe2"]
+[FEN "2r3k1/pp4pp/4pp2/3n2q1/2NP4/PP4P1/2R1QP1P/6K1 b - - 3 28"]
+[SetUp "1"]
+
+28... Qf5 29. g4 Nf4 30. gxf5 Nxe2+ 31. Rxe2 *

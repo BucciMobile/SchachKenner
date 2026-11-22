@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HsKG"]
+[Difficulty "hard"]
+[Rating "1731"]
+[Themes "advantage defensiveMove master opening short"]
+[GameUrl "https://lichess.org/game/W9uTzIKV#19"]
+[Solution "b5c4 d7d5 c4d5 e7d5"]
+[SolutionSAN "Bc4+ d5 Bxd5+ Nxd5"]
+[FEN "r1b2rk1/pp1pn1pp/1q3p2/1Bb1p3/3nP2N/2N5/PPP1QPPP/R1B2RK1 w - - 6 10"]
+[SetUp "1"]
+
+10. Bc4+ d5 11. Bxd5+ Nxd5 *

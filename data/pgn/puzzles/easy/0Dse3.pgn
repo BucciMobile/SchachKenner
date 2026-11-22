@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dse3"]
+[Difficulty "easy"]
+[Rating "1000"]
+[Themes "crushing endgame knightEndgame short"]
+[GameUrl "https://lichess.org/game/LJ3elNIs/black#82"]
+[Solution "e7d5 c3d5 e5d5 h6g5"]
+[SolutionSAN "Nxd5 Nxd5 Kxd5 Kxg5"]
+[FEN "8/4n3/7K/3Pk1p1/8/2N4P/8/8 b - - 0 41"]
+[SetUp "1"]
+
+41... Nxd5 42. Nxd5 Kxd5 43. Kxg5 *

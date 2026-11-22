@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BxeF"]
+[Difficulty "easy"]
+[Rating "1012"]
+[Themes "endgame mate mateIn2 queensideAttack short"]
+[GameUrl "https://lichess.org/game/fryFeZ9a#49"]
+[Solution "h3e3 c6c2 b1a1 c2b2"]
+[SolutionSAN "Rxe3 Qxc2+ Ka1 Qxb2#"]
+[FEN "6k1/1pp3pp/p1qp2b1/6Q1/8/4r2R/PPP2rPP/1K4R1 w - - 0 25"]
+[SetUp "1"]
+
+25. Rxe3 Qxc2+ 26. Ka1 Qxb2# *

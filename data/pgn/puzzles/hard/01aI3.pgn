@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01aI3"]
+[Difficulty "hard"]
+[Rating "1937"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/RDPtH98N/black#38"]
+[Solution "c6e7 d3f3 e7f5 e4b7"]
+[SolutionSAN "Ne7 Qf3 Nf5 Bxb7"]
+[FEN "r1q1r1k1/1b1p1p1p/p1nBp1p1/1p4P1/4B2P/2PQ2P1/P1P5/R4RK1 b - - 0 19"]
+[SetUp "1"]
+
+19... Ne7 20. Qf3 Nf5 21. Bxb7 *

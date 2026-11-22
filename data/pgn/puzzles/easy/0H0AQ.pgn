@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H0AQ"]
+[Difficulty "easy"]
+[Rating "803"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/s9Z4vmqo/black#60"]
+[Solution "c8c4 c3c4 e6e5 f4e5"]
+[SolutionSAN "Rxc4+ Kxc4 e5 fxe5"]
+[FEN "2r3k1/8/p3p2p/5pp1/2R2P2/P1K3P1/2P4P/8 b - - 0 30"]
+[SetUp "1"]
+
+30... Rxc4+ 31. Kxc4 e5 32. fxe5 *

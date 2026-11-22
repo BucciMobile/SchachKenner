@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00c89"]
+[Difficulty "easy"]
+[Rating "400"]
+[Themes "kingsideAttack master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/qy4azPDa/black#48"]
+[Solution "f8f6 g3g7"]
+[SolutionSAN "Rf6 Qxg7#"]
+[FEN "2r2rk1/6pp/p1q5/1pn2p2/1B1pPP2/3Pn1QB/1PP2R1P/6RK b - - 3 24"]
+[SetUp "1"]
+
+24... Rf6 25. Qxg7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0INpm"]
+[Difficulty "easy"]
+[Rating "957"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/aejCfN1Z/black#54"]
+[Solution "h7g6 d4g7"]
+[SolutionSAN "hxg6 Qxg7#"]
+[FEN "4r1k1/pp3ppp/6B1/8/3Q4/2B1P2P/PP3qP1/7K b - - 0 27"]
+[SetUp "1"]
+
+27... hxg6 28. Qxg7# *

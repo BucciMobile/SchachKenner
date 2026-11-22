@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03CME"]
+[Difficulty "easy"]
+[Rating "749"]
+[Themes "advancedPawn crushing endgame promotion queenEndgame veryLong"]
+[GameUrl "https://lichess.org/game/Lsap0TcS/black#146"]
+[Solution "c7d7 b3e6 d7e6 f5e6 b5b4 g5g6 b4b3 g6g7 b3b2 g7g8q"]
+[SolutionSAN "Qd7+ Qe6+ Qxe6+ Kxe6 b4 g6 b3 g7 b2 g8=Q"]
+[FEN "8/2q5/k7/1p3KP1/8/1Q6/8/8 b - - 2 73"]
+[SetUp "1"]
+
+73... Qd7+ 74. Qe6+ Qxe6+ 75. Kxe6 b4 76. g6 b3 77. g7 b2 78. g8=Q *

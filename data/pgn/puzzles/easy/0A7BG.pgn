@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A7BG"]
+[Difficulty "easy"]
+[Rating "1002"]
+[Themes "advancedPawn crushing deflection endgame promotion short"]
+[GameUrl "https://lichess.org/game/148E0pRC/black#74"]
+[Solution "d2d6 c7c8q d7c8 c5d6"]
+[SolutionSAN "Rxd6 c8=Q+ Kxc8 Kxd6"]
+[FEN "8/2Pk1p1p/3Bp3/1pK3P1/1P6/8/3r1P2/8 b - - 6 37"]
+[SetUp "1"]
+
+37... Rxd6 38. c8=Q+ Kxc8 39. Kxd6 *

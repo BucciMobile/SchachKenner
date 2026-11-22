@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00CtS"]
+[Difficulty "easy"]
+[Rating "987"]
+[Themes "endgame mate mateIn2 short swallowstailMate"]
+[GameUrl "https://lichess.org/game/yKolw9vl/black#76"]
+[Solution "g8g7 a8h8 g7g6 h8h6"]
+[SolutionSAN "Kg7 Qh8+ Kg6 Qh6#"]
+[FEN "Q5k1/5q2/p2p4/b1p1pr2/P7/6P1/4KP1R/8 b - - 3 38"]
+[SetUp "1"]
+
+38... Kg7 39. Qh8+ Kg6 40. Qh6# *

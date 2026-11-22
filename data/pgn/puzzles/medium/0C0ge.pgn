@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C0ge"]
+[Difficulty "medium"]
+[Rating "1237"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/fKcsE8Ch#57"]
+[Solution "d7e7 h2h1"]
+[SolutionSAN "Rde7 Rh1#"]
+[FEN "4R3/3R2pk/7p/p2P4/8/8/PPPr3r/5K2 w - - 0 29"]
+[SetUp "1"]
+
+29. Rde7 Rh1# *

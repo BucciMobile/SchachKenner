@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07gEx"]
+[Difficulty "hard"]
+[Rating "1724"]
+[Themes "advantage long opening"]
+[GameUrl "https://lichess.org/game/ZFQByV90#25"]
+[Solution "c3d5 e5f3 d1f3 d8d5 f3d5 f6d5"]
+[SolutionSAN "Nxd5 Nxf3+ Qxf3 Qxd5 Qxd5 Nxd5"]
+[FEN "r2qk2r/pp3pbp/5np1/2Ppn1B1/8/2N2B1P/PP3PP1/R2QK2R w KQkq - 0 13"]
+[SetUp "1"]
+
+13. Nxd5 Nxf3+ 14. Qxf3 Qxd5 15. Qxd5 Nxd5 *

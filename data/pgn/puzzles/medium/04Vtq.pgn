@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Vtq"]
+[Difficulty "medium"]
+[Rating "1217"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/GUJEJoUF#27"]
+[Solution "h2h3 d8b6 c1e3 g4e3"]
+[SolutionSAN "h3 Qb6+ Be3 Nxe3"]
+[FEN "r2qk2r/pp2b1pp/2pp4/5b2/5Pn1/1BN5/PPP3PP/R1BQR1K1 w kq - 1 14"]
+[SetUp "1"]
+
+14. h3 Qb6+ 15. Be3 Nxe3 *

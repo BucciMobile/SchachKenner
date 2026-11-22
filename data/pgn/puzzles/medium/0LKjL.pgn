@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LKjL"]
+[Difficulty "medium"]
+[Rating "1633"]
+[Themes "advantage discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/wDAkAJwA#59"]
+[Solution "f3f5 d4g1 h2g1 d5d3"]
+[SolutionSAN "Rxf5 Bg1+ Kxg1 Qxd3"]
+[FEN "6k1/7p/6p1/p1pq1r2/3bN3/1P1Q1RPP/P6K/8 w - - 2 30"]
+[SetUp "1"]
+
+30. Rxf5 Bg1+ 31. Kxg1 Qxd3 *

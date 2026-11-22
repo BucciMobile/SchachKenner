@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09prB"]
+[Difficulty "hard"]
+[Rating "2012"]
+[Themes "advantage capturingDefender middlegame short"]
+[GameUrl "https://lichess.org/game/1nSwQ2N7#39"]
+[Solution "g7f7 c7f7 e5f7 d6f4"]
+[SolutionSAN "Qxf7 Qxf7 Nxf7 Bxf4"]
+[FEN "2kr2r1/2q2pQp/3bp3/p2pN3/Pp1P1B2/8/1PP2PPP/5RK1 w - - 1 20"]
+[SetUp "1"]
+
+20. Qxf7 Qxf7 21. Nxf7 Bxf4 *

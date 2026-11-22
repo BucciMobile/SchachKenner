@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J48D"]
+[Difficulty "hard"]
+[Rating "1704"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/bhM77eP0/black#56"]
+[Solution "h7h5 h1d1 d3e1 d1e1"]
+[SolutionSAN "h5 Rd1 Ne1+ Rxe1"]
+[FEN "3r4/p5pp/1p3p2/5k2/8/B2n1P2/PPK3PP/7R b - - 2 28"]
+[SetUp "1"]
+
+28... h5 29. Rd1 Ne1+ 30. Rxe1 *

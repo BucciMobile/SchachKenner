@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Mdh4"]
+[Difficulty "medium"]
+[Rating "1604"]
+[Themes "advantage intermezzo master middlegame short"]
+[GameUrl "https://lichess.org/game/HpQilcSs/black#70"]
+[Solution "d3b2 g7f5 f7f5 e5b2"]
+[SolutionSAN "Nxb2 Nxf5 Qxf5 Qxb2"]
+[FEN "1r1r2k1/5qN1/4p2p/4Qb2/2P5/1P1n2P1/PB3P1P/R5KB b - - 2 35"]
+[SetUp "1"]
+
+35... Nxb2 36. Nxf5 Qxf5 37. Qxb2 *

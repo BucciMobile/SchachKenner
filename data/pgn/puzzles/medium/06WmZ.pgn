@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06WmZ"]
+[Difficulty "medium"]
+[Rating "1695"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/Kr6rRn0N/black#108"]
+[Solution "c5d5 g3g4 d5e6 g4g5 e6f7 g5f5"]
+[SolutionSAN "Kd5 Kg4 Ke6 Kxg5 Kf7 Kf5"]
+[FEN "8/8/8/2k3p1/8/5PK1/8/8 b - - 1 54"]
+[SetUp "1"]
+
+54... Kd5 55. Kg4 Ke6 56. Kxg5 Kf7 57. Kf5 *

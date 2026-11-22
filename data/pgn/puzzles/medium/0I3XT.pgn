@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I3XT"]
+[Difficulty "medium"]
+[Rating "1648"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/R8onA8OD#83"]
+[Solution "b1b5 g6c6 f2f3 c6b5"]
+[SolutionSAN "Rxb5 Qc6+ f3 Qxb5"]
+[FEN "6k1/5p2/6q1/ppp1Q3/3r4/6P1/5PKP/1R6 w - - 4 42"]
+[SetUp "1"]
+
+42. Rxb5 Qc6+ 43. f3 Qxb5 *

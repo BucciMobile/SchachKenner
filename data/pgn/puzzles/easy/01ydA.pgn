@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01ydA"]
+[Difficulty "easy"]
+[Rating "616"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/xFFFHkmY#89"]
+[Solution "d3f1 f8f1 e4e1 f1e1"]
+[SolutionSAN "Bxf1 Rxf1+ Qe1 Rxe1#"]
+[FEN "5rk1/7p/6P1/7p/p3Q3/PpPB4/1P6/1K3q2 w - - 1 45"]
+[SetUp "1"]
+
+45. Bxf1 Rxf1+ 46. Qe1 Rxe1# *

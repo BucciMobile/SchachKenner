@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09nTa"]
+[Difficulty "easy"]
+[Rating "1146"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/StgW4zkN/black#96"]
+[Solution "d6f4 g5g6 h7g8 d3d8"]
+[SolutionSAN "Qf4 g6+ Kg8 Rd8+"]
+[FEN "8/6pk/3q3p/6P1/1p5P/p2R2R1/P2b2K1/8 b - - 1 48"]
+[SetUp "1"]
+
+48... Qf4 49. g6+ Kg8 50. Rd8+ *

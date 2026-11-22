@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IST8"]
+[Difficulty "hard"]
+[Rating "1758"]
+[Themes "advantage defensiveMove long middlegame"]
+[GameUrl "https://lichess.org/game/1CYHYBNd#53"]
+[Solution "a7a8 h3g2 g1g2 b8a8 a1h1 h8g8"]
+[SolutionSAN "Ra8 Bxg2 Kxg2 Rxa8 Rh1+ Kg8"]
+[FEN "1r3r1k/R4pb1/3p2p1/1Pp1pq2/2P5/2NP2Pb/2Q1PPB1/R5K1 w - - 1 27"]
+[SetUp "1"]
+
+27. Ra8 Bxg2 28. Kxg2 Rxa8 29. Rh1+ Kg8 *

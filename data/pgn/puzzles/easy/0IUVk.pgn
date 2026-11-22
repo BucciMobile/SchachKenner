@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IUVk"]
+[Difficulty "easy"]
+[Rating "930"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/CUAGdbVv#73"]
+[Solution "d6b4 c2d3 c4d3 e1d3"]
+[SolutionSAN "Bb4 Bd3+ Qxd3 Nxd3"]
+[FEN "4r1k1/5pp1/3B3p/8/2Q4P/5P2/2b2P2/4nK2 w - - 6 37"]
+[SetUp "1"]
+
+37. Bb4 Bd3+ 38. Qxd3 Nxd3 *

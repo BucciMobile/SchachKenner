@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05DkU"]
+[Difficulty "hard"]
+[Rating "2024"]
+[Themes "collinearMove crushing endgame master short"]
+[GameUrl "https://lichess.org/game/q2ctCCTD#79"]
+[Solution "d7f6 g7g2 f2h4 h3h4"]
+[SolutionSAN "Nf6 Rg2 Qxh4+ Qxh4"]
+[FEN "7k/p2N1pr1/1p6/3P4/4P2n/5p1q/PP3Q1P/6RK w - - 4 40"]
+[SetUp "1"]
+
+40. Nf6 Rg2 41. Qxh4+ Qxh4 *

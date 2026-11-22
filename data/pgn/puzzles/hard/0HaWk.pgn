@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HaWk"]
+[Difficulty "hard"]
+[Rating "2069"]
+[Themes "crushing endgame master quietMove rookEndgame short"]
+[GameUrl "https://lichess.org/game/73QkjKUi/black#128"]
+[Solution "b2b4 a4a5 b4g4 a5a6"]
+[SolutionSAN "Rb4 a5 Rg4 a6"]
+[FEN "8/8/1KPk4/1P6/P7/8/1r6/8 b - - 0 64"]
+[SetUp "1"]
+
+64... Rb4 65. a5 Rg4 66. a6 *

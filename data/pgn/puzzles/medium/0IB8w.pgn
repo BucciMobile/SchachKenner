@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IB8w"]
+[Difficulty "medium"]
+[Rating "1366"]
+[Themes "crushing endgame short skewer"]
+[GameUrl "https://lichess.org/game/8evZU0vC#89"]
+[Solution "b8a7 g2g1 d4d3 g1a7"]
+[SolutionSAN "Qa7 Qg1+ Kd3 Qxa7"]
+[FEN "1Q6/5ppk/p7/8/P2KN3/8/6q1/8 w - - 2 45"]
+[SetUp "1"]
+
+45. Qa7 Qg1+ 46. Kd3 Qxa7 *

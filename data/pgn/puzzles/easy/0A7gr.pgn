@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A7gr"]
+[Difficulty "easy"]
+[Rating "929"]
+[Themes "advantage fork master middlegame short"]
+[GameUrl "https://lichess.org/game/AfnZCa8t/black#78"]
+[Solution "f6e7 d4c6 e7f8 c6b4"]
+[SolutionSAN "Ke7 Nc6+ Kf8 Nxb4"]
+[FEN "r7/5p2/4bkpp/p1np4/1r1N2PP/RP3PK1/4B3/3R4 b - - 1 39"]
+[SetUp "1"]
+
+39... Ke7 40. Nc6+ Kf8 41. Nxb4 *

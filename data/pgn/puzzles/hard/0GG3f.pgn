@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GG3f"]
+[Difficulty "hard"]
+[Rating "1971"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/qI1aLgnb#75"]
+[Solution "b4c5 e7b7 g2g1 g4h3"]
+[SolutionSAN "bxc5 Qb7+ Kg1 Kh3"]
+[FEN "6RQ/r3qp2/pp2r2p/2p3p1/1P4k1/P3P1P1/5PKP/3R4 w - - 0 38"]
+[SetUp "1"]
+
+38. bxc5 Qb7+ 39. Kg1 Kh3 *

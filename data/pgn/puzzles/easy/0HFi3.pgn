@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HFi3"]
+[Difficulty "easy"]
+[Rating "894"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/36Gwk2NY/black#46"]
+[Solution "e5d3 e3e8 a8e8 e1e8"]
+[SolutionSAN "Nxd3 Rxe8 Rxe8 Rxe8"]
+[FEN "r3rbk1/1pp2p2/p2p3p/P2Pn1p1/1P6/3BR1BP/1qPQ1PP1/4R1K1 b - - 7 23"]
+[SetUp "1"]
+
+23... Nxd3 24. Rxe8 Rxe8 25. Rxe8 *

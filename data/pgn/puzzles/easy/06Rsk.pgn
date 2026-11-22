@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Rsk"]
+[Difficulty "easy"]
+[Rating "945"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/YgW9EKA1#99"]
+[Solution "a7a8 c4d5 f3e2 d5a8"]
+[SolutionSAN "Ra8 Bd5+ Ke2 Bxa8"]
+[FEN "8/R7/p3p3/4kp2/2b5/4PK2/8/8 w - - 6 50"]
+[SetUp "1"]
+
+50. Ra8 Bd5+ 51. Ke2 Bxa8 *

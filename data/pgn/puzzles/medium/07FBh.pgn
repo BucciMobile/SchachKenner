@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07FBh"]
+[Difficulty "medium"]
+[Rating "1385"]
+[Themes "master masterVsMaster mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/N6cvrT1h#91"]
+[Solution "b6e6 f2g3"]
+[SolutionSAN "Rxe6 Qxg3#"]
+[FEN "r7/1Rrk1p1P/1R2bQn1/3pP3/3P1p2/p1P3PK/5q2/3B4 w - - 0 46"]
+[SetUp "1"]
+
+46. Rxe6 Qxg3# *

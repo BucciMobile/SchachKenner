@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lypl"]
+[Difficulty "hard"]
+[Rating "2090"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/5Q3AbXWy#53"]
+[Solution "e4f5 g6e6 f5e6 c4g4"]
+[SolutionSAN "exf5 Rxe6 fxe6 Rg4"]
+[FEN "4k3/pp2p2p/3pQ1r1/5p2/1qr1P3/2N5/PPP5/2KR2R1 w - - 2 27"]
+[SetUp "1"]
+
+27. exf5 Rxe6 28. fxe6 Rg4 *

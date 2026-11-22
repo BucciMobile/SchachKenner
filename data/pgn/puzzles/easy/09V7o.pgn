@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09V7o"]
+[Difficulty "easy"]
+[Rating "1182"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/5ULSnADv#85"]
+[Solution "b5f5 f4f5 g4f5 g7f6"]
+[SolutionSAN "Rf5 Rxf5 gxf5 Kf6"]
+[FEN "8/2K3k1/7p/1R4pP/5rP1/5P2/8/8 w - - 15 43"]
+[SetUp "1"]
+
+43. Rf5 Rxf5 44. gxf5 Kf6 *

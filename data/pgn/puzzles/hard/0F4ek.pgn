@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F4ek"]
+[Difficulty "hard"]
+[Rating "1765"]
+[Themes "crushing fork master middlegame short"]
+[GameUrl "https://lichess.org/game/APzqrOu4/black#26"]
+[Solution "d7e7 d4c6 b7c6 d5c6"]
+[SolutionSAN "Qe7 Nc6+ Bxc6 dxc6"]
+[FEN "1k1r3r/pbpq1pb1/np1ppnpp/3P4/1PPN4/P1N1B1PB/4PP1P/R2QK2R b KQ - 1 13"]
+[SetUp "1"]
+
+13... Qe7 14. Nc6+ Bxc6 15. dxc6 *

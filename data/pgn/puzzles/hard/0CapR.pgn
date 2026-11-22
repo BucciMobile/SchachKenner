@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CapR"]
+[Difficulty "hard"]
+[Rating "2309"]
+[Themes "advantage clearance long middlegame pin"]
+[GameUrl "https://lichess.org/game/sFO6r8M0#33"]
+[Solution "d2f4 g8h6 f7g7 h8g8 g7g8 h6g8"]
+[SolutionSAN "Bf4 Nh6 Qxg7 Rg8 Qxg8+ Nxg8"]
+[FEN "r1k3nr/p1p2Qpp/2pbN3/8/7q/2N5/PPPB1P2/R4RK1 w - - 1 17"]
+[SetUp "1"]
+
+17. Bf4 Nh6 18. Qxg7 Rg8 19. Qxg8+ Nxg8 *

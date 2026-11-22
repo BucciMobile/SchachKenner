@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MTmN"]
+[Difficulty "hard"]
+[Rating "2344"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/gee8pMpY/black#100"]
+[Solution "f6e6 b4b5 a6a1 b5b6"]
+[SolutionSAN "Ke6 Kb5 Ra1 Kxb6"]
+[FEN "8/1R6/rp3k2/8/1KP5/8/8/8 b - - 4 50"]
+[SetUp "1"]
+
+50... Ke6 51. Kb5 Ra1 52. Kxb6 *

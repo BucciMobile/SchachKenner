@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OMRU"]
+[Difficulty "medium"]
+[Rating "1539"]
+[Themes "discoveredCheck doubleCheck mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/xT3iWAPt/black#26"]
+[Solution "g8h7 e4f6 h7h8 h4g6"]
+[SolutionSAN "Kxh7 Nxf6+ Kh8 Ng6#"]
+[FEN "rnbq1rk1/pppnb1pQ/4pp2/8/3PNB1N/2PB4/PP3PPP/R4RK1 b - - 0 13"]
+[SetUp "1"]
+
+13... Kxh7 14. Nxf6+ Kh8 15. Ng6# *

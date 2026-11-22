@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H7pj"]
+[Difficulty "easy"]
+[Rating "939"]
+[Themes "discoveredAttack discoveredCheck kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/pp75Q6st#47"]
+[Solution "f4g5 f5g3 h2g3 h4g3"]
+[SolutionSAN "fxg5 Ng3+ hxg3 hxg3#"]
+[FEN "2kr3r/p3b3/1qp1N3/4Pnp1/1Pp2P1p/Q1Pp4/P2B2PP/1R3R1K w - - 0 24"]
+[SetUp "1"]
+
+24. fxg5 Ng3+ 25. hxg3 hxg3# *

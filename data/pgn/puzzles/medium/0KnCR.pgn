@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KnCR"]
+[Difficulty "medium"]
+[Rating "1284"]
+[Themes "advantage discoveredAttack discoveredCheck endgame veryLong"]
+[GameUrl "https://lichess.org/game/dN7YMfMc#47"]
+[Solution "d4e5 c5c4 d3d4 b6d4 c3d4 h4d4 g1h1 d4e5"]
+[SolutionSAN "dxe5 c4+ Qd4 Bxd4+ cxd4 Qxd4+ Kh1 Qxe5"]
+[FEN "8/pp3k2/1b3npp/2p1r3/3P3q/2PQ4/PP4PP/R4RK1 w - - 0 24"]
+[SetUp "1"]
+
+24. dxe5 c4+ 25. Qd4 Bxd4+ 26. cxd4 Qxd4+ 27. Kh1 Qxe5 *

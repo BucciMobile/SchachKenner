@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Minj"]
+[Difficulty "medium"]
+[Rating "1604"]
+[Themes "advancedPawn crushing endgame master rookEndgame short"]
+[GameUrl "https://lichess.org/game/DD4Nnptm/black#70"]
+[Solution "c5c4 a6a7 d3d2 b7d7"]
+[SolutionSAN "c4 a7 d2 Rd7"]
+[FEN "8/1R3ppk/PP5p/2p5/8/3p2P1/1r3PPK/8 b - - 0 35"]
+[SetUp "1"]
+
+35... c4 36. a7 d2 37. Rd7 *

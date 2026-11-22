@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07G1R"]
+[Difficulty "hard"]
+[Rating "1958"]
+[Themes "advantage long master middlegame"]
+[GameUrl "https://lichess.org/game/L7TBQwvH#39"]
+[Solution "e6c4 f6c3 g4d4 c3c4 d4c4 a6c4"]
+[SolutionSAN "Bc4 Qc3 Qd4 Qxc4 Qxc4 Bxc4"]
+[FEN "4rr1k/2p3p1/b1p1Bq1p/p7/6Q1/8/P1PR1PPP/1R4K1 w - - 5 20"]
+[SetUp "1"]
+
+20. Bc4 Qc3 21. Qd4 Qxc4 22. Qxc4 Bxc4 *

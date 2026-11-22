@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ar7S"]
+[Difficulty "medium"]
+[Rating "1523"]
+[Themes "attraction crushing fork long middlegame pin sacrifice"]
+[GameUrl "https://lichess.org/game/5Jdw7qXq/black#42"]
+[Solution "d7f6 c1c8 a8c8 e2e6 g8h8 e6c8"]
+[SolutionSAN "Nf6 Rxc8 Rxc8 Qe6+ Kh8 Qxc8"]
+[FEN "r1b2bk1/p2n2pp/7q/3p4/3p4/3B2B1/PP1NQ1PP/2R3K1 b - - 1 21"]
+[SetUp "1"]
+
+21... Nf6 22. Rxc8 Rxc8 23. Qe6+ Kh8 24. Qxc8 *

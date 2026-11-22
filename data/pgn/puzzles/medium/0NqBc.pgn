@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NqBc"]
+[Difficulty "medium"]
+[Rating "1479"]
+[Themes "advancedPawn crushing endgame exposedKing long promotion"]
+[GameUrl "https://lichess.org/game/oSvvt9hW/black#88"]
+[Solution "c7c8 f5e7 c8d8 c6c7 d8d7 c7c8q"]
+[SolutionSAN "Kc8 Ne7+ Kd8 c7+ Kd7 c8=Q+"]
+[FEN "8/2k2p2/2PP1p2/1K3N2/6p1/p7/6r1/8 b - - 0 44"]
+[SetUp "1"]
+
+44... Kc8 45. Ne7+ Kd8 46. c7+ Kd7 47. c8=Q+ *

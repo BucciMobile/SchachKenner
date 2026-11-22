@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04oWz"]
+[Difficulty "easy"]
+[Rating "1112"]
+[Themes "endgame mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/74wIKrtk/black#82"]
+[Solution "e6e5 e4h4"]
+[SolutionSAN "e5 Rh4#"]
+[FEN "4r3/4r1pk/4p3/6R1/2BpR3/pPb5/P5PP/6K1 b - - 0 41"]
+[SetUp "1"]
+
+41... e5 42. Rh4# *

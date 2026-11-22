@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01MnR"]
+[Difficulty "hard"]
+[Rating "1913"]
+[Themes "advantage defensiveMove master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/Lbcui4gX/black#48"]
+[Solution "a7a1 c3a1 a8a1 g2f1"]
+[SolutionSAN "Qxa1+ Bxa1 Rxa1+ Bf1"]
+[FEN "r7/q1pb1pbk/3p2pp/3P4/2Pp2P1/2BP3P/2Q2PB1/R5K1 b - - 8 24"]
+[SetUp "1"]
+
+24... Qxa1+ 25. Bxa1 Rxa1+ 26. Bf1 *

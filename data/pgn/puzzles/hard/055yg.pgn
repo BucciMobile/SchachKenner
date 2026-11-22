@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "055yg"]
+[Difficulty "hard"]
+[Rating "2029"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/RE5XJD4r/black#118"]
+[Solution "a8c8 b6b8 a3d3 b8c8"]
+[SolutionSAN "Rc8 Rb8 Rxd3 Rxc8"]
+[FEN "r7/2P5/1R1p4/3Pk1p1/p2pPp1p/r2B1P1P/5PK1/8 b - - 0 59"]
+[SetUp "1"]
+
+59... Rc8 60. Rb8 Rxd3 61. Rxc8 *

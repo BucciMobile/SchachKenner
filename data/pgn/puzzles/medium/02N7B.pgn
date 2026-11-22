@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02N7B"]
+[Difficulty "medium"]
+[Rating "1639"]
+[Themes "advantage fork hangingPiece opening short"]
+[GameUrl "https://lichess.org/game/hDT72pZf/black#22"]
+[Solution "e8d8 c7e6 d8c8 d1h5"]
+[SolutionSAN "Kd8 Nxe6+ Kc8 Qxh5"]
+[FEN "rn2kbn1/ppN1p1p1/4bp2/7r/7p/3P4/PPP2PqP/R1BQK2R b KQq - 0 11"]
+[SetUp "1"]
+
+11... Kd8 12. Nxe6+ Kc8 13. Qxh5 *

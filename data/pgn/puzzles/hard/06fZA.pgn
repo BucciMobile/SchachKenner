@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06fZA"]
+[Difficulty "hard"]
+[Rating "2781"]
+[Themes "crushing discoveredAttack middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/bzc7q8iK/black#46"]
+[Solution "b7d5 e2g4 d5e4 c4c5 g8g4 b4e4 g4e4 c5c6"]
+[SolutionSAN "Bxd5 Bxg4 Bxe4 c5 Rxg4 Qxe4 Rxe4 c6"]
+[FEN "2kr2r1/1bp2p2/3ppq2/R2P4/1QP1P1np/8/4BPPB/1R4K1 b - - 1 23"]
+[SetUp "1"]
+
+23... Bxd5 24. Bxg4 Bxe4 25. c5 Rxg4 26. Qxe4 Rxe4 27. c6 *

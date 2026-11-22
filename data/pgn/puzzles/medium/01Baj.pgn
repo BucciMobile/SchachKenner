@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Baj"]
+[Difficulty "medium"]
+[Rating "1322"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/SV0DvAns#29"]
+[Solution "e1c1 e4e2 d2e2 e8e2"]
+[SolutionSAN "O-O-O Qxe2 Qxe2 Rxe2"]
+[FEN "r1b1r1k1/ppp2ppp/2n5/8/2P1q3/P4N1P/1P1QBPP1/R3K2R w KQ - 2 15"]
+[SetUp "1"]
+
+15. O-O-O Qxe2 16. Qxe2 Rxe2 *

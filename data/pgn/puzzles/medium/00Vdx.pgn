@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Vdx"]
+[Difficulty "medium"]
+[Rating "1482"]
+[Themes "discoveredAttack discoveredCheck kingsideAttack mate mateIn2 middlegame morphysMate short"]
+[GameUrl "https://lichess.org/game/z9NeMacX#25"]
+[Solution "f6h8 g8g2 g1h1 g2g4"]
+[SolutionSAN "Bxh8 Rxg2+ Kh1 Rg4#"]
+[FEN "2k3rr/ppp2p1p/2np1B2/8/4P3/2NB1b2/PPP2PPP/R4RK1 w - - 1 13"]
+[SetUp "1"]
+
+13. Bxh8 Rxg2+ 14. Kh1 Rg4# *

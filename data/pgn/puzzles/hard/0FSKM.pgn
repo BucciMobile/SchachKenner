@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FSKM"]
+[Difficulty "hard"]
+[Rating "2453"]
+[Themes "crushing endgame long quietMove"]
+[GameUrl "https://lichess.org/game/aWYjzJXp#97"]
+[Solution "c1e1 c7c5 e1g1 c5c4 g7f6 c4c3"]
+[SolutionSAN "Re1 c5 Rg1 c4 Kf6 c3"]
+[FEN "8/2p3K1/8/4p3/4N3/3p1P2/1kp5/2R5 w - - 1 49"]
+[SetUp "1"]
+
+49. Re1 c5 50. Rg1 c4 51. Kf6 c3 *

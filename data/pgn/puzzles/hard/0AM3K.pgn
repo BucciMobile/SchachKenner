@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AM3K"]
+[Difficulty "hard"]
+[Rating "1895"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/39Pljmq9#29"]
+[Solution "c1f4 g7g6 f5d3 d6f4"]
+[SolutionSAN "Bf4 g6 Qd3 Bxf4"]
+[FEN "r2qr1k1/ppp2pp1/3b1n1p/3P1Q2/2P5/1PN5/P4PPP/R1B2RK1 w - - 3 15"]
+[SetUp "1"]
+
+15. Bf4 g6 16. Qd3 Bxf4 *

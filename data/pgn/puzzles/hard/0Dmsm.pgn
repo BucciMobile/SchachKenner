@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dmsm"]
+[Difficulty "hard"]
+[Rating "2068"]
+[Themes "crushing endgame long master pin quietMove"]
+[GameUrl "https://lichess.org/game/miZWFjyx/black#124"]
+[Solution "a3f3 h2h3 g2f2 b7f3 f2f3 h4g5"]
+[SolutionSAN "Rxf3 h3 Kf2 Bxf3 Kxf3 Kg5"]
+[FEN "8/1B6/8/8/7K/r4R2/6kP/8 b - - 0 62"]
+[SetUp "1"]
+
+62... Rxf3 63. h3 Kf2 64. Bxf3 Kxf3 65. Kg5 *

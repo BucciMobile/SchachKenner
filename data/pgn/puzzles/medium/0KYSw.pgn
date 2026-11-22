@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KYSw"]
+[Difficulty "medium"]
+[Rating "1366"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/yNdjBBGh#91"]
+[Solution "g3e4 f7f5 g4f3 f5e4"]
+[SolutionSAN "Ne4 f5+ Kf3 fxe4+"]
+[FEN "6r1/5p2/6kP/1p2p3/6K1/2p3N1/8/7R w - - 0 46"]
+[SetUp "1"]
+
+46. Ne4 f5+ 47. Kf3 fxe4+ *

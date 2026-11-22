@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0P4P2"]
+[Difficulty "medium"]
+[Rating "1506"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/XhrX8riE#27"]
+[Solution "d2b3 d8d3 f3g3 d3g3"]
+[SolutionSAN "Nb3 Rd3 Qg3 Rxg3"]
+[FEN "3r1rk1/p1p1nppp/2p3q1/2p5/B3P3/2P2Q1b/PP1N1PPP/R4RK1 w - - 4 14"]
+[SetUp "1"]
+
+14. Nb3 Rd3 15. Qg3 Rxg3 *

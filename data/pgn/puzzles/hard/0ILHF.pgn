@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ILHF"]
+[Difficulty "hard"]
+[Rating "2363"]
+[Themes "advantage endgame queenEndgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/IXHLgHkz/black#100"]
+[Solution "a7a5 b7d5 b6b5 d5f3 b5b4 c3b4 a5b4 f3a8"]
+[SolutionSAN "a5 Qxd5 b5 Qf3 b4 cxb4 axb4 Qa8+"]
+[FEN "8/pQ6/1p4q1/3pP3/k1pP4/2P5/1K6/8 b - - 3 50"]
+[SetUp "1"]
+
+50... a5 51. Qxd5 b5 52. Qf3 b4 53. cxb4 axb4 54. Qa8+ *

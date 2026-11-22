@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04cnA"]
+[Difficulty "medium"]
+[Rating "1369"]
+[Themes "crushing deflection endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/4aUBYSC6#87"]
+[Solution "f1f5 h7h4 g4h4 g6f5"]
+[SolutionSAN "Rf5 Rxh4+ Kxh4 Kxf5"]
+[FEN "8/1p5r/6k1/1p1p4/1P1Pp1KP/2P5/8/5R2 w - - 8 44"]
+[SetUp "1"]
+
+44. Rf5 Rxh4+ 45. Kxh4 Kxf5 *

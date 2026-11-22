@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09xmA"]
+[Difficulty "easy"]
+[Rating "1157"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/Xo53qSg6#43"]
+[Solution "b1c1 e8e1 c1e1 c8c4"]
+[SolutionSAN "Rbc1 Rxe1+ Rxe1 Rxc4"]
+[FEN "2r1r1k1/p2n1pp1/1p5p/8/2BP4/6P1/P4PP1/1R2R1K1 w - - 1 22"]
+[SetUp "1"]
+
+22. Rbc1 Rxe1+ 23. Rxe1 Rxc4 *

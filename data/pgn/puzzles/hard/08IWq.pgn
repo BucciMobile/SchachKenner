@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08IWq"]
+[Difficulty "hard"]
+[Rating "1785"]
+[Themes "endgame mate mateIn2 pin short"]
+[GameUrl "https://lichess.org/game/tLUDzkSl/black#60"]
+[Solution "c5f2 g4h5 h7g8 h5h8"]
+[SolutionSAN "Bxf2 Qh5+ Kg8 Qh8#"]
+[FEN "8/5p1k/ppqp1Bp1/2b5/6Q1/3B3P/P4PPK/4r3 b - - 4 30"]
+[SetUp "1"]
+
+30... Bxf2 31. Qh5+ Kg8 32. Qh8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04gq1"]
+[Difficulty "easy"]
+[Rating "490"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/hk60YEKo/black#56"]
+[Solution "g5f3 e2e8 f8e8 e1e8"]
+[SolutionSAN "Nf3 Re8+ Rxe8 Qxe8#"]
+[FEN "2k2r2/pppn2p1/3b4/6n1/3P2q1/2P5/PP2R3/RN1KQ3 b - - 6 28"]
+[SetUp "1"]
+
+28... Nf3 29. Re8+ Rxe8 30. Qxe8# *

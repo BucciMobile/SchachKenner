@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01iMq"]
+[Difficulty "medium"]
+[Rating "1386"]
+[Themes "advantage fork master middlegame short"]
+[GameUrl "https://lichess.org/game/gE1C8Mop/black#58"]
+[Solution "f7d6 d4e6 f6e6 e3e6"]
+[SolutionSAN "Nd6 Ne6+ Rxe6 Rxe6"]
+[FEN "5r2/p1q2nk1/b1p2r1p/3p2pQ/3N2P1/1B2R2P/PPP5/3R2K1 b - - 3 29"]
+[SetUp "1"]
+
+29... Nd6 30. Ne6+ Rxe6 31. Rxe6 *

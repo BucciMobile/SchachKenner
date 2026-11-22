@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LDss"]
+[Difficulty "medium"]
+[Rating "1625"]
+[Themes "advancedPawn crushing endgame hangingPiece promotion rookEndgame short"]
+[GameUrl "https://lichess.org/game/C3sEsxKf#107"]
+[Solution "f6f7 e1a1 f7f8q d2d1q"]
+[SolutionSAN "f7 Rxa1 f8=Q d1=Q+"]
+[FEN "8/8/2k2P2/6PK/8/8/3p4/R3r3 w - - 2 54"]
+[SetUp "1"]
+
+54. f7 Rxa1 55. f8=Q d1=Q+ *

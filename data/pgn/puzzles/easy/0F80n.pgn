@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F80n"]
+[Difficulty "easy"]
+[Rating "811"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/PSKmZ4dB#29"]
+[Solution "c2b3 e8e1"]
+[SolutionSAN "cxb3 Rxe1#"]
+[FEN "r2qr1k1/p1p2pp1/2pP3p/2b5/8/1bP2Q2/P1P2PPP/R1B1R1K1 w - - 0 15"]
+[SetUp "1"]
+
+15. cxb3 Rxe1# *

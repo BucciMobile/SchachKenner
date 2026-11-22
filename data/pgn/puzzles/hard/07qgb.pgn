@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07qgb"]
+[Difficulty "hard"]
+[Rating "2458"]
+[Themes "crushing intermezzo middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/E0iRb55h/black#36"]
+[Solution "g7h6 f2f6 e5f6 h5h6"]
+[SolutionSAN "gxh6 Rf6 Bxf6 Qxh6"]
+[FEN "4rrk1/ppq2pp1/2p1b2B/3pb2Q/8/3B4/PPP2RPP/5R1K b - - 0 18"]
+[SetUp "1"]
+
+18... gxh6 19. Rf6 Bxf6 20. Qxh6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AFgI"]
+[Difficulty "hard"]
+[Rating "2421"]
+[Themes "advantage capturingDefender interference middlegame short"]
+[GameUrl "https://lichess.org/game/Kmr7DJZ1/black#52"]
+[Solution "h4g3 e2g3 d6f4 e3f2"]
+[SolutionSAN "hxg3 Nxg3 Bf4 Qxf2"]
+[FEN "5rk1/pp6/2pb1q2/3p2p1/3P3p/2P1Q1P1/PP1NNnKP/5R2 b - - 1 26"]
+[SetUp "1"]
+
+26... hxg3 27. Nxg3 Bf4 28. Qxf2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IGX0"]
+[Difficulty "hard"]
+[Rating "2359"]
+[Themes "advantage attraction endgame long sacrifice"]
+[GameUrl "https://lichess.org/game/Kik5VCYo#61"]
+[Solution "b1b3 f3e3 d3e3 g2f2 e3d3 f2f3"]
+[SolutionSAN "Qb3 Rxe3+ Kxe3 Qf2+ Kd3 Qf3+"]
+[FEN "2k5/1pp5/3p4/RP2p3/3PP2p/3KBrp1/2P3q1/1Q6 w - - 0 31"]
+[SetUp "1"]
+
+31. Qb3 Rxe3+ 32. Kxe3 Qf2+ 33. Kd3 Qf3+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gbrn"]
+[Difficulty "hard"]
+[Rating "2005"]
+[Themes "crushing defensiveMove endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/zgK6lMNx#97"]
+[Solution "f3g3 h4g3 h3h4 c4d5"]
+[SolutionSAN "Rxg3 hxg3 h4 Kd5"]
+[FEN "8/8/8/1p2p3/p1k4p/5RbP/1PK3P1/8 w - - 2 49"]
+[SetUp "1"]
+
+49. Rxg3 hxg3 50. h4 Kd5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EVvX"]
+[Difficulty "easy"]
+[Rating "1057"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/aULaQEBO#85"]
+[Solution "h2h3 h7h3 g2h3 e3h3"]
+[SolutionSAN "h3 Rxh3+ gxh3 Qxh3#"]
+[FEN "8/7r/2Q5/k2Pp3/4P3/4q3/P5PP/6RK w - - 13 43"]
+[SetUp "1"]
+
+43. h3 Rxh3+ 44. gxh3 Qxh3# *

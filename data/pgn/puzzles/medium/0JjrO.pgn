@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JjrO"]
+[Difficulty "medium"]
+[Rating "1525"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/tndRDCyz/black#42"]
+[Solution "d8b6 f3f6 d5d4 b2d4 b6d4 d1d4"]
+[SolutionSAN "Qb6 Qf6 d4 Bxd4 Qxd4 Rxd4"]
+[FEN "r2qr1k1/1p3p1p/2n3p1/p2p4/8/5Q1P/PBP2PP1/3R1RK1 b - - 1 21"]
+[SetUp "1"]
+
+21... Qb6 22. Qf6 d4 23. Bxd4 Qxd4 24. Rxd4 *

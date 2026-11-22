@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0493c"]
+[Difficulty "easy"]
+[Rating "968"]
+[Themes "advantage endgame veryLong"]
+[GameUrl "https://lichess.org/game/YbWE3W26#49"]
+[Solution "e2e7 h5h2 h1g1 h2h1 g1f2 h6h2 f2e3 h1e1"]
+[SolutionSAN "Rxe7 Rxh2+ Kg1 Rh1+ Kf2 R6h2+ Ke3 Re1+"]
+[FEN "7k/ppp1bp1p/7r/3P3r/2p5/2N2RP1/PP2R2P/7K w - - 0 25"]
+[SetUp "1"]
+
+25. Rxe7 Rxh2+ 26. Kg1 Rh1+ 27. Kf2 R6h2+ 28. Ke3 Re1+ *

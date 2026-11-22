@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BsuL"]
+[Difficulty "easy"]
+[Rating "1139"]
+[Themes "crushing discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/RC6P7ORO/black#58"]
+[Solution "a7b6 e5c7 b6c7 e2e7"]
+[SolutionSAN "Bb6 Bxc7+ Bxc7 Rxe7"]
+[FEN "1k2r3/b1p1r1pp/p7/3PB3/2p5/8/P1PKR2P/4R3 b - - 0 29"]
+[SetUp "1"]
+
+29... Bb6 30. Bxc7+ Bxc7 31. Rxe7 *

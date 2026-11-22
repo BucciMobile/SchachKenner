@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K9Em"]
+[Difficulty "hard"]
+[Rating "2403"]
+[Themes "advantage exposedKing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/zKeJNi9J/black#34"]
+[Solution "f8h6 g3h4 e8h8 h4h6 h7g8 a1d1 d8d1 e1d1 h8h6 e3h6"]
+[SolutionSAN "Bh6 Qh4 Rh8 Qxh6+ Kg8 Rd1 Qxd1+ Kxd1 Rxh6 Bxh6"]
+[FEN "r1bqrb2/ppp2p1k/5p2/4p3/2P1P3/4B1QP/PPP2PP1/R3K2R b KQ - 9 17"]
+[SetUp "1"]
+
+17... Bh6 18. Qh4 Rh8 19. Qxh6+ Kg8 20. Rd1 Qxd1+ 21. Kxd1 Rxh6 22. Bxh6 *

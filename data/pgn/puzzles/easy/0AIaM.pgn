@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AIaM"]
+[Difficulty "easy"]
+[Rating "1044"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/z8L4HGXc/black#32"]
+[Solution "h8e8 d5b6"]
+[SolutionSAN "Rhe8 Nb6#"]
+[FEN "2kr3r/1p2bppp/p1n5/2pN4/2b1PB2/2N2P2/1PP3PP/2KR3R b - - 3 16"]
+[SetUp "1"]
+
+16... Rhe8 17. Nb6# *

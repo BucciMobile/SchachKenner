@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05JYh"]
+[Difficulty "easy"]
+[Rating "531"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/qzYP7shU/black#34"]
+[Solution "g6e4 f3f7"]
+[SolutionSAN "Be4 Qxf7#"]
+[FEN "2rqk2r/3n1ppp/p1pbp1b1/3pN3/N1PP2P1/5Q1P/PP1B1P2/2R1R1K1 b k - 0 17"]
+[SetUp "1"]
+
+17... Be4 18. Qxf7# *

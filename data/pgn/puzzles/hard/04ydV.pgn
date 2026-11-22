@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04ydV"]
+[Difficulty "hard"]
+[Rating "2718"]
+[Themes "advancedPawn advantage long middlegame promotion sacrifice"]
+[GameUrl "https://lichess.org/game/t1VNf9XY#49"]
+[Solution "d2e4 c2e2 e1e2 d3e2 e4g3 e2e1q"]
+[SolutionSAN "Nxe4 Qe2 Rxe2 dxe2 Ng3 e1=Q+"]
+[FEN "4r1k1/p4pbp/6p1/3Q4/1P2p3/3p3P/P1qN1PPB/4R1K1 w - - 1 25"]
+[SetUp "1"]
+
+25. Nxe4 Qe2 26. Rxe2 dxe2 27. Ng3 e1=Q+ *

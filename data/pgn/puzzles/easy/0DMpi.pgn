@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DMpi"]
+[Difficulty "easy"]
+[Rating "1009"]
+[Themes "endgame hookMate mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/AWs03ytj#65"]
+[Solution "a1a3 b8b1 c1d2 b1d1"]
+[SolutionSAN "Rxa3 Rb1+ Kd2 Rd1#"]
+[FEN "1r3k2/5ppp/8/2R2pPP/3p4/p1nP4/2P5/R1K5 w - - 1 33"]
+[SetUp "1"]
+
+33. Rxa3 Rb1+ 34. Kd2 Rd1# *

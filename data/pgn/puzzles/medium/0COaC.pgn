@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0COaC"]
+[Difficulty "medium"]
+[Rating "1540"]
+[Themes "advancedPawn crushing endgame long promotion queenEndgame"]
+[GameUrl "https://lichess.org/game/GGo89HYo/black#98"]
+[Solution "b2b6 d3a3 e7d7 a6a7 b6d4 a7a8q"]
+[SolutionSAN "Qb6 Qa3+ Kd7 a7 Qxd4 a8=Q"]
+[FEN "8/4k3/P3p1p1/3p2p1/3P2P1/3Q1K2/1q6/8 b - - 7 49"]
+[SetUp "1"]
+
+49... Qb6 50. Qa3+ Kd7 51. a7 Qxd4 52. a8=Q *

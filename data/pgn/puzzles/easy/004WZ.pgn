@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "004WZ"]
+[Difficulty "easy"]
+[Rating "866"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/BQIdXPOM#51"]
+[Solution "f1g1 c6h1"]
+[SolutionSAN "Kxg1 Qh1#"]
+[FEN "r6k/1b3pp1/p1q1pn1p/2p5/P1B5/1PN4Q/2P1RP1P/R4Kr1 w - - 2 26"]
+[SetUp "1"]
+
+26. Kxg1 Qh1# *

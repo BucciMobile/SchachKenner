@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06RzD"]
+[Difficulty "hard"]
+[Rating "2383"]
+[Themes "attraction crushing kingsideAttack middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/Qk1nS4Pw/black#32"]
+[Solution "f5e3 d3h7 g8h7 d1h5 h7g8 f2f3 g7g6 e5g6"]
+[SolutionSAN "Nxe3 Bxh7+ Kxh7 Qh5+ Kg8 Rf3 g6 Nxg6"]
+[FEN "r2q1rk1/pb3ppp/1p1bp3/2ppNnP1/3P1P2/2PBP3/PP1N1R1P/R2Q3K b - - 0 16"]
+[SetUp "1"]
+
+16... Nxe3 17. Bxh7+ Kxh7 18. Qh5+ Kg8 19. Rf3 g6 20. Nxg6 *

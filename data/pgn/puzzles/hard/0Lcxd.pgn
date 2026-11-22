@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lcxd"]
+[Difficulty "hard"]
+[Rating "2945"]
+[Themes "bishopEndgame crushing defensiveMove endgame quietMove veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/FylHbm2l#89"]
+[Solution "e2d2 c4b3 a3c1 a4a3 c1a3 b3a3 d2c3 g7g5 c3d3 a3b3 d3e4 b3c2 e4f5 h7h6"]
+[SolutionSAN "Kd2 Kb3 Bc1 a3 Bxa3 Kxa3 Kc3 g5 Kd3 Kb3 Ke4 Kc2 Kf5 h6"]
+[FEN "8/6pp/5p2/4p3/p1k3P1/B6P/4KP2/8 w - - 8 45"]
+[SetUp "1"]
+
+45. Kd2 Kb3 46. Bc1 a3 47. Bxa3 Kxa3 48. Kc3 g5 49. Kd3 Kb3 50. Ke4 Kc2 51. Kf5 h6 *

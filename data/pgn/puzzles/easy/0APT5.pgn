@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0APT5"]
+[Difficulty "easy"]
+[Rating "828"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/YMbKHRMS#61"]
+[Solution "f3f6 c6g2"]
+[SolutionSAN "Rxf6 Qxg2#"]
+[FEN "2r3k1/1p2R3/p1q2rpp/8/3P3n/2PQ1R2/P1B3PP/6K1 w - - 4 31"]
+[SetUp "1"]
+
+31. Rxf6 Qxg2# *

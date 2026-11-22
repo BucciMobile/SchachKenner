@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lgr3"]
+[Difficulty "medium"]
+[Rating "1485"]
+[Themes "crushing defensiveMove endgame master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/Qo2LaC2y#91"]
+[Solution "d4a7 c8a7 h1d5 a7b5"]
+[SolutionSAN "Bxa7 Nxa7 Bxd5 Nb5"]
+[FEN "2n5/rK6/8/3p4/3B4/6kp/8/7B w - - 0 46"]
+[SetUp "1"]
+
+46. Bxa7 Nxa7 47. Bxd5 Nb5 *

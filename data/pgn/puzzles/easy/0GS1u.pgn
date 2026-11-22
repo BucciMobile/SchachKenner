@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GS1u"]
+[Difficulty "easy"]
+[Rating "798"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/HFOdWZZO/black#72"]
+[Solution "b4a3 c2c3 c6b7 c3a3"]
+[SolutionSAN "Bxa3 Rxc3+ Kb7 Rxa3"]
+[FEN "8/7p/2k3p1/pp3p2/1b1K4/P1p2PP1/2R4P/8 b - - 0 36"]
+[SetUp "1"]
+
+36... Bxa3 37. Rxc3+ Kb7 38. Rxa3 *

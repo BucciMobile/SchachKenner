@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Kbu"]
+[Difficulty "easy"]
+[Rating "977"]
+[Themes "mate mateIn1 middlegame oneMove operaMate"]
+[GameUrl "https://lichess.org/game/sTlSs7Na#47"]
+[Solution "f3e1 e8e1"]
+[SolutionSAN "Nxe1 Rxe1#"]
+[FEN "2k1r3/ppp5/6p1/3p1b2/6nP/2Pp1NP1/PP1N1bR1/R1B1rK2 w - - 2 24"]
+[SetUp "1"]
+
+24. Nxe1 Rxe1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01lB9"]
+[Difficulty "easy"]
+[Rating "913"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/DAhE0yC8#41"]
+[Solution "b2d4 e5f3 g1g2 f3d4 f4b8 c8b8"]
+[SolutionSAN "Qxd4 Nf3+ Kg2 Nxd4 Bxb8 Kxb8"]
+[FEN "1qkr3r/pp1b2p1/5p2/3Pn2p/2Pp1B2/P2B2P1/1Q3P1P/1R3RK1 w - - 2 21"]
+[SetUp "1"]
+
+21. Qxd4 Nf3+ 22. Kg2 Nxd4 23. Bxb8 Kxb8 *

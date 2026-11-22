@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09KWR"]
+[Difficulty "medium"]
+[Rating "1288"]
+[Themes "advantage discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/QopbdY1K#47"]
+[Solution "d2e4 d6h2 g1h2 b6g6"]
+[SolutionSAN "Nxe4 Bh2+ Kxh2 Qxg6"]
+[FEN "6k1/pp4p1/1q1b2Qp/3p4/3Pn1P1/1PP4P/3N1P2/4N1K1 w - - 1 24"]
+[SetUp "1"]
+
+24. Nxe4 Bh2+ 25. Kxh2 Qxg6 *

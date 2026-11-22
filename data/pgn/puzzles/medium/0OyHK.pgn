@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OyHK"]
+[Difficulty "medium"]
+[Rating "1511"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/giwidfrc#49"]
+[Solution "c5b6 g2h2 h1h2 e7h4"]
+[SolutionSAN "cxb6 Rxh2+ Kxh2 Qh4#"]
+[FEN "1k4r1/p3qp2/Pp2p3/1QPpPp1p/8/2P5/5PrP/R1B1R2K w - - 2 25"]
+[SetUp "1"]
+
+25. cxb6 Rxh2+ 26. Kxh2 Qh4# *

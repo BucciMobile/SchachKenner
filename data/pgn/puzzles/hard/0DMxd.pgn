@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DMxd"]
+[Difficulty "hard"]
+[Rating "1972"]
+[Themes "attraction kingsideAttack long master mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/V7DQ1YD8#59"]
+[Solution "g1h1 c6g2 h1g2 e3g3 g2h1 g3h2"]
+[SolutionSAN "Kh1 Bxg2+ Kxg2 Qg3+ Kh1 Qh2#"]
+[FEN "6k1/p1b4p/1pb3r1/2p2pNQ/7P/2P1q3/PP4P1/3R1RK1 w - - 1 30"]
+[SetUp "1"]
+
+30. Kh1 Bxg2+ 31. Kxg2 Qg3+ 32. Kh1 Qh2# *

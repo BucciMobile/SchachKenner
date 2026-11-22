@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CUrX"]
+[Difficulty "hard"]
+[Rating "2159"]
+[Themes "crushing defensiveMove endgame long pawnEndgame zugzwang"]
+[GameUrl "https://lichess.org/game/PuQhnCgP#81"]
+[Solution "e3d3 d6d5 e4d5 c6d5 d3e3 d5e5"]
+[SolutionSAN "Kd3 d5 exd5+ Kxd5 Ke3 Ke5"]
+[FEN "8/8/2kp3p/2p3pP/1p2P1P1/1P2K3/P7/8 w - - 0 41"]
+[SetUp "1"]
+
+41. Kd3 d5 42. exd5+ Kxd5 43. Ke3 Ke5 *

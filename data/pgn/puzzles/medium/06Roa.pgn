@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Roa"]
+[Difficulty "medium"]
+[Rating "1308"]
+[Themes "crushing kingsideAttack long middlegame xRayAttack"]
+[GameUrl "https://lichess.org/game/jY8yGXhv/black#44"]
+[Solution "d7e7 f4b8 f6e8 b8e8 e7e8 e1e8"]
+[SolutionSAN "Re7 Qb8+ Ne8 Qxe8+ Rxe8 Rxe8+"]
+[FEN "6k1/3r1ppp/2p2n2/ppqb4/5Q2/2P3P1/PPB2P1P/1N2R1K1 b - - 3 22"]
+[SetUp "1"]
+
+22... Re7 23. Qb8+ Ne8 24. Qxe8+ Rxe8 25. Rxe8+ *

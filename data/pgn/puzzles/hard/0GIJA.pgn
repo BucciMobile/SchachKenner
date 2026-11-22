@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GIJA"]
+[Difficulty "hard"]
+[Rating "1867"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/TnZAssAj/black#44"]
+[Solution "d8g8 e5f6 e7f8 h7g7"]
+[SolutionSAN "Rg8 exf6+ Kf8 Rg7"]
+[FEN "2rr4/1b2kp1R/pp1ppp2/4P3/2qN1P2/2P3Q1/P5PP/R6K b - - 0 22"]
+[SetUp "1"]
+
+22... Rg8 23. exf6+ Kf8 24. Rg7 *

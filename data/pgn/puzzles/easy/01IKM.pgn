@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01IKM"]
+[Difficulty "easy"]
+[Rating "934"]
+[Themes "advancedPawn crushing endgame long master promotion queenRookEndgame"]
+[GameUrl "https://lichess.org/game/9eAmZrdx#79"]
+[Solution "d7c7 a2a1 h1h2 c2c1q c7c1 a1c1"]
+[SolutionSAN "Qc7 Ra1+ Kh2 c1=Q Qxc1 Rxc1"]
+[FEN "8/3Q1pkp/6p1/8/4Pp2/7P/r1p3P1/7K w - - 0 40"]
+[SetUp "1"]
+
+40. Qc7 Ra1+ 41. Kh2 c1=Q 42. Qxc1 Rxc1 *

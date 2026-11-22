@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HE4C"]
+[Difficulty "easy"]
+[Rating "979"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/xmsf8oFJ/black#82"]
+[Solution "f8f4 d2f3 f4f3 g3f3"]
+[SolutionSAN "Rf4 Nf3+ Rxf3+ Kxf3"]
+[FEN "5r2/8/2p3pp/3p2k1/1P4P1/1BP3K1/3N4/8 b - - 1 41"]
+[SetUp "1"]
+
+41... Rf4 42. Nf3+ Rxf3+ 43. Kxf3 *

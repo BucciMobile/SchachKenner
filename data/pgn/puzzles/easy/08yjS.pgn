@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08yjS"]
+[Difficulty "easy"]
+[Rating "718"]
+[Themes "crushing endgame master rookEndgame short skewer"]
+[GameUrl "https://lichess.org/game/pSAVRzw7/black#90"]
+[Solution "c6b6 h5h6 e6d7 h6b6"]
+[SolutionSAN "Rxb6 Rh6+ Kd7 Rxb6"]
+[FEN "8/1p6/pPr1k3/4p1pR/6P1/6K1/8/8 b - - 5 45"]
+[SetUp "1"]
+
+45... Rxb6 46. Rh6+ Kd7 47. Rxb6 *

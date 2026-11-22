@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03f5q"]
+[Difficulty "medium"]
+[Rating "1234"]
+[Themes "advantage capturingDefender middlegame short"]
+[GameUrl "https://lichess.org/game/XFiZnahK/black#62"]
+[Solution "c2c8 b7c8 d8c8 d2d7"]
+[SolutionSAN "Qc8 Qxc8 Rxc8 Rxd7+"]
+[FEN "3r1r2/pQ1n2k1/1p4p1/4p2p/1P6/5NP1/P1qR2K1/5R2 b - - 2 31"]
+[SetUp "1"]
+
+31... Qc8 32. Qxc8 Rxc8 33. Rxd7+ *

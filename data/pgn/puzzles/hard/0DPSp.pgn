@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DPSp"]
+[Difficulty "hard"]
+[Rating "2074"]
+[Themes "advantage clearance long middlegame"]
+[GameUrl "https://lichess.org/game/b04Pku2h#39"]
+[Solution "g1f1 h5f4 c3e2 h8h1 e2g1 e7h4"]
+[SolutionSAN "Kf1 Nf4 Ne2 Rh1+ Ng1 Qh4"]
+[FEN "r4k1r/4qpp1/p7/2pPp2n/Q3P1p1/2NB4/PP3PP1/3RR1K1 w - - 0 20"]
+[SetUp "1"]
+
+20. Kf1 Nf4 21. Ne2 Rh1+ 22. Ng1 Qh4 *

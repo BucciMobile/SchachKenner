@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FeSD"]
+[Difficulty "hard"]
+[Rating "2120"]
+[Themes "advancedPawn crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/SjJ0z2dw/black#92"]
+[Solution "d4d3 g6g7 f8g8 c7c8"]
+[SolutionSAN "d3 g7+ Kg8 Rc8"]
+[FEN "4bk2/p1R5/1p3PP1/6P1/3p1K2/8/8/r7 b - - 1 46"]
+[SetUp "1"]
+
+46... d3 47. g7+ Kg8 48. Rc8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BShW"]
+[Difficulty "medium"]
+[Rating "1621"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/nOTOyder#51"]
+[Solution "e1d2 h8d8 d2d5 d8d5"]
+[SolutionSAN "Qd2 Rd8 Qd5+ Rxd5"]
+[FEN "7r/2q3p1/4k2p/1pP1p1b1/4P3/1P2B2P/2P3P1/3RQ1K1 w - - 1 26"]
+[SetUp "1"]
+
+26. Qd2 Rd8 27. Qd5+ Rxd5 *

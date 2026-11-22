@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07GJT"]
+[Difficulty "medium"]
+[Rating "1475"]
+[Themes "advantage endgame long master rookEndgame"]
+[GameUrl "https://lichess.org/game/qDjv45no/black#60"]
+[Solution "d7d6 f4f5 g6f5 g4f5 e6d7 a6a7"]
+[SolutionSAN "Rd6 f5+ gxf5 gxf5+ Kd7 Rxa7+"]
+[FEN "8/p2r4/R3kpp1/3p3p/3K1PP1/8/P6P/8 b - - 1 30"]
+[SetUp "1"]
+
+30... Rd6 31. f5+ gxf5 32. gxf5+ Kd7 33. Rxa7+ *

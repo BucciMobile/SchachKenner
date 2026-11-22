@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05l29"]
+[Difficulty "medium"]
+[Rating "1297"]
+[Themes "advantage discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/dIQyUTZg/black#40"]
+[Solution "c4b2 c3d5 e6d5 d4b2"]
+[SolutionSAN "Nxb2 Nxd5 exd5 Qxb2"]
+[FEN "2r1r1k1/4qppp/p3p3/1p1bP3/2nQ4/2N2N2/PP3PPP/3RR1K1 b - - 5 20"]
+[SetUp "1"]
+
+20... Nxb2 21. Nxd5 exd5 22. Qxb2 *

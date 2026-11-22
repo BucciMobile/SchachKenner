@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "025Om"]
+[Difficulty "hard"]
+[Rating "2665"]
+[Themes "crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/jpcpDSdw#75"]
+[Solution "a5a6 d2d1 f1e2 d3c1 e2e3 g6g5"]
+[SolutionSAN "a6 Rd1+ Ke2 Nc1+ Ke3 g5"]
+[FEN "8/3r2kp/6p1/P7/4P3/R2n1R1P/3r1PP1/5K2 w - - 1 38"]
+[SetUp "1"]
+
+38. a6 Rd1+ 39. Ke2 Nc1+ 40. Ke3 g5 *

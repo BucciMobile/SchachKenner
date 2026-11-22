@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C9TM"]
+[Difficulty "hard"]
+[Rating "2089"]
+[Themes "deflection long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/Ijm0QZxY/black#76"]
+[Solution "h8h7 a7a8 c8d7 e6f8 d7e7 c2c7"]
+[SolutionSAN "Rh7 Ra8+ Kd7 Nf8+ Ke7 Rxc7#"]
+[FEN "2k4r/Rnp5/4N3/4Pp1p/6q1/5bP1/2R2P1P/5K2 b - - 2 38"]
+[SetUp "1"]
+
+38... Rh7 39. Ra8+ Kd7 40. Nf8+ Ke7 41. Rxc7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05zfA"]
+[Difficulty "easy"]
+[Rating "675"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/ktkq6OHB/black#32"]
+[Solution "e7d5 e1e8"]
+[SolutionSAN "Nxd5 Rxe8#"]
+[FEN "r1b1r1k1/pp2npp1/1q5p/3Q4/3P4/2PB1N2/PP3KPP/R1B1R3 b - - 0 16"]
+[SetUp "1"]
+
+16... Nxd5 17. Rxe8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GeTd"]
+[Difficulty "medium"]
+[Rating "1441"]
+[Themes "advantage discoveredAttack fork long middlegame"]
+[GameUrl "https://lichess.org/game/rRQYxjsZ/black#52"]
+[Solution "e5b2 d5e7 g8f8 d1d8 f8e7 d8c8"]
+[SolutionSAN "Qb2 Ne7+ Kf8 Rxd8+ Kxe7 Rxc8"]
+[FEN "1nbr2k1/5p1p/n5p1/1N1Nq3/P3PP2/1P4P1/6BP/3R1RK1 b - - 0 26"]
+[SetUp "1"]
+
+26... Qb2 27. Ne7+ Kf8 28. Rxd8+ Kxe7 29. Rxc8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BVOy"]
+[Difficulty "easy"]
+[Rating "606"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/zziry54n/black#24"]
+[Solution "f6g5 f3f7"]
+[SolutionSAN "fxg5 Qxf7#"]
+[FEN "r1bqk2r/pp1pbp1p/2p2p2/4P1B1/2B5/2P2Q2/P4PPP/R3K2R b KQkq - 0 12"]
+[SetUp "1"]
+
+12... fxg5 13. Qxf7# *

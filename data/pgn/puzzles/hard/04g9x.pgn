@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04g9x"]
+[Difficulty "hard"]
+[Rating "2305"]
+[Themes "advantage clearance endgame long"]
+[GameUrl "https://lichess.org/game/IXNrX54j/black#90"]
+[Solution "c7c3 e5f3 h4f6 e2e8 f6f8 e8f8"]
+[SolutionSAN "Rc3 Nf3 Qf6 Re8+ Qf8 Rxf8+"]
+[FEN "3r3k/ppr3pp/8/1Q1pN3/P2P1PPq/7P/4R1K1/8 b - - 4 45"]
+[SetUp "1"]
+
+45... Rc3 46. Nf3 Qf6 47. Re8+ Qf8 48. Rxf8+ *

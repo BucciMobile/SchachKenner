@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03L7g"]
+[Difficulty "medium"]
+[Rating "1323"]
+[Themes "advantage attraction endgame fork long sacrifice"]
+[GameUrl "https://lichess.org/game/dAL26HhI/black#58"]
+[Solution "f4d5 f3f8 g8f8 d4e6 f8f7 e6g5"]
+[SolutionSAN "Nd5 Qxf8+ Kxf8 Nxe6+ Kf7 Nxg5+"]
+[FEN "5rk1/1p4p1/p3p2p/6q1/3N1n2/P4Q1P/1PP3P1/4B2K b - - 0 29"]
+[SetUp "1"]
+
+29... Nd5 30. Qxf8+ Kxf8 31. Nxe6+ Kf7 32. Nxg5+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MvRo"]
+[Difficulty "medium"]
+[Rating "1483"]
+[Themes "advantage discoveredAttack opening short"]
+[GameUrl "https://lichess.org/game/upyb0T2w#21"]
+[Solution "e1g1 d5b4 a6a4 e6c4"]
+[SolutionSAN "O-O Nb4 Qa4 Bxc4"]
+[FEN "1r1qkb1r/p3nppp/Q1ppb3/3nP3/2BP4/5N2/PP3PPP/RNB1K2R w KQk - 0 11"]
+[SetUp "1"]
+
+11. O-O Nb4 12. Qa4 Bxc4 *

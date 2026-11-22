@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0817X"]
+[Difficulty "easy"]
+[Rating "1143"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/vFFgFItv#17"]
+[Solution "a1b1 b4c2 d1c2 b2c2"]
+[SolutionSAN "Rb1 Nxc2+ Qxc2 Qxc2"]
+[FEN "r1b1k1nr/pppp1ppp/8/3NP3/1n6/8/PqPNPPPP/R2QKB1R w KQkq - 1 9"]
+[SetUp "1"]
+
+9. Rb1 Nxc2+ 10. Qxc2 Qxc2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JA4J"]
+[Difficulty "medium"]
+[Rating "1594"]
+[Themes "advancedPawn advantage attraction discoveredAttack endgame long"]
+[GameUrl "https://lichess.org/game/3Nihv8Y5/black#50"]
+[Solution "f6c3 e6f7 g8f7 e4d5 f7g7 e1e7"]
+[SolutionSAN "Bxc3 exf7+ Kxf7 Qd5+ Kg7 Rxe7+"]
+[FEN "4r1k1/p1p1qp1p/4Pbp1/8/2P1QP2/2N4P/P5P1/4R1K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Bxc3 26. exf7+ Kxf7 27. Qd5+ Kg7 28. Rxe7+ *

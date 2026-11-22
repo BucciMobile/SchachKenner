@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BH6v"]
+[Difficulty "medium"]
+[Rating "1539"]
+[Themes "advantage deflection endgame exposedKing long pin"]
+[GameUrl "https://lichess.org/game/75RsctR2#81"]
+[Solution "b2b3 a3a6 c2c4 a2d2 d3d2 a6c4"]
+[SolutionSAN "Rb3 Qa6+ Qc4 Rd2+ Kxd2 Qxc4"]
+[FEN "7k/5pp1/2p5/2p1P3/3p1PP1/q2K3P/rRQ5/7R w - - 10 41"]
+[SetUp "1"]
+
+41. Rb3 Qa6+ 42. Qc4 Rd2+ 43. Kxd2 Qxc4 *

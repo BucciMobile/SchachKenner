@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ofht"]
+[Difficulty "medium"]
+[Rating "1511"]
+[Themes "attraction crushing deflection endgame exposedKing long"]
+[GameUrl "https://lichess.org/game/BLYMXUAL/black#64"]
+[Solution "f7f6 e5e6 d7e6 c3c6 c8c6 c1c6"]
+[SolutionSAN "f6 e6+ Kxe6 Rxc6+ Rxc6 Rxc6+"]
+[FEN "2r5/3k1ppp/1pr4n/p2pP3/3P2P1/2R4P/PP3B2/2R4K b - - 0 32"]
+[SetUp "1"]
+
+32... f6 33. e6+ Kxe6 34. Rxc6+ Rxc6 35. Rxc6+ *

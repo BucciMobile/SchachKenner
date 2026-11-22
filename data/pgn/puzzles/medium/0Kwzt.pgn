@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kwzt"]
+[Difficulty "medium"]
+[Rating "1697"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/nqw0kVus/black#28"]
+[Solution "a7a5 f1c4 e8e5 c4d5"]
+[SolutionSAN "a5 Bc4 Rxe5 Bxd5"]
+[FEN "r1b1r1k1/ppp2ppp/1b3n2/2BqN3/1P1Pn3/P3P3/5PPP/R2QKB1R b KQ - 2 14"]
+[SetUp "1"]
+
+14... a5 15. Bc4 Rxe5 16. Bxd5 *

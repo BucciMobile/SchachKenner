@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00rHa"]
+[Difficulty "hard"]
+[Rating "1920"]
+[Themes "deflection fork long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/e3RK92Rx#27"]
+[Solution "f1b5 a4c2 d4c2 a3b3 b1a1 b4c2"]
+[SolutionSAN "Bb5 Bxc2+ Nxc2 Qb3+ Ka1 Nxc2#"]
+[FEN "2kr3r/pp2nppp/4p3/2PpP3/bn1N2Q1/q1N5/2PB1PPP/1K1R1B1R w - - 4 14"]
+[SetUp "1"]
+
+14. Bb5 Bxc2+ 15. Nxc2 Qb3+ 16. Ka1 Nxc2# *

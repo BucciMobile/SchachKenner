@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05GUn"]
+[Difficulty "hard"]
+[Rating "2058"]
+[Themes "crushing fork long opening"]
+[GameUrl "https://lichess.org/game/L47R7CCJ/black#20"]
+[Solution "b3a2 b2b4 a5d8 d5c7 d8c7 c3c7"]
+[SolutionSAN "bxa2 b4 Qd8 Nc7+ Qxc7 Rxc7"]
+[FEN "rnb1kb1r/p2ppp1p/6p1/qP1N4/8/1pR5/PP2PPPP/3QKBNR b Kkq - 1 10"]
+[SetUp "1"]
+
+10... bxa2 11. b4 Qd8 12. Nc7+ Qxc7 13. Rxc7 *

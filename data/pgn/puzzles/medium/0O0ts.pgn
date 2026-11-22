@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0O0ts"]
+[Difficulty "medium"]
+[Rating "1444"]
+[Themes "advancedPawn crushing endgame promotion veryLong"]
+[GameUrl "https://lichess.org/game/mkAXI1Lq/black#80"]
+[Solution "a2a1q d7d8q g8h7 d8d3 g7g6 b5b7 a1g7 b7g7"]
+[SolutionSAN "a1=Q d8=Q+ Kh7 Qd3+ g6 Rb7+ Qg7 Rxg7+"]
+[FEN "6k1/3P2p1/7p/1R6/5P2/1K4P1/p6P/2r5 b - - 2 40"]
+[SetUp "1"]
+
+40... a1=Q 41. d8=Q+ Kh7 42. Qd3+ g6 43. Rb7+ Qg7 44. Rxg7+ *

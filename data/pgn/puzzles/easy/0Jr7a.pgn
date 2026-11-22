@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jr7a"]
+[Difficulty "easy"]
+[Rating "1164"]
+[Themes "endgame mate mateIn1 oneMove queenEndgame"]
+[GameUrl "https://lichess.org/game/TUmSXe1E#143"]
+[Solution "a6a7 f4g5"]
+[SolutionSAN "a7 Qg5#"]
+[FEN "3k4/4p2p/P2p1p2/1Q3P1K/5q2/7P/6P1/8 w - - 13 72"]
+[SetUp "1"]
+
+72. a7 Qg5# *

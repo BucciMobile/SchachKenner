@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "087Vd"]
+[Difficulty "medium"]
+[Rating "1412"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/TUAq8rXV/black#50"]
+[Solution "a3b3 b8f8 g8f8 b2h8"]
+[SolutionSAN "Rb3 Rxf8+ Kxf8 Qh8#"]
+[FEN "1R3bk1/3qpp1p/3p2p1/3P4/p7/r2P2P1/1Q2PPKP/8 b - - 3 25"]
+[SetUp "1"]
+
+25... Rb3 26. Rxf8+ Kxf8 27. Qh8# *

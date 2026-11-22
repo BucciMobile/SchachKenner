@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AAIx"]
+[Difficulty "easy"]
+[Rating "1151"]
+[Themes "crushing endgame pin queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/l8UlEPQJ/black#90"]
+[Solution "a5a4 g7g5 e5d5 g5d5"]
+[SolutionSAN "a4 Rg5 Qd5+ Rgxd5+"]
+[FEN "8/3R2R1/2p1p3/p1k1q3/1p5P/8/6K1/8 b - - 0 45"]
+[SetUp "1"]
+
+45... a4 46. Rg5 Qd5+ 47. Rgxd5+ *

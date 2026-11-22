@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Kb6"]
+[Difficulty "easy"]
+[Rating "842"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+[GameUrl "https://lichess.org/game/SqZYoiw7/black#16"]
+[Solution "g8e7 e4d6"]
+[SolutionSAN "Nge7 Nd6#"]
+[FEN "r2qkbnr/1b1p1pp1/p1n1p2p/1pp1P3/4NP2/3PBN2/PPP3PP/R2QKB1R b KQkq - 1 8"]
+[SetUp "1"]
+
+8... Nge7 9. Nd6# *

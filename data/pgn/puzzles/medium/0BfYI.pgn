@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BfYI"]
+[Difficulty "medium"]
+[Rating "1595"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/UpbrATus/black#66"]
+[Solution "f7e6 g2c6 e8c8 a7e7"]
+[SolutionSAN "fxe6 Bxc6 Rc8 Rxe7+"]
+[FEN "4r3/R3npk1/p1p1P1p1/2P4p/8/r5P1/6BP/3R3K b - - 0 33"]
+[SetUp "1"]
+
+33... fxe6 34. Bxc6 Rc8 35. Rxe7+ *

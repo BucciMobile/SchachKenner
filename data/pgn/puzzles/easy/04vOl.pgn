@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04vOl"]
+[Difficulty "easy"]
+[Rating "1077"]
+[Themes "advancedPawn crushing endgame long promotion rookEndgame"]
+[GameUrl "https://lichess.org/game/L7vVRtOr#87"]
+[Solution "h5h6 b2b1 g1g2 c2c1q c7c1 b1c1"]
+[SolutionSAN "h6 Rb1+ Kg2 c1=Q Rxc1 Rxc1"]
+[FEN "6k1/2R5/1p4P1/7P/8/8/1rp2P2/6K1 w - - 0 44"]
+[SetUp "1"]
+
+44. h6 Rb1+ 45. Kg2 c1=Q 46. Rxc1 Rxc1 *

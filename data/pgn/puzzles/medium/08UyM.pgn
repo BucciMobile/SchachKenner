@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08UyM"]
+[Difficulty "medium"]
+[Rating "1443"]
+[Themes "crushing fork master middlegame short"]
+[GameUrl "https://lichess.org/game/5u5uZ1V6/black#54"]
+[Solution "d8c7 g5a5 c7c8 a5a6"]
+[SolutionSAN "Kc7 Qa5+ Kc8 Qxa6+"]
+[FEN "r2k1b2/p2p4/b1p1p3/6QP/8/2P1R3/P1P2P1q/3RK3 b - - 3 27"]
+[SetUp "1"]
+
+27... Kc7 28. Qa5+ Kc8 29. Qxa6+ *

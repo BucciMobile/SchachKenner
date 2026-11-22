@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HktO"]
+[Difficulty "medium"]
+[Rating "1471"]
+[Themes "crushing opening short trappedPiece"]
+[GameUrl "https://lichess.org/game/332MMCfh/black#24"]
+[Solution "b4b2 d2c3 b2c3 b5c3"]
+[SolutionSAN "Qxb2 Bc3 Qxc3 Nxc3"]
+[FEN "r1b2rk1/ppp2ppp/2n2n2/1N6/1q6/8/PPPBBPPP/R2Q1RK1 b - - 1 12"]
+[SetUp "1"]
+
+12... Qxb2 13. Bc3 Qxc3 14. Nxc3 *

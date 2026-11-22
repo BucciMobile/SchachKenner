@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GnqB"]
+[Difficulty "hard"]
+[Rating "1800"]
+[Themes "advancedPawn crushing endgame promotion queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/ylw9flM5#75"]
+[Solution "c4f7 h7h6 e1d1 c2d1q"]
+[SolutionSAN "Qf7+ Kh6 Rxd1 cxd1=Q+"]
+[FEN "3r4/pp5k/6p1/2P2p1p/2Q2P2/1P5P/P1p3P1/3rR2K w - - 1 38"]
+[SetUp "1"]
+
+38. Qf7+ Kh6 39. Rxd1 cxd1=Q+ *

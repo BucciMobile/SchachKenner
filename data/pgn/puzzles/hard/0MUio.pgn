@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MUio"]
+[Difficulty "hard"]
+[Rating "1824"]
+[Themes "advantage long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/ompAKuOI#61"]
+[Solution "b3e3 e8e4 e3e4 e2f3 e4h4 g5h4"]
+[SolutionSAN "Re3 Rxe4 Rxe4 Bf3 Rh4 gxh4"]
+[FEN "4r2r/8/5pk1/b1B3p1/3PN3/1R4P1/P3bP2/2R3K1 w - - 1 31"]
+[SetUp "1"]
+
+31. Re3 Rxe4 32. Rxe4 Bf3 33. Rh4 gxh4 *

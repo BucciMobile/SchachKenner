@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00dt1"]
+[Difficulty "hard"]
+[Rating "2117"]
+[Themes "arabianMate endgame exposedKing fork long master mate mateIn3"]
+[GameUrl "https://lichess.org/game/AQkAsoMX#107"]
+[Solution "a4a3 d4b5 a3a2 b5c3 a2a1 b4b1"]
+[SolutionSAN "Ka3 Nb5+ Ka2 Nc3+ Ka1 Rb1#"]
+[FEN "Q7/8/3B4/2p5/Krkn4/8/8/8 w - - 1 54"]
+[SetUp "1"]
+
+54. Ka3 Nb5+ 55. Ka2 Nc3+ 56. Ka1 Rb1# *

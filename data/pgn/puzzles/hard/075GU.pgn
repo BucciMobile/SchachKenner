@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "075GU"]
+[Difficulty "hard"]
+[Rating "2046"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/a1H93T3u/black#58"]
+[Solution "e8e3 g3g4 e3c3 f1f5"]
+[SolutionSAN "Re3 Qxg4 Rxc3 Rxf5+"]
+[FEN "4r3/ppp2k2/3p2qp/3P1bbN/1PP3p1/2B3Q1/P5PP/5R1K b - - 3 29"]
+[SetUp "1"]
+
+29... Re3 30. Qxg4 Rxc3 31. Rxf5+ *

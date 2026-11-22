@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "038La"]
+[Difficulty "easy"]
+[Rating "986"]
+[Themes "cornerMate master mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/zdKh4mK5#51"]
+[Solution "b5d3 g6d3 b1a1 a5b3"]
+[SolutionSAN "Bd3 Bxd3+ Ka1 Nb3#"]
+[FEN "5k1r/1p3ppp/1p4b1/nB1P2B1/1P4P1/P4P2/3r3P/1K1R3R w - - 5 26"]
+[SetUp "1"]
+
+26. Bd3 Bxd3+ 27. Ka1 Nb3# *

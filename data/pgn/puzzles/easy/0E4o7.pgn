@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E4o7"]
+[Difficulty "easy"]
+[Rating "827"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/4aEeDi2T#51"]
+[Solution "d2f4 g3f4 c1b1 h1d1"]
+[SolutionSAN "Bxf4 Bxf4+ Kb1 Qxd1#"]
+[FEN "7r/pp1k2p1/2p3Q1/6P1/5n2/3P2bP/PPPB4/R1KN3q w - - 0 26"]
+[SetUp "1"]
+
+26. Bxf4 Bxf4+ 27. Kb1 Qxd1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JR4V"]
+[Difficulty "hard"]
+[Rating "2409"]
+[Themes "crushing endgame exposedKing long rookEndgame"]
+[GameUrl "https://lichess.org/game/VY9hijrr/black#90"]
+[Solution "g7f8 f4f5 g6g7 b7b8 f8f7 g5g6"]
+[SolutionSAN "Kf8 Kf5 Rg7 Rb8+ Kf7 g6+"]
+[FEN "8/1R4k1/5pr1/6P1/5K2/8/8/8 b - - 1 45"]
+[SetUp "1"]
+
+45... Kf8 46. Kf5 Rg7 47. Rb8+ Kf7 48. g6+ *

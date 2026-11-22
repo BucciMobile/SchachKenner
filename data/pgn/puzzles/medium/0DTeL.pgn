@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DTeL"]
+[Difficulty "medium"]
+[Rating "1577"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/H35RQ6kc#41"]
+[Solution "f2f4 f8c5 e3c5 e6c5"]
+[SolutionSAN "f4 Bc5 Qxc5 Nxc5"]
+[FEN "2r2bk1/1pq3pp/r1p1np1n/p3p3/P3P3/1P2Q1PN/1BP2PBP/3R1RK1 w - - 0 21"]
+[SetUp "1"]
+
+21. f4 Bc5 22. Qxc5 Nxc5 *

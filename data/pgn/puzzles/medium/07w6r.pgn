@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07w6r"]
+[Difficulty "medium"]
+[Rating "1506"]
+[Themes "advantage middlegame veryLong"]
+[GameUrl "https://lichess.org/game/DRByT9KS/black#52"]
+[Solution "e8c8 e1e7 d6f5 e7d7 f5g7 d7g7 d8d7 g7d7"]
+[SolutionSAN "O-O-O Rxe7 Nf5 Rxd7 Nxg7 Rxg7 Rd7 Rxd7"]
+[FEN "r3kr2/pp1qp1Qp/3n2p1/2pP4/8/2N4P/5PP1/2R1R1K1 b q - 7 26"]
+[SetUp "1"]
+
+26... O-O-O 27. Rxe7 Nf5 28. Rxd7 Nxg7 29. Rxg7 Rd7 30. Rxd7 *

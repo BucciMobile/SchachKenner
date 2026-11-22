@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EzGD"]
+[Difficulty "hard"]
+[Rating "2723"]
+[Themes "advantage defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/LSwlcPL2/black#38"]
+[Solution "c8a6 e2d1 f8g8 c3d5"]
+[SolutionSAN "Ba6+ Kd1 Rg8 Nd5"]
+[FEN "r1bq1r2/p2p1p1k/1pp5/4n3/4P1np/2N5/PBBQK3/6RR b - - 1 19"]
+[SetUp "1"]
+
+19... Ba6+ 20. Kd1 Rg8 21. Nd5 *

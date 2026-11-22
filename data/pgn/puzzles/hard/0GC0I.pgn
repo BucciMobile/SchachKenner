@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GC0I"]
+[Difficulty "hard"]
+[Rating "1712"]
+[Themes "advancedPawn capturingDefender crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/24vKeuoR/black#102"]
+[Solution "e5d5 c5c6 d5d6 c6b7 d6c7 b5a6"]
+[SolutionSAN "Kd5 c6 Kd6 cxb7 Kc7 bxa6"]
+[FEN "8/1p4p1/p5p1/PPP1kp2/7P/2K5/8/8 b - - 0 51"]
+[SetUp "1"]
+
+51... Kd5 52. c6 Kd6 53. cxb7 Kc7 54. bxa6 *

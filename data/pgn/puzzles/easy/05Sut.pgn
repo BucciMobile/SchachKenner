@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Sut"]
+[Difficulty "easy"]
+[Rating "593"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion short"]
+[GameUrl "https://lichess.org/game/lcLnEpo4#79"]
+[Solution "a5a6 g3g2 b5b6 g2g1q"]
+[SolutionSAN "Ka6 g2 b6 g1=Q"]
+[FEN "6k1/8/8/KP6/8/6p1/P7/8 w - - 0 40"]
+[SetUp "1"]
+
+40. Ka6 g2 41. b6 g1=Q *

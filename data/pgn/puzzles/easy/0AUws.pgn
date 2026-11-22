@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AUws"]
+[Difficulty "easy"]
+[Rating "496"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/A5bhurea#23"]
+[Solution "e5h8 c4f1"]
+[SolutionSAN "Qxh8 Qxf1#"]
+[FEN "r1b1k1nr/ppppbp1p/8/3NQ3/2q1P3/8/PPPP2PP/R1B2R1K w kq - 1 12"]
+[SetUp "1"]
+
+12. Qxh8 Qxf1# *

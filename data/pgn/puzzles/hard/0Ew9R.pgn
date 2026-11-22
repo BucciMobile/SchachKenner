@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ew9R"]
+[Difficulty "hard"]
+[Rating "2435"]
+[Themes "crushing kingsideAttack middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/FkMsVcbr/black#96"]
+[Solution "g7h8 e4h4 b8b7 h4f6 h8g8 b5c4 b7a7 f6d8 g8g7 d8d5"]
+[SolutionSAN "Kh8 Qh4 Rb7 Qxf6+ Kg8 Bc4 Rxa7 Qxd8+ Kg7 Qxd5"]
+[FEN "1r1r4/R5kp/1p3pp1/1B1qp3/1p2Q3/2pp1NP1/4bP1P/6K1 b - - 1 48"]
+[SetUp "1"]
+
+48... Kh8 49. Qh4 Rb7 50. Qxf6+ Kg8 51. Bc4 Rxa7 52. Qxd8+ Kg7 53. Qxd5 *

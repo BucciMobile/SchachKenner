@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01ZpR"]
+[Difficulty "medium"]
+[Rating "1608"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/DHFroHMk#35"]
+[Solution "f3d2 c8c1 d1c1 h5e2"]
+[SolutionSAN "Nd2 Rxc1 Qxc1 Bxe2"]
+[FEN "2rq1rk1/1p3ppp/p4b2/n6b/3Pp3/P3BN1P/1P2BPP1/2RQ1RK1 w - - 0 18"]
+[SetUp "1"]
+
+18. Nd2 Rxc1 19. Qxc1 Bxe2 *

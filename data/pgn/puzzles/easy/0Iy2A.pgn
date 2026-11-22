@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Iy2A"]
+[Difficulty "easy"]
+[Rating "399"]
+[Themes "endgame mate mateIn1 oneMove queenEndgame"]
+[GameUrl "https://lichess.org/game/uSGHuktX/black#76"]
+[Solution "d4e5 f1f8"]
+[SolutionSAN "Qe5 Qf8#"]
+[FEN "7k/p1p4p/4p3/8/3qP3/1P1P4/2PK4/5Q2 b - - 0 38"]
+[SetUp "1"]
+
+38... Qe5 39. Qf8# *

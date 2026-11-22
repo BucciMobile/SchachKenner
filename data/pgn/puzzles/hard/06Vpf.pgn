@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Vpf"]
+[Difficulty "hard"]
+[Rating "2302"]
+[Themes "advantage defensiveMove endgame master short"]
+[GameUrl "https://lichess.org/game/AVyYTwaS#83"]
+[Solution "g3g4 e4e3 d8e8 e3f2"]
+[SolutionSAN "Kxg4 Ke3 Re8+ Kf2"]
+[FEN "3R4/8/p6p/7P/1P2k1p1/3p2K1/P1b5/8 w - - 2 42"]
+[SetUp "1"]
+
+42. Kxg4 Ke3 43. Re8+ Kf2 *

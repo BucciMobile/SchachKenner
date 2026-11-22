@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FrpX"]
+[Difficulty "medium"]
+[Rating "1349"]
+[Themes "advantage endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/KPa4xXMa/black#78"]
+[Solution "b4a3 b2a3 e5e4 d3e4 f5e4 e3e4"]
+[SolutionSAN "bxa3 bxa3 e4 dxe4 fxe4 Kxe4"]
+[FEN "8/8/6p1/2k1pp1p/pp3P1P/P2PK1P1/1P6/8 b - - 0 39"]
+[SetUp "1"]
+
+39... bxa3 40. bxa3 e4 41. dxe4 fxe4 42. Kxe4 *

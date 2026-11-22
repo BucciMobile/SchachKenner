@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HBla"]
+[Difficulty "medium"]
+[Rating "1315"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+[GameUrl "https://lichess.org/game/B3BtS3vQ/black#72"]
+[Solution "d3c3 f5f6 c5c4 f6f7 c3b3 f7f8q"]
+[SolutionSAN "Kc3 f6 c4 f7 Kxb3 f8=Q"]
+[FEN "8/8/6K1/p1p2P1p/Pp5P/1P1k4/8/8 b - - 0 36"]
+[SetUp "1"]
+
+36... Kc3 37. f6 c4 38. f7 Kxb3 39. f8=Q *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DYLP"]
+[Difficulty "hard"]
+[Rating "1772"]
+[Themes "advantage endgame long master"]
+[GameUrl "https://lichess.org/game/SCYjEP5Z#61"]
+[Solution "c8c7 f4c7 b6c7 b7b1 g1f2 b1c1"]
+[SolutionSAN "Rc7+ Bxc7 bxc7 Rb1+ Kf2 Rc1"]
+[FEN "2R5/1r4kp/1P2ppp1/B7/3P1b2/8/6PP/6K1 w - - 0 31"]
+[SetUp "1"]
+
+31. Rc7+ Bxc7 32. bxc7 Rb1+ 33. Kf2 Rc1 *

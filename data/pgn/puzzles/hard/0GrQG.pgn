@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GrQG"]
+[Difficulty "hard"]
+[Rating "1925"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/TIwIa4IW#57"]
+[Solution "f3g5 e2d2 c1f1 d2g5 f6g5 g8g5"]
+[SolutionSAN "Ng5 Qd2 Rf1 Qxg5 Qxg5 Rxg5"]
+[FEN "1k1r2r1/2p2p2/1p2bQ2/p2pP3/P2P4/1R3N2/2P1qPPP/2R3K1 w - - 4 29"]
+[SetUp "1"]
+
+29. Ng5 Qd2 30. Rf1 Qxg5 31. Qxg5 Rxg5 *

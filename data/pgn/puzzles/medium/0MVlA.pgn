@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MVlA"]
+[Difficulty "medium"]
+[Rating "1620"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/7Brzt4I7#57"]
+[Solution "e3e4 d7h3 g2h3 f3h3"]
+[SolutionSAN "Qxe4 Qxh3+ Bxh3 Rxh3#"]
+[FEN "6k1/1p1q3p/p2p2r1/3PP3/1P2p3/1P2Qr1P/1B3PB1/R3R2K w - - 1 29"]
+[SetUp "1"]
+
+29. Qxe4 Qxh3+ 30. Bxh3 Rxh3# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CtRw"]
+[Difficulty "easy"]
+[Rating "970"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/8pRyCyLo/black#44"]
+[Solution "f8f4 h3g3 f4g4 g3g4"]
+[SolutionSAN "Rxf4 Qg3+ Rg4 Qxg4+"]
+[FEN "r2q1r2/p5kp/1p2p3/3bP3/3PpB1P/7Q/PP2P1B1/R5K1 b - - 0 22"]
+[SetUp "1"]
+
+22... Rxf4 23. Qg3+ Rg4 24. Qxg4+ *

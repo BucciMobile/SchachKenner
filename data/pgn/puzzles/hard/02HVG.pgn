@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02HVG"]
+[Difficulty "hard"]
+[Rating "1724"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/nrsrlSof#97"]
+[Solution "f2f1 d4d1 f1f2 d1e1"]
+[SolutionSAN "Kf1 Qd1+ Kf2 Qe1#"]
+[FEN "6k1/p5p1/1p5p/5Q2/3qr3/5R1P/PP3KP1/8 w - - 0 49"]
+[SetUp "1"]
+
+49. Kf1 Qd1+ 50. Kf2 Qe1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "043dJ"]
+[Difficulty "easy"]
+[Rating "1048"]
+[Themes "deflection master mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/rkBSKIor#53"]
+[Solution "d2d1 d4e2 c1b1 e1d1"]
+[SolutionSAN "Rd1 Ne2+ Kb1 Qxd1#"]
+[FEN "1k3r2/pp5p/2B1pN2/8/3n2P1/7Q/PPPR3P/2K1q3 w - - 1 27"]
+[SetUp "1"]
+
+27. Rd1 Ne2+ 28. Kb1 Qxd1# *

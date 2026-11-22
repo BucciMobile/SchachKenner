@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "077Vq"]
+[Difficulty "easy"]
+[Rating "759"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/IZadd50x/black#60"]
+[Solution "e7f6 d3h7"]
+[SolutionSAN "Qxf6 Qxh7#"]
+[FEN "3r1r1k/p3q2p/1pn1pP1P/4p3/2P2Pp1/P2Q4/1PB1KP2/6RR b - - 0 30"]
+[SetUp "1"]
+
+30... Qxf6 31. Qxh7# *

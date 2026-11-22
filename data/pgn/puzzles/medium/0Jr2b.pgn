@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jr2b"]
+[Difficulty "medium"]
+[Rating "1348"]
+[Themes "crushing fork long middlegame"]
+[GameUrl "https://lichess.org/game/SUaM8NsT/black#46"]
+[Solution "f8c8 c3c8 e6c8 e2c4 g8f8 c4c8"]
+[SolutionSAN "Rc8 Rxc8+ Bxc8 Qc4+ Kf8 Qxc8+"]
+[FEN "5rk1/pp4pp/1q1pbb2/4p3/8/1NR3B1/PP2QPPP/6K1 b - - 0 23"]
+[SetUp "1"]
+
+23... Rc8 24. Rxc8+ Bxc8 25. Qc4+ Kf8 26. Qxc8+ *

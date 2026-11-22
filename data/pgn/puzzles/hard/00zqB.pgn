@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00zqB"]
+[Difficulty "hard"]
+[Rating "1826"]
+[Themes "mate mateIn1 middlegame oneMove pin"]
+[GameUrl "https://lichess.org/game/EURKTOGv/black#54"]
+[Solution "c5c4 h2h7"]
+[SolutionSAN "c4 Qh7#"]
+[FEN "3r1rk1/pp6/5pb1/2p2q2/8/P2P4/1PP4Q/2K3RR b - - 1 27"]
+[SetUp "1"]
+
+27... c4 28. Qh7# *

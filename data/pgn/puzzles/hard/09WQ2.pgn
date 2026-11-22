@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09WQ2"]
+[Difficulty "hard"]
+[Rating "1953"]
+[Themes "attraction mate mateIn2 middlegame pin sacrifice short"]
+[GameUrl "https://lichess.org/game/JWrw0RWl#57"]
+[Solution "c8c5 f2f1 g1f1 g3f2"]
+[SolutionSAN "Rxc5 Rf1+ Kxf1 Qf2#"]
+[FEN "2R5/5pk1/8/1pp3p1/3pQ2b/1P1P2qP/1BP2rB1/6KR w - - 3 29"]
+[SetUp "1"]
+
+29. Rxc5 Rf1+ 30. Kxf1 Qf2# *

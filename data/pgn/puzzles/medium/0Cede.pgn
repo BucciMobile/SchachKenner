@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cede"]
+[Difficulty "medium"]
+[Rating "1488"]
+[Themes "advancedPawn crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/AMyPibvP#87"]
+[Solution "c1c2 b2c2 a2c2 a3a2 c2a2 a8a2"]
+[SolutionSAN "Rc2 Rxc2 Rxc2 a2 Rxa2 Rxa2"]
+[FEN "r7/6pk/7p/8/8/p1PP3P/Rr4P1/2R3K1 w - - 8 44"]
+[SetUp "1"]
+
+44. Rc2 Rxc2 45. Rxc2 a2 46. Rxa2 Rxa2 *

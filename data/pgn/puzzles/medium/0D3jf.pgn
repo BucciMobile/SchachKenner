@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D3jf"]
+[Difficulty "medium"]
+[Rating "1215"]
+[Themes "crushing fork long middlegame"]
+[GameUrl "https://lichess.org/game/zDilg8Ul#65"]
+[Solution "e6e8 f8e8 b3c3 e8e1 a1e1 d2e1"]
+[SolutionSAN "Rxe8 Rxe8 Rxc3 Re1+ Qxe1 Qxe1+"]
+[FEN "4rrk1/p6p/1p2R1p1/3p4/1P6/PRn2P1P/B1Pq2P1/Q6K w - - 1 33"]
+[SetUp "1"]
+
+33. Rxe8 Rxe8 34. Rxc3 Re1+ 35. Qxe1 Qxe1+ *

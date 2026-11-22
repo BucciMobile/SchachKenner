@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02FOJ"]
+[Difficulty "hard"]
+[Rating "1984"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/35Olh13t/black#54"]
+[Solution "h5h4 c7c8 f8c8 c1c8 g8h7 e7f7"]
+[SolutionSAN "h4 Rc8 Rxc8 Rxc8+ Kh7 Qxf7"]
+[FEN "5rk1/2R1Qpp1/p3p2r/3q3p/3P4/7P/1P3PP1/2R3K1 b - - 8 27"]
+[SetUp "1"]
+
+27... h4 28. Rc8 Rxc8 29. Rxc8+ Kh7 30. Qxf7 *

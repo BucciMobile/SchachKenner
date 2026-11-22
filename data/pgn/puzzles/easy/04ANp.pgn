@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04ANp"]
+[Difficulty "easy"]
+[Rating "520"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/x440xhoD#83"]
+[Solution "e4d6 e5e1 d1e1 e8e1"]
+[SolutionSAN "Nd6 Qe1+ Rxe1 Rxe1#"]
+[FEN "4r3/p5pk/7p/4qn2/2P1Np2/1P3P2/P1Q3PP/3R3K w - - 5 42"]
+[SetUp "1"]
+
+42. Nd6 Qe1+ 43. Rxe1 Rxe1# *

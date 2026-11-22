@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EJxO"]
+[Difficulty "easy"]
+[Rating "1187"]
+[Themes "advancedPawn advantage bishopEndgame defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/lMj0I8z6/black#74"]
+[Solution "c7d8 e6e7 d8e7 b4e7"]
+[SolutionSAN "Bd8+ e7 Bxe7+ Bxe7"]
+[FEN "8/1pb5/p1p1P2k/5p2/1B4pK/8/PPP5/8 b - - 3 37"]
+[SetUp "1"]
+
+37... Bd8+ 38. e7 Bxe7+ 39. Bxe7 *

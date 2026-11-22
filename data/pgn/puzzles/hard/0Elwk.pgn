@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Elwk"]
+[Difficulty "hard"]
+[Rating "1730"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/6TOUui1J#49"]
+[Solution "e2g3 c2d2 e1e7 d2d3"]
+[SolutionSAN "Ng3 Rxd2 Rxe7 Rxd3"]
+[FEN "6k1/p3qpp1/3b1n1p/8/P2P4/2PQ4/1rrNNPPP/3RR1K1 w - - 10 25"]
+[SetUp "1"]
+
+25. Ng3 Rxd2 26. Rxe7 Rxd3 *

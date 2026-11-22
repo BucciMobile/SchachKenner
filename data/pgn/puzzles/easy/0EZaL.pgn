@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EZaL"]
+[Difficulty "easy"]
+[Rating "857"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/MYjwhIUR/black#46"]
+[Solution "f8e8 d5f6 d8f6 g5f6"]
+[SolutionSAN "Re8 Nf6+ Qxf6 Qxf6"]
+[FEN "rn1q1r2/1p1b2nk/p2p2p1/3NppQ1/2P4P/6P1/PP3PB1/3RR1K1 b - - 0 23"]
+[SetUp "1"]
+
+23... Re8 24. Nf6+ Qxf6 25. Qxf6 *

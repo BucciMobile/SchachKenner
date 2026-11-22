@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03JWQ"]
+[Difficulty "hard"]
+[Rating "2305"]
+[Themes "crushing middlegame pin quietMove veryLong"]
+[GameUrl "https://lichess.org/game/lv42cukS#63"]
+[Solution "c5e7 e2f3 e1g1 c8c2 a1f1 f2f1 g1f1 f3g2"]
+[SolutionSAN "Bxe7 Bf3 Rg1 Rc2 Qf1 Qxf1 Rxf1 Bxg2+"]
+[FEN "2r3k1/4ppbp/6p1/2B1P3/3P4/6P1/4bqBP/Q3R2K w - - 0 32"]
+[SetUp "1"]
+
+32. Bxe7 Bf3 33. Rg1 Rc2 34. Qf1 Qxf1 35. Rxf1 Bxg2+ *

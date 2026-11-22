@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07YE8"]
+[Difficulty "hard"]
+[Rating "1747"]
+[Themes "advantage attraction exposedKing middlegame sacrifice skewer veryLong"]
+[GameUrl "https://lichess.org/game/bkumMP6A/black#78"]
+[Solution "h8g7 g5g6 g7g6 d1g1 g6f7 h4h7 f7e6 h7c7"]
+[SolutionSAN "Kg7 Rxg6+ Kxg6 Rg1+ Kf7 Qh7+ Ke6 Qxc7"]
+[FEN "3r2rk/ppq5/6b1/2p1p1R1/2PbP2Q/1P6/P4P1P/3R3K b - - 0 39"]
+[SetUp "1"]
+
+39... Kg7 40. Rxg6+ Kxg6 41. Rg1+ Kf7 42. Qh7+ Ke6 43. Qxc7 *

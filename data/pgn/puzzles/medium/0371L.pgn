@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0371L"]
+[Difficulty "medium"]
+[Rating "1375"]
+[Themes "advantage master middlegame pin queensideAttack short"]
+[GameUrl "https://lichess.org/game/AKVlVrml#53"]
+[Solution "d1d3 c4a3 b1a1 a3c2"]
+[SolutionSAN "Rd3 Na3+ Ka1 Nc2+"]
+[FEN "2r2bk1/5ppp/p2p4/3P2PP/P1nQ1B2/1q6/1P6/1K1RR3 w - - 0 27"]
+[SetUp "1"]
+
+27. Rd3 Na3+ 28. Ka1 Nc2+ *

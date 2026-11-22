@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09z32"]
+[Difficulty "easy"]
+[Rating "970"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/l6gDl4Mo/black#78"]
+[Solution "b1e4 h1f2"]
+[SolutionSAN "Qe4 Nf2#"]
+[FEN "7R/ppQ5/5pr1/5b2/5Pkp/P7/6PK/1q5N b - - 2 39"]
+[SetUp "1"]
+
+39... Qe4 40. Nf2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AvNV"]
+[Difficulty "easy"]
+[Rating "819"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/JvgCYc6I#83"]
+[Solution "f2f3 b2d4 g1h2 d4c5"]
+[SolutionSAN "f3 Bd4+ Kh2 Bxc5"]
+[FEN "8/5p2/4p1kp/2R5/8/8/1b3PP1/6K1 w - - 4 42"]
+[SetUp "1"]
+
+42. f3 Bd4+ 43. Kh2 Bxc5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GnQl"]
+[Difficulty "medium"]
+[Rating "1282"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/g5Yerp9W#57"]
+[Solution "f3f6 g7f6 e1e4 g6e4"]
+[SolutionSAN "Qxf6+ gxf6 Rxe4 Bxe4"]
+[FEN "r7/1p3kp1/p1p2qbp/8/4r3/P4QRP/2P2PP1/4R1K1 w - - 2 29"]
+[SetUp "1"]
+
+29. Qxf6+ gxf6 30. Rxe4 Bxe4 *

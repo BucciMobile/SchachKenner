@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05jmO"]
+[Difficulty "hard"]
+[Rating "2178"]
+[Themes "advancedPawn crushing defensiveMove endgame fork long promotion"]
+[GameUrl "https://lichess.org/game/bgddL6u5/black#98"]
+[Solution "f2d3 c5b6 d3e5 e6e8 h8h7 d7d8q"]
+[SolutionSAN "Nd3+ Kb6 Ne5 Qe8+ Kh7 d8=Q"]
+[FEN "7k/3P2p1/4Q2p/2K5/8/4P2P/5n2/3q4 b - - 2 49"]
+[SetUp "1"]
+
+49... Nd3+ 50. Kb6 Ne5 51. Qe8+ Kh7 52. d8=Q *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LQDj"]
+[Difficulty "medium"]
+[Rating "1629"]
+[Themes "advancedPawn advantage endgame long"]
+[GameUrl "https://lichess.org/game/OOg6pFRY/black#110"]
+[Solution "h3h5 c5c6 h5h1 c6c7 h1c1 b5c4"]
+[SolutionSAN "Rh5 c6 Rh1 c7 Rc1 Bc4"]
+[FEN "b7/P4pkp/6p1/1BP3P1/1K6/7r/8/8 b - - 0 55"]
+[SetUp "1"]
+
+55... Rh5 56. c6 Rh1 57. c7 Rc1 58. Bc4 *

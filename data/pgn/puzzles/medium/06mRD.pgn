@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06mRD"]
+[Difficulty "medium"]
+[Rating "1437"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/YLpeLBmG#55"]
+[Solution "h6c1 a4d4 c3d4 c8c1"]
+[SolutionSAN "Qc1 Qxd4+ cxd4 Rxc1+"]
+[FEN "2r2bk1/p5p1/1p2R2Q/8/q2B4/2P5/PP4PP/6K1 w - - 1 28"]
+[SetUp "1"]
+
+28. Qc1 Qxd4+ 29. cxd4 Rxc1+ *

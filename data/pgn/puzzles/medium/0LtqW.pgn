@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LtqW"]
+[Difficulty "medium"]
+[Rating "1206"]
+[Themes "crushing interference intermezzo opening short"]
+[GameUrl "https://lichess.org/game/Dau3iOHJ/black#24"]
+[Solution "c6d5 f1b5 b8d7 f3d5"]
+[SolutionSAN "Bxd5 Bb5+ Nd7 Qxd5"]
+[FEN "rn1qkbnr/p4ppp/2b5/3PP3/8/2p2Q2/5PPP/R1B1KBNR b KQkq - 0 12"]
+[SetUp "1"]
+
+12... Bxd5 13. Bb5+ Nd7 14. Qxd5 *

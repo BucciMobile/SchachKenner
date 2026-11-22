@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0680n"]
+[Difficulty "easy"]
+[Rating "887"]
+[Themes "endgame epauletteMate mate mateIn1 oneMove rookEndgame"]
+[GameUrl "https://lichess.org/game/NQliCalt/black#84"]
+[Solution "e7d6 g7d7"]
+[SolutionSAN "Kd6 Rd7#"]
+[FEN "8/pp2k1R1/2r1P3/5P2/3K4/P7/r1p3P1/8 b - - 0 42"]
+[SetUp "1"]
+
+42... Kd6 43. Rd7# *

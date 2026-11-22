@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CSq1"]
+[Difficulty "medium"]
+[Rating "1497"]
+[Themes "advantage master middlegame pin short"]
+[GameUrl "https://lichess.org/game/PGrTcHrX#39"]
+[Solution "d5c3 b4c3 d2c3 g7c3"]
+[SolutionSAN "Nc3 bxc3 Bxc3 Bxc3"]
+[FEN "2r1k2r/p3p1bp/3pP1p1/2pN1p2/1p5P/q2P1Q2/PP1B2B1/K5NR w k - 1 20"]
+[SetUp "1"]
+
+20. Nc3 bxc3 21. Bxc3 Bxc3 *

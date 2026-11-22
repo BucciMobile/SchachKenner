@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Iok9"]
+[Difficulty "medium"]
+[Rating "1650"]
+[Themes "crushing endgame knightEndgame long quietMove sacrifice"]
+[GameUrl "https://lichess.org/game/jlUiYXL4/black#102"]
+[Solution "d5e5 h4h5 d6f5 c2e3 f5e3 h5h6"]
+[SolutionSAN "Ke5 h5 Nf5 Ne3 Nxe3 h6"]
+[FEN "8/8/1p1n2K1/3k4/7P/8/2N5/8 b - - 2 51"]
+[SetUp "1"]
+
+51... Ke5 52. h5 Nf5 53. Ne3 Nxe3 54. h6 *

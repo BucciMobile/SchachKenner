@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MlNd"]
+[Difficulty "medium"]
+[Rating "1647"]
+[Themes "advantage endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/NYg9Z9EL/black#78"]
+[Solution "a7a6 c5d6 a6a5 d6e6"]
+[SolutionSAN "a6 Kd6 a5 Kxe6"]
+[FEN "8/p7/4p3/1pK1Pp1k/2p2P2/P7/1P5P/8 b - - 5 39"]
+[SetUp "1"]
+
+39... a6 40. Kd6 a5 41. Kxe6 *

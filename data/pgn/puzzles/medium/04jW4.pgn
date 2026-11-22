@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04jW4"]
+[Difficulty "medium"]
+[Rating "1591"]
+[Themes "advantage deflection endgame veryLong"]
+[GameUrl "https://lichess.org/game/QxtlkMJQ#69"]
+[Solution "d2d1 c4d5 d1e1 d5d2 e1f1 d2d1 f1g2 d1e2"]
+[SolutionSAN "Kd1 Qd5+ Ke1 Qd2+ Kf1 Qd1+ Kg2 Qxe2+"]
+[FEN "8/pp1knR1Q/8/8/2q1n3/8/PPPKN3/8 w - - 3 35"]
+[SetUp "1"]
+
+35. Kd1 Qd5+ 36. Ke1 Qd2+ 37. Kf1 Qd1+ 38. Kg2 Qxe2+ *

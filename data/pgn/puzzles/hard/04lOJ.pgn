@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04lOJ"]
+[Difficulty "hard"]
+[Rating "2189"]
+[Themes "advantage intermezzo opening veryLong"]
+[GameUrl "https://lichess.org/game/gDM9cpqx#25"]
+[Solution "e5g6 f6d4 g1h1 h7g6 h5g6 e8d7 f1f7 d7c8 g6e6 b8d7"]
+[SolutionSAN "Nxg6 Bxd4+ Kh1 hxg6 Qxg6+ Kd7 Rf7+ Kc8 Qxe6+ Nd7"]
+[FEN "rn1qk2r/pbp4p/1p1ppbp1/4N2Q/3P4/3B4/PPP3PP/RN3RK1 w kq - 0 13"]
+[SetUp "1"]
+
+13. Nxg6 Bxd4+ 14. Kh1 hxg6 15. Qxg6+ Kd7 16. Rf7+ Kc8 17. Qxe6+ Nd7 *

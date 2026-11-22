@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08QRR"]
+[Difficulty "hard"]
+[Rating "1879"]
+[Themes "advantage endgame long pin sacrifice"]
+[GameUrl "https://lichess.org/game/n6PMNuVV/black#46"]
+[Solution "e7d5 d1d5 d6d5 f1c4 f8d8 c1d1"]
+[SolutionSAN "Nxd5+ Rxd5 Rxd5 Bc4 Rd8 Rd1"]
+[FEN "5rk1/pp2n1pp/3r4/3P1p2/4pP2/P3K2P/1P6/2RR1B2 b - - 2 23"]
+[SetUp "1"]
+
+23... Nxd5+ 24. Rxd5 Rxd5 25. Bc4 Rd8 26. Rd1 *

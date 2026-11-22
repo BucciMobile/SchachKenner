@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07SGL"]
+[Difficulty "easy"]
+[Rating "1118"]
+[Themes "advantage kingsideAttack opening short"]
+[GameUrl "https://lichess.org/game/IbU6drws#29"]
+[Solution "c3d4 d8d4 f4e3 d4e3"]
+[SolutionSAN "cxd4 Qxd4+ Be3 Qxe3+"]
+[FEN "r2qk2r/pp3ppp/5n2/8/2pbPBP1/2Pn2P1/PP4BP/RN1Q1RK1 w kq - 0 15"]
+[SetUp "1"]
+
+15. cxd4 Qxd4+ 16. Be3 Qxe3+ *

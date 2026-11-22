@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LgpJ"]
+[Difficulty "medium"]
+[Rating "1427"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/mzfUoVct/black#44"]
+[Solution "f6f2 c5f2 f7f2 g1f2"]
+[SolutionSAN "Rxf2 Qxf2 Qxf2+ Kxf2"]
+[FEN "r5k1/p4qpp/4br2/2Q5/8/3R4/PP3PPP/4R1K1 b - - 0 22"]
+[SetUp "1"]
+
+22... Rxf2 23. Qxf2 Qxf2+ 24. Kxf2 *

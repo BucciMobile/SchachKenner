@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08pbR"]
+[Difficulty "medium"]
+[Rating "1273"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+[GameUrl "https://lichess.org/game/o4Wuq3Xh/black#78"]
+[Solution "e6d5 e2e3 d5d6 e3d4 a6a5 b4a5"]
+[SolutionSAN "Kd5 Ke3 Kd6 Kd4 a5 bxa5"]
+[FEN "8/8/p3k2p/1p3p1P/1Pp2P2/2P5/P3K3/8 b - - 4 39"]
+[SetUp "1"]
+
+39... Kd5 40. Ke3 Kd6 41. Kd4 a5 42. bxa5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "039F6"]
+[Difficulty "hard"]
+[Rating "1734"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/TaH4THfG#111"]
+[Solution "f2e2 f6f5 e2d3 f5f4 h3h4 e6e5"]
+[SolutionSAN "Ke2 Kf5 Kd3 Kxf4 h4 e5"]
+[FEN "8/5p2/4pk2/8/3p1P2/5P1P/5K2/8 w - - 0 56"]
+[SetUp "1"]
+
+56. Ke2 Kf5 57. Kd3 Kxf4 58. h4 e5 *

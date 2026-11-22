@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JkaR"]
+[Difficulty "hard"]
+[Rating "2008"]
+[Themes "advancedPawn crushing endgame short"]
+[GameUrl "https://lichess.org/game/Higc0zTT#95"]
+[Solution "b5c6 e3d2 c6d6 d8c8"]
+[SolutionSAN "Kc6 exd2 Kxd6 Kc8"]
+[FEN "3k4/1R6/3p1p1p/1K1P2p1/1P4P1/P2npP1P/3N4/8 w - - 0 48"]
+[SetUp "1"]
+
+48. Kc6 exd2 49. Kxd6 Kc8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LKjV"]
+[Difficulty "hard"]
+[Rating "1818"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/clNBRnal#137"]
+[Solution "d4e4 f6g5 h5h6 g5h6 e4f5 h6h5"]
+[SolutionSAN "Ke4 Kg5 h6 Kxh6 Kf5 Kh5"]
+[FEN "8/6p1/5k2/7P/3K4/8/8/8 w - - 1 69"]
+[SetUp "1"]
+
+69. Ke4 Kg5 70. h6 Kxh6 71. Kf5 Kh5 *

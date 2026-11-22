@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01miF"]
+[Difficulty "easy"]
+[Rating "956"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/Q5rZ5lBG/black#70"]
+[Solution "e6e4 d1d6 c6d6 f4d6"]
+[SolutionSAN "Re4 Rd6+ Qxd6 Qxd6+"]
+[FEN "8/pp6/2q1r1kp/P4p2/2p2Q2/2P3P1/5P1K/3R4 b - - 5 35"]
+[SetUp "1"]
+
+35... Re4 36. Rd6+ Qxd6 37. Qxd6+ *

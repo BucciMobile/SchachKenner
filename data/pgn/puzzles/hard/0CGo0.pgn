@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CGo0"]
+[Difficulty "hard"]
+[Rating "2715"]
+[Themes "crushing defensiveMove endgame long pawnEndgame quietMove zugzwang"]
+[GameUrl "https://lichess.org/game/oiiswhgQ#79"]
+[Solution "f2f3 f5f4 b1a1 a3b4 a1b2 b4c5"]
+[SolutionSAN "f3 f4 Ka1 Kb4 Kb2 Kc5"]
+[FEN "8/8/p5p1/1p3pp1/8/kP5P/P4PP1/1K6 w - - 0 40"]
+[SetUp "1"]
+
+40. f3 f4 41. Ka1 Kb4 42. Kb2 Kc5 *

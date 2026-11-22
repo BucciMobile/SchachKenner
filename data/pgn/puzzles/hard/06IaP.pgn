@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06IaP"]
+[Difficulty "hard"]
+[Rating "2095"]
+[Themes "advancedPawn crushing fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/NHwm8PEe/black#56"]
+[Solution "d7e5 g2e4 e5g6 e4g6 f7g6 f6f7 c7f7 f4f7"]
+[SolutionSAN "Ne5 Be4 Ng6 Bxg6 fxg6 f7+ Qxf7 Rxf7"]
+[FEN "4r1k1/2qn1ppp/p2p1P2/2pP2P1/P1Pp1R1Q/1r5P/1P4BK/1R6 b - - 0 28"]
+[SetUp "1"]
+
+28... Ne5 29. Be4 Ng6 30. Bxg6 fxg6 31. f7+ Qxf7 32. Rxf7 *

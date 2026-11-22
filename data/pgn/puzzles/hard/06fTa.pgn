@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06fTa"]
+[Difficulty "hard"]
+[Rating "2819"]
+[Themes "advancedPawn crushing endgame master quietMove veryLong"]
+[GameUrl "https://lichess.org/game/2VhbsMzu/black#114"]
+[Solution "d5d6 f5c8 d6d5 c8b7 d5d4 g3g4 c5c4 g4g5 c4c3 g5h6 d4d3 h6h7"]
+[SolutionSAN "Kd6 Bc8 Kd5 Bb7+ Kd4 g4 c4 g5 c3 gxh6 Kd3 h7"]
+[FEN "8/r1p5/P6p/PKpk1B1P/8/6P1/8/8 b - - 0 57"]
+[SetUp "1"]
+
+57... Kd6 58. Bc8 Kd5 59. Bb7+ Kd4 60. g4 c4 61. g5 c3 62. gxh6 Kd3 63. h7 *

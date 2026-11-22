@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jnze"]
+[Difficulty "medium"]
+[Rating "1257"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/OkVSxL8a#51"]
+[Solution "g3g4 f5e4 g2e4 f6e4"]
+[SolutionSAN "g4 Qxe4 Qxe4 Nxe4"]
+[FEN "3r3k/p1p3pp/1b3n2/5q2/4N3/P1P3PP/1P3PQ1/2B2RK1 w - - 1 26"]
+[SetUp "1"]
+
+26. g4 Qxe4 27. Qxe4 Nxe4 *

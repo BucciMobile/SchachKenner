@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03YKj"]
+[Difficulty "easy"]
+[Rating "777"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/qtTMSQ1S/black#24"]
+[Solution "d7d5 e4f6 e7f6 f3d5"]
+[SolutionSAN "Qxd5 Nxf6+ exf6 Qxd5"]
+[FEN "r4rk1/pp1qppbp/5np1/n1pP2N1/4N3/3P1Q2/PPP2PPP/R1B2RK1 b - - 5 12"]
+[SetUp "1"]
+
+12... Qxd5 13. Nxf6+ exf6 14. Qxd5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EW20"]
+[Difficulty "hard"]
+[Rating "1812"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/KCCYnkQq/black#62"]
+[Solution "f4f3 h5h8 f8g7 h8h7 g7g8 g2f3"]
+[SolutionSAN "Qxf3 Rh8+ Kg7 Rh7+ Kg8 gxf3"]
+[FEN "4rk2/1p2rp2/p1p1p1p1/P5NR/5q2/3B1Q2/1PP2PPP/6K1 b - - 0 31"]
+[SetUp "1"]
+
+31... Qxf3 32. Rh8+ Kg7 33. Rh7+ Kg8 34. gxf3 *

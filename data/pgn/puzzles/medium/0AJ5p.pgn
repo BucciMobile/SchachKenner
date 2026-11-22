@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AJ5p"]
+[Difficulty "medium"]
+[Rating "1222"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/fqb3Il0D#93"]
+[Solution "d5d4 g8g4 d4d5 g4c4"]
+[SolutionSAN "Kxd4 Rg4+ Kd5 Rxc4"]
+[FEN "6r1/1kB1b3/p7/3K4/P1Rp4/3P4/8/8 w - - 2 47"]
+[SetUp "1"]
+
+47. Kxd4 Rg4+ 48. Kd5 Rxc4 *

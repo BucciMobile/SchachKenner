@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09zax"]
+[Difficulty "medium"]
+[Rating "1646"]
+[Themes "master mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/v5szTz0w/black#46"]
+[Solution "d8e8 a7a8 c8d7 a8e8"]
+[SolutionSAN "Rxe8 Qa8+ Kd7 Qxe8#"]
+[FEN "2krR3/Qpp2pp1/3b4/1Pn4q/2Pp3n/P5B1/3N1P1P/4R1K1 b - - 8 23"]
+[SetUp "1"]
+
+23... Rxe8 24. Qa8+ Kd7 25. Qxe8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06O8g"]
+[Difficulty "medium"]
+[Rating "1665"]
+[Themes "advantage hangingPiece long opening"]
+[GameUrl "https://lichess.org/game/FDN2plpU#29"]
+[Solution "c3d5 f6d5 e5c6 b7c6 h4e7 d5e7"]
+[SolutionSAN "Nxd5 Nxd5 Nxc6 bxc6 Bxe7 Nxe7"]
+[FEN "r2q1rk1/1pp1b1p1/p1n2n1p/3pN3/1P5B/2NP4/P1P2PPP/R2QR1K1 w - - 1 15"]
+[SetUp "1"]
+
+15. Nxd5 Nxd5 16. Nxc6 bxc6 17. Bxe7 Nxe7 *

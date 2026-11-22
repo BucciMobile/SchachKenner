@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C5fx"]
+[Difficulty "hard"]
+[Rating "1756"]
+[Themes "advantage intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/tR6b1NO9/black#28"]
+[Solution "b4d2 d5e7 g8h7 e2d2"]
+[SolutionSAN "Bxd2 Ne7+ Kh7 Qxd2"]
+[FEN "r2q1rk1/pbp2pp1/2p4p/3N4/1b6/1P1P4/1PPBQPPP/R3R1K1 b - - 0 14"]
+[SetUp "1"]
+
+14... Bxd2 15. Ne7+ Kh7 16. Qxd2 *

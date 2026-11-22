@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C160"]
+[Difficulty "hard"]
+[Rating "2604"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/orIeKILA#51"]
+[Solution "c7c4 b2b6 e2d4 f5d4"]
+[SolutionSAN "Qc4 Qb6+ Nd4 Nxd4"]
+[FEN "3r3r/ppQ3pp/5p1k/4pn1P/8/P1P2PB1/1qb1NKP1/2R2B1R w - - 3 26"]
+[SetUp "1"]
+
+26. Qc4 Qb6+ 27. Nd4 Nxd4 *

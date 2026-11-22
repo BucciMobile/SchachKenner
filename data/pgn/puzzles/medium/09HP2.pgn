@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09HP2"]
+[Difficulty "medium"]
+[Rating "1323"]
+[Themes "advancedPawn crushing endgame long master promotion sacrifice"]
+[GameUrl "https://lichess.org/game/W8xIFKKA/black#116"]
+[Solution "d4e5 e8e5 d5e5 h6h7 b2b7 h7h8q"]
+[SolutionSAN "Be5+ Rxe5+ Kxe5 h7 Rxb7 h8=Q+"]
+[FEN "4R3/1P6/7P/3k4/3b4/4p1K1/1r6/8 b - - 0 58"]
+[SetUp "1"]
+
+58... Be5+ 59. Rxe5+ Kxe5 60. h7 Rxb7 61. h8=Q+ *

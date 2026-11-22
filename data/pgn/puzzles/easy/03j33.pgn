@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03j33"]
+[Difficulty "easy"]
+[Rating "853"]
+[Themes "crushing endgame master masterVsMaster queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/8G9eGKeF/black#82"]
+[Solution "e2g2 d5g2 a2g2 g3g2"]
+[SolutionSAN "Rxg2+ Qxg2 Rxg2+ Kxg2"]
+[FEN "5k2/p5p1/1p5p/1P1Q1P2/8/3P2KP/r3r1P1/8 b - - 4 41"]
+[SetUp "1"]
+
+41... Rxg2+ 42. Qxg2 Rxg2+ 43. Kxg2 *

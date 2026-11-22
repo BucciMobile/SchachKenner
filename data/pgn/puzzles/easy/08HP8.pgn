@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08HP8"]
+[Difficulty "easy"]
+[Rating "1190"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+[GameUrl "https://lichess.org/game/1AXJfQzR/black#98"]
+[Solution "b2b1q e7e8"]
+[SolutionSAN "b1=Q Re8#"]
+[FEN "1rk5/4R3/2PK1p2/p5p1/P7/7P/1p6/8 b - - 9 49"]
+[SetUp "1"]
+
+49... b1=Q 50. Re8# *

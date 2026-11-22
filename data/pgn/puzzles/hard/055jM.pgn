@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "055jM"]
+[Difficulty "hard"]
+[Rating "2047"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/V73sGGvw/black#34"]
+[Solution "c3a1 d3f3 f8e7 g3h4"]
+[SolutionSAN "Bxa1 Qf3+ Ke7 Bh4#"]
+[FEN "r4k1r/ppqb2pp/4p1B1/3pP3/8/2bQ2B1/P1P2PP1/RN3K1R b - - 6 17"]
+[SetUp "1"]
+
+17... Bxa1 18. Qf3+ Ke7 19. Bh4# *

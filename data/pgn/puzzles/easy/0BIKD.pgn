@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BIKD"]
+[Difficulty "easy"]
+[Rating "656"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/pwSM4sOy/black#28"]
+[Solution "c7e5 d4d8"]
+[SolutionSAN "Bxe5 Qd8#"]
+[FEN "r1b1k1r1/ppb1np1p/2q1p3/4N3/3Q4/2P1B3/PP3PPP/2KR1B1R b q - 8 14"]
+[SetUp "1"]
+
+14... Bxe5 15. Qd8# *

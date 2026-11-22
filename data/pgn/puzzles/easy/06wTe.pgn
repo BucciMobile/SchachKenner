@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06wTe"]
+[Difficulty "easy"]
+[Rating "1004"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/n8nVaXpe/black#56"]
+[Solution "e8f6 h5g5 g8h8 g5f6"]
+[SolutionSAN "Nxf6 Qxg5+ Kh8 Qxf6+"]
+[FEN "2r1nrk1/q4p2/1n2pP2/p2p2pQ/1p1P4/1P1R2P1/P4P1P/4R1K1 b - - 2 28"]
+[SetUp "1"]
+
+28... Nxf6 29. Qxg5+ Kh8 30. Qxf6+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01XDC"]
+[Difficulty "hard"]
+[Rating "1992"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/TXs8oJwt#29"]
+[Solution "e5c4 a5c4 d3c4 d8d4 f1f2 d4c4"]
+[SolutionSAN "Nxc4 Nxc4 Bxc4 Qxd4+ Rf2 Qxc4"]
+[FEN "r2q1rk1/pp2ppbp/6p1/n1p1N3/2bP1P2/3B4/PP1B2PP/R3QRK1 w - - 0 15"]
+[SetUp "1"]
+
+15. Nxc4 Nxc4 16. Bxc4 Qxd4+ 17. Rf2 Qxc4 *

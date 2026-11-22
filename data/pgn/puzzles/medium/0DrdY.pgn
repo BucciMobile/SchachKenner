@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DrdY"]
+[Difficulty "medium"]
+[Rating "1276"]
+[Themes "advantage endgame master pin short"]
+[GameUrl "https://lichess.org/game/h4kbvzwN#69"]
+[Solution "b1a2 g1g8 b5c4 a5c4"]
+[SolutionSAN "Ka2 Qg8 Bc4 Nxc4"]
+[FEN "1k1r4/5R1p/1p6/nB3P2/3p4/P2Q4/1PP5/1K4q1 w - - 1 35"]
+[SetUp "1"]
+
+35. Ka2 Qg8 36. Bc4 Nxc4 *

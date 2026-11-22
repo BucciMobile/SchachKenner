@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GD50"]
+[Difficulty "easy"]
+[Rating "990"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/mBUz4OBP/black#52"]
+[Solution "c6b5 c3c8 b8c8 e2b5"]
+[SolutionSAN "Bb5 Rxc8+ Rxc8 Qxb5"]
+[FEN "1rr3k1/4qpp1/2b2n1p/8/4P3/p1R1BP2/B3Q1PP/5RK1 b - - 0 26"]
+[SetUp "1"]
+
+26... Bb5 27. Rxc8+ Rxc8 28. Qxb5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09iOd"]
+[Difficulty "hard"]
+[Rating "2190"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/DQM5NzVW#95"]
+[Solution "e6f6 e4g2 c3c5 g2h3"]
+[SolutionSAN "Kf6 Bg2 Rc5 Bxh3"]
+[FEN "8/8/4K3/4pp2/4bk1p/2R4P/8/8 w - - 0 48"]
+[SetUp "1"]
+
+48. Kf6 Bg2 49. Rc5 Bxh3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kugo"]
+[Difficulty "medium"]
+[Rating "1493"]
+[Themes "exposedKing fork mate mateIn4 middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/bxBuhg3m/black#50"]
+[Solution "d7f6 f5h5 f6h5 g6h5 g7h6 h5h6 e7h7 h6f8"]
+[SolutionSAN "Nxf6 Rh5+ Nxh5 Qxh5+ Bh6 Qxh6+ Rh7 Qxf8#"]
+[FEN "5r1k/pp1nr1b1/2p2BQ1/4pR2/4P3/P1qP3P/B1P3P1/7K b - - 0 25"]
+[SetUp "1"]
+
+25... Nxf6 26. Rh5+ Nxh5 27. Qxh5+ Bh6 28. Qxh6+ Rh7 29. Qxf8# *

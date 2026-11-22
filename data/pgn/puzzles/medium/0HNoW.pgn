@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HNoW"]
+[Difficulty "medium"]
+[Rating "1490"]
+[Themes "advantage deflection exposedKing long middlegame pin"]
+[GameUrl "https://lichess.org/game/lBbk39jn/black#56"]
+[Solution "f7g6 d3g6 e5g7 g6e6 f8f7 h6g6"]
+[SolutionSAN "fxg6 Qxg6+ Qg7 Qxe6+ Rf7 Rg6"]
+[FEN "2r2rk1/p2n1p2/1p2p1BR/4q3/8/P2Q4/1P3P2/1R3K2 b - - 0 28"]
+[SetUp "1"]
+
+28... fxg6 29. Qxg6+ Qg7 30. Qxe6+ Rf7 31. Rg6 *

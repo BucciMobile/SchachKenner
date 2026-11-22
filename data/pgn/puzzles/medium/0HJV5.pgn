@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HJV5"]
+[Difficulty "medium"]
+[Rating "1609"]
+[Themes "advantage kingsideAttack middlegame pin short"]
+[GameUrl "https://lichess.org/game/OhSOINbk#57"]
+[Solution "d2h6 d6g3 f3g2 g3f2"]
+[SolutionSAN "Qh6 Qxg3+ Bg2 Qxf2+"]
+[FEN "4r1k1/p4p1p/1b1q2p1/3P4/1p6/1P3BPP/PB1Q1P2/3R2K1 w - - 1 29"]
+[SetUp "1"]
+
+29. Qh6 Qxg3+ 30. Bg2 Qxf2+ *

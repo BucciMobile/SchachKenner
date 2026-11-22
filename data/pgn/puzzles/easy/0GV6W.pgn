@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GV6W"]
+[Difficulty "easy"]
+[Rating "968"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/LGxLtRYJ/black#102"]
+[Solution "b6c6 b8b5"]
+[SolutionSAN "Kc6 Qb5#"]
+[FEN "1Q6/2p1r3/1k1p4/p5P1/Pb6/1KP1r3/8/8 b - - 4 51"]
+[SetUp "1"]
+
+51... Kc6 52. Qb5# *

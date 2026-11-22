@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JtQf"]
+[Difficulty "easy"]
+[Rating "729"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/oaDvRbOS/black#62"]
+[Solution "b4f8 f2f8 c8f8 f1f8"]
+[SolutionSAN "Bxf8 Rxf8+ Rxf8 Rxf8#"]
+[FEN "2r2Q1k/1p4pp/pq6/8/1b4N1/1P2P2P/P4RP1/5RK1 b - - 0 31"]
+[SetUp "1"]
+
+31... Bxf8 32. Rxf8+ Rxf8 33. Rxf8# *

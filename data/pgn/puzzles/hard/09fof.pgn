@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09fof"]
+[Difficulty "hard"]
+[Rating "2130"]
+[Themes "advancedPawn advantage endgame promotion short underPromotion"]
+[GameUrl "https://lichess.org/game/xu4XjIuN#107"]
+[Solution "c3d4 d3d2 d4c3 d2d1n"]
+[SolutionSAN "Kxd4 d2 Kc3 d1=N+"]
+[FEN "8/8/5R1p/8/3pb1P1/kpKp4/8/8 w - - 0 54"]
+[SetUp "1"]
+
+54. Kxd4 d2 55. Kc3 d1=N+ *

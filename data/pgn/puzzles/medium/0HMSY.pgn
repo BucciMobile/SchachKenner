@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HMSY"]
+[Difficulty "medium"]
+[Rating "1675"]
+[Themes "crushing master middlegame pin short"]
+[GameUrl "https://lichess.org/game/e22MpdeV#41"]
+[Solution "e2e3 c8c3 h8f6 e7f6"]
+[SolutionSAN "Ke3 Rc3 Qxf6+ Kxf6"]
+[FEN "2r2n1Q/1p2kp1p/p3pp2/1b1p3P/3P1P2/3B1NP1/P1q1K3/3R3R w - - 0 21"]
+[SetUp "1"]
+
+21. Ke3 Rc3 22. Qxf6+ Kxf6 *

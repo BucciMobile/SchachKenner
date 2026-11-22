@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M4sz"]
+[Difficulty "medium"]
+[Rating "1518"]
+[Themes "fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/ztEIiGro#51"]
+[Solution "d1d7 c4c2 b1a1 c2b2"]
+[SolutionSAN "Rd7 Qxc2+ Ka1 Qxb2#"]
+[FEN "2r4r/5Qbk/p3P1p1/1p3pBp/2q1b2P/PN6/1PP3P1/1K1RR3 w - - 3 26"]
+[SetUp "1"]
+
+26. Rd7 Qxc2+ 27. Ka1 Qxb2# *

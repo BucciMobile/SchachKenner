@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03SD5"]
+[Difficulty "medium"]
+[Rating "1497"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/OkKiwQS5/black#34"]
+[Solution "g8g7 g4h4 f7e7 e1e7"]
+[SolutionSAN "Rxg7 Qh4+ Qe7 Rxe7"]
+[FEN "r1bk2r1/pppp1qBp/8/8/6Q1/8/P4PPP/R3R1K1 b - - 0 17"]
+[SetUp "1"]
+
+17... Rxg7 18. Qh4+ Qe7 19. Rxe7 *

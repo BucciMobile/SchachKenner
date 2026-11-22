@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JOmI"]
+[Difficulty "hard"]
+[Rating "2200"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/0TPXJtKa#41"]
+[Solution "f1f4 d8d3 b3c2 b7b5 c4a3 c5e3"]
+[SolutionSAN "Rf4 Rd3 Qc2 b5 Na3 Qxe3+"]
+[FEN "2kr4/pp4pp/2p5/2q2p2/2N1p3/1Q2P3/PP4PP/5RK1 w - - 0 21"]
+[SetUp "1"]
+
+21. Rf4 Rd3 22. Qc2 b5 23. Na3 Qxe3+ *

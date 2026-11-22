@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IQo0"]
+[Difficulty "easy"]
+[Rating "1022"]
+[Themes "crushing discoveredAttack discoveredCheck endgame long"]
+[GameUrl "https://lichess.org/game/wrMlSBt2/black#48"]
+[Solution "g8h8 h6g7 h8g8 g7f6 g8f8 f6h4"]
+[SolutionSAN "Kh8 Bg7+ Kg8 Bxf6+ Kf8 Bxh4"]
+[FEN "r5k1/2p2p1p/p1p2p1B/8/3P3q/7P/PP6/6RK b - - 3 24"]
+[SetUp "1"]
+
+24... Kh8 25. Bg7+ Kg8 26. Bxf6+ Kf8 27. Bxh4 *

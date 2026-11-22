@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F0UP"]
+[Difficulty "hard"]
+[Rating "2349"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/K1ZEpJiL/black#86"]
+[Solution "d7e7 c8c6 g2f3 c6f6"]
+[SolutionSAN "Re7 Rc6 Qf3 Rxf6+"]
+[FEN "2R5/p2r1k2/1p3b2/3p1Q2/1P1Pp1p1/P1K1P3/1B4q1/8 b - - 1 43"]
+[SetUp "1"]
+
+43... Re7 44. Rc6 Qf3 45. Rxf6+ *

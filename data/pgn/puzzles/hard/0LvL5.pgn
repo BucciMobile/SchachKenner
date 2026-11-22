@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LvL5"]
+[Difficulty "hard"]
+[Rating "2002"]
+[Themes "endgame master mate mateIn2 short superGM"]
+[GameUrl "https://lichess.org/game/57KbR5Wh#79"]
+[Solution "g2h1 d3h3 h1g1 h4f3"]
+[SolutionSAN "Kh1 Qh3+ Kg1 Nf3#"]
+[FEN "2Q3R1/p7/3kpp2/3p4/3P3n/3q4/5PK1/8 w - - 5 40"]
+[SetUp "1"]
+
+40. Kh1 Qh3+ 41. Kg1 Nf3# *

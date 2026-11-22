@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GfVb"]
+[Difficulty "easy"]
+[Rating "671"]
+[Themes "backRankMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/Sy1OZwMx/black#36"]
+[Solution "a8d8 d1d8"]
+[SolutionSAN "Rxd8 Rxd8#"]
+[FEN "r2Q1k1r/pp2npp1/2p4p/4Pq2/5P2/2N3B1/PPP3PP/2KR1B1R b - - 2 18"]
+[SetUp "1"]
+
+18... Rxd8 19. Rxd8# *

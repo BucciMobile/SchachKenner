@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01oXz"]
+[Difficulty "hard"]
+[Rating "2487"]
+[Themes "advantage attackingF2F7 attraction long opening"]
+[GameUrl "https://lichess.org/game/WA1vQT0Z#15"]
+[Solution "c3a4 c5f2 e1f2 f6e4 f2e3 e4g3"]
+[SolutionSAN "Na4 Bxf2+ Kxf2 Nxe4+ Ke3 Ng3"]
+[FEN "r2qk2r/ppp2pp1/2p1bn2/2b4p/4P3/2NP3P/PPP2PP1/R1BQKB1R w KQkq - 2 8"]
+[SetUp "1"]
+
+8. Na4 Bxf2+ 9. Kxf2 Nxe4+ 10. Ke3 Ng3 *

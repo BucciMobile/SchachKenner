@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GnLd"]
+[Difficulty "medium"]
+[Rating "1512"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/qhh3xUie#37"]
+[Solution "e2f3 e7d6 f1e1 e5h2"]
+[SolutionSAN "Bf3 Bd6 Re1 Qxh2+"]
+[FEN "r4rk1/1b2bppn/p3p2p/1p2q3/3p2P1/P2P3P/1P1NBB1N/R2Q1RK1 w - - 0 19"]
+[SetUp "1"]
+
+19. Bf3 Bd6 20. Re1 Qxh2+ *

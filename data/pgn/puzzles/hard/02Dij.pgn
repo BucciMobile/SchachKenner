@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Dij"]
+[Difficulty "hard"]
+[Rating "2236"]
+[Themes "crushing endgame knightEndgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/TvQZZel6/black#96"]
+[Solution "b7a7 a4c3 a7b8 c3b5 d7c5 b5d6 b8c7 d6e8"]
+[SolutionSAN "Ka7 Nc3 Kb8 Nb5 Nc5 Nxd6 Kc7 Ne8+"]
+[FEN "8/1k1n4/3p1p1p/K2PpPp1/N3P1P1/7P/8/8 b - - 2 48"]
+[SetUp "1"]
+
+48... Ka7 49. Nc3 Kb8 50. Nb5 Nc5 51. Nxd6 Kc7 52. Ne8+ *

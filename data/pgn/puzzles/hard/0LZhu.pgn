@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LZhu"]
+[Difficulty "hard"]
+[Rating "2431"]
+[Themes "advantage capturingDefender long middlegame"]
+[GameUrl "https://lichess.org/game/yG44Olpk/black#40"]
+[Solution "g6g5 e2e6 e7e6 e1e6 e8e6 c4d5"]
+[SolutionSAN "Rxg5 Rxe6 Qxe6 Rxe6 Rxe6 cxd5"]
+[FEN "4r1k1/pp2q1pp/2nbp1r1/3p1pN1/2PP4/7P/PPQBRPP1/4R1K1 b - - 0 20"]
+[SetUp "1"]
+
+20... Rxg5 21. Rxe6 Qxe6 22. Rxe6 Rxe6 23. cxd5 *

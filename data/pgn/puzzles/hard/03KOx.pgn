@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03KOx"]
+[Difficulty "hard"]
+[Rating "1928"]
+[Themes "middlegame"]
+[GameUrl "https://lichess.org/game/fI9tCbyL#63"]
+[Solution "g1h1 g5g3 g2f3 g3h3 e2h2 h3f3"]
+[SolutionSAN "Kh1 Qg3 gxf3 Qxh3+ Rh2 Qxf3+"]
+[FEN "r5k1/pp3p2/2p3p1/3r2qp/8/1PQNPn1B/P3R1P1/2R3K1 w - - 0 32"]
+[SetUp "1"]
+
+32. Kh1 Qg3 33. gxf3 Qxh3+ 34. Rh2 Qxf3+ *

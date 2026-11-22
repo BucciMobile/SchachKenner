@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09tlo"]
+[Difficulty "medium"]
+[Rating "1436"]
+[Themes "advantage middlegame veryLong"]
+[GameUrl "https://lichess.org/game/ZN8GC9gt/black#42"]
+[Solution "c4a3 d4a4 a5a4 c3a4 c8c2 f2c2 a3c2 c1c2"]
+[SolutionSAN "Nxa3 Ra4 Qxa4 Nxa4 Rxc2+ Qxc2 Nxc2 Kxc2"]
+[FEN "2r2rk1/pp3pp1/4p2p/q3P3/2nR1P2/P1N4P/1PP2QP1/2K3R1 b - - 0 21"]
+[SetUp "1"]
+
+21... Nxa3 22. Ra4 Qxa4 23. Nxa4 Rxc2+ 24. Qxc2 Nxc2 25. Kxc2 *

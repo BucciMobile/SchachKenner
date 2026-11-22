@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AXRW"]
+[Difficulty "hard"]
+[Rating "1880"]
+[Themes "crushing endgame master quietMove veryLong"]
+[GameUrl "https://lichess.org/game/41sjO7EW/black#104"]
+[Solution "f2f1q b1f1 e3f1 h4h5 f1g3 h5h6 g3e4 e6f5"]
+[SolutionSAN "f1=Q Qxf1+ Nxf1 h5 Ng3 h6 Ne4 Kf5"]
+[FEN "8/8/4K3/8/7P/4n2k/5p2/1Q6 b - - 1 52"]
+[SetUp "1"]
+
+52... f1=Q 53. Qxf1+ Nxf1 54. h5 Ng3 55. h6 Ne4 56. Kf5 *

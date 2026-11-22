@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gwcp"]
+[Difficulty "easy"]
+[Rating "1056"]
+[Themes "crushing endgame pin short"]
+[GameUrl "https://lichess.org/game/LmfQwICz/black#78"]
+[Solution "e6g5 h3f5 g6f5 e4f5"]
+[SolutionSAN "Ng5 Bf5 Qxf5 exf5"]
+[FEN "8/6pk/3Qnpq1/2p4p/2b1P3/2B2PPB/7P/7K b - - 1 39"]
+[SetUp "1"]
+
+39... Ng5 40. Bf5 Qxf5 41. exf5 *

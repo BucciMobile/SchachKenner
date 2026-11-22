@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07KyR"]
+[Difficulty "medium"]
+[Rating "1684"]
+[Themes "crushing long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/d2CUJsZx/black#46"]
+[Solution "d6c5 e6e7 c5e7 e1e7 d7e7 g5e7"]
+[SolutionSAN "Bc5 Re7 Bxe7 Rxe7 Qxe7 Qxe7"]
+[FEN "r4rk1/pp1q2pp/3bR3/3p2Q1/8/P1N4P/1P3PP1/4R1K1 b - - 0 23"]
+[SetUp "1"]
+
+23... Bc5 24. Re7 Bxe7 25. Rxe7 Qxe7 26. Qxe7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KI3l"]
+[Difficulty "hard"]
+[Rating "2382"]
+[Themes "crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/Hpzrek8G/black#92"]
+[Solution "d5d4 f3e4 d4d3 e4e3 e6d5 b2b3"]
+[SolutionSAN "d4 Ke4 d3 Ke3 Kd5 b3"]
+[FEN "8/p7/4k2p/3p2p1/1Pp3P1/2P2K1P/1P6/8 b - - 0 46"]
+[SetUp "1"]
+
+46... d4 47. Ke4 d3 48. Ke3 Kd5 49. b3 *

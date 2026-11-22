@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08nf9"]
+[Difficulty "hard"]
+[Rating "1965"]
+[Themes "clearance crushing endgame quietMove sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/cEQNFpYu/black#54"]
+[Solution "g8g7 f3f6 g7h6 f1f4 e8e4 f4e4 d7f5 e4h4"]
+[SolutionSAN "Kg7 Qf6+ Kxh6 Rf4 Rxe4 Rxe4 Qf5 Rh4+"]
+[FEN "4rrk1/2pq1p2/3p2pR/1p6/3PP3/2P2Q2/1P4P1/5R1K b - - 0 27"]
+[SetUp "1"]
+
+27... Kg7 28. Qf6+ Kxh6 29. Rf4 Rxe4 30. Rxe4 Qf5 31. Rh4+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09fzv"]
+[Difficulty "easy"]
+[Rating "1140"]
+[Themes "deflection endgame long mate mateIn3"]
+[GameUrl "https://lichess.org/game/2c4zveea#51"]
+[Solution "h4f2 e3c1 f2f1 f8c5 g1h1 c1f1"]
+[SolutionSAN "Qf2 Qc1+ Qf1 Bc5+ Kh1 Qxf1#"]
+[FEN "5b1k/p1p4p/1p2B1p1/3P4/7Q/1P2q3/P1P3PP/6K1 w - - 1 26"]
+[SetUp "1"]
+
+26. Qf2 Qc1+ 27. Qf1 Bc5+ 28. Kh1 Qxf1# *

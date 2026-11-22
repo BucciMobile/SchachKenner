@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "087i8"]
+[Difficulty "easy"]
+[Rating "977"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/cbU1U5iV#75"]
+[Solution "a6f6 b7f3 e2d2 h1d1"]
+[SolutionSAN "Rxf6 Bf3+ Kd2 Rd1#"]
+[FEN "1k6/1bp1N3/R4n2/2B1pp2/3p2p1/3P2P1/2P1KP2/7r w - - 0 38"]
+[SetUp "1"]
+
+38. Rxf6 Bf3+ 39. Kd2 Rd1# *

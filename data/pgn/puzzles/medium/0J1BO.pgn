@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J1BO"]
+[Difficulty "medium"]
+[Rating "1203"]
+[Themes "attraction mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/OahGKNfc/black#64"]
+[Solution "e8c8 c1c8 b8c8 e7c7"]
+[SolutionSAN "Rxc8 Rxc8+ Kxc8 Qc7#"]
+[FEN "1kR1r3/4Q1p1/pr2Nn2/1q1P4/4P2p/5P2/6PP/2R3K1 b - - 9 32"]
+[SetUp "1"]
+
+32... Rxc8 33. Rxc8+ Kxc8 34. Qc7# *

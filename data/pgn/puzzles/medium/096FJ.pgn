@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "096FJ"]
+[Difficulty "medium"]
+[Rating "1485"]
+[Themes "crushing endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/9OSWNrsm#59"]
+[Solution "a7e7 g4e2 e7f8 g8f8"]
+[SolutionSAN "Qe7 Qxe2 Qxf8+ Kxf8"]
+[FEN "5rk1/Q4pp1/2p4p/5P2/3Pb1q1/8/P3R1PP/5R1K w - - 1 30"]
+[SetUp "1"]
+
+30. Qe7 Qxe2 31. Qxf8+ Kxf8 *

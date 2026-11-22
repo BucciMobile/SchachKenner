@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MCvc"]
+[Difficulty "medium"]
+[Rating "1447"]
+[Themes "anastasiaMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/VoU6aHxo/black#40"]
+[Solution "f2e4 f1h1 c8h3 h1h3"]
+[SolutionSAN "Ne4 Rh1+ Bh3 Rxh3#"]
+[FEN "r1b2r2/1p2N1pk/p2p2p1/4p3/8/5N2/PPP2nP1/2K2R2 b - - 1 20"]
+[SetUp "1"]
+
+20... Ne4 21. Rh1+ Bh3 22. Rxh3# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06skK"]
+[Difficulty "easy"]
+[Rating "1055"]
+[Themes "crushing endgame master pin short"]
+[GameUrl "https://lichess.org/game/hPTpFDda#65"]
+[Solution "e5d5 d7c6 g2f2 c6d5"]
+[SolutionSAN "Rd5 Bc6 Kf2 Bxd5"]
+[FEN "8/p2b3p/5k2/2P1R1p1/8/8/P5K1/8 w - - 3 33"]
+[SetUp "1"]
+
+33. Rd5 Bc6 34. Kf2 Bxd5 *

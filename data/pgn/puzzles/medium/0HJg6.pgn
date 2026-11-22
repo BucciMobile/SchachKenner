@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HJg6"]
+[Difficulty "medium"]
+[Rating "1225"]
+[Themes "fork long mate mateIn3 middlegame"]
+[GameUrl "https://lichess.org/game/Yp4XFp1t#47"]
+[Solution "c3e4 e7h4 h1g1 h4h2 g1f1 h2h1"]
+[SolutionSAN "Nxe4 Qh4+ Kg1 Qh2+ Kf1 Qh1#"]
+[FEN "5rk1/1r2qppp/p3p3/1p2b3/1P2n3/P1NRP3/1B2QPP1/2R4K w - - 2 24"]
+[SetUp "1"]
+
+24. Nxe4 Qh4+ 25. Kg1 Qh2+ 26. Kf1 Qh1# *

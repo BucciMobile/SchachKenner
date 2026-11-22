@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01QSk"]
+[Difficulty "easy"]
+[Rating "1017"]
+[Themes "crushing endgame long queenRookEndgame skewer"]
+[GameUrl "https://lichess.org/game/CAhxmY2w#101"]
+[Solution "f3e4 h7h4 e4d5 h4h5 d5c4 h5a5"]
+[SolutionSAN "Ke4 Rh4+ Kd5 Rh5+ Kc4 Rxa5"]
+[FEN "6k1/7r/4P1p1/Q7/3P4/1r3K2/6P1/8 w - - 9 51"]
+[SetUp "1"]
+
+51. Ke4 Rh4+ 52. Kd5 Rh5+ 53. Kc4 Rxa5 *

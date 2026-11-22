@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fcpy"]
+[Difficulty "easy"]
+[Rating "1081"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/KYujjCPc/black#70"]
+[Solution "c5e7 h7f6 e7f6 g5f6"]
+[SolutionSAN "Qe7 Nf6+ Qxf6 Qxf6"]
+[FEN "2r1k3/1p3p1N/p3b1p1/2q1p1Qp/4P3/2PR3P/2P3PK/8 b - - 3 35"]
+[SetUp "1"]
+
+35... Qe7 36. Nf6+ Qxf6 37. Qxf6 *

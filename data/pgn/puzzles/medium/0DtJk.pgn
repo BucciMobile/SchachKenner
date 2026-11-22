@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DtJk"]
+[Difficulty "medium"]
+[Rating "1460"]
+[Themes "advancedPawn crushing endgame promotion short"]
+[GameUrl "https://lichess.org/game/iKKTfpPH/black#74"]
+[Solution "f5e5 e7e8q e5e3 e8e3"]
+[SolutionSAN "Re5 e8=Q Rxe3 Qxe3"]
+[FEN "8/1p2P1kp/p2p1qp1/5r2/2P5/1P2Q2P/P3B1P1/7K b - - 0 37"]
+[SetUp "1"]
+
+37... Re5 38. e8=Q Rxe3 39. Qxe3 *

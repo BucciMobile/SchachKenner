@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BMlM"]
+[Difficulty "hard"]
+[Rating "1945"]
+[Themes "advantage clearance long middlegame pin"]
+[GameUrl "https://lichess.org/game/QmwXK6ze/black#30"]
+[Solution "f6h5 g5e7 d8e7 d2h6 f7f5 h6h5"]
+[SolutionSAN "Nh5 Bxe7 Qxe7 Qh6 f5 Qxh5"]
+[FEN "r2q1rk1/4bppp/p2p1n2/1pp1p1B1/4P2P/P2P1P2/NPPQ1P2/2K3RR b - - 0 15"]
+[SetUp "1"]
+
+15... Nh5 16. Bxe7 Qxe7 17. Qh6 f5 18. Qxh5 *

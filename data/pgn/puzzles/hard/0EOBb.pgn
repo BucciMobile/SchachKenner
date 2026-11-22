@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EOBb"]
+[Difficulty "hard"]
+[Rating "2671"]
+[Themes "advantage defensiveMove middlegame veryLong"]
+[GameUrl "https://lichess.org/game/hfn20wFf#25"]
+[Solution "g6g4 d7e7 g4f3 f8f3 g2f3 c8h3 f1e2 c6d4"]
+[SolutionSAN "Qg4+ Ke7 Qf3 Qxf3 gxf3 Bh3+ Ke2 Nd4+"]
+[FEN "r1b2q2/pppk4/2n3Q1/1B1pp3/4n3/3P4/PPP2bPP/RNB2K1R w - - 1 13"]
+[SetUp "1"]
+
+13. Qg4+ Ke7 14. Qf3 Qxf3 15. gxf3 Bh3+ 16. Ke2 Nd4+ *

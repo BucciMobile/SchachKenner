@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00iLe"]
+[Difficulty "hard"]
+[Rating "1773"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/fBB50Rwf#29"]
+[Solution "h2h4 e8e4 h4g5 h6g5"]
+[SolutionSAN "h4 Rxe4 hxg5 hxg5"]
+[FEN "r1b1r1k1/pp1n1pb1/3p1q1p/2pP2p1/2P1B3/4PNB1/PPQ2PPP/2KR3R w - - 1 15"]
+[SetUp "1"]
+
+15. h4 Rxe4 16. hxg5 hxg5 *

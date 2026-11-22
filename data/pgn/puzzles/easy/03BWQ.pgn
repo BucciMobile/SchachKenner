@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03BWQ"]
+[Difficulty "easy"]
+[Rating "1192"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/ghHwNRCC#65"]
+[Solution "e7a7 d8d1 g1h2 g5f4 g2g3 f4f2"]
+[SolutionSAN "Rxa7 Rd1+ Kh2 Qf4+ g3 Qxf2+"]
+[FEN "3r2k1/p3R1p1/2Q2p1p/6q1/8/7P/P4PP1/6K1 w - - 1 33"]
+[SetUp "1"]
+
+33. Rxa7 Rd1+ 34. Kh2 Qf4+ 35. g3 Qxf2+ *

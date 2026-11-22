@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01lTa"]
+[Difficulty "medium"]
+[Rating "1223"]
+[Themes "endgame mate mateIn2 pillsburysMate short"]
+[GameUrl "https://lichess.org/game/Sek68KSv#59"]
+[Solution "a3b4 a8a1 e2e1 a1e1"]
+[SolutionSAN "axb4 Ra1+ Re1 Rxe1#"]
+[FEN "r4k2/1bp2pp1/1p1b3p/1N1P4/1pP5/P4B1P/4RPP1/6K1 w - - 0 30"]
+[SetUp "1"]
+
+30. axb4 Ra1+ 31. Re1 Rxe1# *

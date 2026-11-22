@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JSau"]
+[Difficulty "medium"]
+[Rating "1677"]
+[Themes "advantage middlegame pin sacrifice short"]
+[GameUrl "https://lichess.org/game/3dC0SrW5#47"]
+[Solution "f2f3 g4g2 c2g2 e7c5"]
+[SolutionSAN "f3 Rxg2+ Rxg2 Bc5"]
+[FEN "5qk1/pp2bp2/6pp/8/3QB1r1/1P5b/P1R2PPP/5RK1 w - - 1 24"]
+[SetUp "1"]
+
+24. f3 Rxg2+ 25. Rxg2 Bc5 *

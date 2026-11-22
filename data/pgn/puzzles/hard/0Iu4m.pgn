@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Iu4m"]
+[Difficulty "hard"]
+[Rating "1795"]
+[Themes "attraction mate mateIn2 middlegame pillsburysMate sacrifice short"]
+[GameUrl "https://lichess.org/game/FRhP3a1t#49"]
+[Solution "d1c1 a5a2 a1a2 d5a5"]
+[SolutionSAN "Rc1 Qxa2+ Kxa2 Ra5#"]
+[FEN "2k4r/p4ppp/4p3/q2rP2P/1ppPbP2/5N1R/PP1QNP2/K2R4 w - - 4 25"]
+[SetUp "1"]
+
+25. Rc1 Qxa2+ 26. Kxa2 Ra5# *

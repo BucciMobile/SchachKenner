@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Dmai"]
+[Difficulty "hard"]
+[Rating "2393"]
+[Themes "crushing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/gjTgyAEd#49"]
+[Solution "g2g3 h4f3 g1g2 d6c6 e3e4 f3d4 e2d4 d8d4"]
+[SolutionSAN "g3 Nf3+ Kg2 Qc6 e4 Nxd4 Nxd4 Rxd4"]
+[FEN "1k1r3r/2p3pp/p2q1p2/1p6/3B3n/1Q1BP3/2P1NPPP/5RK1 w - - 2 25"]
+[SetUp "1"]
+
+25. g3 Nf3+ 26. Kg2 Qc6 27. e4 Nxd4 28. Nxd4 Rxd4 *

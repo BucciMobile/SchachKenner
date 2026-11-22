@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04QzG"]
+[Difficulty "hard"]
+[Rating "1957"]
+[Themes "crushing hangingPiece long opening"]
+[GameUrl "https://lichess.org/game/sqp7Tyce#23"]
+[Solution "b5d6 d8d6 d3f5 e7f5 d1d6 f5d6"]
+[SolutionSAN "Nxd6 Qxd6 Bxf5 Nxf5 Qxd6 Nxd6"]
+[FEN "rn1q1rk1/1p2n1bp/p2p2p1/1Np2b2/2P5/3B4/PP2NPPP/R1BQ1RK1 w - - 0 12"]
+[SetUp "1"]
+
+12. Nxd6 Qxd6 13. Bxf5 Nxf5 14. Qxd6 Nxd6 *

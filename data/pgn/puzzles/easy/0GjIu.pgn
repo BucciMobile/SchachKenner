@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GjIu"]
+[Difficulty "easy"]
+[Rating "501"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/MaA0hwCn#61"]
+[Solution "d1d6 e4g2"]
+[SolutionSAN "Rxd6 Qxg2#"]
+[FEN "r5k1/1p3p1p/p1br1p2/Q4P2/4q3/8/P5PP/3R1R1K w - - 0 31"]
+[SetUp "1"]
+
+31. Rxd6 Qxg2# *

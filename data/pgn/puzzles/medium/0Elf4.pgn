@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Elf4"]
+[Difficulty "medium"]
+[Rating "1457"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/g8Ca1s59/black#58"]
+[Solution "e5f4 f7f4 b2c1 d2c1"]
+[SolutionSAN "Bf4+ Rxf4 Qxc1+ Kxc1"]
+[FEN "r1b1Q3/5R2/p3p3/2kpb1p1/1p6/8/1qPK2PP/1NN5 b - - 8 29"]
+[SetUp "1"]
+
+29... Bf4+ 30. Rxf4 Qxc1+ 31. Kxc1 *

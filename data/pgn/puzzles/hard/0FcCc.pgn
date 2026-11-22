@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FcCc"]
+[Difficulty "hard"]
+[Rating "1960"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/MU4UBmjM/black#66"]
+[Solution "f8e8 d6d3 e4d3 e1e8 g7g8 e8g8"]
+[SolutionSAN "Re8 Qxd3 exd3 Rxe8+ Qg8 Rxg8+"]
+[FEN "5r1k/p5qp/3Q2p1/P1p5/n3p3/3b1P2/6PP/2R1R1K1 b - - 0 33"]
+[SetUp "1"]
+
+33... Re8 34. Qxd3 exd3 35. Rxe8+ Qg8 36. Rxg8+ *

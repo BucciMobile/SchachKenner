@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IHUY"]
+[Difficulty "easy"]
+[Rating "1099"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/I5VUO2q0#87"]
+[Solution "f3g4 f5g4"]
+[SolutionSAN "fxg4 fxg4#"]
+[FEN "8/p3k3/2R1N2p/5p2/3P2pP/4nP1K/P5r1/8 w - - 0 44"]
+[SetUp "1"]
+
+44. fxg4 fxg4# *

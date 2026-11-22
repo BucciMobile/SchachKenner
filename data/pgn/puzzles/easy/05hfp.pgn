@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05hfp"]
+[Difficulty "easy"]
+[Rating "975"]
+[Themes "endgame knightEndgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/nrBPESi3#101"]
+[Solution "f6f7 g4f2"]
+[SolutionSAN "f7 Nf2#"]
+[FEN "8/4N2p/5P2/6p1/6n1/5k1K/7P/8 w - - 0 51"]
+[SetUp "1"]
+
+51. f7 Nf2# *

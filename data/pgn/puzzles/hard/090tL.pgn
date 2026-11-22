@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "090tL"]
+[Difficulty "hard"]
+[Rating "2484"]
+[Themes "advantage master masterVsMaster middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/fxyvkuEg#59"]
+[Solution "e2f4 d5c4 d1d8 b8b1 a1b1 c2b1 g1h2 c4a6"]
+[SolutionSAN "Nxf4 Bc4 Rxd8 Rb1+ Rxb1 Qxb1+ Kh2 Bxa6"]
+[FEN "1r1r4/7p/Q1p3pk/3b4/p4p1P/P3P3/2q1NPP1/R2R2K1 w - - 0 30"]
+[SetUp "1"]
+
+30. Nxf4 Bc4 31. Rxd8 Rb1+ 32. Rxb1 Qxb1+ 33. Kh2 Bxa6 *

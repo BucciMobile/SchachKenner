@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AiSq"]
+[Difficulty "medium"]
+[Rating "1298"]
+[Themes "advantage endgame fork master short"]
+[GameUrl "https://lichess.org/game/tME1Cv35/black#64"]
+[Solution "g8f7 h4e7 f7g8 e7d8"]
+[SolutionSAN "Kxf7 Qe7+ Kg8 Qxd8+"]
+[FEN "3r2k1/pp3R1p/6p1/7n/7Q/2q2P2/5P1P/4R1K1 b - - 0 32"]
+[SetUp "1"]
+
+32... Kxf7 33. Qe7+ Kg8 34. Qxd8+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FT9h"]
+[Difficulty "hard"]
+[Rating "1937"]
+[Themes "advantage clearance endgame long pin"]
+[GameUrl "https://lichess.org/game/kQqYARHN/black#56"]
+[Solution "c7c6 e5f6 d8f8 e1e7 d7e7 f6e7"]
+[SolutionSAN "c6 Bf6 Rf8 Re7 Qxe7 Bxe7"]
+[FEN "3r2k1/2pq2p1/7p/p3B3/1p1P4/6QP/bP4P1/4R2K b - - 1 28"]
+[SetUp "1"]
+
+28... c6 29. Bf6 Rf8 30. Re7 Qxe7 31. Bxe7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08EVQ"]
+[Difficulty "medium"]
+[Rating "1544"]
+[Themes "crushing endgame quietMove short"]
+[GameUrl "https://lichess.org/game/wL3XB2SO/black#50"]
+[Solution "a8e8 f4e5 e6e5 d4e5"]
+[SolutionSAN "Rae8 Be5 Qxe5 dxe5"]
+[FEN "r4r1k/pp3pR1/4q2p/3p4/3P1B2/6Q1/PP4PP/6K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Rae8 26. Be5 Qxe5 27. dxe5 *

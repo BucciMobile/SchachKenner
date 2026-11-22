@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M6l5"]
+[Difficulty "medium"]
+[Rating "1432"]
+[Themes "advantage hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/LyVssPd4#51"]
+[Solution "d2a2 f5e4 d5d6 e7f7"]
+[SolutionSAN "Qa2 fxe4 d6+ Qf7"]
+[FEN "3r1rk1/pb2q1p1/1p5p/3Ppp2/1P2B3/P3P2P/3Q1PP1/2R1R1K1 w - - 0 26"]
+[SetUp "1"]
+
+26. Qa2 fxe4 27. d6+ Qf7 *

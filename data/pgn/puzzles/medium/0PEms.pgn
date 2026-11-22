@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0PEms"]
+[Difficulty "medium"]
+[Rating "1660"]
+[Themes "crushing endgame exposedKing fork long"]
+[GameUrl "https://lichess.org/game/uUAsqHyi/black#80"]
+[Solution "h8g8 e4d5 g8f8 e7f7 f8e8 d5b3"]
+[SolutionSAN "Kg8 Bd5+ Kf8 Rf7+ Ke8 Bxb3"]
+[FEN "7k/4R3/p7/6pK/P2pB2p/1r1P2b1/8/8 b - - 1 40"]
+[SetUp "1"]
+
+40... Kg8 41. Bd5+ Kf8 42. Rf7+ Ke8 43. Bxb3 *

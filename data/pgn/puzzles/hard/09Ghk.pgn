@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09Ghk"]
+[Difficulty "hard"]
+[Rating "3128"]
+[Themes "bishopEndgame crushing endgame intermezzo quietMove veryLong"]
+[GameUrl "https://lichess.org/game/VcFsldYo/black#76"]
+[Solution "g6g5 c2c4 b5c4 a3a4 g7c3 d5c4 c3d2 b4b5 a6b5 a4b5 d2e3 d6c7 e8e7 c4d5 h5h4 b5b6"]
+[SolutionSAN "g5 c4 bxc4 a4 Bc3 Kxc4 Bd2 b5 axb5+ axb5 Be3 Bc7 Ke7 Kd5 h4 b6"]
+[FEN "4k3/6b1/p2BP1p1/1p1K3p/1P6/P7/2P5/8 b - - 2 38"]
+[SetUp "1"]
+
+38... g5 39. c4 bxc4 40. a4 Bc3 41. Kxc4 Bd2 42. b5 axb5+ 43. axb5 Be3 44. Bc7 Ke7 45. Kd5 h4 46. b6 *

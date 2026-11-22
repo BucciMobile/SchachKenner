@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EfqZ"]
+[Difficulty "hard"]
+[Rating "2415"]
+[Themes "crushing endgame hangingPiece long quietMove"]
+[GameUrl "https://lichess.org/game/CtsMvR7f/black#70"]
+[Solution "h8h7 e4h7 e3e6 h7d3 e6f6 d3c4"]
+[SolutionSAN "Rh7 Bxh7 Qe6 Bd3 Qxf6 Bc4"]
+[FEN "4rk1r/p1RR1p2/5P2/8/4B2p/KP2q3/P6P/8 b - - 4 35"]
+[SetUp "1"]
+
+35... Rh7 36. Bxh7 Qe6 37. Bd3 Qxf6 38. Bc4 *

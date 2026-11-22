@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LeoV"]
+[Difficulty "medium"]
+[Rating "1543"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/5fab8P8M#53"]
+[Solution "a1a5 f5d3 d2d3 b6a5"]
+[SolutionSAN "Rxa5 Bxd3 Qxd3 Qxa5"]
+[FEN "4r1k1/4rpp1/pqp3np/p2p1b2/3P4/3N2P1/3QNPBP/R3RK2 w - - 0 27"]
+[SetUp "1"]
+
+27. Rxa5 Bxd3 28. Qxd3 Qxa5 *

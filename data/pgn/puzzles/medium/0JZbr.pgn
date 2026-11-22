@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JZbr"]
+[Difficulty "medium"]
+[Rating "1639"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/5579iwfT#73"]
+[Solution "d1e1 c3e3"]
+[SolutionSAN "Ke1 Qe3#"]
+[FEN "1k6/pp3Q2/8/3P4/2P2Pb1/1Pq5/P2N4/3K1R2 w - - 3 37"]
+[SetUp "1"]
+
+37. Ke1 Qe3# *

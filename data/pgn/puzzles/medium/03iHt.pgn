@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03iHt"]
+[Difficulty "medium"]
+[Rating "1357"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/dSRaAfve#13"]
+[Solution "d1d5 d6b4 d5d2 b4d2"]
+[SolutionSAN "Qxd5 Bb4+ Qd2 Bxd2+"]
+[FEN "r1bqk1nr/ppp3pp/2nb4/3pp3/8/P3P1B1/1PP2PPP/RN1QKBNR w KQkq - 2 7"]
+[SetUp "1"]
+
+7. Qxd5 Bb4+ 8. Qd2 Bxd2+ *

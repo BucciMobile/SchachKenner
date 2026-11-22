@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01t8S"]
+[Difficulty "hard"]
+[Rating "2275"]
+[Themes "crushing exposedKing long middlegame"]
+[GameUrl "https://lichess.org/game/fL85dAcw#55"]
+[Solution "f2f3 g4g2 f3f2 g2e4 c4e4 f6e4"]
+[SolutionSAN "Rf3 Qg2+ Rf2 Qxe4+ Qxe4 Nxe4"]
+[FEN "N1bk3r/pp1p4/3R1n2/7p/2Q1P1q1/8/PPP1KR2/8 w - - 1 28"]
+[SetUp "1"]
+
+28. Rf3 Qg2+ 29. Rf2 Qxe4+ 30. Qxe4 Nxe4 *

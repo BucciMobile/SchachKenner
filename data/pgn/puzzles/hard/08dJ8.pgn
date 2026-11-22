@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08dJ8"]
+[Difficulty "hard"]
+[Rating "2147"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/snXzz5bj/black#42"]
+[Solution "f8e8 e6f5 e8e1 a1e1"]
+[SolutionSAN "Re8 Bf5 Rxe1+ Rxe1"]
+[FEN "5r1k/ppq3pp/2p1Bp2/8/1P6/2B3P1/P1b3PP/R3R1K1 b - - 0 21"]
+[SetUp "1"]
+
+21... Re8 22. Bf5 Rxe1+ 23. Rxe1 *

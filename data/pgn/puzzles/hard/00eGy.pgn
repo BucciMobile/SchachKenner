@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00eGy"]
+[Difficulty "hard"]
+[Rating "2249"]
+[Themes "advantage defensiveMove endgame master short"]
+[GameUrl "https://lichess.org/game/6A7qLhc2#77"]
+[Solution "h3h4 f4h5 g3f2 g5g4"]
+[SolutionSAN "h4 Nh5+ Kf2 g4"]
+[FEN "8/6k1/pp2p3/3pPpp1/PPpP1n2/2P3KP/2R5/8 w - - 2 39"]
+[SetUp "1"]
+
+39. h4 Nh5+ 40. Kf2 g4 *

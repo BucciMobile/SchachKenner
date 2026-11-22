@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Eceb"]
+[Difficulty "medium"]
+[Rating "1455"]
+[Themes "crushing endgame long quietMove rookEndgame"]
+[GameUrl "https://lichess.org/game/tc6vr5Lp/black#128"]
+[Solution "a3a4 b5b6 a7a6 d6d8 a4c4 c5c4"]
+[SolutionSAN "Rxa4 b6+ Ka6 Rd8 Rc4+ Kxc4"]
+[FEN "8/kp6/3R4/pPK5/P7/r7/8/8 b - - 35 64"]
+[SetUp "1"]
+
+64... Rxa4 65. b6+ Ka6 66. Rd8 Rc4+ 67. Kxc4 *

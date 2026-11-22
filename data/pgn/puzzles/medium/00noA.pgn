@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00noA"]
+[Difficulty "medium"]
+[Rating "1397"]
+[Themes "endgame long mate mateIn3 operaMate"]
+[GameUrl "https://lichess.org/game/wzqiWq1O/black#82"]
+[Solution "f2e3 f1f3 e3d2 d4b3 d2e1 f3f1"]
+[SolutionSAN "Ke3 Rf3+ Kd2 Nb3+ Ke1 Rf1#"]
+[FEN "8/1b4p1/p3p1Pr/1p1p4/3N4/2PB4/PP3k1r/1K3R2 b - - 20 41"]
+[SetUp "1"]
+
+41... Ke3 42. Rf3+ Kd2 43. Nb3+ Ke1 44. Rf1# *

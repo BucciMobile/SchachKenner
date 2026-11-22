@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0N6lL"]
+[Difficulty "medium"]
+[Rating "1580"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/JYN5NHTY/black#58"]
+[Solution "g6e4 f3f6 e4d3 c2d3"]
+[SolutionSAN "Bxe4 Rxf6 Bxd3 cxd3"]
+[FEN "r4rk1/2q2ppp/p4nb1/1p4Q1/4P3/3B1R2/PPP1N1PP/5R1K b - - 4 29"]
+[SetUp "1"]
+
+29... Bxe4 30. Rxf6 Bxd3 31. cxd3 *

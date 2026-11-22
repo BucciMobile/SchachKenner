@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FHs1"]
+[Difficulty "hard"]
+[Rating "1817"]
+[Themes "advancedPawn crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/H86eSDVF#89"]
+[Solution "g4g5 h4h3 g5g6 d5e6 d3e4 h3h2"]
+[SolutionSAN "g5 h3 g6 Ke6 Ke4 h2"]
+[FEN "8/8/3p4/3k4/3P2Pp/3KPp2/1P3P2/8 w - - 0 45"]
+[SetUp "1"]
+
+45. g5 h3 46. g6 Ke6 47. Ke4 h2 *

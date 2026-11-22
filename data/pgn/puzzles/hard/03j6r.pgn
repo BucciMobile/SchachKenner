@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03j6r"]
+[Difficulty "hard"]
+[Rating "1890"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/AzcOE3mv#69"]
+[Solution "g1f2 d8d1 f2e2 d1a1"]
+[SolutionSAN "Kf2 Rd1 Kxe2 Rxa1"]
+[FEN "3r3k/2b3p1/8/5p2/2N4p/4B1P1/PP2p2P/R5K1 w - - 0 35"]
+[SetUp "1"]
+
+35. Kf2 Rd1 36. Kxe2 Rxa1 *

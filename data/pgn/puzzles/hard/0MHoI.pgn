@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MHoI"]
+[Difficulty "hard"]
+[Rating "1726"]
+[Themes "advancedPawn advantage clearance discoveredAttack discoveredCheck long middlegame queensideAttack"]
+[GameUrl "https://lichess.org/game/quNbdgHF/black#42"]
+[Solution "d8e8 e6e7 c8b8 d4c6 b7c6 d1d8"]
+[SolutionSAN "Re8 e7+ Kb8 Nxc6+ bxc6 Rd8+"]
+[FEN "2kr2nr/ppp4p/2n1P1p1/8/3Np3/2P3PB/PP5P/2KR4 b - - 0 21"]
+[SetUp "1"]
+
+21... Re8 22. e7+ Kb8 23. Nxc6+ bxc6 24. Rd8+ *

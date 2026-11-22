@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09AI4"]
+[Difficulty "easy"]
+[Rating "845"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/gil9wgzy/black#24"]
+[Solution "d8f6 d3h7"]
+[SolutionSAN "Qxf6 Qxh7#"]
+[FEN "r2q1rk1/pppb1ppp/4pN2/6N1/3P3P/3Q4/PPP2PP1/R3K2R b KQ - 0 12"]
+[SetUp "1"]
+
+12... Qxf6 13. Qxh7# *

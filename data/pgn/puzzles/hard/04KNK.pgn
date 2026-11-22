@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04KNK"]
+[Difficulty "hard"]
+[Rating "2144"]
+[Themes "advantage kingsideAttack middlegame veryLong"]
+[GameUrl "https://lichess.org/game/WbpgHXh6/black#48"]
+[Solution "g7g8 d5f6 d7f6 c3f6 g8h7 d1d4 c5d4 f6d4"]
+[SolutionSAN "Kg8 Nf6+ Nxf6 Qxf6 Kh7 Rd4 Qxd4 Qxd4"]
+[FEN "r1b4r/pp1n2k1/4p1p1/2qN1p2/2p5/2Q5/PP3PPP/R2R2K1 b - - 1 24"]
+[SetUp "1"]
+
+24... Kg8 25. Nf6+ Nxf6 26. Qxf6 Kh7 27. Rd4 Qxd4 28. Qxd4 *

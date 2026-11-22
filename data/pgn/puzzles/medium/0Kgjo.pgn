@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kgjo"]
+[Difficulty "medium"]
+[Rating "1411"]
+[Themes "endgame mate mateIn1 oneMove operaMate"]
+[GameUrl "https://lichess.org/game/m9KIUFDW#133"]
+[Solution "e1f1 g2g1"]
+[SolutionSAN "Kf1 Rg1#"]
+[FEN "1B6/8/8/8/5P2/3kb2R/6r1/4K3 w - - 36 67"]
+[SetUp "1"]
+
+67. Kf1 Rg1# *

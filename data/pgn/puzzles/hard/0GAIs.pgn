@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GAIs"]
+[Difficulty "hard"]
+[Rating "1801"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/dESpEICZ/black#72"]
+[Solution "b8f8 e7f7 f8f7 c6d5"]
+[SolutionSAN "Rf8 Rxf7 Rxf7 Bd5"]
+[FEN "1r4k1/R3Rb2/2B3pp/2p5/1p6/6P1/1b5P/6K1 b - - 3 36"]
+[SetUp "1"]
+
+36... Rf8 37. Rxf7 Rxf7 38. Bd5 *

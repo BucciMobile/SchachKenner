@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02LST"]
+[Difficulty "medium"]
+[Rating "1272"]
+[Themes "endgame mate mateIn2 pin short"]
+[GameUrl "https://lichess.org/game/o57hZvVg#77"]
+[Solution "c6c7 d5e3 g2h1 a2a1"]
+[SolutionSAN "c7 Nxe3+ Kh1 Ra1#"]
+[FEN "8/R7/2P4k/3n3p/P5p1/4P1P1/r4PKP/8 w - - 2 39"]
+[SetUp "1"]
+
+39. c7 Nxe3+ 40. Kh1 Ra1# *

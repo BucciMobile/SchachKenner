@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ol6v"]
+[Difficulty "medium"]
+[Rating "1283"]
+[Themes "crushing discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/CIVEk7bi/black#48"]
+[Solution "f8h8 f5f6 g7g8 g4d7"]
+[SolutionSAN "Rh8 f6+ Kg8 Qxd7"]
+[FEN "r4r2/1p1q1pk1/p2p2p1/4bP2/2PpP1Q1/8/PP1B3P/2R2RK1 b - - 0 24"]
+[SetUp "1"]
+
+24... Rh8 25. f6+ Kg8 26. Qxd7 *

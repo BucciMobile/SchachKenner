@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Cdo"]
+[Difficulty "hard"]
+[Rating "1932"]
+[Themes "advantage attackingF2F7 discoveredAttack discoveredCheck long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/pIrYmh7R/black#24"]
+[Solution "b4c5 d5f7 e8f7 f4d6 f7e8 d6c5"]
+[SolutionSAN "Qxc5 Bxf7+ Kxf7 Bd6+ Ke8 Bxc5"]
+[FEN "r3kb1r/pp2pppp/2n5/2PB4/1q3B2/1P2PQ2/P1P2PPP/R4nK1 b kq - 1 12"]
+[SetUp "1"]
+
+12... Qxc5 13. Bxf7+ Kxf7 14. Bd6+ Ke8 15. Bxc5 *

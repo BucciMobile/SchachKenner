@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08SqC"]
+[Difficulty "medium"]
+[Rating "1327"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short xRayAttack"]
+[GameUrl "https://lichess.org/game/WlZyqrBs#69"]
+[Solution "e4e5 d3d1 c1d1 b1d1"]
+[SolutionSAN "e5 Qd1+ Rxd1 Rxd1#"]
+[FEN "8/5pkp/2p3p1/2p5/4PQ2/2Pq4/5PPP/1rR3K1 w - - 1 35"]
+[SetUp "1"]
+
+35. e5 Qd1+ 36. Rxd1 Rxd1# *

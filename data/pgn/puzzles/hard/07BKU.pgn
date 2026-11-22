@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07BKU"]
+[Difficulty "hard"]
+[Rating "1767"]
+[Themes "clearance crushing kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/8rMqLrPj/black#52"]
+[Solution "g7h8 g1g8 e7g8 d1g1 c3g7 g1g7"]
+[SolutionSAN "Kh8 Rxg8+ Nxg8 Rg1 Qg7 Rxg7"]
+[FEN "rn1Q2r1/1bp1n1kp/4p3/pp6/2N1P3/2q5/P1P2P1P/1K1R2R1 b - - 1 26"]
+[SetUp "1"]
+
+26... Kh8 27. Rxg8+ Nxg8 28. Rg1 Qg7 29. Rxg7 *

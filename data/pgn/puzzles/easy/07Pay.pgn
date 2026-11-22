@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Pay"]
+[Difficulty "easy"]
+[Rating "1158"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/h0GSi3Uz#21"]
+[Solution "g2h3 h4f2"]
+[SolutionSAN "gxh3 Qf2#"]
+[FEN "rn2k2r/ppp2ppp/8/2PB4/4P2q/2N1p2b/PPP3PP/R2Q1K1R w kq - 0 11"]
+[SetUp "1"]
+
+11. gxh3 Qf2# *

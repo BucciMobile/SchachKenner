@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02QW9"]
+[Difficulty "easy"]
+[Rating "838"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/Q7nqfr2R#65"]
+[Solution "e1e3 g6b1 e3e1 b1e1"]
+[SolutionSAN "Re3 Qb1+ Re1 Qxe1#"]
+[FEN "4nk2/Q5p1/1p4qp/3p4/3P4/2P2bP1/PP3P1P/4R1K1 w - - 3 33"]
+[SetUp "1"]
+
+33. Re3 Qb1+ 34. Re1 Qxe1# *

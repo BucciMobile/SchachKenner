@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IggL"]
+[Difficulty "medium"]
+[Rating "1241"]
+[Themes "attackingF2F7 mate mateIn2 opening short"]
+[GameUrl "https://lichess.org/game/cy7VhhM9/black#14"]
+[Solution "d5g2 c4f7 e8d7 b3e6"]
+[SolutionSAN "Bxg2 Bxf7+ Kd7 Qe6#"]
+[FEN "rn1qkb1r/ppp2ppp/8/3bp3/2B5/1Q2P3/PP1P1PPP/R1B1K1NR b KQkq - 1 7"]
+[SetUp "1"]
+
+7... Bxg2 8. Bxf7+ Kd7 9. Qe6# *

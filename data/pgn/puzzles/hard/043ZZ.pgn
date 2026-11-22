@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "043ZZ"]
+[Difficulty "hard"]
+[Rating "2173"]
+[Themes "crushing defensiveMove endgame hangingPiece long"]
+[GameUrl "https://lichess.org/game/vnCpuZPw/black#92"]
+[Solution "e2e1q d2e1 c4b3 e1d2 h7h6 d2d3"]
+[SolutionSAN "e1=Q+ Kxe1 Kb3 Kd2 h6 Kd3"]
+[FEN "8/7p/p7/7P/1Pk2p2/P7/3Kp1P1/8 b - - 1 46"]
+[SetUp "1"]
+
+46... e1=Q+ 47. Kxe1 Kb3 48. Kd2 h6 49. Kd3 *

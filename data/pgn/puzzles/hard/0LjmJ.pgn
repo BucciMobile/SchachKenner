@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LjmJ"]
+[Difficulty "hard"]
+[Rating "1787"]
+[Themes "advancedPawn crushing endgame short"]
+[GameUrl "https://lichess.org/game/bYyx5gCz/black#72"]
+[Solution "g8f8 d6e7 f8e7 f4g5"]
+[SolutionSAN "Kf8 dxe7+ Kxe7 Bg5"]
+[FEN "6k1/4pp1p/3P1np1/4K3/5BP1/7P/8/8 b - - 3 36"]
+[SetUp "1"]
+
+36... Kf8 37. dxe7+ Kxe7 38. Bg5 *

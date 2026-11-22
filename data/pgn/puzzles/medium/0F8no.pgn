@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F8no"]
+[Difficulty "medium"]
+[Rating "1675"]
+[Themes "attraction crushing endgame fork long sacrifice"]
+[GameUrl "https://lichess.org/game/5ua8X8UQ#69"]
+[Solution "e7e6 f4f3 d3f3 f5d4 e6e5 d4f3"]
+[SolutionSAN "Ke6 Rxf3 Rxf3 Nd4+ Ke5 Nxf3+"]
+[FEN "2k5/1p2K2p/1p4p1/5n2/5r2/1P1R1N1P/P1P5/8 w - - 1 35"]
+[SetUp "1"]
+
+35. Ke6 Rxf3 36. Rxf3 Nd4+ 37. Ke5 Nxf3+ *

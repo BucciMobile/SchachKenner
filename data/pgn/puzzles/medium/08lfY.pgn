@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08lfY"]
+[Difficulty "medium"]
+[Rating "1422"]
+[Themes "kingsideAttack mate mateIn2 opening sacrifice short smotheredMate"]
+[GameUrl "https://lichess.org/game/1atMjRe4#21"]
+[Solution "h8g6 d4g1 f1g1 e4f2"]
+[SolutionSAN "Nxg6 Qg1+ Rxg1 Nf2#"]
+[FEN "rnb1k2N/ppp4p/3p2p1/2b1p2B/3qn3/8/PPPP2PP/RNBQ1R1K w q - 0 11"]
+[SetUp "1"]
+
+11. Nxg6 Qg1+ 12. Rxg1 Nf2# *

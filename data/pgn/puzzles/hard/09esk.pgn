@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09esk"]
+[Difficulty "hard"]
+[Rating "1771"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/PqTFNruD/black#48"]
+[Solution "f7e6 f3d5 f6d5 d2d5"]
+[SolutionSAN "Kxe6 Bd5+ Nxd5 Qxd5#"]
+[FEN "2rqr3/4pkb1/1pPpNnp1/6Bp/2P5/1P3B1P/3Q1PP1/1R4K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Kxe6 25. Bd5+ Nxd5 26. Qxd5# *

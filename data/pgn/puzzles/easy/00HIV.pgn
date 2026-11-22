@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00HIV"]
+[Difficulty "easy"]
+[Rating "837"]
+[Themes "crushing endgame knightEndgame master short"]
+[GameUrl "https://lichess.org/game/1mef1VFJ/black#74"]
+[Solution "h6h5 d2e4 f6e4 d3e4"]
+[SolutionSAN "h5 Ne4+ Nxe4 Kxe4"]
+[FEN "8/8/1p1k1n1p/4p3/1PP2pp1/3K4/3N1PPP/8 b - - 3 37"]
+[SetUp "1"]
+
+37... h5 38. Ne4+ Nxe4 39. Kxe4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05FfT"]
+[Difficulty "easy"]
+[Rating "863"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/WdlRC8w4/black#76"]
+[Solution "f8f3 a4a8 f3f8 a8f8"]
+[SolutionSAN "Rxf3 Ra8+ Rf8 Rxf8#"]
+[FEN "5r1k/6pp/3p4/2p5/Rp6/2b1BQN1/5PK1/4q3 b - - 1 38"]
+[SetUp "1"]
+
+38... Rxf3 39. Ra8+ Rf8 40. Rxf8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01fya"]
+[Difficulty "easy"]
+[Rating "525"]
+[Themes "endgame mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/Wx2VGyoR/black#36"]
+[Solution "f8d8 d1d8"]
+[SolutionSAN "Rxd8 Rxd8#"]
+[FEN "1rbR1rk1/5pp1/p3p2p/1p6/4B3/8/PPP2PPP/2KR4 b - - 1 18"]
+[SetUp "1"]
+
+18... Rxd8 19. Rxd8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09KrT"]
+[Difficulty "hard"]
+[Rating "2697"]
+[Themes "advancedPawn crushing defensiveMove endgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/VtcS2LrJ/black#96"]
+[Solution "c3b2 h5h6 d2d8 h6h7 c5c4 g4e3 c4c3 g3g4 d8f8 f5g6"]
+[SolutionSAN "Kb2 h6 Rd8 h7 c4 Ne3 c3 g4 Rf8+ Kg6"]
+[FEN "8/p7/P7/2p2K1P/6N1/2k3P1/3r4/8 b - - 0 48"]
+[SetUp "1"]
+
+48... Kb2 49. h6 Rd8 50. h7 c4 51. Ne3 c3 52. g4 Rf8+ 53. Kg6 *

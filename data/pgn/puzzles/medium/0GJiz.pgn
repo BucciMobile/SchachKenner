@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GJiz"]
+[Difficulty "medium"]
+[Rating "1569"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/OZA58Qr0/black#44"]
+[Solution "a6a5 g2h3 e6b6 c1c4"]
+[SolutionSAN "a5 Bh3 Qxb6 Rxc4"]
+[FEN "r3r1k1/1p3ppp/pP2qn2/4p3/P1b1P2Q/B5P1/5PBP/R1R3K1 b - - 0 22"]
+[SetUp "1"]
+
+22... a5 23. Bh3 Qxb6 24. Rxc4 *

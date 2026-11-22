@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jl3T"]
+[Difficulty "medium"]
+[Rating "1247"]
+[Themes "crushing endgame master pin short"]
+[GameUrl "https://lichess.org/game/DZrI35SM#51"]
+[Solution "e2e4 d8d2 c2d2 g6e4"]
+[SolutionSAN "Qe4 Rxd2+ Kxd2 Qxe4"]
+[FEN "3r1k2/4bpp1/2p3q1/8/5p2/2P5/PPKNQP2/3R4 w - - 2 26"]
+[SetUp "1"]
+
+26. Qe4 Rxd2+ 27. Kxd2 Qxe4 *

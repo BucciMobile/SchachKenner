@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KrPi"]
+[Difficulty "medium"]
+[Rating "1385"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/boFmSk5M/black#86"]
+[Solution "h6h5 c8g8 g6h7 g8h8"]
+[SolutionSAN "Rh5 Rg8+ Kh7 Rh8+"]
+[FEN "2R5/5p2/4p1kr/1P2B3/2P5/8/5KP1/1r6 b - - 0 43"]
+[SetUp "1"]
+
+43... Rh5 44. Rg8+ Kh7 45. Rh8+ *

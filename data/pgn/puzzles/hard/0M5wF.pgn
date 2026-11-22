@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M5wF"]
+[Difficulty "hard"]
+[Rating "2318"]
+[Themes "crushing defensiveMove endgame queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/FdT0JlnZ#119"]
+[Solution "e1e6 g6h5 f4h4 f2h4"]
+[SolutionSAN "Re6+ Kh5 Rxh4+ Qxh4+"]
+[FEN "8/6p1/6k1/8/PP3R1p/5P1K/5q2/4R3 w - - 1 60"]
+[SetUp "1"]
+
+60. Re6+ Kh5 61. Rxh4+ Qxh4+ *

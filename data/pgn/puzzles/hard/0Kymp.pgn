@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kymp"]
+[Difficulty "hard"]
+[Rating "2186"]
+[Themes "crushing middlegame short trappedPiece"]
+[GameUrl "https://lichess.org/game/5XnWKKVL/black#80"]
+[Solution "g4g3 f5h5 h4h5 d1h5"]
+[SolutionSAN "g3 Rh5 Qxh5 Bxh5+"]
+[FEN "1n3r2/5r2/1p1P1pk1/2pQpR2/2P1P1pq/pP6/P5P1/3B1RK1 b - - 1 40"]
+[SetUp "1"]
+
+40... g3 41. Rh5 Qxh5 42. Bxh5+ *

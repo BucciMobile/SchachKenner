@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KkNI"]
+[Difficulty "medium"]
+[Rating "1351"]
+[Themes "advantage capturingDefender deflection kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/GBMEPxdx/black#46"]
+[Solution "e8e7 d1d7 e7d7 b3e6"]
+[SolutionSAN "Re7 Rxd7 Rxd7 Bxe6+"]
+[FEN "2r1r1k1/pp1b3p/4p2p/5p2/8/1BP3qP/PKQ3P1/R2R4 b - - 11 23"]
+[SetUp "1"]
+
+23... Re7 24. Rxd7 Rxd7 25. Bxe6+ *

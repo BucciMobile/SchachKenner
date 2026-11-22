@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ABk4"]
+[Difficulty "medium"]
+[Rating "1515"]
+[Themes "endgame mate mateIn2 pin short"]
+[GameUrl "https://lichess.org/game/nrRHWmOp#65"]
+[Solution "c1g5 e5f3 h2h1 e2e1"]
+[SolutionSAN "Bg5 Nf3+ Kh1 Re1#"]
+[FEN "8/6p1/8/2R1n3/4k2p/2P4P/P1P1r1PK/2B5 w - - 5 33"]
+[SetUp "1"]
+
+33. Bg5 Nf3+ 34. Kh1 Re1# *

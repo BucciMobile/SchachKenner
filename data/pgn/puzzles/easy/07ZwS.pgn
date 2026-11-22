@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07ZwS"]
+[Difficulty "easy"]
+[Rating "967"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+[GameUrl "https://lichess.org/game/ELkBZP0D/black#36"]
+[Solution "h4g3 d5e7"]
+[SolutionSAN "Bxg3 Ne7#"]
+[FEN "1nkr3r/1ppn1pp1/p2p3p/3N4/P3PP1b/3BB1PP/1PP5/2KR3R b - - 0 18"]
+[SetUp "1"]
+
+18... Bxg3 19. Ne7# *

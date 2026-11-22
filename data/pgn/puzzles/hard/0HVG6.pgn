@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HVG6"]
+[Difficulty "hard"]
+[Rating "1800"]
+[Themes "advancedPawn crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/eO5V72W5#115"]
+[Solution "d3c2 d4d3 c2d2 c3b1 d2e3 d3d2 e3e2 e4e3"]
+[SolutionSAN "Kc2 d3+ Kd2 Nb1+ Ke3 d2 Ke2 e3"]
+[FEN "8/8/5B1p/3k3P/Pp1pp1P1/1PnK4/8/8 w - - 0 58"]
+[SetUp "1"]
+
+58. Kc2 d3+ 59. Kd2 Nb1+ 60. Ke3 d2 61. Ke2 e3 *

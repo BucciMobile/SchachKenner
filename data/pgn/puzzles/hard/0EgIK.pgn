@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EgIK"]
+[Difficulty "hard"]
+[Rating "1931"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/UVwNxCVu#45"]
+[Solution "d4c4 c8d8 d5d8 f6d8"]
+[SolutionSAN "Rc4 Rd8 Qxd8+ Qxd8+"]
+[FEN "2r2k2/pp4pp/4rq2/3Q1p2/3R4/8/PP3PPP/3K1B1R w - - 3 23"]
+[SetUp "1"]
+
+23. Rc4 Rd8 24. Qxd8+ Qxd8+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J83k"]
+[Difficulty "medium"]
+[Rating "1542"]
+[Themes "crushing endgame quietMove rookEndgame short"]
+[GameUrl "https://lichess.org/game/bXvsrbvx/black#70"]
+[Solution "e5c5 e4e5 b4b3 e5e6"]
+[SolutionSAN "Rc5 e5 b3 e6"]
+[FEN "3r4/1k1P3R/8/1p2r1p1/1p2Pp2/5P2/7P/4R1K1 b - - 0 35"]
+[SetUp "1"]
+
+35... Rc5 36. e5 b3 37. e6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04TLu"]
+[Difficulty "hard"]
+[Rating "1760"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/wW1MTFQF#93"]
+[Solution "e2e1 g6h5 g3h5 f4d2 f2d2 g5d2"]
+[SolutionSAN "Re1 gxh5 Nxh5 Qd2 Qxd2 Bxd2"]
+[FEN "5r2/4nk2/6p1/p3p1bR/2p1PqP1/P1P2PN1/1P2RQK1/8 w - - 18 47"]
+[SetUp "1"]
+
+47. Re1 gxh5 48. Nxh5 Qd2 49. Qxd2 Bxd2 *

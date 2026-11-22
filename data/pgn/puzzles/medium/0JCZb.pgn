@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JCZb"]
+[Difficulty "medium"]
+[Rating "1594"]
+[Themes "equality middlegame short"]
+[GameUrl "https://lichess.org/game/8UcNq36W/black#50"]
+[Solution "g6d3 a5c7 f8f7 c7d6"]
+[SolutionSAN "Qd3 Qxc7+ Rf7 Qxd6"]
+[FEN "r4r2/1pp3k1/p2p2qp/Q1nPp1p1/2P2pP1/8/PP2N1P1/2K2R1R b - - 1 25"]
+[SetUp "1"]
+
+25... Qd3 26. Qxc7+ Rf7 27. Qxd6 *

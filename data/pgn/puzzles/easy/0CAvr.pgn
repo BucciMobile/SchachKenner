@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CAvr"]
+[Difficulty "easy"]
+[Rating "1120"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/0yg72mAb#39"]
+[Solution "g5h4 c7f4 c1b1 f4h4"]
+[SolutionSAN "Bh4 Qf4+ Kb1 Qxh4"]
+[FEN "2r2rk1/2q3p1/Q4npp/3p2B1/8/P1P2P2/1P4PP/2KR3R w - - 0 20"]
+[SetUp "1"]
+
+20. Bh4 Qf4+ 21. Kb1 Qxh4 *

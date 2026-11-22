@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J1VS"]
+[Difficulty "medium"]
+[Rating "1500"]
+[Themes "advantage attraction endgame long skewer"]
+[GameUrl "https://lichess.org/game/u0MiNpZU/black#60"]
+[Solution "d5d7 a7d7 e7d7 d3b5 d7e7 b5e8"]
+[SolutionSAN "Qd7 Qxd7+ Kxd7 Bb5+ Ke7 Bxe8"]
+[FEN "4r3/Q3kpp1/1p2pb2/2pq4/8/P2B2P1/1P2KP2/1R6 b - - 3 30"]
+[SetUp "1"]
+
+30... Qd7 31. Qxd7+ Kxd7 32. Bb5+ Ke7 33. Bxe8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hsgx"]
+[Difficulty "hard"]
+[Rating "2349"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/Pfqu4WZk#15"]
+[Solution "e5f7 d8h4 e1g1 c8g4"]
+[SolutionSAN "Nxf7 Qh4 O-O Bg4"]
+[FEN "r1bqk2r/ppp2ppp/8/2bNN3/2Bnn3/8/PPPP1PPP/R1BQK2R w KQkq - 0 8"]
+[SetUp "1"]
+
+8. Nxf7 Qh4 9. O-O Bg4 *

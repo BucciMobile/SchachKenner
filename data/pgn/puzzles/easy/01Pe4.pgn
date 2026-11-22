@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Pe4"]
+[Difficulty "easy"]
+[Rating "1133"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/RdO1i0xH#19"]
+[Solution "d2d3 d8h4 e1f1 h4f2"]
+[SolutionSAN "d3 Qh4+ Kf1 Qf2#"]
+[FEN "r2qkb1r/1b3ppp/p1p1p3/2ppN3/4nPP1/1P2P3/PBPP3P/RN1QK2R w KQkq - 2 10"]
+[SetUp "1"]
+
+10. d3 Qh4+ 11. Kf1 Qf2# *

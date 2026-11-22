@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GVEl"]
+[Difficulty "easy"]
+[Rating "1199"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/p4ZOPRTI/black#56"]
+[Solution "e6f5 g3g4 f5g5 c5e6"]
+[SolutionSAN "Kf5 g4+ Kg5 Ne6+"]
+[FEN "3r4/p5pp/4kpn1/2Npp3/8/2P2PP1/PP3K1P/3R4 b - - 2 28"]
+[SetUp "1"]
+
+28... Kf5 29. g4+ Kg5 30. Ne6+ *

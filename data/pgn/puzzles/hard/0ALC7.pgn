@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ALC7"]
+[Difficulty "hard"]
+[Rating "2396"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/wYUhZPUH#39"]
+[Solution "c3a4 d4d3 c2d3 c6d4"]
+[SolutionSAN "Na4 d3 cxd3 Nd4"]
+[FEN "2kr3r/1pp4p/p1n1q3/4PR2/3p1Q2/P1N2P2/1PP2P1P/2K1R3 w - - 0 20"]
+[SetUp "1"]
+
+20. Na4 d3 21. cxd3 Nd4 *

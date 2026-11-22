@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ATo9"]
+[Difficulty "medium"]
+[Rating "1342"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/faZf49ti#37"]
+[Solution "d3f5 c8f5 d1d8 f5c2"]
+[SolutionSAN "Bxf5 Bxf5 Rxd8 Bxc2"]
+[FEN "r1bq1r1k/2n3pp/p1p5/1p2Ppb1/1P6/P1NB4/1BQ2PPP/3RR1K1 w - - 1 19"]
+[SetUp "1"]
+
+19. Bxf5 Bxf5 20. Rxd8 Bxc2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "033PY"]
+[Difficulty "hard"]
+[Rating "1849"]
+[Themes "advantage middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/PHC16TSA#53"]
+[Solution "a1e1 f6f4 g2g3 f3g3 f2g3 f4g3 g1h1 g3h3"]
+[SolutionSAN "Rae1 Qf4 g3 Rxg3+ fxg3 Qxg3+ Kh1 Qxh3+"]
+[FEN "5r1k/Q5pp/2pb1q2/8/P7/5r1P/BPP1RPP1/R5K1 w - - 1 27"]
+[SetUp "1"]
+
+27. Rae1 Qf4 28. g3 Rxg3+ 29. fxg3 Qxg3+ 30. Kh1 Qxh3+ *

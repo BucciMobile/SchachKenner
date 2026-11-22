@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Emj0"]
+[Difficulty "easy"]
+[Rating "991"]
+[Themes "crushing fork master masterVsMaster middlegame short"]
+[GameUrl "https://lichess.org/game/OSfewzfR/black#38"]
+[Solution "e7f6 f5d6 c8b8 d6b7"]
+[SolutionSAN "exf6 Nd6+ Kb8 Nxb7"]
+[FEN "2kr4/pq1ppp2/1pn2B2/5N2/2P4K/1P3P2/P2NP3/R4R2 b - - 0 19"]
+[SetUp "1"]
+
+19... exf6 20. Nd6+ Kb8 21. Nxb7 *

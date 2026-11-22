@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Shd"]
+[Difficulty "medium"]
+[Rating "1290"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/tiHy2Gsu#109"]
+[Solution "b4c5 d6e4 c5b5 e4f2 a7a8q b7a8"]
+[SolutionSAN "Kc5 Ne4+ Kxb5 Nxf2 a8=Q+ Kxa8"]
+[FEN "8/Pk6/3n2p1/1p6/1K3P2/8/5B2/8 w - - 9 55"]
+[SetUp "1"]
+
+55. Kc5 Ne4+ 56. Kxb5 Nxf2 57. a8=Q+ Kxa8 *

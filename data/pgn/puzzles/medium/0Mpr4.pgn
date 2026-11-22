@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Mpr4"]
+[Difficulty "medium"]
+[Rating "1604"]
+[Themes "crushing long middlegame"]
+[GameUrl "https://lichess.org/game/Q2FnO6qv/black#40"]
+[Solution "d8d6 g5f6 f8f6 f1f6 d6e6 f6e6"]
+[SolutionSAN "Qd6 Bxf6+ Rxf6 Rxf6 Qxe6 Rxe6"]
+[FEN "r2q1r2/pp2b1kp/4Qnp1/3p2B1/3P4/8/PPN3PP/R4RK1 b - - 2 20"]
+[SetUp "1"]
+
+20... Qd6 21. Bxf6+ Rxf6 22. Rxf6 Qxe6 23. Rxe6 *

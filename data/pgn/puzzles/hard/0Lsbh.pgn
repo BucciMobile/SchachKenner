@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lsbh"]
+[Difficulty "hard"]
+[Rating "2498"]
+[Themes "crushing discoveredAttack discoveredCheck endgame fork pin sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/uJV0of1d/black#60"]
+[Solution "e4e3 c6c3 f8g8 d5f6 h7h8 d7g7 h8g7 f6e4"]
+[SolutionSAN "e3 Qc3 Rg8 Nf6+ Kh8 Rxg7 Kxg7 Ne4+"]
+[FEN "5r2/3R2bk/1pQ3pp/1P1N1pq1/1P2p3/8/P5PP/7K b - - 1 30"]
+[SetUp "1"]
+
+30... e3 31. Qc3 Rg8 32. Nf6+ Kh8 33. Rxg7 Kxg7 34. Ne4+ *

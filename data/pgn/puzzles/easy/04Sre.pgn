@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Sre"]
+[Difficulty "easy"]
+[Rating "851"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/WwbAkVEM/black#14"]
+[Solution "g4d1 c4f7"]
+[SolutionSAN "Bxd1 Bxf7#"]
+[FEN "r2qkb1r/pp1npppp/2p2n2/4N3/2B3b1/6N1/PPPP1PPP/R1BQK2R b KQkq - 6 7"]
+[SetUp "1"]
+
+7... Bxd1 8. Bxf7# *

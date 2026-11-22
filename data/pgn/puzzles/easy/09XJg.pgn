@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09XJg"]
+[Difficulty "easy"]
+[Rating "1126"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/7IfIU8Ik/black#70"]
+[Solution "g3f1 h6h3"]
+[SolutionSAN "Nxf1 Qh3#"]
+[FEN "8/pp6/7Q/5rP1/1q1P1Pk1/4P1n1/2P3K1/5R2 b - - 4 35"]
+[SetUp "1"]
+
+35... Nxf1 36. Qh3# *

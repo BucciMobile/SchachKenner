@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LPhq"]
+[Difficulty "medium"]
+[Rating "1383"]
+[Themes "crushing endgame hangingPiece rookEndgame short"]
+[GameUrl "https://lichess.org/game/pibjxG6Q#131"]
+[Solution "a6a7 c8b7 a7a8q a4a8"]
+[SolutionSAN "a7 Kxb7 a8=Q+ Rxa8"]
+[FEN "2k5/1RP5/P7/7K/r7/7P/8/8 w - - 3 66"]
+[SetUp "1"]
+
+66. a7 Kxb7 67. a8=Q+ Rxa8 *

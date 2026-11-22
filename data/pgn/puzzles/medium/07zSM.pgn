@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07zSM"]
+[Difficulty "medium"]
+[Rating "1347"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/C808mzzU/black#78"]
+[Solution "h4f4 h1h7 h8h7 d5h1 f4h2 h1h2"]
+[SolutionSAN "Qf4 Rxh7+ Kxh7 Qh1+ Qh2 Qxh2#"]
+[FEN "5r1k/6pp/6p1/3Q2P1/2B4q/pP6/Pb6/1K5R b - - 1 39"]
+[SetUp "1"]
+
+39... Qf4 40. Rxh7+ Kxh7 41. Qh1+ Qh2 42. Qxh2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KRIi"]
+[Difficulty "medium"]
+[Rating "1369"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/6aLzMdfy/black#44"]
+[Solution "e6a2 g3e5 f7f6 e5e7"]
+[SolutionSAN "Qa2 Qxe5 f6 Qxe7"]
+[FEN "r4rk1/1p2bp1p/2p1q1pP/p3p3/4N3/P3P1Q1/1PP3P1/2KR3R b - - 1 22"]
+[SetUp "1"]
+
+22... Qa2 23. Qxe5 f6 24. Qxe7 *

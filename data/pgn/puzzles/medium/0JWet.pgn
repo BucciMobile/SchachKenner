@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JWet"]
+[Difficulty "medium"]
+[Rating "1495"]
+[Themes "advancedPawn crushing master middlegame promotion short xRayAttack"]
+[GameUrl "https://lichess.org/game/UZrwcfW9/black#48"]
+[Solution "f8e7 a7a8q d8a8 h8a8"]
+[SolutionSAN "Bxe7 a8=Q+ Rxa8 Qxa8+"]
+[FEN "3r1b1Q/Pk2R3/6p1/2p2p2/1p6/3q4/1PnP1PPP/R1B3K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Bxe7 25. a8=Q+ Rxa8 26. Qxa8+ *

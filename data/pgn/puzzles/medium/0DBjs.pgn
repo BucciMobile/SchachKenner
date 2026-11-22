@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DBjs"]
+[Difficulty "medium"]
+[Rating "1333"]
+[Themes "deflection kingsideAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/2FkTZSEK/black#36"]
+[Solution "e4d2 d3h7 g8h8 e5f7"]
+[SolutionSAN "Nxd2 Bh7+ Kh8 Nxf7#"]
+[FEN "r3rbk1/1b3pp1/1npq3p/pp1pN3/3PnP2/PP1BP1N1/2QB2PP/R3R1K1 b - - 2 18"]
+[SetUp "1"]
+
+18... Nxd2 19. Bh7+ Kh8 20. Nxf7# *

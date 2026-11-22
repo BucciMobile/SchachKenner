@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ZqP"]
+[Difficulty "medium"]
+[Rating "1583"]
+[Themes "clearance kingsideAttack long mate mateIn3 middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/1abGKGkS/black#50"]
+[Solution "e8e5 d5e7 e5e7 d1d8 e7e8 d8e8"]
+[SolutionSAN "Re5 Ne7+ Rxe7 Rd8+ Re8 Rxe8#"]
+[FEN "4r1k1/bp3pp1/p6p/3N1Q2/1P5N/P3P3/1qr2PPP/3R1K2 b - - 4 25"]
+[SetUp "1"]
+
+25... Re5 26. Ne7+ Rxe7 27. Rd8+ Re8 28. Rxe8# *

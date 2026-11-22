@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02w7n"]
+[Difficulty "easy"]
+[Rating "796"]
+[Themes "endgame mate mateIn1 oneMove queensideAttack"]
+[GameUrl "https://lichess.org/game/q8hBvdMD#35"]
+[Solution "g1g2 c6c2"]
+[SolutionSAN "Rg2 Qxc2#"]
+[FEN "1k1r4/ppp3Qp/2q5/8/8/3P1P2/PPP1r2P/2KR2R1 w - - 0 18"]
+[SetUp "1"]
+
+18. Rg2 Qxc2# *

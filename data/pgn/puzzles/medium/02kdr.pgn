@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02kdr"]
+[Difficulty "medium"]
+[Rating "1295"]
+[Themes "crushing endgame long master"]
+[GameUrl "https://lichess.org/game/BGp0Vbz5#55"]
+[Solution "d1d3 b8a8 a5a8 f8a8 a1a8 c6a8"]
+[SolutionSAN "Rd3 Ra8 Qxa8 Rxa8 Rxa8+ Qxa8"]
+[FEN "1r3rk1/6p1/2q1pp1p/Q7/1pP1P3/1P3P2/6PP/R2R2K1 w - - 2 28"]
+[SetUp "1"]
+
+28. Rd3 Ra8 29. Qxa8 Rxa8 30. Rxa8+ Qxa8 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08XQI"]
+[Difficulty "easy"]
+[Rating "763"]
+[Themes "endgame epauletteMate master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/7bGkYwSo#89"]
+[Solution "d5f6 a2f2"]
+[SolutionSAN "Nf6 Rf2#"]
+[FEN "8/5p1r/8/3N4/8/2P3k1/r7/4RKN1 w - - 0 45"]
+[SetUp "1"]
+
+45. Nf6 Rf2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AMuh"]
+[Difficulty "hard"]
+[Rating "2091"]
+[Themes "crushing endgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/2nA1McjF#57"]
+[Solution "b7f3 f6e6 h1h2 e6e1 a1c3 f2g1 h2g3 e1d1"]
+[SolutionSAN "Bf3 Re6 Kh2 Re1 Qc3 Qg1+ Kg3 Rxd1"]
+[FEN "8/1B2p2k/pp3rpp/8/8/7P/P2p1qP1/Q2R3K w - - 1 29"]
+[SetUp "1"]
+
+29. Bf3 Re6 30. Kh2 Re1 31. Qc3 Qg1+ 32. Kg3 Rxd1 *

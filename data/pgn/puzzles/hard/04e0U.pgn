@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04e0U"]
+[Difficulty "hard"]
+[Rating "1742"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/erpD2T1g/black#56"]
+[Solution "f8a8 e4e5 a1c1 e5f6"]
+[SolutionSAN "Rfa8 e5 Rxc1 exf6"]
+[FEN "5rk1/2p2ppp/1pPp1qn1/2nP4/2N1P3/5PP1/2B1Q2P/r1R2RK1 b - - 6 28"]
+[SetUp "1"]
+
+28... Rfa8 29. e5 Rxc1 30. exf6 *

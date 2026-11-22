@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01v4V"]
+[Difficulty "hard"]
+[Rating "2163"]
+[Themes "advantage attraction endgame long sacrifice"]
+[GameUrl "https://lichess.org/game/FwLWMFO5#47"]
+[Solution "g1f1 d6h2 c3e2 e7e2 f1e2 h2e5"]
+[SolutionSAN "Kf1 Qh2 Ne2 Rxe2 Kxe2 Qe5+"]
+[FEN "6k1/1p2rpp1/p2q1n1p/3P4/1P6/P1NQ3P/5PP1/R5K1 w - - 0 24"]
+[SetUp "1"]
+
+24. Kf1 Qh2 25. Ne2 Rxe2 26. Kxe2 Qe5+ *

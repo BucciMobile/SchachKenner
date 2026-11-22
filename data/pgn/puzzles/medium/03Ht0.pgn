@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Ht0"]
+[Difficulty "medium"]
+[Rating "1300"]
+[Themes "kingsideAttack mate mateIn2 opening short"]
+[GameUrl "https://lichess.org/game/JLSQEsZs/black#18"]
+[Solution "h7h6 d5f6 g7f6 c2h7"]
+[SolutionSAN "h6 Nxf6+ gxf6 Qh7#"]
+[FEN "r1bq1rk1/ppp2ppp/1bnp1n2/3Np1N1/1PP5/P3P3/2QP1PPP/R1B1KB1R b KQ - 2 9"]
+[SetUp "1"]
+
+9... h6 10. Nxf6+ gxf6 11. Qh7# *

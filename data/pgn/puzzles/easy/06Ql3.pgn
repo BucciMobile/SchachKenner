@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Ql3"]
+[Difficulty "easy"]
+[Rating "531"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/KqKR1v4Z/black#70"]
+[Solution "g7f6 e1e8"]
+[SolutionSAN "Bxf6 Rxe8#"]
+[FEN "4r1k1/5pbp/2r2NpB/p5P1/Pp1p3P/2p2K2/2P5/3RR3 b - - 5 35"]
+[SetUp "1"]
+
+35... Bxf6 36. Rxe8# *

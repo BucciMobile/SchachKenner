@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AKpp"]
+[Difficulty "hard"]
+[Rating "1717"]
+[Themes "attraction crushing fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/AXOHglFW/black#56"]
+[Solution "f5h6 d1d7 e7d7 e4f6 g8g7 f6d7"]
+[SolutionSAN "Nxh6 Rxd7 Qxd7 Nf6+ Kg7 Nxd7"]
+[FEN "2r1r1k1/1p1nqp1p/p3p1pP/1P2PnN1/P3NP2/2p3P1/5Q2/3RR1K1 b - - 4 28"]
+[SetUp "1"]
+
+28... Nxh6 29. Rxd7 Qxd7 30. Nf6+ Kg7 31. Nxd7 *

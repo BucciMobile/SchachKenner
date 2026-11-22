@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06CKT"]
+[Difficulty "easy"]
+[Rating "838"]
+[Themes "endgame long mate mateIn3 operaMate"]
+[GameUrl "https://lichess.org/game/RxRfFmsp/black#62"]
+[Solution "e8e2 b4b8 e2e8 b8e8 g8h7 e8h8"]
+[SolutionSAN "Ree2 Rb8+ Re8 Rxe8+ Kh7 Rh8#"]
+[FEN "4r1k1/5p2/5Bp1/7p/pR5P/1p6/r5PK/8 b - - 1 31"]
+[SetUp "1"]
+
+31... Ree2 32. Rb8+ Re8 33. Rxe8+ Kh7 34. Rh8# *

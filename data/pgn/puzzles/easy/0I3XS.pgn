@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I3XS"]
+[Difficulty "easy"]
+[Rating "1184"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/zOtrFS79#43"]
+[Solution "d1h1 e8c6 e2c3 c6h1"]
+[SolutionSAN "Rxh1 Qc6+ Nc3 Qxh1+"]
+[FEN "3rqrk1/ppp4p/4p3/4Pp2/5P2/3PB2Q/PP2N2P/2KR3b w - - 1 22"]
+[SetUp "1"]
+
+22. Rxh1 Qc6+ 23. Nc3 Qxh1+ *

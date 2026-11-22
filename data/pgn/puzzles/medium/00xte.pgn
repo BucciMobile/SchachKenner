@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00xte"]
+[Difficulty "medium"]
+[Rating "1323"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/54WsogGa#103"]
+[Solution "f5e7 f8e7 d6e7 e8e7 e5f4 e7f7"]
+[SolutionSAN "Ne7+ Bxe7 dxe7 Rxe7+ Kf4 Rf7+"]
+[FEN "4rb2/8/P2P2k1/4KN1p/4P1p1/3r4/R7/5R2 w - - 1 52"]
+[SetUp "1"]
+
+52. Ne7+ Bxe7 53. dxe7 Rxe7+ 54. Kf4 Rf7+ *

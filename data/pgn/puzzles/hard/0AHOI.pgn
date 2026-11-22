@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AHOI"]
+[Difficulty "hard"]
+[Rating "1945"]
+[Themes "exposedKing long mate mateIn3 middlegame operaMate sacrifice"]
+[GameUrl "https://lichess.org/game/V5r9DTUc#83"]
+[Solution "e1d1 g7g1 h1g1 g8g1 d1d2 e3e2"]
+[SolutionSAN "Kd1 Qg1+ Rxg1 Rxg1+ Kd2 Re2#"]
+[FEN "6rk/Q4Rq1/bp2p3/3p3p/3P4/P1P1r3/1PB2P2/4K2R w - - 4 42"]
+[SetUp "1"]
+
+42. Kd1 Qg1+ 43. Rxg1 Rxg1+ 44. Kd2 Re2# *

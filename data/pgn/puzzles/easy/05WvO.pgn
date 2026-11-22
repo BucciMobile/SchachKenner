@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05WvO"]
+[Difficulty "easy"]
+[Rating "741"]
+[Themes "hangingPiece master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/3SEtPz8z/black#52"]
+[Solution "d4f2 g1g8"]
+[SolutionSAN "Bxf2 Rxg8#"]
+[FEN "3rk1r1/pR2pp1p/2p5/3b1p2/N2b4/5P2/P1P1BP1P/6RK b - - 8 26"]
+[SetUp "1"]
+
+26... Bxf2 27. Rxg8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HpDh"]
+[Difficulty "easy"]
+[Rating "920"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/vSpSULkX#41"]
+[Solution "d6f7 c3e2 g1h1 e2g3"]
+[SolutionSAN "Ndxf7 Ne2+ Kh1 Nxg3+"]
+[FEN "r1b3k1/pp2qrpp/3N4/2p3N1/8/2n1P1Q1/P4PPP/1R3RK1 w - - 0 21"]
+[SetUp "1"]
+
+21. Ndxf7 Ne2+ 22. Kh1 Nxg3+ *

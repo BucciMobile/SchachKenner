@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MOgV"]
+[Difficulty "hard"]
+[Rating "2187"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/W7vCO1TM#39"]
+[Solution "e4e5 g4e5 f3e5 g7e5"]
+[SolutionSAN "e5 Nxe5 Nxe5 Bxe5"]
+[FEN "r4rk1/p3ppbp/B2p2p1/3P4/3QP1n1/P1N2N1P/2q2P2/RR4K1 w - - 0 20"]
+[SetUp "1"]
+
+20. e5 Nxe5 21. Nxe5 Bxe5 *

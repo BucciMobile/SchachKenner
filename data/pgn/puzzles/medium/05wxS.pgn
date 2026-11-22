@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05wxS"]
+[Difficulty "medium"]
+[Rating "1623"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/BmQc3EbC#23"]
+[Solution "b3b7 c6a5 b7a8 d8a8"]
+[SolutionSAN "Qxb7 Na5 Qxa8 Qxa8"]
+[FEN "r2q1r1k/1pp3pp/p1nb1p2/8/3PP1b1/1QP2N2/PP4PP/RNB2RK1 w - - 2 12"]
+[SetUp "1"]
+
+12. Qxb7 Na5 13. Qxa8 Qxa8 *

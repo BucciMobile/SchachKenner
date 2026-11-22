@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LrOo"]
+[Difficulty "medium"]
+[Rating "1255"]
+[Themes "advancedPawn endgame equality long"]
+[GameUrl "https://lichess.org/game/cZHnkaln#53"]
+[Solution "c1c4 f4c4 d2c4 d3d2 c4d2 d8d2"]
+[SolutionSAN "Rc4 Rxc4 Nxc4 d2 Nxd2 Rxd2+"]
+[FEN "3r2k1/6pp/pp6/2p5/5rP1/P2pRP1P/1P1N2K1/2R5 w - - 1 27"]
+[SetUp "1"]
+
+27. Rc4 Rxc4 28. Nxc4 d2 29. Nxd2 Rxd2+ *

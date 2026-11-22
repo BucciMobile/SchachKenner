@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06f9y"]
+[Difficulty "medium"]
+[Rating "1564"]
+[Themes "deflection mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/cwj53X1Z#63"]
+[Solution "h2g2 h5h1 g2h1 f5f2"]
+[SolutionSAN "Qg2 Rh1+ Qxh1 Qxf2#"]
+[FEN "7k/5p1p/p1p5/4pq1r/2B1p3/2P1R1P1/Pr3P1Q/4RK2 w - - 3 32"]
+[SetUp "1"]
+
+32. Qg2 Rh1+ 33. Qxh1 Qxf2# *

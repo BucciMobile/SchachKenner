@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DsRo"]
+[Difficulty "hard"]
+[Rating "2031"]
+[Themes "crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/Kk0GsGrk#87"]
+[Solution "h3h4 g5h4 g3h4 e4f4 h4h5 f4g5"]
+[SolutionSAN "h4 gxh4 gxh4 Kf4 h5 Kg5"]
+[FEN "8/8/8/1p3pp1/1P2k3/6PP/3K4/8 w - - 0 44"]
+[SetUp "1"]
+
+44. h4 gxh4 45. gxh4 Kf4 46. h5 Kg5 *

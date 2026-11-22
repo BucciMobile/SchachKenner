@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hwa4"]
+[Difficulty "hard"]
+[Rating "1875"]
+[Themes "crushing middlegame skewer veryLong"]
+[GameUrl "https://lichess.org/game/CtnVc1HL/black#58"]
+[Solution "d4f4 a1b3 c4b3 c1c8 e8d7 c8g8 b3b2 g8d8"]
+[SolutionSAN "Qxf4 Nxb3 cxb3 Rc8+ Kd7 Rxg8 b2 Rd8+"]
+[FEN "4k1r1/p4p2/4pB1p/3pPn2/2pq1Pp1/Pb6/6PP/N1R1Q2K b - - 1 29"]
+[SetUp "1"]
+
+29... Qxf4 30. Nxb3 cxb3 31. Rc8+ Kd7 32. Rxg8 b2 33. Rd8+ *

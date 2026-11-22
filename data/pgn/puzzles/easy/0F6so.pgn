@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F6so"]
+[Difficulty "easy"]
+[Rating "806"]
+[Themes "endgame master masterVsMaster mate mateIn1 oneMove queenEndgame"]
+[GameUrl "https://lichess.org/game/aHEJhlNl/black#106"]
+[Solution "e6e1 h6g7"]
+[SolutionSAN "Qe1 Qg7#"]
+[FEN "6k1/5p2/4qPpQ/p5P1/P7/1Pp5/K7/8 b - - 0 53"]
+[SetUp "1"]
+
+53... Qe1 54. Qg7# *

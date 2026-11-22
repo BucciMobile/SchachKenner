@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K9oc"]
+[Difficulty "medium"]
+[Rating "1395"]
+[Themes "advantage opening short"]
+[GameUrl "https://lichess.org/game/yVKO2z7f#17"]
+[Solution "d1d4 c5d4 e2d4 e7e5"]
+[SolutionSAN "Qd4 Qxd4 Nxd4 e5"]
+[FEN "rnb1kb1r/1p2pppp/p2p1n2/2q5/4PB2/2N2P2/PPP1N1PP/R2QKB1R w KQkq - 0 9"]
+[SetUp "1"]
+
+9. Qd4 Qxd4 10. Nxd4 e5 *

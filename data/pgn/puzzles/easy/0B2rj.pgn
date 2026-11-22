@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B2rj"]
+[Difficulty "easy"]
+[Rating "583"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/VIFCtF3C/black#76"]
+[Solution "g2h2 b8h8"]
+[SolutionSAN "Rxh2 Rh8#"]
+[FEN "1R6/8/1p2N1pk/p1p4p/P1P5/1Pn1P3/6rP/4K3 b - - 5 38"]
+[SetUp "1"]
+
+38... Rxh2 39. Rh8# *

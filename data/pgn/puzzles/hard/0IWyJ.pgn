@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IWyJ"]
+[Difficulty "hard"]
+[Rating "2668"]
+[Themes "advancedPawn advantage long master middlegame queensideAttack sacrifice"]
+[GameUrl "https://lichess.org/game/978Yd8Gb#51"]
+[Solution "c6d6 b3c2 d2c2 a3a2 b1a1 c8c2"]
+[SolutionSAN "Rxd6 Bc2+ Qxc2 a2+ Ka1 Rxc2"]
+[FEN "r1r3k1/1q3ppp/1pRb4/1P1Pp1P1/8/pb2BP2/1P1QB2P/1K5R w - - 0 26"]
+[SetUp "1"]
+
+26. Rxd6 Bc2+ 27. Qxc2 a2+ 28. Ka1 Rxc2 *

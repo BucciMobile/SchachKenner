@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LLxB"]
+[Difficulty "hard"]
+[Rating "2059"]
+[Themes "advancedPawn crushing deflection endgame exposedKing veryLong"]
+[GameUrl "https://lichess.org/game/J2DFSF1B/black#140"]
+[Solution "d8b6 c6c7 b6c7 b8a7 h4h3 b7c6 e8e7 a7b7 c7f4 a6a7"]
+[SolutionSAN "Bb6 c7 Bxc7+ Kxa7 h3 Bc6+ Ke7 Kb7 Bf4 a7"]
+[FEN "1K1bk3/rB6/P1P1P3/8/7p/8/8/8 b - - 4 70"]
+[SetUp "1"]
+
+70... Bb6 71. c7 Bxc7+ 72. Kxa7 h3 73. Bc6+ Ke7 74. Kb7 Bf4 75. a7 *

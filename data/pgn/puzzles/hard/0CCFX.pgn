@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CCFX"]
+[Difficulty "hard"]
+[Rating "2588"]
+[Themes "advancedPawn advantage fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/WwmbvZZe#49"]
+[Solution "g4f2 d5e3 c1e3 e7e3 a1d1 f3e2 d1d7 d8d7 a4d7 f8f7 d7f7 g6f7"]
+[SolutionSAN "Nf2 Ne3 Bxe3 Qxe3 Rd1 fxe2 Rd7+ Rxd7 Qxd7+ Rf7 Qxf7+ Bxf7"]
+[FEN "3r1r2/2p1q2k/6b1/3n4/Q5N1/2P2pP1/PP2P2P/R1B1KB1R w KQ - 0 25"]
+[SetUp "1"]
+
+25. Nf2 Ne3 26. Bxe3 Qxe3 27. Rd1 fxe2 28. Rd7+ Rxd7 29. Qxd7+ Rf7 30. Qxf7+ Bxf7 *

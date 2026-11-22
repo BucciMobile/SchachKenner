@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bhst"]
+[Difficulty "medium"]
+[Rating "1353"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/sd3p4SEB/black#28"]
+[Solution "b8c6 b5b7 a2a4 b7a8"]
+[SolutionSAN "Nc6 Qxb7 Qa4 Qxa8+"]
+[FEN "rn2k1nr/ppp2ppp/8/1Q2p3/8/2P1B1P1/q1P4P/3RK1N1 b kq - 1 14"]
+[SetUp "1"]
+
+14... Nc6 15. Qxb7 Qa4 16. Qxa8+ *

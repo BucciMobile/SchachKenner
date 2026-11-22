@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03RFD"]
+[Difficulty "easy"]
+[Rating "1014"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/o0QNnghL#45"]
+[Solution "e1e3 c2f2 g1h1 f2f1 a1f1 f8f1"]
+[SolutionSAN "Rxe3 Qxf2+ Kh1 Qf1+ Rxf1 Rxf1#"]
+[FEN "r4r1k/6p1/p6p/4Q3/3P4/P1P1n3/2q2PPP/R3R1K1 w - - 0 23"]
+[SetUp "1"]
+
+23. Rxe3 Qxf2+ 24. Kh1 Qf1+ 25. Rxf1 Rxf1# *

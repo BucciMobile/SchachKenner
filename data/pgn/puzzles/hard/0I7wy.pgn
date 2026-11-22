@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I7wy"]
+[Difficulty "hard"]
+[Rating "1914"]
+[Themes "crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/IzAOdTyf/black#50"]
+[Solution "f7g8 e5f6 c6d6 d3c2"]
+[SolutionSAN "Kg8 exf6 Rd6+ Kc2"]
+[FEN "4r3/pb1p1kpp/1pr2p2/4P3/1PP2R2/P2K2P1/1B5P/4R3 b - - 0 25"]
+[SetUp "1"]
+
+25... Kg8 26. exf6 Rd6+ 27. Kc2 *

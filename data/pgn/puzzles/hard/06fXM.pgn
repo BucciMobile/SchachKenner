@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06fXM"]
+[Difficulty "hard"]
+[Rating "2090"]
+[Themes "crushing endgame interference queenEndgame short"]
+[GameUrl "https://lichess.org/game/yJCxbDnA#49"]
+[Solution "e2f3 c2d3 f3f4 d3d4"]
+[SolutionSAN "Kf3 Qd3+ Kf4 Qxd4+"]
+[FEN "6k1/pp4pp/4p3/3p4/3P2Q1/1P5P/P1q1KPP1/8 w - - 1 25"]
+[SetUp "1"]
+
+25. Kf3 Qd3+ 26. Kf4 Qxd4+ *

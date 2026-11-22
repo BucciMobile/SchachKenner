@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ECXn"]
+[Difficulty "easy"]
+[Rating "1037"]
+[Themes "crushing kingsideAttack opening short"]
+[GameUrl "https://lichess.org/game/XLgXbXbr#13"]
+[Solution "c1g5 h4f3 d1f3 d8g5"]
+[SolutionSAN "Bg5 Nxf3+ Qxf3 Qxg5"]
+[FEN "rnbqkb1r/pp3ppp/3pp3/2pP4/4P2n/3B1N2/PPP2PPP/RNBQ1RK1 w kq - 0 7"]
+[SetUp "1"]
+
+7. Bg5 Nxf3+ 8. Qxf3 Qxg5 *

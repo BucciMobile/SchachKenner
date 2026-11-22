@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OKBe"]
+[Difficulty "medium"]
+[Rating "1329"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/BntDt2l9/black#66"]
+[Solution "g8h7 e5e4 g7g6 e4a8"]
+[SolutionSAN "Kh7 Qe4+ g6 Qxa8"]
+[FEN "r5k1/p4bp1/1p5p/n1p1Q3/P7/6P1/2P3P1/6K1 b - - 1 33"]
+[SetUp "1"]
+
+33... Kh7 34. Qe4+ g6 35. Qxa8 *

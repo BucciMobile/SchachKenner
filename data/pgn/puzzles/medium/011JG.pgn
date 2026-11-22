@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "011JG"]
+[Difficulty "medium"]
+[Rating "1551"]
+[Themes "crushing middlegame pin queensideAttack short"]
+[GameUrl "https://lichess.org/game/IjOYhQ0O#51"]
+[Solution "d3d4 a4a2 b1c1 a2b3"]
+[SolutionSAN "Rxd4 Qa2+ Kc1 Qxb3"]
+[FEN "r1r3k1/4pp1p/3p2p1/8/q2bPP2/1N1R4/1PP2QPP/1K3R2 w - - 0 26"]
+[SetUp "1"]
+
+26. Rxd4 Qa2+ 27. Kc1 Qxb3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Eins"]
+[Difficulty "hard"]
+[Rating "1803"]
+[Themes "advantage middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/zlVJqB4R#55"]
+[Solution "d4b5 c5e4 b5c3 e4c3"]
+[SolutionSAN "Nb5 Nxe4 Nxc3 Nxc3+"]
+[FEN "r1r3k1/5ppp/8/2n1p1P1/1p1NQ2P/pPqN1P2/P1P4R/1K1R4 w - - 3 28"]
+[SetUp "1"]
+
+28. Nb5 Nxe4 29. Nxc3 Nxc3+ *

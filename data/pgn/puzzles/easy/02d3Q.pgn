@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02d3Q"]
+[Difficulty "easy"]
+[Rating "693"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/TCpbISsk/black#68"]
+[Solution "h5h4 e2h5"]
+[SolutionSAN "h4 Qh5#"]
+[FEN "6r1/p5rk/1p2p3/2p2p1p/2P1pP2/PP4Pq/4QBNP/5RK1 b - - 1 34"]
+[SetUp "1"]
+
+34... h4 35. Qh5# *

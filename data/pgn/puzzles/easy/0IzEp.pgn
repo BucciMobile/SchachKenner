@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IzEp"]
+[Difficulty "easy"]
+[Rating "1111"]
+[Themes "advancedPawn mate mateIn2 opening promotion short"]
+[GameUrl "https://lichess.org/game/dlAeX8js/black#14"]
+[Solution "b2a1 d1d8 c6d8 c7d8q"]
+[SolutionSAN "Qxa1 Qd8+ Nxd8 cxd8=Q#"]
+[FEN "r1b1kbnr/ppP2ppp/2n5/6B1/8/5N2/PqP1PPPP/RN1QKB1R b KQkq - 0 7"]
+[SetUp "1"]
+
+7... Qxa1 8. Qd8+ Nxd8 9. cxd8=Q# *

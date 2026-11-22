@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Le9Q"]
+[Difficulty "hard"]
+[Rating "1920"]
+[Themes "crushing defensiveMove endgame master short"]
+[GameUrl "https://lichess.org/game/Ue6jeP3k/black#92"]
+[Solution "e6g4 h3g4 a1c1 f2f3"]
+[SolutionSAN "Qxg4+ hxg4 Rc1 Rf3"]
+[FEN "6k1/6p1/4q3/3pP3/2pP2Q1/2P4P/5RK1/r7 b - - 12 46"]
+[SetUp "1"]
+
+46... Qxg4+ 47. hxg4 Rc1 48. Rf3 *

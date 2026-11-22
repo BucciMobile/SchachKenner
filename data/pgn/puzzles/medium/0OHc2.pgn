@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OHc2"]
+[Difficulty "medium"]
+[Rating "1503"]
+[Themes "crushing endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/enJ469J3/black#88"]
+[Solution "g5h4 g3h4 c6d5 f3f4 d5e6 f4g5"]
+[SolutionSAN "gxh4 gxh4 Kd5 Kf4 Ke6 Kg5"]
+[FEN "8/6p1/2k5/5pp1/7P/5KP1/5P2/8 b - - 0 44"]
+[SetUp "1"]
+
+44... gxh4 45. gxh4 Kd5 46. Kf4 Ke6 47. Kg5 *

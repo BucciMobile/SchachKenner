@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Doi"]
+[Difficulty "medium"]
+[Rating "1389"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/XWamALm7#27"]
+[Solution "g4g7 d8h4 g7h8 h4h8"]
+[SolutionSAN "Qxg7 Qh4 Qxh8+ Qxh8"]
+[FEN "r2qk2r/p2p1pp1/4p3/1pb1n3/6Q1/3B4/PPP2PP1/RNB2RK1 w kq - 0 14"]
+[SetUp "1"]
+
+14. Qxg7 Qh4 15. Qxh8+ Qxh8 *

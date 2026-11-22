@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ITmf"]
+[Difficulty "easy"]
+[Rating "950"]
+[Themes "advancedPawn crushing endgame exposedKing long promotion"]
+[GameUrl "https://lichess.org/game/AXGrkBuc#93"]
+[Solution "g8h8 g3g2 h1g1 h2f3 g1f2 g2g1q"]
+[SolutionSAN "Rh8 g2+ Kg1 Nf3+ Kf2 g1=Q+"]
+[FEN "6R1/8/8/8/R6p/P1P3pk/7n/7K w - - 0 47"]
+[SetUp "1"]
+
+47. Rh8 g2+ 48. Kg1 Nf3+ 49. Kf2 g1=Q+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ice"]
+[Difficulty "easy"]
+[Rating "1053"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/TJDsP2gp#53"]
+[Solution "c1b1 b2b1 a1b1 b8b1"]
+[SolutionSAN "Rcb1 Qxb1+ Rxb1 Rxb1#"]
+[FEN "1r3r2/Q4ppk/4b2p/8/4N3/8/Pq3PPP/R1R3K1 w - - 1 27"]
+[SetUp "1"]
+
+27. Rcb1 Qxb1+ 28. Rxb1 Rxb1# *

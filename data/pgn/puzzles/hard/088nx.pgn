@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "088nx"]
+[Difficulty "hard"]
+[Rating "1810"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/SreVdYAk#77"]
+[Solution "e7g5 f5g5 e2e7 g5e7"]
+[SolutionSAN "Bg5 Qxg5 Qe7+ Qxe7"]
+[FEN "8/p3B2k/1p1p2p1/1PpP1q1p/2Pb1r1P/P7/4Q1P1/4R2K w - - 8 39"]
+[SetUp "1"]
+
+39. Bg5 Qxg5 40. Qe7+ Qxe7 *

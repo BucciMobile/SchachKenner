@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CL3z"]
+[Difficulty "easy"]
+[Rating "1019"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/lHUEyE8Q/black#52"]
+[Solution "g8f8 g3b8 a6c8 b8c8"]
+[SolutionSAN "Kxf8 Qb8+ Qc8 Qxc8#"]
+[FEN "5Rk1/5p1p/q3pBp1/1pP5/1Pp5/6Q1/r4PPP/6K1 b - - 0 26"]
+[SetUp "1"]
+
+26... Kxf8 27. Qb8+ Qc8 28. Qxc8# *

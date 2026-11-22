@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Goci"]
+[Difficulty "hard"]
+[Rating "2092"]
+[Themes "advantage endgame fork long master"]
+[GameUrl "https://lichess.org/game/9CXSOw6q/black#78"]
+[Solution "e8e4 d4c6 a5a4 c6b8 a4b3 b8a6"]
+[SolutionSAN "Re4 Nc6+ Kxa4 Nxb8 Kb3 Nxa6"]
+[FEN "1r2r3/8/p4Q2/k1qp3p/P2N4/2p5/5PPP/2R3K1 b - - 3 39"]
+[SetUp "1"]
+
+39... Re4 40. Nc6+ Kxa4 41. Nxb8 Kb3 42. Nxa6 *

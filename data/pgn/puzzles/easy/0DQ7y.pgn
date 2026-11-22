@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DQ7y"]
+[Difficulty "easy"]
+[Rating "949"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/QX08PVeD#23"]
+[Solution "d2d3 h4f2"]
+[SolutionSAN "d3 Qf2#"]
+[FEN "r1bk1b1N/ppp1nB1p/8/8/4nppq/8/PPPP2PP/RNBQ1K1R w - - 2 12"]
+[SetUp "1"]
+
+12. d3 Qf2# *

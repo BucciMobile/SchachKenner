@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Abf0"]
+[Difficulty "medium"]
+[Rating "1317"]
+[Themes "crushing discoveredAttack endgame queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/0qCyr58q/black#70"]
+[Solution "e5c3 e3e4 d5d4 g3c3"]
+[SolutionSAN "Qc3 e4+ Kd4 Rxc3"]
+[FEN "8/pp3p2/8/3kq3/5P2/1P2P1RP/6PK/8 b - - 0 35"]
+[SetUp "1"]
+
+35... Qc3 36. e4+ Kd4 37. Rxc3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ahxr"]
+[Difficulty "hard"]
+[Rating "2277"]
+[Themes "advantage deflection kingsideAttack master middlegame pin short"]
+[GameUrl "https://lichess.org/game/zs2zH7i7/black#22"]
+[Solution "g7h6 d3g6 g8h8 c4f7"]
+[SolutionSAN "gxh6 Qg6+ Kh8 Bxf7"]
+[FEN "rnbqr1k1/pp3pp1/2pb1n1B/8/2BP4/2NQ4/PP2NPPP/R4RK1 b - - 0 11"]
+[SetUp "1"]
+
+11... gxh6 12. Qg6+ Kh8 13. Bxf7 *

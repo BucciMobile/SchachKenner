@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HLTZ"]
+[Difficulty "medium"]
+[Rating "1219"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/l6wjoAXu/black#72"]
+[Solution "g8h7 h3f5"]
+[SolutionSAN "Kh7 Bf5#"]
+[FEN "R5k1/5p2/2p4p/6pN/1r2p3/1b4PB/3nPP1P/6K1 b - - 3 36"]
+[SetUp "1"]
+
+36... Kh7 37. Bf5# *

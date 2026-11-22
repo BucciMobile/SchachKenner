@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H4l4"]
+[Difficulty "medium"]
+[Rating "1276"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/Mko05d3j/black#40"]
+[Solution "g8h8 h1h7 h8h7 f7h5"]
+[SolutionSAN "Kh8 Rxh7+ Kxh7 Qh5#"]
+[FEN "r1bqr1k1/5Qpp/2p5/p7/2B1n3/PN4P1/1PP2pP1/R4K1R b - - 0 20"]
+[SetUp "1"]
+
+20... Kh8 21. Rxh7+ Kxh7 22. Qh5# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IGru"]
+[Difficulty "medium"]
+[Rating "1492"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/b0B1oRwk#59"]
+[Solution "e1e7 f8f1 e7e1 f1e1"]
+[SolutionSAN "Re7 Rf1+ Re1 Rxe1#"]
+[FEN "5rk1/6pp/8/1p6/1Pnn4/P5RN/6PP/2K1R3 w - - 1 30"]
+[SetUp "1"]
+
+30. Re7 Rf1+ 31. Re1 Rxe1# *

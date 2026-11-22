@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OtRO"]
+[Difficulty "medium"]
+[Rating "1621"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/G9tvcLw5#69"]
+[Solution "d5d6 b2f2 f1f2 f4f2"]
+[SolutionSAN "d6 Rxf2 Rxf2 Qxf2+"]
+[FEN "5r1k/6bp/2Q3p1/3P4/4pq2/7P/Pr3PP1/1N1R1RK1 w - - 5 35"]
+[SetUp "1"]
+
+35. d6 Rxf2 36. Rxf2 Qxf2+ *

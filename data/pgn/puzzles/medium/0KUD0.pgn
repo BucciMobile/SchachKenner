@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KUD0"]
+[Difficulty "medium"]
+[Rating "1312"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/GagjRobx/black#58"]
+[Solution "g7g6 h4g4 e6g7 g4g6"]
+[SolutionSAN "Qg6 Rg4 Ng7 Rxg6"]
+[FEN "4rrk1/pp3pq1/2p1n3/5Q2/7R/2N4P/PPP2PP1/6K1 b - - 0 29"]
+[SetUp "1"]
+
+29... Qg6 30. Rg4 Ng7 31. Rxg6 *

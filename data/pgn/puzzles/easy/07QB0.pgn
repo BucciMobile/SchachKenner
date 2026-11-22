@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07QB0"]
+[Difficulty "easy"]
+[Rating "1168"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/4E3G2VOp#45"]
+[Solution "g3e5 f6e5 d4e5 d5d4 e3d4 e6d4"]
+[SolutionSAN "Qe5 Qxe5 dxe5 d4 Bxd4 Nxd4"]
+[FEN "7r/pp2nkp1/4nq2/3p1p2/3P4/2N1B1QP/PPP2PP1/R6K w - - 3 23"]
+[SetUp "1"]
+
+23. Qe5 Qxe5 24. dxe5 d4 25. Bxd4 Nxd4 *

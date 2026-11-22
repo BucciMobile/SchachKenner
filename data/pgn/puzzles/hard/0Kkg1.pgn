@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kkg1"]
+[Difficulty "hard"]
+[Rating "2327"]
+[Themes "advantage hangingPiece master middlegame short"]
+[GameUrl "https://lichess.org/game/fZDCJmJZ/black#52"]
+[Solution "c8c3 d2c3 f6d5 b4a5"]
+[SolutionSAN "Rxc3 Bxc3 Nd5 Qa5"]
+[FEN "2rr2k1/pR3pbp/q4np1/8/PQ2p3/2NbP1P1/3B1PBP/4R1K1 b - - 1 26"]
+[SetUp "1"]
+
+26... Rxc3 27. Bxc3 Nd5 28. Qa5 *

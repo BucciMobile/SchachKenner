@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IiLR"]
+[Difficulty "hard"]
+[Rating "1974"]
+[Themes "crushing endgame short zugzwang"]
+[GameUrl "https://lichess.org/game/8I9j0bem#107"]
+[Solution "e4e5 d5e5 f3g3 d4d3"]
+[SolutionSAN "Rxe5+ Kxe5 Kg3 d3"]
+[FEN "8/8/7p/p1pkr2P/P2pR1P1/1P3K2/8/8 w - - 15 54"]
+[SetUp "1"]
+
+54. Rxe5+ Kxe5 55. Kg3 d3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08zPz"]
+[Difficulty "medium"]
+[Rating "1592"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/wlRq8n5N/black#74"]
+[Solution "f5f4 g7h6"]
+[SolutionSAN "Kf4 Bh6#"]
+[FEN "8/p5B1/8/1R3k2/4b3/P1P4P/2r2bPK/8 b - - 6 37"]
+[SetUp "1"]
+
+37... Kf4 38. Bh6# *

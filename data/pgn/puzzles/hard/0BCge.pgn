@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BCge"]
+[Difficulty "hard"]
+[Rating "2019"]
+[Themes "crushing endgame fork master short"]
+[GameUrl "https://lichess.org/game/i6d0cLt3/black#58"]
+[Solution "d8f6 d4a7 e8f7 a7b8"]
+[SolutionSAN "Qf6 Qa7+ Bf7 Qxb8"]
+[FEN "1r1qb3/6kp/3p2p1/1p6/1P1QP3/5P2/P5PP/2R4K b - - 3 29"]
+[SetUp "1"]
+
+29... Qf6 30. Qa7+ Bf7 31. Qxb8 *

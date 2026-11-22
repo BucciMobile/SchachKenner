@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "080Q6"]
+[Difficulty "hard"]
+[Rating "2184"]
+[Themes "advantage attraction fork middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/t8nBpFjY#39"]
+[Solution "f1d3 b8b2 b1b2 c5b4 b2c1 b4c3 c1d1 c3d3"]
+[SolutionSAN "Bd3 Rxb2+ Kxb2 Qb4+ Kc1 Qc3+ Kd1 Qxd3+"]
+[FEN "1r4k1/p1Q2ppp/2n5/2q5/3nPB2/5PP1/PP5P/RK3B1R w - - 3 20"]
+[SetUp "1"]
+
+20. Bd3 Rxb2+ 21. Kxb2 Qb4+ 22. Kc1 Qc3+ 23. Kd1 Qxd3+ *

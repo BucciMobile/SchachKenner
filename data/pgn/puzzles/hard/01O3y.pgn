@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01O3y"]
+[Difficulty "hard"]
+[Rating "1752"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/Rmah8KfB/black#88"]
+[Solution "h6g5 h1h5 g6h5 b7g7"]
+[SolutionSAN "Kg5 Rh5+ gxh5 Qg7#"]
+[FEN "8/1Q5p/3q1ppk/2p1p3/4P1P1/1PP2PK1/r2r4/7R b - - 13 44"]
+[SetUp "1"]
+
+44... Kg5 45. Rh5+ gxh5 46. Qg7# *

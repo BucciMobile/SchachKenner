@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CQF4"]
+[Difficulty "hard"]
+[Rating "1906"]
+[Themes "crushing discoveredAttack kingsideAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/8oVpSFBA#51"]
+[Solution "c4e3 f4g2 d2g2 g5e3"]
+[SolutionSAN "Ne3 Nxg2 Qxg2 Qxe3+"]
+[FEN "5r1k/2p2rp1/3p3p/1p2p1q1/1PN1Pn2/2P2P2/3Q2BP/R4RK1 w - - 0 26"]
+[SetUp "1"]
+
+26. Ne3 Nxg2 27. Qxg2 Qxe3+ *

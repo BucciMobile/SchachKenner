@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hett"]
+[Difficulty "easy"]
+[Rating "651"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/doSj2FnJ#33"]
+[Solution "g5f7 d6h2"]
+[SolutionSAN "Nxf7 Qh2#"]
+[FEN "2kr3r/1pp2p2/p1nqp3/5pNp/3P2n1/4P2P/PP2NPP1/R2Q1RK1 w - - 4 17"]
+[SetUp "1"]
+
+17. Nxf7 Qh2# *

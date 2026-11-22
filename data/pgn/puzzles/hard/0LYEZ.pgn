@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LYEZ"]
+[Difficulty "hard"]
+[Rating "1999"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/bF3ERlnp#53"]
+[Solution "e5g6 h8f6 g6f8 g8g3"]
+[SolutionSAN "Ng6 Qf6 Nxf8 Rxg3"]
+[FEN "2k2rrq/pppb4/7p/3pN3/P7/2P3Q1/R1P2PPP/5R1K w - - 3 27"]
+[SetUp "1"]
+
+27. Ng6 Qf6 28. Nxf8 Rxg3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fb1N"]
+[Difficulty "easy"]
+[Rating "717"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/guU7GQPY#29"]
+[Solution "h6h4 f6f1 d3f1 d8h4"]
+[SolutionSAN "Qh4 Rxf1+ Bxf1 Qxh4"]
+[FEN "r1bq1bk1/pp5p/2p2rpQ/3p4/8/2PBB3/PPP3PP/R4RK1 w - - 2 15"]
+[SetUp "1"]
+
+15. Qh4 Rxf1+ 16. Bxf1 Qxh4 *

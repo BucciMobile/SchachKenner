@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EkrH"]
+[Difficulty "easy"]
+[Rating "594"]
+[Themes "attraction backRankMate endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/gPEjuLNk/black#50"]
+[Solution "b2a2 c8g8 h8g8 c1c8"]
+[SolutionSAN "Qxa2 Rxg8+ Kxg8 Rc8#"]
+[FEN "2R3nk/pp3ppp/8/3p4/4p3/1P2P2P/Pq3PP1/2R3K1 b - - 2 25"]
+[SetUp "1"]
+
+25... Qxa2 26. Rxg8+ Kxg8 27. Rc8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "038I7"]
+[Difficulty "medium"]
+[Rating "1618"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/FBRHhecJ/black#40"]
+[Solution "d2h6 b2a3 d8d6 a3d6 e7d6 g7f7"]
+[SolutionSAN "Bh6 Ba3+ Rd6 Bxd6+ Kxd6 Rxf7"]
+[FEN "3r4/p3kpRp/1p2pn2/1B6/8/1P3P2/1B1bKP1P/8 b - - 4 20"]
+[SetUp "1"]
+
+20... Bh6 21. Ba3+ Rd6 22. Bxd6+ Kxd6 23. Rxf7 *

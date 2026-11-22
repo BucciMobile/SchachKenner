@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Joc"]
+[Difficulty "medium"]
+[Rating "1445"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/i2mSSIOD/black#44"]
+[Solution "e7d5 g4g7"]
+[SolutionSAN "Nxd5 Qxg7#"]
+[FEN "r2q1rk1/4nppp/p2p1P2/2pNb3/1p2P1Q1/3B3P/P1P3P1/1R3R1K b - - 0 22"]
+[SetUp "1"]
+
+22... Nxd5 23. Qxg7# *

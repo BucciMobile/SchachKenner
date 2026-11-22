@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GHFr"]
+[Difficulty "hard"]
+[Rating "2182"]
+[Themes "crushing middlegame quietMove short"]
+[GameUrl "https://lichess.org/game/69YTsPoD#85"]
+[Solution "f2f3 h8g8 c7g7 g8g7"]
+[SolutionSAN "Kf3 Rg8 Rg7 Rxg7"]
+[FEN "r4k1r/2R5/p7/1pP1pN1p/4Pp1P/P7/1q3K2/R3Q3 w - - 2 43"]
+[SetUp "1"]
+
+43. Kf3 Rg8 44. Rg7 Rxg7 *

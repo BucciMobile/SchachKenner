@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "062X1"]
+[Difficulty "easy"]
+[Rating "982"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/X1GPHOrT/black#80"]
+[Solution "e8h8 e3d5 f6e6 d5b6"]
+[SolutionSAN "Rh8 Nd5+ Ke6 Nxb6"]
+[FEN "4r3/5p2/pr3k2/1p4R1/7P/P1P1NP2/1P3K2/8 b - - 4 40"]
+[SetUp "1"]
+
+40... Rh8 41. Nd5+ Ke6 42. Nxb6 *

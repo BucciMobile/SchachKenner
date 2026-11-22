@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06lN6"]
+[Difficulty "hard"]
+[Rating "2176"]
+[Themes "advantage master middlegame pin short"]
+[GameUrl "https://lichess.org/game/6zq75J35/black#26"]
+[Solution "e8e7 b2a3 a7a5 d2c2"]
+[SolutionSAN "Ke7 Ba3 a5 Qxc2"]
+[FEN "2rqkb1r/pp3pp1/4pn1p/1B1p4/1n1P1NP1/1PN2P2/PBbQ3P/2KR3R b k - 1 13"]
+[SetUp "1"]
+
+13... Ke7 14. Ba3 a5 15. Qxc2 *

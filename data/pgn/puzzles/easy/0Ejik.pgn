@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ejik"]
+[Difficulty "easy"]
+[Rating "995"]
+[Themes "crushing discoveredAttack discoveredCheck master middlegame short"]
+[GameUrl "https://lichess.org/game/UFYL5gpj#81"]
+[Solution "g1h2 g3f3 d4d6 b6d6"]
+[SolutionSAN "Kh2 Rxf3+ Qxd6+ Qxd6+"]
+[FEN "5k2/5p2/pq1b4/1p6/3QB3/P4Nr1/1PP2R2/5RK1 w - - 0 41"]
+[SetUp "1"]
+
+41. Kh2 Rxf3+ 42. Qxd6+ Qxd6+ *

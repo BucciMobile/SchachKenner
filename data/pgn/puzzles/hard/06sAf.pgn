@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06sAf"]
+[Difficulty "hard"]
+[Rating "2730"]
+[Themes "crushing kingsideAttack middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/ZQQbr3BU#33"]
+[Solution "e2d2 d4f3 g2f3 a8f3 b1c3 d6h2 g1h2 e8e5 e3g5 f3h5 h2g1 e5g5"]
+[SolutionSAN "Qd2 Nf3+ gxf3 Qxf3 Nc3 Bxh2+ Kxh2 Re5 Bg5 Qh5+ Kg1 Rxg5+"]
+[FEN "q3r1k1/2p2ppp/p2b4/1p6/3n4/3PB3/PPP1QPPP/RN4K1 w - - 6 17"]
+[SetUp "1"]
+
+17. Qd2 Nf3+ 18. gxf3 Qxf3 19. Nc3 Bxh2+ 20. Kxh2 Re5 21. Bg5 Qh5+ 22. Kg1 Rxg5+ *

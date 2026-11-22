@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IgwT"]
+[Difficulty "medium"]
+[Rating "1460"]
+[Themes "advantage endgame intermezzo short"]
+[GameUrl "https://lichess.org/game/BGkMWSzy#63"]
+[Solution "c5e6 h4h3 g2f2 f5e6"]
+[SolutionSAN "Nxe6 Qh3+ Kf2 Bxe6"]
+[FEN "6k1/6p1/2p1p3/p1NpQb1p/P2P3q/2P2P2/1P4K1/8 w - - 0 32"]
+[SetUp "1"]
+
+32. Nxe6 Qh3+ 33. Kf2 Bxe6 *

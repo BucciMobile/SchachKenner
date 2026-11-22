@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Yjy"]
+[Difficulty "hard"]
+[Rating "1932"]
+[Themes "crushing endgame exposedKing fork sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/f0Kyo2Fh#67"]
+[Solution "f1d1 g4h4 g3h4 h6h4 h1g2 h4g4 g2f1 g4d1"]
+[SolutionSAN "Rd1 Rxh4+ gxh4 Qxh4+ Kg2 Qg4+ Kf1 Qxd1+"]
+[FEN "6k1/5p1p/B2bp2q/5p2/6rP/1P4P1/1Q3P2/5R1K w - - 3 34"]
+[SetUp "1"]
+
+34. Rd1 Rxh4+ 35. gxh4 Qxh4+ 36. Kg2 Qg4+ 37. Kf1 Qxd1+ *

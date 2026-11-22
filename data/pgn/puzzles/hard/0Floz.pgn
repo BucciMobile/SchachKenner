@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Floz"]
+[Difficulty "hard"]
+[Rating "2001"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/U65EtEGu#45"]
+[Solution "e1e2 a8d8 d5d8 f8d8 e2e6 f6f8"]
+[SolutionSAN "Re2 Rad8 Qxd8 Rxd8 Re6 Qf8"]
+[FEN "r4r1k/ppp3pp/5q2/3Q4/8/2P3P1/PP3PKP/3RR3 w - - 1 23"]
+[SetUp "1"]
+
+23. Re2 Rad8 24. Qxd8 Rxd8 25. Re6 Qf8 *

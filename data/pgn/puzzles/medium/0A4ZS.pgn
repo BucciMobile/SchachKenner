@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A4ZS"]
+[Difficulty "medium"]
+[Rating "1384"]
+[Themes "advantage discoveredAttack discoveredCheck endgame queensideAttack short"]
+[GameUrl "https://lichess.org/game/Fvj2OZBu#65"]
+[Solution "c1b1 a5c3 b2c3 b3d4"]
+[SolutionSAN "Kb1 Qxc3 bxc3 Nxd4+"]
+[FEN "1r4k1/5pp1/2p4p/q2pP3/3R1PP1/PnQ4P/1P2R3/2K5 w - - 6 33"]
+[SetUp "1"]
+
+33. Kb1 Qxc3 34. bxc3 Nxd4+ *

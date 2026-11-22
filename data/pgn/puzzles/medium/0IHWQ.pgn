@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IHWQ"]
+[Difficulty "medium"]
+[Rating "1326"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/rHUGAHhl#35"]
+[Solution "d5c6 d6g3 h2g3 d8d1"]
+[SolutionSAN "dxc6 Bxg3 hxg3 Rxd1"]
+[FEN "2kr3r/ppq2pp1/2pbpnp1/2nP2B1/2P5/P4NN1/1P3PPP/R2QR1K1 w - - 1 18"]
+[SetUp "1"]
+
+18. dxc6 Bxg3 19. hxg3 Rxd1 *

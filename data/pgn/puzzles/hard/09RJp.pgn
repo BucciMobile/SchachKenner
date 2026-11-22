@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09RJp"]
+[Difficulty "hard"]
+[Rating "1770"]
+[Themes "advantage attraction deflection fork middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/mjq7GbAo/black#28"]
+[Solution "g4e6 f4e6 f7e6 e1e6 d6e6 d5c7 e8e7 c7e6"]
+[SolutionSAN "Be6 Nxe6 fxe6 Rxe6+ Qxe6 Nxc7+ Ke7 Nxe6"]
+[FEN "r3k1nr/pppn1ppp/3q4/3N4/3P1Nb1/6P1/PPP2Q1P/2K1RB2 b kq - 2 14"]
+[SetUp "1"]
+
+14... Be6 15. Nxe6 fxe6 16. Rxe6+ Qxe6 17. Nxc7+ Ke7 18. Nxe6 *

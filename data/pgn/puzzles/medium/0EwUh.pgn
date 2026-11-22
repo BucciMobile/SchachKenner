@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EwUh"]
+[Difficulty "medium"]
+[Rating "1439"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/qzxTOSsi#35"]
+[Solution "a1b1 e8e1"]
+[SolutionSAN "Rb1 Re1#"]
+[FEN "r3r1k1/p1pp1ppp/b1p5/8/1PPp4/P2Q4/5qPP/R1BK1B1R w - - 6 18"]
+[SetUp "1"]
+
+18. Rb1 Re1# *

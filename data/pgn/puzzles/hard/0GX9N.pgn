@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GX9N"]
+[Difficulty "hard"]
+[Rating "1945"]
+[Themes "advantage endgame fork long"]
+[GameUrl "https://lichess.org/game/v7G4BUhJ#63"]
+[Solution "d4h4 h5e2 d3e2 e8e2 g2f3 e2d2"]
+[SolutionSAN "Rh4 Qe2+ Qxe2 Rxe2+ Kf3 Rxd2"]
+[FEN "4r1k1/1p3npp/p7/7q/3R4/2PQ2P1/P2B2KP/8 w - - 4 32"]
+[SetUp "1"]
+
+32. Rh4 Qe2+ 33. Qxe2 Rxe2+ 34. Kf3 Rxd2 *

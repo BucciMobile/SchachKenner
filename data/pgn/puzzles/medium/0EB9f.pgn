@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EB9f"]
+[Difficulty "medium"]
+[Rating "1572"]
+[Themes "advantage endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/li0P06o8#61"]
+[Solution "b2b3 g2h3 d3d4 h3f3"]
+[SolutionSAN "Kb3 Qxh3 Qd4 Qxf3+"]
+[FEN "6k1/pp2pp1p/6pB/3p4/7P/P2Q1P1R/1K4q1/5n2 w - - 0 31"]
+[SetUp "1"]
+
+31. Kb3 Qxh3 32. Qd4 Qxf3+ *

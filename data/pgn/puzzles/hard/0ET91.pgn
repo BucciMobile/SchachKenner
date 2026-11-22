@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ET91"]
+[Difficulty "hard"]
+[Rating "2337"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/EqKp5YW1/black#62"]
+[Solution "f7f6 e4d6 f5d3 d6e4"]
+[SolutionSAN "f6 Nxd6 Qd3 Ne4"]
+[FEN "2r3k1/p4p2/1p1p2pQ/3Ppq1p/4N2P/5P2/P1r3P1/5RK1 b - - 3 31"]
+[SetUp "1"]
+
+31... f6 32. Nxd6 Qd3 33. Ne4 *

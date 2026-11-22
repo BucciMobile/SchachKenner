@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JrV4"]
+[Difficulty "hard"]
+[Rating "1833"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/8l6HOXBT/black#96"]
+[Solution "c8c6 e6d7 g7f8 d7c6"]
+[SolutionSAN "Rc6+ Kd7 Kf8 Kxc6"]
+[FEN "2r5/5Pkp/4K3/8/p1p5/5R2/8/8 b - - 2 48"]
+[SetUp "1"]
+
+48... Rc6+ 49. Kd7 Kf8 50. Kxc6 *

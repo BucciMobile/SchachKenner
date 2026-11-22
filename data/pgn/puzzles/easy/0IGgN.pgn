@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IGgN"]
+[Difficulty "easy"]
+[Rating "1187"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/T2h29msd/black#28"]
+[Solution "c5d4 c2h7"]
+[SolutionSAN "cxd4 Qxh7#"]
+[FEN "r2q1rk1/pp1b1ppp/4pb2/2ppn3/3P4/1PP3P1/PBQNBP2/R3K2R b KQ - 0 14"]
+[SetUp "1"]
+
+14... cxd4 15. Qxh7# *

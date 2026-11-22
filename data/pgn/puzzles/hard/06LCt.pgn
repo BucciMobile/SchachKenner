@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06LCt"]
+[Difficulty "hard"]
+[Rating "2615"]
+[Themes "crushing endgame exposedKing veryLong"]
+[GameUrl "https://lichess.org/game/XqBVGM88/black#56"]
+[Solution "f7e6 h5g6 e5f6 g6g8 e6f5 g2g4 f5f4 g8g6"]
+[SolutionSAN "Ke6 Qg6+ Bf6 Qg8+ Kf5 g4+ Kf4 Qg6"]
+[FEN "8/pp2rk2/7p/4b2Q/8/8/1q3PPP/3R2K1 b - - 3 28"]
+[SetUp "1"]
+
+28... Ke6 29. Qg6+ Bf6 30. Qg8+ Kf5 31. g4+ Kf4 32. Qg6 *

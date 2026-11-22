@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06vv6"]
+[Difficulty "medium"]
+[Rating "1546"]
+[Themes "advantage clearance discoveredAttack discoveredCheck opening pin short"]
+[GameUrl "https://lichess.org/game/YNLLVzoi/black#20"]
+[Solution "e4f6 b5b6 c7d7 f1b5"]
+[SolutionSAN "Nf6 b6+ Qd7 Bb5"]
+[FEN "rn2k2r/ppq1ppbp/3p2p1/1PpP4/Q3n3/8/PP3PPP/R1B1KBNR b KQkq - 1 10"]
+[SetUp "1"]
+
+10... Nf6 11. b6+ Qd7 12. Bb5 *

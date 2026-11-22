@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J2nj"]
+[Difficulty "medium"]
+[Rating "1497"]
+[Themes "crushing endgame pawnEndgame quietMove short"]
+[GameUrl "https://lichess.org/game/aYO64mF5#67"]
+[Solution "a2a3 a7a5 f5f4 b5b4"]
+[SolutionSAN "a3 a5 Kf4 b4"]
+[FEN "8/p6p/8/1p1k1K2/2p3P1/2P4P/P4P2/8 w - - 0 34"]
+[SetUp "1"]
+
+34. a3 a5 35. Kf4 b4 *

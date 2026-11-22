@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00Ac7"]
+[Difficulty "hard"]
+[Rating "2219"]
+[Themes "advancedPawn advantage endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/SIcsTksL/black#66"]
+[Solution "a4a3 a6a7 d3d8 e2e3 a3a2 e3a3"]
+[SolutionSAN "a3 a7 Rd8 Re3 a2 Ra3"]
+[FEN "8/2p1pk1p/Pp4p1/8/p1P2P2/3r2P1/3PR2P/3K4 b - - 1 33"]
+[SetUp "1"]
+
+33... a3 34. a7 Rd8 35. Re3 a2 36. Ra3 *

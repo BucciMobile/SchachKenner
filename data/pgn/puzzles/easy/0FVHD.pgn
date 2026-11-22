@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FVHD"]
+[Difficulty "easy"]
+[Rating "973"]
+[Themes "advantage endgame rookEndgame short skewer"]
+[GameUrl "https://lichess.org/game/hfhuqmpV/black#98"]
+[Solution "d3c3 a2a3 c3d4 a3f3"]
+[SolutionSAN "Kxc3 Ra3+ Kxd4 Rxf3"]
+[FEN "8/8/p1p5/1p1pP1pp/1P1P4/2Pk1r1P/R4P2/6K1 b - - 0 49"]
+[SetUp "1"]
+
+49... Kxc3 50. Ra3+ Kxd4 51. Rxf3 *

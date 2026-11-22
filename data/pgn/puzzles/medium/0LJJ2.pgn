@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LJJ2"]
+[Difficulty "medium"]
+[Rating "1689"]
+[Themes "crushing long middlegame trappedPiece"]
+[GameUrl "https://lichess.org/game/Zg0i2tmg/black#36"]
+[Solution "b7b5 f3g5 c8b7 g5h7 e8c8 h7f8"]
+[SolutionSAN "b5 Ng5 Bb7 Nxh7 O-O-O Nxf8"]
+[FEN "r1b1kr2/1p1p1pQp/p1n1p3/3qP3/8/2R2N1P/PP3PP1/4R1K1 b q - 4 18"]
+[SetUp "1"]
+
+18... b5 19. Ng5 Bb7 20. Nxh7 O-O-O 21. Nxf8 *

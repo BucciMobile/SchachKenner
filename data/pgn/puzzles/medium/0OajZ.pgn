@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OajZ"]
+[Difficulty "medium"]
+[Rating "1592"]
+[Themes "endgame master mate mateIn2 queenEndgame short"]
+[GameUrl "https://lichess.org/game/M3yaANJP#125"]
+[Solution "f8e8 f3a8 b5b8 a8b8"]
+[SolutionSAN "Ke8 Qa8+ Qb8 Qxb8#"]
+[FEN "5K2/8/4k3/1Q6/8/P4q2/8/8 w - - 5 63"]
+[SetUp "1"]
+
+63. Ke8 Qa8+ 64. Qb8 Qxb8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K4QN"]
+[Difficulty "medium"]
+[Rating "1600"]
+[Themes "crushing long middlegame pin skewer"]
+[GameUrl "https://lichess.org/game/2jOoGhto/black#48"]
+[Solution "d7c8 g2g8 d8g8 d5a8 c8d7 a8g8"]
+[SolutionSAN "Kc8 Rxg8 Rxg8 Qa8+ Kd7 Qxg8"]
+[FEN "3r2r1/2pk1p1p/8/3Q4/2Pp4/P2PbP2/1PK3RP/qN6 b - - 2 24"]
+[SetUp "1"]
+
+24... Kc8 25. Rxg8 Rxg8 26. Qa8+ Kd7 27. Qxg8 *

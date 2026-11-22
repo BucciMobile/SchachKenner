@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ek0I"]
+[Difficulty "hard"]
+[Rating "1897"]
+[Themes "crushing endgame queenRookEndgame skewer veryLong"]
+[GameUrl "https://lichess.org/game/4Tt0wSw3/black#86"]
+[Solution "f4e4 g5h6 c3c8 e7f6 g8f8 f6h8 f8e7 h8c8"]
+[SolutionSAN "Rxe4 Kh6 Rc8 Qf6 Kf8 Qh8+ Ke7 Qxc8"]
+[FEN "6k1/4Qp2/4p1p1/6Kp/4Pr2/2r4P/6P1/8 b - - 1 43"]
+[SetUp "1"]
+
+43... Rxe4 44. Kh6 Rc8 45. Qf6 Kf8 46. Qh8+ Ke7 47. Qxc8 *

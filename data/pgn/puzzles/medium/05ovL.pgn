@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ovL"]
+[Difficulty "medium"]
+[Rating "1502"]
+[Themes "attraction crushing fork master middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/R7shnBIu/black#44"]
+[Solution "e5g4 e2g4 h4g4 e4f6 g8f8 f6g4 b7g2 g1g2"]
+[SolutionSAN "Ng4 Qxg4 Qxg4 Nf6+ Kf8 Nxg4 Bxg2 Kxg2"]
+[FEN "r3r1k1/1bp2p2/1p4pp/p3n3/Pb2NP1q/1P1P4/2P1Q1BP/B2R1RK1 b - - 0 22"]
+[SetUp "1"]
+
+22... Ng4 23. Qxg4 Qxg4 24. Nf6+ Kf8 25. Nxg4 Bxg2 26. Kxg2 *

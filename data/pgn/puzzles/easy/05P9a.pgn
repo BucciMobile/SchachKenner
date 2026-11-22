@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05P9a"]
+[Difficulty "easy"]
+[Rating "1089"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/GLYnKmIM#83"]
+[Solution "d8d2 f3h3 h2g1 g5f3 g1f2 f3d2"]
+[SolutionSAN "Qd2 Qxh3+ Kg1 Nf3+ Kf2 Nxd2"]
+[FEN "3Q4/4p2k/6p1/6np/4P3/BN3q1P/P6K/8 w - - 2 42"]
+[SetUp "1"]
+
+42. Qd2 Qxh3+ 43. Kg1 Nf3+ 44. Kf2 Nxd2 *

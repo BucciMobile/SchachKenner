@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AMfY"]
+[Difficulty "easy"]
+[Rating "681"]
+[Themes "endgame kingsideAttack mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/HeHD4rGH#35"]
+[Solution "a4b4 d3d1 b4e1 d1e1"]
+[SolutionSAN "Qxb4 Qd1+ Qe1 Qxe1#"]
+[FEN "5rk1/p1p2ppp/8/1p2P3/Qb6/P2qP3/1P3PPP/R1B3K1 w - - 0 18"]
+[SetUp "1"]
+
+18. Qxb4 Qd1+ 19. Qe1 Qxe1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Cwn"]
+[Difficulty "hard"]
+[Rating "1791"]
+[Themes "advantage endgame queenRookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/9kyWT7Ge#125"]
+[Solution "e3d4 f1d1 d4c5 g3c3 c5b4 d1d6 b4c3 d6b6"]
+[SolutionSAN "Kd4 Rd1+ Kc5 Rc3+ Kb4 Rxd6 Kxc3 Rxb6"]
+[FEN "8/6k1/1P1Q1pp1/8/5P2/4K1r1/4R3/5r2 w - - 5 63"]
+[SetUp "1"]
+
+63. Kd4 Rd1+ 64. Kc5 Rc3+ 65. Kb4 Rxd6 66. Kxc3 Rxb6 *

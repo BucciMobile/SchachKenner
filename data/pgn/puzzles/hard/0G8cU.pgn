@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G8cU"]
+[Difficulty "hard"]
+[Rating "1701"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/2JItQ16G#119"]
+[Solution "a1f1 a3b3 b6c5 b3b1"]
+[SolutionSAN "Rf1 Rb3+ Kc5 Rb1"]
+[FEN "2k5/8/1KP5/7p/7P/r7/p7/R7 w - - 5 60"]
+[SetUp "1"]
+
+60. Rf1 Rb3+ 61. Kc5 Rb1 *

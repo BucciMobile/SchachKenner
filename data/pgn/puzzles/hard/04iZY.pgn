@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04iZY"]
+[Difficulty "hard"]
+[Rating "2174"]
+[Themes "crushing deflection exposedKing fork middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/c55QmGRP#59"]
+[Solution "e5e6 a6e2 d1d2 h8h1 e4h1 e2e3 g1g2 e3d2"]
+[SolutionSAN "e6 Qe2 Rd2 Rh1+ Qxh1 Qxe3+ Kg2 Qxd2+"]
+[FEN "2k4r/1pr5/q5p1/4P1p1/P3Q3/4B1p1/8/3R1RK1 w - - 0 30"]
+[SetUp "1"]
+
+30. e6 Qe2 31. Rd2 Rh1+ 32. Qxh1 Qxe3+ 33. Kg2 Qxd2+ *

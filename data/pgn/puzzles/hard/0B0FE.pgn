@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B0FE"]
+[Difficulty "hard"]
+[Rating "2105"]
+[Themes "advantage capturingDefender fork long middlegame pin"]
+[GameUrl "https://lichess.org/game/xyLqmkEL#51"]
+[Solution "f1e1 c3e3 e1e3 f6d4 g3f5 e6f5"]
+[SolutionSAN "Re1 Rxe3 Rxe3 Qxd4 Nxf5 exf5"]
+[FEN "3r2k1/6p1/1p2pq1p/p2b1p1Q/1n1N1P2/2r1P1N1/6PP/RB3RK1 w - - 3 26"]
+[SetUp "1"]
+
+26. Re1 Rxe3 27. Rxe3 Qxd4 28. Nxf5 exf5 *

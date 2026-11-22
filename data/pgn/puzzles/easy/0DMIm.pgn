@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DMIm"]
+[Difficulty "easy"]
+[Rating "596"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+[GameUrl "https://lichess.org/game/IikHwy53/black#38"]
+[Solution "e8g8 g5f7"]
+[SolutionSAN "Rxg8 Nf7#"]
+[FEN "r3r1Qk/1p1qb1pp/p1np1n2/6N1/8/P1N5/BP3PPP/R1B3K1 b - - 4 19"]
+[SetUp "1"]
+
+19... Rxg8 20. Nf7# *

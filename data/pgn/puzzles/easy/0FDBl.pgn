@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FDBl"]
+[Difficulty "easy"]
+[Rating "1198"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/RSENaiPf/black#46"]
+[Solution "g8f8 e5e7 f8g8 e7d8"]
+[SolutionSAN "Kf8 Qe7+ Kg8 Qxd8+"]
+[FEN "3r2k1/1b3pp1/p1q4p/1p2Q3/8/2N2PP1/PP4P1/4R1K1 b - - 0 23"]
+[SetUp "1"]
+
+23... Kf8 24. Qe7+ Kg8 25. Qxd8+ *

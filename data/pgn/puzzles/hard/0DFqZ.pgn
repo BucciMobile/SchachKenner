@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DFqZ"]
+[Difficulty "hard"]
+[Rating "2196"]
+[Themes "advantage attackingF2F7 exposedKing long opening sacrifice"]
+[GameUrl "https://lichess.org/game/O36bru1G/black#30"]
+[Solution "d7d5 c3d5 f6d5 h3h5 h7f7 h5f7"]
+[SolutionSAN "d5 Nxd5 Nxd5 Qh5+ Qf7 Qxf7+"]
+[FEN "r1b1k2r/1pppb2q/p1n2n1p/6p1/2B5/2N2N1Q/PP3PPP/R1B1R1K1 b kq - 5 15"]
+[SetUp "1"]
+
+15... d5 16. Nxd5 Nxd5 17. Qh5+ Qf7 18. Qxf7+ *

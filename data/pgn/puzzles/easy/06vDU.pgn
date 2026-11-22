@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06vDU"]
+[Difficulty "easy"]
+[Rating "1078"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+[GameUrl "https://lichess.org/game/3uXdgvV6#63"]
+[Solution "d6d7 d4d1 g1h2 e5h5"]
+[SolutionSAN "Rd7 Rd1+ Kh2 Rh5#"]
+[FEN "6k1/6pp/3R1p2/2Rpr3/3r4/6P1/P4PP1/6K1 w - - 4 32"]
+[SetUp "1"]
+
+32. Rd7 Rd1+ 33. Kh2 Rh5# *

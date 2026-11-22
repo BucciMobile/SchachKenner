@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JejN"]
+[Difficulty "hard"]
+[Rating "2089"]
+[Themes "crushing endgame fork master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/zNNq2bTO#61"]
+[Solution "c1c5 d5d1 g1h2 d1d6"]
+[SolutionSAN "Rxc5 Qd1+ Kh2 Qxd6+"]
+[FEN "4bk2/p4pp1/1p1Np2p/1Prq4/P6P/Q3P3/5PP1/2R3K1 w - - 8 31"]
+[SetUp "1"]
+
+31. Rxc5 Qd1+ 32. Kh2 Qxd6+ *

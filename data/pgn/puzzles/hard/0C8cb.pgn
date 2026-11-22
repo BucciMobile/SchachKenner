@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C8cb"]
+[Difficulty "hard"]
+[Rating "2418"]
+[Themes "advancedPawn advantage long middlegame pin sacrifice"]
+[GameUrl "https://lichess.org/game/d8kJ7Czz/black#54"]
+[Solution "b3g3 d1d4 c5d4 f6g7 g8g7 f1g1"]
+[SolutionSAN "Qxg3 Rxd4 cxd4 fxg7 Kxg7 Rg1"]
+[FEN "5rk1/pp3rpp/3pQP2/2pN4/2Pb1P2/1q4PP/8/3R1R1K b - - 1 27"]
+[SetUp "1"]
+
+27... Qxg3 28. Rxd4 cxd4 29. fxg7 Kxg7 30. Rg1 *

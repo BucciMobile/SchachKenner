@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EwUi"]
+[Difficulty "easy"]
+[Rating "1163"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/RFTW4xy9/black#76"]
+[Solution "a4b6 f4f7 h7f7 f1f7"]
+[SolutionSAN "Nb6 Rxf7+ Rxf7 Rxf7+"]
+[FEN "6r1/3k1p1r/p3p3/1p1pP3/nPpP1RB1/P1P4P/2K5/5R2 b - - 2 38"]
+[SetUp "1"]
+
+38... Nb6 39. Rxf7+ Rxf7 40. Rxf7+ *

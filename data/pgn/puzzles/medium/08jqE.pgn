@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08jqE"]
+[Difficulty "medium"]
+[Rating "1632"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/fyasDbpl/black#32"]
+[Solution "c6c5 e3f4 e5f6 f4d6"]
+[SolutionSAN "c5 Bf4 Qf6 Bxd6"]
+[FEN "r5kr/pp4p1/2pb3p/3pq3/4p1Q1/2P1B2P/PP3P1P/R3K1R1 b Q - 0 16"]
+[SetUp "1"]
+
+16... c5 17. Bf4 Qf6 18. Bxd6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JdhG"]
+[Difficulty "hard"]
+[Rating "2258"]
+[Themes "advantage defensiveMove deflection endgame long"]
+[GameUrl "https://lichess.org/game/rmkoHENX#61"]
+[Solution "b1c2 e6c6 c2b1 d8d3 e5e6 h8g8"]
+[SolutionSAN "Kc2 Qc6+ Kb1 Rxd3 e6+ Kg8"]
+[FEN "3r3k/5p1p/p3q1p1/1p2PbQ1/5P1P/1P1P4/PB6/1K1R4 w - - 4 31"]
+[SetUp "1"]
+
+31. Kc2 Qc6+ 32. Kb1 Rxd3 33. e6+ Kg8 *

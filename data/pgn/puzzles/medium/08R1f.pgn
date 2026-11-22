@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08R1f"]
+[Difficulty "medium"]
+[Rating "1614"]
+[Themes "advantage endgame fork long"]
+[GameUrl "https://lichess.org/game/A0pLejLh/black#60"]
+[Solution "f8h8 h4f4 f7e6 h7f5 e6e5 f4f3"]
+[SolutionSAN "Rh8 Rf4+ Ke6 Bf5+ Kxe5 Rxf3"]
+[FEN "4rr2/1p3kpB/p7/2B1P3/2P4R/1P3bp1/P2K4/8 b - - 2 30"]
+[SetUp "1"]
+
+30... Rh8 31. Rf4+ Ke6 32. Bf5+ Kxe5 33. Rxf3 *

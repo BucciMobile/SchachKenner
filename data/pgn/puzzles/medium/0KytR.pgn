@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KytR"]
+[Difficulty "medium"]
+[Rating "1504"]
+[Themes "crushing middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/rNgmq0Na#27"]
+[Solution "d2f4 b4a2 c1d2 e7b4"]
+[SolutionSAN "Qf4 Nxa2+ Kd2 Qb4+"]
+[FEN "2kr3r/p1p1qppp/1p6/5b2/1nPP4/1N3N2/PP1Q1PPP/2KR1B1R w - - 2 14"]
+[SetUp "1"]
+
+14. Qf4 Nxa2+ 15. Kd2 Qb4+ *

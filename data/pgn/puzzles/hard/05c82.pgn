@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05c82"]
+[Difficulty "hard"]
+[Rating "1777"]
+[Themes "advancedPawn crushing endgame rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/1rrDRkqm#87"]
+[Solution "c1c2 e4e3 b2c3 e3e2 c2c1 f2f1 c1e1 f1e1"]
+[SolutionSAN "Rc2 e3 Kc3 e2 Rc1 Rf1 Re1 Rxe1"]
+[FEN "6k1/7p/3p2pP/3P4/2PPp3/8/1K3r2/2R5 w - - 0 44"]
+[SetUp "1"]
+
+44. Rc2 e3 45. Kc3 e2 46. Rc1 Rf1 47. Re1 Rxe1 *

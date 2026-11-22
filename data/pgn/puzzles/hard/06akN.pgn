@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06akN"]
+[Difficulty "hard"]
+[Rating "1755"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/WLW8oITz#115"]
+[Solution "e7g8 f6f7 g4h5 f7g8"]
+[SolutionSAN "Ng8+ Kf7 Kh5 Kxg8"]
+[FEN "8/4N3/5k2/4p3/4PbK1/8/8/8 w - - 4 58"]
+[SetUp "1"]
+
+58. Ng8+ Kf7 59. Kh5 Kxg8 *

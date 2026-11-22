@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MqhP"]
+[Difficulty "medium"]
+[Rating "1517"]
+[Themes "advantage attraction exposedKing kingsideAttack middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/rtuqX6WJ#55"]
+[Solution "e1g3 g5e3 g3f2 d1f1 g1f1 d8d1 f1g2 d1d2 f2d2 e3d2"]
+[SolutionSAN "Qg3 Qxe3+ Qf2 Rxf1+ Kxf1 Rd1+ Kg2 Rd2 Qxd2 Qxd2+"]
+[FEN "3r2k1/pp5p/2p2p2/5Bq1/2R3P1/P3PP1P/1P6/3rQRK1 w - - 1 28"]
+[SetUp "1"]
+
+28. Qg3 Qxe3+ 29. Qf2 Rxf1+ 30. Kxf1 Rd1+ 31. Kg2 Rd2 32. Qxd2 Qxd2+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01vUA"]
+[Difficulty "hard"]
+[Rating "2019"]
+[Themes "advantage kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/hRdjeCoO/black#46"]
+[Solution "f8f7 d7f6 f7f6 c3f6"]
+[SolutionSAN "Rf7 Nxf6+ Rxf6 Bxf6"]
+[FEN "r4rk1/p1pN3p/1p2pppP/8/8/2B5/PPP3b1/2K2R1R b - - 1 23"]
+[SetUp "1"]
+
+23... Rf7 24. Nxf6+ Rxf6 25. Bxf6 *

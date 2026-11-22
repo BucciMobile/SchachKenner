@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H5VI"]
+[Difficulty "medium"]
+[Rating "1417"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/sMntRQgv#73"]
+[Solution "h3g4 b2g2 g4f5 g2g5"]
+[SolutionSAN "Kg4 Rxg2+ Kf5 Rg5#"]
+[FEN "3k4/R4pp1/B6p/2BPp3/4Pn2/5P1K/1r4PP/8 w - - 12 37"]
+[SetUp "1"]
+
+37. Kg4 Rxg2+ 38. Kf5 Rg5# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AQvY"]
+[Difficulty "medium"]
+[Rating "1655"]
+[Themes "advantage attackingF2F7 deflection master middlegame short"]
+[GameUrl "https://lichess.org/game/uoQe84lU/black#28"]
+[Solution "h5g6 c4f7 g6f7 e1e4"]
+[SolutionSAN "Bg6 Bxf7+ Bxf7 Qxe4"]
+[FEN "r3k2r/ppq2ppp/2p5/4b2b/2BBn3/2P5/PP4PP/RN2QR1K b kq - 1 14"]
+[SetUp "1"]
+
+14... Bg6 15. Bxf7+ Bxf7 16. Qxe4 *

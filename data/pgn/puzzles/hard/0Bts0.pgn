@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Bts0"]
+[Difficulty "hard"]
+[Rating "1987"]
+[Themes "advantage attraction fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/7WTT46Jz#51"]
+[Solution "c2g6 d8d2 d1d2 c5b3 c1b1 b3d2"]
+[SolutionSAN "Bxg6 Rxd2 Rxd2 Nb3+ Kb1 Nxd2+"]
+[FEN "3r1r2/1p2k1p1/1q2pnp1/p1n5/6P1/P1P3Q1/1PBN1P2/2KR3R w - - 6 26"]
+[SetUp "1"]
+
+26. Bxg6 Rxd2 27. Rxd2 Nb3+ 28. Kb1 Nxd2+ *

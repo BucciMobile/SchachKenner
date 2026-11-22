@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "054Lp"]
+[Difficulty "medium"]
+[Rating "1665"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/fYNGbgFd/black#48"]
+[Solution "g7f6 e5f6 e6e4 e1e4 e8e4 f3e4"]
+[SolutionSAN "gxf6 exf6 Qxe4 Rxe4 Rxe4 Qxe4"]
+[FEN "r3r1k1/2p2pp1/4qB1p/ppb1P3/2p1R3/P4Q1P/1P4P1/4R2K b - - 1 24"]
+[SetUp "1"]
+
+24... gxf6 25. exf6 Qxe4 26. Rxe4 Rxe4 27. Qxe4 *

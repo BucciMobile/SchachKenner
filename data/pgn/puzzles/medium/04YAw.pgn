@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04YAw"]
+[Difficulty "medium"]
+[Rating "1236"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/LK4CPsHm#35"]
+[Solution "g3h4 g5h4 d4h4 e7h4"]
+[SolutionSAN "Bh4 Qxh4 Qxh4 Bxh4"]
+[FEN "3r1rk1/1p2bppp/p2p4/3PP1qn/3Q4/2N3BP/PP3PP1/R3R1K1 w - - 1 18"]
+[SetUp "1"]
+
+18. Bh4 Qxh4 19. Qxh4 Bxh4 *

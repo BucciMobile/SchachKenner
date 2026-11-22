@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06J8B"]
+[Difficulty "medium"]
+[Rating "1248"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/CB50kM5n/black#46"]
+[Solution "c8b7 e5g6 h7g6 g3d6"]
+[SolutionSAN "Bb7 Ng6+ hxg6 Qxd6+"]
+[FEN "r1b2k2/5ppp/3q1n2/4NP2/1p2P3/3B2QP/6P1/1R4K1 b - - 0 23"]
+[SetUp "1"]
+
+23... Bb7 24. Ng6+ hxg6 25. Qxd6+ *

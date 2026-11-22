@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00fJC"]
+[Difficulty "medium"]
+[Rating "1700"]
+[Themes "advantage endgame fork long sacrifice"]
+[GameUrl "https://lichess.org/game/PmojFttS/black#78"]
+[Solution "b8d8 d3c3 b4c3 c2c3 c5d6 c3a5"]
+[SolutionSAN "Rd8 Rxc3+ bxc3 Qxc3+ Kd6 Qxa5"]
+[FEN "1r6/6p1/5p1p/r1kp4/Pp3q2/2pR3P/2Q2PP1/3R2K1 b - - 4 39"]
+[SetUp "1"]
+
+39... Rd8 40. Rxc3+ bxc3 41. Qxc3+ Kd6 42. Qxa5 *

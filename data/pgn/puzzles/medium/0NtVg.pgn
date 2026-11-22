@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NtVg"]
+[Difficulty "medium"]
+[Rating "1441"]
+[Themes "advantage fork opening short"]
+[GameUrl "https://lichess.org/game/BJRtBm33/black#10"]
+[Solution "f8d6 d1a4 b8c6 a4g4"]
+[SolutionSAN "Bd6 Qa4+ Nc6 Qxg4"]
+[FEN "rn1qkbnr/pp3ppp/4p3/2pp4/6b1/P1P1PN2/1P1PBPPP/RNBQK2R b KQkq - 0 5"]
+[SetUp "1"]
+
+5... Bd6 6. Qa4+ Nc6 7. Qxg4 *

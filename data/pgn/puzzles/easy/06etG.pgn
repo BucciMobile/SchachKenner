@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06etG"]
+[Difficulty "easy"]
+[Rating "1138"]
+[Themes "advantage deflection endgame master short"]
+[GameUrl "https://lichess.org/game/uUqin0s6#71"]
+[Solution "h5h6 e5h5 g3h3 h5g6"]
+[SolutionSAN "h6 Qh5+ Qh3 Qxg6"]
+[FEN "4r1k1/p5b1/1p4R1/4q2P/8/2P3Q1/P4PPK/8 w - - 5 36"]
+[SetUp "1"]
+
+36. h6 Qh5+ 37. Qh3 Qxg6 *

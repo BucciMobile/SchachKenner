@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0McFo"]
+[Difficulty "medium"]
+[Rating "1248"]
+[Themes "endgame master mate mateIn1 oneMove queenRookEndgame"]
+[GameUrl "https://lichess.org/game/CFrfjUur#159"]
+[Solution "c8c7 b4f8"]
+[SolutionSAN "Rcc7 Qf8#"]
+[FEN "2RK4/3R4/8/3P4/1q1k4/8/8/8 w - - 20 80"]
+[SetUp "1"]
+
+80. Rcc7 Qf8# *

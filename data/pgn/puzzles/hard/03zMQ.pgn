@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03zMQ"]
+[Difficulty "hard"]
+[Rating "1885"]
+[Themes "crushing fork middlegame veryLong"]
+[GameUrl "https://lichess.org/game/e0MqLhCJ#73"]
+[Solution "f3f2 b1g1 f2g2 e6e3 d3e3 e8e3 a3e3 g1e3"]
+[SolutionSAN "Rf2 Qg1+ Rg2 Rxe3+ Rxe3 Rxe3+ Qxe3 Qxe3+"]
+[FEN "2k1r3/2p5/p3r3/N5pP/6P1/Q2RPRK1/8/1q6 w - - 10 37"]
+[SetUp "1"]
+
+37. Rf2 Qg1+ 38. Rg2 Rxe3+ 39. Rxe3 Rxe3+ 40. Qxe3 Qxe3+ *

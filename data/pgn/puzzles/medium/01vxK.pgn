@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01vxK"]
+[Difficulty "medium"]
+[Rating "1300"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/Jz82SN2j/black#100"]
+[Solution "d1d3 f7g8 h8g8 b7b8 d3d8 b8d8"]
+[SolutionSAN "Qxd3 Qxg8+ Kxg8 Rb8+ Qd8 Rxd8#"]
+[FEN "6rk/1R3Qp1/6Pp/p6P/8/2PP1p2/K7/3q4 b - - 0 50"]
+[SetUp "1"]
+
+50... Qxd3 51. Qxg8+ Kxg8 52. Rb8+ Qd8 53. Rxd8# *

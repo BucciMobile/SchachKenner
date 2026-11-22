@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0J2sb"]
+[Difficulty "easy"]
+[Rating "1145"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+[GameUrl "https://lichess.org/game/mBT0kMe6#89"]
+[Solution "e5f5 b4b3 g5g6 b3b2 g6g7 b2b1q"]
+[SolutionSAN "Kxf5 b3 g6 b2 g7 b1=Q+"]
+[FEN "8/8/8/4KpPk/1p5P/8/8/8 w - - 0 45"]
+[SetUp "1"]
+
+45. Kxf5 b3 46. g6 b2 47. g7 b1=Q+ *

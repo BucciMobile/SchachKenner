@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02A3t"]
+[Difficulty "hard"]
+[Rating "1971"]
+[Themes "advantage endgame short trappedPiece"]
+[GameUrl "https://lichess.org/game/c57wHyeI#59"]
+[Solution "e7a7 f8c5 a7c5 c8c5"]
+[SolutionSAN "Qa7 Bc5 Qxc5 Qxc5"]
+[FEN "2q2bk1/4Q2p/p5p1/1p3pB1/8/5N1P/PP3PP1/6K1 w - - 1 30"]
+[SetUp "1"]
+
+30. Qa7 Bc5 31. Qxc5 Qxc5 *

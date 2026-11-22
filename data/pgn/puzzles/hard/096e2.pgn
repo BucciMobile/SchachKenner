@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "096e2"]
+[Difficulty "hard"]
+[Rating "1913"]
+[Themes "endgame fork mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/kQo4RR3X/black#92"]
+[Solution "c2b2 g7e7 e8f8 d1d8"]
+[SolutionSAN "Rxb2 Re7+ Kf8 Rd8#"]
+[FEN "4k3/6Rp/2p2P2/1p4P1/1P2b3/8/1Br3r1/K2R4 b - - 0 46"]
+[SetUp "1"]
+
+46... Rxb2 47. Re7+ Kf8 48. Rd8# *

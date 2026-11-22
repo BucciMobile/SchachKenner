@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "072gc"]
+[Difficulty "easy"]
+[Rating "880"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/USDFACNX#65"]
+[Solution "h1g1 h6h2"]
+[SolutionSAN "Kg1 Qh2#"]
+[FEN "6k1/p4ppp/2p4q/5Q2/3Pp3/P7/1r6/R4R1K w - - 3 33"]
+[SetUp "1"]
+
+33. Kg1 Qh2# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MhDQ"]
+[Difficulty "medium"]
+[Rating "1618"]
+[Themes "advantage discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/CzSrpoZf/black#22"]
+[Solution "d7g4 d5f6 g7f6 g2c6"]
+[SolutionSAN "Qg4 Nxf6+ gxf6 Bxc6+"]
+[FEN "2r1kb1r/p2q1ppp/1pnp1n2/1QpNp3/2P5/4P1Pb/PP1PNPB1/R1B2RK1 b k - 1 11"]
+[SetUp "1"]
+
+11... Qg4 12. Nxf6+ gxf6 13. Bxc6+ *

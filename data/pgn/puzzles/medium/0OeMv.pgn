@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OeMv"]
+[Difficulty "medium"]
+[Rating "1490"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/pEk82jeE#75"]
+[Solution "g3e4 d3e4 c6e4 c5e4"]
+[SolutionSAN "Ne4+ Bxe4 Bxe4 Nxe4"]
+[FEN "8/5pp1/1pBkp2p/1Pn5/2P2P2/3bK1N1/6PP/8 w - - 1 38"]
+[SetUp "1"]
+
+38. Ne4+ Bxe4 39. Bxe4 Nxe4 *

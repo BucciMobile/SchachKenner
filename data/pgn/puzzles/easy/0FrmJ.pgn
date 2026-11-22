@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FrmJ"]
+[Difficulty "easy"]
+[Rating "1082"]
+[Themes "opening"]
+[GameUrl "https://lichess.org/game/Y8bJzlYt/black#16"]
+[Solution "d5f3 c4f7"]
+[SolutionSAN "Bxf3 Bxf7#"]
+[FEN "rn1qkb1r/p3nppp/1p6/2pbN3/2B5/5Q2/PPPP1PPP/RNB1R1K1 b kq - 3 8"]
+[SetUp "1"]
+
+8... Bxf3 9. Bxf7# *

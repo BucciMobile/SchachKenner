@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05ARU"]
+[Difficulty "hard"]
+[Rating "2224"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/Nohqyuhr#29"]
+[Solution "b5c6 e4c6 c1b1 c6e4"]
+[SolutionSAN "Bxc6 Qxc6+ Kb1 Qe4+"]
+[FEN "2kr3r/ppp2ppp/2n5/1B6/1b1pq1P1/1Q2BN2/PP4PP/2KR3R w - - 0 15"]
+[SetUp "1"]
+
+15. Bxc6 Qxc6+ 16. Kb1 Qe4+ *

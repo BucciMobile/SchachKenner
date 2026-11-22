@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07obX"]
+[Difficulty "medium"]
+[Rating "1574"]
+[Themes "advancedPawn crushing endgame short"]
+[GameUrl "https://lichess.org/game/fMflClQR/black#58"]
+[Solution "d7d8 a5a6 d8c7 a6a7"]
+[SolutionSAN "Kd8 a6 Kc7 a7"]
+[FEN "8/3k1n1p/3p2p1/P1p5/8/2P4P/2r3P1/R3B2K b - - 0 29"]
+[SetUp "1"]
+
+29... Kd8 30. a6 Kc7 31. a7 *

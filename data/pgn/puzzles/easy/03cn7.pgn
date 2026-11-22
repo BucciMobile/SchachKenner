@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03cn7"]
+[Difficulty "easy"]
+[Rating "747"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/GRDeqLv6#59"]
+[Solution "a1b1 e4d2 f3e2 d2b1"]
+[SolutionSAN "Rb1 Nd2+ Ke2 Nxb1"]
+[FEN "3r4/pp3B1p/2pB2pk/2P2p2/4nP1P/P3PK2/5P2/R7 w - - 0 30"]
+[SetUp "1"]
+
+30. Rb1 Nd2+ 31. Ke2 Nxb1 *

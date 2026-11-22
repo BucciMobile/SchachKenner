@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09TUl"]
+[Difficulty "hard"]
+[Rating "2159"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/7NeFElXg/black#28"]
+[Solution "c6d4 e3d4 f6d4 a1d1"]
+[SolutionSAN "Nxd4 Bxd4 Bxd4 Rad1"]
+[FEN "r1bq1rk1/p4ppp/1pn1pb2/8/2BP4/1P2BN2/P1Q2PPP/R4RK1 b - - 4 14"]
+[SetUp "1"]
+
+14... Nxd4 15. Bxd4 Bxd4 16. Rad1 *

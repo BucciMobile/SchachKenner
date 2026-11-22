@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08chK"]
+[Difficulty "medium"]
+[Rating "1307"]
+[Themes "crushing endgame fork queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/TqVj6aof/black#108"]
+[Solution "c4d3 e6b3 d3e4 b3a4"]
+[SolutionSAN "Kd3 Qb3+ Ke4 Qxa4"]
+[FEN "8/8/4Q3/8/r1kp3P/8/5r2/3K4 b - - 9 54"]
+[SetUp "1"]
+
+54... Kd3 55. Qb3+ Ke4 56. Qxa4 *

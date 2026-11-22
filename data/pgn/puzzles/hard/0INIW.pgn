@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0INIW"]
+[Difficulty "hard"]
+[Rating "2543"]
+[Themes "advancedPawn advantage endgame long promotion"]
+[GameUrl "https://lichess.org/game/FsU25WHC/black#76"]
+[Solution "f4e6 b6b7 g8f7 a8f8 e6f8 b7b8q"]
+[SolutionSAN "Ne6 b7 Kf7 Qxf8+ Nxf8 b8=Q"]
+[FEN "Q4bk1/7p/1P4p1/4p3/P3PnK1/2r4P/8/8 b - - 0 38"]
+[SetUp "1"]
+
+38... Ne6 39. b7 Kf7 40. Qxf8+ Nxf8 41. b8=Q *

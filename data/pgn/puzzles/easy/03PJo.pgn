@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03PJo"]
+[Difficulty "easy"]
+[Rating "572"]
+[Themes "doubleBishopMate hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/mLCRksH4/black#34"]
+[Solution "d6e6 c4e6"]
+[SolutionSAN "Qxe6 Bxe6#"]
+[FEN "5bkr/pb4pp/1p1qR3/2p5/2B5/2PP4/P1P2PPP/1RBK4 b - - 0 17"]
+[SetUp "1"]
+
+17... Qxe6 18. Bxe6# *

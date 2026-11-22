@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DKNQ"]
+[Difficulty "medium"]
+[Rating "1405"]
+[Themes "advantage endgame master masterVsMaster pin short"]
+[GameUrl "https://lichess.org/game/3mjkB6eK#99"]
+[Solution "c7c6 f3f6 e6d7 c4b5"]
+[SolutionSAN "Rc6 Rf6+ Kd7 Bb5"]
+[FEN "8/2R5/1B2K1k1/P2p3p/2bP4/P4rP1/7P/8 w - - 1 50"]
+[SetUp "1"]
+
+50. Rc6 Rf6+ 51. Kd7 Bb5 *

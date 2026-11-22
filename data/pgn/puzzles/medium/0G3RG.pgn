@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G3RG"]
+[Difficulty "medium"]
+[Rating "1234"]
+[Themes "advantage endgame short skewer"]
+[GameUrl "https://lichess.org/game/kIhwDp3w/black#106"]
+[Solution "g4f3 g8g3 f3e4 g3b3"]
+[SolutionSAN "Kf3 Rg3+ Ke4 Rxb3"]
+[FEN "6R1/8/p1p5/1b5p/6k1/1r6/5B2/6K1 b - - 5 53"]
+[SetUp "1"]
+
+53... Kf3 54. Rg3+ Ke4 55. Rxb3 *

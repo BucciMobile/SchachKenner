@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06AKE"]
+[Difficulty "medium"]
+[Rating "1290"]
+[Themes "advancedPawn endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/z0KUYnK4/black#68"]
+[Solution "d6g3 h6h7"]
+[SolutionSAN "Qxg3 h7#"]
+[FEN "5bk1/1p1Q4/r2qpB1P/2p5/p1P5/1P4RP/P5P1/6K1 b - - 0 34"]
+[SetUp "1"]
+
+34... Qxg3 35. h7# *

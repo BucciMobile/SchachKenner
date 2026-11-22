@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H9zr"]
+[Difficulty "hard"]
+[Rating "1954"]
+[Themes "crushing endgame quietMove rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/nXNmADS1#81"]
+[Solution "c5e5 e6e5 e4e5 a6a5 c3c4 a5a4 b3a4 b5a4"]
+[SolutionSAN "Re5 Rxe5+ Kxe5 a5 c4 a4 bxa4 bxa4"]
+[FEN "8/5k2/p1p1r2p/1pR3p1/3PK1P1/1PP4P/2P5/8 w - - 2 41"]
+[SetUp "1"]
+
+41. Re5 Rxe5+ 42. Kxe5 a5 43. c4 a4 44. bxa4 bxa4 *

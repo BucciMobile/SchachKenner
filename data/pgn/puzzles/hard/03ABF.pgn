@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03ABF"]
+[Difficulty "hard"]
+[Rating "2623"]
+[Themes "advantage endgame master quietMove veryLong"]
+[GameUrl "https://lichess.org/game/qoIUosRK#61"]
+[Solution "e3e4 d5c3 e2e1 c1d2 e1a1 c3e2 g1h1 d2c1 a1c1 e2c1"]
+[SolutionSAN "e4 Nc3 Re1 Bd2 Ra1 Ne2+ Kh1 Bc1 Rxc1 Nxc1"]
+[FEN "5r1k/6p1/6B1/pp1n4/8/4P1B1/P3R1PP/2b3K1 w - - 1 31"]
+[SetUp "1"]
+
+31. e4 Nc3 32. Re1 Bd2 33. Ra1 Ne2+ 34. Kh1 Bc1 35. Rxc1 Nxc1 *

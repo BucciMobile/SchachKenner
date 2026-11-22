@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "001om"]
+[Difficulty "easy"]
+[Rating "1016"]
+[Themes "mate mateIn2 middlegame morphysMate short"]
+[GameUrl "https://lichess.org/game/VWOIWtIh#51"]
+[Solution "g4h4 c5f2 g2g3 f2g3"]
+[SolutionSAN "Kh4 Bf2+ g3 Bxg3#"]
+[FEN "5r1k/pp4pp/5p2/1BbQp1r1/6K1/7P/1PP3P1/3R3R w - - 2 26"]
+[SetUp "1"]
+
+26. Kh4 Bf2+ 27. g3 Bxg3# *

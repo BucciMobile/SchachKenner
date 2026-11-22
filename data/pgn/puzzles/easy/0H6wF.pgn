@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H6wF"]
+[Difficulty "easy"]
+[Rating "822"]
+[Themes "crushing endgame master short skewer"]
+[GameUrl "https://lichess.org/game/qdrgJJ5T#111"]
+[Solution "e6e8 c1e1 e3d2 e1e8"]
+[SolutionSAN "Re8 Re1+ Kd2 Rxe8"]
+[FEN "8/8/4R3/3k4/2p3B1/3pK2P/8/2r5 w - - 3 56"]
+[SetUp "1"]
+
+56. Re8 Re1+ 57. Kd2 Rxe8 *

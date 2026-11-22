@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Cz4W"]
+[Difficulty "medium"]
+[Rating "1518"]
+[Themes "crushing endgame exposedKing hangingPiece long"]
+[GameUrl "https://lichess.org/game/0RI2tRTQ/black#62"]
+[Solution "f8a3 f6h8 b7c8 h8c8 b8c8 b2a3"]
+[SolutionSAN "Bxa3 Qxh8+ Qc8 Qxc8+ Kxc8 bxa3"]
+[FEN "1k3b1r/1qr4p/5Qp1/3P4/8/R4P2/1PP3PP/3R2K1 b - - 0 31"]
+[SetUp "1"]
+
+31... Bxa3 32. Qxh8+ Qc8 33. Qxc8+ Kxc8 34. bxa3 *

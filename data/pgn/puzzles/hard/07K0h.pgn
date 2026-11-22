@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07K0h"]
+[Difficulty "hard"]
+[Rating "2145"]
+[Themes "advancedPawn crushing endgame fork promotion rookEndgame veryLong"]
+[GameUrl "https://lichess.org/game/N1cr294k#77"]
+[Solution "h6h7 b3b2 f1g2 b2b1q h7h8q b1e4 g2g3 a2a3 g3h2 e4f4 h2g2 f4g5"]
+[SolutionSAN "h7 b2 Kg2 b1=Q h8=Q Qe4+ Kg3 Ra3+ Kh2 Qf4+ Kg2 Qxg5"]
+[FEN "8/8/2p4P/6R1/2k3P1/1p6/r4P2/5K2 w - - 0 39"]
+[SetUp "1"]
+
+39. h7 b2 40. Kg2 b1=Q 41. h8=Q Qe4+ 42. Kg3 Ra3+ 43. Kh2 Qf4+ 44. Kg2 Qxg5 *

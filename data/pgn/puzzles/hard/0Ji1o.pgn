@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ji1o"]
+[Difficulty "hard"]
+[Rating "1864"]
+[Themes "attackingF2F7 crushing fork master middlegame short"]
+[GameUrl "https://lichess.org/game/Gie7RWvR#43"]
+[Solution "e3f5 d4f2 e1d1 f2f5"]
+[SolutionSAN "Nxf5 Qxf2+ Kd1 Qxf5"]
+[FEN "2b3k1/p3b1pp/4p3/1p3pP1/1P1qn2P/PQ2N3/4BP2/4K2R w K - 0 22"]
+[SetUp "1"]
+
+22. Nxf5 Qxf2+ 23. Kd1 Qxf5 *

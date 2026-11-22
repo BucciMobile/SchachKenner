@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Qzg"]
+[Difficulty "easy"]
+[Rating "801"]
+[Themes "cornerMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/PzbR9Al0#59"]
+[Solution "g1h1 h5g3"]
+[SolutionSAN "Kh1 Ng3#"]
+[FEN "7R/1pk2Np1/1pp4p/2b4n/4P1P1/1PP5/1r6/4R1K1 w - - 1 30"]
+[SetUp "1"]
+
+30. Kh1 Ng3# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BJww"]
+[Difficulty "medium"]
+[Rating "1313"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/FhhVDtv7/black#82"]
+[Solution "d4f3 d6d7 g7f6 d7f7"]
+[SolutionSAN "Nf3 Rd7+ Kf6 Rf7+"]
+[FEN "4r3/p5k1/1p1R2P1/2p3p1/3n3p/P2B4/5P2/5K2 b - - 5 41"]
+[SetUp "1"]
+
+41... Nf3 42. Rd7+ Kf6 43. Rf7+ *

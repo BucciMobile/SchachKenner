@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0BCru"]
+[Difficulty "hard"]
+[Rating "1807"]
+[Themes "crushing kingsideAttack long opening pin"]
+[GameUrl "https://lichess.org/game/pXA6jiOg#29"]
+[Solution "d2e4 f4h3 g1h1 c8g4 f3h3 g4h3"]
+[SolutionSAN "Ne4 Nxh3+ Kh1 Bg4 Qxh3 Bxh3"]
+[FEN "r1b2rk1/pp3pp1/2pb2qp/8/2B2n2/2PP1Q1P/PP1N1PP1/R1B2RK1 w - - 5 15"]
+[SetUp "1"]
+
+15. Ne4 Nxh3+ 16. Kh1 Bg4 17. Qxh3 Bxh3 *

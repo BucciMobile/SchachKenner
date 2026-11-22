@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LOIz"]
+[Difficulty "medium"]
+[Rating "1237"]
+[Themes "advantage long middlegame"]
+[GameUrl "https://lichess.org/game/o7bDpZTF#35"]
+[Solution "f3e3 f8f2 e3f2 e4f2 e1e8 g8f7"]
+[SolutionSAN "Qe3 Rf2+ Qxf2 Nxf2 Re8+ Kf7"]
+[FEN "rn3rk1/pp4pp/2pq2p1/3p4/4n1P1/2PB1Q1P/PP4K1/RNB1R3 w - - 4 18"]
+[SetUp "1"]
+
+18. Qe3 Rf2+ 19. Qxf2 Nxf2 20. Re8+ Kf7 *

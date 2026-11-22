@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FRQW"]
+[Difficulty "hard"]
+[Rating "2358"]
+[Themes "advantage defensiveMove hangingPiece master middlegame short"]
+[GameUrl "https://lichess.org/game/0kjKz45t#31"]
+[Solution "h1d5 c6d5 c2a4 b8d7"]
+[SolutionSAN "Bxd5 cxd5 Qa4+ Nd7"]
+[FEN "rn2k3/pR3pp1/2p5/b2p4/3P2bq/2P1P3/P1Q1NP2/2B1K2B w q - 1 16"]
+[SetUp "1"]
+
+16. Bxd5 cxd5 17. Qa4+ Nd7 *

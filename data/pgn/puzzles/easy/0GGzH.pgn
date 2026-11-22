@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GGzH"]
+[Difficulty "easy"]
+[Rating "846"]
+[Themes "crushing kingsideAttack opening short"]
+[GameUrl "https://lichess.org/game/92ViLITb#27"]
+[Solution "f1e1 e6e1 d1e1 e8e1"]
+[SolutionSAN "Re1 Qxe1+ Qxe1 Rxe1+"]
+[FEN "rn2r1k1/ppb2ppp/4qn2/2pp4/8/P2P2NP/BPP2PP1/RNBQ1RK1 w - - 3 14"]
+[SetUp "1"]
+
+14. Re1 Qxe1+ 15. Qxe1 Rxe1+ *

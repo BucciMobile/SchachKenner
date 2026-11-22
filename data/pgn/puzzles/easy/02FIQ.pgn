@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02FIQ"]
+[Difficulty "easy"]
+[Rating "1147"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/DdgYThMv#55"]
+[Solution "e1e7 d2d1 g1h2 d1d6 f2f4 d6e7"]
+[SolutionSAN "Re7 Qd1+ Kh2 Qd6+ f4 Qxe7"]
+[FEN "3r2k1/p4ppp/8/8/8/1Q5P/2Pq1PP1/4R1K1 w - - 1 28"]
+[SetUp "1"]
+
+28. Re7 Qd1+ 29. Kh2 Qd6+ 30. f4 Qxe7 *

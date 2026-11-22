@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CjAF"]
+[Difficulty "medium"]
+[Rating "1233"]
+[Themes "advantage discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/TbNHcLzM#25"]
+[Solution "e5d4 d6h2 g1h2 d8d4"]
+[SolutionSAN "Qd4 Bxh2+ Kxh2 Qxd4"]
+[FEN "1r1q1rk1/ppp2ppp/3bb3/4Q3/4N3/3P4/PPP2PPP/R1B2RK1 w - - 1 13"]
+[SetUp "1"]
+
+13. Qd4 Bxh2+ 14. Kxh2 Qxd4 *

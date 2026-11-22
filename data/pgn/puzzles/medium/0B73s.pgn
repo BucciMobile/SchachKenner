@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B73s"]
+[Difficulty "medium"]
+[Rating "1631"]
+[Themes "advantage endgame pawnEndgame quietMove short"]
+[GameUrl "https://lichess.org/game/n6kVnlmR#69"]
+[Solution "a4a5 a7a6 b4b5 a6b5"]
+[SolutionSAN "a5 a6 b5+ axb5+"]
+[FEN "8/p6p/2k1p3/4Ppp1/PPK5/8/6PP/8 w - - 0 35"]
+[SetUp "1"]
+
+35. a5 a6 36. b5+ axb5+ *

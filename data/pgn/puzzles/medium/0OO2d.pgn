@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OO2d"]
+[Difficulty "medium"]
+[Rating "1225"]
+[Themes "kingsideAttack mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/HyV9w6Pp/black#28"]
+[Solution "f4d3 g4g7"]
+[SolutionSAN "Nxd3 Qxg7#"]
+[FEN "r2q1rk1/pppb1pp1/2nb3p/5N2/5nQ1/3B4/PPP2PPP/RNB2RK1 b - - 4 14"]
+[SetUp "1"]
+
+14... Nxd3 15. Qxg7# *

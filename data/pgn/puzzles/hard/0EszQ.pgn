@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EszQ"]
+[Difficulty "hard"]
+[Rating "1947"]
+[Themes "advancedPawn clearance crushing discoveredAttack discoveredCheck endgame long quietMove rookEndgame"]
+[GameUrl "https://lichess.org/game/TKKentKw/black#76"]
+[Solution "c2h2 c5c6 f5e6 a5c5 e6d6 c6c7"]
+[SolutionSAN "Rxh2 c6+ Ke6 Rc5 Kd6 c7"]
+[FEN "8/6pp/5p2/R1P2k2/4pP2/4K1P1/2r4P/8 b - - 2 38"]
+[SetUp "1"]
+
+38... Rxh2 39. c6+ Ke6 40. Rc5 Kd6 41. c7 *

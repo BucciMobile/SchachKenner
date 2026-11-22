@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jrpo"]
+[Difficulty "easy"]
+[Rating "861"]
+[Themes "crushing endgame master pawnEndgame short zugzwang"]
+[GameUrl "https://lichess.org/game/cokK7Qv1/black#120"]
+[Solution "e4f3 g5h4 f3e4 h4g4"]
+[SolutionSAN "Kf3 Kh4 Ke4 Kxg4"]
+[FEN "8/8/p7/1p4K1/1P2k1p1/1P4P1/8/8 b - - 5 60"]
+[SetUp "1"]
+
+60... Kf3 61. Kh4 Ke4 62. Kxg4 *

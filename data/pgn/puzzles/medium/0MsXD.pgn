@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MsXD"]
+[Difficulty "medium"]
+[Rating "1429"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/RsApdjSZ/black#28"]
+[Solution "g7f8 e4f6"]
+[SolutionSAN "Bf8 Nf6#"]
+[FEN "r2nk2r/1p1b1pbp/p3p3/2B5/2p1N3/5N2/PP3PPP/2R1K2R b Kkq - 3 14"]
+[SetUp "1"]
+
+14... Bf8 15. Nf6# *

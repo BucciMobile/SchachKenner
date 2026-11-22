@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "002HE"]
+[Difficulty "easy"]
+[Rating "1119"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/U21EXYdv#39"]
+[Solution "g1f2 b8g3"]
+[SolutionSAN "Kf2 Qg3#"]
+[FEN "1qr2rk1/1p1p1ppp/pB2p1n1/7n/2P1P3/1Q2NP1P/PP2B1Pb/3R1RK1 w - - 1 20"]
+[SetUp "1"]
+
+20. Kf2 Qg3# *

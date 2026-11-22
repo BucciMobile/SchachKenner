@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MVhE"]
+[Difficulty "medium"]
+[Rating "1270"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/ryc4q22X#41"]
+[Solution "f3e2 c7h2"]
+[SolutionSAN "Bxe2 Qxh2#"]
+[FEN "1b3rk1/2q2ppp/4p3/n7/1PPP4/P4B2/4nPPP/RNB2RK1 w - - 1 21"]
+[SetUp "1"]
+
+21. Bxe2 Qxh2# *

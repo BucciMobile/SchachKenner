@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02G1F"]
+[Difficulty "easy"]
+[Rating "437"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/KJYrvKZI/black#34"]
+[Solution "a8e8 e1e8"]
+[SolutionSAN "Rxe8 Rxe8#"]
+[FEN "r3Q1k1/pq3ppp/2p5/2pb2N1/8/6P1/PP1P1P1P/R1B1R1K1 b - - 0 17"]
+[SetUp "1"]
+
+17... Rxe8 18. Rxe8# *

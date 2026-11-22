@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04MDt"]
+[Difficulty "medium"]
+[Rating "1454"]
+[Themes "crushing endgame master pin short"]
+[GameUrl "https://lichess.org/game/i6Z7MF3V#97"]
+[Solution "e3d4 c6d6 d2e3 d6d4"]
+[SolutionSAN "Bd4 Rd6 Ke3 Rxd4"]
+[FEN "8/5R2/p1r2bp1/5k1p/5P1P/4B1P1/3K4/8 w - - 2 49"]
+[SetUp "1"]
+
+49. Bd4 Rd6 50. Ke3 Rxd4 *

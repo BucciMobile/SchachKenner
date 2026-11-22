@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G7zQ"]
+[Difficulty "easy"]
+[Rating "769"]
+[Themes "advantage endgame hangingPiece long"]
+[GameUrl "https://lichess.org/game/SgiQHrX1#65"]
+[Solution "h1h7 g7h7 g3h3 h7g7 e7f8 g7f8"]
+[SolutionSAN "Rh7+ Kxh7 Rh3+ Kg7 Qxf8+ Kxf8"]
+[FEN "5r2/1p2Qpk1/4p1p1/3p4/2p2P2/2PnP1R1/rp6/1K5R w - - 0 33"]
+[SetUp "1"]
+
+33. Rh7+ Kxh7 34. Rh3+ Kg7 35. Qxf8+ Kxf8 *

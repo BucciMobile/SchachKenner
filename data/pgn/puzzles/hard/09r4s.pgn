@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09r4s"]
+[Difficulty "hard"]
+[Rating "2091"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/YACT4rVe/black#64"]
+[Solution "b2g2 e6e8 g2g1 f1g1"]
+[SolutionSAN "Rxg2 Re8 Rg1+ Rxg1"]
+[FEN "5rk1/5p1p/4R1p1/1p4q1/8/1P3Q1P/1r4P1/5R1K b - - 0 32"]
+[SetUp "1"]
+
+32... Rxg2 33. Re8 Rg1+ 34. Rxg1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02ccm"]
+[Difficulty "easy"]
+[Rating "1129"]
+[Themes "crushing defensiveMove endgame long zugzwang"]
+[GameUrl "https://lichess.org/game/aoIiywfA/black#94"]
+[Solution "a6a3 b3a3 e6d7 a3b4 d7c6 b4c4"]
+[SolutionSAN "Rxa3+ Kxa3 Kd7 Kb4 Kc6 Kc4"]
+[FEN "8/8/r3k2p/4p1p1/4P1P1/RK3P1P/8/8 b - - 0 47"]
+[SetUp "1"]
+
+47... Rxa3+ 48. Kxa3 Kd7 49. Kb4 Kc6 50. Kc4 *

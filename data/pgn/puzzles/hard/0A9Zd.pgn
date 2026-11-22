@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A9Zd"]
+[Difficulty "hard"]
+[Rating "1811"]
+[Themes "attraction mate mateIn2 middlegame operaMate pillsburysMate queensideAttack sacrifice short"]
+[GameUrl "https://lichess.org/game/f5bYCUXS/black#48"]
+[Solution "d6e5 a8b8 c8b8 a1a8"]
+[SolutionSAN "dxe5 Qxb8+ Kxb8 Ra8#"]
+[FEN "Qnk4r/3r3q/1B1pbn1b/1P2P3/2P3p1/6P1/3NK1BP/R6R b - - 0 24"]
+[SetUp "1"]
+
+24... dxe5 25. Qxb8+ Kxb8 26. Ra8# *

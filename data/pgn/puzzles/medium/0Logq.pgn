@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Logq"]
+[Difficulty "medium"]
+[Rating "1396"]
+[Themes "advantage attraction clearance kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/ZFN2DKKM#35"]
+[Solution "b7e4 f8f1 g1f1 d8d1 e4e1 a8f8"]
+[SolutionSAN "Qxe4 Rxf1+ Kxf1 Qd1+ Qe1 Rf8+"]
+[FEN "r2q1rk1/pQp1n1p1/7p/4P3/4n3/2P5/P1P3PP/R1B2RK1 w - - 1 18"]
+[SetUp "1"]
+
+18. Qxe4 Rxf1+ 19. Kxf1 Qd1+ 20. Qe1 Rf8+ *

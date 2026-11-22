@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05UlY"]
+[Difficulty "hard"]
+[Rating "2357"]
+[Themes "advantage defensiveMove master middlegame short"]
+[GameUrl "https://lichess.org/game/GAaDtGTl#33"]
+[Solution "a5b6 d4d1 f1d1 a7a6"]
+[SolutionSAN "axb6 Rxd1 Rfxd1 a6"]
+[FEN "2k4r/ppp3p1/1n2pq1p/P4b2/2Pr4/2N5/1P2B1PP/R2Q1RK1 w - - 0 17"]
+[SetUp "1"]
+
+17. axb6 Rxd1 18. Rfxd1 a6 *

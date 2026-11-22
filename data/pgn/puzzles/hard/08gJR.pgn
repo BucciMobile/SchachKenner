@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08gJR"]
+[Difficulty "hard"]
+[Rating "2269"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/wOmAMzo4#53"]
+[Solution "b1a1 d5f4 b2c3 f4e2"]
+[SolutionSAN "Ka1 Nf4 bxc3 Nxe2"]
+[FEN "2r4k/pp1b3p/4p1pP/3nP3/1q1P4/2p2NR1/PP2Q1P1/1KR5 w - - 2 27"]
+[SetUp "1"]
+
+27. Ka1 Nf4 28. bxc3 Nxe2 *

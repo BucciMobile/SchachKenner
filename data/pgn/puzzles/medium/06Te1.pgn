@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06Te1"]
+[Difficulty "medium"]
+[Rating "1256"]
+[Themes "crushing discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/Itvcck3R/black#64"]
+[Solution "b4c5 d5f7 f8f7 d7d2"]
+[SolutionSAN "Bc5 Bxf7+ Rxf7 Qxd2"]
+[FEN "5rk1/3Q1ppp/8/p2B4/1b6/4P2P/3q1PKP/6R1 b - - 7 32"]
+[SetUp "1"]
+
+32... Bc5 33. Bxf7+ Rxf7 34. Qxd2 *

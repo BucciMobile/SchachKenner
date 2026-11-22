@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KGyx"]
+[Difficulty "hard"]
+[Rating "1751"]
+[Themes "advantage exposedKing fork long middlegame pin"]
+[GameUrl "https://lichess.org/game/yUDCcptN#43"]
+[Solution "c1g5 b6b2 g4e2 b2e2 h5e2 f6g6"]
+[SolutionSAN "Bg5 Qxb2+ Qe2 Qxe2+ Bxe2 Rg6"]
+[FEN "r4k2/pp6/1qpp1r2/7B/2PPp1Q1/8/PP4K1/R1B5 w - - 2 22"]
+[SetUp "1"]
+
+22. Bg5 Qxb2+ 23. Qe2 Qxe2+ 24. Bxe2 Rg6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IkBm"]
+[Difficulty "easy"]
+[Rating "998"]
+[Themes "hangingPiece mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/XtpdvO6l#65"]
+[Solution "g2h4 h6h4 h1g1 h4h2"]
+[SolutionSAN "Nh4 Qxh4+ Kg1 Qh2#"]
+[FEN "2b2n1k/1p3Q1p/7q/p2B4/P5p1/6p1/1P4N1/5R1K w - - 4 33"]
+[SetUp "1"]
+
+33. Nh4 Qxh4+ 34. Kg1 Qh2# *

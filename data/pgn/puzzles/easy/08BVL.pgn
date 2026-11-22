@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08BVL"]
+[Difficulty "easy"]
+[Rating "664"]
+[Themes "advantage endgame queenRookEndgame short"]
+[GameUrl "https://lichess.org/game/DKTZT3mm#65"]
+[Solution "f2f6 g5f6 f1f6 e6f6"]
+[SolutionSAN "Rf6+ Qxf6 Rxf6+ Kxf6"]
+[FEN "8/8/2p1k2p/p2p2q1/8/1P5P/P4RP1/5R1K w - - 0 33"]
+[SetUp "1"]
+
+33. Rf6+ Qxf6 34. Rxf6+ Kxf6 *

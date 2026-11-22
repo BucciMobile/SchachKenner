@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07KzR"]
+[Difficulty "hard"]
+[Rating "2116"]
+[Themes "clearance crushing defensiveMove endgame veryLong"]
+[GameUrl "https://lichess.org/game/xq1qs7vR#57"]
+[Solution "f5f7 f8f7 e7e8 g8h7 f3e4 g7g6 e4e5 f7g7"]
+[SolutionSAN "Rfxf7 Rxf7 Re8+ Kh7 Qe4+ g6 Qe5 Rg7"]
+[FEN "5rk1/bp2Rpp1/p6p/5R2/8/1q1P1Q1P/1P3PP1/6K1 w - - 0 29"]
+[SetUp "1"]
+
+29. Rfxf7 Rxf7 30. Re8+ Kh7 31. Qe4+ g6 32. Qe5 Rg7 *

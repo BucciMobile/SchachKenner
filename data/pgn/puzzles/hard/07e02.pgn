@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07e02"]
+[Difficulty "hard"]
+[Rating "2269"]
+[Themes "advantage attraction fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/EgLGojnJ#65"]
+[Solution "e2f3 h3g2 h1g2 e6f4 g2h1 f4g6"]
+[SolutionSAN "exf3 Bg2+ Kxg2 Nf4+ Kh1 Nxg6"]
+[FEN "2q2r2/3kp3/p1ppn1Q1/N1P3b1/1P6/5p1b/PB2P2P/1R1R3K w - - 0 33"]
+[SetUp "1"]
+
+33. exf3 Bg2+ 34. Kxg2 Nf4+ 35. Kh1 Nxg6 *

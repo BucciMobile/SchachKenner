@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05qwL"]
+[Difficulty "medium"]
+[Rating "1640"]
+[Themes "advantage master middlegame short"]
+[GameUrl "https://lichess.org/game/croTNygb#41"]
+[Solution "d1d6 d8d6 f4d6 f6e8"]
+[SolutionSAN "Qxd6 Qxd6 Bxd6 Ne8"]
+[FEN "2rq2k1/1b4bp/pp1ppnp1/8/P1P2B2/1PN4P/5PP1/1R1Q1BK1 w - - 0 21"]
+[SetUp "1"]
+
+21. Qxd6 Qxd6 22. Bxd6 Ne8 *

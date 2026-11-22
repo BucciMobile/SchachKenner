@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AwdP"]
+[Difficulty "hard"]
+[Rating "1893"]
+[Themes "advancedPawn crushing endgame master short"]
+[GameUrl "https://lichess.org/game/C8wFLBVZ/black#88"]
+[Solution "f4h4 h7h4 e7h4 g6g7"]
+[SolutionSAN "Qxh4+ Qxh4 Bxh4 g7"]
+[FEN "8/1p1kb2Q/p3p1P1/8/3p1q1B/7K/8/8 b - - 5 44"]
+[SetUp "1"]
+
+44... Qxh4+ 45. Qxh4 Bxh4 46. g7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06ugD"]
+[Difficulty "medium"]
+[Rating "1342"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/l3tiIHeS/black#34"]
+[Solution "d8h4 c4e5 d7c8 f7e6"]
+[SolutionSAN "Qh4 Ne5+ Kc8 Be6#"]
+[FEN "r2q2nr/ppBk1Bpp/8/2pN4/2NpP3/8/PPb2PPP/R3K2R b KQ - 1 17"]
+[SetUp "1"]
+
+17... Qh4 18. Ne5+ Kc8 19. Be6# *

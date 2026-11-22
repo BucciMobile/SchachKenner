@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Luif"]
+[Difficulty "medium"]
+[Rating "1393"]
+[Themes "crushing deflection endgame long queensideAttack sacrifice"]
+[GameUrl "https://lichess.org/game/sIDa0P6Y/black#44"]
+[Solution "e8e7 b1b6 a7b6 c6b6 d7b7 b6d8"]
+[SolutionSAN "Re7 Rxb6+ axb6 Qxb6+ Qb7 Qxd8+"]
+[FEN "1k1rr3/p2q2pp/1pQ1p3/4P3/8/8/P4PPP/1RR3K1 b - - 4 22"]
+[SetUp "1"]
+
+22... Re7 23. Rxb6+ axb6 24. Qxb6+ Qb7 25. Qxd8+ *

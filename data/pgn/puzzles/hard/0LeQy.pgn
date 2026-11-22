@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LeQy"]
+[Difficulty "hard"]
+[Rating "2774"]
+[Themes "crushing kingsideAttack master middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/OWzgUCy2/black#42"]
+[Solution "h3g4 h1h6 h8g8 c1f4 g4f3 e2f3 g7h6 f4h6 a5b6 a1g1"]
+[SolutionSAN "Bg4 Rxh6+ Kg8 Qf4 Bxf3+ Kxf3 gxh6 Qxh6 Qb6 Rg1+"]
+[FEN "r4r1k/pp2bpp1/7p/q3P3/3pP3/3B1N1b/PP2KP2/R1Q4R b - - 9 21"]
+[SetUp "1"]
+
+21... Bg4 22. Rxh6+ Kg8 23. Qf4 Bxf3+ 24. Kxf3 gxh6 25. Qxh6 Qb6 26. Rg1+ *

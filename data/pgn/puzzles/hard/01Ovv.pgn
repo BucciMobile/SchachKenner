@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Ovv"]
+[Difficulty "hard"]
+[Rating "1717"]
+[Themes "advantage endgame veryLong"]
+[GameUrl "https://lichess.org/game/kwsNUNzr#61"]
+[Solution "a4a8 d8a8 a2b2 e7a7 b5b4 a7a2 b2c3 a8c8"]
+[SolutionSAN "Rxa8 Rxa8+ Kb2 Qa7 Qxb4 Qa2+ Kc3 Rc8+"]
+[FEN "r2r2k1/4qppp/8/1Q6/Rp1P4/1P4P1/K1P4P/5R2 w - - 0 31"]
+[SetUp "1"]
+
+31. Rxa8 Rxa8+ 32. Kb2 Qa7 33. Qxb4 Qa2+ 34. Kc3 Rc8+ *

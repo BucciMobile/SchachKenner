@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K2m2"]
+[Difficulty "hard"]
+[Rating "1922"]
+[Themes "endgame equality short"]
+[GameUrl "https://lichess.org/game/ZmcU2UUf#125"]
+[Solution "e3f2 a4a2 f2f1 a2a1"]
+[SolutionSAN "Kf2 Ra2+ Kf1 Ra1+"]
+[FEN "8/8/5N2/8/r2p4/4KP1k/8/6R1 w - - 0 63"]
+[SetUp "1"]
+
+63. Kf2 Ra2+ 64. Kf1 Ra1+ *

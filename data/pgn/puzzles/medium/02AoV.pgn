@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02AoV"]
+[Difficulty "medium"]
+[Rating "1688"]
+[Themes "advancedPawn crushing deflection endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/iivBO1u5/black#84"]
+[Solution "c3d4 a5a6 b7a6 b5c6 d4c5 c6c7"]
+[SolutionSAN "Kxd4 a6 bxa6 bxc6 Kc5 c7"]
+[FEN "8/pp6/2p5/PP3pp1/3P3p/2k1p2P/7P/4K3 b - - 0 42"]
+[SetUp "1"]
+
+42... Kxd4 43. a6 bxa6 44. bxc6 Kc5 45. c7 *

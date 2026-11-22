@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02LLO"]
+[Difficulty "medium"]
+[Rating "1301"]
+[Themes "advantage discoveredAttack endgame pin short"]
+[GameUrl "https://lichess.org/game/FFyGxScT#69"]
+[Solution "d2d1 d5c3 c2c3 d7d4"]
+[SolutionSAN "Kxd1 Nc3+ Rxc3 Qxd4+"]
+[FEN "6k1/3q1p1p/6p1/3nN3/3Q4/P7/2RK1PPP/3r4 w - - 8 35"]
+[SetUp "1"]
+
+35. Kxd1 Nc3+ 36. Rxc3 Qxd4+ *

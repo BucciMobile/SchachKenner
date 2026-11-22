@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DQAL"]
+[Difficulty "hard"]
+[Rating "2238"]
+[Themes "clearance crushing endgame veryLong"]
+[GameUrl "https://lichess.org/game/3aSPUW24/black#64"]
+[Solution "f8f6 b7c8 f6f8 c8e6 g8h8 e6f7 f8g8 e1e8 c2c1 h1h2 c1f4 f7f4"]
+[SolutionSAN "Rxf6 Qc8+ Rf8 Qe6+ Kh8 Qf7 Rg8 Re8 Qc1+ Kh2 Qf4+ Qxf4"]
+[FEN "5rk1/1Q4pp/p1p2B2/3p4/8/1P5P/P1q3P1/4R2K b - - 0 32"]
+[SetUp "1"]
+
+32... Rxf6 33. Qc8+ Rf8 34. Qe6+ Kh8 35. Qf7 Rg8 36. Re8 Qc1+ 37. Kh2 Qf4+ 38. Qxf4 *

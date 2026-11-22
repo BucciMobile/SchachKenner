@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04Ciw"]
+[Difficulty "medium"]
+[Rating "1431"]
+[Themes "advantage deflection endgame short"]
+[GameUrl "https://lichess.org/game/k33u1ocL/black#60"]
+[Solution "c6d4 d7d5 c5c6 d5d4"]
+[SolutionSAN "Nd4 Rd5+ Kc6 Rxd4"]
+[FEN "8/pp1R2pp/2n2p2/2k5/5P2/1B5P/Pr4P1/6K1 b - - 2 30"]
+[SetUp "1"]
+
+30... Nd4 31. Rd5+ Kc6 32. Rxd4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "067bD"]
+[Difficulty "hard"]
+[Rating "2750"]
+[Themes "advantage master middlegame skewer veryLong"]
+[GameUrl "https://lichess.org/game/3exqrhZT#57"]
+[Solution "c3e5 e6f5 e4d4 f5d3 c2d3 f7e6 d4e4 g6e5"]
+[SolutionSAN "Bxe5 Bf5 Qd4 Bxd3 cxd3 Qe6 Qe4 Nxe5"]
+[FEN "4r1k1/1p3qpp/p3b1n1/4p3/4Qp2/P1BR4/1PP2PPP/4R1K1 w - - 2 29"]
+[SetUp "1"]
+
+29. Bxe5 Bf5 30. Qd4 Bxd3 31. cxd3 Qe6 32. Qe4 Nxe5 *

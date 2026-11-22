@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01ddN"]
+[Difficulty "medium"]
+[Rating "1392"]
+[Themes "crushing endgame intermezzo short"]
+[GameUrl "https://lichess.org/game/QomdO44o/black#86"]
+[Solution "c4b4 h4h5 g6f5 b7b4"]
+[SolutionSAN "Rxb4 h5+ Kf5 Rxb4"]
+[FEN "8/1R5R/5bk1/8/1Br4P/4r1PK/8/8 b - - 2 43"]
+[SetUp "1"]
+
+43... Rxb4 44. h5+ Kf5 45. Rxb4 *

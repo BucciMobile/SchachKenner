@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09goD"]
+[Difficulty "medium"]
+[Rating "1393"]
+[Themes "crushing endgame short zugzwang"]
+[GameUrl "https://lichess.org/game/fyXIR1tR/black#116"]
+[Solution "d5c4 d3c4 d6e6 c4c5"]
+[SolutionSAN "Bxc4+ Kxc4 Ke6 Kxc5"]
+[FEN "8/6p1/3k1p2/2pb3P/2B2PP1/3K4/8/8 b - - 2 58"]
+[SetUp "1"]
+
+58... Bxc4+ 59. Kxc4 Ke6 60. Kxc5 *

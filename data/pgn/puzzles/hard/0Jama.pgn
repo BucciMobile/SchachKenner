@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Jama"]
+[Difficulty "hard"]
+[Rating "2395"]
+[Themes "advantage bishopEndgame endgame long master"]
+[GameUrl "https://lichess.org/game/OtuqAfo5/black#84"]
+[Solution "a3b2 e3f4 g5f4 e6d5 d3f1 f3e4"]
+[SolutionSAN "Kb2 exf4 gxf4 Bd5 Bf1 fxe4"]
+[FEN "8/8/4B2p/p1p3p1/P3pp2/kPPbPP2/3K3P/8 b - - 0 42"]
+[SetUp "1"]
+
+42... Kb2 43. exf4 gxf4 44. Bd5 Bf1 45. fxe4 *

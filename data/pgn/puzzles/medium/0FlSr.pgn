@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FlSr"]
+[Difficulty "medium"]
+[Rating "1212"]
+[Themes "crushing endgame long skewer"]
+[GameUrl "https://lichess.org/game/u6VpBKzJ#45"]
+[Solution "a2a4 c7b6 g1f1 h8h1 f1e2 h1a1"]
+[SolutionSAN "a4 Qb6+ Kf1 Rh1+ Ke2 Rxa1"]
+[FEN "2kr3r/ppq2pQ1/3p4/4pP2/1P2P3/2P3R1/P5P1/R5K1 w - - 1 23"]
+[SetUp "1"]
+
+23. a4 Qb6+ 24. Kf1 Rh1+ 25. Ke2 Rxa1 *

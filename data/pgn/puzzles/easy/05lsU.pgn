@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05lsU"]
+[Difficulty "easy"]
+[Rating "995"]
+[Themes "backRankMate hangingPiece mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/E3eUHWHt#25"]
+[Solution "h4f5 a8h1"]
+[SolutionSAN "Nxf5 Qxh1#"]
+[FEN "q3kb1r/p2n1ppp/4p3/5b2/3p3N/2P3P1/P2BPP1P/R2QK2R w KQk - 0 13"]
+[SetUp "1"]
+
+13. Nxf5 Qxh1# *

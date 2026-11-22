@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07FAw"]
+[Difficulty "hard"]
+[Rating "1821"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/1koEpgC4#87"]
+[Solution "a3a4 g6h5 g4f4 h2f2 f4e5 f2e2"]
+[SolutionSAN "a4 Bh5+ Kf4 Rf2+ Ke5 Re2+"]
+[FEN "8/4Qp1k/6bp/8/6K1/P5P1/7r/8 w - - 4 44"]
+[SetUp "1"]
+
+44. a4 Bh5+ 45. Kf4 Rf2+ 46. Ke5 Re2+ *

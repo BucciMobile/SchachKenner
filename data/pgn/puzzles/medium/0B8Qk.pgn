@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B8Qk"]
+[Difficulty "medium"]
+[Rating "1378"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/MiQoKuXw#49"]
+[Solution "f1f5 d5f5 g4f5 g6f5"]
+[SolutionSAN "Rf5 Qxf5 Qxf5 gxf5"]
+[FEN "r5k1/1b3p2/5Pp1/1ppq4/p2p2Q1/3P3P/PPP3P1/R4RK1 w - - 1 25"]
+[SetUp "1"]
+
+25. Rf5 Qxf5 26. Qxf5 gxf5 *

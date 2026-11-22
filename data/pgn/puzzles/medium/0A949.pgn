@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0A949"]
+[Difficulty "medium"]
+[Rating "1534"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/ltOcrCLB/black#94"]
+[Solution "h7h5 a7c7 c1e1 b8c8"]
+[SolutionSAN "h5 Rc7 Re1 Kc8"]
+[FEN "1K6/R2Pk2p/5p2/8/8/p7/5P2/2r5 b - - 4 47"]
+[SetUp "1"]
+
+47... h5 48. Rc7 Re1 49. Kc8 *

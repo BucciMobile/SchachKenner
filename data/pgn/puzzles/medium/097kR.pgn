@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "097kR"]
+[Difficulty "medium"]
+[Rating "1563"]
+[Themes "crushing fork long opening"]
+[GameUrl "https://lichess.org/game/tKNhZyTW/black#20"]
+[Solution "a6c4 e2c4 a5c4 d1a4 d8d7 a4c4"]
+[SolutionSAN "Bxc4 Bxc4 Nxc4 Qa4+ Qd7 Qxc4"]
+[FEN "r2qk1nr/p1p2ppp/bp1pp3/n7/2PP1B2/2P1PN2/P3BPPP/R2QR1K1 b kq - 6 10"]
+[SetUp "1"]
+
+10... Bxc4 11. Bxc4 Nxc4 12. Qa4+ Qd7 13. Qxc4 *

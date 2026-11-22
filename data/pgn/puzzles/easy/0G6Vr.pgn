@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0G6Vr"]
+[Difficulty "easy"]
+[Rating "1025"]
+[Themes "crushing fork opening short"]
+[GameUrl "https://lichess.org/game/pdcYbGol#25"]
+[Solution "f3g3 d4e2 g1h2 e2g3"]
+[SolutionSAN "Qg3 Ne2+ Kh2 Nxg3"]
+[FEN "r2q1rk1/ppp1bppp/3n4/3N4/3n4/1B3Q1P/PPP2PP1/R1B2RK1 w - - 1 13"]
+[SetUp "1"]
+
+13. Qg3 Ne2+ 14. Kh2 Nxg3 *

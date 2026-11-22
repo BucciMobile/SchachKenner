@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02v6H"]
+[Difficulty "hard"]
+[Rating "1800"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/EGiLUgA8#39"]
+[Solution "a4c6 e8e6 c6e6 f7e6"]
+[SolutionSAN "Qc6 Re6 Qxe6 fxe6"]
+[FEN "1r2r1k1/2p2ppp/p7/2pn4/Q7/P1PP1qBP/1P3P2/1R3RK1 w - - 0 20"]
+[SetUp "1"]
+
+20. Qc6 Re6 21. Qxe6 fxe6 *

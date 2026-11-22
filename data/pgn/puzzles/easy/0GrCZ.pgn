@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GrCZ"]
+[Difficulty "easy"]
+[Rating "1162"]
+[Themes "kingsideAttack master masterVsMaster mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/MEoSwc1p#45"]
+[Solution "e5g7 f3f1 e1f1 g5g2"]
+[SolutionSAN "Bxg7 Rf1+ Rxf1 Qxg2#"]
+[FEN "r5k1/6bp/p1p3p1/2NbB1q1/2pQ4/5r2/PP4PP/R3R1K1 w - - 0 23"]
+[SetUp "1"]
+
+23. Bxg7 Rf1+ 24. Rxf1 Qxg2# *

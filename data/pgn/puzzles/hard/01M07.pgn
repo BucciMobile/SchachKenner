@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01M07"]
+[Difficulty "hard"]
+[Rating "2406"]
+[Themes "advantage endgame veryLong"]
+[GameUrl "https://lichess.org/game/2Mo0mqhm/black#72"]
+[Solution "a5a4 b5d4 b8b1 g1f2 c6c3 d3c3 e3d1 d2d1"]
+[SolutionSAN "Kxa4 Nd4 Rb1+ Kf2 Rxc3 Rxc3 Nd1+ Rxd1"]
+[FEN "1r6/2p4p/2r5/kN1p2p1/P4p2/2PRnP2/3R2PP/6K1 b - - 6 36"]
+[SetUp "1"]
+
+36... Kxa4 37. Nd4 Rb1+ 38. Kf2 Rxc3 39. Rxc3 Nd1+ 40. Rxd1 *

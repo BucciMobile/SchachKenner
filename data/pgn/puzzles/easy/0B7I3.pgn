@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B7I3"]
+[Difficulty "easy"]
+[Rating "745"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/gnMU1EXW/black#82"]
+[Solution "e5d4 h3h7"]
+[SolutionSAN "exd4 Qxh7#"]
+[FEN "7k/7n/2p2r2/p1P1p1q1/P2NB3/3P2PQ/4PPK1/1r6 b - - 0 41"]
+[SetUp "1"]
+
+41... exd4 42. Qxh7# *

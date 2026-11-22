@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05YEP"]
+[Difficulty "easy"]
+[Rating "1029"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/0OcWWta0/black#28"]
+[Solution "f7f5 e4d5 a2d5 d1d5"]
+[SolutionSAN "f5 Bd5+ Qxd5 Rxd5"]
+[FEN "r1b2rk1/1pp2pbp/p1n3p1/4p3/4B2B/2Q1PN2/qPP2PPP/2KR3R b - - 1 14"]
+[SetUp "1"]
+
+14... f5 15. Bd5+ Qxd5 16. Rxd5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E2hb"]
+[Difficulty "hard"]
+[Rating "2428"]
+[Themes "advantage defensiveMove endgame pin veryLong"]
+[GameUrl "https://lichess.org/game/Adm13RC9/black#46"]
+[Solution "h8c8 b3a5 b7b8 b5e5 b8a8 e5c7 f2e3 c1b1"]
+[SolutionSAN "Rc8 Na5+ Kb8 Qe5+ Ka8 Qc7 Qe3+ Kb1"]
+[FEN "7r/pk3p2/1p2pn1p/1Q4p1/8/1NP3P1/PP3qP1/2KR4 b - - 1 23"]
+[SetUp "1"]
+
+23... Rc8 24. Na5+ Kb8 25. Qe5+ Ka8 26. Qc7 Qe3+ 27. Kb1 *

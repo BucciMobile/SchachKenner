@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ApoK"]
+[Difficulty "easy"]
+[Rating "405"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/nZ7347we#37"]
+[Solution "d1f3 e7e1"]
+[SolutionSAN "Qxf3 Qxe1#"]
+[FEN "r4rk1/4qpp1/p4n1p/np6/8/P4b2/BP3PPP/R1BQR1K1 w - - 0 19"]
+[SetUp "1"]
+
+19. Qxf3 Qxe1# *

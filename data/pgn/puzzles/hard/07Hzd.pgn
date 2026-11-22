@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Hzd"]
+[Difficulty "hard"]
+[Rating "2011"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/CT8u6kH5#27"]
+[Solution "c3c4 a8b8 c1a3 b8b6"]
+[SolutionSAN "c4 Rb8 Ba3 Rb6"]
+[FEN "r2q1b1r/p1p2k1p/2Q1pp2/2np4/8/1PP1PP2/P5PP/1RB1KB1R w K - 0 14"]
+[SetUp "1"]
+
+14. c4 Rb8 15. Ba3 Rb6 *

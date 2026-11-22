@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0F1QT"]
+[Difficulty "easy"]
+[Rating "969"]
+[Themes "clearance mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/FIC07hIJ/black#56"]
+[Solution "g6e5 e4f6 g7f6 d3h7"]
+[SolutionSAN "Nxe5 Nf6+ gxf6 Qh7#"]
+[FEN "2r2rk1/p4pp1/1p4nR/3qP3/3PN3/3QP2P/6P1/5RK1 b - - 0 28"]
+[SetUp "1"]
+
+28... Nxe5 29. Nf6+ gxf6 30. Qh7# *

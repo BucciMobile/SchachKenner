@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EXjr"]
+[Difficulty "hard"]
+[Rating "2271"]
+[Themes "advantage clearance defensiveMove kingsideAttack long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/P26gb3Pz/black#66"]
+[Solution "e8c6 f5g5 g8h8 g5g8 h8g8 h5f5"]
+[SolutionSAN "Qc6 Rxg5+ Kh8 Rg8+ Kxg8 Qf5"]
+[FEN "4qbk1/1p3p2/5P1p/1p1bPRpQ/Pp1P2P1/1P1B3P/5K2/2r5 b - - 3 33"]
+[SetUp "1"]
+
+33... Qc6 34. Rxg5+ Kh8 35. Rg8+ Kxg8 36. Qf5 *

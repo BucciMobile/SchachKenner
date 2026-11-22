@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ENyD"]
+[Difficulty "hard"]
+[Rating "1733"]
+[Themes "clearance crushing kingsideAttack long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/5UxkflBm#57"]
+[Solution "d5d2 e5f3 g2f3 f5g5 g1h1 c8h3"]
+[SolutionSAN "Qd2 Nf3+ gxf3 Rg5+ Kh1 Qh3"]
+[FEN "r1q5/6pk/p5np/3Qnr2/B4p2/BPP5/P4PPP/3R1RK1 w - - 1 29"]
+[SetUp "1"]
+
+29. Qd2 Nf3+ 30. gxf3 Rg5+ 31. Kh1 Qh3 *

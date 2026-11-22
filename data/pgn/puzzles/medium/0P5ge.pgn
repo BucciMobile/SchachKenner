@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0P5ge"]
+[Difficulty "medium"]
+[Rating "1268"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/KUaBQ5uD#53"]
+[Solution "d1h1 b6b1"]
+[SolutionSAN "Rdh1 Rb1#"]
+[FEN "1r4k1/p3pp2/1rbp2p1/2p3P1/2n1PP1R/2P2B2/P1P2B2/2KR4 w - - 4 27"]
+[SetUp "1"]
+
+27. Rdh1 Rb1# *

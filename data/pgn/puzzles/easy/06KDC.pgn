@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06KDC"]
+[Difficulty "easy"]
+[Rating "1002"]
+[Themes "endgame mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/XUYEj3fx#69"]
+[Solution "e1e5 d5h1 e5e1 h1e1"]
+[SolutionSAN "Re5 Qh1+ Re1 Qxe1#"]
+[FEN "8/2rk4/p5Q1/1p1q2b1/3P4/6P1/PPP4P/1K2R3 w - - 3 35"]
+[SetUp "1"]
+
+35. Re5 Qh1+ 36. Re1 Qxe1# *

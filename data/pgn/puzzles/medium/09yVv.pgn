@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09yVv"]
+[Difficulty "medium"]
+[Rating "1477"]
+[Themes "crushing defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/OSmZGaYI#69"]
+[Solution "h6h7 b3a4 g7h5 a4c2 h7h6 a5a4"]
+[SolutionSAN "Kxh7 Bxa4 Nh5 Bc2+ Kh6 a4"]
+[FEN "8/3k2Np/7K/p7/P6P/1b3P2/6P1/8 w - - 2 35"]
+[SetUp "1"]
+
+35. Kxh7 Bxa4 36. Nh5 Bc2+ 37. Kh6 a4 *

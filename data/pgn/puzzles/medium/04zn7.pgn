@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04zn7"]
+[Difficulty "medium"]
+[Rating "1305"]
+[Themes "crushing middlegame pin short"]
+[GameUrl "https://lichess.org/game/NlSgty3o#23"]
+[Solution "h2h3 h5h3 d1g4 h3g4"]
+[SolutionSAN "h3 Qxh3 Qxg4+ Qxg4"]
+[FEN "2k2b1r/ppp1pppp/5n2/1P5q/6r1/P1N5/2PP1PPP/R1BQ1RK1 w - - 0 12"]
+[SetUp "1"]
+
+12. h3 Qxh3 13. Qxg4+ Qxg4 *

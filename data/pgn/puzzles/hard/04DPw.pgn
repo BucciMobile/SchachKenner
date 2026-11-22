@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04DPw"]
+[Difficulty "hard"]
+[Rating "1825"]
+[Themes "advantage long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/cKd7wwWv#41"]
+[Solution "d2f4 h6g5 h1h8 e8d7 h8a8 g5f4"]
+[SolutionSAN "Qf4 hxg5 Rxh8+ Kd7 Rxa8 gxf4"]
+[FEN "r3k2r/1p2qp2/p3b2p/3pP1N1/P1pP4/1nP3P1/3QBPP1/1R2K2R w Kkq - 1 21"]
+[SetUp "1"]
+
+21. Qf4 hxg5 22. Rxh8+ Kd7 23. Rxa8 gxf4 *

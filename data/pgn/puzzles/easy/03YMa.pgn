@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03YMa"]
+[Difficulty "easy"]
+[Rating "1032"]
+[Themes "balestraMate mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/aCnlJCBQ/black#34"]
+[Solution "b2a1 b3f7"]
+[SolutionSAN "Bxa1 Bf7#"]
+[FEN "r1b1k2r/pp5p/2nQ2p1/q4pN1/4p3/1B2P3/Pb1P1PPP/RN2K2R b KQkq - 1 17"]
+[SetUp "1"]
+
+17... Bxa1 18. Bf7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07acA"]
+[Difficulty "easy"]
+[Rating "492"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/FYpnGUEg#85"]
+[Solution "h8c3 d3c3"]
+[SolutionSAN "Qc3 Qxc3#"]
+[FEN "7Q/3kn3/3p4/5p1P/4p3/1P1q4/P1p2P2/K1R5 w - - 0 43"]
+[SetUp "1"]
+
+43. Qc3 Qxc3# *

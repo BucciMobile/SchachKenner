@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ATrI"]
+[Difficulty "medium"]
+[Rating "1248"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/nEuIvm5L/black#48"]
+[Solution "h8h7 d3f5 e6f5 b1f5"]
+[SolutionSAN "Kh7 Qxf5+ exf5 Bxf5#"]
+[FEN "rq4rk/1b1p1Nb1/p3p2p/1p3p2/8/P1PQ3P/R4PP1/1B3RK1 b - - 3 24"]
+[SetUp "1"]
+
+24... Kh7 25. Qxf5+ exf5 26. Bxf5# *

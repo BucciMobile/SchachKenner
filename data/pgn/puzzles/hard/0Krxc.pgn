@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Krxc"]
+[Difficulty "hard"]
+[Rating "2773"]
+[Themes "crushing endgame long master"]
+[GameUrl "https://lichess.org/game/Oa1AAvwR/black#104"]
+[Solution "d4d3 f5e7 g8f8 g5f6 h2f2 f6e6"]
+[SolutionSAN "d3 Ne7+ Kf8 Kf6 Rf2+ Ke6"]
+[FEN "6k1/8/6PP/1p2pNK1/1P1pP3/8/7r/8 b - - 0 52"]
+[SetUp "1"]
+
+52... d3 53. Ne7+ Kf8 54. Kf6 Rf2+ 55. Ke6 *

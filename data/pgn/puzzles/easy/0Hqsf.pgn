@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hqsf"]
+[Difficulty "easy"]
+[Rating "1131"]
+[Themes "advantage clearance endgame fork long"]
+[GameUrl "https://lichess.org/game/kxlmEkLq/black#90"]
+[Solution "e7e3 c5e3 f4e3 c1c8 e8e7 c8b8"]
+[SolutionSAN "Re3 Bxe3 fxe3 Rc8+ Ke7 Rxb8"]
+[FEN "1b2k3/3pr3/8/pbBP1p2/1p3p2/1P3P1P/P5P1/2R3K1 b - - 6 45"]
+[SetUp "1"]
+
+45... Re3 46. Bxe3 fxe3 47. Rc8+ Ke7 48. Rxb8 *

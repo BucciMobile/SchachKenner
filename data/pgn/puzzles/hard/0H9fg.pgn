@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H9fg"]
+[Difficulty "hard"]
+[Rating "2918"]
+[Themes "crushing endgame knightEndgame long"]
+[GameUrl "https://lichess.org/game/aQmMhkl7/black#124"]
+[Solution "d6e8 d5c5 e8c7 c5c6 c7a6 e3d5"]
+[SolutionSAN "Ne8 Kc5 Nc7 Kc6 Na6 Nd5"]
+[FEN "8/5k2/3n1p2/3K1Pp1/6P1/4N3/8/8 b - - 16 62"]
+[SetUp "1"]
+
+62... Ne8 63. Kc5 Nc7 64. Kc6 Na6 65. Nd5 *

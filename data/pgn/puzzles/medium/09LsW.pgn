@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09LsW"]
+[Difficulty "medium"]
+[Rating "1416"]
+[Themes "advantage deflection exposedKing fork long middlegame"]
+[GameUrl "https://lichess.org/game/79mWZYlg/black#50"]
+[Solution "e5d4 h5h7 g8f8 c5d7 f8e7 h7g7"]
+[SolutionSAN "exd4 Qh7+ Kf8 Nd7+ Ke7 Qxg7+"]
+[FEN "1r2r1k1/p5b1/2p3P1/1pNpp2Q/3P3P/nPq1PP2/P1P1R3/2K4R b - - 0 25"]
+[SetUp "1"]
+
+25... exd4 26. Qh7+ Kf8 27. Nd7+ Ke7 28. Qxg7+ *

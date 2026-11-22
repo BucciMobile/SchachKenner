@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0COTv"]
+[Difficulty "medium"]
+[Rating "1461"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/V0arELGC#45"]
+[Solution "f3h5 c5f2 g3e4 f2f4"]
+[SolutionSAN "Qh5 Qxf2 Ne4 Qxf4+"]
+[FEN "3r1rk1/2p2ppp/p7/1pqb4/5B2/2P2QN1/P4PPK/R3R3 w - - 1 23"]
+[SetUp "1"]
+
+23. Qh5 Qxf2 24. Ne4 Qxf4+ *

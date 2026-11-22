@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JWul"]
+[Difficulty "easy"]
+[Rating "941"]
+[Themes "crushing endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/jwxjC1jG/black#74"]
+[Solution "b8b2 c2b2 a3b2 d3c2"]
+[SolutionSAN "Rb2 Rxb2 axb2 Kc2"]
+[FEN "1r4k1/5p1p/4p1p1/3p2P1/5P1P/p1PK4/P1R1P3/8 b - - 0 37"]
+[SetUp "1"]
+
+37... Rb2 38. Rxb2 axb2 39. Kc2 *

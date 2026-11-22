@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07EoQ"]
+[Difficulty "hard"]
+[Rating "1808"]
+[Themes "advantage attraction discoveredAttack long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/XgksArwf/black#66"]
+[Solution "b5a4 f2f7 e7f7 e5e6 f7e6 h2c7"]
+[SolutionSAN "bxa4 Rxf7+ Kxf7 e6+ Kxe6 Qxc7"]
+[FEN "rr6/2q1kp2/6pB/ppp1P2n/P2p3P/1P1P4/2P2R1Q/1K3N2 b - - 3 33"]
+[SetUp "1"]
+
+33... bxa4 34. Rxf7+ Kxf7 35. e6+ Kxe6 36. Qxc7 *

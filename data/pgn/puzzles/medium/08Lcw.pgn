@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Lcw"]
+[Difficulty "medium"]
+[Rating "1566"]
+[Themes "bishopEndgame crushing endgame long trappedPiece"]
+[GameUrl "https://lichess.org/game/bMzPykVd/black#50"]
+[Solution "e8h5 h2h4 g5g6 g2g4 h5g4 e2g4"]
+[SolutionSAN "Bh5 h4+ Kg6 g4 Bxg4 Bxg4"]
+[FEN "4b3/1pb3p1/p1p1p2p/2PpP1k1/PP1Pp3/4P3/4B1PP/4B1K1 b - - 5 25"]
+[SetUp "1"]
+
+25... Bh5 26. h4+ Kg6 27. g4 Bxg4 28. Bxg4 *

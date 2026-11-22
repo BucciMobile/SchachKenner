@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06qKQ"]
+[Difficulty "hard"]
+[Rating "2223"]
+[Themes "advantage endgame fork long pin"]
+[GameUrl "https://lichess.org/game/VtEmr8aE/black#54"]
+[Solution "d8e8 c5d7 e8e7 e5f6 g7g6 f6e7"]
+[SolutionSAN "Re8 Nd7 Rxe7 Bxf6+ Kg6 Bxe7"]
+[FEN "r2r4/p3Npk1/5n1p/2NpB1p1/3P4/4P2P/PP3P2/3K4 b - - 5 27"]
+[SetUp "1"]
+
+27... Re8 28. Nd7 Rxe7 29. Bxf6+ Kg6 30. Bxe7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01E12"]
+[Difficulty "hard"]
+[Rating "2118"]
+[Themes "crushing hangingPiece middlegame short"]
+[GameUrl "https://lichess.org/game/H8ePJ8ba/black#50"]
+[Solution "g7d4 h7e7 d4b2 d3b2"]
+[SolutionSAN "Bxd4 Qxe7 Bxb2+ Nxb2"]
+[FEN "2k5/1pp1r1bQ/pr2p3/3p1p2/q2P4/P2NP3/1PP3PP/K3RR2 b - - 0 25"]
+[SetUp "1"]
+
+25... Bxd4 26. Qxe7 Bxb2+ 27. Nxb2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "062e9"]
+[Difficulty "hard"]
+[Rating "2113"]
+[Themes "attraction discoveredAttack discoveredCheck enPassant endgame mate mateIn4 veryLong"]
+[GameUrl "https://lichess.org/game/osvRxufn/black#74"]
+[Solution "c5c4 f4f5 g6h6 f2e3 g7g5 f5g6 h6g6 h4h5"]
+[SolutionSAN "c4 f5+ Kh6 Be3+ g5 fxg6+ Kxg6 h5#"]
+[FEN "8/4R1pp/5pk1/1ppb4/5PPP/8/2r2B2/6K1 b - - 0 37"]
+[SetUp "1"]
+
+37... c4 38. f5+ Kh6 39. Be3+ g5 40. fxg6+ Kxg6 41. h5# *

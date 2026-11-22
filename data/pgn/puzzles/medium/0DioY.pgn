@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DioY"]
+[Difficulty "medium"]
+[Rating "1563"]
+[Themes "advantage endgame pin sacrifice short"]
+[GameUrl "https://lichess.org/game/FpUypnm2#75"]
+[Solution "g5h5 f6f3 f2f3 d3e4"]
+[SolutionSAN "Rxh5 Rxf3 Qxf3 Be4"]
+[FEN "5k2/1p2pp2/p1q2r2/6Rp/2pP2P1/N1Pb1PP1/PP3QK1/8 w - - 1 38"]
+[SetUp "1"]
+
+38. Rxh5 Rxf3 39. Qxf3 Be4 *

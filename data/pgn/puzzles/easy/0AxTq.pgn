@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AxTq"]
+[Difficulty "easy"]
+[Rating "1085"]
+[Themes "advantage master middlegame sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/JYIQ13CT#59"]
+[Solution "b1b7 c8b7 d5b7 e2e1 g1g2 f6f2 g2h3 f2h2"]
+[SolutionSAN "Rb7+ Qxb7 Bxb7 Re1+ Kg2 Rxf2+ Kh3 Rxh2+"]
+[FEN "2q4Q/3k1pp1/p4r2/3B4/2P3n1/B2P2P1/4rP1P/1R4K1 w - - 2 30"]
+[SetUp "1"]
+
+30. Rb7+ Qxb7 31. Bxb7 Re1+ 32. Kg2 Rxf2+ 33. Kh3 Rxh2+ *

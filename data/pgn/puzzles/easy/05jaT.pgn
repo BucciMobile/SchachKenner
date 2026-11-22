@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05jaT"]
+[Difficulty "easy"]
+[Rating "841"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove pillsburysMate"]
+[GameUrl "https://lichess.org/game/QIcvo924/black#48"]
+[Solution "e6d5 e1e8"]
+[SolutionSAN "Bxd5 Rxe8#"]
+[FEN "4r1k1/5p1p/r3bBp1/pp1N4/8/8/PP3PPP/3RR1K1 b - - 0 24"]
+[SetUp "1"]
+
+24... Bxd5 25. Rxe8# *

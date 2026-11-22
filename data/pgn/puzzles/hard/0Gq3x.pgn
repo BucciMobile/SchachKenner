@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Gq3x"]
+[Difficulty "hard"]
+[Rating "1736"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/koDir1jy#59"]
+[Solution "h4g5 f8h7 f6g6 h7g5 g6g7 g8g7"]
+[SolutionSAN "Qg5 Nh7 Rxg6 Nxg5 Rxg7+ Kxg7"]
+[FEN "5nk1/p5q1/5Rp1/4p3/3pP2Q/6N1/P1r3PP/6K1 w - - 0 30"]
+[SetUp "1"]
+
+30. Qg5 Nh7 31. Rxg6 Nxg5 32. Rxg7+ Kxg7 *

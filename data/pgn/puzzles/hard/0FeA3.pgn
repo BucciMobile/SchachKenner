@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FeA3"]
+[Difficulty "hard"]
+[Rating "2258"]
+[Themes "crushing endgame pawnEndgame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/3WO272F4#85"]
+[Solution "b3b4 f6e5 f2e3 g6g5 e3f3 e5d4 c4c5 d4d5 c5d6 d5d6"]
+[SolutionSAN "b4 Ke5 Ke3 g5 Kf3 Kd4 c5 Kxd5 cxd6 Kxd6"]
+[FEN "8/1p5p/3p1kpP/3P4/2P5/pP6/P4K2/8 w - - 1 43"]
+[SetUp "1"]
+
+43. b4 Ke5 44. Ke3 g5 45. Kf3 Kd4 46. c5 Kxd5 47. cxd6 Kxd6 *

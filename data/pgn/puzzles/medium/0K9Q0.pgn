@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K9Q0"]
+[Difficulty "medium"]
+[Rating "1266"]
+[Themes "advancedPawn crushing endgame short"]
+[GameUrl "https://lichess.org/game/BDVbMdBV/black#78"]
+[Solution "a6b5 c5b5 d3b5 b6b7"]
+[SolutionSAN "Qb5 Qxb5 Bxb5 b7"]
+[FEN "8/5ppk/qP5p/2Q5/3p4/3b1P1P/6PK/8 b - - 1 39"]
+[SetUp "1"]
+
+39... Qb5 40. Qxb5 Bxb5 41. b7 *

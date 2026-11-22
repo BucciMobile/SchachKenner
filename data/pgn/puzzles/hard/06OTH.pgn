@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06OTH"]
+[Difficulty "hard"]
+[Rating "1758"]
+[Themes "advantage endgame master short"]
+[GameUrl "https://lichess.org/game/On1eIfcB#45"]
+[Solution "e2f1 b4c4 g3g7 h7g7"]
+[SolutionSAN "Kf1 Rxc4 Rg7+ Kxg7"]
+[FEN "8/p3pp1k/b1p5/q4p1p/1rPpP2P/6R1/P3KPP1/R1Q5 w - - 2 23"]
+[SetUp "1"]
+
+23. Kf1 Rxc4 24. Rg7+ Kxg7 *

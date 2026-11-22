@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04bxb"]
+[Difficulty "easy"]
+[Rating "1169"]
+[Themes "advancedPawn crushing endgame exposedKing pin veryLong"]
+[GameUrl "https://lichess.org/game/FHsg6RcQ#85"]
+[Solution "a5a6 h4h1 e2g1 e3e2 a2e2 f3e2 f1e2 h1g1"]
+[SolutionSAN "a6 Rh1+ Ng1 e2+ Rxe2 Bxe2+ Kxe2 Rxg1"]
+[FEN "6k1/6p1/8/P2p4/1P1P1P1r/2P1pb2/R3N3/5K2 w - - 1 43"]
+[SetUp "1"]
+
+43. a6 Rh1+ 44. Ng1 e2+ 45. Rxe2 Bxe2+ 46. Kxe2 Rxg1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IC8o"]
+[Difficulty "hard"]
+[Rating "2652"]
+[Themes "advancedPawn crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/9ATVi09F#151"]
+[Solution "c2g2 f3g2 h2g2 e3e2 g2g8 e7e8"]
+[SolutionSAN "Rcg2 fxg2 Rxg2 e2 Rg8 Re8"]
+[FEN "7r/P3r2P/KPk5/2P5/8/4pp2/2R4R/8 w - - 0 76"]
+[SetUp "1"]
+
+76. Rcg2 fxg2 77. Rxg2 e2 78. Rg8 Re8 *

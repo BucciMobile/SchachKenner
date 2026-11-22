@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09w07"]
+[Difficulty "easy"]
+[Rating "425"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+[GameUrl "https://lichess.org/game/Zd576Kll#51"]
+[Solution "g1f1 e6e1"]
+[SolutionSAN "Kxf1 Re1#"]
+[FEN "4r3/p1pk1p1Q/1p2r1p1/3p4/8/7R/P1P2PPP/5qK1 w - - 0 26"]
+[SetUp "1"]
+
+26. Kxf1 Re1# *

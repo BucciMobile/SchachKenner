@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GVME"]
+[Difficulty "medium"]
+[Rating "1530"]
+[Themes "advancedPawn crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/zKv5dhOt#93"]
+[Solution "d5h5 f3f2 g1f1 e1f3"]
+[SolutionSAN "Rxh5 f2+ Kf1 Nf3"]
+[FEN "8/6p1/8/3R3p/8/5pkP/8/4n1K1 w - - 0 47"]
+[SetUp "1"]
+
+47. Rxh5 f2+ 48. Kf1 Nf3 *

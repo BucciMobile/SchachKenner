@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NpJJ"]
+[Difficulty "medium"]
+[Rating "1350"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/YumrpecO/black#82"]
+[Solution "h5g4 e4g4 h6g6 f5g6"]
+[SolutionSAN "hxg4 Qxg4+ Rg6 Bxg6"]
+[FEN "4r1k1/1p3p2/p4P1r/4pB1p/4Q1P1/7P/5q2/3R3K b - - 0 41"]
+[SetUp "1"]
+
+41... hxg4 42. Qxg4+ Rg6 43. Bxg6 *

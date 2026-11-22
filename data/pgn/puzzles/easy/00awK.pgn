@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00awK"]
+[Difficulty "easy"]
+[Rating "638"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/D9JaNyrl/black#48"]
+[Solution "g8h8 f7f8 a8f8 f2f8"]
+[SolutionSAN "Kh8 Qf8+ Rxf8 Rxf8#"]
+[FEN "r5k1/2p2Qpp/p7/4b3/8/8/1PP1KR2/2q5 b - - 0 24"]
+[SetUp "1"]
+
+24... Kh8 25. Qf8+ Rxf8 26. Rxf8# *

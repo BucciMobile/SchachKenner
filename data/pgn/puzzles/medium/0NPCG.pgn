@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0NPCG"]
+[Difficulty "medium"]
+[Rating "1241"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/7ojvNyp2/black#54"]
+[Solution "e6c4 e2e8 g8g7 e8d7"]
+[SolutionSAN "Bc4 Qe8+ Kg7 Qxd7+"]
+[FEN "6k1/pp1r4/1b2bq2/nP6/3p4/P6P/2P1QPP1/4RRK1 b - - 1 27"]
+[SetUp "1"]
+
+27... Bc4 28. Qe8+ Kg7 29. Qxd7+ *

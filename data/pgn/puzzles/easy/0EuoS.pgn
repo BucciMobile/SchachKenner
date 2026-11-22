@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EuoS"]
+[Difficulty "easy"]
+[Rating "1157"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/FQ4g3o0h#59"]
+[Solution "f3e4 b3d5"]
+[SolutionSAN "Kxe4 Qd5#"]
+[FEN "3r2k1/1p3ppp/p7/8/1P2nP2/Pq2PK2/2R1Q1PP/2B5 w - - 7 30"]
+[SetUp "1"]
+
+30. Kxe4 Qd5# *

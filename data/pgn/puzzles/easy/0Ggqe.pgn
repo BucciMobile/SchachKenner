@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ggqe"]
+[Difficulty "easy"]
+[Rating "566"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/9Qb6A0E3#59"]
+[Solution "a1a4 c3c1"]
+[SolutionSAN "Rxa4 Rc1#"]
+[FEN "2R5/2P1kp1p/4p1p1/4B3/p3P3/2rP4/5PPP/R5K1 w - - 0 30"]
+[SetUp "1"]
+
+30. Rxa4 Rc1# *

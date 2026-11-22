@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Aarr"]
+[Difficulty "medium"]
+[Rating "1658"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/1JJbDHzd/black#44"]
+[Solution "f3g5 b7b8 c8d7 b2g7"]
+[SolutionSAN "Nxg5 Rb8+ Kd7 Qxg7+"]
+[FEN "2k4r/pRp3pp/8/3r1pB1/8/5nPP/PQP1qPK1/5R2 b - - 2 22"]
+[SetUp "1"]
+
+22... Nxg5 23. Rb8+ Kd7 24. Qxg7+ *

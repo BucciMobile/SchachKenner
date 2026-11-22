@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08Gpb"]
+[Difficulty "easy"]
+[Rating "676"]
+[Themes "advantage discoveredAttack kingsideAttack middlegame short"]
+[GameUrl "https://lichess.org/game/qDFAiIqJ#41"]
+[Solution "f4g5 f6f1 d1f1 e7g5"]
+[SolutionSAN "Bg5 Rxf1+ Rxf1 Bxg5"]
+[FEN "2rq3k/p3b1pp/1p1p1r2/2pQ4/4PB2/2P3P1/P1P4P/3R1RK1 w - - 3 21"]
+[SetUp "1"]
+
+21. Bg5 Rxf1+ 22. Rxf1 Bxg5 *

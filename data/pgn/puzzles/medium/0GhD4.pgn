@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GhD4"]
+[Difficulty "medium"]
+[Rating "1622"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/VemaLTJR/black#30"]
+[Solution "b7b5 c4d4 d8d4 f3d4"]
+[SolutionSAN "b5 Qxd4 Qxd4 Nxd4"]
+[FEN "r2q1rk1/ppp1bppp/4p3/4P2b/1nQnB3/5NBP/PPPN1PP1/R4RK1 b - - 12 15"]
+[SetUp "1"]
+
+15... b5 16. Qxd4 Qxd4 17. Nxd4 *

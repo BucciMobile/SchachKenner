@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DG7A"]
+[Difficulty "hard"]
+[Rating "1891"]
+[Themes "advancedPawn crushing endgame knightEndgame long promotion sacrifice"]
+[GameUrl "https://lichess.org/game/69nsLfp6#93"]
+[Solution "f4e4 c8d6 c4d6 b3b2 d6b5 b2b1q"]
+[SolutionSAN "Ke4 Nd6+ Nxd6 b2 Nb5 b1=Q+"]
+[FEN "2n5/8/1p2k3/6P1/P1NP1K2/1p6/8/8 w - - 0 47"]
+[SetUp "1"]
+
+47. Ke4 Nd6+ 48. Nxd6 b2 49. Nb5 b1=Q+ *

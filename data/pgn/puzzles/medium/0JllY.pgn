@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JllY"]
+[Difficulty "medium"]
+[Rating "1251"]
+[Themes "mate mateIn2 middlegame pillsburysMate queensideAttack short"]
+[GameUrl "https://lichess.org/game/Sz20nSUI#57"]
+[Solution "e2d2 c6c2 d2c2 c8c2"]
+[SolutionSAN "Red2 Rxc2+ Rxc2 Rxc2#"]
+[FEN "2r3k1/1Q3p1p/2r2b2/5Np1/8/3p3P/bPP1R1P1/2KR4 w - - 0 29"]
+[SetUp "1"]
+
+29. Red2 Rxc2+ 30. Rxc2 Rxc2# *

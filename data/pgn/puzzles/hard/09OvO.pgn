@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09OvO"]
+[Difficulty "hard"]
+[Rating "2419"]
+[Themes "clearance crushing master masterVsMaster middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/cYtDLMRp/black#66"]
+[Solution "b5b4 e5e6 f7e6 c5e5"]
+[SolutionSAN "b4 Rxe6 fxe6 Qe5"]
+[FEN "1r1r2k1/R4pp1/4b2p/1pQ1R2P/2pP1P2/2P3P1/6BK/3q4 b - - 2 33"]
+[SetUp "1"]
+
+33... b4 34. Rxe6 fxe6 35. Qe5 *

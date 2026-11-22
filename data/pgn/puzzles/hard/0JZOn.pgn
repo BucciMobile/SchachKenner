@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JZOn"]
+[Difficulty "hard"]
+[Rating "2190"]
+[Themes "advantage discoveredAttack endgame fork long"]
+[GameUrl "https://lichess.org/game/r9S7TrpD/black#48"]
+[Solution "a4b3 f7c4 c8b8 g7b7 b6b7 e4b7"]
+[SolutionSAN "axb3 Qc4+ Kb8 Rxb7+ Qxb7 Bxb7"]
+[FEN "2kr3r/1p3QRp/1q3p2/4pP2/p3B3/1P6/1PP4P/2K5 b - - 2 24"]
+[SetUp "1"]
+
+24... axb3 25. Qc4+ Kb8 26. Rxb7+ Qxb7 27. Bxb7 *

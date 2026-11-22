@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01TPw"]
+[Difficulty "easy"]
+[Rating "977"]
+[Themes "mate mateIn1 oneMove opening"]
+[GameUrl "https://lichess.org/game/DEVakUh7#25"]
+[Solution "h1g1 h4h2"]
+[SolutionSAN "Kg1 Qh2#"]
+[FEN "rnb1k2r/ppp2p1p/4p3/8/3N2Bq/2NP2b1/PPP2PP1/R1BQ1R1K w kq - 1 13"]
+[SetUp "1"]
+
+13. Kg1 Qh2# *

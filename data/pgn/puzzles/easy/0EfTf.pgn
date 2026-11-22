@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EfTf"]
+[Difficulty "easy"]
+[Rating "1173"]
+[Themes "advancedPawn mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/RYx7BLYa/black#26"]
+[Solution "f3g2 c6c7"]
+[SolutionSAN "fxg2 c7#"]
+[FEN "r1bk1b1r/pp2pppp/2P5/1B6/5B2/2P2p2/P4PPP/R2K3R b - - 2 13"]
+[SetUp "1"]
+
+13... fxg2 14. c7# *

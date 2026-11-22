@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Wpf"]
+[Difficulty "medium"]
+[Rating "1499"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/TrexH5VK/black#54"]
+[Solution "d6c6 c3c4 f8f7 c4f4"]
+[SolutionSAN "Qc6 Qc4+ Rf7 Qxf4"]
+[FEN "4rrk1/pbp3pp/3q4/2P2p2/5b2/P1Q2N1P/6PN/R4R1K b - - 0 27"]
+[SetUp "1"]
+
+27... Qc6 28. Qc4+ Rf7 29. Qxf4 *

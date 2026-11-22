@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ftc5"]
+[Difficulty "medium"]
+[Rating "1447"]
+[Themes "master mate mateIn2 middlegame pin sacrifice short"]
+[GameUrl "https://lichess.org/game/JfESIhtK/black#30"]
+[Solution "d8f8 f3f7 f8f7 e1e8"]
+[SolutionSAN "Qxf8 Qxf7+ Qxf7 Re8#"]
+[FEN "r1bq1Bk1/pp3ppp/8/8/2B5/5Q2/P1P2PPP/b3R1K1 b - - 0 15"]
+[SetUp "1"]
+
+15... Qxf8 16. Qxf7+ Qxf7 17. Re8# *

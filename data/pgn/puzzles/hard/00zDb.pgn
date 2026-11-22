@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00zDb"]
+[Difficulty "hard"]
+[Rating "1926"]
+[Themes "advantage endgame interference master masterVsMaster short"]
+[GameUrl "https://lichess.org/game/QzK6TTSA#71"]
+[Solution "b3a4 c5c4 d4d3 c4a4"]
+[SolutionSAN "Bxa4 Rc4 Qd3 Rxa4"]
+[FEN "8/1pk1q3/1n3p2/2r2Pp1/p2QP2p/PB3P2/KP4P1/3R4 w - - 0 36"]
+[SetUp "1"]
+
+36. Bxa4 Rc4 37. Qd3 Rxa4 *

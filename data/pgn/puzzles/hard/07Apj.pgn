@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07Apj"]
+[Difficulty "hard"]
+[Rating "1991"]
+[Themes "advantage discoveredAttack middlegame pin veryLong"]
+[GameUrl "https://lichess.org/game/ulKQ3zqV#57"]
+[Solution "f4h5 e5f3 g1h1 g7d4 a1f1 d4h4 g2f3 h4h5"]
+[SolutionSAN "Nh5 Nf3+ Kh1 Qxd4 Qf1 Qh4 gxf3 Qxh5"]
+[FEN "5r1k/6qp/p2pB3/1p1Pn3/3B1N2/1P6/P5PP/Q5K1 w - - 6 29"]
+[SetUp "1"]
+
+29. Nh5 Nf3+ 30. Kh1 Qxd4 31. Qf1 Qh4 32. gxf3 Qxh5 *

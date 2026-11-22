@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0L9IL"]
+[Difficulty "medium"]
+[Rating "1347"]
+[Themes "advancedPawn crushing endgame long master promotion rookEndgame"]
+[GameUrl "https://lichess.org/game/2rotR5dX/black#118"]
+[Solution "f2g1 f6b6 b1b6 c7b6 g1f1 b7b8q"]
+[SolutionSAN "Kg1 Rb6 Rxb6 Kxb6 Kf1 b8=Q"]
+[FEN "8/1PK5/5R2/8/8/6p1/5k2/1r6 b - - 3 59"]
+[SetUp "1"]
+
+59... Kg1 60. Rb6 Rxb6 61. Kxb6 Kf1 62. b8=Q *

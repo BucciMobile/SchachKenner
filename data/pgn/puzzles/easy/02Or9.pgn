@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02Or9"]
+[Difficulty "easy"]
+[Rating "679"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/LDFfzv60/black#48"]
+[Solution "f6e5 c5f8"]
+[SolutionSAN "Bxe5 Qxf8#"]
+[FEN "2n2r1k/p1q4p/2P2bp1/2Q1N3/3P4/7P/P4PP1/5RK1 b - - 1 24"]
+[SetUp "1"]
+
+24... Bxe5 25. Qxf8# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Fpe5"]
+[Difficulty "medium"]
+[Rating "1626"]
+[Themes "crushing long master middlegame pin"]
+[GameUrl "https://lichess.org/game/JzGyLBQo#39"]
+[Solution "e3g4 f6g4 e2g4 c5d3 c1b1 d3f2"]
+[SolutionSAN "Ng4 Nxg4 Qxg4 Nd3+ Kb1 Nxf2"]
+[FEN "r3r1k1/ppq2pp1/4pn1p/2n4P/8/4N3/PPPBQPP1/2KR3R w - - 0 20"]
+[SetUp "1"]
+
+20. Ng4 Nxg4 21. Qxg4 Nd3+ 22. Kb1 Nxf2 *

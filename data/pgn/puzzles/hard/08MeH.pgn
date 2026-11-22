@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08MeH"]
+[Difficulty "hard"]
+[Rating "2546"]
+[Themes "advancedPawn crushing endgame long promotion"]
+[GameUrl "https://lichess.org/game/s53NVmkL/black#62"]
+[Solution "b8b2 e6f7 g8h7 d4b2 c2b2 f7f8q"]
+[SolutionSAN "Rb2 exf7+ Kh7 Qxb2 Qxb2 f8=Q"]
+[FEN "1r4k1/5pp1/4P2p/3R1p2/3Q3P/6PK/2q5/8 b - - 2 31"]
+[SetUp "1"]
+
+31... Rb2 32. exf7+ Kh7 33. Qxb2 Qxb2 34. f8=Q *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Lf2s"]
+[Difficulty "hard"]
+[Rating "2611"]
+[Themes "advancedPawn crushing defensiveMove master middlegame veryLong"]
+[GameUrl "https://lichess.org/game/4GUHphDm#43"]
+[Solution "e6e7 e3e2 e7f8r g8f8 f4d6 f8g8 b7b8 g8f7 b8f8 f7g6 c2f5 g6h6"]
+[SolutionSAN "e7 e2 exf8=R+ Kxf8 Bd6+ Kg8 Rb8+ Kf7 Rf8+ Kg6 Bxf5+ Kh6"]
+[FEN "5rk1/1R4pp/p3P3/1p3p2/2p2Bn1/2P1p3/PPB2bPP/5N1K w - - 0 22"]
+[SetUp "1"]
+
+22. e7 e2 23. exf8=R+ Kxf8 24. Bd6+ Kg8 25. Rb8+ Kf7 26. Rf8+ Kg6 27. Bxf5+ Kh6 *

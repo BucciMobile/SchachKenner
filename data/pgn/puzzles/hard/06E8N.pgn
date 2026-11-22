@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06E8N"]
+[Difficulty "hard"]
+[Rating "1946"]
+[Themes "advantage kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/cuaTvAsh#43"]
+[Solution "c2b2 e8e1 b2d4 e1f1 b1f1 c5d4"]
+[SolutionSAN "Qb2 Rxe1 Qxd4 Rxf1+ Rxf1 cxd4"]
+[FEN "r3r1k1/p4pp1/2b4p/2p5/2Pq4/P2P2P1/2Q2PP1/1R2RBK1 w - - 2 22"]
+[SetUp "1"]
+
+22. Qb2 Rxe1 23. Qxd4 Rxf1+ 24. Rxf1 cxd4 *

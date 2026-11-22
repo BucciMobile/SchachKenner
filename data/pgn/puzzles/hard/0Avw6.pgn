@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Avw6"]
+[Difficulty "hard"]
+[Rating "1969"]
+[Themes "crushing long middlegame pin"]
+[GameUrl "https://lichess.org/game/ywKpV03m#35"]
+[Solution "d2c3 g7c3 b2c3 h5h3 f3g5 h3h2"]
+[SolutionSAN "Bc3 Bxc3 bxc3 Qxh3 Ng5 Qh2+"]
+[FEN "6rk/pp1np1bp/2p1p2r/5p1q/5P2/3P1N1P/PPPBQ1P1/R4RK1 w - - 1 18"]
+[SetUp "1"]
+
+18. Bc3 Bxc3 19. bxc3 Qxh3 20. Ng5 Qh2+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Qvq"]
+[Difficulty "medium"]
+[Rating "1278"]
+[Themes "endgame master mate mateIn2 queenEndgame short"]
+[GameUrl "https://lichess.org/game/ObfoLYdo/black#124"]
+[Solution "e2c2 f5c8 b7a7 c8a8"]
+[SolutionSAN "Qec2 Qfc8+ Ka7 Qa8#"]
+[FEN "6Q1/1kp4K/1p1p4/3PpQ2/4P3/7P/4q3/2q5 b - - 6 62"]
+[SetUp "1"]
+
+62... Qec2 63. Qfc8+ Ka7 64. Qa8# *

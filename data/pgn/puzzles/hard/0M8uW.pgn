@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M8uW"]
+[Difficulty "hard"]
+[Rating "2004"]
+[Themes "clearance crushing long middlegame pin"]
+[GameUrl "https://lichess.org/game/dRe3KLq2#25"]
+[Solution "f2f3 e4g3 d3e3 e8d7 h2g3 h8e8"]
+[SolutionSAN "f3 Nxg3 Qe3+ Kd7 hxg3 Re8"]
+[FEN "rn1qk2r/pp3p2/2p4p/5bp1/3Pn3/P1PQ2B1/5PPP/R3KBNR w KQkq - 2 13"]
+[SetUp "1"]
+
+13. f3 Nxg3 14. Qe3+ Kd7 15. hxg3 Re8 *

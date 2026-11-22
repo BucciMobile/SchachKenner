@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07LXI"]
+[Difficulty "hard"]
+[Rating "1939"]
+[Themes "advantage endgame long master"]
+[GameUrl "https://lichess.org/game/SGL6GyUm#97"]
+[Solution "g6f8 e2c1 f8h7 b6e3 h7f6 e3h6"]
+[SolutionSAN "Nf8 Nxc1 Nxh7 Be3 Nf6 Bxh6"]
+[FEN "8/7p/1b4NP/1p2p3/1Pk5/P4P2/4n1K1/2B5 w - - 1 49"]
+[SetUp "1"]
+
+49. Nf8 Nxc1 50. Nxh7 Be3 51. Nf6 Bxh6 *

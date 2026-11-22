@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07PY3"]
+[Difficulty "medium"]
+[Rating "1675"]
+[Themes "crushing endgame hangingPiece knightEndgame short"]
+[GameUrl "https://lichess.org/game/4DBgk4fP/black#100"]
+[Solution "g7g5 d2c3 e2e1r d3e1"]
+[SolutionSAN "g5 Kxc3 e1=R Nxe1"]
+[FEN "8/6p1/7p/2Pk1p2/5P2/2nN4/3Kp1PP/8 b - - 4 50"]
+[SetUp "1"]
+
+50... g5 51. Kxc3 e1=R 52. Nxe1 *

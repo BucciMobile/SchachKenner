@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EB7K"]
+[Difficulty "easy"]
+[Rating "1072"]
+[Themes "attraction crushing fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/bHqkBlpz/black#50"]
+[Solution "h5h4 g3g7 f7g7 d3g3 g7f7 g3h4"]
+[SolutionSAN "Rh4 Rxg7+ Kxg7 Qg3+ Kf7 Qxh4"]
+[FEN "2r5/pp2qkb1/3p1p2/3PpP1r/1P6/2PQ2RP/P5P1/4R1K1 b - - 6 25"]
+[SetUp "1"]
+
+25... Rh4 26. Rxg7+ Kxg7 27. Qg3+ Kf7 28. Qxh4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07mrn"]
+[Difficulty "medium"]
+[Rating "1409"]
+[Themes "advantage middlegame pin short"]
+[GameUrl "https://lichess.org/game/Vw9mYq1E#25"]
+[Solution "e2d4 e7b4 d4c6 b4d2"]
+[SolutionSAN "Ned4 Bb4 Nxc6 Bxd2+"]
+[FEN "r2qk2r/3bbppp/p1n1p3/1p1pP3/5P2/3PBN2/PP1QN1PP/R3K2R w KQkq - 1 13"]
+[SetUp "1"]
+
+13. Ned4 Bb4 14. Nxc6 Bxd2+ *

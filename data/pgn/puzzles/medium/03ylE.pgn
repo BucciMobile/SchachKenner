@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03ylE"]
+[Difficulty "medium"]
+[Rating "1392"]
+[Themes "attraction endgame long mate mateIn3 pillsburysMate sacrifice"]
+[GameUrl "https://lichess.org/game/bx8Dolqe/black#94"]
+[Solution "e3e1 g7h7 h8h7 f3h3 e1h4 h3h4"]
+[SolutionSAN "Qe1 Rxh7+ Kxh7 Rh3+ Qh4 Rxh4#"]
+[FEN "5r1k/5BRp/1n1p1P2/2p5/p1P5/Pp1PqR2/1P4K1/8 b - - 7 47"]
+[SetUp "1"]
+
+47... Qe1 48. Rxh7+ Kxh7 49. Rh3+ Qh4 50. Rxh4# *

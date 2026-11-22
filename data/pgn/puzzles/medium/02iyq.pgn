@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02iyq"]
+[Difficulty "medium"]
+[Rating "1595"]
+[Themes "endgame mate mateIn5 sacrifice veryLong"]
+[GameUrl "https://lichess.org/game/rpyv9rFS/black#56"]
+[Solution "d5f6 e5f6 e8e2 g5h6 e2e1 h1h2 e1h1 h2h1 c6c5 h6g7"]
+[SolutionSAN "Nxf6 exf6 Rxe2 Qh6 Re1+ Kh2 Rh1+ Kxh1 c5 Qg7#"]
+[FEN "4r1k1/pp3p1p/q1p2Np1/3nP1Q1/8/1P1P3P/P3R1P1/7K b - - 1 28"]
+[SetUp "1"]
+
+28... Nxf6 29. exf6 Rxe2 30. Qh6 Re1+ 31. Kh2 Rh1+ 32. Kxh1 c5 33. Qg7# *

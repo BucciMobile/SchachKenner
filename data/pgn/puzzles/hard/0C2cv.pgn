@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C2cv"]
+[Difficulty "hard"]
+[Rating "1969"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/zdAv5o4b#57"]
+[Solution "b1b5 f7f2 c2f2 f8f2"]
+[SolutionSAN "Rb5 Rxf2 Qxf2 Rxf2"]
+[FEN "5r1k/1p3rqp/3p2b1/6p1/2Pb4/3PN1P1/2Q2PBP/1R3RK1 w - - 8 29"]
+[SetUp "1"]
+
+29. Rb5 Rxf2 30. Qxf2 Rxf2 *

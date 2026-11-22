@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hjrj"]
+[Difficulty "hard"]
+[Rating "2264"]
+[Themes "advantage endgame sacrifice short"]
+[GameUrl "https://lichess.org/game/kepeMi5j/black#56"]
+[Solution "e2g3 a8f3 g3f1 f3f4"]
+[SolutionSAN "Ng3 Qf3 Nxf1 Qf4+"]
+[FEN "Q7/4p1q1/p2pP2k/2p1r2p/1p5P/3B3P/PPP1n3/1K3R2 b - - 6 28"]
+[SetUp "1"]
+
+28... Ng3 29. Qf3 Nxf1 30. Qf4+ *

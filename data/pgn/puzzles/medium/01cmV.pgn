@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01cmV"]
+[Difficulty "medium"]
+[Rating "1663"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/VJKWlbR4/black#44"]
+[Solution "c8c2 e4f6 e7f6 e5f6 d8f6 c1c2"]
+[SolutionSAN "Rxc2 Nf6+ Bxf6 exf6 Qxf6 Rxc2"]
+[FEN "2rqr1k1/1b2bp1p/p3p1pQ/4P3/1p2N3/8/PPB2PPP/2R2RK1 b - - 2 22"]
+[SetUp "1"]
+
+22... Rxc2 23. Nf6+ Bxf6 24. exf6 Qxf6 25. Rxc2 *

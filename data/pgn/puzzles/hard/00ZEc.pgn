@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00ZEc"]
+[Difficulty "hard"]
+[Rating "1778"]
+[Themes "discoveredCheck doubleCheck mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/7IfLNNVB/black#70"]
+[Solution "g8h7 g6g7 h7h6 d3h7"]
+[SolutionSAN "Kh7 Rg7+ Kxh6 Qh7#"]
+[FEN "1r3bk1/5p2/3P1qRP/r1n1p3/ppB5/P2Q1P2/1PP5/1K6 b - - 0 35"]
+[SetUp "1"]
+
+35... Kh7 36. Rg7+ Kxh6 37. Qh7# *

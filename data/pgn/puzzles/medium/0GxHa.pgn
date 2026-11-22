@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GxHa"]
+[Difficulty "medium"]
+[Rating "1670"]
+[Themes "crushing endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/PJ3K0Igr#97"]
+[Solution "f3g4 a2a4 g4f5 a4b4 b3b2 b4b2"]
+[SolutionSAN "Kg4 Ra4+ Kf5 Rb4 Rxb2 Rxb2"]
+[FEN "8/8/8/2k5/7P/1R3K2/rp6/8 w - - 3 49"]
+[SetUp "1"]
+
+49. Kg4 Ra4+ 50. Kf5 Rb4 51. Rxb2 Rxb2 *

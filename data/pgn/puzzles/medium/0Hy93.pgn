@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hy93"]
+[Difficulty "medium"]
+[Rating "1359"]
+[Themes "clearance crushing endgame long master pin sacrifice"]
+[GameUrl "https://lichess.org/game/RjJMqIq4#59"]
+[Solution "e2e6 c3e1 e6e1 c8c1 e1c1 a3c1"]
+[SolutionSAN "Qxe6 Qxe1+ Qxe1 Rc1 Qxc1 Bxc1"]
+[FEN "2r3k1/p4Np1/1p2p2p/8/3P3P/b1q5/4QPP1/4R1K1 w - - 0 30"]
+[SetUp "1"]
+
+30. Qxe6 Qxe1+ 31. Qxe1 Rc1 32. Qxc1 Bxc1 *

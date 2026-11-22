@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KN1C"]
+[Difficulty "hard"]
+[Rating "1722"]
+[Themes "endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/UYjX3uTg#41"]
+[Solution "c2c3 h8h3 g2h3 d2h2 h1g1 d4e2"]
+[SolutionSAN "c3 Rxh3+ gxh3 Rh2+ Kg1 Ne2#"]
+[FEN "2k4r/ppp3N1/8/5p2/1P1n1P2/P5pP/2Pr2P1/2R2R1K w - - 1 21"]
+[SetUp "1"]
+
+21. c3 Rxh3+ 22. gxh3 Rh2+ 23. Kg1 Ne2# *

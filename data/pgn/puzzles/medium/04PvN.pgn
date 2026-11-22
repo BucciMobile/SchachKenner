@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04PvN"]
+[Difficulty "medium"]
+[Rating "1560"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/U5TBKx0e/black#66"]
+[Solution "c5a7 a1a3 a7a3 b4a3"]
+[SolutionSAN "Qa7 Rxa3 Qxa3 Bxa3"]
+[FEN "r1b1kb1r/5p2/2p1pP1p/2q1P2P/1BB5/p7/2K1Q3/RR6 b kq - 3 33"]
+[SetUp "1"]
+
+33... Qa7 34. Rxa3 Qxa3 35. Bxa3 *

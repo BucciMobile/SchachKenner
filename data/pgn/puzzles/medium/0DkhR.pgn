@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DkhR"]
+[Difficulty "medium"]
+[Rating "1381"]
+[Themes "advantage deflection endgame short"]
+[GameUrl "https://lichess.org/game/KtBALnyT/black#48"]
+[Solution "d7e7 h6g5 f6g5 e1e7"]
+[SolutionSAN "Re7 Bg5+ Kxg5 Rxe7"]
+[FEN "2b5/3r3p/p4kpB/1p3p2/8/8/PbB2PPP/4R1K1 b - - 2 24"]
+[SetUp "1"]
+
+24... Re7 25. Bg5+ Kxg5 26. Rxe7 *

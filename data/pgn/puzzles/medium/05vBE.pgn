@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05vBE"]
+[Difficulty "medium"]
+[Rating "1414"]
+[Themes "discoveredAttack mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/K4g4ERQ4/black#32"]
+[Solution "b8a7 d2a5 a7b8 d1d8"]
+[SolutionSAN "Kxa7 Qa5+ Kb8 Rxd8#"]
+[FEN "1k1r1bnr/Bpp2ppp/8/8/6B1/1q6/3Q1PPP/2KR3R b - - 0 16"]
+[SetUp "1"]
+
+16... Kxa7 17. Qa5+ Kb8 18. Rxd8# *

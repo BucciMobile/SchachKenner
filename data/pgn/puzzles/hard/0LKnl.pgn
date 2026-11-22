@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LKnl"]
+[Difficulty "hard"]
+[Rating "2744"]
+[Themes "advancedPawn crushing defensiveMove endgame exposedKing long master masterVsMaster"]
+[GameUrl "https://lichess.org/game/vdfEdRly#155"]
+[Solution "b2c1 b3b2 c1c2 c4b3 c2b1 b3g8"]
+[SolutionSAN "Kc1 b2+ Kc2 Bb3+ Kb1 Bg8"]
+[FEN "8/6P1/8/6R1/nkb4P/1p6/1K6/8 w - - 1 78"]
+[SetUp "1"]
+
+78. Kc1 b2+ 79. Kc2 Bb3+ 80. Kb1 Bg8 *

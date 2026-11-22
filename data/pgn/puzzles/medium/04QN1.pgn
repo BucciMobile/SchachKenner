@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04QN1"]
+[Difficulty "medium"]
+[Rating "1446"]
+[Themes "crushing defensiveMove endgame fork long"]
+[GameUrl "https://lichess.org/game/puNHFE2s/black#80"]
+[Solution "f4e3 g1h2 e3f4 g2g3 f4g3 g6g3"]
+[SolutionSAN "Qe3+ Kh2 Qf4+ g3+ Qxg3+ Rxg3"]
+[FEN "8/7n/p5Rp/3R4/4pq1k/7P/PP4P1/6K1 b - - 0 40"]
+[SetUp "1"]
+
+40... Qe3+ 41. Kh2 Qf4+ 42. g3+ Qxg3+ 43. Rxg3 *

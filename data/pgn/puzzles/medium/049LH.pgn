@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "049LH"]
+[Difficulty "medium"]
+[Rating "1366"]
+[Themes "fork mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/MI95G9Dg#47"]
+[Solution "d5d6 f4e4 b3f3 e4f3"]
+[SolutionSAN "d6 Qe4+ Qf3 Qxf3#"]
+[FEN "4r1k1/5ppp/1p6/p1pP4/P2b1qN1/1Q6/BPP4P/R6K w - - 0 24"]
+[SetUp "1"]
+
+24. d6 Qe4+ 25. Qf3 Qxf3# *

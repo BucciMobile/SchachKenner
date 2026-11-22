@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04EjP"]
+[Difficulty "hard"]
+[Rating "2102"]
+[Themes "crushing defensiveMove endgame pawnEndgame veryLong zugzwang"]
+[GameUrl "https://lichess.org/game/e1oPjSqJ#97"]
+[Solution "c4c5 b6c5 a4a5 c7b7 h5h6 g7h6 b5b6 c5c4"]
+[SolutionSAN "c5 bxc5 Kxa5 Kb7 h6 gxh6 b6 c4"]
+[FEN "8/2k3p1/1p2p3/pP2P1pP/K1P3P1/8/8/8 w - - 3 49"]
+[SetUp "1"]
+
+49. c5 bxc5 50. Kxa5 Kb7 51. h6 gxh6 52. b6 c4 *

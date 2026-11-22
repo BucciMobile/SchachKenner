@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MBRr"]
+[Difficulty "hard"]
+[Rating "2343"]
+[Themes "advantage defensiveMove endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/JJ06Fk6F#59"]
+[Solution "e7a7 d5e5 e2f3 c8d8"]
+[SolutionSAN "Rxa7 Re5+ Kf3 Rd8"]
+[FEN "2r2k2/p3R1p1/1p5p/3r4/8/6P1/PP1pKP1P/3R4 w - - 4 30"]
+[SetUp "1"]
+
+30. Rxa7 Re5+ 31. Kf3 Rd8 *

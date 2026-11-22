@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04q4K"]
+[Difficulty "hard"]
+[Rating "2061"]
+[Themes "advantage defensiveMove endgame long"]
+[GameUrl "https://lichess.org/game/myO58N62#89"]
+[Solution "d1d7 e7e8 h1e1 g3e5 e1e5 e8d7"]
+[SolutionSAN "Rd7+ Ke8 Re1 Bxe5 Rxe5 Kxd7"]
+[FEN "8/p3k1p1/4p2p/1n2Np1P/8/PK4b1/1P3rP1/3R3R w - - 2 45"]
+[SetUp "1"]
+
+45. Rd7+ Ke8 46. Re1 Bxe5 47. Rxe5 Kxd7 *

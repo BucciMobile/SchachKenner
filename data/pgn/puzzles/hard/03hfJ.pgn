@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03hfJ"]
+[Difficulty "hard"]
+[Rating "2044"]
+[Themes "crushing discoveredAttack discoveredCheck enPassant opening pin short"]
+[GameUrl "https://lichess.org/game/DIPyfhFy/black#22"]
+[Solution "f7f5 e5f6 e7d7 b3e6"]
+[SolutionSAN "f5 exf6+ Qd7 Be6"]
+[FEN "2kr1bnr/ppp1qppp/2bp4/4P3/5PQ1/1B6/PPP3PP/RNB2RK1 b - - 2 11"]
+[SetUp "1"]
+
+11... f5 12. exf6+ Qd7 13. Be6 *

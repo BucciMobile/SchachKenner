@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07H8i"]
+[Difficulty "hard"]
+[Rating "1892"]
+[Themes "deflection endgame master mate mateIn2 short"]
+[GameUrl "https://lichess.org/game/Fh1FF2ns/black#74"]
+[Solution "a3a2 e6f8 g6h5 d7h7"]
+[SolutionSAN "a2 Nf8+ Kh5 Rxh7#"]
+[FEN "8/3R3p/p1n1N1k1/5pB1/5P2/p1q2PK1/8/8 b - - 2 37"]
+[SetUp "1"]
+
+37... a2 38. Nf8+ Kh5 39. Rxh7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JuId"]
+[Difficulty "easy"]
+[Rating "1083"]
+[Themes "advantage discoveredAttack endgame master short"]
+[GameUrl "https://lichess.org/game/HF8sojxA#57"]
+[Solution "c4e4 e5h2 g1h2 e8e4"]
+[SolutionSAN "Re4 Bxh2+ Kxh2 Rxe4"]
+[FEN "4r1k1/p1B2p2/6pp/4b3/2R5/2P5/PP3PPP/6K1 w - - 0 29"]
+[SetUp "1"]
+
+29. Re4 Bxh2+ 30. Kxh2 Rxe4 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Crss"]
+[Difficulty "medium"]
+[Rating "1373"]
+[Themes "endgame"]
+[GameUrl "https://lichess.org/game/hy7R5m5l/black#74"]
+[Solution "f4f2 b3f3 f2f3 g2f3"]
+[SolutionSAN "Qxf2 Rf3 Qxf3 gxf3"]
+[FEN "6r1/p3Qp1k/1p2p2P/3p2p1/5q2/PR6/KP3PP1/8 b - - 8 37"]
+[SetUp "1"]
+
+37... Qxf2 38. Rf3 Qxf3 39. gxf3 *

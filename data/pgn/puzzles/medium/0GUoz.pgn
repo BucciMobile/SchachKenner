@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GUoz"]
+[Difficulty "medium"]
+[Rating "1360"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/UR757zYv/black#62"]
+[Solution "a3a2 c7b8 b2b8 c2a2"]
+[SolutionSAN "Qxa2 Qxb8+ Rxb8 Rxa2"]
+[FEN "1r4k1/2Q2pp1/4p1p1/p2p4/2nP3P/q1P2P2/PrR1N1PK/2R5 b - - 2 31"]
+[SetUp "1"]
+
+31... Qxa2 32. Qxb8+ Rxb8 33. Rxa2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MF14"]
+[Difficulty "hard"]
+[Rating "1741"]
+[Themes "attraction endgame mate mateIn2 pin short"]
+[GameUrl "https://lichess.org/game/jTDSmdwY#61"]
+[Solution "d3e4 f2f1 g1f1 g3f2"]
+[SolutionSAN "Qe4 Rxf1+ Kxf1 Qf2#"]
+[FEN "6k1/6p1/p2p4/2pP4/2P5/3Qp1q1/P4rB1/5RK1 w - - 2 31"]
+[SetUp "1"]
+
+31. Qe4 Rxf1+ 32. Kxf1 Qf2# *

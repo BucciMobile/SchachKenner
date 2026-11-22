@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09lis"]
+[Difficulty "easy"]
+[Rating "1048"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/dMCLvOkk#49"]
+[Solution "e3g5 f6f2"]
+[SolutionSAN "Bg5 Qxf2#"]
+[FEN "r3r3/5kbR/2p2qp1/p3n3/1p2P1n1/4B1N1/PPPQBP2/5K1R w - - 5 25"]
+[SetUp "1"]
+
+25. Bg5 Qxf2# *

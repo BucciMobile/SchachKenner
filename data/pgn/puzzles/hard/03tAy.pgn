@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03tAy"]
+[Difficulty "hard"]
+[Rating "2131"]
+[Themes "advantage endgame long pawnEndgame"]
+[GameUrl "https://lichess.org/game/7A1yPK6S/black#74"]
+[Solution "d4d3 a5a6 d3c2 a6b5 c2b2 b5c4"]
+[SolutionSAN "Kd3 Kxa6 Kc2 Kb5 Kxb2 Kxc4"]
+[FEN "8/6p1/p7/K6p/2pk4/P7/1P4PP/8 b - - 5 37"]
+[SetUp "1"]
+
+37... Kd3 38. Kxa6 Kc2 39. Kb5 Kxb2 40. Kxc4 *

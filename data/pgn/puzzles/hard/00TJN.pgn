@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00TJN"]
+[Difficulty "hard"]
+[Rating "1830"]
+[Themes "attraction doubleCheck kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/G6iE2Sej/black#46"]
+[Solution "f5b1 f3f7 g8f7 d5d7"]
+[SolutionSAN "Bxb1 Qxf7+ Kxf7 Rd7#"]
+[FEN "r3r1k1/pp3pB1/2q3pp/3R1b2/8/P4Q2/BP3PPP/1R4K1 b - - 0 23"]
+[SetUp "1"]
+
+23... Bxb1 24. Qxf7+ Kxf7 25. Rd7# *

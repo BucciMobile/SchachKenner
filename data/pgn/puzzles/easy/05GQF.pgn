@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05GQF"]
+[Difficulty "easy"]
+[Rating "874"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/1Ypt3nRO#87"]
+[Solution "c3e4 f1g2"]
+[SolutionSAN "Nxe4 Bg2#"]
+[FEN "1R6/6pk/8/Bp6/4p3/P1N1Pn1p/5P1P/5b1K w - - 7 44"]
+[SetUp "1"]
+
+44. Nxe4 Bg2# *

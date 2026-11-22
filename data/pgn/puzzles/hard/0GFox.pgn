@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GFox"]
+[Difficulty "hard"]
+[Rating "1728"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/DEaDiOE7#49"]
+[Solution "b4b5 e4d6 b5b4 d6b7"]
+[SolutionSAN "Qb5 Nd6 Qb4 Nxb7"]
+[FEN "5rk1/1R3pp1/4b2p/4N3/1Q1pn3/1PqN3P/2r2PP1/5RK1 w - - 3 25"]
+[SetUp "1"]
+
+25. Qb5 Nd6 26. Qb4 Nxb7 *

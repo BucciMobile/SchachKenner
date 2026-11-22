@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00sO1"]
+[Difficulty "easy"]
+[Rating "901"]
+[Themes "advantage discoveredAttack master middlegame short"]
+[GameUrl "https://lichess.org/game/vsfFkG0s/black#62"]
+[Solution "b8c7 e1a5 b7b6 f1d1"]
+[SolutionSAN "Kc7 Ba5+ b6 Rxd1"]
+[FEN "1k1r4/pp3pp1/2p1p3/4b3/P3n1P1/8/KPP2PN1/3rBR1R b - - 2 31"]
+[SetUp "1"]
+
+31... Kc7 32. Ba5+ b6 33. Rxd1 *

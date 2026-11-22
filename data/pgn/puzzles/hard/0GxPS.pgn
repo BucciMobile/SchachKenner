@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GxPS"]
+[Difficulty "hard"]
+[Rating "2461"]
+[Themes "advancedPawn advantage endgame long sacrifice"]
+[GameUrl "https://lichess.org/game/cFF8S5w9/black#76"]
+[Solution "c4d6 b5c6 b6b4 b3b4 b8b4 a6a7"]
+[SolutionSAN "Nd6 Bc6 Qxb4 Rxb4 Rxb4 a7"]
+[FEN "1r4k1/5pp1/Pq2p2p/1B1p4/1Qn5/1R5P/6PK/8 b - - 2 38"]
+[SetUp "1"]
+
+38... Nd6 39. Bc6 Qxb4 40. Rxb4 Rxb4 41. a7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Kdmt"]
+[Difficulty "medium"]
+[Rating "1699"]
+[Themes "advantage master opening pin short"]
+[GameUrl "https://lichess.org/game/QsrqsR12/black#28"]
+[Solution "a8c8 e3h6 g7g6 h6h5"]
+[SolutionSAN "Rc8 Qh6 g6 Qxh5"]
+[FEN "r2q1rk1/1p3ppp/p1npb3/4p2n/4P3/2N1Q2P/PPP1NP2/2KR1BR1 b - - 4 14"]
+[SetUp "1"]
+
+14... Rc8 15. Qh6 g6 16. Qxh5 *

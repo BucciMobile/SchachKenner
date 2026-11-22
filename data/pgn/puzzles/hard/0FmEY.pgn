@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FmEY"]
+[Difficulty "hard"]
+[Rating "2147"]
+[Themes "advantage fork long middlegame"]
+[GameUrl "https://lichess.org/game/K1KI9EGZ#33"]
+[Solution "h2h3 f6e4 g2g3 e4d2 f3g2 d2f1"]
+[SolutionSAN "h3 Ne4 g3 Nd2+ Kg2 Nxf1"]
+[FEN "N4b1r/pp2kppp/5n2/2p1q3/8/4PK2/P3NPPP/R4Q1R w - - 2 17"]
+[SetUp "1"]
+
+17. h3 Ne4 18. g3 Nd2+ 19. Kg2 Nxf1 *

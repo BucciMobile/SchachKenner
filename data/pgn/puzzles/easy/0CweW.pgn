@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CweW"]
+[Difficulty "easy"]
+[Rating "476"]
+[Themes "advantage endgame hangingPiece short"]
+[GameUrl "https://lichess.org/game/i5ricZVm#75"]
+[Solution "c2g6 h7g6 c1c3 c4c3"]
+[SolutionSAN "Bxg6+ Kxg6 Rxc3 Rxc3"]
+[FEN "4R3/pp5k/3p2p1/3P4/P1r2bP1/2r5/P1B5/1KR5 w - - 0 38"]
+[SetUp "1"]
+
+38. Bxg6+ Kxg6 39. Rxc3 Rxc3 *

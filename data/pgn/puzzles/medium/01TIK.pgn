@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01TIK"]
+[Difficulty "medium"]
+[Rating "1394"]
+[Themes "crushing endgame short"]
+[GameUrl "https://lichess.org/game/I86rNhhD#85"]
+[Solution "f1e2 f4g4 e2g4 h5g4"]
+[SolutionSAN "Qe2 Rg4+ Qxg4 Qxg4+"]
+[FEN "4R3/p4kpp/6p1/7q/3P1r2/2P5/PP3P2/5QK1 w - - 0 43"]
+[SetUp "1"]
+
+43. Qe2 Rg4+ 44. Qxg4 Qxg4+ *

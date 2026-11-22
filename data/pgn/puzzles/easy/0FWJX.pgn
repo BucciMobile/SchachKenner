@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FWJX"]
+[Difficulty "easy"]
+[Rating "1114"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/B6e1LBPI#107"]
+[Solution "d2d4 e5f3 h2g3 f3d4 h3h4 g5g6"]
+[SolutionSAN "Rxd4 Nf3+ Kg3 Nxd4 h4+ Kg6"]
+[FEN "8/8/7p/4n1k1/3p2P1/7P/3R3K/8 w - - 0 54"]
+[SetUp "1"]
+
+54. Rxd4 Nf3+ 55. Kg3 Nxd4 56. h4+ Kg6 *

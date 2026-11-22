@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H0e2"]
+[Difficulty "medium"]
+[Rating "1216"]
+[Themes "discoveredAttack discoveredCheck mate mateIn2 middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/csjOwbNK/black#42"]
+[Solution "b6c5 b4c5 b8a8 a6b7"]
+[SolutionSAN "bxc5 bxc5+ Ka8 Qb7#"]
+[FEN "1k1r3r/p1p1qpp1/Qp2p1p1/2Npn3/1P6/2P1P3/P4PPP/1R2K2R b K - 1 21"]
+[SetUp "1"]
+
+21... bxc5 22. bxc5+ Ka8 23. Qb7# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0K4U5"]
+[Difficulty "hard"]
+[Rating "1759"]
+[Themes "crushing defensiveMove endgame long pin"]
+[GameUrl "https://lichess.org/game/MG2PGvHU#45"]
+[Solution "d2f2 c8h3 b3c3 g7g8 c3a1 e1a1"]
+[SolutionSAN "Rf2 Bh3 Qc3+ Kg8 Qxa1 Rxa1"]
+[FEN "2b5/1p3pkp/1Pp3p1/8/2P5/1Q4P1/3R3P/r3rBK1 w - - 3 23"]
+[SetUp "1"]
+
+23. Rf2 Bh3 24. Qc3+ Kg8 25. Qxa1 Rxa1 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EUQb"]
+[Difficulty "easy"]
+[Rating "773"]
+[Themes "crushing endgame hangingPiece master short"]
+[GameUrl "https://lichess.org/game/ElyXVE47#117"]
+[Solution "g5g6 c2b1 g6g7 d4g7"]
+[SolutionSAN "g6 Kxb1 g7 Bxg7"]
+[FEN "8/8/8/6PK/3b4/7P/1pk5/1R6 w - - 1 59"]
+[SetUp "1"]
+
+59. g6 Kxb1 60. g7 Bxg7 *

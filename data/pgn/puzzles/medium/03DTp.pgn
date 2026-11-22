@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03DTp"]
+[Difficulty "medium"]
+[Rating "1326"]
+[Themes "advantage attraction endgame fork long"]
+[GameUrl "https://lichess.org/game/VNoLoyDr/black#78"]
+[Solution "f6d4 b4d4 d5d4 c7e5 g7g6 e5d4"]
+[SolutionSAN "Qd4 Qxd4+ Rxd4 Be5+ Kg6 Bxd4"]
+[FEN "8/2B2pk1/5q1p/1p1r2p1/pQ6/P6P/5PP1/6K1 b - - 1 39"]
+[SetUp "1"]
+
+39... Qd4 40. Qxd4+ Rxd4 41. Be5+ Kg6 42. Bxd4 *

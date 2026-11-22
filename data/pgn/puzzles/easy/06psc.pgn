@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06psc"]
+[Difficulty "easy"]
+[Rating "1049"]
+[Themes "crushing master middlegame short"]
+[GameUrl "https://lichess.org/game/FOEONTBX/black#50"]
+[Solution "d7e7 e4d5 e6d5 f3d5"]
+[SolutionSAN "Qxe7 exd5 Bxd5 Qxd5+"]
+[FEN "5r2/1k1qNp2/p3bppp/3n4/1P1PP1P1/P4Q1P/4NPK1/2R5 b - - 0 25"]
+[SetUp "1"]
+
+25... Qxe7 26. exd5 Bxd5 27. Qxd5+ *

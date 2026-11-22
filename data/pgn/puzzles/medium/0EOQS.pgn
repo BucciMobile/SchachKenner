@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EOQS"]
+[Difficulty "medium"]
+[Rating "1685"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/AiAs6npa#53"]
+[Solution "h1h7 h8h7 g6h7 e7f7"]
+[SolutionSAN "Rxh7 Rxh7 gxh7 Kxf7"]
+[FEN "r6r/pp1nkB1p/3p1pP1/2pPb3/2N5/1P2P3/P5P1/3R2KR w - - 1 27"]
+[SetUp "1"]
+
+27. Rxh7 Rxh7 28. gxh7 Kxf7 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DRcf"]
+[Difficulty "hard"]
+[Rating "1741"]
+[Themes "advancedPawn kingsideAttack mate mateIn2 middlegame pin sacrifice short"]
+[GameUrl "https://lichess.org/game/rNAEWHMf#35"]
+[Solution "f3d2 g6g3 h2g3 h3h2"]
+[SolutionSAN "Nd2 Qxg3+ hxg3 h2#"]
+[FEN "r3k2r/pp2npp1/1bp3q1/4P3/2Q1b3/1B3NPp/PPP2P1P/R1B2RK1 w kq - 1 18"]
+[SetUp "1"]
+
+18. Nd2 Qxg3+ 19. hxg3 h2# *

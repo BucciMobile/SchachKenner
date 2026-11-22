@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "085j5"]
+[Difficulty "hard"]
+[Rating "2132"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/dywBTqCL/black#56"]
+[Solution "d4e4 e2g3 e3g3 f2g3"]
+[SolutionSAN "Rde4 Ng3 Rxg3 Kxg3"]
+[FEN "8/p1p2pk1/2p4p/8/2nr4/4r2P/P3NKP1/2R2R2 b - - 3 28"]
+[SetUp "1"]
+
+28... Rde4 29. Ng3 Rxg3 30. Kxg3 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00OxK"]
+[Difficulty "easy"]
+[Rating "1149"]
+[Themes "advantage endgame exposedKing fork long"]
+[GameUrl "https://lichess.org/game/xZGqOSNB#65"]
+[Solution "c1c4 c6e5 c4e4 e5f3 g1f2 f3d2"]
+[SolutionSAN "Rc4 Ne5 Rxe4 Nf3+ Kf2 Nxd2"]
+[FEN "3r2k1/1p3p2/p1n2P2/2P3P1/1P2p3/P2pP3/3B4/2R3K1 w - - 0 33"]
+[SetUp "1"]
+
+33. Rc4 Ne5 34. Rxe4 Nf3+ 35. Kf2 Nxd2 *

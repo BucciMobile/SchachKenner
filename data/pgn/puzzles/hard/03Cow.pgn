@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Cow"]
+[Difficulty "hard"]
+[Rating "1777"]
+[Themes "attraction equality kingsideAttack middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/zsh50GkI/black#46"]
+[Solution "h7h5 g4g7 g8g7 c1g5"]
+[SolutionSAN "h5 Rxg7+ Kxg7 Qg5+"]
+[FEN "3r1rk1/ppp2ppp/1b6/8/4P1R1/2Pq3P/P5P1/R1Q1B2K b - - 1 23"]
+[SetUp "1"]
+
+23... h5 24. Rxg7+ Kxg7 25. Qg5+ *

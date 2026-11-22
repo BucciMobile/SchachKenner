@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "070QD"]
+[Difficulty "easy"]
+[Rating "413"]
+[Themes "kingsideAttack master mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/gid8jkbx#37"]
+[Solution "a1f1 f7f1"]
+[SolutionSAN "Rf1 Qxf1#"]
+[FEN "r4rk1/pp3qpp/2p1p3/2PpP3/3P3n/2P1Q1R1/P3N1PP/R5K1 w - - 9 19"]
+[SetUp "1"]
+
+19. Rf1 Qxf1# *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "048Me"]
+[Difficulty "hard"]
+[Rating "1879"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/NNsNdYzr#49"]
+[Solution "c2c7 c8c7 c1c7 b5b6"]
+[SolutionSAN "Rxc7 Rxc7 Rxc7 Qb6+"]
+[FEN "2r3k1/1pp3bp/p2p2p1/1q1P2B1/4r3/1P3N2/2RQ2PP/2R3K1 w - - 0 25"]
+[SetUp "1"]
+
+25. Rxc7 Rxc7 26. Rxc7 Qb6+ *

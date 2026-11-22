@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KQOL"]
+[Difficulty "medium"]
+[Rating "1274"]
+[Themes "advantage endgame pin short"]
+[GameUrl "https://lichess.org/game/odDevSXB#57"]
+[Solution "d4h4 g7g3 g1h2 g3f3"]
+[SolutionSAN "Rh4 Rxg3+ Kh2 Rxf3"]
+[FEN "8/3bkprp/pb2p3/3pP3/1P1R4/P4NP1/5P2/5RK1 w - - 0 29"]
+[SetUp "1"]
+
+29. Rh4 Rxg3+ 30. Kh2 Rxf3 *

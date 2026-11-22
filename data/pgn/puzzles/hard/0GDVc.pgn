@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GDVc"]
+[Difficulty "hard"]
+[Rating "2171"]
+[Themes "crushing deflection endgame long rookEndgame"]
+[GameUrl "https://lichess.org/game/GPTcYDWU/black#102"]
+[Solution "g4h4 e5f5 a6a8 g1g4 h4h3 g4g5"]
+[SolutionSAN "Kh4 Kf5 Ra8 Rg4+ Kh3 Rxg5"]
+[FEN "8/8/r7/4K1p1/4P1k1/8/8/6R1 b - - 1 51"]
+[SetUp "1"]
+
+51... Kh4 52. Kf5 Ra8 53. Rg4+ Kh3 54. Rxg5 *

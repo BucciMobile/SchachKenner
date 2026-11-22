@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "012LI"]
+[Difficulty "hard"]
+[Rating "2238"]
+[Themes "endgame master mate mateIn2 sacrifice short"]
+[GameUrl "https://lichess.org/game/ITMhkGpD#65"]
+[Solution "g2f1 d4a4 b3a4 b5b4"]
+[SolutionSAN "Bf1 Ra4+ bxa4 b4#"]
+[FEN "6k1/p4p1p/4bp2/1p2p3/3r4/KP1nQPN1/P5B1/8 w - - 0 33"]
+[SetUp "1"]
+
+33. Bf1 Ra4+ 34. bxa4 b4# *

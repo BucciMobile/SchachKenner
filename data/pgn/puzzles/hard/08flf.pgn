@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08flf"]
+[Difficulty "hard"]
+[Rating "2463"]
+[Themes "crushing deflection long middlegame"]
+[GameUrl "https://lichess.org/game/ITp2VivX#51"]
+[Solution "e2f3 d8f8 f3g3 c2g6 g3h2 f8f2"]
+[SolutionSAN "Kf3 Rf8+ Kg3 Qg6+ Kh2 Rxf2"]
+[FEN "1r1r2k1/p5pp/Q2Rp3/4p3/1P6/P3P2P/2q1KPP1/6NR w - - 3 26"]
+[SetUp "1"]
+
+26. Kf3 Rf8+ 27. Kg3 Qg6+ 28. Kh2 Rxf2 *

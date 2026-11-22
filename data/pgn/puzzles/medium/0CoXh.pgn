@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CoXh"]
+[Difficulty "medium"]
+[Rating "1450"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/67wQE4jE/black#20"]
+[Solution "e4f6 f1e1 f8e7 d4f5"]
+[SolutionSAN "Nef6 Re1+ Be7 Nf5"]
+[FEN "r2qkb1r/pppn1ppp/8/3p4/3Nn3/5P2/PPP3PP/RNBQ1RK1 b kq - 0 10"]
+[SetUp "1"]
+
+10... Nef6 11. Re1+ Be7 12. Nf5 *

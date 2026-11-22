@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "081VD"]
+[Difficulty "easy"]
+[Rating "1168"]
+[Themes "crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/NeBul0L4#43"]
+[Solution "c3d4 b6a5 e1f1 b8b3"]
+[SolutionSAN "cxd4 Ba5+ Kf1 Rxb3"]
+[FEN "1r6/p1p1k3/1b2p1rp/4P1q1/3p2B1/1QP4P/PP3PP1/R3K2R w KQ - 2 22"]
+[SetUp "1"]
+
+22. cxd4 Ba5+ 23. Kf1 Rxb3 *

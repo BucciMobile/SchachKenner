@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0I4ff"]
+[Difficulty "easy"]
+[Rating "1007"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/ONdD6reJ/black#62"]
+[Solution "e5e4 d6h6 h1h6 d2h6"]
+[SolutionSAN "e4 Rh6+ Qxh6 Qxh6+"]
+[FEN "5r1k/pp6/3R4/2pPp3/2Pb4/P4b2/1P1Q4/1K2B2q b - - 3 31"]
+[SetUp "1"]
+
+31... e4 32. Rh6+ Qxh6 33. Qxh6+ *

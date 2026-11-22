@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AiaB"]
+[Difficulty "hard"]
+[Rating "2269"]
+[Themes "crushing intermezzo middlegame short"]
+[GameUrl "https://lichess.org/game/5LYOyHga#47"]
+[Solution "d6c5 d8d1 e1d1 b6c5"]
+[SolutionSAN "Bxc5 Rxd1 Rxd1 Bxc5"]
+[FEN "3rr1k1/p4pp1/1b1B3p/2p1n1q1/8/2Q3N1/PP3PPP/3RR1K1 w - - 0 24"]
+[SetUp "1"]
+
+24. Bxc5 Rxd1 25. Rxd1 Bxc5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ATwX"]
+[Difficulty "easy"]
+[Rating "1180"]
+[Themes "attackingF2F7 mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/CDU6GiSG/black#16"]
+[Solution "g4d1 c4f7 e8e7 c3d5"]
+[SolutionSAN "Bxd1 Bxf7+ Ke7 Nd5#"]
+[FEN "r2qkb1r/pp3ppp/3p1n2/2p1N1B1/2BnP1b1/2NP4/PPP2PPP/R2Q1RK1 b kq - 0 8"]
+[SetUp "1"]
+
+8... Bxd1 9. Bxf7+ Ke7 10. Nd5# *

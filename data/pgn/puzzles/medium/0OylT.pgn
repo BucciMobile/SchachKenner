@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0OylT"]
+[Difficulty "medium"]
+[Rating "1529"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/vhdrlevR/black#40"]
+[Solution "d6d3 d1d3 b7e4 c2c3"]
+[SolutionSAN "Qxd3+ Rxd3 Bxe4 Qc3+"]
+[FEN "rn2r3/1b3pk1/pp1qp2p/6p1/2P1Nn2/3B1N2/PPQ2P1P/3R1K1R b - - 3 20"]
+[SetUp "1"]
+
+20... Qxd3+ 21. Rxd3 Bxe4 22. Qc3+ *

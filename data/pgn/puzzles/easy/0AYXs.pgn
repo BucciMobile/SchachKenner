@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AYXs"]
+[Difficulty "easy"]
+[Rating "944"]
+[Themes "mate mateIn2 middlegame pillsburysMate short"]
+[GameUrl "https://lichess.org/game/k4wBBdRE#73"]
+[Solution "d3c5 e8f8 a7f7 f8f7"]
+[SolutionSAN "Nc5 Rf8+ Rf7 Rxf7#"]
+[FEN "1k2r3/R7/6pp/1N6/1p6/1P1NP3/P2r2Pb/4RK2 w - - 1 37"]
+[SetUp "1"]
+
+37. Nc5 Rf8+ 38. Rf7 Rxf7# *

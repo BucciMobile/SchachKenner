@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0226P"]
+[Difficulty "hard"]
+[Rating "2164"]
+[Themes "crushing middlegame quietMove veryLong"]
+[GameUrl "https://lichess.org/game/VChG2g0Y/black#56"]
+[Solution "a8d8 d5g5 a5a6 d2e4 h5f3 g5h6 a6f6 e4f6"]
+[SolutionSAN "Rad8 Qg5 Qa6 Ne4 Bf3 Qh6 Qxf6 Nxf6"]
+[FEN "r4r1k/5p1P/5Pp1/qp1Q3b/p7/P1P1P3/1P1N1P2/K6R b - - 0 28"]
+[SetUp "1"]
+
+28... Rad8 29. Qg5 Qa6 30. Ne4 Bf3 31. Qh6 Qxf6 32. Nxf6 *

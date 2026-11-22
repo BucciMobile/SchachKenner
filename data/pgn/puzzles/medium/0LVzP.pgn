@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0LVzP"]
+[Difficulty "medium"]
+[Rating "1683"]
+[Themes "advantage master middlegame pin sacrifice short"]
+[GameUrl "https://lichess.org/game/Aax6S4lb/black#56"]
+[Solution "g5g4 f5h6 g7h6 h1g1"]
+[SolutionSAN "Qxg4 Nxh6+ gxh6 Rg1"]
+[FEN "4r1k1/pp3pp1/2p2n1p/5NqP/2P3P1/1P3Q2/P2r1P2/R4K1R b - - 4 28"]
+[SetUp "1"]
+
+28... Qxg4 29. Nxh6+ gxh6 30. Rg1 *

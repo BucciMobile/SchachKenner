@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0APXZ"]
+[Difficulty "medium"]
+[Rating "1655"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/z3k9wgyJ/black#68"]
+[Solution "e7d6 g7c7"]
+[SolutionSAN "Kd6 Qc7#"]
+[FEN "3r3r/4k1Q1/1p2p3/1b3P2/3n3q/8/PP4B1/2R2RK1 b - - 0 34"]
+[SetUp "1"]
+
+34... Kd6 35. Qc7# *

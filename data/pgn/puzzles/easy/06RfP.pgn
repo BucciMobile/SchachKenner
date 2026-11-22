@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06RfP"]
+[Difficulty "easy"]
+[Rating "959"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/Un7pBSxh#113"]
+[Solution "d6e5 f4d3 e5e4 d3e1"]
+[SolutionSAN "Ke5 Nd3+ Ke4 Nxe1"]
+[FEN "8/8/1p1Kp1kP/p7/P2P1n2/1P3p2/8/4B3 w - - 2 57"]
+[SetUp "1"]
+
+57. Ke5 Nd3+ 58. Ke4 Nxe1 *

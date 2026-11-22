@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0C0Az"]
+[Difficulty "hard"]
+[Rating "2296"]
+[Themes "advantage defensiveMove middlegame short"]
+[GameUrl "https://lichess.org/game/901rTOm4#57"]
+[Solution "e1d1 c8c3 a2a4 f6f5"]
+[SolutionSAN "Red1 Qc3 a4 f5"]
+[FEN "2q5/1p1r2bk/p4ppp/1n1P4/8/1P3NP1/P1PR1PP1/1K2RQ2 w - - 3 29"]
+[SetUp "1"]
+
+29. Red1 Qc3 30. a4 f5 *

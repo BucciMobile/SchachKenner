@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EaK8"]
+[Difficulty "easy"]
+[Rating "857"]
+[Themes "advantage fork middlegame short"]
+[GameUrl "https://lichess.org/game/55eveABH/black#26"]
+[Solution "d8c7 b5c7 e6f7 c7a8"]
+[SolutionSAN "Bxc7 Nxc7 Bf7 Nxa8"]
+[FEN "r2b1rk1/ppB3pp/2n1bn2/1NPp1p2/8/5N1P/PP2PPP1/2KR1B1R b - - 0 13"]
+[SetUp "1"]
+
+13... Bxc7 14. Nxc7 Bf7 15. Nxa8 *

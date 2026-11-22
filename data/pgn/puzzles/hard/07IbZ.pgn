@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07IbZ"]
+[Difficulty "hard"]
+[Rating "2203"]
+[Themes "advantage endgame short"]
+[GameUrl "https://lichess.org/game/s6vGTGtc#53"]
+[Solution "f5f6 d5d4 d1c1 a3c3"]
+[SolutionSAN "f6 d4 Rc1 Qxc3+"]
+[FEN "1r4k1/6pp/2p5/3ppP1Q/p5P1/q1P4P/2K5/3R1R2 w - - 0 27"]
+[SetUp "1"]
+
+27. f6 d4 28. Rc1 Qxc3+ *

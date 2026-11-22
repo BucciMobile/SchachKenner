@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H9kr"]
+[Difficulty "medium"]
+[Rating "1653"]
+[Themes "advancedPawn advantage clearance defensiveMove endgame promotion quietMove veryLong"]
+[GameUrl "https://lichess.org/game/dI3dULN6#61"]
+[Solution "g4f4 b8a8 f4c7 d8b8 h7h4 c2c1q h4c4 c3c4"]
+[SolutionSAN "Qf4+ Ka8 Qc7 Rb8 Rh4 c1=Q Rxc4 Qxc4"]
+[FEN "1k1r4/pp5R/8/8/P1p3Q1/1Pq3P1/2p2PKP/8 w - - 2 31"]
+[SetUp "1"]
+
+31. Qf4+ Ka8 32. Qc7 Rb8 33. Rh4 c1=Q 34. Rxc4 Qxc4 *

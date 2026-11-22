@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01Uff"]
+[Difficulty "easy"]
+[Rating "617"]
+[Themes "endgame mate mateIn2 operaMate short"]
+[GameUrl "https://lichess.org/game/FkmFi9a3#95"]
+[Solution "d3h7 c6c1 g1h2 c1h1"]
+[SolutionSAN "Qh7 Rc1+ Kh2 Rh1#"]
+[FEN "8/5p2/2rk4/3b4/7P/3Q2P1/5P2/6K1 w - - 3 48"]
+[SetUp "1"]
+
+48. Qh7 Rc1+ 49. Kh2 Rh1# *

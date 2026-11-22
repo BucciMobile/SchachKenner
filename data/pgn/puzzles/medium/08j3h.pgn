@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "08j3h"]
+[Difficulty "medium"]
+[Rating "1324"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/XXcb2spr/black#70"]
+[Solution "e4e5 d3d8 f6g8 d8g8 h8g8 b5e8"]
+[SolutionSAN "Qe5 Rd8+ Ng8 Rxg8+ Kxg8 Qe8#"]
+[FEN "7k/ppp3pp/4pn2/1QP2p1P/4q3/3R4/PP3r2/K2B4 b - - 4 35"]
+[SetUp "1"]
+
+35... Qe5 36. Rd8+ Ng8 37. Rxg8+ Kxg8 38. Qe8# *

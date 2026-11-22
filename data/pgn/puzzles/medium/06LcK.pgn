@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "06LcK"]
+[Difficulty "medium"]
+[Rating "1279"]
+[Themes "attraction long mate mateIn3 middlegame pillsburysMate sacrifice"]
+[GameUrl "https://lichess.org/game/sKFo9Hg0#43"]
+[Solution "g4e2 h8h3 h2h3 d8h8 e2h5 h8h5"]
+[SolutionSAN "Qe2 Rxh3+ Kxh3 Rh8+ Qh5 Rxh5#"]
+[FEN "2kr3r/1pp3p1/p3p3/3pPp2/4b1Q1/PP2b1PP/1BP4K/R4R2 w - f6 0 22"]
+[SetUp "1"]
+
+22. Qe2 Rxh3+ 23. Kxh3 Rh8+ 24. Qh5 Rxh5# *

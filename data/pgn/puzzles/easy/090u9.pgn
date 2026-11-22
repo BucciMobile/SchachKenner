@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "090u9"]
+[Difficulty "easy"]
+[Rating "990"]
+[Themes "advantage fork opening short"]
+[GameUrl "https://lichess.org/game/KQEf6dTy#15"]
+[Solution "b3c5 d8a5 d1d2 a5c5"]
+[SolutionSAN "Nxc5 Qa5+ Qd2 Qxc5"]
+[FEN "rn1qk1nr/pp3ppp/4b3/2p1P3/2Pp4/1N3N2/PP2PPPP/R2QKB1R w KQkq - 2 8"]
+[SetUp "1"]
+
+8. Nxc5 Qa5+ 9. Qd2 Qxc5 *

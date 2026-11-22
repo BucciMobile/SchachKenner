@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E6WK"]
+[Difficulty "medium"]
+[Rating "1370"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/vsrr6Nwu/black#50"]
+[Solution "e6d7 e1e7 f7f6 g5f6"]
+[SolutionSAN "Bd7 Re7 Qf6 Qxf6"]
+[FEN "r4rk1/5q1p/p3b1p1/1p1p1pQ1/3P1N2/3B3P/PP3PP1/4R1K1 b - - 3 25"]
+[SetUp "1"]
+
+25... Bd7 26. Re7 Qf6 27. Qxf6 *

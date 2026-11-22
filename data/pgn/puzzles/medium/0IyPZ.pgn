@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IyPZ"]
+[Difficulty "medium"]
+[Rating "1691"]
+[Themes "crushing endgame long"]
+[GameUrl "https://lichess.org/game/MVFsXCXT/black#58"]
+[Solution "h5g4 h3g4 f5h7 e1h1 h7h1 f3h1"]
+[SolutionSAN "hxg4 hxg4 Qh7 Rh1 Qxh1 Qxh1"]
+[FEN "4r1k1/p1p3p1/4rp2/2p1Pq1p/2PpRPP1/1P3Q1P/P4K2/4R3 b - - 0 29"]
+[SetUp "1"]
+
+29... hxg4 30. hxg4 Qh7 31. Rh1 Qxh1 32. Qxh1 *

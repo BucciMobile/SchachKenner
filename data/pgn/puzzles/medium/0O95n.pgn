@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0O95n"]
+[Difficulty "medium"]
+[Rating "1238"]
+[Themes "advantage endgame fork short"]
+[GameUrl "https://lichess.org/game/6TyUj9Mm#91"]
+[Solution "b4e4 b5c3 e2f3 c3e4"]
+[SolutionSAN "Rxe4 Nc3+ Kf3 Nxe4"]
+[FEN "8/7p/2k1bP2/1nP5/pR2pB2/r3N3/4K2P/8 w - - 0 46"]
+[SetUp "1"]
+
+46. Rxe4 Nc3+ 47. Kf3 Nxe4 *

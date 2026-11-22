@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IzpY"]
+[Difficulty "easy"]
+[Rating "973"]
+[Themes "advantage deflection endgame short"]
+[GameUrl "https://lichess.org/game/BoijFUg9#55"]
+[Solution "f1f2 e4e3 f3g2 e3e2"]
+[SolutionSAN "Rf2 Re3+ Kg2 Rxe2"]
+[FEN "4r3/p4p1p/1p1p1kp1/2pP4/4rP2/P4K2/1P2B2P/R4R2 w - - 5 28"]
+[SetUp "1"]
+
+28. Rf2 Re3+ 29. Kg2 Rxe2 *

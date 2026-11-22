@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0KGoy"]
+[Difficulty "hard"]
+[Rating "2649"]
+[Themes "advancedPawn crushing endgame master pawnEndgame veryLong"]
+[GameUrl "https://lichess.org/game/SXuzYS7d#69"]
+[Solution "f2f4 g5f4 e3f4 h4h3 e4f3 e5e4 f3e4 h3h2"]
+[SolutionSAN "f4 gxf4 exf4 h3 Kf3 e4+ Kxe4 h2"]
+[FEN "8/p7/4k3/4p1p1/1pP1K1Pp/1P2P3/P4P2/8 w - - 2 35"]
+[SetUp "1"]
+
+35. f4 gxf4 36. exf4 h3 37. Kf3 e4+ 38. Kxe4 h2 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07czX"]
+[Difficulty "easy"]
+[Rating "952"]
+[Themes "advantage middlegame short"]
+[GameUrl "https://lichess.org/game/1hCiYs02#43"]
+[Solution "d1e2 c8c1 a3c1 d3b3"]
+[SolutionSAN "Be2 Rxc1+ Qxc1 Qxb3"]
+[FEN "2r2rk1/pp3ppp/4p3/3pP3/P2P4/QN1q4/5PPP/2RB1K2 w - - 5 22"]
+[SetUp "1"]
+
+22. Be2 Rxc1+ 23. Qxc1 Qxb3 *

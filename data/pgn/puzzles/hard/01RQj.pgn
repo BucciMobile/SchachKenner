@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "01RQj"]
+[Difficulty "hard"]
+[Rating "2254"]
+[Themes "crushing endgame long trappedPiece"]
+[GameUrl "https://lichess.org/game/NkBUHRME/black#64"]
+[Solution "g2g1 d1g1 f5c8 b2b4 c5c4 d3c4"]
+[SolutionSAN "Rxg1 Rxg1 Qc8 b4 Rxc4+ dxc4"]
+[FEN "k7/5n2/1Qpp4/2r1pq1p/2P5/3P1P2/PP4rP/2KR2R1 b - - 1 32"]
+[SetUp "1"]
+
+32... Rxg1 33. Rxg1 Qc8 34. b4 Rxc4+ 35. dxc4 *

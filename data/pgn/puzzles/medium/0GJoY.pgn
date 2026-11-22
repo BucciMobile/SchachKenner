@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GJoY"]
+[Difficulty "medium"]
+[Rating "1557"]
+[Themes "advantage endgame short trappedPiece"]
+[GameUrl "https://lichess.org/game/iE2azmec/black#62"]
+[Solution "e8e7 c4a4 a2c3 b2c3"]
+[SolutionSAN "Re7 Ra4 Nc3 bxc3"]
+[FEN "4r3/pkp4p/1p6/8/2R2B2/8/nP3P1P/5K2 b - - 1 31"]
+[SetUp "1"]
+
+31... Re7 32. Ra4 Nc3 33. bxc3 *

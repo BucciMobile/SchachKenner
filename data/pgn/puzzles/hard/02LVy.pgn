@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02LVy"]
+[Difficulty "hard"]
+[Rating "2057"]
+[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
+[GameUrl "https://lichess.org/game/XehZnxRT#137"]
+[Solution "b2d3 b4b3 e4d4 b3b2 d4c3 b2b1q"]
+[SolutionSAN "Nd3 b3 Kd4 b2 Kxc3 b1=Q"]
+[FEN "8/8/8/1k6/1p2K3/2p5/1N6/8 w - - 0 69"]
+[SetUp "1"]
+
+69. Nd3 b3 70. Kd4 b2 71. Kxc3 b1=Q *

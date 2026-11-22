@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0DIhL"]
+[Difficulty "hard"]
+[Rating "1710"]
+[Themes "advantage endgame hangingPiece long"]
+[GameUrl "https://lichess.org/game/ddNzFQzj/black#82"]
+[Solution "a6c4 a2c4 a3a2 c4f1 f6e7 f1a1"]
+[SolutionSAN "Qxc4 Qxc4 a2 Qf1+ Ke7 Qa1"]
+[FEN "r7/5p1p/q3pkp1/8/2RP4/p1P1P1P1/Q6P/6K1 b - - 0 41"]
+[SetUp "1"]
+
+41... Qxc4 42. Qxc4 a2 43. Qf1+ Ke7 44. Qa1 *

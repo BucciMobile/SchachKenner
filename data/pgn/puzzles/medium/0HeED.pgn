@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HeED"]
+[Difficulty "medium"]
+[Rating "1401"]
+[Themes "attackingF2F7 crushing deflection opening short"]
+[GameUrl "https://lichess.org/game/R3TxIgCQ/black#12"]
+[Solution "d4c3 c4f7 e8f7 d1d8"]
+[SolutionSAN "dxc3 Bxf7+ Kxf7 Qxd8"]
+[FEN "rnbqk1nr/ppp1ppbp/6p1/8/2Bp4/2N2N2/PPP2PPP/R1BQK2R b KQkq - 1 6"]
+[SetUp "1"]
+
+6... dxc3 7. Bxf7+ Kxf7 8. Qxd8 *

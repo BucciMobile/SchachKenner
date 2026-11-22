@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00GWg"]
+[Difficulty "hard"]
+[Rating "2066"]
+[Themes "crushing middlegame veryLong"]
+[GameUrl "https://lichess.org/game/M7Dta3mv#51"]
+[Solution "d6b7 b8b7 c5c6 b7b1 g1f1 d8d1 e1d1 b1d1 f1e2 e6d7"]
+[SolutionSAN "Nxb7 Rxb7 Rxc6 Rb1 Kf1 Rdxd1 Rxd1 Rxd1+ Ke2 Bd7"]
+[FEN "1r1r2k1/pp4pp/2nNb3/2R2p2/2P1p3/8/P4PPP/3BR1K1 w - - 1 26"]
+[SetUp "1"]
+
+26. Nxb7 Rxb7 27. Rxc6 Rb1 28. Kf1 Rdxd1 29. Rxd1 Rxd1+ 30. Ke2 Bd7 *

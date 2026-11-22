@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JGKs"]
+[Difficulty "medium"]
+[Rating "1463"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/0iKqQ3Wk#63"]
+[Solution "d2d4 d8d4 d1d4 e5e3"]
+[SolutionSAN "Rxd4 Rxd4 Rxd4 Rxe3"]
+[FEN "3r2k1/pp5p/4qb2/4r1pQ/3p4/4N2P/PP1R1PP1/3R2K1 w - - 0 32"]
+[SetUp "1"]
+
+32. Rxd4 Rxd4 33. Rxd4 Rxe3 *

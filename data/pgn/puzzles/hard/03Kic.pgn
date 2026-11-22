@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03Kic"]
+[Difficulty "hard"]
+[Rating "2108"]
+[Themes "bishopEndgame crushing defensiveMove endgame short"]
+[GameUrl "https://lichess.org/game/TSCbkBNp/black#76"]
+[Solution "f6g5 a5a6 b7a6 b5c6"]
+[SolutionSAN "Bg5 a6 bxa6+ Kc6"]
+[FEN "2k5/1p6/1B1p1bp1/PK1Ppp2/4P2p/5P1P/6P1/8 b - - 0 38"]
+[SetUp "1"]
+
+38... Bg5 39. a6 bxa6+ 40. Kc6 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "002mG"]
+[Difficulty "hard"]
+[Rating "2377"]
+[Themes "advantage middlegame quietMove short"]
+[GameUrl "https://lichess.org/game/age2hanq#71"]
+[Solution "g2f2 f8e8 c6e8 e5e8"]
+[SolutionSAN "Kf2 Re8 Qxe8+ Qxe8"]
+[FEN "5r1k/B1p3pp/2Qb1p2/3Pq3/P6P/8/2P3K1/3R1R2 w - - 1 36"]
+[SetUp "1"]
+
+36. Kf2 Re8 37. Qxe8+ Qxe8 *

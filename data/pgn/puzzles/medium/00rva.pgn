@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00rva"]
+[Difficulty "medium"]
+[Rating "1251"]
+[Themes "crushing opening short"]
+[GameUrl "https://lichess.org/game/14QnOxb7/black#14"]
+[Solution "a8b8 b5c7 d8c7 b7c7"]
+[SolutionSAN "Rb8 Nxc7+ Qxc7 Qxc7"]
+[FEN "r2qkb1r/pQpbpppp/2n2n2/1N6/2pP4/8/PP2PPPP/R1B1KBNR b KQkq - 2 7"]
+[SetUp "1"]
+
+7... Rb8 8. Nxc7+ Qxc7 9. Qxc7 *

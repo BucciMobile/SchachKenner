@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ImpW"]
+[Difficulty "medium"]
+[Rating "1236"]
+[Themes "crushing discoveredAttack long middlegame"]
+[GameUrl "https://lichess.org/game/YxYWxAhu#67"]
+[Solution "a4a5 e2f3 g2f3 e7e1 a1e1 e8e1"]
+[SolutionSAN "a5 Bxf3 gxf3 Rxe1+ Rxe1 Rxe1+"]
+[FEN "4r3/3nr1pk/5q1p/3B1p2/P4Q2/5NP1/4bPP1/R3R1K1 w - - 1 34"]
+[SetUp "1"]
+
+34. a5 Bxf3 35. gxf3 Rxe1+ 36. Rxe1 Rxe1+ *

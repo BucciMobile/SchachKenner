@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0B1OL"]
+[Difficulty "easy"]
+[Rating "512"]
+[Themes "endgame mate mateIn1 oneMove operaMate"]
+[GameUrl "https://lichess.org/game/UBVLFEz6/black#72"]
+[Solution "d8f8 f1f8"]
+[SolutionSAN "Rxf8 Rxf8#"]
+[FEN "3r1Qk1/1b4pp/p2B2q1/1p1P4/8/2P4P/P5P1/5RK1 b - - 2 36"]
+[SetUp "1"]
+
+36... Rxf8 37. Rxf8# *

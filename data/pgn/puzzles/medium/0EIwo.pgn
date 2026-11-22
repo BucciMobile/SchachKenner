@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EIwo"]
+[Difficulty "medium"]
+[Rating "1372"]
+[Themes "crushing hangingPiece middlegame pin short"]
+[GameUrl "https://lichess.org/game/R9IMco8Q/black#40"]
+[Solution "e5d3 d4d3 e8g8 e1e6"]
+[SolutionSAN "Nd3+ Qxd3 O-O Rxe6"]
+[FEN "r3k2r/1b4pp/p3q3/4n3/1b1Q4/1PN2PPn/PB5P/2KRR3 b kq - 1 20"]
+[SetUp "1"]
+
+20... Nd3+ 21. Qxd3 O-O 22. Rxe6 *

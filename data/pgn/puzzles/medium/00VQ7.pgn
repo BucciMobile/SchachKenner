@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00VQ7"]
+[Difficulty "medium"]
+[Rating "1546"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/mstWBf97#29"]
+[Solution "f4g5 d8g5 c1b1 f8f3"]
+[SolutionSAN "Bxg5 Qxg5+ Kb1 Rxf3"]
+[FEN "r2q1r1k/pppn2pp/2n1B3/6b1/5B2/2N2Q2/PPP3PP/2KR1R2 w - - 1 15"]
+[SetUp "1"]
+
+15. Bxg5 Qxg5+ 16. Kb1 Rxf3 *

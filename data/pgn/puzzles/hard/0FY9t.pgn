@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FY9t"]
+[Difficulty "hard"]
+[Rating "2198"]
+[Themes "advancedPawn advantage interference long middlegame"]
+[GameUrl "https://lichess.org/game/ZIrqW1yo#41"]
+[Solution "c4a5 e7f6 a7f2 d3d2 c1d1 f6b2"]
+[SolutionSAN "Na5 Bf6 Qf2 d2 Rd1 Bxb2"]
+[FEN "3r1rk1/Q3bppp/4p3/1p4q1/1PN1P3/P2p1P2/1B4PP/2R2K1R w - - 0 21"]
+[SetUp "1"]
+
+21. Na5 Bf6 22. Qf2 d2 23. Rd1 Bxb2 *

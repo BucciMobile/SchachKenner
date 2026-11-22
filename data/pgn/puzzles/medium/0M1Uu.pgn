@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M1Uu"]
+[Difficulty "medium"]
+[Rating "1242"]
+[Themes "crushing endgame long rookEndgame xRayAttack"]
+[GameUrl "https://lichess.org/game/hfD90CfN/black#58"]
+[Solution "e5e7 c7c8 e7d7 c8d8 d7d8 d1d8"]
+[SolutionSAN "Re7 Rc8 Rxd7 Rxd8+ Rxd8 Rxd8+"]
+[FEN "3r2k1/2RP3p/p5p1/1p2rp2/4p3/7P/PP3PP1/3R2K1 b - - 0 29"]
+[SetUp "1"]
+
+29... Re7 30. Rc8 Rxd7 31. Rxd8+ Rxd8 32. Rxd8+ *

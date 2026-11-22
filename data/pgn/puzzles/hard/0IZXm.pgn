@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IZXm"]
+[Difficulty "hard"]
+[Rating "1741"]
+[Themes "advantage endgame rookEndgame short"]
+[GameUrl "https://lichess.org/game/Dy2nd6U8#109"]
+[Solution "f2f3 d2h2 e3e8 h2h3"]
+[SolutionSAN "Kf3 Rh2 Re8 Rxh3+"]
+[FEN "8/8/8/5kp1/7p/3PR2P/3r1K2/8 w - - 2 55"]
+[SetUp "1"]
+
+55. Kf3 Rh2 56. Re8 Rxh3+ *

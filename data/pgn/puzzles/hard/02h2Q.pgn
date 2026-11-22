@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "02h2Q"]
+[Difficulty "hard"]
+[Rating "2032"]
+[Themes "advancedPawn crushing endgame long promotion"]
+[GameUrl "https://lichess.org/game/7L3QIplY#97"]
+[Solution "d7f6 f4f3 e2h2 g3h2 c5c6 h2h1q"]
+[SolutionSAN "Nf6 Kf3 Rxh2 gxh2 c6 h1=Q"]
+[FEN "8/3N4/p7/2PP4/P4k2/1P4p1/3KR2r/8 w - - 1 49"]
+[SetUp "1"]
+
+49. Nf6 Kf3 50. Rxh2 gxh2 51. c6 h1=Q *

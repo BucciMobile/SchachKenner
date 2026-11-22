@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E3WV"]
+[Difficulty "easy"]
+[Rating "1016"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/rGh8kLAF/black#100"]
+[Solution "h2d2 f6h6"]
+[SolutionSAN "Rxd2 Rh6#"]
+[FEN "4r2k/1pb5/p4R2/P2p1p2/3P4/2P2K2/1P1B3r/6R1 b - - 5 50"]
+[SetUp "1"]
+
+50... Rxd2 51. Rh6# *

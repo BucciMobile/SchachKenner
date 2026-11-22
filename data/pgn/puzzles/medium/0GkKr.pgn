@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GkKr"]
+[Difficulty "medium"]
+[Rating "1584"]
+[Themes "crushing endgame hangingPiece long"]
+[GameUrl "https://lichess.org/game/twAXHzJ7#65"]
+[Solution "e5d6 e8e1 g1f2 e1f1 f2e3 c8e8"]
+[SolutionSAN "exd6 Rxe1+ Kf2 Rf1+ Ke3 Re8+"]
+[FEN "2r1r1k1/5ppp/p2q4/P2pP3/1PbQ4/2P3R1/6PP/4R1K1 w - - 0 33"]
+[SetUp "1"]
+
+33. exd6 Rxe1+ 34. Kf2 Rf1+ 35. Ke3 Re8+ *

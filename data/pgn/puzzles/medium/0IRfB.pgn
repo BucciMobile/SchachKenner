@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IRfB"]
+[Difficulty "medium"]
+[Rating "1305"]
+[Themes "crushing endgame fork long queenRookEndgame"]
+[GameUrl "https://lichess.org/game/4iwkqQrI/black#82"]
+[Solution "h5g4 h2h3 g4f4 h3f3 f4e5 f3e2"]
+[SolutionSAN "Kg4 Qh3+ Kf4 Qf3+ Ke5 Qxe2+"]
+[FEN "8/p7/7p/2p3rk/3p4/P2P4/4r1PQ/6K1 b - - 8 41"]
+[SetUp "1"]
+
+41... Kg4 42. Qh3+ Kf4 43. Qf3+ Ke5 44. Qxe2+ *

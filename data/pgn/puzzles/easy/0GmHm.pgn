@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GmHm"]
+[Difficulty "easy"]
+[Rating "1195"]
+[Themes "crushing opening pin short"]
+[GameUrl "https://lichess.org/game/8U8at1Mi#17"]
+[Solution "e1g1 f8c5 e3c5 b6c5"]
+[SolutionSAN "O-O Bc5 Qxc5 bxc5"]
+[FEN "r2qkb1r/1bpp1pp1/ppn2n1p/8/4PP2/2NBQ3/PPP1N1PP/R1B1K2R w KQkq - 0 9"]
+[SetUp "1"]
+
+9. O-O Bc5 10. Qxc5 bxc5 *

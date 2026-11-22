@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03sBK"]
+[Difficulty "easy"]
+[Rating "950"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/QNVILkwd/black#56"]
+[Solution "g8h7 c7g7"]
+[SolutionSAN "Kh7 Rxg7#"]
+[FEN "r2r2k1/2R3p1/5pNp/p4N2/Pn2P3/7P/1P4P1/6K1 b - - 3 28"]
+[SetUp "1"]
+
+28... Kh7 29. Rxg7# *

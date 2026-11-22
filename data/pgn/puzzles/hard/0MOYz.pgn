@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0MOYz"]
+[Difficulty "hard"]
+[Rating "2130"]
+[Themes "advancedPawn attraction crushing kingsideAttack long middlegame"]
+[GameUrl "https://lichess.org/game/46LwkoJk#49"]
+[Solution "f2h2 f3f2 h2f2 f8f2 g1f2 a8f8"]
+[SolutionSAN "Rh2 f2+ Rxf2 Rxf2 Kxf2 Rf8+"]
+[FEN "r4rk1/p1p5/2p3pp/4p3/4P3/1NP2p1q/PPQB1R2/R5K1 w - - 0 25"]
+[SetUp "1"]
+
+25. Rh2 f2+ 26. Rxf2 Rxf2 27. Kxf2 Rf8+ *

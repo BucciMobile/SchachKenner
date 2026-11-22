@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CVR9"]
+[Difficulty "hard"]
+[Rating "1758"]
+[Themes "crushing defensiveMove long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/VqsO841O#45"]
+[Solution "g1g2 c6c5 d3g6 f7g7 g6e8 a8e8"]
+[SolutionSAN "Kg2 c5 Qg6+ Rg7 Qe8+ Qxe8"]
+[FEN "q5k1/p2p1r2/1pp2p2/6pp/8/P1PQBnP1/P4P1P/R4RK1 w - - 1 23"]
+[SetUp "1"]
+
+23. Kg2 c5 24. Qg6+ Rg7 25. Qe8+ Qxe8 *

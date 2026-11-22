@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05Bqb"]
+[Difficulty "hard"]
+[Rating "2297"]
+[Themes "advantage deflection kingsideAttack master middlegame veryLong"]
+[GameUrl "https://lichess.org/game/rljiUzr3/black#36"]
+[Solution "f6g5 d3h7 g7h7 h5g5 h7g7 g4f6 f8f6 g5f6 g7f6 f4f6"]
+[SolutionSAN "Bg5 Bxh7+ Qxh7 Qxg5+ Qg7 Nf6+ Rxf6 Qxf6 Qxf6 Rxf6"]
+[FEN "r4rk1/ppp3qp/2n1bb2/3p3Q/3P1RN1/2PB3P/PP4P1/R5K1 b - - 2 18"]
+[SetUp "1"]
+
+18... Bg5 19. Bxh7+ Qxh7 20. Qxg5+ Qg7 21. Nf6+ Rxf6 22. Qxf6 Qxf6 23. Rxf6 *

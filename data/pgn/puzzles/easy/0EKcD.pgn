@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0EKcD"]
+[Difficulty "easy"]
+[Rating "944"]
+[Themes "crushing fork middlegame short"]
+[GameUrl "https://lichess.org/game/YUTnMpjZ#35"]
+[Solution "f1g1 e5f3 h2g2 f3e1"]
+[SolutionSAN "Rg1 Nf3+ Kg2 Nxe1+"]
+[FEN "r4rk1/1p1q1pb1/p2p4/2pPn2p/P3P2p/2P4P/1PB4K/RNB1QR2 w - - 2 18"]
+[SetUp "1"]
+
+18. Rg1 Nf3+ 19. Kg2 Nxe1+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FU9i"]
+[Difficulty "hard"]
+[Rating "2246"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion veryLong"]
+[GameUrl "https://lichess.org/game/emlYFMkJ/black#142"]
+[Solution "b6b5 d5e6 b5c4 e6f6 b7b5 f6e5 b5b4 f5f6 b4b3 f6f7 b3b2 f7f8q"]
+[SolutionSAN "Kb5 Ke6 Kc4 Kxf6 b5 Ke5 b4 f6 b3 f7 b2 f8=Q"]
+[FEN "8/1p6/1k3p1p/3K1P1P/8/8/8/8 b - - 1 71"]
+[SetUp "1"]
+
+71... Kb5 72. Ke6 Kc4 73. Kxf6 b5 74. Ke5 b4 75. f6 b3 76. f7 b2 77. f8=Q *

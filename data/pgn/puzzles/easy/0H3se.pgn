@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0H3se"]
+[Difficulty "easy"]
+[Rating "1140"]
+[Themes "bishopEndgame crushing discoveredAttack endgame short"]
+[GameUrl "https://lichess.org/game/QXaw8VZv#85"]
+[Solution "h2h4 g5h4 g3h4 h6e3"]
+[SolutionSAN "h4 gxh4+ Kxh4 Bxe3"]
+[FEN "8/p4k2/1p3p1b/2p1p1p1/2P1P1P1/1P2BPK1/P6P/8 w - - 3 43"]
+[SetUp "1"]
+
+43. h4 gxh4+ 44. Kxh4 Bxe3 *

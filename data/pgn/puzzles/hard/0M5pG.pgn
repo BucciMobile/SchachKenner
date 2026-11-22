@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0M5pG"]
+[Difficulty "hard"]
+[Rating "2461"]
+[Themes "crushing middlegame short"]
+[GameUrl "https://lichess.org/game/vVYZ4yrO#45"]
+[Solution "g1f2 g6h6 c3e1 h6h2"]
+[SolutionSAN "Kf2 Rh6 Be1 Rxh2+"]
+[FEN "2k3r1/ppp4p/3pp1r1/5n2/2P5/NPBN2P1/P6P/5RK1 w - - 1 23"]
+[SetUp "1"]
+
+23. Kf2 Rh6 24. Be1 Rxh2+ *

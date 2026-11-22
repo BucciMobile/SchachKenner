@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0CPUM"]
+[Difficulty "easy"]
+[Rating "1101"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/HO2U7ZRu/black#52"]
+[Solution "f7f5 h5g6 h7h8 g6g7"]
+[SolutionSAN "f5 Qg6+ Kh8 Qg7#"]
+[FEN "2r2r2/p4p1k/1pn1p2p/2p4Q/4B3/2P3R1/PP1q3P/7K b - - 3 26"]
+[SetUp "1"]
+
+26... f5 27. Qg6+ Kh8 28. Qg7# *

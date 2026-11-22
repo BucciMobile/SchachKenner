@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0HUki"]
+[Difficulty "easy"]
+[Rating "848"]
+[Themes "crushing endgame fork short"]
+[GameUrl "https://lichess.org/game/uA2qTrnJ#103"]
+[Solution "a5a6 b8b6 a6a7 b6c6"]
+[SolutionSAN "Ka6 Rb6+ Kxa7 Rxc6"]
+[FEN "1r6/p7/2B5/K3k1p1/8/7R/8/8 w - - 0 52"]
+[SetUp "1"]
+
+52. Ka6 Rb6+ 53. Kxa7 Rxc6 *

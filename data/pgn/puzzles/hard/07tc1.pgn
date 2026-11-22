@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07tc1"]
+[Difficulty "hard"]
+[Rating "1944"]
+[Themes "advantage endgame long pin"]
+[GameUrl "https://lichess.org/game/Z9YKXacs#51"]
+[Solution "f7b7 f8f2 f1f2 a8f8 b7f3 f8f3"]
+[SolutionSAN "Qb7 Rxf2 Rxf2 Rf8 Qf3 Rxf3"]
+[FEN "r4r1k/p4Qp1/3p3p/8/8/4q3/PPP2RPP/5RK1 w - - 3 26"]
+[SetUp "1"]
+
+26. Qb7 Rxf2 27. Rxf2 Rf8 28. Qf3 Rxf3 *

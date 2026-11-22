@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "018eM"]
+[Difficulty "hard"]
+[Rating "2038"]
+[Themes "advantage attraction fork long middlegame sacrifice"]
+[GameUrl "https://lichess.org/game/l9vJlF2a/black#22"]
+[Solution "f8e7 e2e7 e8e7 c3d5 e7d6 d5b6"]
+[SolutionSAN "Be7 Qxe7+ Kxe7 Nxd5+ Kd6 Nxb6"]
+[FEN "r3kb1r/1p1b1pp1/pq3p1p/3p4/3P4/2N2N2/PPP1QPPP/R3K2R b KQkq - 1 11"]
+[SetUp "1"]
+
+11... Be7 12. Qxe7+ Kxe7 13. Nxd5+ Kd6 14. Nxb6 *

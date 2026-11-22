@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JTkd"]
+[Difficulty "medium"]
+[Rating "1237"]
+[Themes "capturingDefender crushing discoveredAttack middlegame short"]
+[GameUrl "https://lichess.org/game/vt1K9zcT#29"]
+[Solution "d2g5 f6e4 f3e4 d8g5"]
+[SolutionSAN "Bg5 Nxe4 fxe4 Qxg5+"]
+[FEN "r2qrbk1/1pp2ppp/p1np1n2/8/2BPN3/5P2/PPPB1QPP/2KR3R w - - 2 15"]
+[SetUp "1"]
+
+15. Bg5 Nxe4 16. fxe4 Qxg5+ *

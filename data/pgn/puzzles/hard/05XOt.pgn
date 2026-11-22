@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05XOt"]
+[Difficulty "hard"]
+[Rating "2174"]
+[Themes "advantage defensiveMove master middlegame short"]
+[GameUrl "https://lichess.org/game/5cbU27HK/black#60"]
+[Solution "e5a1 h1h2 f7f6 e4e5"]
+[SolutionSAN "Qa1+ Kh2 f6 e5"]
+[FEN "4r2k/1p2rp1p/p7/P1pPqR2/4P1RQ/3n3P/6P1/7K b - - 0 30"]
+[SetUp "1"]
+
+30... Qa1+ 31. Kh2 f6 32. e5 *

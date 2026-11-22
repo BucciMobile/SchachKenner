@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0778a"]
+[Difficulty "medium"]
+[Rating "1439"]
+[Themes "deflection endgame long mate mateIn3 sacrifice"]
+[GameUrl "https://lichess.org/game/YsHvFvzO#51"]
+[Solution "e4e5 f6f2 d2f2 d4d1 f2f1 d1f1"]
+[SolutionSAN "e5 Qxf2+ Rxf2 Rxd1+ Rf1 Rdxf1#"]
+[FEN "5rk1/2p3pp/2Q1pq2/p7/3rP3/8/PP1R1PPP/3R2K1 w - - 0 26"]
+[SetUp "1"]
+
+26. e5 Qxf2+ 27. Rxf2 Rxd1+ 28. Rf1 Rdxf1# *

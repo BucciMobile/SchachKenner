@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0IEWh"]
+[Difficulty "medium"]
+[Rating "1382"]
+[Themes "crushing deflection endgame fork short"]
+[GameUrl "https://lichess.org/game/AyfxziDh/black#64"]
+[Solution "d4d7 h7f6 e8f8 g7d7"]
+[SolutionSAN "Rd7 Nf6+ Kf8 Rxd7"]
+[FEN "4k3/6RN/4p1p1/5p2/3r4/n5P1/5PKP/8 b - - 2 32"]
+[SetUp "1"]
+
+32... Rd7 33. Nf6+ Kf8 34. Rxd7 *

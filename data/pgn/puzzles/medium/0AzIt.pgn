@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0AzIt"]
+[Difficulty "medium"]
+[Rating "1580"]
+[Themes "crushing fork long middlegame"]
+[GameUrl "https://lichess.org/game/BILxScc9#51"]
+[Solution "h2h3 g4e3 f2e3 g5e3 g1h1 e3a3"]
+[SolutionSAN "h3 Nxe3 fxe3 Qxe3+ Kh1 Qxa3"]
+[FEN "4r1k1/5pb1/1pN3p1/pP4qp/P1Q1p1n1/B3P3/5PPP/3R2K1 w - - 1 26"]
+[SetUp "1"]
+
+26. h3 Nxe3 27. fxe3 Qxe3+ 28. Kh1 Qxa3 *

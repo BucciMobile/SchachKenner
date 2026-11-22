@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0D8nb"]
+[Difficulty "hard"]
+[Rating "2227"]
+[Themes "crushing endgame exposedKing long master masterVsMaster"]
+[GameUrl "https://lichess.org/game/htp8ieOa#117"]
+[Solution "d8h4 e5e2 g2h3 e2f1 g3g2 f1h1"]
+[SolutionSAN "Qh4 Qe2+ Kh3 Qf1+ Rg2 Qh1+"]
+[FEN "3Q1rk1/8/3p2P1/2p1q3/2P5/6R1/6K1/8 w - - 7 59"]
+[SetUp "1"]
+
+59. Qh4 Qe2+ 60. Kh3 Qf1+ 61. Rg2 Qh1+ *

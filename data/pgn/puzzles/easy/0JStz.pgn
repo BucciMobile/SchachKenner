@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JStz"]
+[Difficulty "easy"]
+[Rating "818"]
+[Themes "endgame epauletteMate master mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/UtbZcYhP#113"]
+[Solution "e2g1 d2f2"]
+[SolutionSAN "Ng1 Rf2#"]
+[FEN "8/8/8/6p1/4kp2/4p3/3rN1P1/4RK2 w - - 8 57"]
+[SetUp "1"]
+
+57. Ng1 Rf2# *

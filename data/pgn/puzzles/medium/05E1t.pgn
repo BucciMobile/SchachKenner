@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "05E1t"]
+[Difficulty "medium"]
+[Rating "1321"]
+[Themes "advantage intermezzo opening short"]
+[GameUrl "https://lichess.org/game/tpQisJ4p#17"]
+[Solution "f3e5 d8d1 e1d1 f6e5"]
+[SolutionSAN "Nxe5 Qxd1+ Kxd1 Bxe5"]
+[FEN "rnbqk2r/ppp3pp/5b2/4p3/4B3/5N2/PPP2PPP/RN1QK2R w KQkq - 0 9"]
+[SetUp "1"]
+
+9. Nxe5 Qxd1+ 10. Kxd1 Bxe5 *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0GFQj"]
+[Difficulty "hard"]
+[Rating "2110"]
+[Themes "crushing long middlegame pin"]
+[GameUrl "https://lichess.org/game/8aT7LWzY/black#48"]
+[Solution "a5c4 d1h5 d2f3 h5f3 g6g5 h4c4"]
+[SolutionSAN "Naxc4 Bh5 Nf3+ Bxf3 Qg5 Qxc4"]
+[FEN "r4r2/2p2kpR/p2p1pq1/n2Pp3/1pP4Q/4P2P/PP1n2P1/R2B2K1 b - - 3 24"]
+[SetUp "1"]
+
+24... Naxc4 25. Bh5 Nf3+ 26. Bxf3 Qg5 27. Qxc4 *

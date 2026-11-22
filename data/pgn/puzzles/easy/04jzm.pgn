@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "04jzm"]
+[Difficulty "easy"]
+[Rating "924"]
+[Themes "endgame mate mateIn1 oneMove"]
+[GameUrl "https://lichess.org/game/ZmHSOmUn#47"]
+[Solution "b2a3 f6a1"]
+[SolutionSAN "Ka3 Qa1#"]
+[FEN "4r1k1/1pp2pp1/3p1q2/p6R/2P3Q1/1P1BP3/1K3P2/8 w - - 1 24"]
+[SetUp "1"]
+
+24. Ka3 Qa1# *

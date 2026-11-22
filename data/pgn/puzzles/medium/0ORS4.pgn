@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0ORS4"]
+[Difficulty "medium"]
+[Rating "1348"]
+[Themes "crushing defensiveMove endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/T8s7CKQu#87"]
+[Solution "h5g5 c3b3 h3h4 c5c4"]
+[SolutionSAN "Kg5 Kxb3 h4 c4"]
+[FEN "8/8/8/p1p4K/P7/1Pk4P/8/8 w - - 1 44"]
+[SetUp "1"]
+
+44. Kg5 Kxb3 45. h4 c4 *

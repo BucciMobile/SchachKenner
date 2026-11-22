@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Ca9M"]
+[Difficulty "medium"]
+[Rating "1374"]
+[Themes "advantage discoveredCheck doubleCheck long middlegame skewer"]
+[GameUrl "https://lichess.org/game/TPjXGdeu#37"]
+[Solution "f5g6 h7g6 h5g4 h8h4 g4f3 h4c4"]
+[SolutionSAN "fxg6 hxg6+ Kg4 Rh4+ Kf3 Rxc4"]
+[FEN "r3k2r/ppp1bp1p/6p1/4PP1K/2B5/2N5/PP5P/R2R4 w kq - 0 19"]
+[SetUp "1"]
+
+19. fxg6 hxg6+ 20. Kg4 Rh4+ 21. Kf3 Rxc4 *

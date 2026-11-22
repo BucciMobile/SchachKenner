@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "07CXf"]
+[Difficulty "hard"]
+[Rating "2007"]
+[Themes "mate mateIn2 middlegame short"]
+[GameUrl "https://lichess.org/game/GJYzBREy#65"]
+[Solution "a5a6 h4h3 g2f3 g4e5"]
+[SolutionSAN "Qxa6 h3+ Kf3 Ne5#"]
+[FEN "1k2r2r/8/pPp2p2/Q5p1/1R2B1np/3P2P1/PR4KP/2B1q3 w - - 0 33"]
+[SetUp "1"]
+
+33. Qxa6 h3+ 34. Kf3 Ne5# *

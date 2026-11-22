@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0FdGO"]
+[Difficulty "easy"]
+[Rating "770"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[GameUrl "https://lichess.org/game/7vwymkzi/black#40"]
+[Solution "d5e4 h5h7"]
+[SolutionSAN "dxe4 Qh7#"]
+[FEN "4rrk1/pp1bppb1/2p5/q2p2NQ/3PBB2/2P1PP2/PP4P1/1R2K3 b - - 0 20"]
+[SetUp "1"]
+
+20... dxe4 21. Qh7# *

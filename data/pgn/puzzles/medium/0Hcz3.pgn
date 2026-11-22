@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0Hcz3"]
+[Difficulty "medium"]
+[Rating "1217"]
+[Themes "advantage endgame long"]
+[GameUrl "https://lichess.org/game/CCFvNYin#63"]
+[Solution "c4b5 g7d4 g1h1 f7h7 g3h5 h7h5"]
+[SolutionSAN "cxb5 Bd4+ Kh1 Qh7+ Nh5 Qxh5+"]
+[FEN "1r4k1/5qb1/3Q4/1np5/2P5/6N1/1P4P1/4R1K1 w - - 0 32"]
+[SetUp "1"]
+
+32. cxb5 Bd4+ 33. Kh1 Qh7+ 34. Nh5 Qxh5+ *

@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0JOrA"]
+[Difficulty "medium"]
+[Rating "1339"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+[GameUrl "https://lichess.org/game/WhL8xgJ1/black#36"]
+[Solution "f8g8 d6b8 c6b8 e1e8"]
+[SolutionSAN "Kg8 Qxb8+ Nxb8 Re8#"]
+[FEN "1r3k1r/p4ppp/2nQ4/8/3P4/2N2q2/PPP4P/4R1Kb b - - 0 18"]
+[SetUp "1"]
+
+18... Kg8 19. Qxb8+ Nxb8 20. Re8# *

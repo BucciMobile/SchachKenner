@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "00hUl"]
+[Difficulty "hard"]
+[Rating "1942"]
+[Themes "crushing middlegame queensideAttack short"]
+[GameUrl "https://lichess.org/game/YyZRpbZ3/black#48"]
+[Solution "c5d6 c4c5 c7c6 a4c6"]
+[SolutionSAN "Bd6 c5 Qc6 Qxc6+"]
+[FEN "2kr4/1pq2p2/p3p1p1/2b1n2p/Q1P2B2/7P/P3BPP1/1R4K1 b - - 1 24"]
+[SetUp "1"]
+
+24... Bd6 25. c5 Qc6 26. Qxc6+ *

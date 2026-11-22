@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09ZtB"]
+[Difficulty "medium"]
+[Rating "1440"]
+[Themes "crushing endgame pawnEndgame short"]
+[GameUrl "https://lichess.org/game/qT26vXXO#87"]
+[Solution "d4d5 f5e5 d5d6 e5d6"]
+[SolutionSAN "d5 Kxe5 d6 Kxd6"]
+[FEN "8/p5p1/4p2p/4Pk2/2KP4/6P1/6P1/8 w - - 3 44"]
+[SetUp "1"]
+
+44. d5 Kxe5 45. d6 Kxd6 *

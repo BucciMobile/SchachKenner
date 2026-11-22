@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "09lsp"]
+[Difficulty "hard"]
+[Rating "2019"]
+[Themes "crushing defensiveMove long middlegame quietMove"]
+[GameUrl "https://lichess.org/game/OG8OvJlS/black#50"]
+[Solution "c5c4 d4f5 c8f5 e4f5 c4g4 f3h3"]
+[SolutionSAN "Qc4 Nf5 Bxf5 exf5 Qg4 Rh3"]
+[FEN "r1b3rk/p4p1p/1p3PpQ/2q1p3/1P1NP3/2P2R2/6PP/R5K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Qc4 26. Nf5 Bxf5 27. exf5 Qg4 28. Rh3 *

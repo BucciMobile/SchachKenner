@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "03BLZ"]
+[Difficulty "easy"]
+[Rating "1034"]
+[Themes "crushing endgame fork long"]
+[GameUrl "https://lichess.org/game/GQUgxuJc/black#52"]
+[Solution "c2e4 h3c8 g8g7 c8c3 g7h6 c3b2"]
+[SolutionSAN "Qxe4 Qc8+ Kg7 Qc3+ Kh6 Qxb2"]
+[FEN "6k1/p4p1p/6p1/8/4RP2/6PQ/Prq4P/R5K1 b - - 0 26"]
+[SetUp "1"]
+
+26... Qxe4 27. Qc8+ Kg7 28. Qc3+ Kh6 29. Qxb2 *

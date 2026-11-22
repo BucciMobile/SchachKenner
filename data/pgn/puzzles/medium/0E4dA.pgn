@@ -1,0 +1,18 @@
+[Event "SchachKenner Daily Puzzle"]
+[Site "https://github.com/BucciMobile/SchachKenner"]
+[Date "2026.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PuzzleId "0E4dA"]
+[Difficulty "medium"]
+[Rating "1401"]
+[Themes "crushing endgame master short"]
+[GameUrl "https://lichess.org/game/ifDEdWAT#37"]
+[Solution "g2g3 c8c1 a1c1 d8d2"]
+[SolutionSAN "g3 Rxc1+ Rxc1 Rxd2"]
+[FEN "2rr2k1/p4ppp/5b2/8/8/8/PP1R1PPP/R1B3K1 w - - 3 19"]
+[SetUp "1"]
+
+19. g3 Rxc1+ 20. Rxc1 Rxd2 *
