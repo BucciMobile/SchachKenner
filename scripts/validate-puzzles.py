@@ -132,7 +132,9 @@ def main():
         for lv in LEVELS:
             if f"{lv}: {LEVEL_OFFSET[lv]}" not in src:
                 fail(f"{rel}: LEVEL_OFFSET for {lv} missing/drifted")
-    print("rotation rule in sync across index.json / docs/puzzles.html / bot/src/puzzles.js")
+        if "PUZZLE_WINDOW_DAYS = 7" not in src:
+            fail(f"{rel}: PUZZLE_WINDOW_DAYS = 7 missing/drifted (7-day visibility window)")
+    print("rotation + 7-day window rules in sync across index.json / docs/puzzles.html / bot/src/puzzles.js")
 
     manifest_path = os.path.join(pdir, "manifest.json")
     if os.path.exists(manifest_path):

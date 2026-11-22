@@ -19,7 +19,7 @@ This edition of Stockfish.js comes in four flavors.
     * Designed specifically to workaround a bug in Chrome 109. Requires CORS headers.
     * Files: stockfish-nnue-16-no-Worker.js & stockfish-nnue-16-no-Worker.wasm
 
-For older WASM engines or a pure ASM.JS engine, see the <a href=../../tree/Stockfish11>Stockfish.js 11 branch</a>.
+For older WASM engines or a pure ASM.JS engine, see the <a href="https://github.com/nmrugg/stockfish.js/tree/Stockfish11">Stockfish.js 11 branch</a>.
 
 ### Compiling
 
@@ -41,4 +41,4 @@ There are also example using Node.js.
 
 ### License
 
-GPLv3 (see <a href="https://raw.githubusercontent.com/nmrugg/stockfish.js/master/license.txt">license.txt</a>)
+GPLv3 (see <a href="https://raw.githubusercontent.com/nmrugg/stockfish.js/master/Copying.txt">license.txt</a>)

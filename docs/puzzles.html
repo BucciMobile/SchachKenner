@@ -80,7 +80,8 @@
   (kein Server nötig). Pool: <strong id="poolSize">…</strong> kuratierte lichess-Rätsel
   (<a href="https://github.com/BucciMobile/SchachKenner/tree/main/data/pgn/puzzles">CC0-PGNs</a>,
   <a href="https://github.com/BucciMobile/SchachKenner/blob/main/data/puzzles/index.json">Index</a>).
-  Du bist <strong id="sideToMove">…</strong> am Zug. Deep-Links: <code>?p=&lt;PuzzleId&gt;</code> (ein bestimmtes Rätsel) · <code>?date=YYYY-MM-DD</code> (ein bestimmter Tag, UTC).</p>
+  Du bist <strong id="sideToMove">…</strong> am Zug. Deep-Links: <code>?p=&lt;PuzzleId&gt;</code> (ein bestimmtes Rätsel) · <code>?date=YYYY-MM-DD</code> (ein bestimmter Tag, UTC) —
+  einsehbar sind <strong>nur heute + die vergangenen 6 Tage (UTC)</strong>; zukünftige Rätsel sind per URL nicht sichtbar.</p>
   <div class="tabs" id="tabs"></div>
   <div id="dateLine"></div>
   <div id="layout">
@@ -124,6 +125,17 @@ const LEVEL_OFFSET = { easy: 0, medium: 1, hard: 2 };
 const utcDayIndex = (d = new Date()) => Math.floor(d.getTime() / 86400000);
 const dayToStr = (d) => d.toISOString().slice(0, 10);
 const pickId = (index, level, day) => index.levels[level].ids[(day + LEVEL_OFFSET[level]) % index.levels[level].ids.length];
+
+// --- visibility window: only today + the previous 6 UTC days are viewable (future puzzles are NOT) ---
+// MUST stay in sync with bot/src/puzzles.js (PUZZLE_WINDOW_DAYS) — guarded by scripts/validate-puzzles.py
+const PUZZLE_WINDOW_DAYS = 7;
+const allowedRange = (today) => ({ min: today - (PUZZLE_WINDOW_DAYS - 1), max: today });
+const unlockedIds = (index, today) => {
+  const r = allowedRange(today);
+  const s = new Set();
+  for (let d = r.min; d <= r.max; d++) for (const lv of LEVELS) s.add(pickId(index, lv, d));
+  return s;
+};
 
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -178,7 +190,7 @@ function refreshTabBadges() {
     b.classList.toggle("on", lv === current.level);
     b.querySelector(".done").textContent = store.isSolved(pid) ? "✓ gelöst" : "";
   }
-  $("dateLine").textContent = `Rätsel vom ${today} (UTC) — Wechsel täglich 00:00 UTC. Heute gelöst: ${LEVELS.filter((lv) => store.isSolved(pickId(index, lv, day))).length}/3`;
+  $("dateLine").textContent = (notice ? notice + " " : "") + `Rätsel vom ${today} (UTC) — Wechsel täglich 00:00 UTC, einsehbar: letzte ${PUZZLE_WINDOW_DAYS} Tage. Heute gelöst: ${LEVELS.filter((lv) => store.isSolved(pickId(index, lv, day))).length}/3`;
 }
 
 async function selectLevel(level, idOverride = null) {
@@ -459,23 +471,36 @@ async function copyText(t, msg) {
   catch { updateStatus("Kopieren blockiert — bitte manuell markieren."); }
 }
 
+let notice = "";
+
 async function init() {
   try {
+    const today = utcDayIndex();
+    const r = allowedRange(today);
+    day = today;
     const dateParam = q.get("date");
     if (dateParam && /^\d{4}-\d{2}-\d{2}$/.test(dateParam)) {
-      day = Math.floor(Date.parse(dateParam + "T00:00:00Z") / 86400000);
+      const d = Math.floor(Date.parse(dateParam + "T00:00:00Z") / 86400000);
+      if (d > r.max) { notice = "🔒 Zukünftige Rätsel sind noch nicht freigeschaltet — zeige heutige."; }
+      else if (d < r.min) { notice = `🔒 Nur die letzten ${PUZZLE_WINDOW_DAYS} Tage (UTC) sind einsehbar — zeige den ältesten freigeschalteten Tag.`; day = r.min; }
+      else day = d;
     }
     await loadIndex();
     buildTabs();
     const pParam = q.get("p");
     if (pParam) {
-      for (const lv of LEVELS) {
-        if (index.levels[lv].ids.includes(pParam)) { await selectLevel(lv, pParam); return; }
+      const lv = LEVELS.find((l) => index.levels[l].ids.includes(pParam));
+      if (lv && unlockedIds(index, today).has(pParam)) {
+        await selectLevel(lv, pParam);
+        setStatus(notice);
+        return;
       }
-      setStatus("PuzzleId nicht im Pool: " + pParam);
+      notice = lv
+        ? "🔒 Dieses Rätsel liegt außerhalb des 7-Tage-Fensters (noch nicht oder nicht mehr freigeschaltet) — zeige heutige."
+        : "PuzzleId nicht im Pool: " + pParam;
     }
     await selectLevel(q.get("level") && LEVELS.includes(q.get("level")) ? q.get("level") : "easy");
-    setStatus("");
+    setStatus(notice);
   } catch (e) {
     setStatus("Fehler beim Laden: " + e.message);
   }

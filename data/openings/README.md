@@ -14,4 +14,4 @@
 | `openings.json` | `2ad8dee380c234df533ec067dddc4454fa2914c16cbb3c7d8f2aa45b51e62ce8` |
 
 Regenerate: `python scripts/build-openings.py` (writes this file and `docs/openings.json`).
-License evidence: [`licenses/openings-dataset.md`](../licenses/openings-dataset.md).
+License evidence: [`licenses/openings-dataset.md`](../../licenses/openings-dataset.md).

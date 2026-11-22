@@ -58,7 +58,7 @@ Bláthy's mate-in-many problems (1890), Petrov's *Šachmatnaja igra* (1824, firs
 | Resource | Link |
 |---|---|
 | FIDE Handbook — Laws of Chess (official, current edition) | https://handbook.fide.com/ |
-| USCF Rulebook | https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-only.pdf |
+| USCF Rulebook | https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-2026.pdf |
 | FIDE Arbiters' / tournament regulations | https://handbook.fide.com/ |
 
 ## Interactive learning (free, link-only)
