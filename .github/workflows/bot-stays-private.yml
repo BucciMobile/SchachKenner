@@ -18,6 +18,9 @@ permissions:
 
 jobs:
   guard:
+    # This guard only makes sense in the PUBLIC repo. In the private beta repo
+    # bot/ is tracked by design, so skip it there (github.repository check).
+    if: github.repository == 'BucciMobile/SchachKenner'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
