@@ -18,4 +18,4 @@ jobs:
       - name: Check all markdown links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress --accept 200,206,403,429,999 --exclude 'playchess\.com' '**/*.md'  # playchess.com serves a wrong TLS cert (chessbase.com) — link stays for users, check skipped
+          args: --verbose --no-progress --accept 200,206,403,429,503,999 --max-retries 4 --retry-wait-time 6 --timeout 45 --exclude 'playchess\.com' '**/*.md'  # 503 accepted for rate-limited sites (gutenberg.org); longer timeout/retries for slow hosts (fide, gnu.org); playchess.com serves a wrong TLS cert externally  # playchess.com serves a wrong TLS cert (chessbase.com) — link stays for users, check skipped
