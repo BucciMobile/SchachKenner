@@ -142,7 +142,7 @@ def main():
         for crit in ['by-opening', 'by-eco', 'by-rating-band', 'by-time-control', 'by-result']:
             lines += [f'## {crit}', '', '| Group | Games | File |', '|---|---|---|']
             for label, file, cnt in sorted(index[crit], key=lambda x: -x[2]):
-                lines.append(f'| {label} | {cnt} ({cnt / total:.1%}) | [`{file.split("/")[-1]}`](../{file}) |')
+                lines.append(f'| {label} | {cnt} ({cnt / total:.1%}) | [`{file.split("/")[-1]}`]({file}) |')
             lines.append('')
         with open(os.path.join(out, 'README.md'), 'w', encoding='utf-8') as f:
             f.write('\n'.join(lines))

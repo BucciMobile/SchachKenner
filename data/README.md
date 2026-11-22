@@ -8,7 +8,7 @@ Everything else in the repo is links to the original sources.
 1. A file may be added here **only** if the source *explicitly* permits redistribution
    (e.g. CC0, public domain, CC BY/CC BY-NC with attribution, permissive code licenses).
 2. Every hosted file **must** have:
-   - an entry in [`../THIRD_PARTY_NOTICES.md`](../THIRD_PARTY_NOTICES.md) (file, source
+   - an entry in [`../THIRD_PARTY_NOTICES.md`](../.github/THIRD_PARTY_NOTICES.md) (file, source
      URL, license, hashes), and
    - a **permission evidence** file in [`../licenses/`](../licenses/) with the verbatim
      license quote, retrieval date (UTC), and the raw license page (SHA-256) in
