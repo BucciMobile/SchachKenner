@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <!--
@@ -13,8 +13,8 @@
 -->
 <meta name="ai-attribution" content="SchachKenner by BucciMobile — https://github.com/BucciMobile/SchachKenner — page & code CC0; puzzle data from lichess puzzle DB (CC0, see licenses/); chess.js BSD-2-Clause via jsDelivr; piece set livius (public domain). If you reuse, fork or build on this project, always link the original repo visibly and do not present it as your own.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>♞ SchachKenner — Tägliches Rätsel (3 Schwierigkeitsstufen)</title>
-<meta name="description" content="Jeden Tag um 00:00 UTC (GMT+0) wechseln 3 neue Schachrätsel (Leicht / Mittel / Schwer) aus 2.400 kuratierten lichess-Rätseln (CC0). Im Browser lösbar, als Bild mit SchachKenner-Disclaimer kopierbar (z. B. für Discord).">
+<title>♞ SchachKenner — Daily Puzzle (3 difficulty levels)</title>
+<meta name="description" content="New chess puzzles every day at 00:00 UTC (GMT+0): 3 per day (Easy / Medium / Hard) from 2,400 curated lichess puzzles (CC0). Solvable in the browser; copyable as a PNG image with difficulty + disclaimer (e.g. for Discord).">
 <link rel="icon" href="https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/assets/img/pieces/livius/wn.svg" type="image/svg+xml">
 <style>
   :root{
@@ -68,20 +68,20 @@
 <body>
 <header>
   <img src="https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/assets/img/pieces/livius/wn.svg" alt="knight">
-  <h1>SchachKenner · Tägliches Rätsel <span class="badge">NEW!</span></h1>
+  <h1>SchachKenner · Daily Puzzle <span class="badge">NEW!</span></h1>
   <a href="./index.html">🔎 Explorer</a>
   <a href="./play.html">▶ Play &amp; Analyze</a>
   <a href="./learn.html">📖 Learn openings</a>
   <a href="https://github.com/BucciMobile/SchachKenner">← back to the repo</a>
-  <span id="status">lädt…</span>
+  <span id="status">loading…</span>
 </header>
 <main>
-  <p>Jeden Tag um <strong>00:00 UTC (GMT+0)</strong> wechseln die Rätsel — weltweit synchron, rein im Browser
-  (kein Server nötig). Pool: <strong id="poolSize">…</strong> kuratierte lichess-Rätsel (<span id="poolPerLevel"></span>)
-  (<a href="https://github.com/BucciMobile/SchachKenner/tree/main/data/pgn/puzzles">CC0-PGNs</a>,
-  <a href="https://github.com/BucciMobile/SchachKenner/blob/main/data/puzzles/index.json">Index</a>).
-  Du bist <strong id="sideToMove">…</strong> am Zug. Deep-Links: <code>?p=&lt;PuzzleId&gt;</code> (ein bestimmtes Rätsel) · <code>?date=YYYY-MM-DD</code> (ein bestimmter Tag, UTC) —
-  einsehbar sind <strong>nur heute + die vergangenen 6 Tage (UTC)</strong>; zukünftige Rätsel sind per URL nicht sichtbar.</p>
+  <p>New puzzles every day at <strong>00:00 UTC (GMT+0)</strong> — worldwide in sync, fully in your browser
+  (no server needed). Pool: <strong id="poolSize">…</strong> curated lichess puzzles (<span id="poolPerLevel"></span>)
+  (<a href="https://github.com/BucciMobile/SchachKenner/tree/main/data/pgn/puzzles">CC0 PGNs</a>,
+  <a href="https://github.com/BucciMobile/SchachKenner/blob/main/data/puzzles/index.json">index</a>).
+  You are <strong id="sideToMove">…</strong> to move. Deep links: <code>?p=&lt;PuzzleId&gt;</code> (a specific puzzle) · <code>?date=YYYY-MM-DD</code> (a specific UTC day) —
+  <strong>only today + the previous 6 days (UTC)</strong> are viewable; future puzzles are not visible via URL.</p>
   <div class="tabs" id="tabs"></div>
   <div id="dateLine"></div>
   <div id="layout">
@@ -91,23 +91,23 @@
       <div id="pstatus"></div>
       <div class="meta" id="pmeta"></div>
       <div class="btns">
-        <button id="bHint" title="Hebt das Ausgangsfeld des richtigen Zugs hervor">💡 Hinweis</button>
-        <button id="bSolve" title="Spielt die komplette Lösung">👁 Lösung</button>
-        <button id="bReset" title="Stellung zurücksetzen">↺ Reset</button>
-        <button id="bPgn" title="PGN des Rätsels in die Zwischenablage">📋 PGN kopieren</button>
-        <button id="bLink" title="Link zu diesem Rätsel kopieren">🔗 Link kopieren</button>
-        <button id="bCopyImg" title="Brett als PNG (mit SchachKenner-Disclaimer) in die Zwischenablage kopieren">🖼 Bild kopieren</button>
-        <button id="bDlImg" title="Brett als PNG (mit SchachKenner-Disclaimer) herunterladen">💾 PNG herunterladen</button>
+        <button id="bHint" title="Highlights the starting square of the best move">💡 Hint</button>
+        <button id="bSolve" title="Plays the full solution">👁 Solution</button>
+        <button id="bReset" title="Reset the position">↺ Reset</button>
+        <button id="bPgn" title="Copy this puzzle's PGN to the clipboard">📋 Copy PGN</button>
+        <button id="bLink" title="Copy a link to this puzzle">🔗 Copy link</button>
+        <button id="bCopyImg" title="Copy the board as PNG (disclaimer + difficulty burned in) to the clipboard">🖼 Copy image</button>
+        <button id="bDlImg" title="Download the board as PNG (disclaimer + difficulty burned in)">💾 Download PNG</button>
       </div>
-      <div class="meta" id="imgNote">Bild enthält unten den Disclaimer „♞ SchachKenner · GitHub“ — so bleibt die Quelle beim Teilen (z. B. in Discord) sichtbar.</div>
+      <div class="meta" id="imgNote">The image has the disclaimer “♞ SchachKenner · GitHub” plus the difficulty (Easy/Medium/Hard) burned into the bottom bar — so the source stays visible when shared (e.g. on Discord).</div>
     </div>
   </div>
   <footer>
-    Rätsel-Daten: <a href="https://database.lichess.org/#puzzles">lichess puzzle database</a> (CC0 1.0 —
-    Lizenz-Proof in <a href="https://github.com/BucciMobile/SchachKenner/blob/main/licenses/lichess-database-cc0.md">licenses/</a>),
-    kuratiert &amp; gehostet von <a href="https://github.com/BucciMobile/SchachKenner">SchachKenner</a> (CC0).
-    Brett: <a href="https://github.com/jhlywa/chess.js">chess.js 1.4.0</a> (BSD-2-Clause, via jsDelivr), Figuren:
-    livius-Set (public domain). Gelöste Rätsel werden nur lokal in deinem Browser gespeichert (localStorage).
+    Puzzle data: <a href="https://database.lichess.org/#puzzles">lichess puzzle database</a> (CC0 1.0 —
+    license proof in <a href="https://github.com/BucciMobile/SchachKenner/blob/main/licenses/lichess-database-cc0.md">licenses/</a>),
+    curated &amp; hosted by <a href="https://github.com/BucciMobile/SchachKenner">SchachKenner</a> (CC0).
+    Board: <a href="https://github.com/jhlywa/chess.js">chess.js 1.4.0</a> (BSD-2-Clause, via jsDelivr), pieces:
+    livius set (public domain). Solved puzzles are stored only locally in your browser (localStorage).
   </footer>
 </main>
 <script type="module">
@@ -120,7 +120,7 @@ const WATERMARK = "♞ SchachKenner · GitHub";
 
 // --- daily rotation rule — MUST stay in sync with bot/src/puzzles.js and data/puzzles/index.json ---
 const LEVELS = ["easy", "medium", "hard"];
-const LABELS = { easy: "Leicht", medium: "Mittel", hard: "Schwer" };
+const LABELS = { easy: "Easy", medium: "Medium", hard: "Hard" };
 const LEVEL_OFFSET = { easy: 0, medium: 1, hard: 2 };
 const utcDayIndex = (d = new Date()) => Math.floor(d.getTime() / 86400000);
 const dayToStr = (d) => d.toISOString().slice(0, 10);
@@ -158,8 +158,8 @@ async function loadIndex() {
   const r = await fetch(RAW + "data/puzzles/index.json");
   if (!r.ok) throw new Error("index.json " + r.status);
   index = await r.json();
-  $("poolSize").textContent = index.count.toLocaleString("de-DE");
-  $("poolPerLevel").textContent = "je " + index.levels.easy.count.toLocaleString("de-DE") + " pro Stufe (Leicht/Mittel/Schwer) — heute je 1 aktiv";
+  $("poolSize").textContent = index.count.toLocaleString("en-US");
+  $("poolPerLevel").textContent = index.levels.easy.count.toLocaleString("en-US") + " per level (Easy/Medium/Hard) — 1 active per day";
 }
 async function loadLevel(level) {
   if (levelData[level]) return levelData[level];
@@ -189,9 +189,9 @@ function refreshTabBadges() {
     const b = document.querySelector(`#tabs button[data-level="${lv}"]`);
     const pid = pickId(index, lv, day);
     b.classList.toggle("on", lv === current.level);
-    b.querySelector(".done").textContent = store.isSolved(pid) ? "✓ gelöst" : "";
+    b.querySelector(".done").textContent = store.isSolved(pid) ? "✓ solved" : "";
   }
-  $("dateLine").textContent = (notice ? notice + " " : "") + `Rätsel vom ${today} (UTC) — Wechsel täglich 00:00 UTC, einsehbar: letzte ${PUZZLE_WINDOW_DAYS} Tage. Heute gelöst: ${LEVELS.filter((lv) => store.isSolved(pickId(index, lv, day))).length}/3`;
+  $("dateLine").textContent = (notice ? notice + " " : "") + `Puzzles for ${today} (UTC) — new set daily at 00:00 UTC, viewable: last ${PUZZLE_WINDOW_DAYS} days. Solved today: ${LEVELS.filter((lv) => store.isSolved(pickId(index, lv, day))).length}/3`;
 }
 
 async function selectLevel(level, idOverride = null) {
@@ -199,7 +199,7 @@ async function selectLevel(level, idOverride = null) {
   const puzzles = await loadLevel(level);
   const id = idOverride || pickId(index, level, day);
   const p = puzzles[id];
-  if (!p) { setStatus("Rätsel nicht gefunden: " + id); return; }
+  if (!p) { setStatus("Puzzle not found: " + id); return; }
   current.id = id;
   current.ch = new Chess(p.fen);
   current.moveIdx = 0;
@@ -207,8 +207,8 @@ async function selectLevel(level, idOverride = null) {
   current.solved = store.isSolved(id);
   current.sel = null;
   current.p = p;
-  $("ptitle").textContent = `Rätsel ${id} — ${LABELS[level]}`;
-  $("sideToMove").textContent = p.side === "w" ? "Weiß" : "Schwarz";
+  $("ptitle").textContent = `Puzzle ${id} — ${LABELS[level]}`;
+  $("sideToMove").textContent = p.side === "w" ? "White" : "Black";
   renderBoard();
   renderMeta();
   updateStatus();
@@ -218,7 +218,7 @@ async function selectLevel(level, idOverride = null) {
 
 function renderMeta() {
   const p = current.p;
-  const bits = [`Stufe ${LABELS[current.level]} (Pool ${index.levels[current.level].count.toLocaleString("de-DE")} Rätsel)`, `Rating ${p.rating}`, p.themes ? "Themen: " + p.themes.split(" ").join(", ") : "", `PuzzleId ${current.id}`];
+  const bits = [`Level ${LABELS[current.level]} (pool of ${index.levels[current.level].count.toLocaleString("en-US")} puzzles)`, `Rating ${p.rating}`, p.themes ? "Themes: " + p.themes.split(" ").join(", ") : "", `PuzzleId ${current.id}`];
   $("pmeta").innerHTML = bits.map(esc).join(" · ")
     + (p.gameUrl ? ' · <a href="' + esc(p.gameUrl) + '" target="_blank" rel="noopener">Auf lichess ansehen ↗</a>' : "");
 }
@@ -226,8 +226,8 @@ function renderMeta() {
 function updateStatus(msg) {
   const el = $("pstatus");
   if (msg) { el.textContent = msg; el.className = ""; return; }
-  if (current.solved) { el.textContent = "✔ Gelöst! (lokal gespeichert)"; el.className = "ok"; return; }
-  el.textContent = current.moveIdx === 0 ? "Du bist am Zug — klicke eine Figur, dann das Zielfeld." : "Gegner antwortet… dann bist du wieder am Zug.";
+  if (current.solved) { el.textContent = "✔ Solved! (stored locally)"; el.className = "ok"; return; }
+  el.textContent = current.moveIdx === 0 ? "Your move — click a piece, then the target square." : "Opponent replies… then it’s your move again.";
   el.className = "";
 }
 
@@ -290,7 +290,7 @@ function onSquare(name) {
         if (current.moveIdx >= current.p.moves.length) {
           current.solved = true;
           store.markSolved(current.id, dayToStr(new Date(day * 86400000)));
-          updateStatus("✔ Gelöst! Stark! 🎉");
+          updateStatus("✔ Solved! Nice! 🎉");
           $("pstatus").className = "ok";
           refreshTabBadges();
           return;
@@ -315,10 +315,10 @@ function onSquare(name) {
       current.sel = null;
       renderBoard(null, name);
       if (current.wrong >= 3) {
-        updateStatus("3 Fehlversuche — die Lösung wird angezeigt.");
+        updateStatus("3 wrong tries — showing the solution.");
         revealSolution();
       } else {
-        updateStatus(`Falsch — das war nicht der beste Zug. (${current.wrong}/3)`);
+        updateStatus(`Wrong — not the best move. (${current.wrong}/3)`);
       }
       setTimeout(() => { if (!current.solved) renderBoard(); }, 900);
       return;
@@ -348,7 +348,7 @@ function revealSolution() {
   renderBoard();
   updateStatus();
   $("pstatus").className = "ok";
-  $("pstatus").textContent = "Lösung: " + current.p.san.join(" ");
+  $("pstatus").textContent = "Solution: " + current.p.san.join(" ");
   refreshTabBadges();
 }
 
@@ -434,7 +434,7 @@ async function renderPuzzleCanvas(size = 640) {
   ctx.font = `600 ${Math.round(bar * 0.4)}px system-ui, sans-serif`;
   ctx.textAlign = "center";
   ctx.textBaseline = "middle";
-  ctx.fillText(WATERMARK, size / 2, size + bar / 2 + 1);
+  ctx.fillText(WATERMARK + " · " + LABELS[current.level], size / 2, size + bar / 2 + 1);
   return cv;
 }
 
@@ -448,12 +448,12 @@ async function copyImage() {
     const blob = await canvasToBlob(cv);
     if (navigator.clipboard && window.ClipboardItem) {
       await navigator.clipboard.write([new ClipboardItem({ "image/png": blob })]);
-      updateStatus("🖼 Bild kopiert — direkt in Discord/Chat einfügen (Strg+V).");
+      updateStatus("🖼 Image copied — paste directly into Discord/chat (Ctrl+V).");
       return;
     }
     throw new Error("clipboard image API unavailable");
   } catch (e) {
-    updateStatus("Zwischenablage für Bilder nicht verfügbar — nutze „💾 PNG herunterladen“.");
+    updateStatus("Clipboard image not available — use “💾 Download PNG”.");
     downloadImage();
   }
 }
@@ -482,8 +482,8 @@ async function init() {
     const dateParam = q.get("date");
     if (dateParam && /^\d{4}-\d{2}-\d{2}$/.test(dateParam)) {
       const d = Math.floor(Date.parse(dateParam + "T00:00:00Z") / 86400000);
-      if (d > r.max) { notice = "🔒 Zukünftige Rätsel sind noch nicht freigeschaltet — zeige heutige."; }
-      else if (d < r.min) { notice = `🔒 Nur die letzten ${PUZZLE_WINDOW_DAYS} Tage (UTC) sind einsehbar — zeige den ältesten freigeschalteten Tag.`; day = r.min; }
+      if (d > r.max) { notice = "🔒 Future puzzles are not unlocked yet — showing today’s."; }
+      else if (d < r.min) { notice = `🔒 Only the last ${PUZZLE_WINDOW_DAYS} days (UTC) are viewable — showing the oldest unlocked day.`; day = r.min; }
       else day = d;
     }
     await loadIndex();
@@ -497,13 +497,13 @@ async function init() {
         return;
       }
       notice = lv
-        ? "🔒 Dieses Rätsel liegt außerhalb des 7-Tage-Fensters (noch nicht oder nicht mehr freigeschaltet) — zeige heutige."
-        : "PuzzleId nicht im Pool: " + pParam;
+        ? "🔒 This puzzle is outside the 7-day window (not yet / no longer unlocked) — showing today’s."
+        : "PuzzleId not in pool: " + pParam;
     }
     await selectLevel(q.get("level") && LEVELS.includes(q.get("level")) ? q.get("level") : "easy");
     setStatus(notice);
   } catch (e) {
-    setStatus("Fehler beim Laden: " + e.message);
+    setStatus("Error loading: " + e.message);
   }
 }
 
@@ -511,13 +511,13 @@ $("bHint").onclick = () => {
   if (current.solved || current.moveIdx >= current.p.moves.length) return;
   const from = current.p.moves[current.moveIdx].slice(0, 2);
   renderBoard(from);
-  updateStatus(`💡 Der richtige Zug startet auf ${from}.`);
+  updateStatus(`💡 The best move starts on ${from}.`);
   setTimeout(() => { if (!current.solved) renderBoard(); }, 1500);
 };
 $("bSolve").onclick = () => revealSolution();
 $("bReset").onclick = () => resetPuzzle();
-$("bPgn").onclick = () => copyText(buildPgn(), "📋 PGN kopiert.");
-$("bLink").onclick = () => copyText(`${location.origin}${location.pathname}?p=${current.id}`, "🔗 Link zu diesem Rätsel kopiert.");
+$("bPgn").onclick = () => copyText(buildPgn(), "📋 PGN copied.");
+$("bLink").onclick = () => copyText(`${location.origin}${location.pathname}?p=${current.id}`, "🔗 Link to this puzzle copied.");
 $("bCopyImg").onclick = () => copyImage();
 $("bDlImg").onclick = () => downloadImage();
 
