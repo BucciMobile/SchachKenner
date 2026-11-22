@@ -127,7 +127,7 @@
       </select></div>
     <div><label for="color">You play (in Play mode)</label>
       <select id="color"><option value="w">White</option><option value="b">Black</option></select></div>
-    <div class="wide"><label for="chatMode" style="display:flex;gap:.5rem;align-items:center;text-transform:none;letter-spacing:0;font-size:.9rem">
+    <div class="wide" id="chatModeRow" style="display:none"><label for="chatMode" style="display:flex;gap:.5rem;align-items:center;text-transform:none;letter-spacing:0;font-size:.9rem">
       <input type="checkbox" id="chatMode" style="width:1.15rem;height:1.15rem;flex:none"> 💬 <strong>Chat mode</strong> — enter your moves as text in the chat window (mobile-friendly; board clicks off)
     </label></div>
     <div><label for="depth">Strength (depth)</label>
@@ -478,7 +478,11 @@ $("bFlip").addEventListener("click", () => { flip = !flip; render(); });
 
 /* ---------- chat input mode (play) ---------- */
 let chatMode = false;
-function syncChatUi(){ $("chatWrap").style.display = (chatMode && mode === "play") ? "block" : "none"; }
+function syncChatUi(){
+  const play = mode === "play";
+  $("chatModeRow").style.display = play ? "" : "none";   // chat option only makes sense vs the engine
+  $("chatWrap").style.display = (chatMode && play) ? "block" : "none";
+}
 function chatSay(who, text){
   const log = $("chatLog"); if (!log) return;
   const d = document.createElement("div");
@@ -785,6 +789,7 @@ $("copyBtn").addEventListener("click", () => {
 if (window.innerWidth < 640) { const d = $("depth"); d.value = "8"; }
 const q = new URLSearchParams(location.search);
 render();   // show the board immediately, even before any game/source is loaded
+syncChatUi(); // hide the chat-mode checkbox until "Play vs engine" is selected
 if (q.get("src")){
   loadSource(q.get("src"), parseInt(q.get("game") || "0", 10) || 0, q.get("src"));
 } else {
