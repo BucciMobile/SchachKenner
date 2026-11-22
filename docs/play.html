@@ -127,6 +127,9 @@
       </select></div>
     <div><label for="color">You play (in Play mode)</label>
       <select id="color"><option value="w">White</option><option value="b">Black</option></select></div>
+    <div class="wide"><label for="chatMode" style="display:flex;gap:.5rem;align-items:center;text-transform:none;letter-spacing:0;font-size:.9rem">
+      <input type="checkbox" id="chatMode" style="width:1.15rem;height:1.15rem;flex:none"> 💬 <strong>Chat mode</strong> — enter your moves as text in the chat window (mobile-friendly; board clicks off)
+    </label></div>
     <div><label for="depth">Strength (depth)</label>
       <select id="depth"><option>6</option><option>8</option><option selected>10</option><option>12</option><option>14</option><option>16</option></select></div>
     <div><label for="startBtn">…then start</label>
@@ -165,6 +168,15 @@
       <div id="meta">no game loaded</div>
       <div id="pvLine"></div>
       <div id="moves"></div>
+      <div id="chatWrap" style="display:none;margin-top:.6rem">
+        <div style="font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">💬 chat — your moves as text</div>
+        <div id="chatLog" style="max-height:200px;overflow:auto;background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:.45rem;font-size:.88rem"></div>
+        <div style="display:flex;gap:.4rem;margin-top:.4rem">
+          <input id="chatIn" autocomplete="off" placeholder="your move: e4 · Nf3 · O-O · e2e4"
+                 style="flex:1;min-width:0;font-size:16px;padding:.45rem .55rem;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink)">
+          <button id="chatSend" type="button" style="font-size:16px;padding:.45rem .8rem;border:1px solid var(--line);border-radius:6px;background:var(--light);color:#3a2f22;cursor:pointer">➤ send</button>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -424,6 +436,7 @@ $("moves").addEventListener("click", ev => {
 /* ---------- interaction ---------- */
 function onSquare(sq){
   if (mode !== "play" || variantFallback) return;
+  if (chatMode) return; // chat mode: moves only via the chat input below
   if (ch.isGameOver()) return;
   if (ch.turn() !== playerColor) return;
   const piece = ch.get(sq);
@@ -462,6 +475,52 @@ $("bPrev").addEventListener("click", () => setPly(ply - 1));
 $("bNext").addEventListener("click", () => setPly(ply + 1));
 $("bLast").addEventListener("click", () => setPly(sans.length));
 $("bFlip").addEventListener("click", () => { flip = !flip; render(); });
+
+/* ---------- chat input mode (play) ---------- */
+let chatMode = false;
+function syncChatUi(){ $("chatWrap").style.display = (chatMode && mode === "play") ? "block" : "none"; }
+function chatSay(who, text){
+  const log = $("chatLog"); if (!log) return;
+  const d = document.createElement("div");
+  d.style.margin = ".15rem 0";
+  d.innerHTML = "<strong>" + esc(who) + ":</strong> " + esc(text);
+  log.appendChild(d);
+  log.scrollTop = log.scrollHeight;
+}
+function chatSend(){
+  if (mode !== "play" || variantFallback) return;
+  if (ch.isGameOver()){ setStatus("game over — press ▶ Start for a new game"); return; }
+  if (ch.turn() !== playerColor){ setStatus("wait for the engine…"); return; }
+  const t = $("chatIn").value.trim();
+  if (!t) return;
+  let played = null;
+  try {
+    if (/^[a-h][1-8][a-h][1-8][qrbnQRBN]?$/.test(t)){
+      played = ch.move({ from: t.slice(0,2), to: t.slice(2,4), promotion: t[4] ? t[4].toLowerCase() : undefined });
+    } else {
+      played = ch.move(t);   // SAN: e4, Nf3, O-O, exd5, e8=Q …
+    }
+  } catch(e){ played = null; }
+  if (!played){ setStatus("illegal move — try SAN (e4, Nf3, O-O) or coordinates (e2e4)"); return; }
+  sans.push(played.san);
+  fullVerbose = ch.history({ verbose: true });
+  ply = sans.length;
+  bestArrow = null;
+  $("chatIn").value = "";
+  chatSay("You", played.san);
+  render();
+  if (ch.isGameOver()){ setStatus("game over"); chatSay("SchachKenner", "game over — press ▶ Start for a new game"); }
+  else if (ch.turn() !== playerColor) engineGo();
+  else setStatus("your move — type it in the chat");
+}
+$("chatSend").addEventListener("click", chatSend);
+$("chatIn").addEventListener("keydown", ev => { if (ev.key === "Enter"){ ev.preventDefault(); chatSend(); } });
+$("chatMode").addEventListener("change", () => {
+  chatMode = $("chatMode").checked;
+  syncChatUi();
+  if (chatMode && mode === "play") setStatus("your move — type it in the chat (e.g. e4, Nf3, O-O, e2e4); board clicks are off");
+  render();
+});
 
 /* ---------- mode / engine ---------- */
 function engineColor(){ return playerColor === "w" ? "b" : "w"; }
@@ -548,6 +607,7 @@ function onEngineLine(line){
           sans.push(played.san);
           fullVerbose = ch.history({ verbose: true });
           ply = sans.length;
+          if (chatMode) chatSay("Stockfish", played.san);
           render();
         } catch(e){ /* ignore */ }
       }
@@ -612,11 +672,14 @@ function startPlay(){
   $("meta").innerHTML = "You (<strong>" + (playerColor === "w" ? "White" : "Black") + "</strong>) vs <strong>Stockfish 16</strong> (depth " + $("depth").value + ")";
   $("rawPgn").textContent = "";
   bestArrow = null; evalCp = null;
+  syncChatUi();
+  $("chatLog").innerHTML = "";
+  if (chatMode) chatSay("SchachKenner", "You (" + (playerColor === "w" ? "White" : "Black") + ") vs Stockfish 16, depth " + $("depth").value + ". Type your move in the chat below (e.g. e4, Nf3, O-O, e2e4) — board clicks are off.");
   render();
   setStatus("starting engine… (first run downloads the ~40 MB neural net once)");
   ensureEngine().then(() => {
     if (!ch.isGameOver() && ch.turn() === engineColor()) engineGo();
-    else setStatus("your move — click a piece, then a target square");
+    else setStatus(chatMode ? "your move — type it in the chat (e.g. e4, Nf3, e2e4)" : "your move — click a piece, then a target square");
   }).catch(e => setStatus("engine failed to load: " + e.message));
 }
 $("startBtn").addEventListener("click", () => {
@@ -627,6 +690,7 @@ $("startBtn").addEventListener("click", () => {
 });
 $("mode").addEventListener("change", () => {
   mode = $("mode").value;
+  syncChatUi();
   if (mode === "play") setStatus("pick color & strength, then press ▶ Start");
   else if (mode === "analyze") setStatus("press ▶ Start to analyze the current position");
   else setStatus("viewing");
