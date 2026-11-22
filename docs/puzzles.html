@@ -99,7 +99,7 @@
         <button id="bCopyImg" title="Brett als PNG (mit SchachKenner-Disclaimer) in die Zwischenablage kopieren">🖼 Bild kopieren</button>
         <button id="bDlImg" title="Brett als PNG (mit SchachKenner-Disclaimer) herunterladen">💾 PNG herunterladen</button>
       </div>
-      <div class="meta" id="imgNote">Bild enthält unten den Disclaimer „♞ SchachKenner · github.com/BucciMobile/SchachKenner“ — so bleibt die Quelle beim Teilen (z. B. in Discord) sichtbar.</div>
+      <div class="meta" id="imgNote">Bild enthält unten den Disclaimer „♞ SchachKenner · GitHub“ — so bleibt die Quelle beim Teilen (z. B. in Discord) sichtbar.</div>
     </div>
   </div>
   <footer>
@@ -116,7 +116,7 @@ import { Chess } from "https://cdn.jsdelivr.net/npm/chess.js@1.4.0/dist/esm/ches
 const q = new URLSearchParams(location.search);
 const RAW = q.get("raw") || "https://raw.githubusercontent.com/BucciMobile/SchachKenner/main/";
 const PIECES = RAW + "assets/img/pieces/livius/";
-const WATERMARK = "♞ SchachKenner · github.com/BucciMobile/SchachKenner";
+const WATERMARK = "♞ SchachKenner · GitHub";
 
 // --- daily rotation rule — MUST stay in sync with bot/src/puzzles.js and data/puzzles/index.json ---
 const LEVELS = ["easy", "medium", "hard"];
