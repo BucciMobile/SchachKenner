@@ -77,7 +77,7 @@
 </header>
 <main>
   <p>Jeden Tag um <strong>00:00 UTC (GMT+0)</strong> wechseln die Rätsel — weltweit synchron, rein im Browser
-  (kein Server nötig). Pool: <strong id="poolSize">…</strong> kuratierte lichess-Rätsel
+  (kein Server nötig). Pool: <strong id="poolSize">…</strong> kuratierte lichess-Rätsel (<span id="poolPerLevel"></span>)
   (<a href="https://github.com/BucciMobile/SchachKenner/tree/main/data/pgn/puzzles">CC0-PGNs</a>,
   <a href="https://github.com/BucciMobile/SchachKenner/blob/main/data/puzzles/index.json">Index</a>).
   Du bist <strong id="sideToMove">…</strong> am Zug. Deep-Links: <code>?p=&lt;PuzzleId&gt;</code> (ein bestimmtes Rätsel) · <code>?date=YYYY-MM-DD</code> (ein bestimmter Tag, UTC) —
@@ -159,6 +159,7 @@ async function loadIndex() {
   if (!r.ok) throw new Error("index.json " + r.status);
   index = await r.json();
   $("poolSize").textContent = index.count.toLocaleString("de-DE");
+  $("poolPerLevel").textContent = "je " + index.levels.easy.count.toLocaleString("de-DE") + " pro Stufe (Leicht/Mittel/Schwer) — heute je 1 aktiv";
 }
 async function loadLevel(level) {
   if (levelData[level]) return levelData[level];
@@ -173,7 +174,7 @@ function buildTabs() {
   tabs.innerHTML = "";
   for (const lv of LEVELS) {
     const b = document.createElement("button");
-    b.textContent = `${LABELS[lv]} (${index.levels[lv].count}) `;
+    b.textContent = LABELS[lv];
     const done = document.createElement("span");
     done.className = "done";
     b.appendChild(done);
@@ -217,7 +218,7 @@ async function selectLevel(level, idOverride = null) {
 
 function renderMeta() {
   const p = current.p;
-  const bits = [`Rating ${p.rating}`, p.themes ? "Themen: " + p.themes.split(" ").join(", ") : "", `PuzzleId ${current.id}`];
+  const bits = [`Stufe ${LABELS[current.level]} (Pool ${index.levels[current.level].count.toLocaleString("de-DE")} Rätsel)`, `Rating ${p.rating}`, p.themes ? "Themen: " + p.themes.split(" ").join(", ") : "", `PuzzleId ${current.id}`];
   $("pmeta").innerHTML = bits.map(esc).join(" · ")
     + (p.gameUrl ? ' · <a href="' + esc(p.gameUrl) + '" target="_blank" rel="noopener">Auf lichess ansehen ↗</a>' : "");
 }
