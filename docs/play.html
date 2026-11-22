@@ -123,9 +123,10 @@
       <select id="mode">
         <option value="view">👀 View game</option>
         <option value="play">🤖 Play vs engine</option>
+        <option value="trap">🐰 Hasenfuß (counter the hidden trap)</option>
         <option value="analyze">🔍 Analyze position</option>
       </select></div>
-    <div><label for="color">You play (in Play mode)</label>
+    <div id="colorRow"><label for="color">You play (in Play mode)</label>
       <select id="color"><option value="w">White</option><option value="b">Black</option></select></div>
     <div class="wide" id="chatModeRow" style="display:none"><label for="chatMode" style="display:flex;gap:.5rem;align-items:center;text-transform:none;letter-spacing:0;font-size:.9rem">
       <input type="checkbox" id="chatMode" style="width:1.15rem;height:1.15rem;flex:none"> 💬 <strong>Chat mode</strong> — enter your moves as text in the chat window (mobile-friendly; board clicks off)
@@ -147,6 +148,14 @@
 
   <details id="englog" style="margin:.4rem 0"><summary style="cursor:pointer;color:var(--muted);font-size:.8rem">🔧 engine log (debug)</summary>
     <pre id="englogPre" style="max-height:180px;overflow:auto;font-size:.72rem;background:var(--card);border:1px solid var(--line);border-radius:6px;padding:.5rem"></pre></details>
+
+  <div class="wide" id="trapWrap" style="display:none;margin:.4rem 0">
+    <div id="trapBanner" style="background:var(--card);border:1px solid var(--line);border-radius:6px;padding:.5rem .6rem;font-size:.9rem"></div>
+    <div style="display:flex;gap:.4rem;flex-wrap:wrap;margin-top:.4rem">
+      <button id="trapContinueBtn" type="button" style="display:none">▶️ Keep playing (vs Stockfish)</button>
+      <button id="trapEndBtn" type="button" style="display:none">✅ End match (success)</button>
+    </div>
+  </div>
 
   <div id="nav">
     <button id="bFirst" title="start">⏮</button>
@@ -197,6 +206,7 @@
   </footer>
 </main>
 
+<script src="js/traps.js"></script>
 <script type="module">
 import { Chess } from "https://cdn.jsdelivr.net/npm/chess.js@1.4.0/dist/esm/chess.js";
 
@@ -340,6 +350,7 @@ function renderMeta(){
 }
 
 function setPly(p){
+  if (mode === "trap") return;   // live trap game: no rewinding (would desync the trap state)
   rebuild(p);
   selected = null; legalTargets = [];
   render();
@@ -425,6 +436,8 @@ function render(){
     const res = ch.isGameOver() ? (ch.isCheckmate() ? (ch.turn() === "w" ? "0-1" : "1-0") : "1/2-1/2") : null;
     $("meta").innerHTML = "You (<strong>" + (playerColor === "w" ? "White" : "Black") + "</strong>) vs <strong>Stockfish 16</strong> (depth " + $("depth").value + ")" +
       (res ? " — <strong>" + res + "</strong>, game over" : " — move " + Math.ceil(ply / 2));
+  } else if (!curGame && mode === "trap"){
+    $("meta").innerHTML = trapMetaText();
   }
 }
 
@@ -435,8 +448,10 @@ $("moves").addEventListener("click", ev => {
 
 /* ---------- interaction ---------- */
 function onSquare(sq){
-  if (mode !== "play" || variantFallback) return;
-  if (chatMode) return; // chat mode: moves only via the chat input below
+  if (variantFallback) return;
+  if (mode !== "play" && mode !== "trap") return;
+  if (mode === "play" && chatMode) return; // chat mode: moves only via the chat input below
+  if (mode === "trap" && (!trapState || (trapState.phase !== "ambush" && trapState.phase !== "free"))) return;
   if (ch.isGameOver()) return;
   if (ch.turn() !== playerColor) return;
   const piece = ch.get(sq);
@@ -465,8 +480,14 @@ function doUserMove(mv){
     selected = null; legalTargets = [];
     bestArrow = null;
     render();
-    if (!ch.isGameOver() && ch.turn() !== playerColor) engineGo();
-    else if (ch.isGameOver()) setStatus("game over");
+    if (mode === "trap"){
+      if (trapState && trapState.phase === "ambush") evalTrap();
+      else if (!ch.isGameOver() && ch.turn() !== playerColor) engineGo();
+      else if (ch.isGameOver()) setStatus("game over");
+    } else {
+      if (!ch.isGameOver() && ch.turn() !== playerColor) engineGo();
+      else if (ch.isGameOver()) setStatus("game over");
+    }
   } catch(e){ setStatus("illegal move"); }
 }
 
@@ -478,6 +499,7 @@ $("bFlip").addEventListener("click", () => { flip = !flip; render(); });
 
 /* ---------- chat input mode (play) ---------- */
 let chatMode = false;
+let trapState = null;   // Hasenfuß mode: { trap, botPly, phase: ambush|countered|lost|won|free|done }
 function syncChatUi(){
   const play = mode === "play";
   $("chatModeRow").style.display = play ? "" : "none";   // chat option only makes sense vs the engine
@@ -594,7 +616,7 @@ function onEngineLine(line){
     engineReady = true;
     elog("readyok — engine ready");
     setStatus("engine ready — Stockfish 16 (single-thread WASM)");
-    if (mode === "play"){
+    if (mode === "play" || isTrapFree()){
       if (pendingPlay || (!ch.isGameOver() && ch.turn() === engineColor())) engineGo();
       else setStatus("your move — click a piece, then a target square");
     } else maybeAnalyze();
@@ -602,7 +624,7 @@ function onEngineLine(line){
     engineBusy = false;
     const mv = line.split(/\s+/)[1];
     elog("← " + line.slice(0, 80));
-    if (mv && mv !== "(none)" && mode === "play" && !ch.isGameOver() && ch.turn() === engineColor()){
+    if (mv && mv !== "(none)" && (mode === "play" || isTrapFree()) && !ch.isGameOver() && ch.turn() === engineColor()){
       const from = mv.slice(0, 2), to = mv.slice(2, 4), promo = mv[4] || undefined;
       const legal = ch.moves({ verbose: true }).find(m => m.from === from && m.to === to && (m.promotion || undefined) === promo);
       if (legal){
@@ -656,7 +678,7 @@ function engineGo(){
   engineSend("position fen " + ch.fen());
   engineSend("go depth " + depth);
   elog("go depth " + depth + " on " + ch.fen());
-  setStatus(mode === "play" ? "engine thinking (depth " + depth + ")…" : "analyzing depth " + depth + "…");
+  setStatus((mode === "play" || isTrapFree()) ? "engine thinking (depth " + depth + ")…" : "analyzing depth " + depth + "…");
 }
 
 function maybeAnalyze(){
@@ -676,7 +698,7 @@ function startPlay(){
   $("meta").innerHTML = "You (<strong>" + (playerColor === "w" ? "White" : "Black") + "</strong>) vs <strong>Stockfish 16</strong> (depth " + $("depth").value + ")";
   $("rawPgn").textContent = "";
   bestArrow = null; evalCp = null;
-  syncChatUi();
+  syncChatUi(); syncTrapUi();
   $("chatLog").innerHTML = "";
   if (chatMode) chatSay("SchachKenner", "You (" + (playerColor === "w" ? "White" : "Black") + ") vs Stockfish 16, depth " + $("depth").value + ". Type your move in the chat below (e.g. e4, Nf3, O-O, e2e4) — board clicks are off.");
   render();
@@ -686,16 +708,184 @@ function startPlay(){
     else setStatus(chatMode ? "your move — type it in the chat (e.g. e4, Nf3, e2e4)" : "your move — click a piece, then a target square");
   }).catch(e => setStatus("engine failed to load: " + e.message));
 }
+
+/* ---------- Hasenfuß: hidden-trap mode (🐰) ---------- */
+/* The bot secretly picks one trap from js/traps.js and plays its scripted
+   line. After each player move we test the bot's next scripted move on a
+   clone: if it is checkmate the trap springs (lost); if it is illegal or
+   it is the final scripted move but not mate, the trap is countered. */
+function trapBotColor(){ return trapState ? trapState.trap.botColor : (playerColor === "w" ? "b" : "w"); }
+function isTrapFree(){ return mode === "trap" && !!trapState && trapState.phase === "free"; }
+function trapPlayerPlies(){ return fullVerbose.filter(m => m.color === playerColor).length; }
+
+function syncTrapUi(){
+  const trap = mode === "trap";
+  $("trapWrap").style.display = trap ? "block" : "none";
+  $("colorRow").style.display = trap ? "none" : "";   // in Hasenfuß the color follows the trap
+  syncChatUi();
+  updateTrapBanner();
+}
+function trapMetaText(){
+  if (!trapState) return "🐰 <strong>Hasenfuß</strong> — hidden-trap mode";
+  const you = playerColor === "w" ? "White" : "Black";
+  const phaseTxt = { ambush: "trap hidden — find the refutation!", countered: "trap countered ✅ — keep playing or end (success)", lost: "checkmate 💀 — the trap sprang", won: "you mated the bot 🏆", free: "free play vs Stockfish", done: "ended successfully ✅" }[trapState.phase] || trapState.phase;
+  return "🐰 <strong>Hasenfuß</strong>: You (<strong>" + you + "</strong>) vs the bot — " + phaseTxt;
+}
+function updateTrapBanner(){
+  const b = $("trapBanner"); if (!b) return;
+  $("trapContinueBtn").style.display = "none";
+  $("trapEndBtn").style.display = "none";
+  const t = trapState;
+  if (!t){
+    b.innerHTML = "🐰 <strong>Hasenfuß</strong> — press ▶ <strong>Start</strong>: the bot secretly picks a beginner trap (Scholar's mate, Légal's mate, Fool's mate …). You don't know which — <strong>watch every move, find the refutation and counter it!</strong> Afterwards you can keep playing or end the match (success).";
+    return;
+  }
+  const you = playerColor === "w" ? "White" : "Black";
+  if (t.phase === "ambush"){
+    b.innerHTML = "🐰 <strong>Hasenfuß</strong> — you are <strong>" + you + "</strong> vs the bot. A trap is hidden in its play… <span style=\"color:var(--muted)\">(not revealed yet)</span>";
+  } else if (t.phase === "countered"){
+    b.innerHTML = "✅ <strong>Trap countered!</strong> It was <strong>" + esc(t.trap.name) + "</strong>.<br><span style=\"color:var(--muted)\">" + esc(t.trap.tip) + "</span>";
+    $("trapContinueBtn").style.display = "";
+    $("trapEndBtn").style.display = "";
+  } else if (t.phase === "lost"){
+    b.innerHTML = "💀 <strong>Checkmate — the trap sprang!</strong> It was <strong>" + esc(t.trap.name) + "</strong>.<br><span style=\"color:var(--muted)\">" + esc(t.trap.tip) + "</span><br>Press ▶ <strong>Start</strong> for a new trap.";
+  } else if (t.phase === "won"){
+    b.innerHTML = "🏆 You delivered checkmate yourself! The trap was <strong>" + esc(t.trap.name) + "</strong>.";
+  } else if (t.phase === "free"){
+    b.innerHTML = "✅ Trap countered (<strong>" + esc(t.trap.name) + "</strong>) — now a normal game vs <strong>Stockfish</strong> (depth " + esc($("depth").value) + ").";
+  } else if (t.phase === "done"){
+    b.innerHTML = "✅ Match ended successfully — the countered trap was <strong>" + esc(t.trap.name) + "</strong>. Press ▶ <strong>Start</strong> for a new trap.";
+  }
+}
+
+function startTrap(){
+  mode = "trap"; $("mode").value = "trap";
+  const list = (typeof SCHACHKENNER_TRAPS !== "undefined") ? SCHACHKENNER_TRAPS : [];
+  if (!list.length){ setStatus("trap library missing (js/traps.js failed to load)"); return; }
+  const trap = list[Math.floor(Math.random() * list.length)];
+  trapState = { trap: trap, botPly: 0, phase: "ambush" };
+  playerColor = trap.botColor === "w" ? "b" : "w";
+  $("color").value = playerColor;
+  flip = playerColor === "b";
+  startFen = null; sans = []; fullVerbose = []; ply = 0;
+  selected = null; legalTargets = [];
+  rebuild(0);
+  curGame = null;
+  $("rawPgn").textContent = "";
+  bestArrow = null; evalCp = null;
+  syncChatUi(); syncTrapUi();
+  render();
+  setStatus("🐰 Hasenfuß — the bot is setting its trap…");
+  if (!ch.isGameOver() && ch.turn() === trapBotColor()) setTimeout(botTrapMove, 750);
+  else setStatus("your move — the trap is hidden; find the refutation!");
+}
+
+function botTrapMove(){
+  if (mode !== "trap" || !trapState || trapState.phase !== "ambush") return;
+  if (ch.isGameOver() || ch.turn() !== trapBotColor()) return;
+  const t = trapState, trap = t.trap;
+  let san = null;
+  if (trap.reactive){
+    for (const m of ch.moves({ verbose: true })){          // punish: any immediate mate?
+      const s = new Chess(ch.fen());
+      try { s.move(m); } catch(e){ continue; }
+      if (s.isCheckmate()){ san = m.san; break; }
+    }
+    if (!san){
+      for (const f of (trap.fallback || [])){
+        const s = new Chess(ch.fen());
+        try { if (s.move(f)){ san = f; break; } } catch(e){}
+      }
+    }
+  } else if (t.botPly < trap.line.length){
+    san = trap.line[t.botPly];
+  }
+  if (!san){ trapCountered("the trap fizzled out"); return; }
+  let played = null;
+  try { played = ch.move(san); } catch(e){ played = null; }
+  if (!played){ trapCountered("you broke the trap line"); return; }
+  t.botPly++;
+  sans.push(played.san);
+  fullVerbose = ch.history({ verbose: true });
+  ply = sans.length;
+  render(); updateTrapBanner();
+  if (ch.isGameOver()){
+    if (ch.isCheckmate()){ trapState.phase = "lost"; setStatus("💀 checkmate — the trap sprang! (" + trap.name + ")"); }
+    updateTrapBanner(); render();
+    return;
+  }
+  setStatus("your move — the trap is still hidden…");
+}
+
+function evalTrap(){
+  const t = trapState; if (!t || t.phase !== "ambush") return;
+  if (ch.isGameOver()){
+    if (ch.isCheckmate()){ t.phase = "won"; setStatus("🏆 checkmate — you win!"); }
+    else setStatus("game over");
+    updateTrapBanner(); render();
+    return;
+  }
+  if (ch.turn() !== trapBotColor()) return;
+  const trap = t.trap;
+  if (trap.reactive){
+    const hasMate = ch.moves({ verbose: true }).some(m => {
+      const s = new Chess(ch.fen());
+      try { s.move(m); } catch(e){ return false; }
+      return s.isCheckmate();
+    });
+    if (!hasMate && trapPlayerPlies() >= (trap.survivePlies || 2)) trapCountered("you avoided the trap");
+    else { setStatus("bot thinking…"); setTimeout(botTrapMove, 750); }
+    return;
+  }
+  const next = trap.line[t.botPly];
+  const sim = new Chess(ch.fen());
+  let sm = null;
+  try { sm = next ? sim.move(next) : null; } catch(e){ sm = null; }
+  if (sm && sim.isCheckmate()){
+    setTimeout(botTrapMove, 750);                            // bot delivers the mate -> lost
+  } else if (!sm || t.botPly === trap.line.length - 1){
+    trapCountered(!sm ? "you broke the trap line" : "you refuted the final blow");
+  } else {
+    setStatus("bot thinking…");
+    setTimeout(botTrapMove, 750);
+  }
+}
+
+function trapCountered(how){
+  const t = trapState; if (!t) return;
+  t.phase = "countered";
+  setStatus("✅ trap countered (" + how + ") — " + t.trap.name + ". Keep playing or end the match (success).");
+  updateTrapBanner(); render();
+}
+$("trapContinueBtn").addEventListener("click", () => {
+  if (!trapState || trapState.phase !== "countered") return;
+  trapState.phase = "free";
+  updateTrapBanner(); render();
+  setStatus("continuing vs Stockfish… (first run downloads the ~40 MB neural net once)");
+  ensureEngine().then(() => {
+    if (!ch.isGameOver() && ch.turn() === engineColor()) engineGo();
+    else setStatus("your move — click a piece, then a target square");
+  }).catch(e => setStatus("engine failed to load: " + e.message));
+});
+$("trapEndBtn").addEventListener("click", () => {
+  if (!trapState || trapState.phase !== "countered") return;
+  trapState.phase = "done";
+  setStatus("✅ match ended successfully — countered trap: " + trapState.trap.name);
+  updateTrapBanner(); render();
+});
+
 $("startBtn").addEventListener("click", () => {
   const m = $("mode").value;
   if (m === "play") startPlay();
+  else if (m === "trap") startTrap();
   else if (m === "analyze"){ mode = "analyze"; setStatus("starting engine…"); ensureEngine().then(maybeAnalyze).catch(e => setStatus("engine failed to load: " + e.message)); }
   else setStatus("choose mode '🤖 Play vs engine' or '🔍 Analyze position' first");
 });
 $("mode").addEventListener("change", () => {
   mode = $("mode").value;
-  syncChatUi();
+  syncTrapUi();
   if (mode === "play") setStatus("pick color & strength, then press ▶ Start");
+  else if (mode === "trap") setStatus("🐰 Hasenfuß — press ▶ Start: the bot secretly picks a beginner trap; counter it!");
   else if (mode === "analyze") setStatus("press ▶ Start to analyze the current position");
   else setStatus("viewing");
 });
@@ -789,7 +979,7 @@ $("copyBtn").addEventListener("click", () => {
 if (window.innerWidth < 640) { const d = $("depth"); d.value = "8"; }
 const q = new URLSearchParams(location.search);
 render();   // show the board immediately, even before any game/source is loaded
-syncChatUi(); // hide the chat-mode checkbox until "Play vs engine" is selected
+syncTrapUi(); // hides the trap banner and the chat-mode checkbox until their mode is selected
 if (q.get("src")){
   loadSource(q.get("src"), parseInt(q.get("game") || "0", 10) || 0, q.get("src"));
 } else {

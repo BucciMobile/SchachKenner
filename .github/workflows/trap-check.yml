@@ -1,0 +1,39 @@
+name: trap-check
+
+# Validates the Hasenfuß trap library (docs/js/traps.js) used by the
+# "Hasenfuß" mode in docs/play.html: every scripted beginner trap is legal
+# and ends in checkmate against the expected beginner replies, every trap is
+# counterable under the page's runtime rule, and both docs/js/traps.js and
+# the inline module script of docs/play.html parse (node --check).
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install chess.js (validation only)
+        run: npm install --no-save --prefix "$RUNNER_TEMP/chessjs" chess.js@1.4.0
+      - name: Validate trap library
+        run: CHESSJS_PATH="$RUNNER_TEMP/chessjs/node_modules/chess.js" node scripts/validate-traps.mjs
+      - name: Parse-check traps.js and inline script of docs/play.html
+        run: |
+          node --check docs/js/traps.js
+          python3 - <<'EOF'
+          import re
+          s = open('docs/play.html', encoding='utf-8').read()
+          scripts = re.findall(r'<script type="module">(.*?)</script>', s, re.S)
+          assert scripts, 'no inline module script found'
+          open('/tmp/play-inline.mjs', 'w', encoding='utf-8').write(scripts[0])
+          EOF
+          node --check /tmp/play-inline.mjs
