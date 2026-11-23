@@ -1,0 +1,25 @@
+name: quote-check
+
+# Validates the daily-quote feature: the pool data/quotes/quotes.json must contain
+# only verified, public-domain quotes (authors died <= 1955, >= 2 sources each, no
+# excluded/controversial players - see licenses/quotes-public-domain.md), and the
+# daily-quote block in README.md must be in sync with the pool.
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate quote pool and README markers
+        run: python3 scripts/validate-quotes.py

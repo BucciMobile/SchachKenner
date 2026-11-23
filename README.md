@@ -29,6 +29,13 @@ proof in [`licenses/`](licenses/).
   </a>
 </p>
 
+<!-- daily-quote:start -->
+<blockquote style="max-width:680px;margin:1.2rem auto;padding:.6rem 0 .6rem 1.2rem;border-left:4px solid #b58863;">
+  <p style="margin:0;font-size:1.05rem;"><em>“You may learn much more from a game you lose than from a game you win.”</em></p>
+  <footer style="margin-top:.4rem;font-size:.85rem;opacity:.75;">— José Raúl Capablanca (1888–1942) · <cite>A Primer of Chess, 1935</cite></footer>
+</blockquote>
+<!-- daily-quote:end -->
+
 > 🆕 **New!** [**Interactive PGN explorer**](https://BucciMobile.github.io/SchachKenner/) — filter & search **all ≈20,000 hosted games at once** (date, Elo, opening/ECO, result, player) live in your browser 📱
 >
 > 🆕 **New!** [**Play & analyze in your browser**](https://BucciMobile.github.io/SchachKenner/play.html) — play vs **Stockfish 16 (WASM, fully client-side)** or analyze any position; with chat mode & 🐰 **Hasenfuß** trap mode 📱

@@ -23,6 +23,7 @@ License proofs (verbatim quotes, raw copies, SHA-256) are in `licenses/`.
 - Hosted daily puzzles (`data/pgn/puzzles/` 9,000 PGNs + `data/puzzles/` index, served by `docs/puzzles.html`): derived from the lichess puzzle export, **CC0 1.0** — `licenses/lichess-database-cc0.md`
 - Discord bot in `bot/`: **INTERNAL/proprietary — private beta repo only, never publish to the public repo**; npm deps permissive (MIT/BSD-2/Apache-2.0) — `licenses/discord-bot-deps.md`
 - Hosted books in `data/books/`: public domain (pre-1930), PD-Mark on archive.org — `licenses/books-public-domain.md`
+- Hidden daily quote pool in `data/quotes/quotes.json` (one verified public-domain quote per UTC day is rendered into the About page README): `licenses/quotes-public-domain.md`
 - Everything else is **link-only** to the original source.
 
 ## Contact / removal

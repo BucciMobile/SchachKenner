@@ -51,5 +51,6 @@ Permission evidence: [`licenses/`](../licenses/) — `lichess-database-cc0.md`,
 data/
 ├── README.md            ← this policy
 ├── pgn/<source>/        ← hosted PGN/CSV samples (explicit permission only, see licenses/)
+├── quotes/              ← hidden daily-quote pool (public domain only, ≥2 sources per quote; see licenses/quotes-public-domain.md)
 └── downloads/           ← git-ignored; filled locally by scripts/fetch-pgn.sh, never committed
 ```

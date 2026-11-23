@@ -17,7 +17,7 @@
 | **SchachKenner daily puzzles (hosted here)** | **9,000 curated puzzles** (3,000 each easy/medium/hard) as PGN + a page that serves **3 new puzzles every day at 00:00 UTC**, solvable in the browser, with a copyable PNG image (SchachKenner disclaimer burned in) for chats/Discord | Hosted in this repo, **CC0** | [puzzles.html](https://BucciMobile.github.io/SchachKenner/puzzles.html) · [data/pgn/puzzles/](../data/pgn/puzzles/) · [data/puzzles/index.json](../data/puzzles/index.json) |
 | lichess training | Unlimited rated puzzles + themed training (pins, forks, endgames, …) | Free | https://lichess.org/training |
 | chess.com daily puzzle | One puzzle per day + archive | Free | https://www.chess.com/puzzles |
-| ChessTempo | Large puzzle database with ratings | Free tier | https://www.chesstempo.com/chess-puzzles |
+| ChessTempo | Large puzzle database with ratings | Free tier | https://chesstempo.com/chess-tactics/ |
 | PD problem books (archive.org / Project Gutenberg, pre-1930: Healey, Hanshew, Brownson…) | Classic composed problems — diagrams, not machine-readable | Public domain | https://archive.org/search?query=chess+problems |
 | Newspaper / forum puzzle columns (TWIC, chess.com articles, r/chess …) | Positions are facts, but curated collections can be protected (EU database right) — therefore **link-only, never mirrored** | Link-only | see [licenses/link-only-sources.md](../licenses/link-only-sources.md) |
 | lichess puzzle storm / rush | Speed puzzle modes | Free | https://lichess.org/storm |
