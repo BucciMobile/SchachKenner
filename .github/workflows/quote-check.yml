@@ -4,6 +4,8 @@ name: quote-check
 # only verified, public-domain quotes (authors died <= 1955, >= 2 sources each, no
 # excluded/controversial players - see licenses/quotes-public-domain.md), and the
 # daily-quote block in README.md must be in sync with the pool.
+# The README quote block is refreshed per release: run `python3 scripts/update-quote.py`
+# in the release PR (no daily cron here — main is branch-protected).
 
 on:
   pull_request:

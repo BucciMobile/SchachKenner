@@ -8,7 +8,7 @@ English blockquote between the <!-- daily-quote:start --> / <!-- daily-quote:end
 markers in README.md.
 
 Usage:
-  python3 scripts/update-quote.py            # update README.md in place (used by .github/workflows/daily-quote.yml)
+  python3 scripts/update-quote.py            # update README.md in place (run per release; quote-check validates on every PR)
   python3 scripts/update-quote.py --check    # verify markers exist once and the rendered block matches a pool entry (CI)
   python3 scripts/update-quote.py --date 2026-11-23 --print   # render a specific day without writing
 """

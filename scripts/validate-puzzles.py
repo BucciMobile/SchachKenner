@@ -117,7 +117,8 @@ def main():
                 fail("selection rule produced invalid id")
     print("selection rule OK for 400 consecutive UTC days")
 
-    # the rotation rule must be identical in index.json, docs/puzzles.html and bot/src/puzzles.js
+    # the rotation rule must be identical in index.json and whichever page/module files exist in this repo
+    # (docs/puzzles.html in this public website repo, bot/src/puzzles.js in the separate bot repo)
     def read(rel):
         p = os.path.join(repo, rel)
         return open(p, encoding="utf-8").read() if os.path.exists(p) else None
@@ -134,7 +135,7 @@ def main():
                 fail(f"{rel}: LEVEL_OFFSET for {lv} missing/drifted")
         if "PUZZLE_WINDOW_DAYS = 7" not in src:
             fail(f"{rel}: PUZZLE_WINDOW_DAYS = 7 missing/drifted (7-day visibility window)")
-    print("rotation + 7-day window rules in sync across index.json / docs/puzzles.html / bot/src/puzzles.js")
+    print("rotation + 7-day window rules in sync across index.json and the page/module files present in this repo")
 
     manifest_path = os.path.join(pdir, "manifest.json")
     if os.path.exists(manifest_path):
