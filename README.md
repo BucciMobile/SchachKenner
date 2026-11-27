@@ -23,11 +23,7 @@ proof in [`licenses/`](licenses/).
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/CONTRIBUTING.md)
 [![link-check](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml/badge.svg)](https://github.com/BucciMobile/SchachKenner/actions/workflows/link-check.yml)
 
-> **Two separate projects:** this repo is the public **SchachKenner website & datasets** (CC0).
-> The Discord bot is its own **private** project (`BucciMobile/SchachKenner-Bot`, formerly
-> `SchachKenner-beta`) — its code is never published here
-> (guard: `.github/workflows/bot-stays-private.yml`).
-
+>
 <p align="center">
   <a href="https://ko-fi.com/buccigov/goal?g=0" target="_blank" rel="noopener" title="Support SchachKenner on Ko-fi">
     <img src="assets/img/ko-fi-button.png" width="240" alt="Support me on Ko-fi — Buy me a chess membership">
