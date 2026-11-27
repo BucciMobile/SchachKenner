@@ -13,8 +13,9 @@ Outputs (committed to the repo):
 
 Difficulty bands (lichess puzzle rating): easy < 1200, medium 1200-1700, hard > 1700.
 Selection is deterministic (fixed seed), so re-running on the same input reproduces
-the same dataset. Daily rotation rule (must match docs/puzzles.html and
-bot/src/puzzles.js):  ids[(utcDayIndex + levelOffset) % ids.length]  with
+the same dataset. Daily rotation rule (must match docs/puzzles.html in this repo;
+the bot project keeps its own copy of the rule in its separate private repo):
+ids[(utcDayIndex + levelOffset) % ids.length]  with
 utcDayIndex = floor(unixMillis / 86400000) and levelOffset easy=0, medium=1, hard=2.
 
 Usage:
@@ -236,7 +237,7 @@ def main():
             "rule": "ids[(utcDayIndex + levelOffset) % ids.length]",
             "utcDayIndex": "floor(Date.now() / 86400000)  // UTC day number",
             "levelOffset": LEVEL_OFFSET,
-            "note": "identical rule in docs/puzzles.html (client) and bot/src/puzzles.js (bot) — keep in sync",
+            "note": "identical rule in docs/puzzles.html (this repo) and in the bot project's own copy (separate private repo)",
         },
     }
     with open(os.path.join(puzzles_dir, "index.json"), "w", encoding="utf-8") as fh:

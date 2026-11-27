@@ -1,7 +1,8 @@
 name: bot-stays-private
 
-# GUARD: the Discord bot code lives ONLY in the PRIVATE repo
-# BucciMobile/SchachKenner-beta (bot/). It must NEVER appear in this public repo.
+# GUARD: the Discord bot code lives ONLY in the PRIVATE bot repo
+# (BucciMobile/SchachKenner-Bot — currently still named BucciMobile/SchachKenner-beta).
+# It must NEVER appear in this public repo.
 # This workflow fails any push/PR that adds:
 #   - anything under bot/
 #   - .env / .env.* files or files containing a DISCORD_TOKEN assignment
@@ -32,7 +33,7 @@ jobs:
           set -e
           echo "== checking tracked file paths =="
           if git ls-files | grep -E '^bot/|(^|/)\.env($|\.)'; then
-            echo "ERROR: bot/ or .env files are tracked in this PUBLIC repo. The bot lives only in BucciMobile/SchachKenner-beta (private)."
+            echo "ERROR: bot/ or .env files are tracked in this PUBLIC repo. The bot lives only in the private SchachKenner-Bot repo (formerly BucciMobile/SchachKenner-beta)."
             exit 1
           fi
           echo "== checking diff for secrets =="

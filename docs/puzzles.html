@@ -118,7 +118,7 @@ const RAW = q.get("raw") || "https://raw.githubusercontent.com/BucciMobile/Schac
 const PIECES = RAW + "assets/img/pieces/livius/";
 const WATERMARK = "♞ SchachKenner · GitHub";
 
-// --- daily rotation rule — MUST stay in sync with bot/src/puzzles.js and data/puzzles/index.json ---
+// --- daily rotation rule — MUST stay in sync with data/puzzles/index.json (the Discord bot project, a separate private repo, keeps its own copy of this rule) ---
 const LEVELS = ["easy", "medium", "hard"];
 const LABELS = { easy: "Easy", medium: "Medium", hard: "Hard" };
 const LEVEL_OFFSET = { easy: 0, medium: 1, hard: 2 };
@@ -127,7 +127,7 @@ const dayToStr = (d) => d.toISOString().slice(0, 10);
 const pickId = (index, level, day) => index.levels[level].ids[(day + LEVEL_OFFSET[level]) % index.levels[level].ids.length];
 
 // --- visibility window: only today + the previous 6 UTC days are viewable (future puzzles are NOT) ---
-// MUST stay in sync with bot/src/puzzles.js (PUZZLE_WINDOW_DAYS) — guarded by scripts/validate-puzzles.py
+// MUST stay identical to the bot project's own copy (PUZZLE_WINDOW_DAYS) — guarded by scripts/validate-puzzles.py
 const PUZZLE_WINDOW_DAYS = 7;
 const allowedRange = (today) => ({ min: today - (PUZZLE_WINDOW_DAYS - 1), max: today });
 const unlockedIds = (index, today) => {

@@ -2,9 +2,9 @@ name: puzzle-check
 
 # Validates the hosted daily-puzzle dataset (data/puzzles/ + data/pgn/puzzles/):
 # >= 2000 puzzles, >= 600 per difficulty level, every PGN parses and its solution
-# line is legal, the daily UTC rotation rule is in sync across index.json,
-# docs/puzzles.html and bot/src/puzzles.js, and the inline JS of docs/puzzles.html
-# parses (node --check).
+# line is legal, the daily UTC rotation rule in docs/puzzles.html is in sync with
+# index.json (the Discord bot project, a separate private repo, keeps its own copy
+# of the rule), and the inline JS of docs/puzzles.html parses (node --check).
 
 on:
   pull_request:
